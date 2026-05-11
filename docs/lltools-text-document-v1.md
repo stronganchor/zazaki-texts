@@ -8,12 +8,14 @@ Core fields:
 - `lesson_id`: stable text id used by LL Tools import/export.
 - `title`: display title for the content lesson.
 - `source_label`: label for the source-text column in reader view.
-- `translations`: language metadata keyed by language code, for example `tr` and `en`.
+- `translations`: language metadata keyed by language code, for example `tr`, `en`, and `de`.
 - `reading_units`: public reader rows. Each row has `source` and `translations`.
-- `source_lines`: staff linguist rows. Each row may have `display_rows`, `witnesses`, regular interlinear `tokens`, and `phrase_matches`.
-- `witnesses`: document-level source notes.
+- `source_lines`: public Interlinear rows for corpus-text posts. Each row may have `display_rows`, `witnesses`, regular interlinear `tokens`, and `phrase_matches`.
+- `witnesses`: document-level source notes used by the public Sources tab.
 
 `source_lines[].witnesses[].image_url` may be a relative path inside the text directory. The importer resolves relative paths, imports those images into WordPress media, and replaces them with attachment URLs in the site payload.
+
+Use `hidden_rows` on a `source_lines[]` row to suppress specific interlinear rows. LL Tools also hides empty POS rows and lemma rows that only duplicate the visible word/morph form.
 
 `tokens` follow the existing LL Tools interlinear token shape:
 

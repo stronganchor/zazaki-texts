@@ -11,6 +11,7 @@ The first imported text is Peter Lerch's `Kawge Nyerib u Sivani` story. Each tex
 - `texts/<collection>/<slug>/text.zazaki.md` - readable Zazaki text.
 - `texts/<collection>/<slug>/translation.en.md` - English free translation.
 - `texts/<collection>/<slug>/translation.tr.md` - Turkish free translation.
+- `texts/<collection>/<slug>/translation.de.md` - German free translation when an original German translation is available.
 - `texts/<collection>/<slug>/morphemes.tsv` - morpheme-level working interlinear data.
 - `texts/<collection>/<slug>/assets/` - source-witness images referenced by the payload.
 - `scripts/import_lltools_corpus_text.php` - imports one `text-document.json` into a local LL Tools WordPress site.

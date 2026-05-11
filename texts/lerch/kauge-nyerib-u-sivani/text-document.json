@@ -10,101 +10,436 @@
     },
     "en": {
       "label": "English"
+    },
+    "de": {
+      "label": "German"
     }
   },
   "metadata": {
     "source_author": "Peter Lerch",
-    "source_work": "Forschungen ?ber die Kurden und die iranischen Nordchald?er / Russian original Zazaki transcriptions",
+    "source_work": "Forschungen über die Kurden und die iranischen Nordchaldäer / Russian original Zazaki transcriptions",
     "story_title_lerch": "Kauγé Ńeríb u Sivā́ni.",
     "story_title_modern_zazaki": "Kawğê Nyêrib û Sivani",
     "working_status": "reviewed working edition; not final critical edition",
     "created_from": "Lerch feud review bundle in Language/Z/Dictionaries/Lerch",
     "exported_at": "2026-05-11",
-    "reader_unit": "paragraph"
+    "reader_unit": "sentence_or_short_section"
   },
   "summary": {
     "lines": 75,
     "source_lines": 75,
-    "reading_units": 8,
+    "reading_units": 40,
     "tokens": 796
   },
   "witnesses": [
     {
-      "label": "Russian original scan line crops",
-      "source": "Line-level crops from the Russian edition used in the local Lerch review UI."
+      "label": "Russian original edition",
+      "citation": "Lerch, Peter Ivanovich. Izsledovaniia ob iranskikh kurdakh i ikh predkakh, severnykh khaldeiakh. Vol. 1. St. Petersburg: Imperial Academy of Sciences, 1856. Story \"Nepriiiazn mezhdu Neribom i Sivanom,\" printed pp. 103-108.",
+      "pages": "Russian RGO viewer images 117-122; printed pp. 103-108.",
+      "note": "Primary scan witness for Lerch’s Zazaki transcription and Russian free translation.",
+      "urls": [
+        {
+          "label": "RGO viewer, story start",
+          "url": "https://elib.rgo.ru/safe-view/123456789/218398/1/MTAwMDAyMTBfTGVya2gsIFBldHIgSXZhbm92aWNoICgxODI3LTE4ODQpLiBJc3NsZWRvdmFuaXlhIG8ucGRm#117"
+        },
+        {
+          "label": "RGO page image, story start",
+          "url": "https://elib.rgo.ru/safe-view/123456789/218398/1/MTAwMDAyMTBfTGVya2gsIFBldHIgSXZhbm92aWNoICgxODI3LTE4ODQpLiBJc3NsZWRvdmFuaXlhIG8ucGRmLzExNg=="
+        }
+      ]
     },
     {
-      "label": "German reprint scan line crops",
-      "source": "Line-level crops from the German reprint used in the local Lerch review UI."
+      "label": "German edition / reprint scan",
+      "citation": "Lerch, Peter. Forschungen über die Kurden und die iranischen Nordchaldäer. Abth. 1. St. Petersburg: Kaiserliche Akademie der Wissenschaften, 1857. Story \"Die Feindseligkeiten zwischen Nerib und Sivän,\" pp. 109-115.",
+      "pages": "Internet Archive scan pages n108-n114; printed pp. 109-115.",
+      "note": "Used for the German free translation and as a second scan witness for the Zazaki transcription.",
+      "urls": [
+        {
+          "label": "Internet Archive, story start",
+          "url": "https://archive.org/details/bub_gb_WlGVYoEkr7sC/page/n108/mode/1up"
+        },
+        {
+          "label": "Internet Archive item",
+          "url": "https://archive.org/details/bub_gb_WlGVYoEkr7sC"
+        }
+      ]
     },
     {
-      "label": "Bing?l document transcription",
-      "source": "Used as a secondary witness for line alignment; the LL Tools payload stores it as BINGOL rows where available."
+      "label": "Bingöl University thesis transcription",
+      "citation": "Aslanoğulları, Mehmet. Lerch’in Zazaki Derlemelerinin Çevrimyazımı ve Türlerine Göre Sözcüklerin Tahlili. Master’s thesis, Bingöl Üniversitesi, 2014.",
+      "pages": "PDF pp. 50-55; thesis printed pp. 43-48; story heading \"Qewğê Nêrib û Siwonı.\"",
+      "note": "Secondary transcription witness used during alignment and review. The transcription text is cited here but is not reproduced in the Interlinear view.",
+      "urls": [
+        {
+          "label": "Bingöl repository PDF",
+          "url": "https://bnposta.bingol.edu.tr/bitstream/handle/20.500.12898/600/10053832.pdf?isAllowed=y&sequence=1"
+        },
+        {
+          "label": "YÖK thesis record",
+          "url": "https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=XSxuloAAz12quT5oHaDwnA&no=lqmlps2zRpavNQmdt0OGGQ"
+        }
+      ]
     }
   ],
   "reading_units": [
     {
-      "id": "p01",
-      "source": "Veri coan yaw lacêkû Nyêrbic şê Sivan, 'Horsigê dızdêyê, bani Mêla A'hmêdi Qafan akêrd, pûrti Mêla A'hmêdi Qafan gêrawt bêrû. Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd, tepişt va kê dızdê ra: tê qancaray. Dızdi va kê: êz Nyêribraya. Laci Mêla Ahmêdi va kê: tê Nyêribdê, qam Nyêribdêy. Dızdi va kê: êz Dêştêy 'Henzira. Laci Mêla A'hmêdi va kê: tê qam mehladi. Dızdi va kê: êz mehlay Şêynanda. Laci Mêla A'hmêdi va kê: tê qawi amêy malê mê bêni. Dızdi va kê: êz Nyêrbica amêya malê twê, dızdêy bikêra, bêra twê êz dyan, lakimkê êz ha bêna, zor bêna. Laci Mêla A'hmêdi wica serêy dızdi têra kêrd, habêrê êrşawûtê Nyêrib Xalêf ağayri va kê: we Xyeni nêbê, twê têdê kawğê kêrdini, tû 'Hyênici pyêrû kişti ardi êmani sêr. Xalêf ağay habêrê êrşawûtê Avdûlah ağay Kêlan va kê: mê Nyêribdê kawğê kêrd, lakimkê wexti xoêdê hadrê bê, twê mercûmi mê kişt, bızani kê: êz vist merdûmi twê yaw merdûmi xoê vera kişêna. Avdûlah ağay habêrê êrşawûtê Xalêf ağayri va kê: waxtê xoêdê hadrê bê, ez mêyştê eskêri xoê gêna, yêna awkay Şêlê ver, tızi wicara eskêri xoê bıgi, byê Cayt ver, ma kawğê bıki, nyavawkê tê serêy mê wêni, nyavawkê ez serêy twê wêna. Xalef ağay 'habêr erşawûtê Avdûlah ağayri va kê: eskêri mê hadraw, enkay êz amêya Dêyştêdê çizi warzê eskêri xoê bigi, byê awlkay Şêlê ver, ma kawğê biki. Enoê kawğê Tirkan nyû, enoê kawğê aşiranû, çi byê xoêri vyênê.",
+      "id": "u01",
+      "source": "Veri coan yaw lacêkû Nyêrbic şê Sivan, 'Horsigê dızdêyê, bani Mêla A'hmêdi Qafan akêrd, pûrti Mêla A'hmêdi Qafan gêrawt bêrû.",
       "translations": {
-        "tr": "Eskiden Nyêrib'den bir genç Sivan aşiretine, Horsig'e hırsızlığa gitti; Mela Ahmedi Qafon'un evini açtı ve Mela Ahmedi Qafon'un kürkünü aldı ve götürdü. Mela Ahmed'in oğlu Huseyin o hırsızı gördü, yakaladı ve hırsıza dedi ki: 'Sen nerelisin?' Hırsız dedi ki: 'Ben Nyêrib'denim.' Mela Ahmed'in oğlu dedi ki: 'Nyêrib'densin; hangi Nyêrib'densin?' Hırsız dedi ki: 'Ben Deştê Henzi'denim.' Mela Ahmed'in oğlu dedi ki: 'Hangi mahalledensin?' Hırsız dedi ki: 'Şeynan mahallesindeyim.' Mela Ahmed'in oğlu dedi ki: 'Niçin geldin benim evime?' Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim, hırsızlık etmek için. Sen beni burada yakaladın; fakat bil ki ben güçlüyüm.' Mela Ahmed'in oğlu hemen hırsızı öldürdü ve Nyêrib'e, Xalef Ağa'ya haber gönderdi, dedi ki: 'Hêni'ye gelme; sen orada kavga ettin; Hêni'de herkesi öldürüp emana getirdin.' Xalef Ağa, Kelanlı Avdulah Ağa'ya haber gönderip dedi ki: 'Nyêrib'le kavga ettim, fakat kendi vaktinde hazır ol; adamlarımdan birini öldürdün; bil ki ben, benim bir adamıma karşı senin yirmi adamını öldüreceğim.' Avdulah Ağa Xalef Ağa'ya haber gönderdi: 'Kendi vaktinde hazır ol; ben yarın ordumu götürüp Sele deresine geleceğim; sen de ordunu götürüp Dait tarafına gel; ya sen benim başımı kesinceye kadar ya da ben senin başını kesinceye kadar kavga edeceğiz.' Xalef Ağa Avdulah Ağa'ya haber gönderdi: 'Ordum hazır; Deştê'ye varır varmaz sen de kalk, ordunu götür ve Sele deresine gel; kavga edeceğiz.' Bu Türklerle bir savaş değil; bu bir aşiret kavgası; gelmeye bak.",
-        "en": "Once a young man from Nerib went to the Sivan tribe, to Horsig, to steal; he opened Mel'a Ahmed Qafan's house and took Mel'a Ahmed Qafan's fur coat and carried it off. Mel'a Ahmed's son Husein saw that thief, seized him, and said to the thief: 'Where are you from?' The thief said: 'I am from Nerib.' Mel'a Ahmed's son said: 'You are from Nerib; from which Nerib?' The thief said: 'I am from Destei Henzi.' Mel'a Ahmed's son said: 'From which mahalle are you?' The thief said that: 'I am from the Seinān mahalle.' Mel'a Ahmed's son said: 'Why did you come into my house?' The thief said: 'I am Neribian; I came into your house to steal. Since you caught me here, know that I am strong.' Mel'a Ahmed's son immediately killed the thief and sent a messenger to Nerib, to Xalef Agha, saying: 'Do not come to Hyeni; you fought there; you killed everyone in Hyeni and brought them under safe-conduct.' Xalef Agha sent a message to Avdulah Agha of Kelan, saying: 'I fought with Nerib, but be ready at your own time; you killed one of my men; know that I will kill twenty of yours for one of mine.' Avdulah Agha sent a message to Xalef Agha: 'Be ready at your own time; I will lead my army tomorrow and come to the stream Sele; you too bring your army and come toward Dait; we will fight until you cut off my head, or until I cut off yours.' Xalef Agha sent a message to Avdulah Agha: 'My army is ready; as soon as I come to Deste you too rise, lead your army, and come to the stream Sele; we will fight.' This is not a fight with Turks; this is a tribal feud; see that you come."
+        "tr": "Eskiden Nyêrib'den bir genç Sivan aşiretine, Horsig'e hırsızlığa gitti; Mela Ahmedi Qafon'un evini açtı ve Mela Ahmedi Qafon'un kürkünü aldı ve götürdü.",
+        "en": "Once a young man from Nerib went to the Sivan tribe, to Horsig, to steal; he opened Mel'a Ahmed Qafan's house and took Mel'a Ahmed Qafan's fur coat and carried it off.",
+        "de": "Einst ging ein junger Mann aus Nerib nach Horsig in Sivän, um zu stehlen, öffnete das Haus des Mel'a Ahmed Qafan, nahm dessen Pelz (und) ging damit davon (trug ihn davon)."
       }
     },
     {
-      "id": "p02",
-      "source": "Avdûlah ağay habêr êrşawûtê dawan va kê: çaw mêvindi, mêyştê awlkay Şêlê verdê kawğê maw, Nyêrbicanû. Dawan habêr êrşawûtê Avdûlah ağayri va kê: mevindê, çikas mali Nyêribi estû bıdê ma, ma pêynay dawani Nyêribi veşnêni. Avdûlah ağay habêr êrşawûtê dawani va kê: mêtêrsi, seri mıri, mal şımari. Dawan va kê: ma êmşoê nyêvindêni, ma vardêni, ma swêni awlkay Şêlê vêr, kawğê kêni, mêvindê, çizi byê. Sêbah Avdûlah ağa werişt bê êspar, eskêri xoê top kêrd, va kê eskêri xoêra: oğil, mêvindi, ma şyêri kawğê, mêtêrsi, Nyêrbici çani, kawğê aşiranû, sêrê mıri, mal şı-mari.",
+      "id": "u02",
+      "source": "Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd, tepişt va kê dızdê ra: tê qancaray. Dızdi va kê: êz Nyêribraya.",
       "translations": {
-        "tr": "Avdulah Ağa köylülere haber gönderdi: 'Kimse gecikmesin; yarın Sele deresinde Nyêriblilerle kavgamız var.' Köylüler haber gönderdi Avdulah Ağa'ya: 'Gecikme; Nyêrib'deki bütün malı bize ver, biz de Nyêrib köylerinin hepsini yakacağız.' Avdulah Ağa haber gönderdi köylülere: 'Korkmayın; başlar benim, mal sizin.' Köylüler dedi ki: 'Biz bu gece gecikmeyeceğiz; yola çıkıp Sele deresine kavga etmeye gideceğiz, sen de gecikme, gel.' Sabah Avdulah Ağa ata bindi, ordusunu topladı ve ordusuna dedi ki: 'Oğullar, gecikmeyin; kavgaya gidiyoruz. Korkmayın; Nyêribliler azdır; bu aşiret kavgası; başlar benim, mal sizin.'",
-        "en": "Avdulah Agha sent a message to the villagers: 'Let no one delay; tomorrow we have a fight at the stream Sele with the Nerib people.' The villagers sent a message to Avdulah Agha: 'Do not delay; give us all the property in Nerib, and we will burn all the Nerib villages.' Avdulah Agha sent a message to the villagers: 'Do not fear; the heads are mine, the property is yours.' The villagers said: 'We will not delay tonight; we will set out and go to the stream Sele to fight, so do not delay, and you come too.' In the morning Avdulah Agha mounted his horse, gathered his army and said to it: 'Sons, do not delay; we are going to battle. Do not fear; the Nerib people are few; this is a tribal feud; heads are mine, property yours.'"
+        "tr": "Mela Ahmed'in oğlu Huseyin o hırsızı gördü, yakaladı ve hırsıza dedi ki: 'Sen nerelisin?' Hırsız dedi ki: 'Ben Nyêrib'denim.",
+        "en": "Mel'a Ahmed's son Husein saw that thief, seized him, and said to the thief: 'Where are you from?' The thief said: 'I am from Nerib.",
+        "de": "Der Sohn Mel'a Ahmed’s, Husein bemerkte diesen Dieb, packte (ihn und) sagte (ihm): wo bist du her? Der Dieb sagte: ich bin aus Nerib."
       }
     },
     {
-      "id": "p03",
-      "source": "Dûmilbazi day pûroê, Avdûlah ağa kawt eskêri vêr, şê awlkay Şêlê vêr, eskêri Xalêf ağay nyamaw, erş kêrd, va kê eskêri xoêra: sêrê mıri, mal şımari, dawan vêşni. Eskêrê Avdûlah ağay şê dewi Xalêf ağay, gêrawti şêş dewi, vêşnay, ağêray, amêy kêyyê, Avdûlah ağa da mal eskêri xoê.",
+      "id": "u03",
+      "source": "Laci Mêla Ahmêdi va kê: tê Nyêribdê, qam Nyêribdêy. Dızdi va kê: êz Dêştêy 'Henzira.",
       "translations": {
-        "tr": "Davul vuruldu; Avdulah Ağa orduyu götürüp Sele deresine gitti, ama Xalef Ağa'nın ordusu gelmemişti; yürümeyi emretti ve ordusuna dedi ki: 'Başlar benim, mal sizin; köyleri yakın.' Avdulah Ağa'nın ordusu Xalef Ağa'nın köylerine gitti, altı köyü aldı, yaktı, geri dönüp eve geldi; Avdulah Ağa malı ordusuna verdi.",
-        "en": "The drum was struck; Avdulah Agha led the army and went to the stream Sele, but Xalef Agha's army had not come; he ordered movement and said to his army: 'The heads are mine, the property yours; burn the villages.' Avdulah Agha's army went to Xalef Agha's villages, took six villages, burned them, returned, and came home; Avdulah Agha gave the property to his army."
+        "tr": "Mela Ahmed'in oğlu dedi ki: 'Nyêrib'densin; hangi Nyêrib'densin?' Hırsız dedi ki: 'Ben Deştê Henzi'denim.",
+        "en": "Mel'a Ahmed's son said: 'You are from Nerib; from which Nerib?' The thief said: 'I am from Destei Henzi.",
+        "de": "Der Sohn Mel’a Ahmed’s sagte: du bist aus Nerib, aus welchem Nerib? Der Dieb sagte: ich bin aus Destei Henzi."
       }
     },
     {
-      "id": "p04",
-      "source": "Yaw aşmê mênd. Xalêf ağay habêrê êrşawûtê Avdûlah ağayri va kê: twê êhêndê eskêri mê kişt, twê şêş dawê mê vêşnay, taalan kêrdi, waxtê xoêdê hadrê bê, êz êna gêlankê yêna, qandawkê dewi twê mê di êz vêşnêna, taalan kêna hêta yaw şêwê, çoadûhi nyêvêrdana, hêminê sêrê bırmêna. Avdûlah ağay habêr êrşawûtê Xalêf ağayri va kê: day xoêdê rêhat vindê, êkê êna gêlankê êz amêya twêra yaw kêrga koêrê nyêvêrdanû. Xalêf ağay habêr êrşawûtê Avdûlah ağayri va kê: tê byê xoêri, vyênê. Avdûlah ağa werişt bê êspar, dûmilbazi da pûroê, eskêri xoê amê pyêsêr. Avdûlah ağa va kê eskêri xoêra: çoadûhi ma ha şwêni kawğê, mêtêrsi, êna gêlankê çêwi mêvêrdi, hêminê bıksi, sêrê mıri mal şımari. Eskêri va kê Avdûlah ağayra: pêki, êfêndim, Alah dani twê say bêdû, hêtakê pêynay ma nyêmêrû, twêri ti çinû. Avdûlah ağay va kê: afêrêm oğil.",
+      "id": "u04",
+      "source": "Laci Mêla A'hmêdi va kê: tê qam mehladi. Dızdi va kê: êz mehlay Şêynanda.",
       "translations": {
-        "tr": "Bir ay geçti. Xalef Ağa Avdulah Ağa'ya haber gönderdi dedi ki: 'Ordumdan bazılarını öldürdün, altı köyümü yaktın ve talan ettin; kendi vaktinde hazır ol; bu sefer ben geleceğim ve her nerede senin bir köyünü görürsem, geceye kadar yakıp talan edeceğim; çocuk bile bağışlamayacağım; herkesin başını keseceğim.' Avdulah Ağa Xalef Ağa'ya haber gönderdi: 'Olduğun yerde rahat dur; bu sefer sana gelirsem bir kör tavuğu bile bağışlamayacağım.' Xalef Ağa Avdulah Ağa'ya haber gönderdi: 'Gelmeye bak.' Avdulah Ağa ata bindi, davulu çaldırdı ve ordusu toplandı. Avdulah Ağa ordusuna dedi ki: 'Çocuklar, kavgaya gidiyoruz; korkmayın; bu sefer kimseyi bağışlamayın; herkesi öldürün; başlar benim, mal sizin.' Ordu Avdulah Ağa'ya dedi ki: 'Peki efendim, Allah canını korusun; biz ölmedikçe sana bir şey olmaz.' Avdulah Ağa dedi ki: 'Aferin, oğullar.'",
-        "en": "A month passed. Xalef Agha sent a message to Avdulah Agha saying: 'You killed some of my army, burned six of my villages, and plundered; be ready at your own time; this time I will come, and wherever I see one of your villages, I will burn and plunder until night; no child will I spare; I will cut off everyone's heads.' Avdulah Agha sent a message to Xalef Agha: 'Stay calmly where you are; if this time I come to you, I will not spare even one blind hen.' Xalef Agha sent a message to Avdulah Agha: 'See that you come.' Avdulah Agha mounted his horse, had the drum struck, and his army gathered. Avdulah Agha said to his army: 'Children, we are going to fight; do not fear; this time spare no one; kill everyone; the heads are mine, the property yours.' The army said to Avdulah Agha: 'Very well, my lord, may God preserve your life; as long as none of us dies, there is nothing for you to fear.' Avdulah Agha said: 'Thanks, sons.'"
+        "tr": "Mela Ahmed'in oğlu dedi ki: 'Hangi mahalledensin?' Hırsız dedi ki: 'Şeynan mahallesindeyim.",
+        "en": "Mel'a Ahmed's son said: 'From which mahalle are you?' The thief said that: 'I am from the Seinān mahalle.",
+        "de": "Der Sohn Mel'a Ahmed’s fragte: aus welchem Mahal? Der Dieb sagte: aus dem Mahal Seinän."
       }
     },
     {
-      "id": "p05",
-      "source": "Avdûlah ağay dûmilbazi day pûroê, eskêri xoê erş kêrd, şê dyari Mêlêkani, awnya kê eskêri Xalêf ağay tabûrê bêsta. Avdûlah ağay eskêri xoê erş kêrd va kê: sêri mıri mal şımari, mêtêrsi, şyêri bıksi hêminê. Eskêri Avdûlah ağay şê eskêri Xalêf ağay wêça amê bi Tawridyê, kawğê kêrd, eskêri Xalêf ağay rêma, êskêri Adûlah ağay pêyra kawt, bana dewi pyêrû taalan kêrdi, sûanêy Nyêrbican pyêrû kişti, pesi dine pyêrû ard.",
+      "id": "u05",
+      "source": "Laci Mêla A'hmêdi va kê: tê qawi amêy malê mê bêni. Dızdi va kê: êz Nyêrbica amêya malê twê, dızdêy bikêra.",
       "translations": {
-        "tr": "Avdulah Ağa davulu çaldırdı, ordusuna ilerlemeyi emretti ve Melekani bölgesine gitti ve Xalef Ağa'nın ordusunun fişek hazırladığını gördü. Avdulah Ağa ordusuna ilerlemeyi emretti: 'Başlar benim, mal sizin; korkmayın, gidip herkesi öldürün.' Avdulah Ağa'nın ordusu Xalef Ağa'nın ordusuna karşı gitti ve Tauridye'ye kadar gelip kavga etti; Xalef Ağa'nın ordusu kaçtı ve Avdulah Ağa'nın ordusu peşinden gitti, köy evlerinin hepsini talan etti, Nyêrib çobanlarının hepsini öldürdü ve bütün sürüleri götürdü.",
-        "en": "Avdulah Agha had the drum struck, ordered his army forward, and went into the Melekani district, and saw Xalef Agha's army preparing cartridges. Avdulah Agha ordered his army forward, saying: 'The heads are mine, property yours; do not fear, go and kill everyone.' Avdulah Agha's army went against Xalef Agha's army and came as far as Tauridye, where they fought; Xalef Agha's army fled, and the army of Avdulah Agha pursued, plundered all the village houses, killed all the Nerib shepherds, and carried off all the herds."
+        "tr": "Mela Ahmed'in oğlu dedi ki: 'Niçin geldin benim evime?' Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim, hırsızlık etmek için.",
+        "en": "Mel'a Ahmed's son said: 'Why did you come into my house?' The thief said: 'I am Neribian; I came into your house to steal.",
+        "de": "Mel'a Ahmed’s Sohn fragte: warum kamst du? warum bist du in meinem Hause? Der Dieb antwortete ich (Einwohner) von Nerib kam in dein Haus, um Diebstahl zu verüben."
       }
     },
     {
-      "id": "p06",
-      "source": "Mênd vist rod, Xalêf ağay şê kawt kêy Qotwesan, Haydêr ağara va: êz kawta bêhti twê, Avdûlah ağay Kêlan eskêri mê pyêrû kişt, dewi mê pyêrû veşnay, taalan kêrdi. Haydêr ağa va kê Xalêf ağayra: tê mêra vani sê, êz nêşyêna Sivandandê kawğê bikêra, Sivandi pêynay ma hêminê kişêni. Xalêf ağay va kê: êz kawta bêhti twê, byê mê bêrê kêy Avdûlah ağay, ma pya weşi kê, çikaskê kêyfi twê wazênû êz mal dana twê. Haydêr ağa werişt bê êspar, kawt Xalêf ağay ver, amêy şi Sivan, kawti kêy Avdûlah ağay.",
+      "id": "u06",
+      "source": "Bêra twê êz dyan, lakimkê êz ha bêna, zor bêna.",
       "translations": {
-        "tr": "Yirmi gün sonra Xalef Ağa Qotwesan'a, Hayder Ağa'ya gidip dedi ki: 'Senin himayene geldim; Kelanlı Avdulah Ağa bütün ordumu öldürdü, bütün köylerimi yaktı ve talan etti.' Hayder Ağa Xalef Ağa'ya dedi ki: 'Bana ne diyorsun? Sivanlılarla kavga edemem; Sivanlılar hepimizi öldürür.' Xalef Ağa dedi ki: 'Ben senin himayene geldim; benimle Avdulah Ağa'nın evine gel; bizi barıştır; her ne gönlün isterse sana mal vereceğim.' Hayder Ağa ata bindi, Xalef Ağa'yı yanına aldı, Sivan'a geldi ve Avdulah Ağa'nın evine girdi.",
-        "en": "After twenty days Xalef Agha went to Qotwesan, to Haider Agha, and said: 'I came under your protection; Avdulah Agha of Kelan killed my whole army, burned all my villages and plundered them.' Haider Agha said to Xalef Agha: 'What are you saying to me? I cannot fight with the Sivan people; the Sivan people would kill all of us.' Xalef Agha said: 'I came under your protection; come with me to Avdulah Agha's house; reconcile us; whatever your heart wants, I will give you property.' Haider Agha mounted his horse, took Xalef Agha along, came to Sivan, and went into Avdulah Agha's house."
+        "tr": "Sen beni burada yakaladın; fakat bil ki ben güçlüyüm.",
+        "en": "Since you caught me here, know that I am strong.",
+        "de": "Und wurde von dir hier getroffen, darum bin ich hier, (wisse aber,) dass ich stark bin."
       }
     },
     {
-      "id": "p07",
-      "source": "Haydêr ağa hiryê gêlankê şê lawna Avdûlah ağa lingêrû va kê: tê ağay ena gêlankê bıdi riday mê Xalêf ağay. Avdûlah ağa va kê Xaydêr ağara: ekê tê nyamêyni mê Xalêf ağayra yaw zirot vera nyêdani, êz ka pêynay dawani Nyêribi veşna, hêminê taalan ka, çimkê tê amêy mê Xalêf ağa kêrd baxşi twê. Haydêr ağay lawna Avdûla ağa serêrû şê Xalêf ağa ard, lawna Avdûlah ağa lingêrû, Avdûlah ağa lawna Xalêf ağa destrû, pya bê weşi, xalay day pyêra.",
+      "id": "u07",
+      "source": "Laci Mêla A'hmêdi wica serêy dızdi têra kêrd, habêrê êrşawûtê Nyêrib Xalêf ağayri va kê: we Xyeni nêbê, twê têdê kawğê kêrdini, tû 'Hyênici pyêrû kişti ardi êmani sêr.",
       "translations": {
-        "tr": "Hayder Ağa üç kez gidip Avdulah Ağa'nın ayaklarını öptü ve dedi ki: 'Ağa, bu sefer benim hatırım için Xalef Ağa'yı bağışla.' Avdulah Ağa dedi Hayder Ağa'ya: 'Sen gelmemiş olsaydın, Xalef Ağa'ya bir oğlan bile geri vermezdim; Nyêrib köylerinin hepsini yakar ve her şeyi talan ederdim; fakat sen geldiğin için Xalef Ağa'yı sana bağışladım.' Hayder Ağa Avdulah Ağa'yı başından öptü, gidip Xalef Ağa'yı getirdi ve Avdulah Ağa'nın ayaklarını öptü. Avdulah Ağa Xalef Ağa'nın elini öptü; barıştılar ve karşılıklı hilat verdiler.",
-        "en": "Haider Agha went three times and kissed Avdulah Agha's feet, saying: 'Agha, this time spare Xalef Agha for my sake.' Avdulah Agha said to Haider Agha: 'If you had not come, I would not have given Xalef Agha one boy back; I would have burned all the Nerib villages and plundered everything, but because you came, I grant Xalef Agha to you.' Haider Agha kissed Avdulah Agha on the head, went and brought Xalef Agha, and kissed Avdulah Agha's feet. Avdulah Agha kissed Xalef Agha's hand; they reconciled and exchanged robes of honor."
+        "tr": "Mela Ahmed'in oğlu hemen hırsızı öldürdü ve Nyêrib'e, Xalef Ağa'ya haber gönderdi, dedi ki: 'Hêni'ye gelme; sen orada kavga ettin; Hêni'de herkesi öldürüp emana getirdin.",
+        "en": "Mel'a Ahmed's son immediately killed the thief and sent a messenger to Nerib, to Xalef Agha, saying: 'Do not come to Hyeni; you fought there; you killed everyone in Hyeni and brought them under safe-conduct.",
+        "de": "Mel’a Ahmed's Sohn erschlug sogleich den Dieb, sandte einen Boten zu Xalef Agha und liess sagen: komme nicht nach Hyeni (?)."
       }
     },
     {
-      "id": "p08",
-      "source": "Xaydêr ağa werişt, xatır wayşt Avdûlah ağayra, Xalêf ağa gêrawt, şi kêyyê. Têrêk na.",
+      "id": "u08",
+      "source": "Xalêf ağay habêrê êrşawûtê Avdûlah ağay Kêlan va kê: mê Nyêribdê kawğê kêrd, lakimkê wexti xoêdê hadrê bê, twê mercûmi mê kişt, bızani kê: êz vist merdûmi twê yaw merdûmi xoê vera kişêna.",
       "translations": {
-        "tr": "Hayder Ağa ata bindi, Avdulah Ağa'dan izin istedi, Xalef Ağa'yı aldı ve eve gitti. Kan davası bitti.",
-        "en": "Haider Agha mounted, took leave of Avdulah Agha, took Xalef Agha and went home. The feud was over."
+        "tr": "Xalef Ağa, Kelanlı Avdulah Ağa'ya haber gönderip dedi ki: 'Nyêrib'le kavga ettim, fakat kendi vaktinde hazır ol; adamlarımdan birini öldürdün; bil ki ben, benim bir adamıma karşı senin yirmi adamını öldüreceğim.",
+        "en": "Xalef Agha sent a message to Avdulah Agha of Kelan, saying: 'I fought with Nerib, but be ready at your own time; you killed one of my men; know that I will kill twenty of yours for one of mine.",
+        "de": "Xalef Agha sandte einen Boten zu Avdül’ah Agha nach Kelan und liess sagen: ich habe mit (denen von) Nerib gekämpft (?), darum sei zu deiner Zeit bereit, du hast einen der Meinigen erschlagen, (so) wisse (denn), dass ich für einen der Meinigen zwanzig der Deinigen tödten werde."
+      }
+    },
+    {
+      "id": "u09",
+      "source": "Avdûlah ağay habêrê êrşawûtê Xalêf ağayri va kê: waxtê xoêdê hadrê bê, ez mêyştê eskêri xoê gêna, yêna awkay Şêlê ver, tızi wicara eskêri xoê bıgi, byê Cayt ver, ma kawğê bıki, nyavawkê tê serêy mê wêni, nyavawkê ez serêy twê wêna.",
+      "translations": {
+        "tr": "Avdulah Ağa Xalef Ağa'ya haber gönderdi: 'Kendi vaktinde hazır ol; ben yarın ordumu götürüp Sele deresine geleceğim; sen de ordunu götürüp Dait tarafına gel; ya sen benim başımı kesinceye kadar ya da ben senin başını kesinceye kadar kavga edeceğiz.",
+        "en": "Avdulah Agha sent a message to Xalef Agha: 'Be ready at your own time; I will lead my army tomorrow and come to the stream Sele; you too bring your army and come toward Dait; we will fight until you cut off my head, or until I cut off yours.",
+        "de": "Avdül’ah Agha sandte einen Boten zu Xalef Agha und liess sagen: sei deiner Zeit bereit, morgen führe ich mein Heer, komme zum Bache Sel’e, führe auch du dein Heer dorthin, komme gen Dait, wir werden uns lange schlagen, bis du mich oder ich dich getödtet habe."
+      }
+    },
+    {
+      "id": "u10",
+      "source": "Xalef ağay 'habêr erşawûtê Avdûlah ağayri va kê: eskêri mê hadraw, enkay êz amêya Dêyştêdê çizi warzê eskêri xoê bigi, byê awlkay Şêlê ver, ma kawğê biki.",
+      "translations": {
+        "tr": "Xalef Ağa Avdulah Ağa'ya haber gönderdi: 'Ordum hazır; Deştê'ye varır varmaz sen de kalk, ordunu götür ve Sele deresine gel; kavga edeceğiz.",
+        "en": "Xalef Agha sent a message to Avdulah Agha: 'My army is ready; as soon as I come to Deste you too rise, lead your army, and come to the stream Sele; we will fight.",
+        "de": "Xalef Agha sandte, einen Boten zu Avdül’ah Agha und liess sagen: mein Heer ist bereit, sobald ich nach Dait komme breche du auch auf, führe dein Heer (und) komme zum Bache Sel’e, wir wollen uns schlagen."
+      }
+    },
+    {
+      "id": "u11",
+      "source": "Enoê kawğê Tirkan nyû, enoê kawğê aşiranû, çi byê xoêri vyênê.",
+      "translations": {
+        "tr": "Bu Türklerle bir savaş değil; bu bir aşiret kavgası; gelmeye bak.",
+        "en": "This is not a fight with Turks; this is a tribal feud; see that you come.",
+        "de": "Dies wird kein Kampf zwischen Türken, sondern eine Stammesfehde sein, sieh zu, dass du kommst."
+      }
+    },
+    {
+      "id": "u12",
+      "source": "Avdûlah ağay habêr êrşawûtê dawan va kê: çaw mêvindi, mêyştê awlkay Şêlê verdê kawğê maw, Nyêrbicanû.",
+      "translations": {
+        "tr": "Avdulah Ağa köylülere haber gönderdi: 'Kimse gecikmesin; yarın Sele deresinde Nyêriblilerle kavgamız var.",
+        "en": "Avdulah Agha sent a message to the villagers: 'Let no one delay; tomorrow we have a fight at the stream Sele with the Nerib people.",
+        "de": "Avdül’ah Agha sandte Botschaft zu den Dorfbewohnern und liess sagen: dass Keiner säume, morgen haben wir einen Kampf bei dem Bache Sel'e mit denen von Nerib."
+      }
+    },
+    {
+      "id": "u13",
+      "source": "Dawan habêr êrşawûtê Avdûlah ağayri va kê: mevindê, çikas mali Nyêribi estû bıdê ma, ma pêynay dawani Nyêribi veşnêni.",
+      "translations": {
+        "tr": "Köylüler haber gönderdi Avdulah Ağa'ya: 'Gecikme; Nyêrib'deki bütün malı bize ver, biz de Nyêrib köylerinin hepsini yakacağız.",
+        "en": "The villagers sent a message to Avdulah Agha: 'Do not delay; give us all the property in Nerib, and we will burn all the Nerib villages.",
+        "de": "Die Dorfbewohner sandten einen Boten zu Avdül'ah Agha und liessen sagen: säume nicht, alles Eigenthum, welches es nur giebt in Nerib, überlasse du uns, wir wollen die Dörfer in Nerib niederbrennen."
+      }
+    },
+    {
+      "id": "u14",
+      "source": "Avdûlah ağay habêr êrşawûtê dawani va kê: mêtêrsi, seri mıri, mal şımari.",
+      "translations": {
+        "tr": "Avdulah Ağa haber gönderdi köylülere: 'Korkmayın; başlar benim, mal sizin.",
+        "en": "Avdulah Agha sent a message to the villagers: 'Do not fear; the heads are mine, the property is yours.",
+        "de": "Avdül’ah Agha sandte einen Boten zu den Dorfbewohnern und liess sagen: fürchtet nicht, die Köpfe (gehören) mir, das Eigenthum (gehört) euch."
+      }
+    },
+    {
+      "id": "u15",
+      "source": "Dawan va kê: ma êmşoê nyêvindêni, ma vardêni, ma swêni awlkay Şêlê vêr, kawğê kêni, mêvindê, çizi byê.",
+      "translations": {
+        "tr": "Köylüler dedi ki: 'Biz bu gece gecikmeyeceğiz; yola çıkıp Sele deresine kavga etmeye gideceğiz, sen de gecikme, gel.",
+        "en": "The villagers said: 'We will not delay tonight; we will set out and go to the stream Sele to fight, so do not delay, and you come too.",
+        "de": "Die Dorfbewohner sagten: diese Nacht werden wir nicht säumen, werden aufbrechen, werden zum Bache Sel'e kommen und uns schlagen, säume nicht, komme auch du."
+      }
+    },
+    {
+      "id": "u16",
+      "source": "Sêbah Avdûlah ağa werişt bê êspar, eskêri xoê top kêrd, va kê eskêri xoêra: oğil, mêvindi, ma şyêri kawğê.",
+      "translations": {
+        "tr": "Sabah Avdulah Ağa ata bindi, ordusunu topladı ve ordusuna dedi ki: 'Oğullar, gecikmeyin; kavgaya gidiyoruz.",
+        "en": "In the morning Avdulah Agha mounted his horse, gathered his army and said to it: 'Sons, do not delay; we are going to battle.",
+        "de": "Am Morgen sass Avdül'ah Agha auf, versammelte seine Schaar und sagte zu ihr: Söhne, zögert nicht, wir gehen zum Kampf."
+      }
+    },
+    {
+      "id": "u17",
+      "source": "Mêtêrsi, Nyêrbici çani, kawğê aşiranû, sêrê mıri, mal şı-mari.",
+      "translations": {
+        "tr": "Korkmayın; Nyêribliler azdır; bu aşiret kavgası; başlar benim, mal sizin.'",
+        "en": "Do not fear; the Nerib people are few; this is a tribal feud; heads are mine, property yours.'",
+        "de": "Fürchtet euch nicht, derer von Nerib sind wenige, es ist eine Stammesfehde, die Köpfe (gehören) mir, die Beute (gehört) euch."
+      }
+    },
+    {
+      "id": "u18",
+      "source": "Dûmilbazi day pûroê, Avdûlah ağa kawt eskêri vêr, şê awlkay Şêlê vêr, eskêri Xalêf ağay nyamaw, erş kêrd, va kê eskêri xoêra: sêrê mıri, mal şımari, dawan vêşni.",
+      "translations": {
+        "tr": "Davul vuruldu; Avdulah Ağa orduyu götürüp Sele deresine gitti, ama Xalef Ağa'nın ordusu gelmemişti; yürümeyi emretti ve ordusuna dedi ki: 'Başlar benim, mal sizin; köyleri yakın.",
+        "en": "The drum was struck; Avdulah Agha led the army and went to the stream Sele, but Xalef Agha's army had not come; he ordered movement and said to his army: 'The heads are mine, the property yours; burn the villages.",
+        "de": "Man schlug die Trommel (und) Avdül ah Agha führte sein Heer zum Bache Sel'e; Xalef Agha ’s Heer war (aber) nicht gekommen; (da) befahl er sich in Bewegung zu setzen und sagte zu seiner Schar: die Köpfe (gehören) mir, die Beute (gehört) euch, sengt die Dörfer."
+      }
+    },
+    {
+      "id": "u19",
+      "source": "Eskêrê Avdûlah ağay şê dewi Xalêf ağay, gêrawti şêş dewi, vêşnay, ağêray, amêy kêyyê, Avdûlah ağa da mal eskêri xoê.",
+      "translations": {
+        "tr": "Avdulah Ağa'nın ordusu Xalef Ağa'nın köylerine gitti, altı köyü aldı, yaktı, geri dönüp eve geldi; Avdulah Ağa malı ordusuna verdi.",
+        "en": "Avdulah Agha's army went to Xalef Agha's villages, took six villages, burned them, returned, and came home; Avdulah Agha gave the property to his army.",
+        "de": "Avdül’ah Agha’s Heer ging auf die Dörfer Xalef Agha’s, nahm sechs Dörfer, brannte sie nieder, zog sich zurück und kehrte heim."
+      }
+    },
+    {
+      "id": "u20",
+      "source": "Yaw aşmê mênd.",
+      "translations": {
+        "tr": "Bir ay geçti.",
+        "en": "A month passed.",
+        "de": "Avdül'ah Agha überliess die Beute seinem Heere."
+      }
+    },
+    {
+      "id": "u21",
+      "source": "Xalêf ağay habêrê êrşawûtê Avdûlah ağayri va kê: twê êhêndê eskêri mê kişt, twê şêş dawê mê vêşnay, taalan kêrdi, waxtê xoêdê hadrê bê, êz êna gêlankê yêna, qandawkê dewi twê mê di êz vêşnêna, taalan kêna hêta yaw şêwê, çoadûhi nyêvêrdana, hêminê sêrê bırmêna.",
+      "translations": {
+        "tr": "Xalef Ağa Avdulah Ağa'ya haber gönderdi dedi ki: 'Ordumdan bazılarını öldürdün, altı köyümü yaktın ve talan ettin; kendi vaktinde hazır ol; bu sefer ben geleceğim ve her nerede senin bir köyünü görürsem, geceye kadar yakıp talan edeceğim; çocuk bile bağışlamayacağım; herkesin başını keseceğim.",
+        "en": "Xalef Agha sent a message to Avdulah Agha saying: 'You killed some of my army, burned six of my villages, and plundered; be ready at your own time; this time I will come, and wherever I see one of your villages, I will burn and plunder until night; no child will I spare; I will cut off everyone's heads.",
+        "de": "Es verging ein Monat."
+      }
+    },
+    {
+      "id": "u22",
+      "source": "Avdûlah ağay habêr êrşawûtê Xalêf ağayri va kê: day xoêdê rêhat vindê, êkê êna gêlankê êz amêya twêra yaw kêrga koêrê nyêvêrdanû.",
+      "translations": {
+        "tr": "Avdulah Ağa Xalef Ağa'ya haber gönderdi: 'Olduğun yerde rahat dur; bu sefer sana gelirsem bir kör tavuğu bile bağışlamayacağım.",
+        "en": "Avdulah Agha sent a message to Xalef Agha: 'Stay calmly where you are; if this time I come to you, I will not spare even one blind hen.",
+        "de": "Xalef Agha sandte einen Boten zu Avdül’ah Agha und liess sagen: du hast Einige aus meinem Heere getödtet, du hast sechs meiner Dörfer niedergebrannt (und) geplündert, sei deiner Zeit bereit, dieses Mal komme ich, auf welche deiner Dörfer ich auch nur stosse, ich brenne sie nieder und plündere sie bis in die Nacht hinein, verschone kein Kind, reisse Allen die Köpfe Avdül ah Agha sandte einen Boten zu Xalef Agha nnd liess sagen: bleibe nur wo du bist, wenn ich dieses Mal komme, verschone ich bei dir kein blindes Huhn."
+      }
+    },
+    {
+      "id": "u23",
+      "source": "Xalêf ağay habêr êrşawûtê Avdûlah ağayri va kê: tê byê xoêri, vyênê.",
+      "translations": {
+        "tr": "Xalef Ağa Avdulah Ağa'ya haber gönderdi: 'Gelmeye bak.",
+        "en": "Xalef Agha sent a message to Avdulah Agha: 'See that you come.",
+        "de": "Xalef Agha sandte einen Boten zu Avdu lall Agha und liess sagen: sieh zu, dass du kommst."
+      }
+    },
+    {
+      "id": "u24",
+      "source": "Avdûlah ağa werişt bê êspar, dûmilbazi da pûroê, eskêri xoê amê pyêsêr.",
+      "translations": {
+        "tr": "Avdulah Ağa ata bindi, davulu çaldırdı ve ordusu toplandı.",
+        "en": "Avdulah Agha mounted his horse, had the drum struck, and his army gathered.",
+        "de": "Avdül'ah Agha sass auf, liess die Trommel schlagen, zog sein Heer zusammen."
+      }
+    },
+    {
+      "id": "u25",
+      "source": "Avdûlah ağa va kê eskêri xoêra: çoadûhi ma ha şwêni kawğê, mêtêrsi, êna gêlankê çêwi mêvêrdi, hêminê bıksi, sêrê mıri mal şımari.",
+      "translations": {
+        "tr": "Avdulah Ağa ordusuna dedi ki: 'Çocuklar, kavgaya gidiyoruz; korkmayın; bu sefer kimseyi bağışlamayın; herkesi öldürün; başlar benim, mal sizin.",
+        "en": "Avdulah Agha said to his army: 'Children, we are going to fight; do not fear; this time spare no one; kill everyone; the heads are mine, the property yours.",
+        "de": "Er sagte zu demselben: wir gehen uns mit Kindern schlagen, fürchtet euch nicht, dieses Mal schonet Niemand, tödtet Alle, die Köpfe (gehören) mir, die Beute (gehört) euch."
+      }
+    },
+    {
+      "id": "u26",
+      "source": "Eskêri va kê Avdûlah ağayra: pêki, êfêndim, Alah dani twê say bêdû, hêtakê pêynay ma nyêmêrû, twêri ti çinû.",
+      "translations": {
+        "tr": "Ordu Avdulah Ağa'ya dedi ki: 'Peki efendim, Allah canını korusun; biz ölmedikçe sana bir şey olmaz.",
+        "en": "The army said to Avdulah Agha: 'Very well, my lord, may God preserve your life; as long as none of us dies, there is nothing for you to fear.",
+        "de": "Das Heer sagte dem Avdül’ah Agha: wohl Gebieter, möge Gott deine Seele bewahren! lange wir nicht sterben, hast du nichts zu fürchten (ist dir nichts)."
+      }
+    },
+    {
+      "id": "u27",
+      "source": "Avdûlah ağay va kê: afêrêm oğil.",
+      "translations": {
+        "tr": "Avdulah Ağa dedi ki: 'Aferin, oğullar.'",
+        "en": "Avdulah Agha said: 'Thanks, sons.'",
+        "de": "Avdül’ah Agha sagte: danke, Kinder! Avdül’ah Agha liess die Trommel rühren, befahl seinem Heere vorzuschreiten, zog in’s Gebiet von Melekan und sah, dass Xalef Agha’s Heer die Patronen zusammentrug."
+      }
+    },
+    {
+      "id": "u28",
+      "source": "Avdûlah ağay dûmilbazi day pûroê, eskêri xoê erş kêrd, şê dyari Mêlêkani, awnya kê eskêri Xalêf ağay tabûrê bêsta.",
+      "translations": {
+        "tr": "Avdulah Ağa davulu çaldırdı, ordusuna ilerlemeyi emretti ve Melekani bölgesine gitti ve Xalef Ağa'nın ordusunun fişek hazırladığını gördü.",
+        "en": "Avdulah Agha had the drum struck, ordered his army forward, and went into the Melekani district, and saw Xalef Agha's army preparing cartridges.",
+        "de": "Avdül’ah Agha liess sein Heer vorschreiten und sagte: die Köpfe (gehören) mir, die Beute (gehört) euch, geht und tödtet Alle."
+      }
+    },
+    {
+      "id": "u29",
+      "source": "Avdûlah ağay eskêri xoê erş kêrd va kê: sêri mıri mal şımari, mêtêrsi, şyêri bıksi hêminê.",
+      "translations": {
+        "tr": "Avdulah Ağa ordusuna ilerlemeyi emretti: 'Başlar benim, mal sizin; korkmayın, gidip herkesi öldürün.",
+        "en": "Avdulah Agha ordered his army forward, saying: 'The heads are mine, property yours; do not fear, go and kill everyone.",
+        "de": "Das Heer Avdül’ah Agha’s ging gegen Xalef Agha's Heer, kam bis Tauridye und schlug sich; Xalef Agha’s Heer floh, das von Avdül’ah Agha verfolgte es, plünderte sämmtliche Häuser in den Dörfern, tödtete alle Hirten von Nerib (und) führte alle Heerden weg."
+      }
+    },
+    {
+      "id": "u30",
+      "source": "Eskêri Avdûlah ağay şê eskêri Xalêf ağay wêça amê bi Tawridyê, kawğê kêrd, eskêri Xalêf ağay rêma, êskêri Adûlah ağay pêyra kawt, bana dewi pyêrû taalan kêrdi, sûanêy Nyêrbican pyêrû kişti, pesi dine pyêrû ard.",
+      "translations": {
+        "tr": "Avdulah Ağa'nın ordusu Xalef Ağa'nın ordusuna karşı gitti ve Tauridye'ye kadar gelip kavga etti; Xalef Ağa'nın ordusu kaçtı ve Avdulah Ağa'nın ordusu peşinden gitti, köy evlerinin hepsini talan etti, Nyêrib çobanlarının hepsini öldürdü ve bütün sürüleri götürdü.",
+        "en": "Avdulah Agha's army went against Xalef Agha's army and came as far as Tauridye, where they fought; Xalef Agha's army fled, and the army of Avdulah Agha pursued, plundered all the village houses, killed all the Nerib shepherds, and carried off all the herds.",
+        "de": "Es verstrichen zwanzig Tage, da zog Xalef Agha gen Qotwesan zu H'aider Agha und sagte ihm: ich begebe mich unter deinen Schutz, Avdül ah Agha Kelan hat mein ganzes Heer getödtet, hat alle meine Dörfer niedergebrannt (und) geplündert."
+      }
+    },
+    {
+      "id": "u31",
+      "source": "Mênd vist rod, Xalêf ağay şê kawt kêy Qotwesan, Haydêr ağara va: êz kawta bêhti twê, Avdûlah ağay Kêlan eskêri mê pyêrû kişt, dewi mê pyêrû veşnay, taalan kêrdi.",
+      "translations": {
+        "tr": "Yirmi gün sonra Xalef Ağa Qotwesan'a, Hayder Ağa'ya gidip dedi ki: 'Senin himayene geldim; Kelanlı Avdulah Ağa bütün ordumu öldürdü, bütün köylerimi yaktı ve talan etti.",
+        "en": "After twenty days Xalef Agha went to Qotwesan, to Haider Agha, and said: 'I came under your protection; Avdulah Agha of Kelan killed my whole army, burned all my villages and plundered them.",
+        "de": "Haider Agha sagte zu Xalef Agha: was sagst du mir?"
+      }
+    },
+    {
+      "id": "u32",
+      "source": "Haydêr ağa va kê Xalêf ağayra: tê mêra vani sê, êz nêşyêna Sivandandê kawğê bikêra, Sivandi pêynay ma hêminê kişêni.",
+      "translations": {
+        "tr": "Hayder Ağa Xalef Ağa'ya dedi ki: 'Bana ne diyorsun? Sivanlılarla kavga edemem; Sivanlılar hepimizi öldürür.",
+        "en": "Haider Agha said to Xalef Agha: 'What are you saying to me? I cannot fight with the Sivan people; the Sivan people would kill all of us.",
+        "de": "ich gehe nicht mit denen von Sivän mich schlagen, sie tödten uns Alle."
+      }
+    },
+    {
+      "id": "u33",
+      "source": "Xalêf ağay va kê: êz kawta bêhti twê, byê mê bêrê kêy Avdûlah ağay, ma pya weşi kê, çikaskê kêyfi twê wazênû êz mal dana twê.",
+      "translations": {
+        "tr": "Xalef Ağa dedi ki: 'Ben senin himayene geldim; benimle Avdulah Ağa'nın evine gel; bizi barıştır; her ne gönlün isterse sana mal vereceğim.",
+        "en": "Xalef Agha said: 'I came under your protection; come with me to Avdulah Agha's house; reconcile us; whatever your heart wants, I will give you property.",
+        "de": "Xalef Agha sagte: ich begab mich unter deinen Schutz, komme mit mir in’s Haus Avdül ah Agha's, versöhne uns, was du nur begehren magst an Gütern, will ich dir geben."
+      }
+    },
+    {
+      "id": "u34",
+      "source": "Haydêr ağa werişt bê êspar, kawt Xalêf ağay ver, amêy şi Sivan, kawti kêy Avdûlah ağay.",
+      "translations": {
+        "tr": "Hayder Ağa ata bindi, Xalef Ağa'yı yanına aldı, Sivan'a geldi ve Avdulah Ağa'nın evine girdi.",
+        "en": "Haider Agha mounted his horse, took Xalef Agha along, came to Sivan, and went into Avdulah Agha's house.",
+        "de": "Haider Agha sass auf, nahm Xalef Agha mit, kam nach Sivän und ging in s Haus des Avdül’ah Agha."
+      }
+    },
+    {
+      "id": "u35",
+      "source": "Haydêr ağa hiryê gêlankê şê lawna Avdûlah ağa lingêrû va kê: tê ağay ena gêlankê bıdi riday mê Xalêf ağay.",
+      "translations": {
+        "tr": "Hayder Ağa üç kez gidip Avdulah Ağa'nın ayaklarını öptü ve dedi ki: 'Ağa, bu sefer benim hatırım için Xalef Ağa'yı bağışla.",
+        "en": "Haider Agha went three times and kissed Avdulah Agha's feet, saying: 'Agha, this time spare Xalef Agha for my sake.",
+        "de": "Drei Mal küsste er dem Avdül ah Agha die Füsse (und) sagte: Agha, verschone um meinetwegen den Xalef Agha."
+      }
+    },
+    {
+      "id": "u36",
+      "source": "Avdûlah ağa va kê Xaydêr ağara: ekê tê nyamêyni mê Xalêf ağayra yaw zirot vera nyêdani, êz ka pêynay dawani Nyêribi veşna, hêminê taalan ka, çimkê tê amêy mê Xalêf ağa kêrd baxşi twê.",
+      "translations": {
+        "tr": "Avdulah Ağa dedi Hayder Ağa'ya: 'Sen gelmemiş olsaydın, Xalef Ağa'ya bir oğlan bile geri vermezdim; Nyêrib köylerinin hepsini yakar ve her şeyi talan ederdim; fakat sen geldiğin için Xalef Ağa'yı sana bağışladım.",
+        "en": "Avdulah Agha said to Haider Agha: 'If you had not come, I would not have given Xalef Agha one boy back; I would have burned all the Nerib villages and plundered everything, but because you came, I grant Xalef Agha to you.",
+        "de": "Avdülah Agha antwortete dem H'aidür Agha: wärest du nicht gekommen, hätte ich dem Xalef Agha nicht einen Buben zurückgegeben, ich hätte seine Dörfer niedergebrannt, alle geplündert, (doch) da du gekommen bist, schenke ich dir den Xalef Agha."
+      }
+    },
+    {
+      "id": "u37",
+      "source": "Haydêr ağay lawna Avdûla ağa serêrû şê Xalêf ağa ard, lawna Avdûlah ağa lingêrû.",
+      "translations": {
+        "tr": "Hayder Ağa Avdulah Ağa'yı başından öptü, gidip Xalef Ağa'yı getirdi ve Avdulah Ağa'nın ayaklarını öptü.",
+        "en": "Haider Agha kissed Avdulah Agha on the head, went and brought Xalef Agha, and kissed Avdulah Agha's feet.",
+        "de": "Haidör Agha küsste den Avdül’ah Agha auf den Kopf, ging (und) brachte den Xalef Agha herein; dieser küsste dem Avdülah Agha die Füsse."
+      }
+    },
+    {
+      "id": "u38",
+      "source": "Avdûlah ağa lawna Xalêf ağa destrû, pya bê weşi, xalay day pyêra.",
+      "translations": {
+        "tr": "Avdulah Ağa Xalef Ağa'nın elini öptü; barıştılar ve karşılıklı hilat verdiler.",
+        "en": "Avdulah Agha kissed Xalef Agha's hand; they reconciled and exchanged robes of honor.",
+        "de": "Avdülah Agha küsste ihm die Hand, darauf versöhnten sie sich (und) tauschten gegen einander Chalate aus."
+      }
+    },
+    {
+      "id": "u39",
+      "source": "Xaydêr ağa werişt, xatır wayşt Avdûlah ağayra, Xalêf ağa gêrawt, şi kêyyê.",
+      "translations": {
+        "tr": "Hayder Ağa ata bindi, Avdulah Ağa'dan izin istedi, Xalef Ağa'yı aldı ve eve gitti.",
+        "en": "Haider Agha mounted, took leave of Avdulah Agha, took Xalef Agha and went home.",
+        "de": "Haider Agha sass auf, verabschiedete sich von Avdül’ah Agha, nahm den Xalef Agha mit (und) zog nach Hause."
+      }
+    },
+    {
+      "id": "u40",
+      "source": "Têrêk na.",
+      "translations": {
+        "tr": "Kan davası bitti.",
+        "en": "The feud was over.",
+        "de": "Es war keine Fehde mehr."
       }
     }
   ],
@@ -116,7 +451,6 @@
       "lerch": "Kauγé Ńeríb u Sivā́ni.",
       "ipa": "kawˈʁe ɲeˈrib u siˈvaːni",
       "zazaki": "Kawğê Nyêrib û Sivani",
-      "bingol": "Qewğê Nêrib û Siwonı",
       "source_note": "Russian title: Неприязнь между Нѣрибомъ и Сиваномъ. German title: Die Feindseligkeiten zwischen Nerib und Sivän.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -132,10 +466,6 @@
         {
           "label": "ZAZAKI",
           "value": "Kawğê Nyêrib û Sivani"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Qewğê Nêrib û Siwonı"
         },
         {
           "label": "ENGLISH",
@@ -252,7 +582,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s01_l02",
@@ -261,7 +594,6 @@
       "lerch": "Vé̱ri d̮ṓan yau lā́d̮eku Ńerbíd̮ šẹ̄ Sivā́ṅ, Hʿōrsíge di̥zdeie, bā́ni",
       "ipa": "ˈvɛri ˈd͡ʒoːan jaw ˈlaːd͡ʒeku ɲerˈbid͡ʒ ʃe̝ː siˈvaːŋ ħoːrˈsige dɨzdeje ˈbaːni",
       "zazaki": "Veri coan yaw lacêkû Nyêrbic şê Sivang 'Horsigê dızdêyê bani",
-      "bingol": "Vêri cayon yew lacekı Nêribıj şı Siwon, Horsıgi, dızdey boni",
       "source_note": "Russian and German both translate this as a young man from Nerib going to Sivan/Horsig to steal. Russian explicitly says 'to the Sivan tribe'.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -277,10 +609,6 @@
         {
           "label": "ZAZAKI",
           "value": "Veri coan yaw lacêkû Nyêrbic şê Sivang 'Horsigê dızdêyê bani"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Vêri cayon yew lacekı Nêribıj şı Siwon, Horsıgi, dızdey boni"
         },
         {
           "label": "ENGLISH",
@@ -617,6 +945,9 @@
           "gloss_de": "nach H'irsig ... um zu stehlen",
           "source": "Russian: въ Хорсигъ, поворовать; German: nach H'irsig ... um zu stehlen."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -626,7 +957,6 @@
       "lerch": "Mél’a Ah̔médi Qafán ākérd, púrti Mél’a Ah̔médi Qafán geraút",
       "ipa": "ˈmela aħˈmedi qaˈfan aːˈkerd ˈpurti ˈmela aħˈmedi qaˈfan geˈrawt",
       "zazaki": "Mêla A'hmêdi Qafan akêrd pûrti Mêla A'hmêdi Qafan gêrawt",
-      "bingol": "Mela Ehmedi Qafon akerd, purti Mela Ehmedi Qafon gerewt",
       "source_note": "Russian шубу and German Pelz support 'fur coat', not plain wool.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -642,10 +972,6 @@
         {
           "label": "ZAZAKI",
           "value": "Mêla A'hmêdi Qafan akêrd pûrti Mêla A'hmêdi Qafan gêrawt"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Mela Ehmedi Qafon akerd, purti Mela Ehmedi Qafon gerewt"
         },
         {
           "label": "ENGLISH",
@@ -877,7 +1203,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s01_l04",
@@ -886,7 +1215,6 @@
       "lerch": "bér’u. Lā́d̮i Mél’a Ah̔médi Hʿuseíni d̮i é̱n’oe di̥zd, te̱píšt vā ke",
       "ipa": "ˈberu ˈlaːd͡ʒi ˈmela aħˈmedi ħuˈsejni di ˈɛnoe dɨzd tɛˈpiʃt vaː ke",
       "zazaki": "bêrû Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd tepişt va kê",
-      "bingol": "beru. Laci Mela Ehmedi Huseyni di enû dızd, tepışt, va ki",
       "source_note": "Russian: the son of Mela Ahmed, Husein, saw the thief, seized him, and spoke.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -902,10 +1230,6 @@
         {
           "label": "ZAZAKI",
           "value": "bêrû Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd tepişt va kê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "beru. Laci Mela Ehmedi Huseyni di enû dızd, tepışt, va ki"
         },
         {
           "label": "ENGLISH",
@@ -1194,7 +1518,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s01_l05",
@@ -1203,7 +1530,6 @@
       "lerch": "di̥zdera: te qāṅd̮arai. Di̥zdi vā ke: ez Ńeríbraya. Lā́d̮i Mél’a Ah-",
       "ipa": "dɨzdera te qaːŋd͡ʒaraj dɨzdi vaː ke ez ɲeˈribraja ˈlaːd͡ʒi ˈmela ah",
       "zazaki": "dızdê ra tê qangcaray Dızdi va kê êz Nyêribraya Laci Mêla Ah",
-      "bingol": "dızdi ra: \"Tı kancaray?\" Dızdi va ki: \"Ez Nêrib ra ya.\" Laci Mela",
       "source_note": "Russian wording is literally 'What kind are you?' and answers 'I am Neribian'; German renders 'where are you from?'.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -1219,10 +1545,6 @@
         {
           "label": "ZAZAKI",
           "value": "dızdê ra tê qangcaray Dızdi va kê êz Nyêribraya Laci Mêla Ah"
-        },
-        {
-          "label": "BINGOL",
-          "value": "dızdi ra: \"Tı kancaray?\" Dızdi va ki: \"Ez Nêrib ra ya.\" Laci Mela"
         },
         {
           "label": "ENGLISH",
@@ -1522,7 +1844,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s01_l06",
@@ -1531,7 +1856,6 @@
       "lerch": "médi vā ke: te Ńeríbde, qām Ńeríbdei. Di̥zdi vā ke: ez Déštei",
       "ipa": "ˈmedi vaː ke te ɲeˈribde qaːm ɲeˈribdej dɨzdi vaː ke ez ˈdeʃtej",
       "zazaki": "mêdi va kê tê Nyêribdê qam Nyêribdêy Dızdi va kê êz Dêştêy",
-      "bingol": "Ehmedi va ki: \"Ti Nêrib dı, kom Nêrib dê? Dızdi va ki: \"Ez Deştê",
       "source_note": "Both source translations clarify the repeated Nerib question as 'which Nerib?'.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -1547,10 +1871,6 @@
         {
           "label": "ZAZAKI",
           "value": "mêdi va kê tê Nyêribdê qam Nyêribdêy Dızdi va kê êz Dêştêy"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Ehmedi va ki: \"Ti Nêrib dı, kom Nêrib dê? Dızdi va ki: \"Ez Deştê"
         },
         {
           "label": "ENGLISH",
@@ -1862,7 +2182,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s01_l07",
@@ -1871,7 +2194,6 @@
       "lerch": "Hʿé̱nzira. Lā́d̮i Mél’a Ah̔médi vā ke: te qām mé̱hladi. Di̥zdi vā",
       "ipa": "ˈħɛnzira ˈlaːd͡ʒi ˈmela aħˈmedi vaː ke te qaːm ˈmɛhladi dɨzdi vaː",
       "zazaki": "'Henzira Laci Mêla A'hmêdi va kê tê qam mehladi Dızdi va",
-      "bingol": "Xınzi ra.\" Laci Mela Ehmedi va ki: \"Ti kom mehla dê?\" Dızdi va",
       "source_note": "Russian uses магалъ/магала for mahalle; German keeps Mahdl/Mahalle.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -1887,10 +2209,6 @@
         {
           "label": "ZAZAKI",
           "value": "'Henzira Laci Mêla A'hmêdi va kê tê qam mehladi Dızdi va"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Xınzi ra.\" Laci Mela Ehmedi va ki: \"Ti kom mehla dê?\" Dızdi va"
         },
         {
           "label": "ENGLISH",
@@ -2190,7 +2508,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s01_l08",
@@ -2199,7 +2520,6 @@
       "lerch": "ke: ez mé̱hlai Šeināṅda. Lā́d̮i Mél’a Ah̔médi vā ke: te qaú’i āmeí",
       "ipa": "ke ez ˈmɛhlaj ʃejnaːŋda ˈlaːd͡ʒi ˈmela aħˈmedi vaː ke te ˈqawi aːˈmej",
       "zazaki": "kê êz mehlay Şêynangda Laci Mêla A'hmêdi va kê tê qawi amêy",
-      "bingol": "ki: \"Ez mehlê Şeynon da. Laci Mela Ehmedi va ki: \"Ti qowi amey",
       "source_note": "Russian and German both make this a question of purpose: why did you come?",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -2215,10 +2535,6 @@
         {
           "label": "ZAZAKI",
           "value": "kê êz mehlay Şêynangda Laci Mêla A'hmêdi va kê tê qawi amêy"
-        },
-        {
-          "label": "BINGOL",
-          "value": "ki: \"Ez mehlê Şeynon da. Laci Mela Ehmedi va ki: \"Ti qowi amey"
         },
         {
           "label": "ENGLISH",
@@ -2530,7 +2846,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s01_l09",
@@ -2539,7 +2858,6 @@
       "lerch": "māle me bén’i. Di̥zdi vā ke: ez Ńerbíd̮a āmeía māle tue, di̥zdeí",
       "ipa": "maːle me ˈbeni dɨzdi vaː ke ez ɲerˈbid͡ʒa aːˈmeja maːle twe dɨzˈdej",
       "zazaki": "malê mê bêni Dızdi va kê êz Nyêrbica amêya malê twê dızdêy",
-      "bingol": "mali mı bêni?\" Dızdi va ki: \"Ez Nêribıc a, ameya mali tu, dızdey",
       "source_note": "Russian has 'into my house' and 'into your house'; German OCR alternates Haus/Hause.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -2555,10 +2873,6 @@
         {
           "label": "ZAZAKI",
           "value": "malê mê bêni Dızdi va kê êz Nyêrbica amêya malê twê dızdêy"
-        },
-        {
-          "label": "BINGOL",
-          "value": "mali mı bêni?\" Dızdi va ki: \"Ez Nêribıc a, ameya mali tu, dızdey"
         },
         {
           "label": "ENGLISH",
@@ -2870,7 +3184,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s01_l10",
@@ -2879,7 +3196,6 @@
       "lerch": "bikéra, berá túe ez dián, lakímke ez hā bén’a, zōr bén’a. Lā́d̮i",
       "ipa": "biˈkera beˈra ˈtwe ez ˈdjan laˈkimke ez haː ˈbena zoːr ˈbena ˈlaːd͡ʒi",
       "zazaki": "bikêra bêra twê êz dyan lakimkê êz ha bêna zor bêna Laci",
-      "bingol": "bıkeri bıra, tu ez dian, lakim ki ez ha bena, zor bena\".",
       "source_note": "German and Russian both add the explanatory aside 'know that I am strong'.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -2895,10 +3211,6 @@
         {
           "label": "ZAZAKI",
           "value": "bikêra bêra twê êz dyan lakimkê êz ha bêna zor bêna Laci"
-        },
-        {
-          "label": "BINGOL",
-          "value": "bıkeri bıra, tu ez dian, lakim ki ez ha bena, zor bena\"."
         },
         {
           "label": "ENGLISH",
@@ -3243,7 +3555,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s01_l11",
@@ -3252,7 +3567,6 @@
       "lerch": "Mél’a Ah̔médi wid̮á sē̱rei di̥zdi terá kerd, habér’e eršau’úte Ńe-",
       "ipa": "ˈmela aħˈmedi wiˈd͡ʒa sɛːrej dɨzdi teˈra kerd haˈbere erʃaˈwute ɲe",
       "zazaki": "Mêla A'hmêdi wica serêy dızdi têra kêrd habêrê êrşawûtê Nyê",
-      "bingol": "Laci Mela Ehmedi awca sarê dızdi tera kerd, xeberı erşawutı",
       "source_note": "Russian and German both say he killed the thief immediately and sent a messenger.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -3268,10 +3582,6 @@
         {
           "label": "ZAZAKI",
           "value": "Mêla A'hmêdi wica serêy dızdi têra kêrd habêrê êrşawûtê Nyê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Laci Mela Ehmedi awca sarê dızdi tera kerd, xeberı erşawutı"
         },
         {
           "label": "ENGLISH",
@@ -3539,6 +3849,9 @@
           "gloss_de": "sandte Nachricht",
           "source": "Recurring light-verb message formula in the feud stories."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -3548,7 +3861,6 @@
       "lerch": "ríb Xaléf aγāiri vā ke: we̱ Xyé̱ni nébé, tue téde kauγé kerdíni,",
       "ipa": "ˈrib xaˈlef aʁaːjri vaː ke wɛ ˈxjɛni ˈneˈbe twe ˈtede kawˈʁe kerˈdini",
       "zazaki": "rib Xalêf ağayri va kê we Xyeni nêbê twê têdê kawğê kêrdini",
-      "bingol": "Nêrib, Xelef ağay ri, va ki: \"Wi Hêni(yij) nêbin, tu tede qewğe kerdini,",
       "source_note": "Lerch flags this passage as unclear: Russian footnote says the place in the story is not understandable to him; German note says Diese Stelle ist mir dunkel.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -3564,10 +3876,6 @@
         {
           "label": "ZAZAKI",
           "value": "rib Xalêf ağayri va kê we Xyeni nêbê twê têdê kawğê kêrdini"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Nêrib, Xelef ağay ri, va ki: \"Wi Hêni(yij) nêbin, tu tede qewğe kerdini,"
         },
         {
           "label": "ENGLISH",
@@ -3890,7 +4198,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s01_l13",
@@ -3899,7 +4210,6 @@
       "lerch": "tu Hʿyēṅid̮i pyéru kíšti ārdi emāni ser. Xaléf aγái habér’e eršau’-",
       "ipa": "tu ħjeːŋid͡ʒi ˈpjeru ˈkiʃti aːrdi emaːni ser xaˈlef aˈʁaj haˈbere erʃaw",
       "zazaki": "tû 'Hyêngici pyêrû kişti ardi êmani sêr Xalêf ağay habêrê êrşaw",
-      "bingol": "tu Hêniyiji piyeru kışti ardi emani ser.\"",
       "source_note": "Continuation of the passage Lerch marks unclear; emāni ser is kept tentative as safe-conduct.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -3915,10 +4225,6 @@
         {
           "label": "ZAZAKI",
           "value": "tû 'Hyêngici pyêrû kişti ardi êmani sêr Xalêf ağay habêrê êrşaw"
-        },
-        {
-          "label": "BINGOL",
-          "value": "tu Hêniyiji piyeru kışti ardi emani ser.\""
         },
         {
           "label": "ENGLISH",
@@ -4196,7 +4502,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s02_l01",
@@ -4205,7 +4514,6 @@
       "lerch": "úte Avdúl’ah aγái Kelán vā ke: me Ńeríbde kauγé kerd, la-",
       "ipa": "ˈute avˈdulah aˈʁaj keˈlan vaː ke me ɲeˈribde kawˈʁe kerd la",
       "zazaki": "ûtê Avdûlah ağay Kêlan va kê mê Nyêribdê kawğê kêrd la",
-      "bingol": "Xelef ağay xeberı erşawutı Evdulah ağay Kelon ya, va ki:",
       "source_note": "German/Russian continue the message after Lerch's unclear Hyeni note.",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -4221,10 +4529,6 @@
         {
           "label": "ZAZAKI",
           "value": "ûtê Avdûlah ağay Kêlan va kê mê Nyêribdê kawğê kêrd la"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Xelef ağay xeberı erşawutı Evdulah ağay Kelon ya, va ki:"
         },
         {
           "label": "ENGLISH",
@@ -4526,6 +4830,9 @@
           "gloss_de": "kämpfte",
           "source": "Productive light-verb phrase: kawğe/kawyê plus kerd."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -4535,7 +4842,6 @@
       "lerch": "kímke wé̱χti χóede hādré be, túe mē̱rd̮úmi me kišt, bi̥zāni ke: ez",
       "ipa": "ˈkimke ˈwɛχti ˈχoede haːdˈre be ˈtwe mɛːrˈd͡ʒumi me kiʃt bɨzaːni ke ez",
       "zazaki": "kimkê wexti xoêdê hadrê bê twê mercûmi mê kişt bızani kê êz",
-      "bingol": "\"Mı Nêrib dı qewğe kerd, lakim ki wexti xû dı hadre bı, tu merdumi mı kişt, bizon ki ez vist merdumi tu yew merdumi xû vera kışena.\"",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -4551,10 +4857,6 @@
         {
           "label": "ZAZAKI",
           "value": "kimkê wexti xoêdê hadrê bê twê mercûmi mê kişt bızani kê êz"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Mı Nêrib dı qewğe kerd, lakim ki wexti xû dı hadre bı, tu merdumi mı kişt, bizon ki ez vist merdumi tu yew merdumi xû vera kışena.\""
         },
         {
           "label": "ENGLISH",
@@ -4901,6 +5203,9 @@
           "gloss_de": "zu deiner Zeit bereit sein",
           "source": "Orthographic variant of the same challenge formula as waxtê xoêdê hadrê bê."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -4910,7 +5215,6 @@
       "lerch": "vīst mē̱rdṳ́mi túe yau mē̱rdṳ́mi χóe vé̱ra kišēn’a. Avdúl’ah aγái",
       "ipa": "viːst mɛːrˈdymi ˈtwe jaw mɛːrˈdymi ˈχoe ˈvɛra kiʃeːna avˈdulah aˈʁaj",
       "zazaki": "vist merdûmi twê yaw merdûmi xoê vera kişêna Avdûlah ağay",
-      "bingol": "Evdullah ağay xeberı erşawutı Xelef ağay ri, va ki:",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -4926,10 +5230,6 @@
         {
           "label": "ZAZAKI",
           "value": "vist merdûmi twê yaw merdûmi xoê vera kişêna Avdûlah ağay"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Evdullah ağay xeberı erşawutı Xelef ağay ri, va ki:"
         },
         {
           "label": "ENGLISH",
@@ -5217,7 +5517,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s02_l04",
@@ -5226,7 +5529,6 @@
       "lerch": "habér’e eršau’úte Xaléf aγāiri vā ke: wāχte χóede hādré be, e̱z",
       "ipa": "haˈbere erʃaˈwute xaˈlef aʁaːjri vaː ke waːχte ˈχoede haːdˈre be ɛz",
       "zazaki": "habêrê êrşawûtê Xalêf ağayri va kê waxtê xoêdê hadrê bê ez",
-      "bingol": "\"Waxti xû dı hadre bı, ez mêştey eskeri xû gena, yena awkê Şeli ver, ti zi awca ra eskeri",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -5242,10 +5544,6 @@
         {
           "label": "ZAZAKI",
           "value": "habêrê êrşawûtê Xalêf ağayri va kê waxtê xoêdê hadrê bê ez"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Waxti xû dı hadre bı, ez mêştey eskeri xû gena, yena awkê Şeli ver, ti zi awca ra eskeri"
         },
         {
           "label": "ENGLISH",
@@ -5570,6 +5868,9 @@
           "gloss_de": "sandte Nachricht",
           "source": "Recurring light-verb message formula in the feud stories."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -5579,7 +5880,6 @@
       "lerch": "meíšte e̱skéri χóe ǵén’a, yén’a aúkai Šél’e ve̱r, tí̥zi wid̮ára e̱skéri",
       "ipa": "ˈmejʃte ɛsˈkeri ˈχoe ˈɟena ˈjena ˈawkaj ˈʃele vɛr ˈtɨzi wiˈd͡ʒara ɛsˈkeri",
       "zazaki": "mêyştê eskêri xoê gêna yêna awkay Şêlê ver tızi wicara eskêri",
-      "bingol": "xû bigı, biye Cayt ver, ma qewğe bıkı, newo kı tı sarê mı wêni, newo kı ez sarê tu wena.\"",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -5595,10 +5895,6 @@
         {
           "label": "ZAZAKI",
           "value": "mêyştê eskêri xoê gêna yêna awkay Şêlê ver tızi wicara eskêri"
-        },
-        {
-          "label": "BINGOL",
-          "value": "xû bigı, biye Cayt ver, ma qewğe bıkı, newo kı tı sarê mı wêni, newo kı ez sarê tu wena.\""
         },
         {
           "label": "ENGLISH",
@@ -5876,7 +6172,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s02_l06",
@@ -5885,7 +6184,6 @@
       "lerch": "χóe bi̥gí, bye D̮ait ve̱r, mā kauγé bi̥kí, ńavaúke te sé̱rei me wén’i,",
       "ipa": "ˈχoe bɨˈgi bje d͡ʒajt vɛr maː kawˈʁe bɨˈki ɲaˈvawke te ˈsɛrej me ˈweni",
       "zazaki": "xoê bıgi byê Cayt ver ma kawğê bıki nyavawkê tê serêy mê wêni",
-      "bingol": "Xelef ağay xeber erşawut Evdulah ağay ri, va ki:",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -5901,10 +6199,6 @@
         {
           "label": "ZAZAKI",
           "value": "xoê bıgi byê Cayt ver ma kawğê bıki nyavawkê tê serêy mê wêni"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Xelef ağay xeber erşawut Evdulah ağay ri, va ki:"
         },
         {
           "label": "ENGLISH",
@@ -6275,6 +6569,9 @@
           "gloss_de": "meinen Kopf abschlagen",
           "source": "Repeated duel condition formula."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -6284,7 +6581,6 @@
       "lerch": "ńavaúke e̱z sé̱rei túe wén’a. Xalé̱f aγái h̔abér e̱ršau’úte Av-",
       "ipa": "ɲaˈvawke ɛz ˈsɛrej ˈtwe ˈwena xaˈlɛf aˈʁaj ħaˈber ɛrʃaˈwute av",
       "zazaki": "nyavawkê ez serêy twê wêna Xalef ağay 'habêr erşawûtê Av",
-      "bingol": "\"Eskeri me hadra u, enka ez ameya Deşt dı, ti zi wurzı eskeri xû bigı, biye awkê Şeli ver, ma qewğe bıkı. Enû qewğey Tırkan niyu, enû qewğê aşiranu, tı biye xû ri vinı.\"",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -6300,10 +6596,6 @@
         {
           "label": "ZAZAKI",
           "value": "nyavawkê ez serêy twê wêna Xalef ağay 'habêr erşawûtê Av"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Eskeri me hadra u, enka ez ameya Deşt dı, ti zi wurzı eskeri xû bigı, biye awkê Şeli ver, ma qewğe bıkı. Enû qewğey Tırkan niyu, enû qewğê aşiranu, tı biye xû ri vinı.\""
         },
         {
           "label": "ENGLISH",
@@ -6594,6 +6886,9 @@
           "gloss_de": "deinen Kopf abschlagen",
           "source": "Repeated duel condition formula."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -6603,7 +6898,6 @@
       "lerch": "dúl’ah aγāiri vā ke: e̱skéri me hādrāú, ē̱nkai ez āmeía Deíštede",
       "ipa": "ˈdulah aʁaːjri vaː ke ɛsˈkeri me haːdˈraːw ɛːnkaj ez aːˈmeja ˈdejʃtede",
       "zazaki": "dûlah ağayri va kê eskêri mê hadraw enkay êz amêya Dêyştêdê",
-      "bingol": "Evdulah ağay xeber erşawutı dewon, va ki:",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -6619,10 +6913,6 @@
         {
           "label": "ZAZAKI",
           "value": "dûlah ağayri va kê eskêri mê hadraw enkay êz amêya Dêyştêdê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Evdulah ağay xeber erşawutı dewon, va ki:"
         },
         {
           "label": "ENGLISH",
@@ -6922,7 +7212,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s02_l09",
@@ -6931,7 +7224,6 @@
       "lerch": "t̮ízi wārze e̱skéri χoé bigí, bye aúlkai Šél’e ve̱r, mā kauγé bikí.",
       "ipa": "ˈt͡ʃizi waːrze ɛsˈkeri χˈoe biˈgi bje ˈawlkaj ˈʃele vɛr maː kawˈʁe biˈki",
       "zazaki": "çizi warzê eskêri xoê bigi byê awlkay Şêlê ver ma kawğê biki",
-      "bingol": "\"Çew mevındi, mêştey awkê Şeli ver dı qewğê ma û Nêribıjan u.\"",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -6947,10 +7239,6 @@
         {
           "label": "ZAZAKI",
           "value": "çizi warzê eskêri xoê bigi byê awlkay Şêlê ver ma kawğê biki"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Çew mevındi, mêştey awkê Şeli ver dı qewğê ma û Nêribıjan u.\""
         },
         {
           "label": "ENGLISH",
@@ -7286,6 +7574,9 @@
           "gloss_de": "kämpfen",
           "source": "Productive light-verb phrase: kawğe plus bıki."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -7295,7 +7586,6 @@
       "lerch": "Ē̱n’oe kauγé Tirkán ńu, ē̱n’oe kauγé aširā́nu, t̮i bye χóeri vyén’e.",
       "ipa": "ɛːnoe kawˈʁe tirˈkan ɲu ɛːnoe kawˈʁe aʃiˈraːnu t͡ʃi bje ˈχoeri ˈvjene",
       "zazaki": "Enoê kawğê Tirkan nyû enoê kawğê aşiranû çi byê xoêri vyênê",
-      "bingol": "Dewon xeber erşawutı Evdulah ağay ri, va ki:",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -7311,10 +7601,6 @@
         {
           "label": "ZAZAKI",
           "value": "Enoê kawğê Tirkan nyû enoê kawğê aşiranû çi byê xoêri vyênê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Dewon xeber erşawutı Evdulah ağay ri, va ki:"
         },
         {
           "label": "ENGLISH",
@@ -7603,7 +7889,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s02_l11",
@@ -7612,7 +7901,6 @@
       "lerch": "Avdúl’ah aγái habér eršau’úte dauāñ vā ke: t̮au mevīndi, meíšte",
       "ipa": "avˈdulah aˈʁaj haˈber erʃaˈwute dawaːn vaː ke t͡ʃaw meviːndi ˈmejʃte",
       "zazaki": "Avdûlah ağay habêr êrşawûtê dawan va kê çaw mêvindi mêyştê",
-      "bingol": "\"Mevindin, çıqas mali Nêribı estu bıdin ma, ma peynay dewoni Nêribı vêşneni.",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -7628,10 +7916,6 @@
         {
           "label": "ZAZAKI",
           "value": "Avdûlah ağay habêr êrşawûtê dawan va kê çaw mêvindi mêyştê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Mevindin, çıqas mali Nêribı estu bıdin ma, ma peynay dewoni Nêribı vêşneni."
         },
         {
           "label": "ENGLISH",
@@ -7921,6 +8205,9 @@
           "gloss_de": "sandte Nachricht",
           "source": "Recurring light-verb message formula in the feud stories."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -7930,7 +8217,6 @@
       "lerch": "aúlkai Šél’e vé̱rde kauγé mau, Ńerbid̮ānu. Dauāñ habér eršau’úte",
       "ipa": "ˈawlkaj ˈʃele ˈvɛrde kawˈʁe maw ɲerbid͡ʒaːnu dawaːn haˈber erʃaˈwute",
       "zazaki": "awlkay Şêlê verdê kawğê maw Nyêrbicanû Dawan habêr êrşawûtê",
-      "bingol": "Evdulah ağay xeber erşawutı dewoni, va ki:",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -7946,10 +8232,6 @@
         {
           "label": "ZAZAKI",
           "value": "awlkay Şêlê verdê kawğê maw Nyêrbicanû Dawan habêr êrşawûtê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Evdulah ağay xeber erşawutı dewoni, va ki:"
         },
         {
           "label": "ENGLISH",
@@ -8238,6 +8520,9 @@
           "gloss_de": "sandte Nachricht",
           "source": "Recurring light-verb message formula in the feud stories."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -8247,7 +8532,6 @@
       "lerch": "Avdúl’ah aγāiri vā ke: mé̱vinde, t̮ikás māli Ńeríbi é̱stu bi̥de mā,",
       "ipa": "avˈdulah aʁaːjri vaː ke ˈmɛvinde t͡ʃiˈkas maːli ɲeˈribi ˈɛstu bɨde maː",
       "zazaki": "Avdûlah ağayri va kê mevindê çikas mali Nyêribi estû bıdê ma",
-      "bingol": "\"Metersên, sarê mı ri, mal şıma ri.\"",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -8263,10 +8547,6 @@
         {
           "label": "ZAZAKI",
           "value": "Avdûlah ağayri va kê mevindê çikas mali Nyêribi estû bıdê ma"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Metersên, sarê mı ri, mal şıma ri.\""
         },
         {
           "label": "ENGLISH",
@@ -8577,7 +8857,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s02_l14",
@@ -8586,7 +8869,6 @@
       "lerch": "ma peínai dauāni Ńeríbi ve̱šnén’i. Avdúl’ah aγái habér eršau’úte",
       "ipa": "ma ˈpejnaj dawaːni ɲeˈribi vɛʃˈneni avˈdulah aˈʁaj haˈber erʃaˈwute",
       "zazaki": "ma pêynay dawani Nyêribi veşnêni Avdûlah ağay habêr êrşawûtê",
-      "bingol": "Dewon va ki:",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -8602,10 +8884,6 @@
         {
           "label": "ZAZAKI",
           "value": "ma pêynay dawani Nyêribi veşnêni Avdûlah ağay habêr êrşawûtê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Dewon va ki:"
         },
         {
           "label": "ENGLISH",
@@ -8872,6 +9150,9 @@
           "gloss_de": "sandte Nachricht",
           "source": "Recurring light-verb message formula in the feud stories."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -8881,7 +9162,6 @@
       "lerch": "dauāni vā ke: métersi, sē̱ri mi̥ri, māl ši̥māri. Dauāñ vā ke: mā",
       "ipa": "dawaːni vaː ke ˈmetersi sɛːri mɨri maːl ʃɨmaːri dawaːn vaː ke maː",
       "zazaki": "dawani va kê mêtêrsi seri mıri mal şımari Dawan va kê ma",
-      "bingol": "\"Ma emşew nêvındêni, ma wurzeni, ma şuni awkê Şeli ver, qewğe keni, mevındı, ti zi biye.\"",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -8897,10 +9177,6 @@
         {
           "label": "ZAZAKI",
           "value": "dawani va kê mêtêrsi seri mıri mal şımari Dawan va kê ma"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Ma emşew nêvındêni, ma wurzeni, ma şuni awkê Şeli ver, qewğe keni, mevındı, ti zi biye.\""
         },
         {
           "label": "ENGLISH",
@@ -9269,6 +9545,9 @@
           "gloss_de": "die Köpfe sind mein, die Habe ist euer",
           "source": "Repeated war-cry/permission formula in the Sivan feud story."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -9278,7 +9557,6 @@
       "lerch": "émšoe ńevindén’i, mā vardén’i, ma suén’i aúlkai Šél’e ver, kauγé",
       "ipa": "ˈemʃoe ɲevinˈdeni maː varˈdeni ma ˈsweni ˈawlkaj ˈʃele ver kawˈʁe",
       "zazaki": "êmşoê nyêvindêni ma vardêni ma swêni awlkay Şêlê vêr kawğê",
-      "bingol": "Sebah Evdulah ağa werışt bı aspar, eskeri xû top kerd, va ki eskeri xû ra:",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -9294,10 +9572,6 @@
         {
           "label": "ZAZAKI",
           "value": "êmşoê nyêvindêni ma vardêni ma swêni awlkay Şêlê vêr kawğê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Sebah Evdulah ağa werışt bı aspar, eskeri xû top kerd, va ki eskeri xû ra:"
         },
         {
           "label": "ENGLISH",
@@ -9563,7 +9837,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s03_l02",
@@ -9572,7 +9849,6 @@
       "lerch": "kén’i, mévinde, t̮ízi bye. Sebāh Avdúl’ah aγá we̱ríšt be espār,",
       "ipa": "ˈkeni ˈmevinde ˈt͡ʃizi bje sebaːh avˈdulah aˈʁa wɛˈriʃt be espaːr",
       "zazaki": "kêni mêvindê çizi byê Sêbah Avdûlah ağa werişt bê êspar",
-      "bingol": "\"Oğıl mevındi, ma şiyeri qewğe, metersi, Nêribij tani",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -9588,10 +9864,6 @@
         {
           "label": "ZAZAKI",
           "value": "kêni mêvindê çizi byê Sêbah Avdûlah ağa werişt bê êspar"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Oğıl mevındi, ma şiyeri qewğe, metersi, Nêribij tani"
         },
         {
           "label": "ENGLISH",
@@ -9868,7 +10140,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s03_l03",
@@ -9877,7 +10152,6 @@
       "lerch": "e̱skéri χóe top kerd, vā ke e̱skéri χóera: ōγíl, mévindi, mā šyéri",
       "ipa": "ɛsˈkeri ˈχoe top kerd vaː ke ɛsˈkeri ˈχoera oːˈʁil ˈmevindi maː ˈʃjeri",
       "zazaki": "eskêri xoê top kêrd va kê eskêri xoêra oğil mêvindi ma şyêri",
-      "bingol": "qewğê aşiranu, sarê mı ri, mal şıma ri.\"",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -9893,10 +10167,6 @@
         {
           "label": "ZAZAKI",
           "value": "eskêri xoê top kêrd va kê eskêri xoêra oğil mêvindi ma şyêri"
-        },
-        {
-          "label": "BINGOL",
-          "value": "qewğê aşiranu, sarê mı ri, mal şıma ri.\""
         },
         {
           "label": "ENGLISH",
@@ -10219,7 +10489,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s03_l04",
@@ -10228,7 +10501,6 @@
       "lerch": "kauγé, métersi, Ńerbíd̮i t̮áni, kauγé aširā́nu, sére mi̥ri, māl ši̥-māri.",
       "ipa": "kawˈʁe ˈmetersi ɲerˈbid͡ʒi ˈt͡ʃani kawˈʁe aʃiˈraːnu ˈsere mɨri maːl ʃɨ-maːri",
       "zazaki": "kawğê mêtêrsi Nyêrbici çani kawğê aşiranû sêrê mıri mal şı-mari",
-      "bingol": "Dumılbazi day pure, Evdulah ağa kewt eskeri ver, şi awkê Şeli",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -10244,10 +10516,6 @@
         {
           "label": "ZAZAKI",
           "value": "kawğê mêtêrsi Nyêrbici çani kawğê aşiranû sêrê mıri mal şı-mari"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Dumılbazi day pure, Evdulah ağa kewt eskeri ver, şi awkê Şeli"
         },
         {
           "label": "ENGLISH",
@@ -10559,6 +10827,9 @@
           "gloss_de": "die Köpfe sind mein, die Habe ist euer",
           "source": "Repeated war-cry/permission formula in the Sivan feud story."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -10568,7 +10839,6 @@
       "lerch": "Dúmilbāzi dai pṳ́roe, Avdúl’ah aγá kaut e̱skéri ver, šē aúlkai",
       "ipa": "ˈdumilbaːzi daj ˈpyroe avˈdulah aˈʁa kawt ɛsˈkeri ver ʃeː ˈawlkaj",
       "zazaki": "Dûmilbazi day pûroê Avdûlah ağa kawt eskêri vêr şê awlkay",
-      "bingol": "ver, eskeri Xelef ağay nêmawu, eriş kerd, va ki eskeri xû ra:",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -10584,10 +10854,6 @@
         {
           "label": "ZAZAKI",
           "value": "Dûmilbazi day pûroê Avdûlah ağa kawt eskêri vêr şê awlkay"
-        },
-        {
-          "label": "BINGOL",
-          "value": "ver, eskeri Xelef ağay nêmawu, eriş kerd, va ki eskeri xû ra:"
         },
         {
           "label": "ENGLISH",
@@ -10842,7 +11108,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s03_l06",
@@ -10851,7 +11120,6 @@
       "lerch": "Šél’e ver, e̱skéri Xaléf aγái ńāmaú, e̱rš kerd, vā ke e̱skéri χóera:",
       "ipa": "ˈʃele ver ɛsˈkeri xaˈlef aˈʁaj ɲaːˈmaw ɛrʃ kerd vaː ke ɛsˈkeri ˈχoera",
       "zazaki": "Şêlê vêr eskêri Xalêf ağay nyamaw erş kêrd va kê eskêri xoêra",
-      "bingol": "\"Sarê mı ri, mal şıma ri, dewon veşni\"",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -10867,10 +11135,6 @@
         {
           "label": "ZAZAKI",
           "value": "Şêlê vêr eskêri Xalêf ağay nyamaw erş kêrd va kê eskêri xoêra"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Sarê mı ri, mal şıma ri, dewon veşni\""
         },
         {
           "label": "ENGLISH",
@@ -11182,7 +11446,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s03_l07",
@@ -11191,7 +11458,6 @@
       "lerch": "sére mi̥ri, māl ši̥māri, dau’án véšni. E̱skére Avdúl’ah aγái šē",
       "ipa": "ˈsere mɨri maːl ʃɨmaːri daˈwan ˈveʃni ɛsˈkere avˈdulah aˈʁaj ʃeː",
       "zazaki": "sêrê mıri mal şımari dawan vêşni Eskêrê Avdûlah ağay şê",
-      "bingol": "Eskeri Evdulah ağay şi dewi Xelef ağay gerewtı, şeş dewi",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -11207,10 +11473,6 @@
         {
           "label": "ZAZAKI",
           "value": "sêrê mıri mal şımari dawan vêşni Eskêrê Avdûlah ağay şê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Eskeri Evdulah ağay şi dewi Xelef ağay gerewtı, şeş dewi"
         },
         {
           "label": "ENGLISH",
@@ -11500,6 +11762,9 @@
           "gloss_de": "die Köpfe sind mein, die Habe ist euer",
           "source": "Repeated war-cry/permission formula in the Sivan feud story."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -11509,7 +11774,6 @@
       "lerch": "dé̱wi Xaléf aγái, geraúti šēš dé̱wi, véšnai, aγeraí, āmeí keíye,",
       "ipa": "ˈdɛwi xaˈlef aˈʁaj geˈrawti ʃeːʃ ˈdɛwi ˈveʃnaj aʁeˈraj aːˈmej ˈkejje",
       "zazaki": "dewi Xalêf ağay gêrawti şêş dewi vêşnay ağêray amêy kêyyê",
-      "bingol": "veşnay, ageray, amey kiye, Evdulah ağa da mal eskeri xû.",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -11525,10 +11789,6 @@
         {
           "label": "ZAZAKI",
           "value": "dewi Xalêf ağay gêrawti şêş dewi vêşnay ağêray amêy kêyyê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "veşnay, ageray, amey kiye, Evdulah ağa da mal eskeri xû."
         },
         {
           "label": "ENGLISH",
@@ -11783,7 +12043,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s03_l09",
@@ -11792,7 +12055,6 @@
       "lerch": "Avdúl’ah aγá dā māl e̱skéri χoé.",
       "ipa": "avˈdulah aˈʁa daː maːl ɛsˈkeri χˈoe",
       "zazaki": "Avdûlah ağa da mal eskêri xoê",
-      "bingol": "Yew aşmı mend. Xelef ağay xeber erşawuti Avdulah axay ri, va ki:",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -11808,10 +12070,6 @@
         {
           "label": "ZAZAKI",
           "value": "Avdûlah ağa da mal eskêri xoê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Yew aşmı mend. Xelef ağay xeber erşawuti Avdulah axay ri, va ki:"
         },
         {
           "label": "ENGLISH",
@@ -11974,7 +12232,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s03_l10",
@@ -11983,7 +12244,6 @@
       "lerch": "Yau ášme mend. Xaléf aγái hábére eršau’úte Avdúl’ah aγāiri",
       "ipa": "jaw ˈaʃme mend xaˈlef aˈʁaj ˈhaˈbere erʃaˈwute avˈdulah aʁaːjri",
       "zazaki": "Yaw aşmê mênd Xalêf ağay habêrê êrşawûtê Avdûlah ağayri",
-      "bingol": "\"Tu ehendı eskeri mı kişti, tu şeş dewê mı",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -11999,10 +12259,6 @@
         {
           "label": "ZAZAKI",
           "value": "Yaw aşmê mênd Xalêf ağay habêrê êrşawûtê Avdûlah ağayri"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Tu ehendı eskeri mı kişti, tu şeş dewê mı"
         },
         {
           "label": "ENGLISH",
@@ -12258,6 +12514,9 @@
           "gloss_de": "sandte Nachricht",
           "source": "Recurring light-verb message formula in the feud stories."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -12267,7 +12526,6 @@
       "lerch": "vā ke: túe éhende e̱skéri me kišt, túe šēš dau’e me vešnai, tá’alan",
       "ipa": "vaː ke ˈtwe ˈehende ɛsˈkeri me kiʃt ˈtwe ʃeːʃ dawe me veʃnaj ˈtaalan",
       "zazaki": "va kê twê êhêndê eskêri mê kişt twê şêş dawê mê vêşnay taalan",
-      "bingol": "veşnay, talan kerdı, waxtı xû dı hadre bı, ez ena",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -12283,10 +12541,6 @@
         {
           "label": "ZAZAKI",
           "value": "va kê twê êhêndê eskêri mê kişt twê şêş dawê mê vêşnay taalan"
-        },
-        {
-          "label": "BINGOL",
-          "value": "veşnay, talan kerdı, waxtı xû dı hadre bı, ez ena"
         },
         {
           "label": "ENGLISH",
@@ -12610,7 +12864,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s03_l12",
@@ -12619,7 +12876,6 @@
       "lerch": "kérdi, wāχte χóede hādré be, ez én’a gelāṅke yén’a, qandauke",
       "ipa": "ˈkerdi waːχte ˈχoede haːdˈre be ez ˈena gelaːŋke ˈjena qandawke",
       "zazaki": "kêrdi waxtê xoêdê hadrê bê êz êna gêlangkê yêna qandawkê",
-      "bingol": "gelankı yena, kancaw ki dewi tu mı di, ez veşnena,",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -12635,10 +12891,6 @@
         {
           "label": "ZAZAKI",
           "value": "kêrdi waxtê xoêdê hadrê bê êz êna gêlangkê yêna qandawkê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "gelankı yena, kancaw ki dewi tu mı di, ez veşnena,"
         },
         {
           "label": "ENGLISH",
@@ -12917,6 +13169,9 @@
           "gloss_de": "zu deiner Zeit bereit sein",
           "source": "Recurring challenge formula in the German/Russian translations; segmented with xoê-de and imperative be."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -12926,7 +13181,6 @@
       "lerch": "dé̱wi túe me di ez vešnén’a, tá’alan kén’a héta yau šéwe, t̮oa-",
       "ipa": "ˈdɛwi ˈtwe me di ez veʃˈnena ˈtaalan ˈkena ˈheta jaw ˈʃewe t͡ʃoa",
       "zazaki": "dewi twê mê di êz vêşnêna taalan kêna hêta yaw şêwê çoa",
-      "bingol": "talan kena, heta yew şewı, çewcûği nêverdena, hemıni sare bırnena.\"",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -12942,10 +13196,6 @@
         {
           "label": "ZAZAKI",
           "value": "dewi twê mê di êz vêşnêna taalan kêna hêta yaw şêwê çoa"
-        },
-        {
-          "label": "BINGOL",
-          "value": "talan kena, heta yew şewı, çewcûği nêverdena, hemıni sare bırnena.\""
         },
         {
           "label": "ENGLISH",
@@ -13257,7 +13507,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s04_l01",
@@ -13266,7 +13519,6 @@
       "lerch": "dúhi ńeverdāna, hémine sére bi̥rmén’a. Avdúl’ah aγái habér er-",
       "ipa": "ˈduhi ɲeverdaːna ˈhemine ˈsere bɨrˈmena avˈdulah aˈʁaj haˈber er",
       "zazaki": "dûhi nyêvêrdana hêminê sêrê bırmêna Avdûlah ağay habêr êr",
-      "bingol": "Evdulah ağay xeber erşawutı Xelef ağay ri va ki:",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -13282,10 +13534,6 @@
         {
           "label": "ZAZAKI",
           "value": "dûhi nyêvêrdana hêminê sêrê bırmêna Avdûlah ağay habêr êr"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Evdulah ağay xeber erşawutı Xelef ağay ri va ki:"
         },
         {
           "label": "ENGLISH",
@@ -13528,7 +13776,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s04_l02",
@@ -13537,7 +13788,6 @@
       "lerch": "šau’úte Xaléf aγāiri vā ke: dai χóede rehát vinde, éke én’a ge-",
       "ipa": "ʃaˈwute xaˈlef aʁaːjri vaː ke daj ˈχoede reˈhat vinde ˈeke ˈena ge",
       "zazaki": "şawûtê Xalêf ağayri va kê day xoêdê rêhat vindê êkê êna gê",
-      "bingol": "\"Cay xû dı rehat vınde, ek ena gelankı ez ameya tû ra yew kerga kuarı nêverdenu.\"",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -13553,10 +13803,6 @@
         {
           "label": "ZAZAKI",
           "value": "şawûtê Xalêf ağayri va kê day xoêdê rêhat vindê êkê êna gê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Cay xû dı rehat vınde, ek ena gelankı ez ameya tû ra yew kerga kuarı nêverdenu.\""
         },
         {
           "label": "ENGLISH",
@@ -13879,7 +14125,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s04_l03",
@@ -13888,7 +14137,6 @@
       "lerch": "lāṅke ez ameía túera yau kérga kóere ńeverdānu. Xaléf aγái",
       "ipa": "laːŋke ez aˈmeja ˈtwera jaw ˈkerga ˈkoere ɲeverdaːnu xaˈlef aˈʁaj",
       "zazaki": "langkê êz amêya twêra yaw kêrga koêrê nyêvêrdanû Xalêf ağay",
-      "bingol": "Xalef ağay xeber erşawutı Evdulah ağay ri va ki:",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -13904,10 +14152,6 @@
         {
           "label": "ZAZAKI",
           "value": "langkê êz amêya twêra yaw kêrga koêrê nyêvêrdanû Xalêf ağay"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Xalef ağay xeber erşawutı Evdulah ağay ri va ki:"
         },
         {
           "label": "ENGLISH",
@@ -14184,7 +14428,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s04_l04",
@@ -14193,7 +14440,6 @@
       "lerch": "habér eršau’úte Avdúl’ah aγāiri vā ke: te bye χóeri, vién’e. Av-",
       "ipa": "haˈber erʃaˈwute avˈdulah aʁaːjri vaː ke te bje ˈχoeri ˈvjene av",
       "zazaki": "habêr êrşawûtê Avdûlah ağayri va kê tê byê xoêri vyênê Av",
-      "bingol": "\"Tı biye xû ri, vienı.\"",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -14209,10 +14455,6 @@
         {
           "label": "ZAZAKI",
           "value": "habêr êrşawûtê Avdûlah ağayri va kê tê byê xoêri vyênê Av"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Tı biye xû ri, vienı.\""
         },
         {
           "label": "ENGLISH",
@@ -14525,6 +14767,9 @@
           "gloss_de": "sandte Nachricht",
           "source": "Recurring light-verb message formula in the feud stories."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -14534,7 +14779,6 @@
       "lerch": "dúl’ah aγá we̱ríšt be espār, dúmilbāzi dā pṳ́roe, e̱skéri χóe āmé",
       "ipa": "ˈdulah aˈʁa wɛˈriʃt be espaːr ˈdumilbaːzi daː ˈpyroe ɛsˈkeri ˈχoe aːˈme",
       "zazaki": "dûlah ağa werişt bê êspar dûmilbazi da pûroê eskêri xoê amê",
-      "bingol": "Evdulah ağay werıişt bı espar, dumılbazi day pure, eskeri xû ame pyeser. Evdulah ağa va ki eskeri xû ra:",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -14550,10 +14794,6 @@
         {
           "label": "ZAZAKI",
           "value": "dûlah ağa werişt bê êspar dûmilbazi da pûroê eskêri xoê amê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Evdulah ağay werıişt bı espar, dumılbazi day pure, eskeri xû ame pyeser. Evdulah ağa va ki eskeri xû ra:"
         },
         {
           "label": "ENGLISH",
@@ -14831,7 +15071,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s04_l06",
@@ -14840,7 +15083,6 @@
       "lerch": "pyesér. Avdúl’ah aγá vā ke e̱skéri χóera: t̮oadúhi mā hā šuén’i",
       "ipa": "pjeˈser avˈdulah aˈʁa vaː ke ɛsˈkeri ˈχoera t͡ʃoaˈduhi maː haː ˈʃweni",
       "zazaki": "pyêsêr Avdûlah ağa va kê eskêri xoêra çoadûhi ma ha şwêni",
-      "bingol": "\"Çewcuği, ma ha şuni qewğé, metersi, ena gelankı çewi meverdi, hemını bıkşi, sare mi ri mal şıma ri.\"",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -14856,10 +15098,6 @@
         {
           "label": "ZAZAKI",
           "value": "pyêsêr Avdûlah ağa va kê eskêri xoêra çoadûhi ma ha şwêni"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Çewcuği, ma ha şuni qewğé, metersi, ena gelankı çewi meverdi, hemını bıkşi, sare mi ri mal şıma ri.\""
         },
         {
           "label": "ENGLISH",
@@ -15148,7 +15386,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s04_l07",
@@ -15157,7 +15398,6 @@
       "lerch": "kauγé, métersi, én’a gelāṅke t̮éwi méverdi, hémine bi̥ksi, sére",
       "ipa": "kawˈʁe ˈmetersi ˈena gelaːŋke ˈt͡ʃewi ˈmeverdi ˈhemine bɨksi ˈsere",
       "zazaki": "kawğê mêtêrsi êna gêlangkê çêwi mêvêrdi hêminê bıksi sêrê",
-      "bingol": "Eskeri va ki Evdulah ağay ra:",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -15173,10 +15413,6 @@
         {
           "label": "ZAZAKI",
           "value": "kawğê mêtêrsi êna gêlangkê çêwi mêvêrdi hêminê bıksi sêrê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Eskeri va ki Evdulah ağay ra:"
         },
         {
           "label": "ENGLISH",
@@ -15441,7 +15677,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s04_l08",
@@ -15450,7 +15689,6 @@
       "lerch": "mi̥ri māl ši̥māri. E̱skéri vā ke Avdúl’ah aγāira: péki, eféndim,",
       "ipa": "mɨri maːl ʃɨmaːri ɛsˈkeri vaː ke avˈdulah aʁaːjra ˈpeki eˈfendim",
       "zazaki": "mıri mal şımari Eskêri va kê Avdûlah ağayra pêki êfêndim",
-      "bingol": "\"Peki, efendım, Allah coni tu sağ bıdu, heta ki peynay ma nêmeru, tu ri çi çiniyu.\"",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -15466,10 +15704,6 @@
         {
           "label": "ZAZAKI",
           "value": "mıri mal şımari Eskêri va kê Avdûlah ağayra pêki êfêndim"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Peki, efendım, Allah coni tu sağ bıdu, heta ki peynay ma nêmeru, tu ri çi çiniyu.\""
         },
         {
           "label": "ENGLISH",
@@ -15746,7 +15980,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s04_l09",
@@ -15755,7 +15992,6 @@
       "lerch": "Alāh dāni túe say bedú, hetāke peīnai mā ńémeru, túeri ti t̮ínu.",
       "ipa": "alaːh daːni ˈtwe saj beˈdu hetaːke pejnaj maː ˈɲemeru ˈtweri ti ˈt͡ʃinu",
       "zazaki": "Alah dani twê say bêdû hêtakê pêynay ma nyêmêrû twêri ti çinû",
-      "bingol": "Evdulah ağay va ki:",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -15771,10 +16007,6 @@
         {
           "label": "ZAZAKI",
           "value": "Alah dani twê say bêdû hêtakê pêynay ma nyêmêrû twêri ti çinû"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Evdulah ağay va ki:"
         },
         {
           "label": "ENGLISH",
@@ -16097,7 +16329,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s04_l10",
@@ -16106,7 +16341,6 @@
       "lerch": "Avdúl’ah aγái vā ke: āferem ōγíl.",
       "ipa": "avˈdulah aˈʁaj vaː ke aːferem oːˈʁil",
       "zazaki": "Avdûlah ağay va kê afêrêm oğil",
-      "bingol": "\"Aferem oğıl.\"",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -16122,10 +16356,6 @@
         {
           "label": "ZAZAKI",
           "value": "Avdûlah ağay va kê afêrêm oğil"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Aferem oğıl.\""
         },
         {
           "label": "ENGLISH",
@@ -16288,7 +16518,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s04_l11",
@@ -16297,7 +16530,6 @@
       "lerch": "Avdúl’ah aγái dúmilbāzi dai pṳ́roe, e̱skéri χóe e̱rš kérd, šē",
       "ipa": "avˈdulah aˈʁaj ˈdumilbaːzi daj ˈpyroe ɛsˈkeri ˈχoe ɛrʃ ˈkerd ʃeː",
       "zazaki": "Avdûlah ağay dûmilbazi day pûroê eskêri xoê erş kêrd şê",
-      "bingol": "Evdulah ağay dumılbazi day pure, eskeri xû êriş kerd, şı diyari Melekani, ewniya",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -16313,10 +16545,6 @@
         {
           "label": "ZAZAKI",
           "value": "Avdûlah ağay dûmilbazi day pûroê eskêri xoê erş kêrd şê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Evdulah ağay dumılbazi day pure, eskeri xû êriş kerd, şı diyari Melekani, ewniya"
         },
         {
           "label": "ENGLISH",
@@ -16571,7 +16799,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s04_l12",
@@ -16580,7 +16811,6 @@
       "lerch": "diāri Mél’ekāni, auńá ke e̱skéri Xaléf aγái tābure bestā. Avdúl’ah",
       "ipa": "djaːri ˈmelekaːni awˈɲa ke ɛsˈkeri xaˈlef aˈʁaj taːbure bestaː avˈdulah",
       "zazaki": "dyari Mêlêkani awnya kê eskêri Xalêf ağay tabûrê bêsta Avdûlah",
-      "bingol": "ki eskeri Xelef ağay taburi besta. Evdulah ağay eskeri xû êriş kerd, va ki:",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -16596,10 +16826,6 @@
         {
           "label": "ZAZAKI",
           "value": "dyari Mêlêkani awnya kê eskêri Xalêf ağay tabûrê bêsta Avdûlah"
-        },
-        {
-          "label": "BINGOL",
-          "value": "ki eskeri Xelef ağay taburi besta. Evdulah ağay eskeri xû êriş kerd, va ki:"
         },
         {
           "label": "ENGLISH",
@@ -16854,7 +17080,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s04_l13",
@@ -16863,7 +17092,6 @@
       "lerch": "aγái e̱skéri χóe e̱rš kerd vā ke: séri mi̥ri māl ši̥māri, métersi,",
       "ipa": "aˈʁaj ɛsˈkeri ˈχoe ɛrʃ kerd vaː ke ˈseri mɨri maːl ʃɨmaːri ˈmetersi",
       "zazaki": "ağay eskêri xoê erş kêrd va kê sêri mıri mal şımari mêtêrsi",
-      "bingol": "\"Sare mi ri, mal şıma ri, metersi, şiyeri bıkşi hemıni.\"",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -16879,10 +17107,6 @@
         {
           "label": "ZAZAKI",
           "value": "ağay eskêri xoê erş kêrd va kê sêri mıri mal şımari mêtêrsi"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Sare mi ri, mal şıma ri, metersi, şiyeri bıkşi hemıni.\""
         },
         {
           "label": "ENGLISH",
@@ -17218,6 +17442,9 @@
           "gloss_de": "die Köpfe sind mein, die Habe ist euer",
           "source": "Repeated war-cry/permission formula in the Sivan feud story."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -17227,7 +17454,6 @@
       "lerch": "šyéri bi̥ksi hémine. E̱skéri Avdúl’ah aγái šē e̱skéri Xaléf aγái",
       "ipa": "ˈʃjeri bɨksi ˈhemine ɛsˈkeri avˈdulah aˈʁaj ʃeː ɛsˈkeri xaˈlef aˈʁaj",
       "zazaki": "şyêri bıksi hêminê Eskêri Avdûlah ağay şê eskêri Xalêf ağay",
-      "bingol": "Eskeri Evdulah ağay şi, eskeri Xelef ağay weta ame bi Tawrıcye, qewğe kerd, eskeri Xelef ağay remay, eskeri",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -17243,10 +17469,6 @@
         {
           "label": "ZAZAKI",
           "value": "şyêri bıksi hêminê Eskêri Avdûlah ağay şê eskêri Xalêf ağay"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Eskeri Evdulah ağay şi, eskeri Xelef ağay weta ame bi Tawrıcye, qewğe kerd, eskeri Xelef ağay remay, eskeri"
         },
         {
           "label": "ENGLISH",
@@ -17512,7 +17734,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s04_l15",
@@ -17521,7 +17746,6 @@
       "lerch": "wét̮a āmé bi Taúridye, kauγé kerd, e̱skéri Xaléf aγái remā, es-",
       "ipa": "ˈwet͡ʃa aːˈme bi ˈtawridje kawˈʁe kerd ɛsˈkeri xaˈlef aˈʁaj remaː es",
       "zazaki": "wêça amê bi Tawridyê kawğê kêrd eskêri Xalêf ağay rêma ês",
-      "bingol": "Evdulah ağay peyra kewt, bon û dewi piyeru talan kerdi, şıwanê Nêribijan piyeru kışti, pes û ceni piyeru ard.",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -17537,10 +17761,6 @@
         {
           "label": "ZAZAKI",
           "value": "wêça amê bi Tawridyê kawğê kêrd eskêri Xalêf ağay rêma ês"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Evdulah ağay peyra kewt, bon û dewi piyeru talan kerdi, şıwanê Nêribijan piyeru kışti, pes û ceni piyeru ard."
         },
         {
           "label": "ENGLISH",
@@ -17831,6 +18051,9 @@
           "gloss_de": "kämpfte",
           "source": "Productive light-verb phrase: kawğe/kawyê plus kerd."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -17840,7 +18063,6 @@
       "lerch": "kéri Adúl’ah aγái peíra kaut, bána dé̱wi pyéru tá’alan kérdi, su-",
       "ipa": "ˈkeri aˈdulah aˈʁaj ˈpejra kawt ˈbana ˈdɛwi ˈpjeru ˈtaalan ˈkerdi su",
       "zazaki": "kêri Adûlah ağay pêyra kawt bana dewi pyêrû taalan kêrdi sû",
-      "bingol": "Mend vist roc, Xelef ağay şı kewt key Qotweson, Heyder ağay ra va:",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -17856,10 +18078,6 @@
         {
           "label": "ZAZAKI",
           "value": "kêri Adûlah ağay pêyra kawt bana dewi pyêrû taalan kêrdi sû"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Mend vist roc, Xelef ağay şı kewt key Qotweson, Heyder ağay ra va:"
         },
         {
           "label": "ENGLISH",
@@ -18137,7 +18355,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s05_l02",
@@ -18146,7 +18367,6 @@
       "lerch": "aneí Ńerbid̮ān pyéru kíšti, pé̱si dīne̱ pyéru ārd.",
       "ipa": "aˈnej ɲerbid͡ʒaːn ˈpjeru ˈkiʃti ˈpɛsi diːnɛ ˈpjeru aːrd",
       "zazaki": "anêy Nyêrbican pyêrû kişti pesi dine pyêrû ard",
-      "bingol": "\"Ez kewta bexti tû, Evdulah ağay Kelon eskeri",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -18162,10 +18382,6 @@
         {
           "label": "ZAZAKI",
           "value": "anêy Nyêrbican pyêrû kişti pesi dine pyêrû ard"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Ez kewta bexti tû, Evdulah ağay Kelon eskeri"
         },
         {
           "label": "ENGLISH",
@@ -18385,7 +18601,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s05_l03",
@@ -18394,7 +18613,6 @@
       "lerch": "Mend vīst rōd, Xaléf aγái šē kaut kei Qótwe̱san, Haidér",
       "ipa": "mend viːst roːd xaˈlef aˈʁaj ʃeː kawt kej ˈqotwɛsan hajˈder",
       "zazaki": "Mênd vist rod Xalêf ağay şê kawt kêy Qotwesan Haydêr",
-      "bingol": "mı piyeru kişt, dewi mı piyeru veşnay, talan kerdı.\"",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -18410,10 +18628,6 @@
         {
           "label": "ZAZAKI",
           "value": "Mênd vist rod Xalêf ağay şê kawt kêy Qotwesan Haydêr"
-        },
-        {
-          "label": "BINGOL",
-          "value": "mı piyeru kişt, dewi mı piyeru veşnay, talan kerdı.\""
         },
         {
           "label": "ENGLISH",
@@ -18668,7 +18882,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s05_l04",
@@ -18677,7 +18894,6 @@
       "lerch": "aγára vā: ez kaúta behti túe, Avdúl’ah aγái Kélān e̱skéri me pyéru",
       "ipa": "aˈʁara vaː ez ˈkawta behti ˈtwe avˈdulah aˈʁaj ˈkelaːn ɛsˈkeri me ˈpjeru",
       "zazaki": "ağara va êz kawta bêhti twê Avdûlah ağay Kêlan eskêri mê pyêrû",
-      "bingol": "Heyder ağa va ki Xelef ağay ra:",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -18693,10 +18909,6 @@
         {
           "label": "ZAZAKI",
           "value": "ağara va êz kawta bêhti twê Avdûlah ağay Kêlan eskêri mê pyêrû"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Heyder ağa va ki Xelef ağay ra:"
         },
         {
           "label": "ENGLISH",
@@ -19008,7 +19220,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s05_l05",
@@ -19017,7 +19232,6 @@
       "lerch": "kišt, dé̱wi me pyéru ve̱šnai, tá’alan kérdi. Haidér aγá vā ke Xa-",
       "ipa": "kiʃt ˈdɛwi me ˈpjeru vɛʃnaj ˈtaalan ˈkerdi hajˈder aˈʁa vaː ke xa",
       "zazaki": "kişt dewi mê pyêrû veşnay taalan kêrdi Haydêr ağa va kê Xa",
-      "bingol": "\"Tı mı ra vani se, ez nêşena Siwonjon",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -19033,10 +19247,6 @@
         {
           "label": "ZAZAKI",
           "value": "kişt dewi mê pyêrû veşnay taalan kêrdi Haydêr ağa va kê Xa"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Tı mı ra vani se, ez nêşena Siwonjon"
         },
         {
           "label": "ENGLISH",
@@ -19337,7 +19547,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s05_l06",
@@ -19346,7 +19559,6 @@
       "lerch": "léf aγāira: te méra vāni se, ez néšyén’a Sivāṅdānde kauγé bikéra,",
       "ipa": "ˈlef aʁaːjra te ˈmera vaːni se ez ˈneʃˈjena sivaːŋdaːnde kawˈʁe biˈkera",
       "zazaki": "lêf ağayra tê mêra vani sê êz nêşyêna Sivangdandê kawğê bikêra",
-      "bingol": "dı qewğe bıkeri, Siwonij peynay ma hemıni kışeni.\"",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -19362,10 +19574,6 @@
         {
           "label": "ZAZAKI",
           "value": "lêf ağayra tê mêra vani sê êz nêşyêna Sivangdandê kawğê bikêra"
-        },
-        {
-          "label": "BINGOL",
-          "value": "dı qewğe bıkeri, Siwonij peynay ma hemıni kışeni.\""
         },
         {
           "label": "ENGLISH",
@@ -19687,7 +19895,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s05_l07",
@@ -19696,7 +19907,6 @@
       "lerch": "Sivāṅdi peínai mā hémine kišén’i. Xaléf aγái vā ke: ez kaúta",
       "ipa": "sivaːŋdi ˈpejnaj maː ˈhemine kiˈʃeni xaˈlef aˈʁaj vaː ke ez ˈkawta",
       "zazaki": "Sivangdi pêynay ma hêminê kişêni Xalêf ağay va kê êz kawta",
-      "bingol": "Xelef ağay va ki:",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -19712,10 +19922,6 @@
         {
           "label": "ZAZAKI",
           "value": "Sivangdi pêynay ma hêminê kişêni Xalêf ağay va kê êz kawta"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Xelef ağay va ki:"
         },
         {
           "label": "ENGLISH",
@@ -20004,7 +20210,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s05_l08",
@@ -20013,7 +20222,6 @@
       "lerch": "béhti túe, bye me bére kei Avdúl’ah aγái, mā pya wé̱ši ke, t̮ikáske",
       "ipa": "ˈbehti ˈtwe bje me ˈbere kej avˈdulah aˈʁaj maː pja ˈwɛʃi ke t͡ʃiˈkaske",
       "zazaki": "bêhti twê byê mê bêrê kêy Avdûlah ağay ma pya weşi kê çikaskê",
-      "bingol": "\"Ez kewta bexti tu, biye mı berı kiyê Evdulah ağay, ma",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -20029,10 +20237,6 @@
         {
           "label": "ZAZAKI",
           "value": "bêhti twê byê mê bêrê kêy Avdûlah ağay ma pya weşi kê çikaskê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Ez kewta bexti tu, biye mı berı kiyê Evdulah ağay, ma"
         },
         {
           "label": "ENGLISH",
@@ -20369,6 +20573,9 @@
           "gloss_de": "versöhnen",
           "source": "Sivan mediation passage; pya weşi ke is a phrase-level reconciliation verb."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -20378,7 +20585,6 @@
       "lerch": "keifi túe wazén’u ez māl dāna túe. Haidér aγá we̱ríšt be espār,",
       "ipa": "kejfi ˈtwe waˈzenu ez maːl daːna ˈtwe hajˈder aˈʁa wɛˈriʃt be espaːr",
       "zazaki": "kêyfi twê wazênû êz mal dana twê Haydêr ağa werişt bê êspar",
-      "bingol": "piya weşı ke, çıqas ki keyfi tu wazenu ez mal dana tu.\"",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -20394,10 +20600,6 @@
         {
           "label": "ZAZAKI",
           "value": "kêyfi twê wazênû êz mal dana twê Haydêr ağa werişt bê êspar"
-        },
-        {
-          "label": "BINGOL",
-          "value": "piya weşı ke, çıqas ki keyfi tu wazenu ez mal dana tu.\""
         },
         {
           "label": "ENGLISH",
@@ -20709,7 +20911,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s05_l10",
@@ -20718,7 +20923,6 @@
       "lerch": "kaut Xaléf aγái ve̱r, āmeí ši Sivān, kaúti kei Avdúl’ah aγái.",
       "ipa": "kawt xaˈlef aˈʁaj vɛr aːˈmej ʃi sivaːn ˈkawti kej avˈdulah aˈʁaj",
       "zazaki": "kawt Xalêf ağay ver amêy şi Sivan kawti kêy Avdûlah ağay",
-      "bingol": "Heyder ağa werışt bı espar, kewt Xelef ağay ver, amey şi Siwon, kewti kiyê",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -20734,10 +20938,6 @@
         {
           "label": "ZAZAKI",
           "value": "kawt Xalêf ağay ver amêy şi Sivan kawti kêy Avdûlah ağay"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Heyder ağa werışt bı espar, kewt Xelef ağay ver, amey şi Siwon, kewti kiyê"
         },
         {
           "label": "ENGLISH",
@@ -21015,7 +21215,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s05_l11",
@@ -21024,7 +21227,6 @@
       "lerch": "Haidér aγá hírye gelāṅke šē launā Avdúl’ah aγá língeru vā ke:",
       "ipa": "hajˈder aˈʁa ˈhirje gelaːŋke ʃeː lawnaː avˈdulah aˈʁa ˈlingeru vaː ke",
       "zazaki": "Haydêr ağa hiryê gêlangkê şê lawna Avdûlah ağa lingêrû va kê",
-      "bingol": "Evdulah ağay. Heyder ağa hirye gelankı şı lew na Evdulah ağa lıngı ru va ki:",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -21040,10 +21242,6 @@
         {
           "label": "ZAZAKI",
           "value": "Haydêr ağa hiryê gêlangkê şê lawna Avdûlah ağa lingêrû va kê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Evdulah ağay. Heyder ağa hirye gelankı şı lew na Evdulah ağa lıngı ru va ki:"
         },
         {
           "label": "ENGLISH",
@@ -21321,7 +21519,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s05_l12",
@@ -21330,7 +21531,6 @@
       "lerch": "te aγái ê̱n’a gelāṅke bi̥di riḍai me Xaléf aγái. Avdúl’ah aγá vā",
       "ipa": "te aˈʁaj ɛna gelaːŋke bɨdi ridaj me xaˈlef aˈʁaj avˈdulah aˈʁa vaː",
       "zazaki": "tê ağay ena gêlangkê bıdi riday mê Xalêf ağay Avdûlah ağa va",
-      "bingol": "\"Ti ağay, ena gelankı bıdı ricay mı Xelef ağay.\"",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -21346,10 +21546,6 @@
         {
           "label": "ZAZAKI",
           "value": "tê ağay ena gêlangkê bıdi riday mê Xalêf ağay Avdûlah ağa va"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Ti ağay, ena gelankı bıdı ricay mı Xelef ağay.\""
         },
         {
           "label": "ENGLISH",
@@ -21650,7 +21846,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s05_l13",
@@ -21659,7 +21858,6 @@
       "lerch": "ke Xaidér aγára: é̱k’e te ńameíni me Xaléf aγāira yau zirōt vé̱ra",
       "ipa": "ke xajˈder aˈʁara ˈɛke te ɲaˈmejni me xaˈlef aʁaːjra jaw ziroːt ˈvɛra",
       "zazaki": "kê Xaydêr ağara ekê tê nyamêyni mê Xalêf ağayra yaw zirot vera",
-      "bingol": "Evdulah ağa va ki Heyder ağa ra:",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -21675,10 +21873,6 @@
         {
           "label": "ZAZAKI",
           "value": "kê Xaydêr ağara ekê tê nyamêyni mê Xalêf ağayra yaw zirot vera"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Evdulah ağa va ki Heyder ağa ra:"
         },
         {
           "label": "ENGLISH",
@@ -22001,7 +22195,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s05_l14",
@@ -22010,7 +22207,6 @@
       "lerch": "ńedāni, ez ka peínai dauāni Ńeríbi ve̱šna, hémine tá’alan ka, t̮im-",
       "ipa": "ɲedaːni ez ka ˈpejnaj dawaːni ɲeˈribi vɛʃna ˈhemine ˈtaalan ka t͡ʃim",
       "zazaki": "nyêdani êz ka pêynay dawani Nyêribi veşna hêminê taalan ka çim",
-      "bingol": "\"Ek tı nêameyni mı Xelef ağay ra yew zirot vera nêdani, ez ka peynay",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -22026,10 +22222,6 @@
         {
           "label": "ZAZAKI",
           "value": "nyêdani êz ka pêynay dawani Nyêribi veşna hêminê taalan ka çim"
-        },
-        {
-          "label": "BINGOL",
-          "value": "\"Ek tı nêameyni mı Xelef ağay ra yew zirot vera nêdani, ez ka peynay"
         },
         {
           "label": "ENGLISH",
@@ -22329,7 +22521,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s05_l15",
@@ -22338,7 +22533,6 @@
       "lerch": "ke te āmeí me Xaléf aγá kerd báxši túe. Haidér aγái launā Av-",
       "ipa": "ke te aːˈmej me xaˈlef aˈʁa kerd ˈbaxʃi ˈtwe hajˈder aˈʁaj lawnaː av",
       "zazaki": "kê tê amêy mê Xalêf ağa kêrd baxşi twê Haydêr ağay lawna Av",
-      "bingol": "dewoni Nêribı veşna, hemıni talan ke, çımki tı amey, mı Xelef ağa kerda baxşi tu.\"",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -22354,10 +22548,6 @@
         {
           "label": "ZAZAKI",
           "value": "kê tê amêy mê Xalêf ağa kêrd baxşi twê Haydêr ağay lawna Av"
-        },
-        {
-          "label": "BINGOL",
-          "value": "dewoni Nêribı veşna, hemıni talan ke, çımki tı amey, mı Xelef ağa kerda baxşi tu.\""
         },
         {
           "label": "ENGLISH",
@@ -22681,7 +22871,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s06_l01",
@@ -22690,7 +22883,6 @@
       "lerch": "dúl’a aγá sé̱reru šē Xaléf aγá ārd, launā Avdúl’ah aγá língeru,",
       "ipa": "ˈdula aˈʁa ˈsɛreru ʃeː xaˈlef aˈʁa aːrd lawnaː avˈdulah aˈʁa ˈlingeru",
       "zazaki": "dûla ağa serêrû şê Xalêf ağa ard lawna Avdûlah ağa lingêrû",
-      "bingol": "Heyder ağay lew na Evdulah ağa sare ru, şı Xelef ağa",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -22706,10 +22898,6 @@
         {
           "label": "ZAZAKI",
           "value": "dûla ağa serêrû şê Xalêf ağa ard lawna Avdûlah ağa lingêrû"
-        },
-        {
-          "label": "BINGOL",
-          "value": "Heyder ağay lew na Evdulah ağa sare ru, şı Xelef ağa"
         },
         {
           "label": "ENGLISH",
@@ -22987,7 +23175,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s06_l02",
@@ -22996,7 +23187,6 @@
       "lerch": "Avdúl’ah aγá launā Xaléf aγá dé̱stru, pya be wé̱ši, xalaí dai pyéra.",
       "ipa": "avˈdulah aˈʁa lawnaː xaˈlef aˈʁa ˈdɛstru pja be ˈwɛʃi xaˈlaj daj ˈpjera",
       "zazaki": "Avdûlah ağa lawna Xalêf ağa destrû pya bê weşi xalay day pyêra",
-      "bingol": "ard, lew na Evdulah ağa lıngı ru, Evdulah ağa lew na Xelef",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -23012,10 +23202,6 @@
         {
           "label": "ZAZAKI",
           "value": "Avdûlah ağa lawna Xalêf ağa destrû pya bê weşi xalay day pyêra"
-        },
-        {
-          "label": "BINGOL",
-          "value": "ard, lew na Evdulah ağa lıngı ru, Evdulah ağa lew na Xelef"
         },
         {
           "label": "ENGLISH",
@@ -23340,6 +23526,9 @@
           "gloss_de": "sie versöhnten sich",
           "source": "Final reconciliation formula in the Sivan and Hyeni feud stories."
         }
+      ],
+      "hidden_rows": [
+        "LEMMA"
       ]
     },
     {
@@ -23349,7 +23538,6 @@
       "lerch": "Xaidér aγá we̱ríšt, xati̥r waišt Avdúl’ah aγāira, Xaléf aγá ge-",
       "ipa": "xajˈder aˈʁa wɛˈriʃt xatɨr wajʃt avˈdulah aʁaːjra xaˈlef aˈʁa ge",
       "zazaki": "Xaydêr ağa werişt xatır wayşt Avdûlah ağayra Xalêf ağa gê",
-      "bingol": "ağa dest ru, piya bi weşi, xelay day piyera. Heyder ağa",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -23365,10 +23553,6 @@
         {
           "label": "ZAZAKI",
           "value": "Xaydêr ağa werişt xatır wayşt Avdûlah ağayra Xalêf ağa gê"
-        },
-        {
-          "label": "BINGOL",
-          "value": "ağa dest ru, piya bi weşi, xelay day piyera. Heyder ağa"
         },
         {
           "label": "ENGLISH",
@@ -23634,7 +23818,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     },
     {
       "id": "s06_l04",
@@ -23643,7 +23830,6 @@
       "lerch": "raút, ši keíye. Térek nā.",
       "ipa": "ˈrawt ʃi ˈkejje ˈterek naː",
       "zazaki": "rawt şi kêyyê Têrêk na",
-      "bingol": "werışt, xatır waşt Evdulah ağay ra, Xelef ağa gerewt şı kiye. Terekna.",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -23659,10 +23845,6 @@
         {
           "label": "ZAZAKI",
           "value": "rawt şi kêyyê Têrêk na"
-        },
-        {
-          "label": "BINGOL",
-          "value": "werışt, xatır waşt Evdulah ağay ra, Xelef ağa gerewt şı kiye. Terekna."
         },
         {
           "label": "ENGLISH",
@@ -23802,7 +23984,10 @@
           ]
         }
       ],
-      "phrase_matches": []
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA"
+      ]
     }
   ]
 }
