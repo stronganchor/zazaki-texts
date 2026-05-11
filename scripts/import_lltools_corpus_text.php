@@ -6,8 +6,6 @@
  * php scripts/import_lltools_corpus_text.php \
  *   --wp-root="/path/to/wordpress" \
  *   --payload="texts/lerch/kauge-nyerib-u-sivani/text-document.json" \
- *   --wordset-slug="zazaki-historical-texts" \
- *   --wordset-name="Zazaki Historical Texts" \
  *   --post-slug="lerch-kauge-nyerib-u-sivani" \
  *   --status="publish"
  */
@@ -87,14 +85,21 @@ function ll_texts_import_find_attachment_by_source(string $source_key): int {
     return !empty($attachments) ? (int) $attachments[0] : 0;
 }
 
-function ll_texts_import_asset(string $asset_path, int $post_id): array {
+function ll_texts_import_asset(string $asset_path, int $post_id, string $source_key = ''): array {
     $real_path = realpath($asset_path);
     if (!is_string($real_path) || $real_path === '' || !is_file($real_path)) {
         return ['attachment_id' => 0, 'url' => ''];
     }
 
-    $source_key = ll_texts_import_normalize_path($real_path);
+    $legacy_source_key = ll_texts_import_normalize_path($real_path);
+    $source_key = $source_key !== '' ? ll_texts_import_normalize_path($source_key) : $legacy_source_key;
     $existing_id = ll_texts_import_find_attachment_by_source($source_key);
+    if ($existing_id <= 0 && $source_key !== $legacy_source_key) {
+        $existing_id = ll_texts_import_find_attachment_by_source($legacy_source_key);
+        if ($existing_id > 0) {
+            update_post_meta($existing_id, '_ll_texts_source_asset', $source_key);
+        }
+    }
     if ($existing_id > 0) {
         $existing_url = wp_get_attachment_url($existing_id);
         return ['attachment_id' => $existing_id, 'url' => is_string($existing_url) ? $existing_url : ''];
@@ -141,6 +146,10 @@ function ll_texts_import_prepare_payload_images(array $payload, string $payload_
         return $payload;
     }
 
+    $lesson_id = isset($payload['lesson_id']) && is_scalar($payload['lesson_id'])
+        ? sanitize_title((string) $payload['lesson_id'])
+        : sanitize_title(basename($payload_dir));
+
     foreach ($payload['source_lines'] as &$line) {
         if (!is_array($line) || empty($line['witnesses']) || !is_array($line['witnesses'])) {
             continue;
@@ -158,7 +167,10 @@ function ll_texts_import_prepare_payload_images(array $payload, string $payload_
             }
 
             $asset_path = $payload_dir . DIRECTORY_SEPARATOR . str_replace(['/', '\\'], DIRECTORY_SEPARATOR, $image_url);
-            $asset = ll_texts_import_asset($asset_path, $post_id);
+            $source_key = $lesson_id !== ''
+                ? $lesson_id . '/' . ll_texts_import_normalize_path($image_url)
+                : ll_texts_import_normalize_path($image_url);
+            $asset = ll_texts_import_asset($asset_path, $post_id, $source_key);
             if (!empty($asset['url'])) {
                 $witness['source_asset'] = $image_url;
                 $witness['image_url'] = (string) $asset['url'];
@@ -177,6 +189,7 @@ $options = getopt('', [
     'payload:',
     'wordset-slug:',
     'wordset-name::',
+    'no-wordset',
     'post-slug::',
     'status::',
 ]);
@@ -186,8 +199,9 @@ if (!is_array($options)) {
 
 $wp_root = ll_texts_import_option($options, 'wp-root');
 $payload_path = ll_texts_import_option($options, 'payload');
-$wordset_slug = ll_texts_import_option($options, 'wordset-slug', 'zazaki-historical-texts');
+$wordset_slug = ll_texts_import_option($options, 'wordset-slug');
 $wordset_name = ll_texts_import_option($options, 'wordset-name', 'Zazaki Historical Texts');
+$no_wordset = array_key_exists('no-wordset', $options) || $wordset_slug === '';
 $post_slug = ll_texts_import_option($options, 'post-slug');
 $status = ll_texts_import_option($options, 'status', 'publish');
 
@@ -221,13 +235,29 @@ $post_slug = $post_slug !== ''
     ? sanitize_title($post_slug)
     : sanitize_title((string) ($payload['lesson_id'] ?? ($payload['title'] ?? 'corpus-text')));
 $title = isset($payload['title']) && is_scalar($payload['title']) ? (string) $payload['title'] : $post_slug;
-$wordset_id = ll_texts_import_ensure_wordset($wordset_slug, $wordset_name);
+$metadata = isset($payload['metadata']) && is_array($payload['metadata']) ? $payload['metadata'] : [];
+$excerpt = '';
+foreach (['excerpt', 'summary_text', 'description'] as $excerpt_key) {
+    if (isset($metadata[$excerpt_key]) && is_scalar($metadata[$excerpt_key]) && trim((string) $metadata[$excerpt_key]) !== '') {
+        $excerpt = trim((string) $metadata[$excerpt_key]);
+        break;
+    }
+    if (isset($payload[$excerpt_key]) && is_scalar($payload[$excerpt_key]) && trim((string) $payload[$excerpt_key]) !== '') {
+        $excerpt = trim((string) $payload[$excerpt_key]);
+        break;
+    }
+}
+if ($excerpt === '') {
+    $excerpt = 'Historical Zazaki text with source witnesses, interlinear analysis, and translations.';
+}
+$wordset_id = $no_wordset ? 0 : ll_texts_import_ensure_wordset($wordset_slug, $wordset_name);
 
 $post = ll_texts_import_find_post_by_slug($post_slug);
 if ($post instanceof WP_Post) {
     $post_id = wp_update_post([
         'ID' => (int) $post->ID,
         'post_title' => $title,
+        'post_excerpt' => $excerpt,
         'post_status' => $status,
         'post_type' => 'll_content_lesson',
     ], true);
@@ -237,7 +267,7 @@ if ($post instanceof WP_Post) {
         'post_status' => $status,
         'post_title' => $title,
         'post_name' => $post_slug,
-        'post_excerpt' => 'Historical Zazaki text with source witnesses, interlinear analysis, and translations.',
+        'post_excerpt' => $excerpt,
     ], true);
 }
 if (is_wp_error($post_id) || (int) $post_id <= 0) {
@@ -246,9 +276,35 @@ if (is_wp_error($post_id) || (int) $post_id <= 0) {
 }
 $post_id = (int) $post_id;
 
-update_post_meta($post_id, LL_TOOLS_CONTENT_LESSON_WORDSET_META, (string) $wordset_id);
+if ($wordset_id > 0) {
+    update_post_meta($post_id, LL_TOOLS_CONTENT_LESSON_WORDSET_META, (string) $wordset_id);
+} else {
+    delete_post_meta($post_id, LL_TOOLS_CONTENT_LESSON_WORDSET_META);
+}
 if (defined('LL_TOOLS_CONTENT_LESSON_KIND_META')) {
     update_post_meta($post_id, LL_TOOLS_CONTENT_LESSON_KIND_META, 'corpus_text');
+}
+
+$collection = isset($metadata['collection']) && is_scalar($metadata['collection']) ? sanitize_title((string) $metadata['collection']) : '';
+$collection_label = isset($metadata['collection_label']) && is_scalar($metadata['collection_label']) ? sanitize_text_field((string) $metadata['collection_label']) : '';
+$source_author = isset($metadata['source_author']) && is_scalar($metadata['source_author']) ? sanitize_text_field((string) $metadata['source_author']) : '';
+$collection_meta = defined('LL_TOOLS_CONTENT_LESSON_CORPUS_COLLECTION_META') ? LL_TOOLS_CONTENT_LESSON_CORPUS_COLLECTION_META : '_ll_tools_corpus_text_collection';
+$collection_label_meta = defined('LL_TOOLS_CONTENT_LESSON_CORPUS_COLLECTION_LABEL_META') ? LL_TOOLS_CONTENT_LESSON_CORPUS_COLLECTION_LABEL_META : '_ll_tools_corpus_text_collection_label';
+$source_author_meta = defined('LL_TOOLS_CONTENT_LESSON_CORPUS_SOURCE_AUTHOR_META') ? LL_TOOLS_CONTENT_LESSON_CORPUS_SOURCE_AUTHOR_META : '_ll_tools_corpus_text_source_author';
+if ($collection !== '') {
+    update_post_meta($post_id, $collection_meta, $collection);
+} else {
+    delete_post_meta($post_id, $collection_meta);
+}
+if ($collection_label !== '') {
+    update_post_meta($post_id, $collection_label_meta, $collection_label);
+} else {
+    delete_post_meta($post_id, $collection_label_meta);
+}
+if ($source_author !== '') {
+    update_post_meta($post_id, $source_author_meta, $source_author);
+} else {
+    delete_post_meta($post_id, $source_author_meta);
 }
 
 $payload = ll_texts_import_prepare_payload_images($payload, dirname($payload_real_path), $post_id);

@@ -1,0 +1,694 @@
+story_id	segment_id	token_index	token_lerch	token_zazaki	morpheme_index	morpheme_surface_lerch	morpheme_normalized	lemma	gloss	pos	features	confidence	evidence	notes
+Áli aγá lā́d̮i Kelháni	a01_l01	0	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l01	1	aγá	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l01	2	lā́d̮i	laci	0	lā́d̮	lac	lad	son			high	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l01	2	lā́d̮i	laci	1	i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l01	3	Kelháni	Kêlhani	0	Kelháni	Kêlhani	kelhani	Kelhan, name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l01	4	mírei	mirêy	0	mírei	mirêy	mirei	chief			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l01	5	nah̔eí	na'hêy	0	nah̔eí	na'hêy	nahei	district			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l01	6	Karbe̱gā́ni.	Karbegani	0	Karbe̱gā́ni	Karbegani	karbegani	Karbegan, place name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l01	7	Nameí	Namêy	0	Nameí	Namêy	namei	name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l01	8	daú’ai	daway	0	daú’ai	daway	dauai	of the village			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l02	0	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l02	1	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l02	1	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l02	2	Nārbyẹ̄́š.	Narbyêş	0	Nārbyẹ̄́š	Narbyêş	narbyes	Narbyes, village name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l02	3	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l02	4	aγá	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l02	5	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l02	6	daú’āṅ	dawang	0	daú’	daw	daw	village			high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a01_l02	6	daú’āṅ	dawang	1	āṅ	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a01_l02	7	dā	da	0	dā	da	da	overran			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l02	8	pyérū,	pyêrû	0	pyérū	pyêrû	pyeru	all			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l02	9	híris	hiris	0	híris	hiris	hiris	thirty			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l02	10	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l02	11	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l03	0	kíšti.	kişti	0	kíšti	kişti	kisti	killed			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l03	1	T̮aúdi	Çawdi	0	T̮aúdi	Çawdi	taudi	nothing			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l03	2	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l03	3	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l03	3	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l03	4	t̮i	çi	0	t̮i	çi	ti	thing			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l03	5	ńébe,	nyêbê	0	ńé	ne	ne-	NEG	prefix	polarity=negative	high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.	
+Áli aγá lā́d̮i Kelháni	a01_l03	5	ńébe,	nyêbê	1	be	bê	be	be			high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.	
+Áli aγá lā́d̮i Kelháni	a01_l03	6	t̮é̱wi	çewi	0	t̮é̱wi	çewi	tewi	no one			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l03	7	dé̱sti	desti	0	dé̱sti	desti	desti	hand			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l03	8	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l03	9	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l03	9	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l03	10	ńegeraút.	nyêgêrawt	0	ńe	ne	ne-	NEG	prefix	polarity=negative	high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.	
+Áli aγá lā́d̮i Kelháni	a01_l03	10	ńegeraút.	nyêgêrawt	1	geraút	gêrawt	geraut	seize			high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.	
+Áli aγá lā́d̮i Kelháni	a01_l03	11	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l04	0	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l04	0	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l04	1	keíye	kêyyê	0	keíye	kêyyê	keiye	house			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l04	2	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l04	3	bār	bar	0	bār	bar	bar	load			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l04	4	kerd,	kêrd	0	kerd	kêrd	kerd	did			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l04	5	šẹ̄	şê	0	šẹ̄	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l04	6	Syérat̮ūre.	Syêraçûrê	0	Syérat̮ūre	Syêraçûrê	syerature	Syerature, place name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l04	7	Híris	Hiris	0	Híris	Hiris	hiris	thirty			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l04	8	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l04	9	še̱š	şeş	0	še̱š	şeş	ses	six			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l04	10	rṓd̮i	roci	0	rṓd̮i	roci	rodi	days			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l04	11	vené̱rt	vênert	0	vené̱rt	vênert	venert	stayed			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l05	0	Syerat̮ūrede.	Syêraçûrêdê	0	Syerat̮ūre	Syêraçûrê	syerature	Syerature			medium	ZGP-0340; contextual locative -de.	
+Áli aγá lā́d̮i Kelháni	a01_l05	0	Syerat̮ūrede.	Syêraçûrêdê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.	
+Áli aγá lā́d̮i Kelháni	a01_l05	1	Híris	Hiris	0	Híris	Hiris	hiris	thirty			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l05	2	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l05	3	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l05	4	dé̱wi	dewi	0	dé̱wi	dewi	dewi	villages			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l05	5	Karbe̱gā́ni,	Karbegani	0	Karbe̱gā́ni	Karbegani	karbegani	Karbegan, place name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l05	6	híris	hiris	0	híris	hiris	hiris	thirty			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l05	7	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l05	8	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l05	9	dé̱wi	dewi	0	dé̱wi	dewi	dewi	villages			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l06	0	Sivā́ni	Sivani	0	Sivā́ni	Sivani	sivani	Sivan tribe			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l06	1	āmeí	amêy	0	āmeí	amêy	amei	came			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l06	2	pyesé̱r,	pyêser	0	pyesé̱r	pyêser	pyeser	together			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l06	3	méšore̱	mêşore	0	méšore̱	mêşore	mesore	council			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l06	4	ke̱rd,	kerd	0	ke̱rd	kerd	kerd	did			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l06	5	aγálerāni	ağalêrani	0	aγálerāni	ağalêrani	agalerani	the aghas			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l06	6	Sivā́ni,	Sivani	0	Sivā́ni	Sivani	sivani	Sivan tribe			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l06	7	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l06	8	aγá	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l07	0	Karbegā́ni,	Karbêgani	0	Karbegā́ni	Karbêgani	karbegani	Karbegan, place name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l07	1	Hʿasán	'Hasan	0	Hʿasán	'Hasan	hasan	Hasan, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l07	2	aγá	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l07	3	We̱šíni	Weşini	0	We̱šíni	Weşini	wesini	Wesini, group name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l07	4	āmeí	amêy	0	āmeí	amêy	amei	came			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l07	5	pyesé̱r	pyêser	0	pyesé̱r	pyêser	pyeser	together			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l07	6	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l07	7	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l07	8	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l07	9	šyẹ̄́ri	şyêri	0	šyẹ̄́ri	şyêri	syeri	go			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l07	10	kei	kêy	0	kei	kêy	kei	house			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l08	0	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l08	1	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l08	1	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l08	2	biā́ri	byari	0	bi	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a01_l08	2	biā́ri	byari	1	ā́ri	ari	ari	bring			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a01_l08	3	dau.	daw	0	dau	daw	dau	attack			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l08	4	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l08	5	aγá	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l08	6	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l08	7	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l08	8	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l08	9	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l08	10	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l08	10	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l08	11	beh̔apeíni,	bê'hapêyni	0	beh̔apeíni	bê'hapêyni	behapeini	deceive			medium	Lerch glossary has dihapinim = ich betruege; modern xapn/xapnayene evidence supports deceive/trick.	German and Russian free translations render this as 'hate'.
+Áli aγá lā́d̮i Kelháni	a01_l08	12	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l09	0	šaú’e	şawê	0	šaú’e	şawê	saue	night			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l09	1	vé̱ṅga	venga	0	vé̱ṅga	venga	venga	sound			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l09	2	eskére	êskêrê	0	eskére	êskêrê	eskere	army			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l09	3	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l09	4	di,	di	0	di	di	di	in			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l09	5	e̱skéri	eskêri	0	e̱skéri	eskêri	eskeri	army			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l09	6	daú’āṅ	dawang	0	daú’	daw	daw	village			high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a01_l09	6	daú’āṅ	dawang	1	āṅ	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a01_l09	7	wa	wa	0	wa	wa	wa	let			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l09	8	pyéru	pyêrû	0	pyéru	pyêrû	pyeru	all			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l09	9	béru	bêrû	0	béru	bêrû	beru	may come			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l09	10	pyesé̱r,	pyêser	0	pyesé̱r	pyêser	pyeser	together			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l10	0	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l10	1	šaú’e	şawê	0	šaú’e	şawê	saue	night			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l10	2	šyẹ̄́ri	şyêri	0	šyẹ̄́ri	şyêri	syeri	go			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l10	3	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l10	4	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l10	4	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l10	5	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l10	6	hé̱me	hemê	0	hé̱me	hemê	heme	all			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l10	7	lad̮ā́na	lacana	0	lad̮	lac	lad	son			high	Muller 1865, ZGP-0334 plural -an. Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l10	7	lad̮ā́na	lacana	1	ā́n	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a01_l10	7	lad̮ā́na	lacana	2	a	a	-a	EZ/OBL	case/linker	relation=ezafe_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l10	8	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l10	9	bi̥kší.	bıkşi	0	bi̥	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a01_l10	9	bi̥kší.	bıkşi	1	kší	kşi	ksi	kill			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a01_l10	10	Hʿasán	'Hasan	0	Hʿasán	'Hasan	hasan	Hasan, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a01_l10	11	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a01_l10	11	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l01	0	We̱šíni	Weşini	0	We̱šíni	Weşini	wesini	Wesini, group name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l01	1	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l01	2	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l01	3	ri̥nd	rınd	0	ri̥nd	rınd	rind	good			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l01	4	bén’u,	bênû	0	b	b	be	be			medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a02_l01	4	bén’u,	bênû	1	én’u	enu	-ena	PRS/FUT.3SG	suffix	tense_aspect=present_or_future;person=3;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a02_l01	5	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l01	6	šyẹ̄́ri	şyêri	0	šyẹ̄́ri	şyêri	syeri	go			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l01	7	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l01	8	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l01	8	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l01	9	biári	byari	0	bi	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a02_l01	9	biári	byari	1	ári	ari	ari	bring			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a02_l01	10	bi̥kší.	bıkşi	0	bi̥	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a02_l01	10	bi̥kší.	bıkşi	1	kší	kşi	ksi	kill			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a02_l01	11	Aγale-	Ağalê	0	Aγale	Ağalê	agale	aghas-			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l02	0	rā́ni	rani	0	rā́ni	rani	rani	-of			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l02	1	Sivā́ni	Sivani	0	Sivā́ni	Sivani	sivani	Sivan tribe			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l02	2	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l02	3	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l02	4	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l02	5	qarí̥š	qarış	0	qarí̥š	qarış	qaris	interference			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l02	6	ńebén’i.	nyêbêni	0	ńe	ne	ne-	NEG	prefix	polarity=negative	high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.	
+Áli aγá lā́d̮i Kelháni	a02_l02	6	ńebén’i.	nyêbêni	1	bén’i	bêni	beni	be			high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.	
+Áli aγá lā́d̮i Kelháni	a02_l02	7	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l02	8	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l02	8	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l02	9	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l02	10	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l02	11	šṳmári	şûmari	0	šṳmá	şıma	suma	2PL	pronoun	person=2;number=plural	high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.	
+Áli aγá lā́d̮i Kelháni	a02_l02	11	šṳmári	şûmari	1	ri	ri	ri	GOAL/RECIP	case/postposition	relation=goal_or_recipient	medium	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.	
+Áli aγá lā́d̮i Kelháni	a02_l03	0	lazím	lazim	0	lazím	lazim	lazim	necessary			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l03	1	ńu.	nyû	0	ńu	nyû	nu	not			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l03	2	Aγáleri	Ağalêri	0	Aγáleri	Ağalêri	agaleri	the aghas			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l03	3	Sivā́ni	Sivani	0	Sivā́ni	Sivani	sivani	Sivan tribe			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l03	4	d̮i	ci	0	d̮i	ci	di	in			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l03	5	giríai	giryay	0	giríai	giryay	giriai	withdrew			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l03	6	šī	şi	0	šī	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l03	7	kei	kêy	0	kei	kêy	kei	house			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l03	8	χóe.	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l03	9	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l03	10	aγá,	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l03	11	Hʿasán	'Hasan	0	Hʿasán	'Hasan	hasan	Hasan, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l04	0	aγá	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l04	1	ḗ̱n’ie	enyê	0	ḗ̱n’ie	enyê	enie	these			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l04	2	wírdi	wirdi	0	wírdi	wirdi	wirdi	two			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l04	3	šī,	şi	0	šī	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l04	4	kei	kêy	0	kei	kêy	kei	house			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l04	5	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l04	6	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l04	6	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l04	7	ārd	ard	0	ārd	ard	ard	brought			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l04	8	daú’e,	dawê	0	daú’e	dawê	daue	attack			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l04	9	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l04	10	hé̱me	hemê	0	hé̱me	hemê	heme	all			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l04	11	lad̮ā́na	lacana	0	lad̮	lac	lad	son			high	Muller 1865, ZGP-0334 plural -an. Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l04	11	lad̮ā́na	lacana	1	ā́n	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a02_l04	11	lad̮ā́na	lacana	2	a	a	-a	EZ/OBL	case/linker	relation=ezafe_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l05	0	bé̱rdi,	berdi	0	bé̱rdi	berdi	berdi	carried			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l05	1	kérdi	kêrdi	0	kérdi	kêrdi	kerdi	brought			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l05	2	wade̱i	wadey	0	wade̱i	wadey	wadei	house			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l05	3	Meh̔médi	Mê'hmêdi	0	Meh̔médi	Mê'hmêdi	mehmedi	Mehmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l05	4	Hʿendā́ni.	'Hêndani	0	Hʿendā́ni	'Hêndani	hendani	Hendani, name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l05	5	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l05	6	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l05	6	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l05	7	šaú’e	şawê	0	šaú’e	şawê	saue	night			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l05	8	h̔abére	'habêrê	0	h̔abére	'habêrê	habere	news			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l06	0	e̱ršau’úte	erşawûtê	0	e̱ršau’úte	erşawûtê	ersauute	sent			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l06	1	dauwā́na	dawwana	0	dauw	daw	daw	village			medium	Muller 1865, ZGP-0334 plural -an. Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l06	1	dauwā́na	dawwana	1	ā́n	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a02_l06	1	dauwā́na	dawwana	2	a	a	-a	OBL/GOAL	case/linker	relation=oblique_or_goal	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l06	2	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l06	3	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l06	4	ší̥ma	şıma	0	ší̥ma	şıma	sima	you			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l06	5	t̮e	çê	0	t̮e	çê	te	why	interrogative		medium	Reviewer note on a02_l06; line context asks why Ahmed is waiting.	
+Áli aγá lā́d̮i Kelháni	a02_l06	6	vené̱rti?	vênerti	0	vené̱rti	vênerti	venerti	waiting			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l06	7	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l06	8	šyẹ̄́ri	şyêri	0	šyẹ̄́ri	şyêri	syeri	go			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l06	9	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l06	10	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l06	10	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l06	11	bi̥kši.	bıkşi	0	bi̥	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a02_l06	11	bi̥kši.	bıkşi	1	kši	kşi	ksi	kill			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a02_l07	0	Dé̱wi	Dewi	0	Dé̱wi	Dewi	dewi	villages			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l07	1	pyéru	pyêrû	0	pyéru	pyêrû	pyeru	all			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l07	2	āmeí	amêy	0	āmeí	amêy	amei	came			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l07	3	pyesér,	pyêsêr	0	pyesér	pyêsêr	pyeser	together			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l07	4	šaú’e	şawê	0	šaú’e	şawê	saue	night			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l07	5	we̱ríšti,	werişti	0	weríšti	wêrişti	werist	arose			high	Reviewer note on a02_l07; line context has the men rising.	
+Áli aγá lā́d̮i Kelháni	a02_l07	6	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l07	7	sei	sêy	0	sei	sêy	sei	hundred			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l07	8	e̱skér	eskêr	0	e̱skér	eskêr	esker	soldier			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l07	9	vi̥d̮iai,	vıcyay	0	vi̥d̮iai	vıcyay	vidiai	came out			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l07	10	āmeí	amêy	0	āmeí	amêy	amei	came			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l08	0	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l08	1	aγá	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l08	2	h̔ēt.	'hêt	0	h̔ēt	'hêt	het	side			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l08	3	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l08	4	aγá	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l08	5	we̱ríšt	werişt	0	we̱ríšt	werişt	werist	rose			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l08	6	be	bê	0	be	bê	be	with/by	adposition	relation=instrumental_or_associative	medium	Reviewer note on a02_l08; compare modern pê instrumental.	
+Áli aγá lā́d̮i Kelháni	a02_l08	7	aspā́r,	aspar	0	aspā́r	aspar	aspar	horse			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l08	8	kaúta	kawta	0	kaúta	kawta	kauta	went			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l08	9	e̱skéri	eskêri	0	e̱skéri	eskêri	eskeri	army			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l08	10	ver,	vêr	0	ver	vêr	ver	front			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l09	0	āmeí	amêy	0	āmeí	amêy	amei	came			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l09	1	Γeíte,	Ğêytê	0	Γeíte	Ğêytê	geite	Xeyd, place name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l09	2	Γeítera	Ğêytêra	0	Γeíte	Ğêytê	Γeíte	Xeyd			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a02_l09	2	Γeítera	Ğêytêra	1	ra	ra	ra	ABL	postposition	relation=source	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a02_l09	3	seíte	sêytê	0	seíte	sêytê	seite	hundred men			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l09	4	geraút,	gêrawt	0	geraút	gêrawt	geraut	took			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l09	5	bi	bi	0	bi	bi	bi	to			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l09	6	pāṅd	pangd	0	pāṅd	pangd	pand	five			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l09	7	seíte	sêytê	0	seíte	sêytê	seite	hundred men			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l09	8	ši	şi	0	ši	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l09	9	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l09	10	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l09	10	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l09	11	h̔e̱t.	'het	0	h̔e̱t	'het	het	side			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l10	0	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l10	1	aγá	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l10	2	ši	şi	0	ši	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l10	3	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l10	4	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l10	4	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l10	5	hé̱te	hetê	0	hé̱te	hetê	hete	side			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l10	6	rōníšt	ronişt	0	rōníšt	ronişt	ronist	sat down			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l10	7	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l10	8	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l10	9	aγá,	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l10	10	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l10	11	amá	ama	0	amá	ama	ama	to come			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l10	12	túera	twêra	0	túe	twê	tu	2SG.OBL	pronoun	person=2;number=singular;case=oblique	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a02_l10	12	túera	twêra	1	ra	ra	ra	RECIP	postposition	relation=recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a02_l10	13	rīd̮	ric	0	rīd̮	ric	rid	request			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l11	0	amenét	amênêt	0	amenét	amênêt	amenet	plea			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l11	1	kén’a.	kêna	0	k	k	kerd	do/make			medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a02_l11	1	kén’a.	kêna	1	én’a	ena	-ena	PRS.1SG	suffix	tense_aspect=present;person=1;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a02_l11	2	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l11	3	aγá	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l11	4	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l11	5	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l11	6	aγá,	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l11	7	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l11	8	me̱h̔épine,	me'hêpinê	0	me̱	me	me-	NEG.IMP	prefix	polarity=negative;mood=imperative	high	Muller 1865, ZGP-0362 negative imperative me- prefix.	
+Áli aγá lā́d̮i Kelháni	a02_l11	8	me̱h̔épine,	me'hêpinê	1	h̔épine	'hêpinê	hepine	deceive			medium	Reviewer note links this to the same hapn/deceive family as beh̔apeíni; German/Russian are treated as possible mistranslations here.	Use 'deceive' unless stronger evidence supports the older angry gloss.
+Áli aγá lā́d̮i Kelháni	a02_l11	9	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l11	10	t̮ékāne	çêkanê	0	t̮ékāne	çêkanê	tekane	weapons			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l11	11	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l12	0	ńédāna.	nyêdana	0	ńé	ne	ne-	NEG	prefix	polarity=negative	high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.	
+Áli aγá lā́d̮i Kelháni	a02_l12	0	ńédāna.	nyêdana	1	dān	dan	dayene	give			medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a02_l12	0	ńédāna.	nyêdana	2	a	a	-a	PRS.1SG	suffix	tense_aspect=present;person=1;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a02_l12	1	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l12	2	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l12	2	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l12	3	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l12	4	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l12	5	mé̱terse,	metêrsê	0	mé̱	me	me-	NEG.IMP	prefix	polarity=negative;mood=imperative	high	Muller 1865, ZGP-0362 negative imperative me- prefix.	
+Áli aγá lā́d̮i Kelháni	a02_l12	5	mé̱terse,	metêrsê	1	terse	têrsê	terse	fear			high	Muller 1865, ZGP-0362 negative imperative me- prefix.	
+Áli aγá lā́d̮i Kelháni	a02_l12	6	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l12	7	túera	twêra	0	túe	twê	tu	2SG.OBL	pronoun	person=2;number=singular;case=oblique	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a02_l12	7	túera	twêra	1	ra	ra	ra	RECIP	postposition	relation=recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a02_l12	8	χa’íne	xainê	0	χa’íne	xainê	xaine	traitor			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l12	9	ńekén’a.	nyêkêna	0	ńe	ne	ne-	NEG	prefix	polarity=negative	high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.	
+Áli aγá lā́d̮i Kelháni	a02_l12	9	ńekén’a.	nyêkêna	1	k	k	kerd	do			medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a02_l12	9	ńekén’a.	nyêkêna	2	én’a	ena	-ena	PRS/FUT.1SG	suffix	tense_aspect=present_or_future;person=1;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a02_l12	10	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l13	0	aγá	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l13	1	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l13	2	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l13	3	te	tê	0	te	tê	te	you			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l13	4	χa’íni,	xaini	0	χa’íni	xaini	xaini	traitor			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l13	5	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l13	6	t̮ékāni	çêkani	0	t̮ékāni	çêkani	tekani	weapons			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l13	7	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l13	8	ńédāna	nyêdana	0	ńé	ne	ne-	NEG	prefix	polarity=negative	high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.	
+Áli aγá lā́d̮i Kelháni	a02_l13	8	ńédāna	nyêdana	1	dān	dan	dayene	give			medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a02_l13	8	ńédāna	nyêdana	2	a	a	-a	PRS.1SG	suffix	tense_aspect=present;person=1;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a02_l13	9	túe.	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l13	10	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l13	11	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l13	11	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l13	12	sué̱nd	swend	0	sué̱nd	swend	suend	oath			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l14	0	wend.	wênd	0	wend	wênd	wend	swore			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l14	1	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l14	2	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l14	2	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l14	3	t̮éki	çêki	0	t̮éki	çêki	teki	weapons			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l14	4	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l14	5	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l14	6	hé̱me	hemê	0	hé̱me	hemê	heme	all			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l14	7	lad̮ā́na	lacana	0	lā́d̮	lac	lad	son			high	Muller 1865, ZGP-0334 plural -an. Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l14	7	lad̮ā́na	lacana	1	ān	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a02_l14	7	lad̮ā́na	lacana	2	a	a	-a	EZ/OBL	case/linker	relation=ezafe_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a02_l14	8	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l14	9	ā́rye	aryê	0	ā́rye	aryê	arye	together			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l14	10	ké̱rdi,	kerdi	0	ké̱rdi	kerdi	kerdi	gathered			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l14	11	dai	day	0	dai	day	dai	gave			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a02_l14	12	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l01	0	aγaíra.	ağayra	0	aγa	ağa	aγa	agha			high	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l01	0	aγaíra.	ağayra	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l01	0	aγaíra.	ağayra	2	ra	ra	ra	RECIP	postposition	relation=recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a03_l01	1	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l01	2	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l01	2	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l01	3	geraút.	gêrawt	0	geraút	gêrawt	geraut	took			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l01	4	Ah̔méd	A'hmêd	0	Ah̔méd	A'hmêd	ahmed	Ahmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l01	5	lā́d̮i	laci	0	lā́d̮	lac	lad	son			high	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l01	5	lā́d̮i	laci	1	i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l01	6	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l01	7	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l01	7	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l01	8	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l01	9	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l01	10	h̔álō,	'halo	0	h̔álō	'halo	halo	uncle			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l01	11	t̮ékāni	çêkani	0	t̮ékāni	çêkani	tekani	weapons			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l02	0	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l02	1	mé̱bere,	mebêrê	0	mé̱	me	me-	NEG.IMP	prefix	polarity=negative;mood=imperative	high	Muller 1865, ZGP-0362 negative imperative me- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l02	1	mé̱bere,	mebêrê	1	bere	bêrê	bere	take			high	Muller 1865, ZGP-0362 negative imperative me- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l02	2	te	tê	0	te	tê	te	you			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l02	3	χa’íni,	xaini	0	χa’íni	xaini	xaini	traitor			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l02	4	baúki	bawki	0	baúki	bawki	bauki	perhaps			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l02	5	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l02	6	sé̱rede	serêdê	0	sé̱re	serê	sere	head			medium	ZGP-0340; contextual locative -de.	
+Áli aγá lā́d̮i Kelháni	a03_l02	6	sé̱rede	serêdê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.	
+Áli aγá lā́d̮i Kelháni	a03_l02	7	áqi̥l	aqıl	0	áqi̥l	aqıl	aqil	reason			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l02	8	t̮íńu,	çinyû	0	t̮íńu	çinyû	tinu	does not exist			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l02	9	rṓd̮ei	rocêy	0	rṓd̮ei	rocêy	rodei	day			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l02	10	ramazányu,	ramazanyû	0	ramazányu	ramazanyû	ramazanyu	is Ramadan			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l03	0	baúni,	bawni	0	baúni	bawni	bauni	look			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l03	1	χálō,	xalo	0	χálō	xalo	xalo	uncle			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l03	2	te	tê	0	te	tê	te	you			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l03	3	t̮ékāni	çêkani	0	t̮ékāni	çêkani	tekani	weapons			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l03	4	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l03	5	bén’i,	bêni	0	b	b	be	take/be			low	Muller 1865, ZGP-0356 present -ena/-ana material.	Stem reading depends on context; here the word-level gloss remains the safer guide.
+Áli aγá lā́d̮i Kelháni	a03_l03	5	bén’i,	bêni	1	én’i	eni	-ena	PRS/FUT	suffix	tense_aspect=present_or_future	medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a03_l03	6	peíni̥de	pêynıdê	0	peíni̥	pêynı	peini	end			high	Muller 1865, ZGP-0340 locative -de/-di.	
+Áli aγá lā́d̮i Kelháni	a03_l03	6	peíni̥de	pêynıdê	1	de	dê	de	LOC/TEMP	case	case=locative_or_temporal	high	Muller 1865, ZGP-0340 locative -de/-di.	
+Áli aγá lā́d̮i Kelháni	a03_l03	7	te	tê	0	te	tê	te	you			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l03	8	χa’ín	xain	0	χa’ín	xain	xain	traitor			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l03	9	ved̮í,	vêci	0	ved̮í	vêci	vedi	came out			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l03	10	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l03	11	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l03	12	ki̥-	kı	0	ki	ki	kist	kill			medium	Line-break split token; combine with following sén'a for kišén'a.	
+Áli aγá lā́d̮i Kelháni	a03_l04	0	sén’a.	sêna	0	s	ş	kist	kill stem continuation			low	Line-break split token; continuation of preceding ki-.	
+Áli aγá lā́d̮i Kelháni	a03_l04	0	sén’a.	sêna	1	én’a	ena	-ena	PRS/FUT.1SG	suffix	tense_aspect=present_or_future;person=1;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a03_l04	1	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l04	2	aγā́	ağa	0	aγā́	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l04	3	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l04	4	ke	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l04	5	Ah̔médira:	A'hmêdira	0	Ah̔médi	A'hmêdi	Ahmed	Ahmed			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a03_l04	5	Ah̔médira:	A'hmêdira	1	ra	ra	ra	RECIP	postposition	relation=recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a03_l04	6	wáreza,	warêza	0	wáreza	warêza	wareza	nephew			high	Reviewer note: kinship term 'nephew' fits Ahmed calling Qasim Agha xal; older translations confused it with a rise/get-up form.	
+Áli aγá lā́d̮i Kelháni	a03_l04	7	mé̱terse.	metêrsê	0	mé̱	me	me-	NEG.IMP	prefix	polarity=negative;mood=imperative	high	Muller 1865, ZGP-0362 negative imperative me- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l04	7	mé̱terse.	metêrsê	1	terse	têrsê	terse	fear			high	Muller 1865, ZGP-0362 negative imperative me- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l04	8	Ah̔médi	A'hmêdi	0	Ah̔médi	A'hmêdi	ahmedi	Ahmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l04	9	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l05	0	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l05	1	h̔álō	'halo	0	h̔álō	'halo	halo	uncle			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l05	2	χand̮érai	xancêray	0	χand̮érai	xancêray	xanderai	dagger			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l05	3	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l05	4	bi̥dé,	bıdê	0	bi̥	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l05	4	bi̥dé,	bıdê	1	dé	dê	de	give			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l05	5	ez	êz	0	ez	êz	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l05	6	zána,	zana	0	zán	zan	zanayis	know			medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a03_l05	6	zána,	zana	1	a	a	-a	PRS.1SG	suffix	tense_aspect=present;person=1;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a03_l05	7	te	tê	0	te	tê	te	you			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l05	8	χa’íni,	xaini	0	χa’íni	xaini	xaini	traitor			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l05	9	bye	byê	0	bye	byê	bye	come			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l05	10	bah̔tẹ̄́de	ba'htêdê	0	bah̔tẹ̄́de	ba'htêdê	bahtede	unfortunate			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l05	11	ti̥	tı	0	ti̥	tı	ti	you			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l05	12	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l06	0	kišén’i.	kişêni	0	kiš	kiş	kist	kill			high	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a03_l06	0	kišén’i.	kişêni	1	én’i	eni	-ena	PRS/FUT	suffix	tense_aspect=present_or_future	medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a03_l06	1	Hʿāli	'Hali	0	Hʿāli	'Hali	hali	uncle			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l06	2	χand̮érai	xancêray	0	χand̮érai	xancêray	xanderai	dagger			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l06	3	Ah̔médi	A'hmêdi	0	Ah̔médi	A'hmêdi	ahmedi	Ahmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l06	4	ńédai	nyêday	0	ńé	ne	ne-	NEG	prefix	polarity=negative	high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l06	4	ńédai	nyêday	1	dai	day	dai	give			high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l06	5	d̮e.	cê	0	d̮e	cê	de	to him			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l06	6	Hʿāl	'Hal	0	Hʿāl	'Hal	hal	uncle			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l06	7	še	şê	0	še	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l06	8	te̱bér,	tebêr	0	te̱bér	tebêr	teber	outside			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l06	9	e̱sḱéri	eskêri	0	e̱sḱéri	eskêri	eskeri	army			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l07	0	χóra	xora	0	χó	xo	xoe	self/own	pronoun		medium	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a03_l07	0	χóra	xora	1	ra	ra	ra	RECIP/GOAL	postposition	relation=recipient_or_goal	medium	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a03_l07	1	vā:	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l07	2	mé̱vindi,	mevindi	0	mé̱	me	me-	NEG.IMP	prefix	polarity=negative;mood=imperative	high	Muller 1865, ZGP-0362 negative imperative me- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l07	2	mé̱vindi,	mevindi	1	vindi	vindi	vindi	delay			high	Muller 1865, ZGP-0362 negative imperative me- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l07	3	t̮éki	çêki	0	t̮éki	çêki	teki	weapons			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l07	4	Ali	Ali	0	Ali	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l07	5	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l07	5	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l07	6	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l07	7	hé̱me	hemê	0	hé̱me	hemê	heme	all			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l07	8	lád̮ān	lacan	0	lā́d̮	lac	lad	son			high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a03_l07	8	lád̮ān	lacan	1	ān	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a03_l07	9	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l07	10	geraút,	gêrawt	0	geraút	gêrawt	geraut	took			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l07	11	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l08	0	āmá	ama	0	āmá	ama	ama	to come			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l08	1	te̱bér,	tebêr	0	te̱bér	tebêr	teber	outside			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l08	2	mé̱vindi,	mevindi	0	mé̱	me	me-	NEG.IMP	prefix	polarity=negative;mood=imperative	high	Muller 1865, ZGP-0362 negative imperative me- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l08	2	mé̱vindi,	mevindi	1	vindi	vindi	vindi	delay			high	Muller 1865, ZGP-0362 negative imperative me- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l08	3	ber	bêr	0	ber	bêr	ber	door			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l08	4	bi̥šíkni,	bışikni	0	bi̥	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l08	4	bi̥šíkni,	bışikni	1	šíkni	şikni	sikni	break			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l08	5	šyẹ̄́ri	şyêri	0	šyẹ̄́ri	şyêri	syeri	go			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l08	6	zé̱re,	zerê	0	zé̱re	zerê	zere	inside			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l08	7	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l08	8	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l08	8	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l08	9	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l08	10	hé̱me	hemê	0	hé̱me	hemê	heme	all			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l09	0	lád̮ān	lacan	0	lā́d̮	lac	lad	son			high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a03_l09	0	lád̮ān	lacan	1	ān	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a03_l09	1	bi̥kší;	bıkşi	0	bi̥	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l09	1	bi̥kší;	bıkşi	1	kší	kşi	ksi	kill			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l09	2	hém’a	hêma	0	hém’a	hêma	hema	however			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l09	3	des	dês	0	des	dês	des	ten			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l09	4	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l09	5	heíšti	hêyşti	0	heíšti	hêyşti	heisti	eight			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l09	6	mē̱rduó̤mi	merdwomi	0	mē̱rduó̤mi	merdwomi	merduomi				unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l09	7	γarī́bi	ğaribi	0	γarī́bi	ğaribi	garibi	strangers			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l09	8	yéne	yênê	0	yéne	yênê	yene	them			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l09	9	h̔é̱te	'hetê	0	h̔é̱te	'hetê	hete	side			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l09	10	é̱sti,	esti	0	é̱sti	esti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l10	0	yénera	yênêra	0	yéne	yênê	ye	3PL.OBL	pronoun	person=3;number=plural;case=oblique	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a03_l10	0	yénera	yênêra	1	ra	ra	ra	STIM/OBJ	postposition	relation=stimulus_or_object	high	Project ra convention: affective/contact object; German has 'die rühret nicht an'.	
+Áli aγá lā́d̮i Kelháni	a03_l10	1	ve̱	ve	0	ve̱	ve	ve	touch			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l10	2	mé̱ki.	meki	0	mé̱	me	me-	NEG.IMP	prefix	polarity=negative;mood=imperative	high	Muller 1865, ZGP-0362 negative imperative me- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l10	2	mé̱ki.	meki	1	ki	ki	ki	do/touch			high	Muller 1865, ZGP-0362 negative imperative me- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l10	3	E̱skéri	Eskêri	0	E̱skéri	Eskêri	eskeri	army			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l10	4	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l10	5	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l10	5	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l10	6	ber	bêr	0	ber	bêr	ber	door			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l10	7	šekít,	şêkit	0	šekít	şêkit	sekit	broke			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l10	8	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l10	9	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l10	9	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a03_l10	10	kaúta	kawta	0	kaúta	kawta	kauta	went			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l11	0	ve̱r,	ver	0	ve̱r	ver	ver	front			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l11	1	ve̱ṅg	vengg	0	ve̱ṅg	vengg	veng	Sound, Audio, Voice			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l11	2	dā	da	0	dā	da	da	called			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l11	3	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l11	4	ke	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l11	5	Ah̔médira:	A'hmêdira	0	Ah̔médi	A'hmêdi	Ahmed	Ahmed			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a03_l11	5	Ah̔médira:	A'hmêdira	1	ra	ra	ra	RECIP	postposition	relation=recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a03_l11	6	wáreza,	warêza	0	wáreza	warêza	wareza	nephew			high	Reviewer note: kinship term 'nephew' fits Ahmed calling Qasim Agha xal; older translations confused it with a rise/get-up form.	
+Áli aγá lā́d̮i Kelháni	a03_l11	7	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l11	8	ameíya,	amêyya	0	ameíya	amêyya	ameiya	I have come			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l11	9	ti̥	tı	0	ti̥	tı	ti	you			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l11	10	ku	kû	0	ku	kû	ku	where			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l11	11	sé̱ra	sera	0	sé̱ra	sera	sera	head			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l12	0	šyẹ̄́ri,	şyêri	0	šyẹ̄́ri	şyêri	syeri	go			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l12	1	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l12	2	sé̱rei	serêy	0	sé̱rei	serêy	serei	head			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l12	3	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l12	4	ḗ̱n’a	ena	0	ḗ̱n’a	ena	ena	this			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l12	5	gelā́ṅke	gêlangkê	0	gelā́ṅke	gêlangkê	gelanke	occasion			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l12	6	wén’a.	wêna	0	w	w	wena	cut			low	Muller 1865, ZGP-0356 present -ena/-ana material.	Stem is very short in this segmentation; keep under review.
+Áli aγá lā́d̮i Kelháni	a03_l12	6	wén’a.	wêna	1	én’a	ena	-ena	PRS.1SG	suffix	tense_aspect=present;person=1;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a03_l12	7	Ah̔médi	A'hmêdi	0	Ah̔médi	A'hmêdi	ahmedi	Ahmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l12	8	ve̱ṅg	vengg	0	ve̱ṅg	vengg	veng	Sound, Audio, Voice			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l12	9	dā	da	0	dā	da	da	called			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l12	10	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l12	11	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l13	0	Aláh	Alah	0	Aláh	Alah	alah	God			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l13	1	ī́zme	izmê	0	ī́zme	izmê	izme	permission			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l13	2	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l13	3	bi̥dú,	bıdû	0	bi̥	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l13	3	bi̥dú,	bıdû	1	dú	dû	du	give			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l13	4	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l13	5	túe	twê	0	túe	twê	tue	you			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l13	6	vé̱ri	veri	0	vé̱ri	veri	veri	first			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l13	7	eiχóe	êyxoê	0	eiχóe	êyxoê	eixoe	self			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l13	8	ki̥šén’a.	kışêna	0	kiš	kiş	kist	kill			high	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a03_l13	8	ki̥šén’a.	kışêna	1	én’a	ena	-ena	PRS/FUT.1SG	suffix	tense_aspect=present_or_future;person=1;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.	
+Áli aγá lā́d̮i Kelháni	a03_l13	9	Hʿāl	'Hal	0	Hʿāl	'Hal	hal	uncle			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l13	10	ši	şi	0	ši	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l13	11	ke	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l13	12	Ah̔médi	A'hmêdi	0	Ah̔médi	A'hmêdi	ahmedi	Ahmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l14	0	bi̥kšú.	bıkşû	0	bi̥	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l14	0	bi̥kšú.	bıkşû	1	kšú	kşû	ksu	kill			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a03_l14	1	Ah̔méd	A'hmêd	0	Ah̔méd	A'hmêd	ahmed	Ahmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l14	2	auńā́	awnya	0	auńā́	awnya	auna	saw			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l14	3	d́ési	dyêsi	0	d́ési	dyêsi	dyes	wall			high	Reviewer note: acute on d marks palatalized d; use IPA dʲ and Zazaki dy.	
+Áli aγá lā́d̮i Kelháni	a03_l14	4	we̱dí,	wedi	0	we̱dí	wedi	wedi	opening			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l14	5	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l14	6	ši̥bā́ke	şıbakê	0	ši̥bā́ke	şıbakê	sibake	grating			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l14	7	h̔ā	'ha	0	h̔ā	'ha	ha	was			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a03_l14	8	d́ése	dyêsê	0	d́ése	dyêsê	dyes	in the wall			high	Reviewer note: acute on d marks palatalized d; use IPA dʲ and Zazaki dy.	
+Áli aγá lā́d̮i Kelháni	a03_l14	9	wé̱dide,	wedidê	0	wé̱di	wedi	wedi	opening			medium	ZGP-0340; contextual locative -de.	
+Áli aγá lā́d̮i Kelháni	a03_l14	9	wé̱dide,	wedidê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.	
+Áli aγá lā́d̮i Kelháni	a03_l14	10	dé̱sti	desti	0	dé̱sti	desti	desti	hand			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l01	0	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l01	1	be̱rd	berd	0	be̱rd	berd	berd	put			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l01	2	ze̱reí	zerêy	0	ze̱reí	zerêy	zerei	into			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l01	3	šibāke,	şibakê	0	šibāke	şibakê	sibake	grating			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l01	4	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l01	5	χand̮éri	xancêri	0	χand̮éri	xancêri	xanderi	dagger			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l01	6	ze̱reí	zerêy	0	ze̱reí	zerêy	zerei	behind			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l01	7	ši̥bā́kede	şıbakêdê	0	ši̥bā́ke	şıbakê	sibake	grating			medium	ZGP-0340; contextual locative -de.	
+Áli aγá lā́d̮i Kelháni	a04_l01	7	ši̥bā́kede	şıbakêdê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.	
+Áli aγá lā́d̮i Kelháni	a04_l01	8	dī	di	0	dī	di	di	found			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l01	9	geraúte	gêrawtê	0	geraúte	gêrawtê	geraute	took			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l01	10	vé̱ra,	vera	0	vé̱ra	vera	vera	out			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l02	0	dai	day	0	dai	day	dai	struck			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l02	1	h̔ā́li	'hali	0	h̔ā́li	'hali	hali	uncle			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l02	2	bí̥ne	bınê	0	bí̥ne	bınê	bine	side			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l02	3	t̮íd̮i	çici	0	t̮íd̮i	çici	tidi	chest			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l02	4	rā́štiru.	raştirû	0	rā́štiru	raştirû	rastiru	directly			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l02	5	Hʿāl	'Hal	0	Hʿāl	'Hal	hal	uncle			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l02	6	kaut.	kawt	0	kaut	kawt	kaut	fell			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l02	7	Ah̔médi	A'hmêdi	0	Ah̔médi	A'hmêdi	ahmedi	Ahmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l02	8	χand̮éri	xancêri	0	χand̮éri	xancêri	xanderi	dagger			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l02	9	h̔ā́lira	'halira	0	hāli	hali	hal	uncle			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a04_l02	9	h̔ā́lira	'halira	1	ra	ra	ra	ABL	postposition	relation=source	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a04_l02	10	vé̱te,	vetê	0	vé̱te	vetê	vete	pulled out			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l03	0	Ah̔médi	A'hmêdi	0	Ah̔médi	A'hmêdi	ahmedi	Ahmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l03	1	Eisā́n	Êysan	0	Eisā́n	Êysan	eisan	Eysan, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l03	2	kišt,	kişt	0	kišt	kişt	kist	killed			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l03	3	Hʿasāni	'Hasani	0	Hʿasāni	'Hasani	hasani	Hasan, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l03	4	Kalā́n	Kalan	0	Kalā́n	Kalan	kalan	Kalan, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l03	5	kišt.	kişt	0	kišt	kişt	kist	killed			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l03	6	Kā́lme̱	Kalme	0	Kā́lme̱	Kalme	kalme	sword			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l03	7	gnā	gna	0	gnā	gna	gna	struck			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l03	8	Ah̔médi	A'hmêdi	0	Ah̔médi	A'hmêdi	ahmedi	Ahmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l03	9	pei	pêy	0	pei	pêy	pei	between			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l04	0	t̮ímyiru,	çimyirû	0	t̮ímyiru	çimyirû	timyiru	on his eye			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l04	1	gó’eni	goêni	0	gó’eni	goêni	goeni	blood			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l04	2	bíe	byê	0	bíe	byê	bie	became			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l04	3	Ah̔médi	A'hmêdi	0	Ah̔médi	A'hmêdi	ahmedi	Ahmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l04	4	t̮ími.	çimi	0	t̮ími	çimi	timi	his eye			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l04	5	Ah̔méd	A'hmêd	0	Ah̔méd	A'hmêd	ahmed	Ahmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l04	6	hyẹ̄rs	hyêrs	0	hyẹ̄rs	hyêrs	hyers	angry			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l04	7	be,	bê	0	be	bê	be	be			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l04	8	hāut	hawt	0	hāut	hawt	haut	seven			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l04	9	té̱ni	teni	0	té̱ni	teni	teni	persons			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l04	10	pei	pêy	0	pei	pêy	pei	with			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l05	0	áya	aya	0	áya	aya	aya	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l05	1	χand̮éri	xancêri	0	χand̮éri	xancêri	xanderi	dagger			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l05	2	kíšti.	kişti	0	kíšti	kişti	kisti	killed			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l05	3	Ah̔méd	A'hmêd	0	Ah̔méd	A'hmêd	ahmed	Ahmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l05	4	kíšya.	kişya	0	kíšya	kişya	kisya	was killed			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l05	5	Hírye	Hiryê	0	Hírye	Hiryê	hirye	three			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l05	6	hé̱me̱	heme	0	hé̱me̱	heme	heme	all			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l05	7	berá’i	bêrai	0	berá’i	bêrai	berai	brothers			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l05	8	Ah̔médi	A'hmêdi	0	Ah̔médi	A'hmêdi	ahmedi	Ahmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l05	9	baúke	bawkê	0	baúke	bawkê	bauke	father			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l06	0	ye	yê	0	ye	yê	ye	his			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l06	1	kíšti.	kişti	0	kíšti	kişti	kisti	killed			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l06	2	Des	Dês	0	Des	Dês	des	ten			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l06	3	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l06	4	heíšt	hêyşt	0	heíšt	hêyşt	heist	eight			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l06	5	té̱ni	teni	0	té̱ni	teni	teni	persons			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l06	6	mē̱rdṳ́mi	merdûmi	0	me̱rdṳ́m	merdûm	merdum	man/person			high	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l06	6	mē̱rdṳ́mi	merdûmi	1	i	i	-i	OBL/EZ	case/linker	relation=oblique_or_ezafe	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l06	7	γarī́bi	ğaribi	0	γarī́bi	ğaribi	garibi	strangers			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l06	8	kíšti.	kişti	0	kíšti	kişti	kisti	killed			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l06	9	E̱skér	Eskêr	0	E̱skér	Eskêr	esker	soldier			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l06	10	aγaíra	ağayra	0	aγa	ağa	aγa	agha			high	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l06	10	aγaíra	ağayra	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l06	10	aγaíra	ağayra	2	ra	ra	ra	ABL	postposition	relation=source	medium	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a04_l06	11	še,	şê	0	še	şê	se	left			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l07	0	hérgu	hêrgû	0	hérgu	hêrgû	hergu	each			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l07	1	kes	kês	0	kes	kês	kes	person			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l07	2	ši	şi	0	ši	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l07	3	kei	kêy	0	kei	kêy	kei	house			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l07	4	χóe.	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l07	5	D̮enazaí	Cênazay	0	D̮enazaí	Cênazay	denazai	corpse			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l07	6	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l07	7	aγaí,	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l07	7	aγaí,	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l07	8	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l07	9	hé̱me̱	heme	0	hé̱me̱	heme	heme	all			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l07	10	lād̮ā́na,	lacana	0	lā́d̮	lac	lad	son			high	Muller 1865, ZGP-0334 plural -an. Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l07	10	lād̮ā́na,	lacana	1	ān	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a04_l07	10	lād̮ā́na,	lacana	2	a	a	-a	EZ/OBL	case/linker	relation=ezafe_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l07	11	des	dês	0	des	dês	des	ten			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l07	12	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l08	0	heíšt	hêyşt	0	heíšt	hêyşt	heist	eight			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l08	1	mē̱rdṳ́mi	merdûmi	0	me̱rdṳ́m	merdûm	merdum	man/person			high	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l08	1	mē̱rdṳ́mi	merdûmi	1	i	i	-i	OBL/EZ	case/linker	relation=oblique_or_ezafe	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l08	2	γaribā́na	ğaribana	0	γarib	ğarib	γarib	stranger			high	Muller 1865, ZGP-0334 plural -an. Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l08	2	γaribā́na	ğaribana	1	ān	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a04_l08	2	γaribā́na	ğaribana	2	a	a	-a	EZ/OBL	case/linker	relation=ezafe_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l08	3	pyéru	pyêrû	0	pyéru	pyêrû	pyeru	all			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l08	4	méndi	mêndi	0	méndi	mêndi	mendi	stay			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l08	5	wáde̱de.	wadedê	0	wáde̱	wade	wade	room			medium	ZGP-0340; contextual locative -de.	
+Áli aγá lā́d̮i Kelháni	a04_l08	5	wáde̱de.	wadedê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.	
+Áli aγá lā́d̮i Kelháni	a04_l08	6	So̤bá	Soba	0	So̤bá	Soba	soba	morning			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l08	7	Mél’ai	Mêlay	0	Mél’ai	Mêlay	melai	mullah			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l08	8	Resá	Rêsa	0	Resá	Rêsa	resa	Resa, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l09	0	ve̱ṅg	vengg	0	ve̱ṅg	vengg	veng	Sound, Audio, Voice			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l09	1	dā	da	0	dā	da	da	called			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l09	2	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l09	3	ke	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l09	4	mél’a	mêla	0	mél’a	mêla	mela	mullah			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l09	5	Qasími	Qasimi	0	Qasími	Qasimi	qasimi	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l09	6	Desmúnd̮ira:	Dêsmûncira	0	Désmúnd̮i	Dêsmûnci	Desmund	Desmund			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a04_l09	6	Desmúnd̮ira:	Dêsmûncira	1	ra	ra	ra	ABL	postposition	relation=source	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a04_l09	7	bíeri	byêri	0	bí	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a04_l09	7	bíeri	byêri	1	eri	êri	eri	bring			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a04_l09	8	d̮enazaí	cênazay	0	d̮enazaí	cênazay	denazai	corpse			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l09	9	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l09	10	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l09	10	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l10	0	aílāna	aylana	0	aíl	ayl	ail	child/family			medium	Muller 1865, ZGP-0334 plural -an. Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	Stem identification is contextual from the translation 'children/families'.
+Áli aγá lā́d̮i Kelháni	a04_l10	0	aílāna	aylana	1	ān	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a04_l10	0	aílāna	aylana	2	a	a	-a	EZ/OBL	case/linker	relation=ezafe_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l10	1	des	dês	0	des	dês	des	ten			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l10	2	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l10	3	heíšt	hêyşt	0	heíšt	hêyşt	heist	eight			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l10	4	té̱ni	teni	0	té̱ni	teni	teni	persons			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l10	5	mē̱rdṳ́mi	merdûmi	0	me̱rdṳ́m	merdûm	merdum	man/person			high	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l10	5	mē̱rdṳ́mi	merdûmi	1	i	i	-i	OBL/EZ	case/linker	relation=oblique_or_ezafe	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l10	6	γaribā́na	ğaribana	0	γarib	ğarib	γarib	stranger			high	Muller 1865, ZGP-0334 plural -an. Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l10	6	γaribā́na	ğaribana	1	ān	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a04_l10	6	γaribā́na	ğaribana	2	a	a	-a	EZ/OBL	case/linker	relation=ezafe_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l10	7	h̔é̱tia	'hetya	0	h̔é̱tia	'hetya	hetia	here			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l10	8	bíeri	byêri	0	bí	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a04_l10	8	bíeri	byêri	1	eri	êri	eri	bring			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.	
+Áli aγá lā́d̮i Kelháni	a04_l10	9	bé̱ri	beri	0	bé̱ri	beri	beri	carry			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l10	10	we̱-	we	0	we̱	we	we	out-			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l11	0	dari.	dari	0	dari	dari	dari	take out			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l11	1	Mél’a	Mêla	0	Mél’a	Mêla	mela	mullah			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l11	2	Qasím	Qasim	0	Qasím	Qasim	qasim	Qasim, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l11	3	we̱ríšt	werişt	0	we̱ríšt	werişt	werist	set out			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l11	4	Desmúnira,	Dêsmûnira	0	Désmúni	Dêsmûni	Desmun	Desmun			medium	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a04_l11	4	Desmúnira,	Dêsmûnira	1	ra	ra	ra	ABL	postposition	relation=source	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a04_l11	5	Meméd	Mêmêd	0	Meméd	Mêmêd	memed	Memed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l11	6	aγá	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l11	7	we̱ríšt	werişt	0	we̱ríšt	werişt	werist	set out			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l11	8	Γeítera,	Ğêytêra	0	Γeíte	Ğêytê	Γeíte	Xeyd			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a04_l11	8	Γeítera,	Ğêytêra	1	ra	ra	ra	ABL	postposition	relation=source	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a04_l12	0	Ramedán	Ramêdan	0	Ramedán	Ramêdan	ramedan	Ramedan, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l12	1	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l12	1	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l12	2	we̱ríšt	werişt	0	we̱ríšt	werişt	werist	set out			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l12	3	Merzyélera,	Mêrzyêlêra	0	Merzyéle	Mêrzyêlê	Merzyele	Merzyele			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a04_l12	3	Merzyélera,	Mêrzyêlêra	1	ra	ra	ra	ABL	postposition	relation=source	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.	
+Áli aγá lā́d̮i Kelháni	a04_l12	4	ši,	şi	0	ši	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l12	5	lé̱ši	leşi	0	lé̱ši	leşi	lesi	bodies			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l12	6	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l12	7	aγaí	ağay	0	aγa	ağa	aγa	agha			medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l12	7	aγaí	ağay	1	í	i	-i	EZ/OBL	case/linker	relation=genitive_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l12	8	lād̮ā́na	lacana	0	lā́d̮	lac	lad	son			high	Muller 1865, ZGP-0334 plural -an. Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l12	8	lād̮ā́na	lacana	1	ān	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a04_l12	8	lād̮ā́na	lacana	2	a	a	-a	EZ/OBL	case/linker	relation=ezafe_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l12	9	des	dês	0	des	dês	des	ten			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l12	10	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l13	0	heíšt	hêyşt	0	heíšt	hêyşt	heist	eight			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l13	1	mē̱rdṳ́mi	merdûmi	0	me̱rdṳ́m	merdûm	merdum	man/person			high	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l13	1	mē̱rdṳ́mi	merdûmi	1	i	i	-i	OBL/EZ	case/linker	relation=oblique_or_ezafe	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l13	2	γaribā́na	ğaribana	0	γarib	ğarib	γarib	stranger			high	Muller 1865, ZGP-0334 plural -an. Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l13	2	γaribā́na	ğaribana	1	ān	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.	
+Áli aγá lā́d̮i Kelháni	a04_l13	2	γaribā́na	ğaribana	2	a	a	-a	EZ/OBL	case/linker	relation=ezafe_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.	
+Áli aγá lā́d̮i Kelháni	a04_l13	3	geraúti	gêrawti	0	geraúti	gêrawti	gerauti	took			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l13	4	ā́rdi	ardi	0	ā́rdi	ardi	ardi	brought			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l13	5	bé̱rdi	berdi	0	bé̱rdi	berdi	berdi	carried			unsplit	Current word-level token gloss; no confident internal split applied.	
+Áli aγá lā́d̮i Kelháni	a04_l13	6	we̱dé̱rti.	wederti	0	we̱dé̱rti	wederti	wederti	buried			unsplit	Current word-level token gloss; no confident internal split applied.	

@@ -26,10 +26,10 @@ Example from the repo root:
   scripts\import_lltools_corpus_text.php `
   --wp-root="C:\Users\messy\Local Sites\starter-english-local\app\public" `
   --payload="texts\lerch\kauge-nyerib-u-sivani\text-document.json" `
-  --wordset-slug="zazaki-historical-texts" `
-  --wordset-name="Zazaki Historical Texts" `
   --post-slug="lerch-kauge-nyerib-u-sivani" `
   --status="publish"
 ```
 
-The importer creates or updates the wordset, content lesson post, source-image attachments, and `_ll_tools_interlinear_payload` meta. Text-document payloads automatically mark the content lesson as `corpus_text` in LL Tools.
+The importer creates or updates the content lesson post, source-image attachments, and `_ll_tools_interlinear_payload` meta. Text-document payloads automatically mark the content lesson as `corpus_text` in LL Tools.
+
+Corpus texts are standalone by default and do not need to belong to a normal LL Tools wordset. If a particular site really needs a wordset assignment, pass `--wordset-slug="..."` and `--wordset-name="..."`.
