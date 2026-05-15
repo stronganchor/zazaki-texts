@@ -1,37 +1,77 @@
 Hassan ile Söyleşi
 
-Kêyfê twê sênyênû? Kêyfê mê 'hawlû.
+Kêyfê twê sênyênû?
 
-Namêy aşirêta tê çinaw? Namêy aşirêta ma Sivang.
+Kêyfê mê 'hawlû.
 
-Çendê dêwi aşirêta şûma esti? Hyêris û çêhêr dewi aşirêta mai.
+Namêy aşirêta tê çinaw?
 
-Namêy dewani aşirêta şûma çinaw? Fatrakom, 'Hopsor, Tênik, Rêjwan, Zımag, 'Hoêrsig, 'Hê- mêk, Bılıkê, Melêkang, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sa- ma, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahiman, Avdêlang, Mıstang, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi, Letang, Ğahar, Ğoêmang, Kavarê, Talek.
+Namêy aşirêta ma Sivang.
 
-Sıpyerdışi dewe Aldûni qamû? Ali Beg sıpyerdışû dawê Aldûni estû.
+Çendê dêwi aşirêta şûma esti?
 
-Sıpyerdışû dawê Gewêl qamû? Mistêfa Alya sıpyerdışû.
+Hyêris û çêhêr dewi aşirêta mai.
 
-Namêy dewa twê çinaw? Kasan dewa mê estû.
+Namêy dewani aşirêta şûma çinaw?
 
-Çendê bani dawe Kasan esti? Şeşti bani Kasan esti.
+Fatrakom, 'Hopsor, Tênik, Rêjwan, Zımag, 'Hoêrsig, 'Hêmêk, Bılıkê, Melêkang, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sama, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahiman, Avdêlang, Mıstang, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi, Letang, Ğahar, Ğoêmang, Kavarê, Talek.
 
-Bağçê tû estû? Estû bağçê mê.
+Sıpyerdışi dewe Aldûni qamû?
 
-Bağçê tû senyê dari? Darê tûyêra estû, sayêr estû, mişmişyêr estû, xawxir, he- nariyêr, rez êsti.
+Ali Beg sıpyerdışû dawê Aldûni estû.
 
-Çendê wadêy yaw bani esti? Merdûm estû weri kêy çêhêr êsti, pangc esti, merdûm estû yaw bang estû, wade çinyû.
+Sıpyerdışû dawê Gewêl qamû?
 
-Şûma şwêni zozang? Ma şwêni zozang.
+Mistêfa Alya sıpyerdışû.
 
-Şûma qam waxtê şwêni zozang? Aşmê Temûzidê ma şwêni zozang.
+Namêy dewa twê çinaw?
 
-Şûma zozangdê karaçaciridê roşêni? Ma karaçaciricê roşêni, bani êsti ma banidê roşêni.
+Kasan dewa mê estû.
 
-Şûma qam waxtê yêni war? Ma aşmay paizi veryêni yêni war.
+Çendê bani dawe Kasan esti?
 
-Tû zaf kawğe di? Mê zaf kawğe di. Bawki mêra, kawğei Nyêribi û 'Hyêni mê di, ez şya kawğei Nyêribi û 'Hyêni, kawğei E'hmêd begi û Sivani
+Şeşti bani Kasan esti.
 
-ez tedê bya; kawğei Sivani û Avdûla begi mê di, ez tedê bya; kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini û Sivani mê di, ez tedê bya. Awê kawğei aşiranû. Ez kawğe nyêtêrsêna.
+Bağçê tû estû?
 
-Tı nyêşêni vaci kawğei Sivani û Avdûla begi. Ez rocêya, nyêşêna vaca, zerêy mê kalûna wazêna.
+Estû bağçê mê.
+
+Bağçê tû senyê dari?
+
+Darê tûyêra estû, sayêr estû, mişmişyêr estû, xawxir, henariyêr, rez êsti.
+
+Çendê wadêy yaw bani esti?
+
+Merdûm estû weri kêy çêhêr êsti, pangc esti, merdûm estû yaw bang estû, wade çinyû.
+
+Şûma şwêni zozang?
+
+Ma şwêni zozang.
+
+Şûma qam waxtê şwêni zozang?
+
+Aşmê Temûzidê ma şwêni zozang.
+
+Şûma zozangdê karaçaciridê roşêni?
+
+Ma karaçaciricê roşêni, bani êsti ma banidê roşêni.
+
+Şûma qam waxtê yêni war?
+
+Ma aşmay paizi veryêni yêni war.
+
+Tû zaf kawğe di?
+
+Mê zaf kawğe di.
+
+Bawki mêra, kawğei Nyêribi û 'Hyêni mê di, ez şya kawğei Nyêribi û 'Hyêni, kawğei E'hmêd begi û Sivani
+
+ez tedê bya; kawğei Sivani û Avdûla begi mê di, ez tedê bya; kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini û Sivani mê di, ez tedê bya.
+
+Awê kawğei aşiranû.
+
+Ez kawğe nyêtêrsêna.
+
+Tı nyêşêni vaci kawğei Sivani û Avdûla begi.
+
+Ez rocêya, nyêşêna vaca, zerêy mê kalûna wazêna.

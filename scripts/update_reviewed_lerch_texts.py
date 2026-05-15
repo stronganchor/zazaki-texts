@@ -301,7 +301,141 @@ def source_line(line: dict, source_label: str) -> dict:
 
 def sentence_segments_from_source_lines(source_lines: list[dict]) -> list[str]:
     text = join_source_parts([str(line.get("zazaki", "")) for line in source_lines])
-    return [segment.strip() for segment in re.split(r"(?<=[.?])\s+", text) if segment.strip()]
+    return split_sentence_segments(text)
+
+
+def split_sentence_segments(text: str) -> list[str]:
+    text = join_source_parts([text])
+    return [segment.strip() for segment in re.split(r"(?<=[.?!])\s+", text) if segment.strip()]
+
+
+def chunk_source_segments(segments: list[str], max_sentences: int) -> list[list[str]]:
+    if max_sentences <= 1:
+        return [[segment] for segment in segments]
+    return [segments[index : index + max_sentences] for index in range(0, len(segments), max_sentences)]
+
+
+def distribute_segments(segments: list[str], chunk_count: int) -> list[str]:
+    if chunk_count <= 0:
+        return []
+    if not segments:
+        return [""] * chunk_count
+    if len(segments) < chunk_count:
+        return [join_source_parts([segments[index]]) if index < len(segments) else "" for index in range(chunk_count)]
+
+    chunks = []
+    total = len(segments)
+    for index in range(chunk_count):
+        start = round(index * total / chunk_count)
+        end = round((index + 1) * total / chunk_count)
+        if end <= start:
+            end = min(start + 1, total)
+        chunks.append(join_source_parts(segments[start:end]))
+    return chunks
+
+
+def grouped_old_reader_units(doc: dict) -> list[dict]:
+    grouped: list[dict] = []
+    by_base: dict[str, dict] = {}
+    languages = list(doc.get("translations", {}))
+    for unit in doc.get("reading_units", []):
+        base_id = unit.get("source_unit_id") or unit.get("id")
+        if not base_id:
+            continue
+        if base_id not in by_base:
+            by_base[base_id] = {
+                "id": base_id,
+                "source_line_ids": unit.get("source_line_ids") or [],
+                "translations": {lang: [] for lang in languages},
+            }
+            grouped.append(by_base[base_id])
+        if not by_base[base_id]["source_line_ids"] and unit.get("source_line_ids"):
+            by_base[base_id]["source_line_ids"] = unit.get("source_line_ids")
+        for lang in languages:
+            value = unit.get("translations", {}).get(lang, "")
+            if value:
+                by_base[base_id]["translations"][lang].append(value)
+    for unit in grouped:
+        unit["translations"] = {lang: clean_join(parts) for lang, parts in unit["translations"].items() if parts}
+    return grouped
+
+
+def rebuild_segmented_reader_units(doc: dict, source_by_id: dict[str, dict], max_source_sentences: int) -> list[dict]:
+    old_by_id = {unit.get("id"): unit for unit in doc.get("reading_units", []) if unit.get("id")}
+    rebuilt = []
+    for base_unit in grouped_old_reader_units(doc):
+        base_id = base_unit["id"]
+        line_ids = base_unit.get("source_line_ids") or []
+        source = join_source_parts([source_by_id[line_id]["zazaki"] for line_id in line_ids if line_id in source_by_id])
+        source_segments = split_sentence_segments(source)
+        source_chunks = chunk_source_segments(source_segments, max_source_sentences)
+        if not source_chunks:
+            continue
+
+        translation_chunks = {}
+        for lang in doc.get("translations", {}):
+            segments = split_sentence_segments(base_unit.get("translations", {}).get(lang, ""))
+            translation_chunks[lang] = distribute_segments(segments, len(source_chunks))
+
+        for index, source_chunk in enumerate(source_chunks, start=1):
+            unit_id = f"{base_id}_{index:02d}"
+            exact_old = old_by_id.get(unit_id, {})
+            translations = {}
+            for lang in doc.get("translations", {}):
+                value = exact_old.get("translations", {}).get(lang, "")
+                if not value and index - 1 < len(translation_chunks.get(lang, [])):
+                    value = translation_chunks[lang][index - 1]
+                if value:
+                    translations[lang] = value
+            rebuilt.append(
+                {
+                    "id": unit_id,
+                    "source_unit_id": base_id,
+                    "source_line_ids": line_ids,
+                    "source": join_source_parts(source_chunk),
+                    "translations": translations,
+                }
+            )
+    return rebuilt
+
+
+def rebuild_full_text_reader_units(
+    doc: dict,
+    source_lines: list[dict],
+    max_source_sentences: int,
+    skip_first_source_line: bool = False,
+) -> list[dict]:
+    old_by_id = {unit.get("id"): unit for unit in doc.get("reading_units", []) if unit.get("id")}
+    usable_source_lines = source_lines[1:] if skip_first_source_line else source_lines
+    source = join_source_parts([str(line.get("zazaki", "")) for line in usable_source_lines])
+    source_chunks = chunk_source_segments(split_sentence_segments(source), max_source_sentences)
+    if not source_chunks:
+        return []
+
+    translation_chunks = {}
+    for lang in doc.get("translations", {}):
+        full_translation = clean_join([unit.get("translations", {}).get(lang, "") for unit in doc.get("reading_units", [])])
+        translation_chunks[lang] = distribute_segments(split_sentence_segments(full_translation), len(source_chunks))
+
+    rebuilt = []
+    for index, source_chunk in enumerate(source_chunks, start=1):
+        unit_id = f"u{index:03d}"
+        exact_old = old_by_id.get(unit_id, {})
+        translations = {}
+        for lang in doc.get("translations", {}):
+            value = exact_old.get("translations", {}).get(lang, "")
+            if not value and index - 1 < len(translation_chunks.get(lang, [])):
+                value = translation_chunks[lang][index - 1]
+            if value:
+                translations[lang] = value
+        rebuilt.append(
+            {
+                "id": unit_id,
+                "source": join_source_parts(source_chunk),
+                "translations": translations,
+            }
+        )
+    return rebuilt
 
 
 def grouped_translation(units: list[dict], indexes: list[int], lang: str) -> str:
@@ -391,6 +525,12 @@ def update_existing_text(slug: str, bundle: str, interlinear_file: str, morpheme
 
     if slug == "kauge-nyerib-u-sivani":
         doc["reading_units"] = rebuild_sivan_reader_units(doc, fresh_source_lines)
+    elif slug == "gespraech-mit-hassan":
+        doc["reading_units"] = rebuild_segmented_reader_units(doc, source_by_id, max_source_sentences=1)
+    elif slug == "ali-agha-ladi-kelhani":
+        doc["reading_units"] = rebuild_full_text_reader_units(doc, fresh_source_lines, max_source_sentences=2)
+    elif slug == "kauge-nyerib-u-hyeni":
+        doc["reading_units"] = rebuild_full_text_reader_units(doc, fresh_source_lines, max_source_sentences=2, skip_first_source_line=True)
     else:
         for unit in doc.get("reading_units", []):
             ids = unit.get("source_line_ids") or READING_UNIT_SOURCE_LINE_IDS.get(slug, {}).get(unit.get("id"), [])
@@ -544,6 +684,17 @@ def create_hassan_text() -> dict:
                 "source_line_ids": ids,
             }
         )
+    reading_units = rebuild_segmented_reader_units(
+        {
+            "translations": {
+                "tr": {"label": "Turkish"},
+                "en": {"label": "English"},
+            },
+            "reading_units": reading_units,
+        },
+        source_by_id,
+        max_source_sentences=1,
+    )
 
     doc = {
         "schema": "ll_tools_text_document.v1",
@@ -567,7 +718,7 @@ def create_hassan_text() -> dict:
             "created_from": "Lerch Hassan review bundle in Language/Z/Dictionaries/Lerch",
             "exported_at": EXPORT_DATE,
             "reviewed_transcription_synced_at": EXPORT_DATE,
-            "reader_unit": "dialogue_exchange",
+            "reader_unit": "dialogue_turn",
         },
         "summary": {
             "lines": len(lines),

@@ -24,12 +24,12 @@
     "created_from": "Lerch Hassan review bundle in Language/Z/Dictionaries/Lerch",
     "exported_at": "2026-05-15",
     "reviewed_transcription_synced_at": "2026-05-15",
-    "reader_unit": "dialogue_exchange"
+    "reader_unit": "dialogue_turn"
   },
   "summary": {
     "lines": 45,
     "source_lines": 45,
-    "reading_units": 18,
+    "reading_units": 38,
     "tokens": 260
   },
   "witnesses": [
@@ -80,48 +80,86 @@
   ],
   "reading_units": [
     {
-      "id": "u01",
-      "source": "Kêyfê twê sênyênû? Kêyfê mê 'hawlû.",
-      "translations": {
-        "en": "How are you? I am well.",
-        "tr": "Nasılsın? İyiyim."
-      },
+      "id": "u01_01",
+      "source_unit_id": "u01",
       "source_line_ids": [
         "h01_l01",
         "h01_l02"
-      ]
+      ],
+      "source": "Kêyfê twê sênyênû?",
+      "translations": {
+        "tr": "Nasılsın?",
+        "en": "How are you?"
+      }
     },
     {
-      "id": "u02",
-      "source": "Namêy aşirêta tê çinaw? Namêy aşirêta ma Sivang.",
+      "id": "u01_02",
+      "source_unit_id": "u01",
+      "source_line_ids": [
+        "h01_l01",
+        "h01_l02"
+      ],
+      "source": "Kêyfê mê 'hawlû.",
       "translations": {
-        "en": "What is the name of your tribe? The name of our tribe is Sivan.",
-        "tr": "Aşiretinin adı nedir? Aşiretimizin adı Sivan'dır."
-      },
+        "tr": "İyiyim.",
+        "en": "I am well."
+      }
+    },
+    {
+      "id": "u02_01",
+      "source_unit_id": "u02",
       "source_line_ids": [
         "h01_l03",
         "h01_l04"
-      ]
+      ],
+      "source": "Namêy aşirêta tê çinaw?",
+      "translations": {
+        "tr": "Aşiretinin adı nedir?",
+        "en": "What is the name of your tribe?"
+      }
     },
     {
-      "id": "u03",
-      "source": "Çendê dêwi aşirêta şûma esti? Hyêris û çêhêr dewi aşirêta mai.",
+      "id": "u02_02",
+      "source_unit_id": "u02",
+      "source_line_ids": [
+        "h01_l03",
+        "h01_l04"
+      ],
+      "source": "Namêy aşirêta ma Sivang.",
       "translations": {
-        "en": "How many villages does your tribe have? Our tribe has thirty-four villages.",
-        "tr": "Aşiretinizin kaç köyü var? Aşiretimizin otuz dört köyü var."
-      },
+        "tr": "Aşiretimizin adı Sivan'dır.",
+        "en": "The name of our tribe is Sivan."
+      }
+    },
+    {
+      "id": "u03_01",
+      "source_unit_id": "u03",
       "source_line_ids": [
         "h01_l05",
         "h01_l06"
-      ]
+      ],
+      "source": "Çendê dêwi aşirêta şûma esti?",
+      "translations": {
+        "tr": "Aşiretinizin kaç köyü var?",
+        "en": "How many villages does your tribe have?"
+      }
     },
     {
-      "id": "u04",
-      "source": "Namêy dewani aşirêta şûma çinaw? Fatrakom, 'Hopsor, Tênik, Rêjwan, Zımag, 'Hoêrsig, 'Hê- mêk, Bılıkê, Melêkang, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sa- ma, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahiman, Avdêlang, Mıstang, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi, Letang, Ğahar, Ğoêmang, Kavarê, Talek.",
+      "id": "u03_02",
+      "source_unit_id": "u03",
+      "source_line_ids": [
+        "h01_l05",
+        "h01_l06"
+      ],
+      "source": "Hyêris û çêhêr dewi aşirêta mai.",
       "translations": {
-        "en": "What are the names of your tribe's villages? Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.",
-        "tr": "Aşiretinizin köylerinin adları nelerdir? Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek."
-      },
+        "tr": "Aşiretimizin otuz dört köyü var.",
+        "en": "Our tribe has thirty-four villages."
+      }
+    },
+    {
+      "id": "u04_01",
+      "source_unit_id": "u04",
       "source_line_ids": [
         "h01_l07",
         "h01_l08",
@@ -129,180 +167,432 @@
         "h01_l10",
         "h01_l11",
         "h01_l12"
-      ]
+      ],
+      "source": "Namêy dewani aşirêta şûma çinaw?",
+      "translations": {
+        "tr": "Aşiretinizin köylerinin adları nelerdir?",
+        "en": "What are the names of your tribe's villages?"
+      }
     },
     {
-      "id": "u05",
-      "source": "Sıpyerdışi dewe Aldûni qamû? Ali Beg sıpyerdışû dawê Aldûni estû.",
+      "id": "u04_02",
+      "source_unit_id": "u04",
+      "source_line_ids": [
+        "h01_l07",
+        "h01_l08",
+        "h01_l09",
+        "h01_l10",
+        "h01_l11",
+        "h01_l12"
+      ],
+      "source": "Fatrakom, 'Hopsor, Tênik, Rêjwan, Zımag, 'Hoêrsig, 'Hêmêk, Bılıkê, Melêkang, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sama, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahiman, Avdêlang, Mıstang, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi, Letang, Ğahar, Ğoêmang, Kavarê, Talek.",
       "translations": {
-        "en": "Who is the elder of the village of Aldun? Ali Beg is the elder of the village of Aldun.",
-        "tr": "Aldun köyünün ileri geleni kimdir? Ali Beg Aldun köyünün ileri gelenidir."
-      },
+        "tr": "Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.",
+        "en": "Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek."
+      }
+    },
+    {
+      "id": "u05_01",
+      "source_unit_id": "u05",
       "source_line_ids": [
         "h01_l13",
         "h02_l01"
-      ]
+      ],
+      "source": "Sıpyerdışi dewe Aldûni qamû?",
+      "translations": {
+        "tr": "Aldun köyünün ileri geleni kimdir?",
+        "en": "Who is the elder of the village of Aldun?"
+      }
     },
     {
-      "id": "u06",
-      "source": "Sıpyerdışû dawê Gewêl qamû? Mistêfa Alya sıpyerdışû.",
+      "id": "u05_02",
+      "source_unit_id": "u05",
+      "source_line_ids": [
+        "h01_l13",
+        "h02_l01"
+      ],
+      "source": "Ali Beg sıpyerdışû dawê Aldûni estû.",
       "translations": {
-        "en": "Who is the elder of the village of Gewel? Mistefa Ali is the elder.",
-        "tr": "Gewel köyünün ileri geleni kimdir? Mistefa Ali ileri gelendir."
-      },
+        "tr": "Ali Beg Aldun köyünün ileri gelenidir.",
+        "en": "Ali Beg is the elder of the village of Aldun."
+      }
+    },
+    {
+      "id": "u06_01",
+      "source_unit_id": "u06",
       "source_line_ids": [
         "h02_l02",
         "h02_l03"
-      ]
+      ],
+      "source": "Sıpyerdışû dawê Gewêl qamû?",
+      "translations": {
+        "tr": "Gewel köyünün ileri geleni kimdir?",
+        "en": "Who is the elder of the village of Gewel?"
+      }
     },
     {
-      "id": "u07",
-      "source": "Namêy dewa twê çinaw? Kasan dewa mê estû.",
+      "id": "u06_02",
+      "source_unit_id": "u06",
+      "source_line_ids": [
+        "h02_l02",
+        "h02_l03"
+      ],
+      "source": "Mistêfa Alya sıpyerdışû.",
       "translations": {
-        "en": "What is the name of your village? Kasan is my village.",
-        "tr": "Köyünün adı nedir? Benim köyüm Kasan'dır."
-      },
+        "tr": "Mistefa Ali ileri gelendir.",
+        "en": "Mistefa Ali is the elder."
+      }
+    },
+    {
+      "id": "u07_01",
+      "source_unit_id": "u07",
       "source_line_ids": [
         "h02_l04",
         "h02_l05"
-      ]
+      ],
+      "source": "Namêy dewa twê çinaw?",
+      "translations": {
+        "tr": "Köyünün adı nedir?",
+        "en": "What is the name of your village?"
+      }
     },
     {
-      "id": "u08",
-      "source": "Çendê bani dawe Kasan esti? Şeşti bani Kasan esti.",
+      "id": "u07_02",
+      "source_unit_id": "u07",
+      "source_line_ids": [
+        "h02_l04",
+        "h02_l05"
+      ],
+      "source": "Kasan dewa mê estû.",
       "translations": {
-        "en": "How many houses are there in the village of Kasan? There are sixty houses in Kasan.",
-        "tr": "Kasan köyünde kaç ev var? Kasan'da altmış ev var."
-      },
+        "tr": "Benim köyüm Kasan'dır.",
+        "en": "Kasan is my village."
+      }
+    },
+    {
+      "id": "u08_01",
+      "source_unit_id": "u08",
       "source_line_ids": [
         "h02_l06",
         "h02_l07"
-      ]
+      ],
+      "source": "Çendê bani dawe Kasan esti?",
+      "translations": {
+        "tr": "Kasan köyünde kaç ev var?",
+        "en": "How many houses are there in the village of Kasan?"
+      }
     },
     {
-      "id": "u09",
-      "source": "Bağçê tû estû? Estû bağçê mê.",
+      "id": "u08_02",
+      "source_unit_id": "u08",
+      "source_line_ids": [
+        "h02_l06",
+        "h02_l07"
+      ],
+      "source": "Şeşti bani Kasan esti.",
       "translations": {
-        "en": "Do you have a garden? I have a garden.",
-        "tr": "Bahçen var mı? Bahçem var."
-      },
+        "tr": "Kasan'da altmış ev var.",
+        "en": "There are sixty houses in Kasan."
+      }
+    },
+    {
+      "id": "u09_01",
+      "source_unit_id": "u09",
       "source_line_ids": [
         "h02_l08",
         "h02_l09"
-      ]
+      ],
+      "source": "Bağçê tû estû?",
+      "translations": {
+        "tr": "Bahçen var mı?",
+        "en": "Do you have a garden?"
+      }
     },
     {
-      "id": "u10",
-      "source": "Bağçê tû senyê dari? Darê tûyêra estû, sayêr estû, mişmişyêr estû, xawxir, he- nariyêr, rez êsti.",
+      "id": "u09_02",
+      "source_unit_id": "u09",
+      "source_line_ids": [
+        "h02_l08",
+        "h02_l09"
+      ],
+      "source": "Estû bağçê mê.",
       "translations": {
-        "en": "What kind of trees does your garden have? It has trees: apple trees, apricot trees, peach trees, pomegranate trees and grapevines.",
-        "tr": "Bahçende nasıl ağaçlar var? Ağaçlar var: elma ağaçları, kayısı ağaçları, şeftali ağaçları, nar ağaçları ve üzüm asmaları var."
-      },
+        "tr": "Bahçem var.",
+        "en": "I have a garden."
+      }
+    },
+    {
+      "id": "u10_01",
+      "source_unit_id": "u10",
       "source_line_ids": [
         "h02_l10",
         "h02_l11",
         "h02_l12"
-      ]
+      ],
+      "source": "Bağçê tû senyê dari?",
+      "translations": {
+        "tr": "Bahçende nasıl ağaçlar var?",
+        "en": "What kind of trees does your garden have?"
+      }
     },
     {
-      "id": "u11",
-      "source": "Çendê wadêy yaw bani esti? Merdûm estû weri kêy çêhêr êsti, pangc esti, merdûm estû yaw bang estû, wade çinyû.",
+      "id": "u10_02",
+      "source_unit_id": "u10",
+      "source_line_ids": [
+        "h02_l10",
+        "h02_l11",
+        "h02_l12"
+      ],
+      "source": "Darê tûyêra estû, sayêr estû, mişmişyêr estû, xawxir, henariyêr, rez êsti.",
       "translations": {
-        "en": "How many rooms are there in one house? Some people's houses have four or five rooms; some people have one house and no room.",
-        "tr": "Bir evde kaç oda var? Bazı kişilerin evinde dört, beş oda var; bazı kişilerin bir evi var, odası yok."
-      },
+        "tr": "Ağaçlar var: elma ağaçları, kayısı ağaçları, şeftali ağaçları, nar ağaçları ve üzüm asmaları var.",
+        "en": "It has trees: apple trees, apricot trees, peach trees, pomegranate trees and grapevines."
+      }
+    },
+    {
+      "id": "u11_01",
+      "source_unit_id": "u11",
       "source_line_ids": [
         "h02_l13",
         "h02_l14",
         "h02_l15"
-      ]
+      ],
+      "source": "Çendê wadêy yaw bani esti?",
+      "translations": {
+        "tr": "Bir evde kaç oda var?",
+        "en": "How many rooms are there in one house?"
+      }
     },
     {
-      "id": "u12",
-      "source": "Şûma şwêni zozang? Ma şwêni zozang.",
+      "id": "u11_02",
+      "source_unit_id": "u11",
+      "source_line_ids": [
+        "h02_l13",
+        "h02_l14",
+        "h02_l15"
+      ],
+      "source": "Merdûm estû weri kêy çêhêr êsti, pangc esti, merdûm estû yaw bang estû, wade çinyû.",
       "translations": {
-        "en": "Do you go to the summer pasture? We go to the summer pasture.",
-        "tr": "Yaylaya gider misiniz? Yaylaya gideriz."
-      },
+        "tr": "Bazı kişilerin evinde dört, beş oda var; bazı kişilerin bir evi var, odası yok.",
+        "en": "Some people's houses have four or five rooms; some people have one house and no room."
+      }
+    },
+    {
+      "id": "u12_01",
+      "source_unit_id": "u12",
       "source_line_ids": [
         "h02_l16",
         "h03_l01"
-      ]
+      ],
+      "source": "Şûma şwêni zozang?",
+      "translations": {
+        "tr": "Yaylaya gider misiniz?",
+        "en": "Do you go to the summer pasture?"
+      }
     },
     {
-      "id": "u13",
-      "source": "Şûma qam waxtê şwêni zozang? Aşmê Temûzidê ma şwêni zozang.",
+      "id": "u12_02",
+      "source_unit_id": "u12",
+      "source_line_ids": [
+        "h02_l16",
+        "h03_l01"
+      ],
+      "source": "Ma şwêni zozang.",
       "translations": {
-        "en": "When do you go to the summer pasture? In the month of Temmuz we go to the summer pasture.",
-        "tr": "Yaylaya ne zaman gidersiniz? Temmuz ayında yaylaya gideriz."
-      },
+        "tr": "Yaylaya gideriz.",
+        "en": "We go to the summer pasture."
+      }
+    },
+    {
+      "id": "u13_01",
+      "source_unit_id": "u13",
       "source_line_ids": [
         "h03_l02",
         "h03_l03"
-      ]
+      ],
+      "source": "Şûma qam waxtê şwêni zozang?",
+      "translations": {
+        "tr": "Yaylaya ne zaman gidersiniz?",
+        "en": "When do you go to the summer pasture?"
+      }
     },
     {
-      "id": "u14",
-      "source": "Şûma zozangdê karaçaciridê roşêni? Ma karaçaciricê roşêni, bani êsti ma banidê roşêni.",
+      "id": "u13_02",
+      "source_unit_id": "u13",
+      "source_line_ids": [
+        "h03_l02",
+        "h03_l03"
+      ],
+      "source": "Aşmê Temûzidê ma şwêni zozang.",
       "translations": {
-        "en": "Do you live in black tents at the summer pasture? We live in black tents; there are houses, and we live in houses.",
-        "tr": "Yaylada kara çadırlarda mı kalırsınız? Kara çadırlarda kalırız; evler de var, evlerde de kalırız."
-      },
+        "tr": "Temmuz ayında yaylaya gideriz.",
+        "en": "In the month of Temmuz we go to the summer pasture."
+      }
+    },
+    {
+      "id": "u14_01",
+      "source_unit_id": "u14",
       "source_line_ids": [
         "h03_l04",
         "h03_l05"
-      ]
+      ],
+      "source": "Şûma zozangdê karaçaciridê roşêni?",
+      "translations": {
+        "tr": "Yaylada kara çadırlarda mı kalırsınız?",
+        "en": "Do you live in black tents at the summer pasture?"
+      }
     },
     {
-      "id": "u15",
-      "source": "Şûma qam waxtê yêni war? Ma aşmay paizi veryêni yêni war.",
+      "id": "u14_02",
+      "source_unit_id": "u14",
+      "source_line_ids": [
+        "h03_l04",
+        "h03_l05"
+      ],
+      "source": "Ma karaçaciricê roşêni, bani êsti ma banidê roşêni.",
       "translations": {
-        "en": "When do you come back down? We come back at the beginning of autumn.",
-        "tr": "Ne zaman aşağı gelirsiniz? Sonbaharın başında aşağı geliriz."
-      },
+        "tr": "Kara çadırlarda kalırız; evler de var, evlerde de kalırız.",
+        "en": "We live in black tents; there are houses, and we live in houses."
+      }
+    },
+    {
+      "id": "u15_01",
+      "source_unit_id": "u15",
       "source_line_ids": [
         "h03_l06",
         "h03_l07"
-      ]
+      ],
+      "source": "Şûma qam waxtê yêni war?",
+      "translations": {
+        "tr": "Ne zaman aşağı gelirsiniz?",
+        "en": "When do you come back down?"
+      }
     },
     {
-      "id": "u16",
-      "source": "Tû zaf kawğe di? Mê zaf kawğe di. Bawki mêra, kawğei Nyêribi û 'Hyêni mê di, ez şya kawğei Nyêribi û 'Hyêni, kawğei E'hmêd begi û Sivani",
+      "id": "u15_02",
+      "source_unit_id": "u15",
+      "source_line_ids": [
+        "h03_l06",
+        "h03_l07"
+      ],
+      "source": "Ma aşmay paizi veryêni yêni war.",
       "translations": {
-        "en": "Have you seen many feuds? I saw many feuds. By my father, I saw the feud between Nerib and Hyeni; I went to the feud between Nerib and Hyeni, and to the feud between Ahmed Beg and Sivan;",
-        "tr": "Çok kavga gördün mü? Çok kavga gördüm. Babamın hakkı için, Nyêrib ile Hyêni'nin kavgasını gördüm; Nyêrib ile Hyêni'nin kavgasına, Ahmed Beg ile Sivan'ın kavgasına gittim;"
-      },
+        "tr": "Sonbaharın başında aşağı geliriz.",
+        "en": "We come back at the beginning of autumn."
+      }
+    },
+    {
+      "id": "u16_01",
+      "source_unit_id": "u16",
       "source_line_ids": [
         "h03_l08",
         "h03_l09",
         "h03_l10"
-      ]
+      ],
+      "source": "Tû zaf kawğe di?",
+      "translations": {
+        "tr": "Çok kavga gördün mü?",
+        "en": "Have you seen many feuds?"
+      }
     },
     {
-      "id": "u17",
-      "source": "ez tedê bya; kawğei Sivani û Avdûla begi mê di, ez tedê bya; kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini û Sivani mê di, ez tedê bya. Awê kawğei aşiranû. Ez kawğe nyêtêrsêna.",
+      "id": "u16_02",
+      "source_unit_id": "u16",
+      "source_line_ids": [
+        "h03_l08",
+        "h03_l09",
+        "h03_l10"
+      ],
+      "source": "Mê zaf kawğe di.",
       "translations": {
-        "en": "I was there. I saw the feud between Sivan and Avdula Beg; I was there. I saw the feud between Karbegan and Sivan; I was there, and the feud between Weshin and Sivan, I saw; I was there. Those were tribal feuds. I do not fear feuds.",
-        "tr": "Oradaydım. Sivan ile Avdula Beg'in kavgasını gördüm; oradaydım. Karbegan ile Sivan'ın kavgasını gördüm; oradaydım, Weşin ile Sivan'ın kavgasını gördüm; oradaydım. Onlar aşiret kavgalarıydı. Ben kavgadan korkmam."
-      },
+        "tr": "Çok kavga gördüm.",
+        "en": "I saw many feuds."
+      }
+    },
+    {
+      "id": "u16_03",
+      "source_unit_id": "u16",
+      "source_line_ids": [
+        "h03_l08",
+        "h03_l09",
+        "h03_l10"
+      ],
+      "source": "Bawki mêra, kawğei Nyêribi û 'Hyêni mê di, ez şya kawğei Nyêribi û 'Hyêni, kawğei E'hmêd begi û Sivani",
+      "translations": {
+        "tr": "Babamın hakkı için, Nyêrib ile Hyêni'nin kavgasını gördüm; Nyêrib ile Hyêni'nin kavgasına, Ahmed Beg ile Sivan'ın kavgasına gittim;",
+        "en": "By my father, I saw the feud between Nerib and Hyeni; I went to the feud between Nerib and Hyeni, and to the feud between Ahmed Beg and Sivan;"
+      }
+    },
+    {
+      "id": "u17_01",
+      "source_unit_id": "u17",
       "source_line_ids": [
         "h03_l11",
         "h03_l12",
         "h03_l13",
         "h03_l14"
-      ]
+      ],
+      "source": "ez tedê bya; kawğei Sivani û Avdûla begi mê di, ez tedê bya; kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini û Sivani mê di, ez tedê bya.",
+      "translations": {
+        "tr": "Oradaydım. Sivan ile Avdula Beg'in kavgasını gördüm; oradaydım.",
+        "en": "I was there. I saw the feud between Sivan and Avdula Beg; I was there."
+      }
     },
     {
-      "id": "u18",
-      "source": "Tı nyêşêni vaci kawğei Sivani û Avdûla begi. Ez rocêya, nyêşêna vaca, zerêy mê kalûna wazêna.",
+      "id": "u17_02",
+      "source_unit_id": "u17",
+      "source_line_ids": [
+        "h03_l11",
+        "h03_l12",
+        "h03_l13",
+        "h03_l14"
+      ],
+      "source": "Awê kawğei aşiranû.",
       "translations": {
-        "en": "Can you not tell the feud between Sivan and Avdula Beg? I am fasting; I cannot tell it; my heart wants a pipe.",
-        "tr": "Sivan ile Avdula Beg'in kavgasını anlatamaz mısın? Oruçluyum; anlatamam; canım pipo istiyor."
-      },
+        "tr": "Karbegan ile Sivan'ın kavgasını gördüm; oradaydım, Weşin ile Sivan'ın kavgasını gördüm; oradaydım.",
+        "en": "I saw the feud between Karbegan and Sivan; I was there, and the feud between Weshin and Sivan, I saw; I was there."
+      }
+    },
+    {
+      "id": "u17_03",
+      "source_unit_id": "u17",
+      "source_line_ids": [
+        "h03_l11",
+        "h03_l12",
+        "h03_l13",
+        "h03_l14"
+      ],
+      "source": "Ez kawğe nyêtêrsêna.",
+      "translations": {
+        "tr": "Onlar aşiret kavgalarıydı. Ben kavgadan korkmam.",
+        "en": "Those were tribal feuds. I do not fear feuds."
+      }
+    },
+    {
+      "id": "u18_01",
+      "source_unit_id": "u18",
       "source_line_ids": [
         "h03_l15",
         "h04_l01"
-      ]
+      ],
+      "source": "Tı nyêşêni vaci kawğei Sivani û Avdûla begi.",
+      "translations": {
+        "tr": "Sivan ile Avdula Beg'in kavgasını anlatamaz mısın?",
+        "en": "Can you not tell the feud between Sivan and Avdula Beg?"
+      }
+    },
+    {
+      "id": "u18_02",
+      "source_unit_id": "u18",
+      "source_line_ids": [
+        "h03_l15",
+        "h04_l01"
+      ],
+      "source": "Ez rocêya, nyêşêna vaca, zerêy mê kalûna wazêna.",
+      "translations": {
+        "tr": "Oruçluyum; anlatamam; canım pipo istiyor.",
+        "en": "I am fasting; I cannot tell it; my heart wants a pipe."
+      }
     }
   ],
   "source_lines": [

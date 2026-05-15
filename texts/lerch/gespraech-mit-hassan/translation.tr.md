@@ -1,37 +1,77 @@
 Hassan ile Söyleşi
 
-Nasılsın? İyiyim.
+Nasılsın?
 
-Aşiretinin adı nedir? Aşiretimizin adı Sivan'dır.
+İyiyim.
 
-Aşiretinizin kaç köyü var? Aşiretimizin otuz dört köyü var.
+Aşiretinin adı nedir?
 
-Aşiretinizin köylerinin adları nelerdir? Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.
+Aşiretimizin adı Sivan'dır.
 
-Aldun köyünün ileri geleni kimdir? Ali Beg Aldun köyünün ileri gelenidir.
+Aşiretinizin kaç köyü var?
 
-Gewel köyünün ileri geleni kimdir? Mistefa Ali ileri gelendir.
+Aşiretimizin otuz dört köyü var.
 
-Köyünün adı nedir? Benim köyüm Kasan'dır.
+Aşiretinizin köylerinin adları nelerdir?
 
-Kasan köyünde kaç ev var? Kasan'da altmış ev var.
+Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.
 
-Bahçen var mı? Bahçem var.
+Aldun köyünün ileri geleni kimdir?
 
-Bahçende nasıl ağaçlar var? Ağaçlar var: elma ağaçları, kayısı ağaçları, şeftali ağaçları, nar ağaçları ve üzüm asmaları var.
+Ali Beg Aldun köyünün ileri gelenidir.
 
-Bir evde kaç oda var? Bazı kişilerin evinde dört, beş oda var; bazı kişilerin bir evi var, odası yok.
+Gewel köyünün ileri geleni kimdir?
 
-Yaylaya gider misiniz? Yaylaya gideriz.
+Mistefa Ali ileri gelendir.
 
-Yaylaya ne zaman gidersiniz? Temmuz ayında yaylaya gideriz.
+Köyünün adı nedir?
 
-Yaylada kara çadırlarda mı kalırsınız? Kara çadırlarda kalırız; evler de var, evlerde de kalırız.
+Benim köyüm Kasan'dır.
 
-Ne zaman aşağı gelirsiniz? Sonbaharın başında aşağı geliriz.
+Kasan köyünde kaç ev var?
 
-Çok kavga gördün mü? Çok kavga gördüm. Babamın hakkı için, Nyêrib ile Hyêni'nin kavgasını gördüm; Nyêrib ile Hyêni'nin kavgasına, Ahmed Beg ile Sivan'ın kavgasına gittim;
+Kasan'da altmış ev var.
 
-Oradaydım. Sivan ile Avdula Beg'in kavgasını gördüm; oradaydım. Karbegan ile Sivan'ın kavgasını gördüm; oradaydım, Weşin ile Sivan'ın kavgasını gördüm; oradaydım. Onlar aşiret kavgalarıydı. Ben kavgadan korkmam.
+Bahçen var mı?
 
-Sivan ile Avdula Beg'in kavgasını anlatamaz mısın? Oruçluyum; anlatamam; canım pipo istiyor.
+Bahçem var.
+
+Bahçende nasıl ağaçlar var?
+
+Ağaçlar var: elma ağaçları, kayısı ağaçları, şeftali ağaçları, nar ağaçları ve üzüm asmaları var.
+
+Bir evde kaç oda var?
+
+Bazı kişilerin evinde dört, beş oda var; bazı kişilerin bir evi var, odası yok.
+
+Yaylaya gider misiniz?
+
+Yaylaya gideriz.
+
+Yaylaya ne zaman gidersiniz?
+
+Temmuz ayında yaylaya gideriz.
+
+Yaylada kara çadırlarda mı kalırsınız?
+
+Kara çadırlarda kalırız; evler de var, evlerde de kalırız.
+
+Ne zaman aşağı gelirsiniz?
+
+Sonbaharın başında aşağı geliriz.
+
+Çok kavga gördün mü?
+
+Çok kavga gördüm.
+
+Babamın hakkı için, Nyêrib ile Hyêni'nin kavgasını gördüm; Nyêrib ile Hyêni'nin kavgasına, Ahmed Beg ile Sivan'ın kavgasına gittim;
+
+Oradaydım. Sivan ile Avdula Beg'in kavgasını gördüm; oradaydım.
+
+Karbegan ile Sivan'ın kavgasını gördüm; oradaydım, Weşin ile Sivan'ın kavgasını gördüm; oradaydım.
+
+Onlar aşiret kavgalarıydı. Ben kavgadan korkmam.
+
+Sivan ile Avdula Beg'in kavgasını anlatamaz mısın?
+
+Oruçluyum; anlatamam; canım pipo istiyor.
