@@ -1,289 +1,289 @@
 story_id	segment_id	token_index	token_lerch	token_zazaki	morpheme_index	morpheme_surface_lerch	morpheme_normalized	lemma	gloss	pos	features	confidence	evidence	notes
-Gespräch mit Hassan	h01_l01	0	Keífe	Kêyfê	0	Keífe	Kêyfê	keife	condition			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l01	1	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l01	2	seńén’u?	sênyênû	0	seńén’u	sênyênû	senenu	how are			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l02	0	Keífe	Kêyfê	0	Keífe	Kêyfê	keife	condition			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l02	1	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l02	2	h̔aúlu.	'hawlû	0	h̔aúlu	'hawlû	haulu	well			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l03	0	Nāmeí	Namêy	0	Nām	nam	nam	name			medium	Hassan dialogue genitive/ezafe phrase: name of your tribe.
-Gespräch mit Hassan	h01_l03	0	Nāmeí	Namêy	1	eí	êy	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
-Gespräch mit Hassan	h01_l03	1	ašíreta	aşirêta	0	ašíret	aşirêt	asiret	tribe			medium	Hassan dialogue genitive/ezafe phrase: name of your tribe.
-Gespräch mit Hassan	h01_l03	1	ašíreta	aşirêta	1	a	a	-a	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
-Gespräch mit Hassan	h01_l03	2	te	tê	0	te	tê	te	2SG.POSS	pronoun	person=2;number=singular;possessive=yes	medium	Context: your tribe.
-Gespräch mit Hassan	h01_l03	3	t̮ínau?	çinaw	0	t̮ínau	çinaw	tinau	what is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l04	0	Nameí	Namêy	0	Nam	nam	nam	name			medium	Hassan dialogue genitive/ezafe phrase: name of our tribe.
-Gespräch mit Hassan	h01_l04	0	Nameí	Namêy	1	eí	êy	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
-Gespräch mit Hassan	h01_l04	1	ašíreta	aşirêta	0	ašíret	aşirêt	asiret	tribe			medium	Hassan dialogue genitive/ezafe phrase: name of our tribe.
-Gespräch mit Hassan	h01_l04	1	ašíreta	aşirêta	1	a	a	-a	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
-Gespräch mit Hassan	h01_l04	2	mā	ma	0	mā	ma	ma	1PL.POSS	pronoun	person=1;number=plural;possessive=yes	medium	Context: our tribe.
-Gespräch mit Hassan	h01_l04	3	Sivā́ṅ.	Sivang	0	Sivā́ṅ	Sivang	sivan	Sivan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l05	0	T̮é̱nde	Çendê	0	T̮é̱nde	Çendê	tende	how many			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l05	1	dḗwi	dêwi	0	dḗwi	dêwi	dewi	villages			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l05	2	ašíreta	aşirêta	0	ašíreta	aşirêta	asireta	tribe			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l05	3	šṳ́ma	şûma	0	šṳ́ma	şûma	suma	you.PL			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l05	4	é̱sti?	esti	0	é̱sti	esti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l06	0	Hyéris	Hyêris	0	Hyéris	Hyêris	hyeris	thirty			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l06	1	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l06	2	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l06	3	dé̱wi	dewi	0	dé̱wi	dewi	dewi	villages			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l06	4	ašíreta	aşirêta	0	ašíreta	aşirêta	asireta	tribe			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l06	5	mā́’i.	mai	0	mā́’i	mai	mai	ours			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l07	0	Nāmeí	Namêy	0	Nāmeí	Namêy	namei	name			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l07	1	dé̱wāni	dewani	0	dé̱wāni	dewani	dewani	villages			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l07	2	ašíreta	aşirêta	0	ašíreta	aşirêta	asireta	tribe			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l07	3	šṳ́ma	şûma	0	šṳ́ma	şûma	suma	you.PL			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l07	4	t̮ínau?	çinaw	0	t̮ínau	çinaw	tinau	what is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l08	0	Fatrakó̤m,	Fatrakom	0	Fatrakó̤m	Fatrakom	fatrakom	Fatrakom			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l08	1	Hʿo̤psó̤r,	'Hopsor	0	Hʿo̤psó̤r	'Hopsor	hopsor	Hopsor			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l08	2	Teníḱ,	Tênik	0	Teníḱ	Tênik	tenik	Tenık			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l08	3	Réžuān,	Rêjwan	0	Réžuān	Rêjwan	rezuan	Rezuan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l08	4	Zi̥máǵ,	Zımag	0	Zi̥máǵ	Zımag	zimag	Zımax			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l08	5	Hʿoersíǵ,	'Hoêrsig	0	Hʿoersíǵ	'Hoêrsig	hoersig	Horsıg			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l08	6	Hʿe-	'Hê	0	Hʿe	'Hê	he	Hemık			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l09	0	mék,	mêk	0	mék	mêk	mek	Hemık			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l09	1	Bi̥lí̥ke,	Bılıkê	0	Bi̥lí̥ke	Bılıkê	bilike	Bılıko			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l09	2	Me̱lekā́ṅ,	Melêkang	0	Me̱lekā́ṅ	Melêkang	melekan	Melekan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l09	3	Marḱ,	Mark	0	Marḱ	Mark	mark	Mark			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l09	4	Aldū́n,	Aldûn	0	Aldū́n	Aldûn	aldun	Aldun			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l09	5	Ge̱wél,	Gewêl	0	Ge̱wél	Gewêl	gewel	Gewel			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l09	6	Kasán,	Kasan	0	Kasán	Kasan	kasan	Kasan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l09	7	Hʿóena,	'Hoêna	0	Hʿóena	'Hoêna	hoena	Hoeni			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l09	8	Sā́-	Sa	0	Sā́	Sa	sa	what			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l10	0	ma,	ma	0	ma	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l10	1	É̱merā,	Emêra	0	É̱merā	Emêra	emera	Emera			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l10	2	Šékera,	Şêkêra	0	Šékera	Şêkêra	sekera	Şekera			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l10	3	Hʿeílāṅ,	'Hêylang	0	Hʿeílāṅ	'Hêylang	heilan	Heylan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l10	4	Báziāṅ,	Bazyang	0	Báziāṅ	Bazyang	bazian	Bazian			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l10	5	Mála-Ibrahimā́n,	Mala-İbrahiman	0	Mála-Ibrahimā́n	Mala-İbrahiman	malaibrahiman	Mala Ibrahim			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l10	6	Ávdelāṅ,	Avdêlang	0	Ávdelāṅ	Avdêlang	avdelan	Avdelan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l11	0	Mí̥stāṅ,	Mıstang	0	Mí̥stāṅ	Mıstang	mistan	Mıstan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l11	1	Sáyere,	Sayêrê	0	Sáyere	Sayêrê	sayere	Sayerı			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l11	2	Ábasa,	Abasa	0	Ábasa	Abasa	abasa	Abasa			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l11	3	Wísh̔ein,	Wis'hêyn	0	Wísh̔ein	Wis'hêyn	wishein	Wisheyn			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l11	4	Hʿaspéǵ,	'Haspêg	0	Hʿaspéǵ	'Haspêg	haspeg	Haspeg			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l11	5	Serat̮yó̤ri,	Sêraçyori	0	Serat̮yó̤ri	Sêraçyori	seratyori	Seraçurı			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l11	6	Akerā́gi,	Akêragi	0	Akerā́gi	Akêragi	akeragi	Akeragı			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l12	0	Lé̱tāṅ,	Letang	0	Lé̱tāṅ	Letang	letan	Letan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l12	1	Γáhār,	Ğahar	0	Γáhār	Ğahar	gahar	Gahar			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l12	2	Γóemāṅ,	Ğoêmang	0	Γóemāṅ	Ğoêmang	goeman	Gowman			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l12	3	Kávare,	Kavarê	0	Kávare	Kavarê	kavare	Kavarı			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l12	4	Tā́le̱k.	Talek	0	Tā́le̱k	Talek	talek	Talık			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l13	0	Si̥pye̱rdí̥ši	Sıpyerdışi	0	Si̥pye̱rdí̥ši	Sıpyerdışi	sipyerdisi	village elder			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l13	1	dé̱we̱	dewe	0	dé̱we̱	dewe	dewe	village			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l13	2	Aldúni	Aldûni	0	Aldúni	Aldûni	alduni	Aldun			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h01_l13	3	qā́mu?	qamû	0	qā́mu	qamû	qamu	who is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l01	0	Áli	Ali	0	Áli	Ali	ali	Ali			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l01	1	Be̱g	Beg	0	Be̱g	Beg	beg	Beg			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l01	2	si̥pye̱rdí̥šu	sıpyerdışû	0	si̥pye̱rdí̥šu	sıpyerdışû	sipyerdisu	village elder			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l01	3	daúe	dawê	0	dau	daw	daw	village			medium	Village elder of Aldun/Gewel phrase.
-Gespräch mit Hassan	h02_l01	3	daúe	dawê	1	e	ê	-e	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
-Gespräch mit Hassan	h02_l01	4	Aldū́ni	Aldûni	0	Aldū́ni	Aldûni	alduni	Aldun			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l01	5	é̱stu.	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l02	0	Si̥pye̱rdí̥šu	Sıpyerdışû	0	Si̥pye̱rdí̥šu	Sıpyerdışû	sipyerdisu	village elder			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l02	1	daúe	dawê	0	dau	daw	daw	village			medium	Village elder of Aldun/Gewel phrase.
-Gespräch mit Hassan	h02_l02	1	daúe	dawê	1	e	ê	-e	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
-Gespräch mit Hassan	h02_l02	2	Ge̱wél	Gewêl	0	Ge̱wél	Gewêl	gewel	Gewel			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l02	3	qā́mu?	qamû	0	qā́mu	qamû	qamu	who is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l03	0	Mistefā́	Mistêfa	0	Mistefā́	Mistêfa	mistefa	Mustafa			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l03	1	Alía	Alya	0	Alía	Alya	alia	Ali			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l03	2	si̥pye̱rdí̥šu.	sıpyerdışû	0	si̥pye̱rdí̥šu	sıpyerdışû	sipyerdisu	village elder			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l04	0	Nāmeí	Namêy	0	Nāmeí	Namêy	namei	name			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l04	1	dé̱wa	dewa	0	dé̱wa	dewa	dewa	village			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l04	2	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l04	3	t̮ínau?	çinaw	0	t̮ínau	çinaw	tinau	what is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l05	0	Kasán	Kasan	0	Kasán	Kasan	kasan	Kasan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l05	1	dé̱wa	dewa	0	dé̱wa	dewa	dewa	village			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l05	2	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l05	3	é̱stu.	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l06	0	T̮é̱nde	Çendê	0	T̮é̱nde	Çendê	tende	how many			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l06	1	bā́ni	bani	0	bā́ni	bani	bani	houses			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l06	2	daúe̱	dawe	0	daúe̱	dawe	daue	of village			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l06	3	Kasán	Kasan	0	Kasán	Kasan	kasan	Kasan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l06	4	é̱sti?	esti	0	é̱sti	esti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l07	0	Šé̱šti	Şeşti	0	Šé̱šti	Şeşti	sesti	sixty			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l07	1	bā́ni	bani	0	bā́ni	bani	bani	houses			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l07	2	Kasán	Kasan	0	Kasán	Kasan	kasan	Kasan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l07	3	é̱sti.	esti	0	é̱sti	esti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l08	0	Bāγt̮e	Bağçê	0	Bāγt̮e	Bağçê	bagte	garden			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l08	1	tu	tû	0	tu	tû	tu	you			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l08	2	é̱stu?	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l09	0	É̱stu	Estû	0	É̱stu	Estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l09	1	bāγt̮e	bağçê	0	bāγt̮e	bağçê	bagte	garden			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l09	2	me.	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l10	0	Bāγt̮e	Bağçê	0	Bāγt̮e	Bağçê	bagte	garden			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l10	1	tu	tû	0	tu	tû	tu	you			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l10	2	sé̱ńe	senyê	0	sé̱ńe	senyê	sene	what kind			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l10	3	dā́ri?	dari	0	dā́ri	dari	dari	trees			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l11	0	Dā́re	Darê	0	Dā́re	Darê	dare	trees			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l11	1	tṳ́yera	tûyêra	0	tṳ́ye	tûyê	tue	2SG.POSS/your	pronoun	person=2;number=singular;possessive=yes	medium	Context is possession/location in the addressee's garden, not source/ablative.
-Gespräch mit Hassan	h02_l11	1	tṳ́yera	tûyêra	1	ra	ra	ra	LOC/REL	postposition	relation=contextual	low	Project ra convention keeps the function contextual where source/ablative is unsupported.
-Gespräch mit Hassan	h02_l11	2	é̱stu,	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l11	3	sayér	sayêr	0	sayér	sayêr	sayer	apple trees			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l11	4	é̱stu,	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l11	5	mišmišyḗr	mişmişyêr	0	mišmišyḗr	mişmişyêr	mismisyer	apricot trees			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l11	6	é̱stu,	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l11	7	χauχir,	xawxir	0	χauχir	xawxir	xauxir	peach trees			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l11	8	he̱-	he	0	he̱	he	he	pomegranate			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l12	0	nāriyér,	nariyêr	0	nāriyér	nariyêr	nariyer	pomegranate trees			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l12	1	re̱z	rez	0	re̱z	rez	rez	vine			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l12	2	ésti.	êsti	0	ésti	êsti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l13	0	T̮é̱nde	Çendê	0	T̮é̱nde	Çendê	tende	how many			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l13	1	wadeí	wadêy	0	wadeí	wadêy	wadei	rooms			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l13	2	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l13	3	bā́ni	bani	0	bā́ni	bani	bani	houses			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l13	4	é̱sti?	esti	0	é̱sti	esti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l14	0	Mē̱rdúm	Merdûm	0	Mē̱rdúm	Merdûm	merdum	person			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l14	1	é̱stu	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l14	2	wé̱ri	weri	0	wé̱ri	weri	weri	some			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l14	3	kei	kêy	0	kei	kêy	kei	house			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l14	4	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l14	5	ésti,	êsti	0	ésti	êsti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l14	6	pāṅd̮	pangc	0	pāṅd̮	pangc	pand	five			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l14	7	é̱sti,	esti	0	é̱sti	esti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l14	8	mē̱rdúm	merdûm	0	mē̱rdúm	merdûm	merdum	person			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l14	9	é̱stu	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l15	0	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l15	1	bāṅ	bang	0	bāṅ	bang	ban	house			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l15	2	é̱stu,	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l15	3	wadé̱	wade	0	wadé̱	wade	wade	room			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l15	4	t̮íńu.	çinyû	0	t̮íńu	çinyû	tinu	there is not			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l16	0	Šṳ́ma	Şûma	0	Šṳ́ma	Şûma	suma	you.PL			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l16	1	šuén’i	şwêni	0	šuén’i	şwêni	sueni	we go			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h02_l16	2	zozā́ṅ?	zozang	0	zozā́ṅ	zozang	zozan	summer pasture			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l01	0	Mā	Ma	0	Mā	Ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l01	1	šuén’i	şwêni	0	šuén’i	şwêni	sueni	we go			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l01	2	zozā́ṅ.	zozang	0	zozā́ṅ	zozang	zozan	summer pasture			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l02	0	Šṳ́ma	Şûma	0	Šṳ́ma	Şûma	suma	you.PL			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l02	1	qām	qam	0	qām	qam	qam	which			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l02	2	wáχte	waxtê	0	wáχte	waxtê	waxte	time			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l02	3	šuén’i	şwêni	0	šuén’i	şwêni	sueni	we go			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l02	4	zozā́ṅ?	zozang	0	zozā́ṅ	zozang	zozan	summer pasture			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l03	0	Ā́šme	Aşmê	0	Ā́šme	Aşmê	asme	month			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l03	1	Te̱múzide	Temûzidê	0	Te̱múzi	Temûzi	temuzi	Temmuz			medium	ZGP-0340; contextual locative -de.
-Gespräch mit Hassan	h03_l03	1	Te̱múzide	Temûzidê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
-Gespräch mit Hassan	h03_l03	2	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l03	3	šuén’i	şwêni	0	šuén’i	şwêni	sueni	we go			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l03	4	zozā́ṅ.	zozang	0	zozā́ṅ	zozang	zozan	summer pasture			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l04	0	Šṳ́ma	Şûma	0	Šṳ́ma	Şûma	suma	you.PL			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l04	1	zozā́ṅde	zozangdê	0	zozā́ṅ	zozang	zozan	pasture			medium	ZGP-0340; contextual locative -de.
-Gespräch mit Hassan	h03_l04	1	zozā́ṅde	zozangdê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
-Gespräch mit Hassan	h03_l04	2	karat̮ad̮íride	karaçaciridê	0	karat̮ad̮íri	karaçaciri	karatadiri	black tents			medium	ZGP-0340; contextual locative -de.
-Gespräch mit Hassan	h03_l04	2	karat̮ad̮íride	karaçaciridê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
-Gespräch mit Hassan	h03_l04	3	rōšén’i?	roşêni	0	rōšén’i	roşêni	roseni	we stay			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l05	0	Mā	Ma	0	Mā	Ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l05	1	karat̮ad̮írid̮e	karaçaciricê	0	karat̮ad̮íri	karaçaciri	karatadiri	black tents			medium	ZGP-0340; contextual locative -de.
-Gespräch mit Hassan	h03_l05	1	karat̮ad̮írid̮e	karaçaciricê	1	d̮e	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
-Gespräch mit Hassan	h03_l05	2	rōšén’i,	roşêni	0	rōšén’i	roşêni	roseni	we stay			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l05	3	bā́ni	bani	0	bā́ni	bani	bani	houses			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l05	4	ésti	êsti	0	ésti	êsti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l05	5	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l05	6	bā́nide	banidê	0	bā́ni	bani	bani	houses			medium	ZGP-0340; contextual locative -de.
-Gespräch mit Hassan	h03_l05	6	bā́nide	banidê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
-Gespräch mit Hassan	h03_l05	7	rōšén’i.	roşêni	0	rōšén’i	roşêni	roseni	we stay			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l06	0	Šṳ́ma	Şûma	0	Šṳ́ma	Şûma	suma	you.PL			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l06	1	qām	qam	0	qām	qam	qam	which			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l06	2	wáχte	waxtê	0	wáχte	waxtê	waxte	time			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l06	3	yén’i	yêni	0	yén’i	yêni	yeni	we come			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l06	4	wār?	war	0	wār	war	war	down			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l07	0	Mā	Ma	0	Mā	Ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l07	1	ā́šmai	aşmay	0	ā́šmai	aşmay	asmai	moon			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l07	2	pa’ízi	paizi	0	pa’ízi	paizi	paizi	autumn			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l07	3	vē̱ryén’i	veryêni	0	vē̱ryén’i	veryêni	veryeni	first			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l07	4	yén’i	yêni	0	yén’i	yêni	yeni	we come			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l07	5	wār.	war	0	wār	war	war	down			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l08	0	Tu	Tû	0	Tu	Tû	tu	you			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l08	1	zāf	zaf	0	zāf	zaf	zaf	many			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l08	2	kauγé̱	kawğe	0	kauγé̱	kawğe	kauge	fight			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l08	3	dī?	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l09	0	Me	Mê	0	Me	Mê	me	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l09	1	zaf	zaf	0	zaf	zaf	zaf	many			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l09	2	kauγé̱	kawğe	0	kauγé̱	kawğe	kauge	fight			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l09	3	dī.	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l09	4	Bāúki	Bawki	0	Bāúki	Bawki	bauki	father			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l09	5	méra,	mêra	0	mé	mê	me	1SG.POSS	pronoun	person=1;number=singular;possessive=yes	medium	Phrase bawki mera is treated as 'my father' / oath formula in context.
-Gespräch mit Hassan	h03_l09	5	méra,	mêra	1	ra	ra	ra	REL	postposition	relation=contextual	low	Not analyzed here as simple source/ablative; see phrase row.
-Gespräch mit Hassan	h03_l09	6	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
-Gespräch mit Hassan	h03_l09	6	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
-Gespräch mit Hassan	h03_l09	7	Ńéribi	Nyêribi	0	Ńéribi	Nyêribi	neribi	Nerib			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l09	8	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l09	9	Hʿyẹ̄́ni	'Hyêni	0	Hʿyẹ̄́ni	'Hyêni	hyeni	Hyeni			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l09	10	me	mê	0	me	mê	me	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l10	0	dī,	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l10	1	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l10	2	šía	şya	0	šía	şya	sia	to go			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l10	3	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
-Gespräch mit Hassan	h03_l10	3	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
-Gespräch mit Hassan	h03_l10	4	Ńeríbi	Nyêribi	0	Ńeríbi	Nyêribi	neribi	Nerib			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l10	5	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l10	6	Hʿyẹ̄́ni,	'Hyêni	0	Hʿyẹ̄́ni	'Hyêni	hyeni	Hyeni			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l10	7	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
-Gespräch mit Hassan	h03_l10	7	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
-Gespräch mit Hassan	h03_l10	8	E̱h̔méd	E'hmêd	0	E̱h̔méd	E'hmêd	ehmed	Ahmed			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l10	9	bé̱gi	begi	0	bé̱gi	begi	begi	Beg			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l10	10	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l10	11	Sivā́ni	Sivani	0	Sivā́ni	Sivani	sivani	Sivan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l11	0	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l11	1	té̱de	tedê	0	té̱	te	te	it			medium	ZGP-0340; contextual locative -de.
-Gespräch mit Hassan	h03_l11	1	té̱de	tedê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
-Gespräch mit Hassan	h03_l11	2	bía;	bya	0	bía	bya	bia	was			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l11	3	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
-Gespräch mit Hassan	h03_l11	3	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
-Gespräch mit Hassan	h03_l11	4	Sivā́ni	Sivani	0	Sivā́ni	Sivani	sivani	Sivan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l11	5	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l11	6	Avdúla	Avdûla	0	Avdúla	Avdûla	avdula	Avdula			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l11	7	bé̱gi	begi	0	bé̱gi	begi	begi	Beg			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l11	8	me	mê	0	me	mê	me	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l11	9	dī,	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l11	10	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l11	11	té̱de	tedê	0	té̱	te	te	it			medium	ZGP-0340; contextual locative -de.
-Gespräch mit Hassan	h03_l11	11	té̱de	tedê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
-Gespräch mit Hassan	h03_l11	12	bía;	bya	0	bía	bya	bia	was			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l12	0	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
-Gespräch mit Hassan	h03_l12	0	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
-Gespräch mit Hassan	h03_l12	1	Karbe̱gā́ni	Karbegani	0	Karbe̱gā́ni	Karbegani	karbegani	Karbegan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l12	2	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l12	3	Sivā́ni	Sivani	0	Sivā́ni	Sivani	sivani	Sivan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l12	4	me	mê	0	me	mê	me	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l12	5	dī,	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l12	6	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l12	7	té̱de	tedê	0	té̱	te	te	it			medium	ZGP-0340; contextual locative -de.
-Gespräch mit Hassan	h03_l12	7	té̱de	tedê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
-Gespräch mit Hassan	h03_l12	8	bía,	bya	0	bía	bya	bia	was			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l12	9	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
-Gespräch mit Hassan	h03_l12	9	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
-Gespräch mit Hassan	h03_l12	10	We̱šini	Weşini	0	We̱šini	Weşini	wesini	Weşin			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l13	0	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l13	1	Sivā́ni	Sivani	0	Sivā́ni	Sivani	sivani	Sivan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l13	2	me	mê	0	me	mê	me	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l13	3	dī,	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l13	4	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l13	5	té̱de	tedê	0	té̱	te	te	it			medium	ZGP-0340; contextual locative -de.
-Gespräch mit Hassan	h03_l13	5	té̱de	tedê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
-Gespräch mit Hassan	h03_l13	6	bía.	bya	0	bía	bya	bia	was			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l13	7	Aú’e	Awê	0	Aú’e	Awê	aue	those			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l13	8	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
-Gespräch mit Hassan	h03_l13	8	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
-Gespräch mit Hassan	h03_l13	9	aširā́nu.	aşiranû	0	ašir	aşir	asiret	tribe			medium	Context: tribal feuds / feuds of tribes.
-Gespräch mit Hassan	h03_l13	9	aširā́nu.	aşiranû	1	ān	an	-an	PL	suffix	number=plural	high	Müller/Lerch plural analysis used across reviewed interlinears.
-Gespräch mit Hassan	h03_l13	9	aširā́nu.	aşiranû	2	u	û	-u	OBL/EZ	case/linker	relation=oblique_or_ezafe	medium	Context: feuds of tribes.
-Gespräch mit Hassan	h03_l13	10	E̱z	Ez	0	E̱z	Ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l13	11	kauγé̱	kawğe	0	kauγé̱	kawğe	kauge	fight			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l14	0	ńetersén’a.	nyêtêrsêna	0	ńetersén’a	nyêtêrsêna	netersena	I do not fear			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l15	0	Ti̥	Tı	0	Ti̥	Tı	ti	you			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l15	1	ńešén’i	nyêşêni	0	ńe	ne	ne-	NEG	prefix	polarity=negative	high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.
-Gespräch mit Hassan	h03_l15	1	ńešén’i	nyêşêni	1	šén’i	şêni	seni	know/can			high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.
-Gespräch mit Hassan	h03_l15	2	vā́d̮i	vaci	0	vā́d̮i	vaci	vadi	tell			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l15	3	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
-Gespräch mit Hassan	h03_l15	3	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
-Gespräch mit Hassan	h03_l15	4	Sivā́ni	Sivani	0	Sivā́ni	Sivani	sivani	Sivan			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l15	5	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l15	6	Avdúla	Avdûla	0	Avdúla	Avdûla	avdula	Avdula			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h03_l15	7	bé̱gi.	begi	0	bé̱gi	begi	begi	Beg			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h04_l01	0	E̱z	Ez	0	E̱z	Ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h04_l01	1	rōd̮eia,	rocêya	0	rōd̮eia	rocêya	rodeia	fasting			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h04_l01	2	ńešén’a	nyêşêna	0	ńešén’a	nyêşêna	nesena	I cannot			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h04_l01	3	vā́d̮a,	vaca	0	vā́d̮a	vaca	vada	speak			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h04_l01	4	ze̱réi	zerêy	0	ze̱réi	zerêy	zerei	heart			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h04_l01	5	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h04_l01	6	kalṳ́na	kalûna	0	kalṳ́na	kalûna	kaluna	pipe			unsplit	Current word-level token gloss; no confident internal split applied.
-Gespräch mit Hassan	h04_l01	7	wazén’a.	wazêna	0	wazén’a	wazêna	wazena	wants			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l01	0	Keífe	Kêyfê	0	Keífe	Kêyfê	keife	condition			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l01	1	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l01	2	seńén’u?	sênyênû	0	seńén’u	sênyênû	senenu	how are			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l02	0	Keífe	Kêyfê	0	Keífe	Kêyfê	keife	condition			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l02	1	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l02	2	h̔aúlu.	'hawlû	0	h̔aúlu	'hawlû	haulu	well			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l03	0	Nāmeí	Namêy	0	Nām	nam	nam	name			medium	Hassan dialogue genitive/ezafe phrase: name of your tribe.
+Hassan ile Söyleşi	h01_l03	0	Nāmeí	Namêy	1	eí	êy	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
+Hassan ile Söyleşi	h01_l03	1	ašíreta	aşirêta	0	ašíret	aşirêt	asiret	tribe			medium	Hassan dialogue genitive/ezafe phrase: name of your tribe.
+Hassan ile Söyleşi	h01_l03	1	ašíreta	aşirêta	1	a	a	-a	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
+Hassan ile Söyleşi	h01_l03	2	te	tê	0	te	tê	te	2SG.POSS	pronoun	person=2;number=singular;possessive=yes	medium	Context: your tribe.
+Hassan ile Söyleşi	h01_l03	3	t̮ínau?	çinaw	0	t̮ínau	çinaw	tinau	what is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l04	0	Nameí	Namêy	0	Nam	nam	nam	name			medium	Hassan dialogue genitive/ezafe phrase: name of our tribe.
+Hassan ile Söyleşi	h01_l04	0	Nameí	Namêy	1	eí	êy	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
+Hassan ile Söyleşi	h01_l04	1	ašíreta	aşirêta	0	ašíret	aşirêt	asiret	tribe			medium	Hassan dialogue genitive/ezafe phrase: name of our tribe.
+Hassan ile Söyleşi	h01_l04	1	ašíreta	aşirêta	1	a	a	-a	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
+Hassan ile Söyleşi	h01_l04	2	mā	ma	0	mā	ma	ma	1PL.POSS	pronoun	person=1;number=plural;possessive=yes	medium	Context: our tribe.
+Hassan ile Söyleşi	h01_l04	3	Sivā́ṅ.	Sivang	0	Sivā́ṅ	Sivang	sivan	Sivan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l05	0	T̮é̱nde	Çendê	0	T̮é̱nde	Çendê	tende	how many			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l05	1	dḗwi	dêwi	0	dḗwi	dêwi	dewi	villages			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l05	2	ašíreta	aşirêta	0	ašíreta	aşirêta	asireta	tribe			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l05	3	šṳ́ma	şûma	0	šṳ́ma	şûma	suma	you.PL			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l05	4	é̱sti?	esti	0	é̱sti	esti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l06	0	Hyéris	Hyêris	0	Hyéris	Hyêris	hyeris	thirty			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l06	1	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l06	2	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l06	3	dé̱wi	dewi	0	dé̱wi	dewi	dewi	villages			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l06	4	ašíreta	aşirêta	0	ašíreta	aşirêta	asireta	tribe			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l06	5	mā́’i.	mai	0	mā́’i	mai	mai	ours			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l07	0	Nāmeí	Namêy	0	Nāmeí	Namêy	namei	name			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l07	1	dé̱wāni	dewani	0	dé̱wāni	dewani	dewani	villages			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l07	2	ašíreta	aşirêta	0	ašíreta	aşirêta	asireta	tribe			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l07	3	šṳ́ma	şûma	0	šṳ́ma	şûma	suma	you.PL			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l07	4	t̮ínau?	çinaw	0	t̮ínau	çinaw	tinau	what is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l08	0	Fatrakó̤m,	Fatrakom	0	Fatrakó̤m	Fatrakom	fatrakom	Fatrakom			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l08	1	Hʿo̤psó̤r,	'Hopsor	0	Hʿo̤psó̤r	'Hopsor	hopsor	Hopsor			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l08	2	Teníḱ,	Tênik	0	Teníḱ	Tênik	tenik	Tenık			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l08	3	Réžuān,	Rêjwan	0	Réžuān	Rêjwan	rezuan	Rezuan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l08	4	Zi̥máǵ,	Zımag	0	Zi̥máǵ	Zımag	zimag	Zımax			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l08	5	Hʿoersíǵ,	'Hoêrsig	0	Hʿoersíǵ	'Hoêrsig	hoersig	Horsıg			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l08	6	Hʿe-	'Hê	0	Hʿe	'Hê	he	Hemık			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l09	0	mék,	mêk	0	mék	mêk	mek	Hemık			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l09	1	Bi̥lí̥ke,	Bılıkê	0	Bi̥lí̥ke	Bılıkê	bilike	Bılıko			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l09	2	Me̱lekā́ṅ,	Melêkang	0	Me̱lekā́ṅ	Melêkang	melekan	Melekan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l09	3	Marḱ,	Mark	0	Marḱ	Mark	mark	Mark			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l09	4	Aldū́n,	Aldûn	0	Aldū́n	Aldûn	aldun	Aldun			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l09	5	Ge̱wél,	Gewêl	0	Ge̱wél	Gewêl	gewel	Gewel			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l09	6	Kasán,	Kasan	0	Kasán	Kasan	kasan	Kasan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l09	7	Hʿóena,	'Hoêna	0	Hʿóena	'Hoêna	hoena	Hoeni			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l09	8	Sā́-	Sa	0	Sā́	Sa	sa	what			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l10	0	ma,	ma	0	ma	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l10	1	É̱merā,	Emêra	0	É̱merā	Emêra	emera	Emera			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l10	2	Šékera,	Şêkêra	0	Šékera	Şêkêra	sekera	Şekera			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l10	3	Hʿeílāṅ,	'Hêylang	0	Hʿeílāṅ	'Hêylang	heilan	Heylan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l10	4	Báziāṅ,	Bazyang	0	Báziāṅ	Bazyang	bazian	Bazian			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l10	5	Mála-Ibrahimā́n,	Mala-İbrahiman	0	Mála-Ibrahimā́n	Mala-İbrahiman	malaibrahiman	Mala Ibrahim			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l10	6	Ávdelāṅ,	Avdêlang	0	Ávdelāṅ	Avdêlang	avdelan	Avdelan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l11	0	Mí̥stāṅ,	Mıstang	0	Mí̥stāṅ	Mıstang	mistan	Mıstan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l11	1	Sáyere,	Sayêrê	0	Sáyere	Sayêrê	sayere	Sayerı			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l11	2	Ábasa,	Abasa	0	Ábasa	Abasa	abasa	Abasa			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l11	3	Wísh̔ein,	Wis'hêyn	0	Wísh̔ein	Wis'hêyn	wishein	Wisheyn			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l11	4	Hʿaspéǵ,	'Haspêg	0	Hʿaspéǵ	'Haspêg	haspeg	Haspeg			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l11	5	Serat̮yó̤ri,	Sêraçyori	0	Serat̮yó̤ri	Sêraçyori	seratyori	Seraçurı			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l11	6	Akerā́gi,	Akêragi	0	Akerā́gi	Akêragi	akeragi	Akeragı			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l12	0	Lé̱tāṅ,	Letang	0	Lé̱tāṅ	Letang	letan	Letan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l12	1	Γáhār,	Ğahar	0	Γáhār	Ğahar	gahar	Gahar			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l12	2	Γóemāṅ,	Ğoêmang	0	Γóemāṅ	Ğoêmang	goeman	Gowman			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l12	3	Kávare,	Kavarê	0	Kávare	Kavarê	kavare	Kavarı			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l12	4	Tā́le̱k.	Talek	0	Tā́le̱k	Talek	talek	Talık			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l13	0	Si̥pye̱rdí̥ši	Sıpyerdışi	0	Si̥pye̱rdí̥ši	Sıpyerdışi	sipyerdisi	village elder			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l13	1	dé̱we̱	dewe	0	dé̱we̱	dewe	dewe	village			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l13	2	Aldúni	Aldûni	0	Aldúni	Aldûni	alduni	Aldun			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l13	3	qā́mu?	qamû	0	qā́mu	qamû	qamu	who is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l01	0	Áli	Ali	0	Áli	Ali	ali	Ali			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l01	1	Be̱g	Beg	0	Be̱g	Beg	beg	Beg			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l01	2	si̥pye̱rdí̥šu	sıpyerdışû	0	si̥pye̱rdí̥šu	sıpyerdışû	sipyerdisu	village elder			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l01	3	daúe	dawê	0	dau	daw	daw	village			medium	Village elder of Aldun/Gewel phrase.
+Hassan ile Söyleşi	h02_l01	3	daúe	dawê	1	e	ê	-e	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
+Hassan ile Söyleşi	h02_l01	4	Aldū́ni	Aldûni	0	Aldū́ni	Aldûni	alduni	Aldun			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l01	5	é̱stu.	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l02	0	Si̥pye̱rdí̥šu	Sıpyerdışû	0	Si̥pye̱rdí̥šu	Sıpyerdışû	sipyerdisu	village elder			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l02	1	daúe	dawê	0	dau	daw	daw	village			medium	Village elder of Aldun/Gewel phrase.
+Hassan ile Söyleşi	h02_l02	1	daúe	dawê	1	e	ê	-e	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
+Hassan ile Söyleşi	h02_l02	2	Ge̱wél	Gewêl	0	Ge̱wél	Gewêl	gewel	Gewel			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l02	3	qā́mu?	qamû	0	qā́mu	qamû	qamu	who is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l03	0	Mistefā́	Mistêfa	0	Mistefā́	Mistêfa	mistefa	Mustafa			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l03	1	Alía	Alya	0	Alía	Alya	alia	Ali			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l03	2	si̥pye̱rdí̥šu.	sıpyerdışû	0	si̥pye̱rdí̥šu	sıpyerdışû	sipyerdisu	village elder			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l04	0	Nāmeí	Namêy	0	Nāmeí	Namêy	namei	name			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l04	1	dé̱wa	dewa	0	dé̱wa	dewa	dewa	village			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l04	2	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l04	3	t̮ínau?	çinaw	0	t̮ínau	çinaw	tinau	what is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l05	0	Kasán	Kasan	0	Kasán	Kasan	kasan	Kasan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l05	1	dé̱wa	dewa	0	dé̱wa	dewa	dewa	village			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l05	2	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l05	3	é̱stu.	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l06	0	T̮é̱nde	Çendê	0	T̮é̱nde	Çendê	tende	how many			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l06	1	bā́ni	bani	0	bā́ni	bani	bani	houses			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l06	2	daúe̱	dawe	0	daúe̱	dawe	daue	of village			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l06	3	Kasán	Kasan	0	Kasán	Kasan	kasan	Kasan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l06	4	é̱sti?	esti	0	é̱sti	esti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l07	0	Šé̱šti	Şeşti	0	Šé̱šti	Şeşti	sesti	sixty			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l07	1	bā́ni	bani	0	bā́ni	bani	bani	houses			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l07	2	Kasán	Kasan	0	Kasán	Kasan	kasan	Kasan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l07	3	é̱sti.	esti	0	é̱sti	esti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l08	0	Bāγt̮e	Bağçê	0	Bāγt̮e	Bağçê	bagte	garden			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l08	1	tu	tû	0	tu	tû	tu	you			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l08	2	é̱stu?	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l09	0	É̱stu	Estû	0	É̱stu	Estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l09	1	bāγt̮e	bağçê	0	bāγt̮e	bağçê	bagte	garden			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l09	2	me.	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l10	0	Bāγt̮e	Bağçê	0	Bāγt̮e	Bağçê	bagte	garden			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l10	1	tu	tû	0	tu	tû	tu	you			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l10	2	sé̱ńe	senyê	0	sé̱ńe	senyê	sene	what kind			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l10	3	dā́ri?	dari	0	dā́ri	dari	dari	trees			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l11	0	Dā́re	Darê	0	Dā́re	Darê	dare	trees			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l11	1	tṳ́yera	tûyêra	0	tṳ́ye	tûyê	tue	2SG.POSS/your	pronoun	person=2;number=singular;possessive=yes	medium	Context is possession/location in the addressee's garden, not source/ablative.
+Hassan ile Söyleşi	h02_l11	1	tṳ́yera	tûyêra	1	ra	ra	ra	LOC/REL	postposition	relation=contextual	low	Project ra convention keeps the function contextual where source/ablative is unsupported.
+Hassan ile Söyleşi	h02_l11	2	é̱stu,	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l11	3	sayér	sayêr	0	sayér	sayêr	sayer	apple trees			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l11	4	é̱stu,	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l11	5	mišmišyḗr	mişmişyêr	0	mišmišyḗr	mişmişyêr	mismisyer	apricot trees			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l11	6	é̱stu,	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l11	7	χauχir,	xawxir	0	χauχir	xawxir	xauxir	peach trees			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l11	8	he̱-	he	0	he̱	he	he	pomegranate			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l12	0	nāriyér,	nariyêr	0	nāriyér	nariyêr	nariyer	pomegranate trees			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l12	1	re̱z	rez	0	re̱z	rez	rez	vine			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l12	2	ésti.	êsti	0	ésti	êsti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l13	0	T̮é̱nde	Çendê	0	T̮é̱nde	Çendê	tende	how many			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l13	1	wadeí	wadêy	0	wadeí	wadêy	wadei	rooms			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l13	2	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l13	3	bā́ni	bani	0	bā́ni	bani	bani	houses			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l13	4	é̱sti?	esti	0	é̱sti	esti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l14	0	Mē̱rdúm	Merdûm	0	Mē̱rdúm	Merdûm	merdum	person			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l14	1	é̱stu	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l14	2	wé̱ri	weri	0	wé̱ri	weri	weri	some			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l14	3	kei	kêy	0	kei	kêy	kei	house			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l14	4	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l14	5	ésti,	êsti	0	ésti	êsti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l14	6	pāṅd̮	pangc	0	pāṅd̮	pangc	pand	five			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l14	7	é̱sti,	esti	0	é̱sti	esti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l14	8	mē̱rdúm	merdûm	0	mē̱rdúm	merdûm	merdum	person			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l14	9	é̱stu	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l15	0	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l15	1	bāṅ	bang	0	bāṅ	bang	ban	house			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l15	2	é̱stu,	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l15	3	wadé̱	wade	0	wadé̱	wade	wade	room			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l15	4	t̮íńu.	çinyû	0	t̮íńu	çinyû	tinu	there is not			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l16	0	Šṳ́ma	Şûma	0	Šṳ́ma	Şûma	suma	you.PL			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l16	1	šuén’i	şwêni	0	šuén’i	şwêni	sueni	we go			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h02_l16	2	zozā́ṅ?	zozang	0	zozā́ṅ	zozang	zozan	summer pasture			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l01	0	Mā	Ma	0	Mā	Ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l01	1	šuén’i	şwêni	0	šuén’i	şwêni	sueni	we go			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l01	2	zozā́ṅ.	zozang	0	zozā́ṅ	zozang	zozan	summer pasture			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l02	0	Šṳ́ma	Şûma	0	Šṳ́ma	Şûma	suma	you.PL			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l02	1	qām	qam	0	qām	qam	qam	which			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l02	2	wáχte	waxtê	0	wáχte	waxtê	waxte	time			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l02	3	šuén’i	şwêni	0	šuén’i	şwêni	sueni	we go			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l02	4	zozā́ṅ?	zozang	0	zozā́ṅ	zozang	zozan	summer pasture			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l03	0	Ā́šme	Aşmê	0	Ā́šme	Aşmê	asme	month			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l03	1	Te̱múzide	Temûzidê	0	Te̱múzi	Temûzi	temuzi	Temmuz			medium	ZGP-0340; contextual locative -de.
+Hassan ile Söyleşi	h03_l03	1	Te̱múzide	Temûzidê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
+Hassan ile Söyleşi	h03_l03	2	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l03	3	šuén’i	şwêni	0	šuén’i	şwêni	sueni	we go			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l03	4	zozā́ṅ.	zozang	0	zozā́ṅ	zozang	zozan	summer pasture			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l04	0	Šṳ́ma	Şûma	0	Šṳ́ma	Şûma	suma	you.PL			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l04	1	zozā́ṅde	zozangdê	0	zozā́ṅ	zozang	zozan	pasture			medium	ZGP-0340; contextual locative -de.
+Hassan ile Söyleşi	h03_l04	1	zozā́ṅde	zozangdê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
+Hassan ile Söyleşi	h03_l04	2	karat̮ad̮íride	karaçaciridê	0	karat̮ad̮íri	karaçaciri	karatadiri	black tents			medium	ZGP-0340; contextual locative -de.
+Hassan ile Söyleşi	h03_l04	2	karat̮ad̮íride	karaçaciridê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
+Hassan ile Söyleşi	h03_l04	3	rōšén’i?	roşêni	0	rōšén’i	roşêni	roseni	we stay			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l05	0	Mā	Ma	0	Mā	Ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l05	1	karat̮ad̮írid̮e	karaçaciricê	0	karat̮ad̮íri	karaçaciri	karatadiri	black tents			medium	ZGP-0340; contextual locative -de.
+Hassan ile Söyleşi	h03_l05	1	karat̮ad̮írid̮e	karaçaciricê	1	d̮e	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
+Hassan ile Söyleşi	h03_l05	2	rōšén’i,	roşêni	0	rōšén’i	roşêni	roseni	we stay			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l05	3	bā́ni	bani	0	bā́ni	bani	bani	houses			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l05	4	ésti	êsti	0	ésti	êsti	esti	there are			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l05	5	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l05	6	bā́nide	banidê	0	bā́ni	bani	bani	houses			medium	ZGP-0340; contextual locative -de.
+Hassan ile Söyleşi	h03_l05	6	bā́nide	banidê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
+Hassan ile Söyleşi	h03_l05	7	rōšén’i.	roşêni	0	rōšén’i	roşêni	roseni	we stay			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l06	0	Šṳ́ma	Şûma	0	Šṳ́ma	Şûma	suma	you.PL			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l06	1	qām	qam	0	qām	qam	qam	which			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l06	2	wáχte	waxtê	0	wáχte	waxtê	waxte	time			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l06	3	yén’i	yêni	0	yén’i	yêni	yeni	we come			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l06	4	wār?	war	0	wār	war	war	down			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l07	0	Mā	Ma	0	Mā	Ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l07	1	ā́šmai	aşmay	0	ā́šmai	aşmay	asmai	moon			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l07	2	pa’ízi	paizi	0	pa’ízi	paizi	paizi	autumn			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l07	3	vē̱ryén’i	veryêni	0	vē̱ryén’i	veryêni	veryeni	first			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l07	4	yén’i	yêni	0	yén’i	yêni	yeni	we come			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l07	5	wār.	war	0	wār	war	war	down			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l08	0	Tu	Tû	0	Tu	Tû	tu	you			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l08	1	zāf	zaf	0	zāf	zaf	zaf	many			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l08	2	kauγé̱	kawğe	0	kauγé̱	kawğe	kauge	fight			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l08	3	dī?	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l09	0	Me	Mê	0	Me	Mê	me	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l09	1	zaf	zaf	0	zaf	zaf	zaf	many			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l09	2	kauγé̱	kawğe	0	kauγé̱	kawğe	kauge	fight			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l09	3	dī.	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l09	4	Bāúki	Bawki	0	Bāúki	Bawki	bauki	father			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l09	5	méra,	mêra	0	mé	mê	me	1SG.POSS	pronoun	person=1;number=singular;possessive=yes	medium	Phrase bawki mera is treated as 'my father' / oath formula in context.
+Hassan ile Söyleşi	h03_l09	5	méra,	mêra	1	ra	ra	ra	REL	postposition	relation=contextual	low	Not analyzed here as simple source/ablative; see phrase row.
+Hassan ile Söyleşi	h03_l09	6	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
+Hassan ile Söyleşi	h03_l09	6	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
+Hassan ile Söyleşi	h03_l09	7	Ńéribi	Nyêribi	0	Ńéribi	Nyêribi	neribi	Nerib			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l09	8	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l09	9	Hʿyẹ̄́ni	'Hyêni	0	Hʿyẹ̄́ni	'Hyêni	hyeni	Hyeni			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l09	10	me	mê	0	me	mê	me	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l10	0	dī,	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l10	1	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l10	2	šía	şya	0	šía	şya	sia	to go			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l10	3	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
+Hassan ile Söyleşi	h03_l10	3	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
+Hassan ile Söyleşi	h03_l10	4	Ńeríbi	Nyêribi	0	Ńeríbi	Nyêribi	neribi	Nerib			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l10	5	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l10	6	Hʿyẹ̄́ni,	'Hyêni	0	Hʿyẹ̄́ni	'Hyêni	hyeni	Hyeni			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l10	7	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
+Hassan ile Söyleşi	h03_l10	7	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
+Hassan ile Söyleşi	h03_l10	8	E̱h̔méd	E'hmêd	0	E̱h̔méd	E'hmêd	ehmed	Ahmed			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l10	9	bé̱gi	begi	0	bé̱gi	begi	begi	Beg			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l10	10	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l10	11	Sivā́ni	Sivani	0	Sivā́ni	Sivani	sivani	Sivan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l11	0	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l11	1	té̱de	tedê	0	té̱	te	te	it			medium	ZGP-0340; contextual locative -de.
+Hassan ile Söyleşi	h03_l11	1	té̱de	tedê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
+Hassan ile Söyleşi	h03_l11	2	bía;	bya	0	bía	bya	bia	was			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l11	3	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
+Hassan ile Söyleşi	h03_l11	3	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
+Hassan ile Söyleşi	h03_l11	4	Sivā́ni	Sivani	0	Sivā́ni	Sivani	sivani	Sivan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l11	5	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l11	6	Avdúla	Avdûla	0	Avdúla	Avdûla	avdula	Avdula			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l11	7	bé̱gi	begi	0	bé̱gi	begi	begi	Beg			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l11	8	me	mê	0	me	mê	me	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l11	9	dī,	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l11	10	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l11	11	té̱de	tedê	0	té̱	te	te	it			medium	ZGP-0340; contextual locative -de.
+Hassan ile Söyleşi	h03_l11	11	té̱de	tedê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
+Hassan ile Söyleşi	h03_l11	12	bía;	bya	0	bía	bya	bia	was			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l12	0	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
+Hassan ile Söyleşi	h03_l12	0	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
+Hassan ile Söyleşi	h03_l12	1	Karbe̱gā́ni	Karbegani	0	Karbe̱gā́ni	Karbegani	karbegani	Karbegan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l12	2	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l12	3	Sivā́ni	Sivani	0	Sivā́ni	Sivani	sivani	Sivan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l12	4	me	mê	0	me	mê	me	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l12	5	dī,	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l12	6	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l12	7	té̱de	tedê	0	té̱	te	te	it			medium	ZGP-0340; contextual locative -de.
+Hassan ile Söyleşi	h03_l12	7	té̱de	tedê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
+Hassan ile Söyleşi	h03_l12	8	bía,	bya	0	bía	bya	bia	was			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l12	9	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
+Hassan ile Söyleşi	h03_l12	9	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
+Hassan ile Söyleşi	h03_l12	10	We̱šini	Weşini	0	We̱šini	Weşini	wesini	Weşin			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l13	0	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l13	1	Sivā́ni	Sivani	0	Sivā́ni	Sivani	sivani	Sivan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l13	2	me	mê	0	me	mê	me	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l13	3	dī,	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l13	4	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l13	5	té̱de	tedê	0	té̱	te	te	it			medium	ZGP-0340; contextual locative -de.
+Hassan ile Söyleşi	h03_l13	5	té̱de	tedê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
+Hassan ile Söyleşi	h03_l13	6	bía.	bya	0	bía	bya	bia	was			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l13	7	Aú’e	Awê	0	Aú’e	Awê	aue	those			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l13	8	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
+Hassan ile Söyleşi	h03_l13	8	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
+Hassan ile Söyleşi	h03_l13	9	aširā́nu.	aşiranû	0	ašir	aşir	asiret	tribe			medium	Context: tribal feuds / feuds of tribes.
+Hassan ile Söyleşi	h03_l13	9	aširā́nu.	aşiranû	1	ān	an	-an	PL	suffix	number=plural	high	Müller/Lerch plural analysis used across reviewed interlinears.
+Hassan ile Söyleşi	h03_l13	9	aširā́nu.	aşiranû	2	u	û	-u	OBL/EZ	case/linker	relation=oblique_or_ezafe	medium	Context: feuds of tribes.
+Hassan ile Söyleşi	h03_l13	10	E̱z	Ez	0	E̱z	Ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l13	11	kauγé̱	kawğe	0	kauγé̱	kawğe	kauge	fight			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l14	0	ńetersén’a.	nyêtêrsêna	0	ńetersén’a	nyêtêrsêna	netersena	I do not fear			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l15	0	Ti̥	Tı	0	Ti̥	Tı	ti	you			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l15	1	ńešén’i	nyêşêni	0	ńe	ne	ne-	NEG	prefix	polarity=negative	high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.
+Hassan ile Söyleşi	h03_l15	1	ńešén’i	nyêşêni	1	šén’i	şêni	seni	know/can			high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.
+Hassan ile Söyleşi	h03_l15	2	vā́d̮i	vaci	0	vā́d̮i	vaci	vadi	tell			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l15	3	kauγé̱’i	kawğei	0	kauγé̱	kawğe	kauge	feud			high	Recurring feud title/phrase.
+Hassan ile Söyleşi	h03_l15	3	kauγé̱’i	kawğei	1	’i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Müller/Lerch ezafe/genitive analysis used across the reviewed feud interlinears.
+Hassan ile Söyleşi	h03_l15	4	Sivā́ni	Sivani	0	Sivā́ni	Sivani	sivani	Sivan			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l15	5	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l15	6	Avdúla	Avdûla	0	Avdúla	Avdûla	avdula	Avdula			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l15	7	bé̱gi.	begi	0	bé̱gi	begi	begi	Beg			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h04_l01	0	E̱z	Ez	0	E̱z	Ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h04_l01	1	rōd̮eia,	rocêya	0	rōd̮eia	rocêya	rodeia	fasting			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h04_l01	2	ńešén’a	nyêşêna	0	ńešén’a	nyêşêna	nesena	I cannot			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h04_l01	3	vā́d̮a,	vaca	0	vā́d̮a	vaca	vada	speak			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h04_l01	4	ze̱réi	zerêy	0	ze̱réi	zerêy	zerei	heart			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h04_l01	5	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h04_l01	6	kalṳ́na	kalûna	0	kalṳ́na	kalûna	kaluna	pipe			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h04_l01	7	wazén’a.	wazêna	0	wazén’a	wazêna	wazena	wants			unsplit	Current word-level token gloss; no confident internal split applied.

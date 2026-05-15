@@ -2,7 +2,7 @@
   "schema": "ll_tools_text_document.v1",
   "kind": "corpus_text",
   "lesson_id": "lerch-gespraech-mit-hassan",
-  "title": "Gespräch mit Hassan",
+  "title": "Hassan ile Söyleşi",
   "source_label": "Zazaki",
   "translations": {
     "tr": {
@@ -19,7 +19,7 @@
     "source_author": "Peter Lerch",
     "source_work": "Forschungen über die Kurden und die iranischen Nordchaldäer / Russian original Zazaki transcriptions",
     "story_title_lerch": "Gespräch mit Hassan",
-    "story_title_modern_zazaki": "Gespräch mit Hassan",
+    "story_title_modern_zazaki": "Hassan ile Söyleşi",
     "working_status": "reviewed working edition; not final critical edition",
     "created_from": "Lerch Hassan review bundle in Language/Z/Dictionaries/Lerch",
     "exported_at": "2026-05-15",

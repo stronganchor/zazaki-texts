@@ -32,6 +32,51 @@ TRANSLATION_TITLES = {
     },
 }
 
+READING_UNIT_SOURCE_LINE_IDS = {
+    "kauge-nyerib-u-sivani": {
+        "u01": ["s01_l02", "s01_l03", "s01_l04"],
+        "u02": ["s01_l05"],
+        "u03": ["s01_l06"],
+        "u04": ["s01_l07", "s01_l08"],
+        "u05": ["s01_l09"],
+        "u06": ["s01_l10"],
+        "u07": ["s01_l11", "s01_l12", "s01_l13"],
+        "u08": ["s02_l01", "s02_l02", "s02_l03"],
+        "u09": ["s02_l04", "s02_l05", "s02_l06", "s02_l07"],
+        "u10": ["s02_l08", "s02_l09"],
+        "u11": ["s02_l10"],
+        "u12": ["s02_l11", "s02_l12"],
+        "u13": ["s02_l13", "s02_l14"],
+        "u14": ["s02_l15"],
+        "u15": ["s03_l01", "s03_l02"],
+        "u16": ["s03_l03"],
+        "u17": ["s03_l04"],
+        "u18": ["s03_l05", "s03_l06", "s03_l07"],
+        "u19": ["s03_l08", "s03_l09"],
+        "u20": ["s03_l10"],
+        "u21": ["s03_l11", "s03_l12", "s03_l13", "s04_l01"],
+        "u22": ["s04_l02", "s04_l03"],
+        "u23": ["s04_l04"],
+        "u24": ["s04_l05"],
+        "u25": ["s04_l06", "s04_l07"],
+        "u26": ["s04_l08", "s04_l09"],
+        "u27": ["s04_l10"],
+        "u28": ["s04_l11", "s04_l12"],
+        "u29": ["s04_l13"],
+        "u30": ["s04_l14", "s04_l15", "s05_l01", "s05_l02"],
+        "u31": ["s05_l03", "s05_l04", "s05_l05"],
+        "u32": ["s05_l06", "s05_l07"],
+        "u33": ["s05_l08", "s05_l09"],
+        "u34": ["s05_l10"],
+        "u35": ["s05_l11", "s05_l12"],
+        "u36": ["s05_l13", "s05_l14", "s05_l15"],
+        "u37": ["s06_l01"],
+        "u38": ["s06_l02"],
+        "u39": ["s06_l03"],
+        "u40": ["s06_l04"],
+    },
+}
+
 
 def assert_inside_repo(path: Path) -> Path:
     resolved = path.resolve()
@@ -48,13 +93,15 @@ def read_json(path: Path) -> dict:
 def write_json(path: Path, payload: dict) -> None:
     path = assert_inside_repo(path)
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    with path.open("w", encoding="utf-8", newline="\n") as handle:
+        handle.write(json.dumps(payload, ensure_ascii=False, indent=2) + "\n")
 
 
 def write_text(path: Path, value: str) -> None:
     path = assert_inside_repo(path)
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(value.rstrip() + "\n", encoding="utf-8")
+    with path.open("w", encoding="utf-8", newline="\n") as handle:
+        handle.write(value.rstrip() + "\n")
 
 
 def clean_join(parts: list[str]) -> str:
@@ -156,7 +203,11 @@ def copy_bundle_assets(bundle_dir: Path, target_dir: Path) -> None:
 
 
 def copy_morphemes(bundle_dir: Path, target_dir: Path, morpheme_file: str) -> None:
-    shutil.copy2(bundle_dir / morpheme_file, assert_inside_repo(target_dir / "morphemes.tsv"))
+    source = bundle_dir / morpheme_file
+    target = assert_inside_repo(target_dir / "morphemes.tsv")
+    lines = source.read_text(encoding="utf-8").splitlines()
+    with target.open("w", encoding="utf-8", newline="\n") as handle:
+        handle.write("\n".join(line.rstrip() for line in lines) + "\n")
 
 
 def update_existing_text(slug: str, bundle: str, interlinear_file: str, morpheme_file: str, source_label: str) -> dict:
@@ -170,7 +221,9 @@ def update_existing_text(slug: str, bundle: str, interlinear_file: str, morpheme
     source_by_id = {line["id"]: line for line in fresh_source_lines}
 
     for unit in doc.get("reading_units", []):
-        ids = unit.get("source_line_ids") or []
+        ids = unit.get("source_line_ids") or READING_UNIT_SOURCE_LINE_IDS.get(slug, {}).get(unit.get("id"), [])
+        if ids:
+            unit["source_line_ids"] = ids
         unit["source"] = clean_join([source_by_id[line_id]["zazaki"] for line_id in ids if line_id in source_by_id])
 
     doc["source_lines"] = fresh_source_lines
@@ -324,7 +377,7 @@ def create_hassan_text() -> dict:
         "schema": "ll_tools_text_document.v1",
         "kind": "corpus_text",
         "lesson_id": "lerch-gespraech-mit-hassan",
-        "title": "Gespräch mit Hassan",
+        "title": "Hassan ile Söyleşi",
         "source_label": "Zazaki",
         "translations": {
             "tr": {"label": "Turkish"},
@@ -337,7 +390,7 @@ def create_hassan_text() -> dict:
             "source_author": "Peter Lerch",
             "source_work": "Forschungen über die Kurden und die iranischen Nordchaldäer / Russian original Zazaki transcriptions",
             "story_title_lerch": "Gespräch mit Hassan",
-            "story_title_modern_zazaki": "Gespräch mit Hassan",
+            "story_title_modern_zazaki": "Hassan ile Söyleşi",
             "working_status": "reviewed working edition; not final critical edition",
             "created_from": "Lerch Hassan review bundle in Language/Z/Dictionaries/Lerch",
             "exported_at": EXPORT_DATE,
@@ -359,7 +412,7 @@ def create_hassan_text() -> dict:
         target_dir / "metadata.json",
         {
             "id": "lerch-gespraech-mit-hassan",
-            "title": "Gespräch mit Hassan",
+            "title": "Hassan ile Söyleşi",
             "title_lerch": "Gespräch mit Hassan",
             "author_collector": "Peter Lerch",
             "language": "Zazaki",

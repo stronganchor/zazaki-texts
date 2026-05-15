@@ -88,363 +88,517 @@
   "reading_units": [
     {
       "id": "u01",
-      "source": "",
+      "source": "Veri coan yaw lacêkû Nyêrbic şê Sivang 'Horsigê dızdêyê bani Mêla A'hmêdi Qafan akêrd pûrti Mêla A'hmêdi Qafan gêrawt bêrû Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd tepişt va kê",
       "translations": {
         "tr": "Eskiden Nyêrib'den bir genç Sivan aşiretine, Horsig'e hırsızlığa gitti; Mela Ahmedi Qafon'un evini açtı ve Mela Ahmedi Qafon'un kürkünü aldı ve götürdü.",
         "en": "Once a young man from Nerib went to the Sivan tribe, to Horsig, to steal; he opened Mel'a Ahmed Qafan's house and took Mel'a Ahmed Qafan's fur coat and carried it off.",
         "de": "Einst ging ein junger Mann aus Nerib nach Horsig in Sivän, um zu stehlen, öffnete das Haus des Mel'a Ahmed Qafan, nahm dessen Pelz (und) ging damit davon (trug ihn davon)."
-      }
+      },
+      "source_line_ids": [
+        "s01_l02",
+        "s01_l03",
+        "s01_l04"
+      ]
     },
     {
       "id": "u02",
-      "source": "",
+      "source": "dızdê ra tê qangcaray Dızdi va kê ez Nyêribraya Laci Mêla A'h",
       "translations": {
         "tr": "Mela Ahmed'in oğlu Huseyin o hırsızı gördü, yakaladı ve hırsıza dedi ki: 'Sen nerelisin?' Hırsız dedi ki: 'Ben Nyêrib'denim.",
         "en": "Mel'a Ahmed's son Husein saw that thief, seized him, and said to the thief: 'Where are you from?' The thief said: 'I am from Nerib.",
         "de": "Der Sohn Mel'a Ahmed’s, Husein bemerkte diesen Dieb, packte (ihn und) sagte (ihm): wo bist du her? Der Dieb sagte: ich bin aus Nerib."
-      }
+      },
+      "source_line_ids": [
+        "s01_l05"
+      ]
     },
     {
       "id": "u03",
-      "source": "",
+      "source": "mêdi va kê tê Nyêribdê qam Nyêribdêy Dızdi va kê ez Deştêy",
       "translations": {
         "tr": "Mela Ahmed'in oğlu dedi ki: 'Nyêrib'densin; hangi Nyêrib'densin?' Hırsız dedi ki: 'Ben Deştê Henzi'denim.",
         "en": "Mel'a Ahmed's son said: 'You are from Nerib; from which Nerib?' The thief said: 'I am from Destei Henzi.",
         "de": "Der Sohn Mel’a Ahmed’s sagte: du bist aus Nerib, aus welchem Nerib? Der Dieb sagte: ich bin aus Destei Henzi."
-      }
+      },
+      "source_line_ids": [
+        "s01_l06"
+      ]
     },
     {
       "id": "u04",
-      "source": "",
+      "source": "'Henzira Laci Mêla A'hmêdi va kê tê qam me'hladi Dızdi va kê ez me'hlay Şêynangda Laci Mêla A'hmêdi va kê tê qawi amêy",
       "translations": {
         "tr": "Mela Ahmed'in oğlu dedi ki: 'Hangi mahalledensin?' Hırsız dedi ki: 'Şeynan mahallesindeyim.",
         "en": "Mel'a Ahmed's son said: 'From which mahalle are you?' The thief said that: 'I am from the Seinān mahalle.",
         "de": "Der Sohn Mel'a Ahmed’s fragte: aus welchem Mahal? Der Dieb sagte: aus dem Mahal Seinän."
-      }
+      },
+      "source_line_ids": [
+        "s01_l07",
+        "s01_l08"
+      ]
     },
     {
       "id": "u05",
-      "source": "",
+      "source": "malê mê bêni Dızdi va kê ez Nyêrbida amêya malê twê dızdêy",
       "translations": {
         "tr": "Mela Ahmed'in oğlu dedi ki: 'Niçin geldin benim evime?' Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim, hırsızlık etmek için.",
         "en": "Mel'a Ahmed's son said: 'Why did you come into my house?' The thief said: 'I am Neribian; I came into your house to steal.",
         "de": "Mel'a Ahmed’s Sohn fragte: warum kamst du? warum bist du in meinem Hause? Der Dieb antwortete ich (Einwohner) von Nerib kam in dein Haus, um Diebstahl zu verüben."
-      }
+      },
+      "source_line_ids": [
+        "s01_l09"
+      ]
     },
     {
       "id": "u06",
-      "source": "",
+      "source": "bıkêra bêra twê ez dyang lakimkê ez ha bêna zor bêna Laci",
       "translations": {
         "tr": "Sen beni burada yakaladın; fakat bil ki ben güçlüyüm.",
         "en": "Since you caught me here, know that I am strong.",
         "de": "Und wurde von dir hier getroffen, darum bin ich hier, (wisse aber,) dass ich stark bin."
-      }
+      },
+      "source_line_ids": [
+        "s01_l10"
+      ]
     },
     {
       "id": "u07",
-      "source": "",
+      "source": "Mêla A'hmêdi wica serêy dızdi têra kêrd 'habêrê êrşawûtê Nyê rib Xalef ağayri va kê we Xyeni nêbê twê têdê kawğê kêrdini tû 'Hyênici pyêrû kişti ardi emani ser Xalef ağay 'habêrê erşaw",
       "translations": {
         "tr": "Mela Ahmed'in oğlu hemen hırsızı öldürdü ve Nyêrib'e, Xalef Ağa'ya haber gönderdi, dedi ki: 'Hêni'ye gelme; sen orada kavga ettin; Hêni'de herkesi öldürüp emana getirdin.",
         "en": "Mel'a Ahmed's son immediately killed the thief and sent a messenger to Nerib, to Xalef Agha, saying: 'Do not come to Hyeni; you fought there; you killed everyone in Hyeni and brought them under safe-conduct.",
         "de": "Mel’a Ahmed's Sohn erschlug sogleich den Dieb, sandte einen Boten zu Xalef Agha und liess sagen: komme nicht nach Hyeni (?)."
-      }
+      },
+      "source_line_ids": [
+        "s01_l11",
+        "s01_l12",
+        "s01_l13"
+      ]
     },
     {
       "id": "u08",
-      "source": "",
+      "source": "ûtê Avdûlah ağay Kêlang va kê mê Nyêribdê kawğê kêrd la kimkê wexti xoêdê 'hadre bê twê merdûmi mê kişt bızani kê ez vist merdûmi twê yaw merdûmi xoê vera kişênya Avdûlah ağay",
       "translations": {
         "tr": "Xalef Ağa, Kelanlı Avdulah Ağa'ya haber gönderip dedi ki: 'Nyêrib'le kavga ettim, fakat kendi vaktinde hazır ol; adamlarımdan birini öldürdün; bil ki ben, benim bir adamıma karşı senin yirmi adamını öldüreceğim.",
         "en": "Xalef Agha sent a message to Avdulah Agha of Kelan, saying: 'I fought with Nerib, but be ready at your own time; you killed one of my men; know that I will kill twenty of yours for one of mine.",
         "de": "Xalef Agha sandte einen Boten zu Avdül’ah Agha nach Kelan und liess sagen: ich habe mit (denen von) Nerib gekämpft (?), darum sei zu deiner Zeit bereit, du hast einen der Meinigen erschlagen, (so) wisse (denn), dass ich für einen der Meinigen zwanzig der Deinigen tödten werde."
-      }
+      },
+      "source_line_ids": [
+        "s02_l01",
+        "s02_l02",
+        "s02_l03"
+      ]
     },
     {
       "id": "u09",
-      "source": "",
+      "source": "'habêrê êrşawûtê Xalef ağayri va kê waxtê xoêdê 'hadre bê ez mêyştê eskêri xoê gêna yêna awkay Şêlê ver tızi wicara eskêri xoê bıgi byê Cayt ver ma kawğê bıki nyavawkê tê serêy mê wêni nyavawkê ez serêy twê wêna Xalef ağay 'habêr erşawûtê Av",
       "translations": {
         "tr": "Avdulah Ağa Xalef Ağa'ya haber gönderdi: 'Kendi vaktinde hazır ol; ben yarın ordumu götürüp Sele deresine geleceğim; sen de ordunu götürüp Dait tarafına gel; ya sen benim başımı kesinceye kadar ya da ben senin başını kesinceye kadar kavga edeceğiz.",
         "en": "Avdulah Agha sent a message to Xalef Agha: 'Be ready at your own time; I will lead my army tomorrow and come to the stream Sele; you too bring your army and come toward Dait; we will fight until you cut off my head, or until I cut off yours.",
         "de": "Avdül’ah Agha sandte einen Boten zu Xalef Agha und liess sagen: sei deiner Zeit bereit, morgen führe ich mein Heer, komme zum Bache Sel’e, führe auch du dein Heer dorthin, komme gen Dait, wir werden uns lange schlagen, bis du mich oder ich dich getödtet habe."
-      }
+      },
+      "source_line_ids": [
+        "s02_l04",
+        "s02_l05",
+        "s02_l06",
+        "s02_l07"
+      ]
     },
     {
       "id": "u10",
-      "source": "",
+      "source": "dûlah ağayri va kê eskêri mê 'hadraw enkay ez amêya Dêyştêdê tızi warzê eskêri xoê bıgi byê awkay Şêlê ver ma kawğe bıki",
       "translations": {
         "tr": "Xalef Ağa Avdulah Ağa'ya haber gönderdi: 'Ordum hazır; Deştê'ye varır varmaz sen de kalk, ordunu götür ve Sele deresine gel; kavga edeceğiz.",
         "en": "Xalef Agha sent a message to Avdulah Agha: 'My army is ready; as soon as I come to Deste you too rise, lead your army, and come to the stream Sele; we will fight.",
         "de": "Xalef Agha sandte, einen Boten zu Avdül’ah Agha und liess sagen: mein Heer ist bereit, sobald ich nach Dait komme breche du auch auf, führe dein Heer (und) komme zum Bache Sel’e, wir wollen uns schlagen."
-      }
+      },
+      "source_line_ids": [
+        "s02_l08",
+        "s02_l09"
+      ]
     },
     {
       "id": "u11",
-      "source": "",
+      "source": "Enoê kawğe Tırkan nyû enoê kawğê aşiranû tı byê xoêri vyênê",
       "translations": {
         "tr": "Bu Türklerle bir savaş değil; bu bir aşiret kavgası; gelmeye bak.",
         "en": "This is not a fight with Turks; this is a tribal feud; see that you come.",
         "de": "Dies wird kein Kampf zwischen Türken, sondern eine Stammesfehde sein, sieh zu, dass du kommst."
-      }
+      },
+      "source_line_ids": [
+        "s02_l10"
+      ]
     },
     {
       "id": "u12",
-      "source": "",
+      "source": "Avdûlah ağay 'habêr erşawûtê dawang va kê çaw mevindi mêyştê awkay Şêlê verdê kawğê maw Nyêrbicanû Dawang 'habêr erşawûtê",
       "translations": {
         "tr": "Avdulah Ağa köylülere haber gönderdi: 'Kimse gecikmesin; yarın Sele deresinde Nyêriblilerle kavgamız var.",
         "en": "Avdulah Agha sent a message to the villagers: 'Let no one delay; tomorrow we have a fight at the stream Sele with the Nerib people.",
         "de": "Avdül’ah Agha sandte Botschaft zu den Dorfbewohnern und liess sagen: dass Keiner säume, morgen haben wir einen Kampf bei dem Bache Sel'e mit denen von Nerib."
-      }
+      },
+      "source_line_ids": [
+        "s02_l11",
+        "s02_l12"
+      ]
     },
     {
       "id": "u13",
-      "source": "",
+      "source": "Avdûlah ağayri va kê mevindê çikas mali Nyêribi estû bıdê ma ma pêynyay dawani Nyêribi veşnêni Avdûlah ağay 'habêr erşawûtê",
       "translations": {
         "tr": "Köylüler haber gönderdi Avdulah Ağa'ya: 'Gecikme; Nyêrib'deki bütün malı bize ver, biz de Nyêrib köylerinin hepsini yakacağız.",
         "en": "The villagers sent a message to Avdulah Agha: 'Do not delay; give us all the property in Nerib, and we will burn all the Nerib villages.",
         "de": "Die Dorfbewohner sandten einen Boten zu Avdül'ah Agha und liessen sagen: säume nicht, alles Eigenthum, welches es nur giebt in Nerib, überlasse du uns, wir wollen die Dörfer in Nerib niederbrennen."
-      }
+      },
+      "source_line_ids": [
+        "s02_l13",
+        "s02_l14"
+      ]
     },
     {
       "id": "u14",
-      "source": "",
+      "source": "dawani va ke metêrsi seri mıri mal şımari Dawang va kê ma",
       "translations": {
         "tr": "Avdulah Ağa haber gönderdi köylülere: 'Korkmayın; başlar benim, mal sizin.",
         "en": "Avdulah Agha sent a message to the villagers: 'Do not fear; the heads are mine, the property is yours.",
         "de": "Avdül’ah Agha sandte einen Boten zu den Dorfbewohnern und liess sagen: fürchtet nicht, die Köpfe (gehören) mir, das Eigenthum (gehört) euch."
-      }
+      },
+      "source_line_ids": [
+        "s02_l15"
+      ]
     },
     {
       "id": "u15",
-      "source": "",
+      "source": "emşoê nyêvindêni ma vardêni ma swêni awkay Şêlê vêr kawğe kêni mevindê tızi byê Sêbah Avdûlah ağa werişt bê êspar",
       "translations": {
         "tr": "Köylüler dedi ki: 'Biz bu gece gecikmeyeceğiz; yola çıkıp Sele deresine kavga etmeye gideceğiz, sen de gecikme, gel.",
         "en": "The villagers said: 'We will not delay tonight; we will set out and go to the stream Sele to fight, so do not delay, and you come too.",
         "de": "Die Dorfbewohner sagten: diese Nacht werden wir nicht säumen, werden aufbrechen, werden zum Bache Sel'e kommen und uns schlagen, säume nicht, komme auch du."
-      }
+      },
+      "source_line_ids": [
+        "s03_l01",
+        "s03_l02"
+      ]
     },
     {
       "id": "u16",
-      "source": "",
+      "source": "eskêri xoê top kêrd va kê eskêri xoêra oğil mevindi ma şyêri",
       "translations": {
         "tr": "Sabah Avdulah Ağa ata bindi, ordusunu topladı ve ordusuna dedi ki: 'Oğullar, gecikmeyin; kavgaya gidiyoruz.",
         "en": "In the morning Avdulah Agha mounted his horse, gathered his army and said to it: 'Sons, do not delay; we are going to battle.",
         "de": "Am Morgen sass Avdül'ah Agha auf, versammelte seine Schaar und sagte zu ihr: Söhne, zögert nicht, wir gehen zum Kampf."
-      }
+      },
+      "source_line_ids": [
+        "s03_l03"
+      ]
     },
     {
       "id": "u17",
-      "source": "",
+      "source": "kawğe metêrsi Nyêrbici çani kawğe aşiranû serê mıri mal şı-mari",
       "translations": {
         "tr": "Korkmayın; Nyêribliler azdır; bu aşiret kavgası; başlar benim, mal sizin.'",
         "en": "Do not fear; the Nerib people are few; this is a tribal feud; heads are mine, property yours.'",
         "de": "Fürchtet euch nicht, derer von Nerib sind wenige, es ist eine Stammesfehde, die Köpfe (gehören) mir, die Beute (gehört) euch."
-      }
+      },
+      "source_line_ids": [
+        "s03_l04"
+      ]
     },
     {
       "id": "u18",
-      "source": "",
+      "source": "Dûmilbazi day pûroê Avdûlah ağa kawt eskêri ver şê awkay Şêlê ver eskêri Xalef ağay nyamaw erş kêrd va kê eskêri xoêra serê mıri mal şımari dawang veşni Eskêrê Avdûlah ağay şê",
       "translations": {
         "tr": "Davul vuruldu; Avdulah Ağa orduyu götürüp Sele deresine gitti, ama Xalef Ağa'nın ordusu gelmemişti; yürümeyi emretti ve ordusuna dedi ki: 'Başlar benim, mal sizin; köyleri yakın.",
         "en": "The drum was struck; Avdulah Agha led the army and went to the stream Sele, but Xalef Agha's army had not come; he ordered movement and said to his army: 'The heads are mine, the property yours; burn the villages.",
         "de": "Man schlug die Trommel (und) Avdül ah Agha führte sein Heer zum Bache Sel'e; Xalef Agha ’s Heer war (aber) nicht gekommen; (da) befahl er sich in Bewegung zu setzen und sagte zu seiner Schar: die Köpfe (gehören) mir, die Beute (gehört) euch, sengt die Dörfer."
-      }
+      },
+      "source_line_ids": [
+        "s03_l05",
+        "s03_l06",
+        "s03_l07"
+      ]
     },
     {
       "id": "u19",
-      "source": "",
+      "source": "dewi Xalef ağay gêrawti şêş dewi veşnay ağêray amêy kêyyê Avdûlah ağa da mal eskêri xoê",
       "translations": {
         "tr": "Avdulah Ağa'nın ordusu Xalef Ağa'nın köylerine gitti, altı köyü aldı, yaktı, geri dönüp eve geldi; Avdulah Ağa malı ordusuna verdi.",
         "en": "Avdulah Agha's army went to Xalef Agha's villages, took six villages, burned them, returned, and came home; Avdulah Agha gave the property to his army.",
         "de": "Avdül’ah Agha’s Heer ging auf die Dörfer Xalef Agha’s, nahm sechs Dörfer, brannte sie nieder, zog sich zurück und kehrte heim."
-      }
+      },
+      "source_line_ids": [
+        "s03_l08",
+        "s03_l09"
+      ]
     },
     {
       "id": "u20",
-      "source": "",
+      "source": "Yaw aşmê mênd Xalef ağay 'habêrê erşawûtê Avdûlah ağayri",
       "translations": {
         "tr": "Bir ay geçti.",
         "en": "A month passed.",
         "de": "Avdül'ah Agha überliess die Beute seinem Heere."
-      }
+      },
+      "source_line_ids": [
+        "s03_l10"
+      ]
     },
     {
       "id": "u21",
-      "source": "",
+      "source": "va kê twe ehêndê eskêri mê kişt twê şeş dawê mê veşnay taalan kêrdi waxtê xoêdê 'hadre bê ez ena gêlankê yêna qancawkê dewi twê mê di ez veşnêna taalan kêna heta yaw şewê çoa cû'hi nyêvêrdana heminê serê bırmêna Avdûlah ağay 'habêr er",
       "translations": {
         "tr": "Xalef Ağa Avdulah Ağa'ya haber gönderdi dedi ki: 'Ordumdan bazılarını öldürdün, altı köyümü yaktın ve talan ettin; kendi vaktinde hazır ol; bu sefer ben geleceğim ve her nerede senin bir köyünü görürsem, geceye kadar yakıp talan edeceğim; çocuk bile bağışlamayacağım; herkesin başını keseceğim.",
         "en": "Xalef Agha sent a message to Avdulah Agha saying: 'You killed some of my army, burned six of my villages, and plundered; be ready at your own time; this time I will come, and wherever I see one of your villages, I will burn and plunder until night; no child will I spare; I will cut off everyone's heads.",
         "de": "Es verging ein Monat."
-      }
+      },
+      "source_line_ids": [
+        "s03_l11",
+        "s03_l12",
+        "s03_l13",
+        "s04_l01"
+      ]
     },
     {
       "id": "u22",
-      "source": "",
+      "source": "şawûtê Xalef ağayri va kê cay xoêdê rê'hat vındê ekê ena gê lankê ez amêya twêra yaw kêrga koêrê nyêvêrdanû Xalef ağay",
       "translations": {
         "tr": "Avdulah Ağa Xalef Ağa'ya haber gönderdi: 'Olduğun yerde rahat dur; bu sefer sana gelirsem bir kör tavuğu bile bağışlamayacağım.",
         "en": "Avdulah Agha sent a message to Xalef Agha: 'Stay calmly where you are; if this time I come to you, I will not spare even one blind hen.",
         "de": "Xalef Agha sandte einen Boten zu Avdül’ah Agha und liess sagen: du hast Einige aus meinem Heere getödtet, du hast sechs meiner Dörfer niedergebrannt (und) geplündert, sei deiner Zeit bereit, dieses Mal komme ich, auf welche deiner Dörfer ich auch nur stosse, ich brenne sie nieder und plündere sie bis in die Nacht hinein, verschone kein Kind, reisse Allen die Köpfe Avdül ah Agha sandte einen Boten zu Xalef Agha nnd liess sagen: bleibe nur wo du bist, wenn ich dieses Mal komme, verschone ich bei dir kein blindes Huhn."
-      }
+      },
+      "source_line_ids": [
+        "s04_l02",
+        "s04_l03"
+      ]
     },
     {
       "id": "u23",
-      "source": "",
+      "source": "'habêr erşawûtê Avdûlah ağayri va kê tê byê xoêri vyênê Av",
       "translations": {
         "tr": "Xalef Ağa Avdulah Ağa'ya haber gönderdi: 'Gelmeye bak.",
         "en": "Xalef Agha sent a message to Avdulah Agha: 'See that you come.",
         "de": "Xalef Agha sandte einen Boten zu Avdu lall Agha und liess sagen: sieh zu, dass du kommst."
-      }
+      },
+      "source_line_ids": [
+        "s04_l04"
+      ]
     },
     {
       "id": "u24",
-      "source": "",
+      "source": "dûlah ağa werişt bê êspar dûmilbazi da pûroê eskêri xoê ame",
       "translations": {
         "tr": "Avdulah Ağa ata bindi, davulu çaldırdı ve ordusu toplandı.",
         "en": "Avdulah Agha mounted his horse, had the drum struck, and his army gathered.",
         "de": "Avdül'ah Agha sass auf, liess die Trommel schlagen, zog sein Heer zusammen."
-      }
+      },
+      "source_line_ids": [
+        "s04_l05"
+      ]
     },
     {
       "id": "u25",
-      "source": "",
+      "source": "pyêser Avdûlah ağa va kê eskêri xoêra çoacû'hi ma 'ha şwêni kawğe metêrsi ena gêlankê çewi meverdi heminê bıksi serê",
       "translations": {
         "tr": "Avdulah Ağa ordusuna dedi ki: 'Çocuklar, kavgaya gidiyoruz; korkmayın; bu sefer kimseyi bağışlamayın; herkesi öldürün; başlar benim, mal sizin.",
         "en": "Avdulah Agha said to his army: 'Children, we are going to fight; do not fear; this time spare no one; kill everyone; the heads are mine, the property yours.",
         "de": "Er sagte zu demselben: wir gehen uns mit Kindern schlagen, fürchtet euch nicht, dieses Mal schonet Niemand, tödtet Alle, die Köpfe (gehören) mir, die Beute (gehört) euch."
-      }
+      },
+      "source_line_ids": [
+        "s04_l06",
+        "s04_l07"
+      ]
     },
     {
       "id": "u26",
-      "source": "",
+      "source": "mıri mal sımari Eskêri va kê Avdûlah ağayra peki êfêndim Alah cani twê sağ bêdû hetakê pêynyay ma nyêmêrû twêri çi çinyû",
       "translations": {
         "tr": "Ordu Avdulah Ağa'ya dedi ki: 'Peki efendim, Allah canını korusun; biz ölmedikçe sana bir şey olmaz.",
         "en": "The army said to Avdulah Agha: 'Very well, my lord, may God preserve your life; as long as none of us dies, there is nothing for you to fear.",
         "de": "Das Heer sagte dem Avdül’ah Agha: wohl Gebieter, möge Gott deine Seele bewahren! lange wir nicht sterben, hast du nichts zu fürchten (ist dir nichts)."
-      }
+      },
+      "source_line_ids": [
+        "s04_l08",
+        "s04_l09"
+      ]
     },
     {
       "id": "u27",
-      "source": "",
+      "source": "Avdûlah ağay va kê afêrêm oğil",
       "translations": {
         "tr": "Avdulah Ağa dedi ki: 'Aferin, oğullar.'",
         "en": "Avdulah Agha said: 'Thanks, sons.'",
         "de": "Avdül’ah Agha sagte: danke, Kinder! Avdül’ah Agha liess die Trommel rühren, befahl seinem Heere vorzuschreiten, zog in’s Gebiet von Melekan und sah, dass Xalef Agha’s Heer die Patronen zusammentrug."
-      }
+      },
+      "source_line_ids": [
+        "s04_l10"
+      ]
     },
     {
       "id": "u28",
-      "source": "",
+      "source": "Avdûlah ağay dûmilbazi day pûroê eskêri xoê erş kêrd şê dyari Mêlêkani awnya kê eskêri Xalef ağay tabûrê bêsta Avdûlah",
       "translations": {
         "tr": "Avdulah Ağa davulu çaldırdı, ordusuna ilerlemeyi emretti ve Melekani bölgesine gitti ve Xalef Ağa'nın ordusunun fişek hazırladığını gördü.",
         "en": "Avdulah Agha had the drum struck, ordered his army forward, and went into the Melekani district, and saw Xalef Agha's army preparing cartridges.",
         "de": "Avdül’ah Agha liess sein Heer vorschreiten und sagte: die Köpfe (gehören) mir, die Beute (gehört) euch, geht und tödtet Alle."
-      }
+      },
+      "source_line_ids": [
+        "s04_l11",
+        "s04_l12"
+      ]
     },
     {
       "id": "u29",
-      "source": "",
+      "source": "ağay eskêri xoê erş kêrd va kê seri mıri mal şımari metêrsi",
       "translations": {
         "tr": "Avdulah Ağa ordusuna ilerlemeyi emretti: 'Başlar benim, mal sizin; korkmayın, gidip herkesi öldürün.",
         "en": "Avdulah Agha ordered his army forward, saying: 'The heads are mine, property yours; do not fear, go and kill everyone.",
         "de": "Das Heer Avdül’ah Agha’s ging gegen Xalef Agha's Heer, kam bis Tauridye und schlug sich; Xalef Agha’s Heer floh, das von Avdül’ah Agha verfolgte es, plünderte sämmtliche Häuser in den Dörfern, tödtete alle Hirten von Nerib (und) führte alle Heerden weg."
-      }
+      },
+      "source_line_ids": [
+        "s04_l13"
+      ]
     },
     {
       "id": "u30",
-      "source": "",
+      "source": "şyêri bıksi heminê Eskêri Avdûlah ağay şê eskêri Xalef ağay weta amê bı Tawricyê kawğe kerd eskêri Xalef ağay rema es kêri Adûlah ağay pêyra kawt bana dewi pyêrû taalan kerdi sû anêy Nyêrbican pyêrû kişti pesi cinê pyêrû ard",
       "translations": {
         "tr": "Avdulah Ağa'nın ordusu Xalef Ağa'nın ordusuna karşı gitti ve Tauridye'ye kadar gelip kavga etti; Xalef Ağa'nın ordusu kaçtı ve Avdulah Ağa'nın ordusu peşinden gitti, köy evlerinin hepsini talan etti, Nyêrib çobanlarının hepsini öldürdü ve bütün sürüleri götürdü.",
         "en": "Avdulah Agha's army went against Xalef Agha's army and came as far as Tauridye, where they fought; Xalef Agha's army fled, and the army of Avdulah Agha pursued, plundered all the village houses, killed all the Nerib shepherds, and carried off all the herds.",
         "de": "Es verstrichen zwanzig Tage, da zog Xalef Agha gen Qotwesan zu H'aider Agha und sagte ihm: ich begebe mich unter deinen Schutz, Avdül ah Agha Kelan hat mein ganzes Heer getödtet, hat alle meine Dörfer niedergebrannt (und) geplündert."
-      }
+      },
+      "source_line_ids": [
+        "s04_l14",
+        "s04_l15",
+        "s05_l01",
+        "s05_l02"
+      ]
     },
     {
       "id": "u31",
-      "source": "",
+      "source": "Mênd vist roc Xalef ağay şê kawt kêy Qotwesan 'Haydêr ağara va ez kawta bê'hti twê Avdûlah ağay Kelang eskêri mê pyêrû kişt dewi mê pyêrû veşnay taalan kerdi 'Haydêr ağa va kê Xa",
       "translations": {
         "tr": "Yirmi gün sonra Xalef Ağa Qotwesan'a, Hayder Ağa'ya gidip dedi ki: 'Senin himayene geldim; Kelanlı Avdulah Ağa bütün ordumu öldürdü, bütün köylerimi yaktı ve talan etti.",
         "en": "After twenty days Xalef Agha went to Qotwesan, to Haider Agha, and said: 'I came under your protection; Avdulah Agha of Kelan killed my whole army, burned all my villages and plundered them.",
         "de": "Haider Agha sagte zu Xalef Agha: was sagst du mir?"
-      }
+      },
+      "source_line_ids": [
+        "s05_l03",
+        "s05_l04",
+        "s05_l05"
+      ]
     },
     {
       "id": "u32",
-      "source": "",
+      "source": "lef ağayra tê mêra vani sê ez nyêşyêna Sivangcandê kawğe bikêra Sivangci pêynyay ma heminê kişêni Xalef ağay va kê ez kawta",
       "translations": {
         "tr": "Hayder Ağa Xalef Ağa'ya dedi ki: 'Bana ne diyorsun? Sivanlılarla kavga edemem; Sivanlılar hepimizi öldürür.",
         "en": "Haider Agha said to Xalef Agha: 'What are you saying to me? I cannot fight with the Sivan people; the Sivan people would kill all of us.",
         "de": "ich gehe nicht mit denen von Sivän mich schlagen, sie tödten uns Alle."
-      }
+      },
+      "source_line_ids": [
+        "s05_l06",
+        "s05_l07"
+      ]
     },
     {
       "id": "u33",
-      "source": "",
+      "source": "be'hti twê byê mê berê kêy Avdûlah ağay ma pya weşi kê çıkaskê kêyfi twê wazênû ez mal dana twê 'Haydêr ağa werişt bê êspar",
       "translations": {
         "tr": "Xalef Ağa dedi ki: 'Ben senin himayene geldim; benimle Avdulah Ağa'nın evine gel; bizi barıştır; her ne gönlün isterse sana mal vereceğim.",
         "en": "Xalef Agha said: 'I came under your protection; come with me to Avdulah Agha's house; reconcile us; whatever your heart wants, I will give you property.",
         "de": "Xalef Agha sagte: ich begab mich unter deinen Schutz, komme mit mir in’s Haus Avdül ah Agha's, versöhne uns, was du nur begehren magst an Gütern, will ich dir geben."
-      }
+      },
+      "source_line_ids": [
+        "s05_l08",
+        "s05_l09"
+      ]
     },
     {
       "id": "u34",
-      "source": "",
+      "source": "kawt Xalef ağay ver amêy şi Sivan kawti kêy Avdûlah ağay",
       "translations": {
         "tr": "Hayder Ağa ata bindi, Xalef Ağa'yı yanına aldı, Sivan'a geldi ve Avdulah Ağa'nın evine girdi.",
         "en": "Haider Agha mounted his horse, took Xalef Agha along, came to Sivan, and went into Avdulah Agha's house.",
         "de": "Haider Agha sass auf, nahm Xalef Agha mit, kam nach Sivän und ging in s Haus des Avdül’ah Agha."
-      }
+      },
+      "source_line_ids": [
+        "s05_l10"
+      ]
     },
     {
       "id": "u35",
-      "source": "",
+      "source": "Haydêr ağa hiryê gêlankê şê lawna Avdûlah ağa lingêrû va kê tê ağay ena gêlankê bıdi ricay mê Xalef ağay Avdûlah ağa va",
       "translations": {
         "tr": "Hayder Ağa üç kez gidip Avdulah Ağa'nın ayaklarını öptü ve dedi ki: 'Ağa, bu sefer benim hatırım için Xalef Ağa'yı bağışla.",
         "en": "Haider Agha went three times and kissed Avdulah Agha's feet, saying: 'Agha, this time spare Xalef Agha for my sake.",
         "de": "Drei Mal küsste er dem Avdül ah Agha die Füsse (und) sagte: Agha, verschone um meinetwegen den Xalef Agha."
-      }
+      },
+      "source_line_ids": [
+        "s05_l11",
+        "s05_l12"
+      ]
     },
     {
       "id": "u36",
-      "source": "",
+      "source": "kê Xaydêr ağara ekê tê nyamêyni mê Xalef ağayra yaw zirot vera nyêdani ez ka pêynyay dawani Nyêribi veşna heminê taalan ka çım kê tê amêy mê Xalef ağa kerd baxşi twê 'Haydêr ağay lawna Av",
       "translations": {
         "tr": "Avdulah Ağa dedi Hayder Ağa'ya: 'Sen gelmemiş olsaydın, Xalef Ağa'ya bir oğlan bile geri vermezdim; Nyêrib köylerinin hepsini yakar ve her şeyi talan ederdim; fakat sen geldiğin için Xalef Ağa'yı sana bağışladım.",
         "en": "Avdulah Agha said to Haider Agha: 'If you had not come, I would not have given Xalef Agha one boy back; I would have burned all the Nerib villages and plundered everything, but because you came, I grant Xalef Agha to you.",
         "de": "Avdülah Agha antwortete dem H'aidür Agha: wärest du nicht gekommen, hätte ich dem Xalef Agha nicht einen Buben zurückgegeben, ich hätte seine Dörfer niedergebrannt, alle geplündert, (doch) da du gekommen bist, schenke ich dir den Xalef Agha."
-      }
+      },
+      "source_line_ids": [
+        "s05_l13",
+        "s05_l14",
+        "s05_l15"
+      ]
     },
     {
       "id": "u37",
-      "source": "",
+      "source": "dûla ağa serêrû şê Xalef ağa ard lawna Avdûlah ağa lingêrû",
       "translations": {
         "tr": "Hayder Ağa Avdulah Ağa'yı başından öptü, gidip Xalef Ağa'yı getirdi ve Avdulah Ağa'nın ayaklarını öptü.",
         "en": "Haider Agha kissed Avdulah Agha on the head, went and brought Xalef Agha, and kissed Avdulah Agha's feet.",
         "de": "Haidör Agha küsste den Avdül’ah Agha auf den Kopf, ging (und) brachte den Xalef Agha herein; dieser küsste dem Avdülah Agha die Füsse."
-      }
+      },
+      "source_line_ids": [
+        "s06_l01"
+      ]
     },
     {
       "id": "u38",
-      "source": "",
+      "source": "Avdûlah ağa lawna Xalef ağa destrû pya bê weşi xalay day pyêra",
       "translations": {
         "tr": "Avdulah Ağa Xalef Ağa'nın elini öptü; barıştılar ve karşılıklı hilat verdiler.",
         "en": "Avdulah Agha kissed Xalef Agha's hand; they reconciled and exchanged robes of honor.",
         "de": "Avdülah Agha küsste ihm die Hand, darauf versöhnten sie sich (und) tauschten gegen einander Chalate aus."
-      }
+      },
+      "source_line_ids": [
+        "s06_l02"
+      ]
     },
     {
       "id": "u39",
-      "source": "",
+      "source": "Xaydêr ağa werışt xatır wayşt Avdûlah ağayra Xalef ağa gê",
       "translations": {
         "tr": "Hayder Ağa ata bindi, Avdulah Ağa'dan izin istedi, Xalef Ağa'yı aldı ve eve gitti.",
         "en": "Haider Agha mounted, took leave of Avdulah Agha, took Xalef Agha and went home.",
         "de": "Haider Agha sass auf, verabschiedete sich von Avdül’ah Agha, nahm den Xalef Agha mit (und) zog nach Hause."
-      }
+      },
+      "source_line_ids": [
+        "s06_l03"
+      ]
     },
     {
       "id": "u40",
-      "source": "",
+      "source": "rawt şi kêyyê Têrêk na",
       "translations": {
         "tr": "Kan davası bitti.",
         "en": "The feud was over.",
         "de": "Es war keine Fehde mehr."
-      }
+      },
+      "source_line_ids": [
+        "s06_l04"
+      ]
     }
   ],
   "source_lines": [

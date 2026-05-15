@@ -1,4 +1,4 @@
-Gespräch mit Hassan
+Hassan ile Söyleşi
 
 Kêyfê twê sênyênû Kêyfê mê 'hawlû
 
