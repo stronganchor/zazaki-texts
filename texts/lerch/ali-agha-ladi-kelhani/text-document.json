@@ -86,7 +86,7 @@
       "id": "u001",
       "source": "Ali ağa laci Kêlhani mirêy na'hêy Karbegani. Namêy daway Ali ağay Narbyêş.",
       "translations": {
-        "tr": "Kelhan'ın oğlu Ali Ağa, Karbegan nahiyesinin beyiydi. Köyünün adı Narbêş'ti. Ali Ağa dört köye saldırdı ve otuz dört kişiyi öldürdü.",
+        "tr": "Kelhan'ın oğlu Ali Ağa, Karbegan nahiyesinin beyiydi. Köyünün adı Narbêş'ti.",
         "en": "Ali Agha, son of Kelhan, was chief of the Karbegan district. His village was called Narbyes.",
         "de": "Ali Agha, der Sohn Kelhän's, war Fürst des Districts von Karbegän. Sein Dorf hiess Narbyes."
       }
@@ -95,7 +95,7 @@
       "id": "u002",
       "source": "Ali ağa çêhêr dawang da pyêrû, hiris û çêhêr kişti. Çawdi Ali ağay çi nyêbê, çewi desti Ali ağay nyêgêrawt.",
       "translations": {
-        "tr": "Ona hiçbir şey olmadı; kimsenin eli Ali Ağa'ya değmedi. Sonra Ali Ağa evini yükleyip göçtü ve Syeraçur'a gitti; orada otuz altı gün kaldı.",
+        "tr": "Ali Ağa dört köye saldırdı ve otuz dört kişiyi öldürdü. Ona hiçbir şey olmadı; kimsenin eli Ali Ağa'ya değmedi.",
         "en": "Ali Agha attacked four villages and killed thirty-four people. Nothing happened to him; no one's hand touched him.",
         "de": "Ali Agha überfiel vier Dörfer, tödtete vier und dreissig (Menschen), ihm geschah von Niemandem Etwas, keines Menschen Hand griff nach Ali Agha. Ali Agha verliess sein Haus, ging nach Syeratüre."
       }
@@ -104,7 +104,7 @@
       "id": "u003",
       "source": "Ali ağay kêyyê xoê bar kêrd, şê Syêraçûrê. Hiris û şêş roci vênert Syêraçûrêdê.",
       "translations": {
-        "tr": "Otuz dört Karbegan köyü ve otuz dört Sivan köyü toplandı ve meşveret etti. Sivan ağaları, Karbeganlı Qasım Ağa ve Weşinli Hasan Ağa bir araya gelip, \"Ali Ağa'nın evine saldıralım,\" dediler. Qasım Ağa, \"Ali Ağa'yı kandıracağız.",
+        "tr": "Sonra Ali Ağa evini yükleyip göçtü ve Syeraçur'a gitti; orada otuz altı gün kaldı. Otuz dört Karbegan köyü ve otuz dört Sivan köyü toplandı ve meşveret etti.",
         "en": "Then Ali Agha packed up, left his house, and went to Syerature, where he stayed for thirty-six days. Thirty-four Karbegan villages and thirty-four Sivan villages gathered and held counsel.",
         "de": "Er verweilte sechs und dreissig Tage in Syeratüre. Vier und dreissig Dörfer des Districtes Karbegän, vier und dreissig Dörfer von Sivän (d."
       }
@@ -113,8 +113,8 @@
       "id": "u004",
       "source": "Hiris û çêhêr dewi Karbegani, hiris û çêhêr dewi Sivani amêy pyêser, mêşore kerd, ağalêrani Sivani, Qasim ağa Karbêgani, 'Hasan ağa Weşini amêy pyêser va kê: ma şyêri kêy Ali ağay byari daw. Qasim ağa va kê: ma Ali ağay bê'hapêyni, ma şawê venga êskêrê xoê di, eskêri dawang wa pyêrû bêrû pyêser, ma şawê şyêri Ali ağay çêhêr hemê lacana ma bıkşi.",
       "translations": {
-        "tr": "Gece kendi askerimizi çağırıp köylerin askerlerini hep birlikte toplayacağız; gece gidip Ali Ağa'yı ve dört oğlunun hepsini öldüreceğiz,\" dedi. Weşinli Hasan Ağa, \"İyi olur, gidip Ali Ağa'yı öldürelim,\" dedi.",
-        "en": "The elders of Sivan, Qasim Agha of Karbegan, and Hasan Agha of Weshin came together and said, \"Let us attack Ali Agha's house.\" Qasim Agha said, \"We will trick Ali Agha. At night we will call out our army and gather it; at night we will go and kill Ali Agha and all four of his sons.\" Hasan Agha of Weshin said, \"Good.",
+        "tr": "Sivan ağaları, Karbeganlı Qasım Ağa ve Weşinli Hasan Ağa bir araya gelip, \"Ali Ağa'nın evine saldıralım,\" dediler. Qasım Ağa, \"Ali Ağa'yı kandıracağız.",
+        "en": "The elders of Sivan, Qasim Agha of Karbegan, and Hasan Agha of Weshin came together and said, \"Let us attack Ali Agha's house.\" Qasim Agha said, \"We will trick Ali Agha.",
         "de": "i. die Einwohner dieser Dörfer) kamen zusammen, hielten Rath, die Aeltesten von Sivän, Qasim Agha von Karbegän, H'asän Agha von Wesin kamen zusammen und sagten: wir wollen das Haus Ali Agha's überfallen."
       }
     },
@@ -122,8 +122,8 @@
       "id": "u005",
       "source": "'Hasan ağay Weşini va kê: rınd bênû, ma şyêri Ali ağay byari bıkşi. Ağalêrani Sivani va kê: ma qarış nyêbêni.",
       "translations": {
-        "tr": "Sivan ağaları, \"Biz karışmayacağız,\" dediler. Qasım Ağa, \"Size ihtiyaç yok,\" dedi. Sivan ağaları çekilip kendi evlerine gittiler.",
-        "en": "Let us go and kill Ali Agha.\" The Sivan elders said, \"We will not take part.\" Qasim Agha said, \"You are not needed.\" The Sivan elders withdrew and went home. But Qasim Agha and Hasan Agha set out to attack Ali Agha's house.",
+        "tr": "Gece kendi askerimizi çağırıp köylerin askerlerini hep birlikte toplayacağız; gece gidip Ali Ağa'yı ve dört oğlunun hepsini öldüreceğiz,\" dedi. Weşinli Hasan Ağa, \"İyi olur, gidip Ali Ağa'yı öldürelim,\" dedi.",
+        "en": "At night we will call out our army and gather it; at night we will go and kill Ali Agha and all four of his sons.\" Hasan Agha of Weshin said, \"Good.",
         "de": "Qasim Agha sagte: wir hassen Ali Agha, wir wollen in der Nacht unser Heer zusammenrufen und es sammeln, wir wollen in der Nacht Ali Agha (und) alle seine vier Söhne umbringen gehen. H'asän Agha von Wesin sagte: schön, wir gehen Ali Agha umbringen."
       }
     },
@@ -131,8 +131,8 @@
       "id": "u006",
       "source": "Qasim ağay va kê: şûmari lazim nyû. Ağalêri Sivani ci giryay şi kêy xoê.",
       "translations": {
-        "tr": "Qasım Ağa ile Hasan Ağa ikisi gittiler, Ali Ağa'nın evini bastılar, dört oğlunun hepsini götürdüler ve onları Mehmed Hendani'nin evine koydular. Gece Qasım Ağa köylere haber gönderip, \"Niye bekliyorsunuz? Ali Ağa'yı öldürmeye gidiyoruz,\" dedi.",
-        "en": "They took all four of his sons away and brought them to Mehmed Hendani's house. At night Qasim Agha sent word to the villages, saying, \"Why are you waiting?",
+        "tr": "Sivan ağaları, \"Biz karışmayacağız,\" dediler. Qasım Ağa, \"Size ihtiyaç yok,\" dedi.",
+        "en": "Let us go and kill Ali Agha.\" The Sivan elders said, \"We will not take part.\" Qasim Agha said, \"You are not needed.\"",
         "de": "Die Aeltesten von Sivän sagten: wir nehmen nicht daran Theil. Qasim Agha sagte: man bedarf Eurer auch nicht."
       }
     },
@@ -140,8 +140,8 @@
       "id": "u007",
       "source": "Qasim ağa, 'Hasan ağa enyê wirdi şi, kêy Ali ağay ard dawê, çêhêr hemê lacana berdi, kêrdi wadey Mê'hmêdi 'Hêndani. Qasim ağay şawê 'habêrê erşawûtê dawwana va kê: şıma çê vênerti?",
       "translations": {
-        "tr": "Köylüler toplandı; gece kalktılar, dört yüz silahlı adam çıktı ve Qasım Ağa'nın yanına geldi. Qasım Ağa ata bindi, askerin önüne geçti, Xeyd'e geldi, Xeyd'den yüz kişi daha aldı ve beş yüz kişiyle Ali Ağa'nın yanına gitti.",
-        "en": "We are going to kill Ali Agha.\" The villagers gathered; at night they rose, and four hundred armed men came out and joined Qasim Agha. Qasim Agha mounted his horse, went at the head of the army, came to Xeyd, took another hundred men from Xeyd, and went with five hundred men to Ali Agha.",
+        "tr": "Sivan ağaları çekilip kendi evlerine gittiler. Qasım Ağa ile Hasan Ağa ikisi gittiler, Ali Ağa'nın evini bastılar, dört oğlunun hepsini götürdüler ve onları Mehmed Hendani'nin evine koydular.",
+        "en": "The Sivan elders withdrew and went home. But Qasim Agha and Hasan Agha set out to attack Ali Agha's house. They took all four of his sons away and brought them to Mehmed Hendani's house.",
         "de": "Die Aeltesten von Sivän zogen ab (und) gingen nach Hause. Qasim Agha (und) H'asän Agha, diese machten sich auf, gingen das Haus Ali Agha's zu überfallen, die vier Söhne sämmtlich wegzuführen (und) zu Mehmed Hendäni in's Haus zu bringen."
       }
     },
@@ -149,8 +149,8 @@
       "id": "u008",
       "source": "ma şyêri Ali ağay bıkşi. Dewi pyêrû amêy pyêsêr, şawê werişti, çêhêr sêy eskêr vıcyay, amêy Qasim ağa 'hêt.",
       "translations": {
-        "tr": "Qasım Ağa Ali Ağa'nın yanına girdi, oturdu ve, \"Ağa, senden silah istemeye geldim,\" dedi. Ali Ağa, \"Ağa, beni kandırma; silahlarımı sana vermem,\" dedi. Qasım Ağa, \"Korkma.",
-        "en": "Qasim Agha went in to Ali Agha, sat down, and said, \"Agha, I have come to ask you for weapons.\" Ali Agha said, \"Agha, do not deceive me; I will not give you my weapons.\" Qasim Agha said, \"Do not be afraid. I will not betray you.\" Ali Agha said, \"You are a traitor.",
+        "tr": "Gece Qasım Ağa köylere haber gönderip, \"Niye bekliyorsunuz? Ali Ağa'yı öldürmeye gidiyoruz,\" dedi.",
+        "en": "At night Qasim Agha sent word to the villages, saying, \"Why are you waiting? We are going to kill Ali Agha.\" The villagers gathered; at night they rose, and four hundred armed men came out and joined Qasim Agha.",
         "de": "Qasim Agha schickte des Nachts einen Boten zu den Dorfbewohnern und liess sagen: was zögert ihr? wir gehen Ali Agha umbringen."
       }
     },
@@ -158,8 +158,8 @@
       "id": "u009",
       "source": "Qasim ağa werişt bê aspar, kawta eskêri vêr, amêy Ğêytê, Ğêytêra sêytê gêrawt, bi pangd sêytê şi Ali ağay 'het. Qasim ağa şi Ali ağay hetê ronişt va kê: ağa, ez ama twêra ric amênêt kêna.",
       "translations": {
-        "tr": "Sana hainlik etmeyeceğim,\" dedi. Ali Ağa, \"Sen hainsin.",
-        "en": "I will not give you my weapons.\" Qasim Agha swore an oath. Ali Agha gathered his own weapons and the weapons of all four of his sons and gave them to Qasim Agha.",
+        "tr": "Köylüler toplandı; gece kalktılar, dört yüz silahlı adam çıktı ve Qasım Ağa'nın yanına geldi. Qasım Ağa ata bindi, askerin önüne geçti, Xeyd'e geldi, Xeyd'den yüz kişi daha aldı ve beş yüz kişiyle Ali Ağa'nın yanına gitti. Qasım Ağa Ali Ağa'nın yanına girdi, oturdu ve, \"Ağa, senden silah istemeye geldim,\" dedi.",
+        "en": "Qasim Agha mounted his horse, went at the head of the army, came to Xeyd, took another hundred men from Xeyd, and went with five hundred men to Ali Agha. Qasim Agha went in to Ali Agha, sat down, and said, \"Agha, I have come to ask you for weapons.\" Ali Agha said, \"Agha, do not deceive me; I will not give you my weapons.\"",
         "de": "Die Dorfbewohner versammelten sich, machten sich in der Nacht auf, vierhundert Kriegsleute zogen aus und stiessen zu Qasim Agha. Qasim Agha stieg zu Pferde (und) führte sein Heer weg, kam nach Feite, nahm dort (noch) hundert (Mann) und zog mit fünfhundert Mann gegen Ali Agha."
       }
     },
@@ -167,8 +167,8 @@
       "id": "u010",
       "source": "Ali ağa va kê: ağa, mê me'hêpinê, ez çêkanê xoê nyêdana. Qasim ağay va kê: metêrsê, ez twêra xainê nyêkêna.",
       "translations": {
-        "tr": "Silahlarımı sana vermem,\" dedi. Qasım Ağa yemin etti. Ali Ağa kendi silahlarını ve dört oğlunun silahlarını topladı, Qasım Ağa'ya verdi.",
-        "en": "Qasim Agha took them. Ahmed, Ali Agha's son, said, \"Uncle, do not take our weapons.",
+        "tr": "Ali Ağa, \"Ağa, beni kandırma; silahlarımı sana vermem,\" dedi. Qasım Ağa, \"Korkma. Sana hainlik etmeyeceğim,\" dedi.",
+        "en": "Qasim Agha said, \"Do not be afraid. I will not betray you.\" Ali Agha said, \"You are a traitor.",
         "de": "Qasim Agha ging zu Ali Agha hinein, setzte sich, sagte: ich bin gekommen um bei dir Waffen zu leihen. Ali Agha sagte dem Qasim Agha: Agha, zürne mir nicht, ich werde dir, Verräther, meine Waffen nicht geben."
       }
     },
@@ -176,8 +176,8 @@
       "id": "u011",
       "source": "Ali ağa va kê: tê xaini, ez çêkani xoê nyêdana twê. Qasim ağay swend wênd.",
       "translations": {
-        "tr": "Qasım Ağa onları aldı. Ali Ağa'nın oğlu Ahmed, \"Dayı, silahlarımızı alma.",
-        "en": "You are a traitor. Perhaps my father has no sense in his head; today is Ramadan.",
+        "tr": "Ali Ağa, \"Sen hainsin. Silahlarımı sana vermem,\" dedi. Qasım Ağa yemin etti.",
+        "en": "I will not give you my weapons.\" Qasim Agha swore an oath. Ali Agha gathered his own weapons and the weapons of all four of his sons and gave them to Qasim Agha.",
         "de": "Qasim Agha sagte: fürchte nicht, ich werde an dir nicht Verrath üben. Ali Agha sagte: du bist ein Verräther, ich gebe dir meine Waffen nicht."
       }
     },
@@ -185,90 +185,90 @@
       "id": "u012",
       "source": "Ali ağay çêki xoê çêhêr hemê lacana xoê aryê kerdi, day Qasim ağayra. Qasim ağay gêrawt.",
       "translations": {
-        "tr": "Sen hainsin. Belki babamın başında akıl yok; bugün Ramazan günü. Ama bak dayı: Silahlarımızı alır da sonra hain olarak dışarı çıkarsan seni öldürürüm,\" dedi.",
-        "en": "But look, uncle: if you take our weapons and then go out as a traitor, I will kill you.\" Qasim Agha said to Ahmed, \"Nephew, do not be afraid.\" Ahmed said, \"Uncle, give me my dagger. I know you are a traitor; when you go out, you will kill us.\" The uncle did not give Ahmed his dagger.",
-        "de": "Qasim Agha that einen Schwur. Ali Agha brachte seine und seiner vier Söhne Waffen zusammen (und) gab (sie) dem Qasim Agha. Dieser nahm (sie)."
+        "tr": "Ali Ağa kendi silahlarını ve dört oğlunun silahlarını topladı, Qasım Ağa'ya verdi. Qasım Ağa onları aldı. Ali Ağa'nın oğlu Ahmed, \"Dayı, silahlarımızı alma.",
+        "en": "Qasim Agha took them. Ahmed, Ali Agha's son, said, \"Uncle, do not take our weapons. You are a traitor.",
+        "de": "Qasim Agha that einen Schwur. Ali Agha brachte seine und seiner vier Söhne Waffen zusammen (und) gab (sie) dem Qasim Agha."
       }
     },
     {
       "id": "u013",
       "source": "A'hmêd laci Ali ağay va kê: 'halo, çêkani ma mebêrê, tê xaini, bawki mê serêdê aqıl çinyû, rocêy ramazanyû, bawni, xalo, tê çêkani ma bêni, pêynıdê tê xain vêci, ez twê kısêna. Qasim ağa va kê A'hmêdira: warêza, metêrsê.",
       "translations": {
-        "tr": "Qasım Ağa Ahmed'e, \"Yeğenim, korkma,\" dedi. Ahmed, \"Dayı, hançerimi bana ver. Senin hain olduğunu biliyorum; dışarı çıktığında bizi öldüreceksin,\" dedi.",
-        "en": "The uncle went outside and said to his soldiers, \"Do not delay. I have taken the weapons of Ali Agha and all four of his sons, and I have come out.",
-        "de": "Ahmed, Ali Agha's Sohn, sagte: Onkel*), nimm unsere Waffen nicht, du bist ein Verräther, meinem Vater fehlt's an Verstand (in dem Kopfe meines Vaters ist kein Verstand), es ist heute Ramazan, pass auf, Onkel, sobald du unsere Waffen nimmst und, Verräther, hinausgehst, erschlage ich dich. Qasim Agha sagte dem Ahmed: Neffe, fürchte nicht."
+        "tr": "Sen hainsin. Belki babamın başında akıl yok; bugün Ramazan günü. Ama bak dayı: Silahlarımızı alır da sonra hain olarak dışarı çıkarsan seni öldürürüm,\" dedi.",
+        "en": "Perhaps my father has no sense in his head; today is Ramadan. But look, uncle: if you take our weapons and then go out as a traitor, I will kill you.\" Qasim Agha said to Ahmed, \"Nephew, do not be afraid.\"",
+        "de": "Dieser nahm (sie). Ahmed, Ali Agha's Sohn, sagte: Onkel*), nimm unsere Waffen nicht, du bist ein Verräther, meinem Vater fehlt's an Verstand (in dem Kopfe meines Vaters ist kein Verstand), es ist heute Ramazan, pass auf, Onkel, sobald du unsere Waffen nimmst und, Verräther, hinausgehst, erschlage ich dich."
       }
     },
     {
       "id": "u014",
       "source": "A'hmêdi va kê: 'halo xancêray mê bıdê, ez zana, tê xaini, byê ba'htêdê tı ma kişêni. 'Hali xancêray A'hmêdi nyêday cê.",
       "translations": {
-        "tr": "Dayısı Ahmed'e hançerini vermedi. Dayısı dışarı çıktı ve askerlerine, \"Beklemeyin.",
-        "en": "Do not delay. Break the door, go inside, and kill Ali Agha and all four of his sons.",
-        "de": "Ahmed sagte: Onkel, gieb meinen Dolch, ich weiss, du bist ein Verräther, sobald du hinausgehst, erschlägst du uns. Der Onkel gab den Dolch Ahmed's nicht zurück."
+        "tr": "Qasım Ağa Ahmed'e, \"Yeğenim, korkma,\" dedi. Ahmed, \"Dayı, hançerimi bana ver. Senin hain olduğunu biliyorum; dışarı çıktığında bizi öldüreceksin,\" dedi.",
+        "en": "Ahmed said, \"Uncle, give me my dagger. I know you are a traitor; when you go out, you will kill us.\" The uncle did not give Ahmed his dagger.",
+        "de": "Qasim Agha sagte dem Ahmed: Neffe, fürchte nicht. Ahmed sagte: Onkel, gieb meinen Dolch, ich weiss, du bist ein Verräther, sobald du hinausgehst, erschlägst du uns."
       }
     },
     {
       "id": "u015",
       "source": "'Hal şê tebêr, eskêri xora va: mevindi, çêki Ali ağay çêhêr hemê lacan mê gêrawt, ez ama tebêr, mevindi, bêr bışikni, şyêri zerê, Ali ağay çêhêr hemê lacan bıkşi; hêma dês û hêyşti merdwomi ğaribi yênê 'hetê esti, yênêra ve meki. Eskêri Qasim ağay bêr şêkit, Qasim ağay kawta ver, veng da va kê A'hmêdira: warêza, ez amêyya, tı kû sera şyêri, ez serêy twê ena gêlankê wêna.",
       "translations": {
-        "tr": "Ali Ağa'nın ve dört oğlunun silahlarını aldım, dışarı çıktım. Beklemeyin. Kapıyı kırın, içeri girin ve Ali Ağa'yı dört oğluyla birlikte öldürün.",
-        "en": "There are also eighteen strangers with them; do not touch them.\" Qasim Agha's soldiers broke the door. Qasim Agha went ahead and called to Ahmed, \"Nephew, I have come.",
-        "de": "Der Onkel ging hinaus (und) sagte zu seinem Heere: zögert nicht, ich habe die Waffen Ali Agha's (und) seiner vier Söhne genommen, bin herausgegangen, zögert nicht, erhebt euch, geht hinein, erschlagt Ali Agha (und) alle seine vier Söhne; es sind aber achtzehn fremde Männer bei ihnen, die rühret nicht an. Das Heer Qasim Agha's drang vor, Qasim Agha führte es an (und) schrie dem Ahmed zu: Neffe, ich komme; wenn du dich rührst (wenn du irgend wohin gehst), so haue ich dir sogleich den Kopf ab."
+        "tr": "Dayısı Ahmed'e hançerini vermedi. Dayısı dışarı çıktı ve askerlerine, \"Beklemeyin. Ali Ağa'nın ve dört oğlunun silahlarını aldım, dışarı çıktım.",
+        "en": "The uncle went outside and said to his soldiers, \"Do not delay. I have taken the weapons of Ali Agha and all four of his sons, and I have come out. Do not delay.",
+        "de": "Der Onkel gab den Dolch Ahmed's nicht zurück. Der Onkel ging hinaus (und) sagte zu seinem Heere: zögert nicht, ich habe die Waffen Ali Agha's (und) seiner vier Söhne genommen, bin herausgegangen, zögert nicht, erhebt euch, geht hinein, erschlagt Ali Agha (und) alle seine vier Söhne; es sind aber achtzehn fremde Männer bei ihnen, die rühret nicht an."
       }
     },
     {
       "id": "u016",
       "source": "A'hmêdi veng da va kê: Alah izmê mê bıdû, ez twê veri êyxoê kışêna. 'Hal şi kê A'hmêdi bıkşû.",
       "translations": {
-        "tr": "Yanlarında on sekiz yabancı da var; onlara dokunmayın,\" dedi. Qasım Ağa'nın askerleri kapıyı kırdı.",
-        "en": "Wherever you go, I will cut off your head at once.\" Ahmed called back, \"May God give me leave; I will kill you myself first.\" The uncle went to kill Ahmed. Ahmed saw an opening in the wall of the room, with a lattice in the wall.",
-        "de": "Ahmed schrie: so Gott will, erschlage ich dich selbst. Der Onkel ging Ahmed tödten."
+        "tr": "Beklemeyin. Kapıyı kırın, içeri girin ve Ali Ağa'yı dört oğluyla birlikte öldürün. Yanlarında on sekiz yabancı da var; onlara dokunmayın,\" dedi.",
+        "en": "Break the door, go inside, and kill Ali Agha and all four of his sons. There are also eighteen strangers with them; do not touch them.\" Qasim Agha's soldiers broke the door.",
+        "de": "Das Heer Qasim Agha's drang vor, Qasim Agha führte es an (und) schrie dem Ahmed zu: Neffe, ich komme; wenn du dich rührst (wenn du irgend wohin gehst), so haue ich dir sogleich den Kopf ab. Ahmed schrie: so Gott will, erschlage ich dich selbst."
       }
     },
     {
       "id": "u017",
       "source": "A'hmêd awnya dyêsi wedi, yaw şıbakê 'ha dyêsê wedidê, desti xoê berd zerêy şibakê, yaw xancêri zerêy şıbakêdê di gêrawtê vera, day 'hali bınê çici raştirû. 'Hal kawt.",
       "translations": {
-        "tr": "Qasım Ağa öne geçti ve Ahmed'e seslendi: \"Yeğenim, geldim; nereye gidersen hemen başını keseceğim.\" Ahmed de seslenip, \"Allah bana izin versin; önce ben seni kendi elimle öldüreceğim,\" dedi. Dayısı Ahmed'i öldürmeye gitti. Ahmed duvarda bir açıklık gördü; duvarda bir kafes vardı.",
-        "en": "He put his hand through the lattice, found a dagger behind it, drew it out, and struck the uncle straight in the right side of the chest. The uncle fell.",
-        "de": "Ahmed bemerkte in der Wand des Zimmers ein Gitter, steckte seine Hand in das Gitter, fand einen Dolch hinter dem Gitter, nahm ihn heraus, und führte einen Stoss gegen die rechte Brust des Onkels. Der Onkel stürzte."
+        "tr": "Qasım Ağa'nın askerleri kapıyı kırdı. Qasım Ağa öne geçti ve Ahmed'e seslendi: \"Yeğenim, geldim; nereye gidersen hemen başını keseceğim.\" Ahmed de seslenip, \"Allah bana izin versin; önce ben seni kendi elimle öldüreceğim,\" dedi.",
+        "en": "Qasim Agha went ahead and called to Ahmed, \"Nephew, I have come. Wherever you go, I will cut off your head at once.\" Ahmed called back, \"May God give me leave; I will kill you myself first.\"",
+        "de": "Der Onkel ging Ahmed tödten. Ahmed bemerkte in der Wand des Zimmers ein Gitter, steckte seine Hand in das Gitter, fand einen Dolch hinter dem Gitter, nahm ihn heraus, und führte einen Stoss gegen die rechte Brust des Onkels."
       }
     },
     {
       "id": "u018",
       "source": "A'hmêdi xancêri 'halira vetê, A'hmêdi Êysan kişt, 'Hasani Kalan kişt. Kalme gna A'hmêdi pêy çimyirû, goêni byê A'hmêdi çimi.",
       "translations": {
-        "tr": "Elini kafesin içine soktu, kafesin arkasında bir hançer buldu, onu çıkardı ve dayısının göğsünün sağ tarafına sapladı. Dayısı düştü. Ahmed hançeri dayısından çekip çıkardı ve Eysan'ı, sonra Hasan Kalan'ı öldürdü.",
-        "en": "Ahmed pulled the dagger from the uncle and killed Eysan and Hasan Kalan. A sword struck Ahmed between the eyes, and his eyes filled with blood.",
-        "de": "Ahmed zog aus des Onkels Brust den Dolch, zückte damit gegen Ahmed Eisän und gegen H'asän Kalan. Ein Schwert (?) fiel dem Ahmed zwischen die beiden Augenhöhlen, dass ihm die Augen blutig wurden."
+        "tr": "Dayısı Ahmed'i öldürmeye gitti. Ahmed duvarda bir açıklık gördü; duvarda bir kafes vardı. Elini kafesin içine soktu, kafesin arkasında bir hançer buldu, onu çıkardı ve dayısının göğsünün sağ tarafına sapladı.",
+        "en": "The uncle went to kill Ahmed. Ahmed saw an opening in the wall of the room, with a lattice in the wall. He put his hand through the lattice, found a dagger behind it, drew it out, and struck the uncle straight in the right side of the chest.",
+        "de": "Der Onkel stürzte. Ahmed zog aus des Onkels Brust den Dolch, zückte damit gegen Ahmed Eisän und gegen H'asän Kalan."
       }
     },
     {
       "id": "u019",
       "source": "A'hmêd hyêrs bê, 'hawt teni pêy aya xancêri kişti. A'hmêd kişya.",
       "translations": {
-        "tr": "Bir kılıç Ahmed'in iki gözünün arasına indi, gözleri kanla doldu. Ahmed öfkelendi ve o hançerle yedi kişiyi öldürdü.",
-        "en": "Ahmed became enraged and killed seven men with that dagger. Then Ahmed was killed.",
-        "de": "Ahmed wurde zornig (und) tödtete acht Personen mit jenem Dolche. Ahmed wurde getödtet."
+        "tr": "Dayısı düştü. Ahmed hançeri dayısından çekip çıkardı ve Eysan'ı, sonra Hasan Kalan'ı öldürdü. Bir kılıç Ahmed'in iki gözünün arasına indi, gözleri kanla doldu.",
+        "en": "The uncle fell. Ahmed pulled the dagger from the uncle and killed Eysan and Hasan Kalan. A sword struck Ahmed between the eyes, and his eyes filled with blood.",
+        "de": "Ein Schwert (?) fiel dem Ahmed zwischen die beiden Augenhöhlen, dass ihm die Augen blutig wurden. Ahmed wurde zornig (und) tödtete acht Personen mit jenem Dolche."
       }
     },
     {
       "id": "u020",
       "source": "'Hiryê heme bêrai A'hmêdi bawkê yê kişti. Dês û 'hêyşt teni merdûmi ğaribi kişti.",
       "translations": {
-        "tr": "Sonra Ahmed öldürüldü. Ahmed'in üç kardeşinin hepsi ve babası öldürüldü. On sekiz yabancı da öldürüldü.",
-        "en": "All three of Ahmed's brothers and his father were killed. The eighteen strangers were also killed.",
-        "de": "Alle drei Brüder Ahmed's (und) ihr Vater wurden getödtet. Die achtzehn Fremden wurden auch getödtet."
+        "tr": "Ahmed öfkelendi ve o hançerle yedi kişiyi öldürdü. Sonra Ahmed öldürüldü. Ahmed'in üç kardeşinin hepsi ve babası öldürüldü.",
+        "en": "Ahmed became enraged and killed seven men with that dagger. Then Ahmed was killed. All three of Ahmed's brothers and his father were killed.",
+        "de": "Ahmed wurde getödtet. Alle drei Brüder Ahmed's (und) ihr Vater wurden getödtet."
       }
     },
     {
       "id": "u021",
       "source": "Eskêr ağayra şê, hêrgû kês şi kêy xoê. Cênazay Ali ağay, çêhêr heme lacana, dês û hêyşt merdûmi ğaribana pyêrû mêndi wadedê.",
       "translations": {
-        "tr": "Askerler ağanın yanından ayrıldı ve herkes evine gitti. Ali Ağa'nın, dört oğlunun ve on sekiz yabancının cenazeleri odada kaldı.",
-        "en": "The armed men left, and everyone went home. The bodies of Ali Agha, all four of his sons, and the eighteen strangers remained together in the room.",
-        "de": "Die Mannschaft ging zum Aeltesten, ein Jeder ging nach Hause. Die Leichen Ali Aghas, seiner vier Söhne, der achtzehn Fremden blieben zusammen im Zimmer."
+        "tr": "On sekiz yabancı da öldürüldü. Askerler ağanın yanından ayrıldı ve herkes evine gitti. Ali Ağa'nın, dört oğlunun ve on sekiz yabancının cenazeleri odada kaldı.",
+        "en": "The eighteen strangers were also killed. The armed men left, and everyone went home. The bodies of Ali Agha, all four of his sons, and the eighteen strangers remained together in the room.",
+        "de": "Die achtzehn Fremden wurden auch getödtet. Die Mannschaft ging zum Aeltesten, ein Jeder ging nach Hause."
       }
     },
     {
@@ -277,7 +277,7 @@
       "translations": {
         "tr": "Sabah Mela Resa, Desmunlu Mela Qasım'a seslenip, \"Ali Ağa'nın, çocuklarının ve on sekiz yabancının cenazelerini buraya getirin; getirip dışarı çıkarın,\" dedi. Mela Qasım Desmun'dan kalktı, Memed Ağa Xeyd'den kalktı, Ramedan Ağa Merzyele'den kalktı. Gittiler, Ali Ağa'nın, oğullarının ve on sekiz yabancının cesetlerini aldılar, getirdiler, taşıyıp götürdüler ve gömdüler.",
         "en": "In the morning Mela Resa called out to Mela Qasim of Desmund and said, \"Bring the bodies of Ali Agha, his children, and the eighteen strangers here; bring them and carry them out.\" Mela Qasim set out from Desmun, Memed Agha set out from Xeyd, and Ramedan Agha set out from Merzyele. They went, took the bodies of Ali Agha, his sons, and the eighteen strangers, brought them away, carried them off, and buried them.",
-        "de": "Am andern Morgen (schrie und) sagte Mel'ai Resä zu Qasim Desmündi: traget die Leichen Ali Agha's, seiner Kinder und der achtzehn Fremden sämmtlich weg und bestattet sie. Mel'a Qasim verliess Desmüni, Memed Agha verliess Feite, Ramedan Agha verliess Merzyäle, sie gingen, nahmen die Leichen Ali Agha's, seiner Söhne, der achtzehn Fremden, trugen sie weg und bestatteten sie."
+        "de": "Die Leichen Ali Aghas, seiner vier Söhne, der achtzehn Fremden blieben zusammen im Zimmer. Am andern Morgen (schrie und) sagte Mel'ai Resä zu Qasim Desmündi: traget die Leichen Ali Agha's, seiner Kinder und der achtzehn Fremden sämmtlich weg und bestattet sie. Mel'a Qasim verliess Desmüni, Memed Agha verliess Feite, Ramedan Agha verliess Merzyäle, sie gingen, nahmen die Leichen Ali Agha's, seiner Söhne, der achtzehn Fremden, trugen sie weg und bestatteten sie."
       }
     }
   ],

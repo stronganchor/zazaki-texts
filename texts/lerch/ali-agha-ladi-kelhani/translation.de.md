@@ -22,24 +22,24 @@ Qasim Agha ging zu Ali Agha hinein, setzte sich, sagte: ich bin gekommen um bei 
 
 Qasim Agha sagte: fürchte nicht, ich werde an dir nicht Verrath üben. Ali Agha sagte: du bist ein Verräther, ich gebe dir meine Waffen nicht.
 
-Qasim Agha that einen Schwur. Ali Agha brachte seine und seiner vier Söhne Waffen zusammen (und) gab (sie) dem Qasim Agha. Dieser nahm (sie).
+Qasim Agha that einen Schwur. Ali Agha brachte seine und seiner vier Söhne Waffen zusammen (und) gab (sie) dem Qasim Agha.
 
-Ahmed, Ali Agha's Sohn, sagte: Onkel*), nimm unsere Waffen nicht, du bist ein Verräther, meinem Vater fehlt's an Verstand (in dem Kopfe meines Vaters ist kein Verstand), es ist heute Ramazan, pass auf, Onkel, sobald du unsere Waffen nimmst und, Verräther, hinausgehst, erschlage ich dich. Qasim Agha sagte dem Ahmed: Neffe, fürchte nicht.
+Dieser nahm (sie). Ahmed, Ali Agha's Sohn, sagte: Onkel*), nimm unsere Waffen nicht, du bist ein Verräther, meinem Vater fehlt's an Verstand (in dem Kopfe meines Vaters ist kein Verstand), es ist heute Ramazan, pass auf, Onkel, sobald du unsere Waffen nimmst und, Verräther, hinausgehst, erschlage ich dich.
 
-Ahmed sagte: Onkel, gieb meinen Dolch, ich weiss, du bist ein Verräther, sobald du hinausgehst, erschlägst du uns. Der Onkel gab den Dolch Ahmed's nicht zurück.
+Qasim Agha sagte dem Ahmed: Neffe, fürchte nicht. Ahmed sagte: Onkel, gieb meinen Dolch, ich weiss, du bist ein Verräther, sobald du hinausgehst, erschlägst du uns.
 
-Der Onkel ging hinaus (und) sagte zu seinem Heere: zögert nicht, ich habe die Waffen Ali Agha's (und) seiner vier Söhne genommen, bin herausgegangen, zögert nicht, erhebt euch, geht hinein, erschlagt Ali Agha (und) alle seine vier Söhne; es sind aber achtzehn fremde Männer bei ihnen, die rühret nicht an. Das Heer Qasim Agha's drang vor, Qasim Agha führte es an (und) schrie dem Ahmed zu: Neffe, ich komme; wenn du dich rührst (wenn du irgend wohin gehst), so haue ich dir sogleich den Kopf ab.
+Der Onkel gab den Dolch Ahmed's nicht zurück. Der Onkel ging hinaus (und) sagte zu seinem Heere: zögert nicht, ich habe die Waffen Ali Agha's (und) seiner vier Söhne genommen, bin herausgegangen, zögert nicht, erhebt euch, geht hinein, erschlagt Ali Agha (und) alle seine vier Söhne; es sind aber achtzehn fremde Männer bei ihnen, die rühret nicht an.
 
-Ahmed schrie: so Gott will, erschlage ich dich selbst. Der Onkel ging Ahmed tödten.
+Das Heer Qasim Agha's drang vor, Qasim Agha führte es an (und) schrie dem Ahmed zu: Neffe, ich komme; wenn du dich rührst (wenn du irgend wohin gehst), so haue ich dir sogleich den Kopf ab. Ahmed schrie: so Gott will, erschlage ich dich selbst.
 
-Ahmed bemerkte in der Wand des Zimmers ein Gitter, steckte seine Hand in das Gitter, fand einen Dolch hinter dem Gitter, nahm ihn heraus, und führte einen Stoss gegen die rechte Brust des Onkels. Der Onkel stürzte.
+Der Onkel ging Ahmed tödten. Ahmed bemerkte in der Wand des Zimmers ein Gitter, steckte seine Hand in das Gitter, fand einen Dolch hinter dem Gitter, nahm ihn heraus, und führte einen Stoss gegen die rechte Brust des Onkels.
 
-Ahmed zog aus des Onkels Brust den Dolch, zückte damit gegen Ahmed Eisän und gegen H'asän Kalan. Ein Schwert (?) fiel dem Ahmed zwischen die beiden Augenhöhlen, dass ihm die Augen blutig wurden.
+Der Onkel stürzte. Ahmed zog aus des Onkels Brust den Dolch, zückte damit gegen Ahmed Eisän und gegen H'asän Kalan.
 
-Ahmed wurde zornig (und) tödtete acht Personen mit jenem Dolche. Ahmed wurde getödtet.
+Ein Schwert (?) fiel dem Ahmed zwischen die beiden Augenhöhlen, dass ihm die Augen blutig wurden. Ahmed wurde zornig (und) tödtete acht Personen mit jenem Dolche.
 
-Alle drei Brüder Ahmed's (und) ihr Vater wurden getödtet. Die achtzehn Fremden wurden auch getödtet.
+Ahmed wurde getödtet. Alle drei Brüder Ahmed's (und) ihr Vater wurden getödtet.
 
-Die Mannschaft ging zum Aeltesten, ein Jeder ging nach Hause. Die Leichen Ali Aghas, seiner vier Söhne, der achtzehn Fremden blieben zusammen im Zimmer.
+Die achtzehn Fremden wurden auch getödtet. Die Mannschaft ging zum Aeltesten, ein Jeder ging nach Hause.
 
-Am andern Morgen (schrie und) sagte Mel'ai Resä zu Qasim Desmündi: traget die Leichen Ali Agha's, seiner Kinder und der achtzehn Fremden sämmtlich weg und bestattet sie. Mel'a Qasim verliess Desmüni, Memed Agha verliess Feite, Ramedan Agha verliess Merzyäle, sie gingen, nahmen die Leichen Ali Agha's, seiner Söhne, der achtzehn Fremden, trugen sie weg und bestatteten sie.
+Die Leichen Ali Aghas, seiner vier Söhne, der achtzehn Fremden blieben zusammen im Zimmer. Am andern Morgen (schrie und) sagte Mel'ai Resä zu Qasim Desmündi: traget die Leichen Ali Agha's, seiner Kinder und der achtzehn Fremden sämmtlich weg und bestattet sie. Mel'a Qasim verliess Desmüni, Memed Agha verliess Feite, Ramedan Agha verliess Merzyäle, sie gingen, nahmen die Leichen Ali Agha's, seiner Söhne, der achtzehn Fremden, trugen sie weg und bestatteten sie.

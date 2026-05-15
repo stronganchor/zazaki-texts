@@ -36,38 +36,38 @@ Das Heer Xalef Agha's sagte zu ihm: lass uns nur gewähren und du sollst sehen. 
 
 Sein Heer schrie: wake, wake. Vier und dreissig Mann aus Daqma Baeg's Heer wurden getödtet (und) dasselbe floh.
 
-Xalef Agha's Heer verfolgte es, drang in die Stadt, brannte einen Mahal nieder, schlug den Kopf des Xalil efendi ab, brachte ihn dem Xalef Agha.
+Xalef Agha's Heer verfolgte es, drang in die Stadt, brannte einen Mahal nieder, schlug den Kopf des Xalil efendi ab, brachte ihn dem Xalef Agha. Daqma Baeg sagte: Verzeihung, mein Herr!
 
-Daqma Baeg sagte: Verzeihung, mein Herr! ich werde nicht mehr schlagen, mir fehlt es an Truppen.
+ich werde nicht mehr schlagen, mir fehlt es an Truppen. Xalef Agha sandte einen Boten dem Daqma Baeg und liess ihm sagen: verlasse die Stadt, ich komme die Stadt verbrennen.
 
-Xalef Agha sandte einen Boten dem Daqma Baeg und liess ihm sagen: verlasse die Stadt, ich komme die Stadt verbrennen. Daqma Baeg sandte sogleich einen Pelz dem Xalef Agha und liess sagen: Verzeihung (Gnade), mein Herr, ich habe Niemand, kann mich nicht schlagen, warum willst du dich mit mir schlagen?
+Daqma Baeg sandte sogleich einen Pelz dem Xalef Agha und liess sagen: Verzeihung (Gnade), mein Herr, ich habe Niemand, kann mich nicht schlagen, warum willst du dich mit mir schlagen? ich gehe nicht gegen dich.
 
-ich gehe nicht gegen dich. Xalef Agha sagte: ohne Heer will ich dich besiegen, komme mit mir kämpfen, in drei Tagen werden wir uns schlagen, ich werde Niemanden weder aus deinem Heere, noch aus deiner Stadt verschonen, werde Alle, werde dich tödten (und) dein Weib wegführen.
+Xalef Agha sagte: ohne Heer will ich dich besiegen, komme mit mir kämpfen, in drei Tagen werden wir uns schlagen, ich werde Niemanden weder aus deinem Heere, noch aus deiner Stadt verschonen, werde Alle, werde dich tödten (und) dein Weib wegführen. Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: gieb mir zehn Tage Frist.
 
-Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: gieb mir zehn Tage Frist. Xalef Agha sagte: es sei dir eine Frist von zwanzig Tagen gegeben, dann komme aber gleich, wir werden uns schlagen, wenn du nicht kommst, brenne ich deine ganze Stadt nieder, lasse dir den Kopf abschlagen.
+Xalef Agha sagte: es sei dir eine Frist von zwanzig Tagen gegeben, dann komme aber gleich, wir werden uns schlagen, wenn du nicht kommst, brenne ich deine ganze Stadt nieder, lasse dir den Kopf abschlagen. Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: zwanzig Tage lang wird zwischen uns kein Kampf stattfinden, dann werde ich dir sogleich Botschaft senden.
 
-Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: zwanzig Tage lang wird zwischen uns kein Kampf stattfinden, dann werde ich dir sogleich Botschaft senden. Xalef Agha liess sagen: gut, mein Herr, es sei dir gestattet; er gab dem Daqma Baeg zwanzig Tage Frist.
+Xalef Agha liess sagen: gut, mein Herr, es sei dir gestattet; er gab dem Daqma Baeg zwanzig Tage Frist. Daqma Baeg ging Truppen zu sammeln, in zwanzig Tagen hatte er vier Tausend zusammengebracht.
 
-Daqma Baeg ging Truppen zu sammeln, in zwanzig Tagen hatte er vier Tausend zusammengebracht. Am ein und zwanzigsten Tage war er fertig (und) sandte zu Xalef Agha einen Boten und liess sagen: mein Heer ist fertig, morgen komme ich zum Kampf, wir werden uns schlagen.
+Am ein und zwanzigsten Tage war er fertig (und) sandte zu Xalef Agha einen Boten und liess sagen: mein Heer ist fertig, morgen komme ich zum Kampf, wir werden uns schlagen. Xalef Agha sandte einen Boten zu Daqma Baeg und liess sagen: sei deiner Zeit bereit, morgen mit der Morgenröthe komme ich aufs haemyerische Feld, führe du dein Heer hin, komme durch die Weingärten zur Festung, wir werden uns schlagen, bis du mir den Kopf abschlägst oder ich dir den Kopf abschlage.
 
-Xalef Agha sandte einen Boten zu Daqma Baeg und liess sagen: sei deiner Zeit bereit, morgen mit der Morgenröthe komme ich aufs haemyerische Feld, führe du dein Heer hin, komme durch die Weingärten zur Festung, wir werden uns schlagen, bis du mir den Kopf abschlägst oder ich dir den Kopf abschlage. Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: zögere nicht, mit dem Anbruch des Morgens komme.
+Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: zögere nicht, mit dem Anbruch des Morgens komme. Xalef Agha sandte einen Boten zu Daqma Baeg und liess sagen: dieses Mal komme ich.
 
-Xalef Agha sandte einen Boten zu Daqma Baeg und liess sagen: dieses Mal komme ich. Daqma Baeg sandte einen Boten zu Xalef Agha und liess ihm sagen: mache dich auf, komme, ich werde dir die Augen ausstechen.
+Daqma Baeg sandte einen Boten zu Xalef Agha und liess ihm sagen: mache dich auf, komme, ich werde dir die Augen ausstechen. Xalef Agha sass auf und liess die Trommeln rühren.
 
-Xalef Agha sass auf und liess die Trommeln rühren. Nachdem sein ganzes Heer zusammen gekommen war, sagte er zu demselben: hört, Aelteste, wir gehen in den Kampf, fürchtet euch nicht, Daqma Baeg's Heer ist zahlreich, es sind aber Alles Türken, wissen nicht sich mit uns zu schlagen, wir sind alle tapfere Kurdenseelen, Stammesleute, fürchtet euch nicht, wir gehen vorwärts; so lange ich nicht erschlagen werde, habt ihr nichts zu fürchten.
+Nachdem sein ganzes Heer zusammen gekommen war, sagte er zu demselben: hört, Aelteste, wir gehen in den Kampf, fürchtet euch nicht, Daqma Baeg's Heer ist zahlreich, es sind aber Alles Türken, wissen nicht sich mit uns zu schlagen, wir sind alle tapfere Kurdenseelen, Stammesleute, fürchtet euch nicht, wir gehen vorwärts; so lange ich nicht erschlagen werde, habt ihr nichts zu fürchten. Das Heer Xalef Agha's sagte: wir gehen vorwärts, so lange wir nicht sterben, hast du nichts zu fürchten.
 
-Das Heer Xalef Agha's sagte: wir gehen vorwärts, so lange wir nicht sterben, hast du nichts zu fürchten. Xalef Agha sagte: ich danke, meine Aeltesten.
+Xalef Agha sagte: ich danke, meine Aeltesten. Xalef Agha brach auf, führte sein Heer davon, ging, zog in's Gebiet von Hyeni (und) sah, dass das Heer Daqma Baeg's viele Patronen bei den Weingärten zusammengetragen hatte.
 
-Xalef Agha brach auf, führte sein Heer davon, ging, zog in's Gebiet von Hyeni (und) sah, dass das Heer Daqma Baeg's viele Patronen bei den Weingärten zusammengetragen hatte. Das Heer Daqma Baeg's zählte vier Tausend, das Xalef Agha's zwei Tausend.
+Das Heer Daqma Baeg's zählte vier Tausend, das Xalef Agha's zwei Tausend. Xalef Agha's Heer sagte zu ihm: Verzeihung, mein Herr, erlaube uns in den Kampf zu gehen.
 
-Xalef Agha's Heer sagte zu ihm: Verzeihung, mein Herr, erlaube uns in den Kampf zu gehen. Xalef Agha commandirte: Marsch!
+Xalef Agha commandirte: Marsch! trug das Banner gegen das Heer Daqma Baeg's, stiess mit demselben zusammen, kämpfte zwei Stunden, worauf Daqma Baeg um Gnade bat und dem Xalef Agha sagte: ich kann mit dir nicht kämpfen.
 
-trug das Banner gegen das Heer Daqma Baeg's, stiess mit demselben zusammen, kämpfte zwei Stunden, worauf Daqma Baeg um Gnade bat und dem Xalef Agha sagte: ich kann mit dir nicht kämpfen. Xalef Agha zog sein Heer zurück, kam nach Nerib (und) sah, dass aus seinem Heere sechzig Mann geschieden waren; er schickte einen Boten zu Daqma Baeg und liess sagen: sechzig Mann fehlen in meinem Heere.
+Xalef Agha zog sein Heer zurück, kam nach Nerib (und) sah, dass aus seinem Heere sechzig Mann geschieden waren; er schickte einen Boten zu Daqma Baeg und liess sagen: sechzig Mann fehlen in meinem Heere. Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: in deinem Heere fehlen sechzig Mann, in meinem Heere aber hundert und achtzig Mann, sie sind alle getödtet, komm und nimm deine Todten, ich habe Niemand, um die meinigen zu bestatten.
 
-Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: in deinem Heere fehlen sechzig Mann, in meinem Heere aber hundert und achtzig Mann, sie sind alle getödtet, komm und nimm deine Todten, ich habe Niemand, um die meinigen zu bestatten. Xalef Agha sandte einen Menschen, dem er sagte: geh, um unsere Leichen zu bringen.
+Xalef Agha sandte einen Menschen, dem er sagte: geh, um unsere Leichen zu bringen. Der Mann ging, brachte die Leichen (und blieb).
 
-Der Mann ging, brachte die Leichen (und blieb). Daqma Baeg sandte einen Boten zu den Aeltesten des Stammes Ziriki und liess ihnen sagen: kommt mich mit Xalef Agha auszusöhnen.
+Daqma Baeg sandte einen Boten zu den Aeltesten des Stammes Ziriki und liess ihnen sagen: kommt mich mit Xalef Agha auszusöhnen. Die Aeltesten von Ziriki machten sich auf, kamen nach Hyeni, nahmen den Daqma Baeg und kamen nach Nerib in's Haus Xalef Agha's.
 
-Die Aeltesten von Ziriki machten sich auf, kamen nach Hyeni, nahmen den Daqma Baeg und kamen nach Nerib in's Haus Xalef Agha's. Daqma Baeg ging, küsste dem Xalef Agha die Füsse, dieser küsste ihm die Hand.
+Daqma Baeg ging, küsste dem Xalef Agha die Füsse, dieser küsste ihm die Hand. Xalef Agha gab zweihundert Schaafe dem Daqma Baeg.
 
-Xalef Agha gab zweihundert Schaafe dem Daqma Baeg. Daqma Baeg gab einen Weingarten dem Xalef Agha; darauf waren sie ausgesöhnt, es war keine Fehde mehr.
+Daqma Baeg gab einen Weingarten dem Xalef Agha; darauf waren sie ausgesöhnt, es war keine Fehde mehr.

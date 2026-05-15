@@ -306,7 +306,8 @@ def sentence_segments_from_source_lines(source_lines: list[dict]) -> list[str]:
 
 def split_sentence_segments(text: str) -> list[str]:
     text = join_source_parts([text])
-    return [segment.strip() for segment in re.split(r"(?<=[.?!])\s+", text) if segment.strip()]
+    marked = re.sub(r"([.?!][\"'’”]?)\s+", r"\1\n", text)
+    return [segment.strip() for segment in marked.splitlines() if segment.strip()]
 
 
 def chunk_source_segments(segments: list[str], max_sentences: int) -> list[list[str]]:
@@ -332,6 +333,30 @@ def distribute_segments(segments: list[str], chunk_count: int) -> list[str]:
             end = min(start + 1, total)
         chunks.append(join_source_parts(segments[start:end]))
     return chunks
+
+
+def distribute_segments_for_source_chunks(segments: list[str], source_chunks: list[list[str]]) -> list[str]:
+    chunk_count = len(source_chunks)
+    if chunk_count <= 0:
+        return []
+    if not segments:
+        return [""] * chunk_count
+
+    source_sentence_count = sum(len(chunk) for chunk in source_chunks)
+    if len(segments) >= source_sentence_count:
+        sizes = [len(chunk) for chunk in source_chunks]
+        extra = len(segments) - source_sentence_count
+        start_extra = max(0, chunk_count - extra)
+        for index in range(start_extra, chunk_count):
+            sizes[index] += 1
+        chunks = []
+        cursor = 0
+        for size in sizes:
+            chunks.append(join_source_parts(segments[cursor : cursor + size]))
+            cursor += size
+        return chunks
+
+    return distribute_segments(segments, chunk_count)
 
 
 def grouped_old_reader_units(doc: dict) -> list[dict]:
@@ -405,7 +430,6 @@ def rebuild_full_text_reader_units(
     max_source_sentences: int,
     skip_first_source_line: bool = False,
 ) -> list[dict]:
-    old_by_id = {unit.get("id"): unit for unit in doc.get("reading_units", []) if unit.get("id")}
     usable_source_lines = source_lines[1:] if skip_first_source_line else source_lines
     source = join_source_parts([str(line.get("zazaki", "")) for line in usable_source_lines])
     source_chunks = chunk_source_segments(split_sentence_segments(source), max_source_sentences)
@@ -415,17 +439,14 @@ def rebuild_full_text_reader_units(
     translation_chunks = {}
     for lang in doc.get("translations", {}):
         full_translation = clean_join([unit.get("translations", {}).get(lang, "") for unit in doc.get("reading_units", [])])
-        translation_chunks[lang] = distribute_segments(split_sentence_segments(full_translation), len(source_chunks))
+        translation_chunks[lang] = distribute_segments_for_source_chunks(split_sentence_segments(full_translation), source_chunks)
 
     rebuilt = []
     for index, source_chunk in enumerate(source_chunks, start=1):
         unit_id = f"u{index:03d}"
-        exact_old = old_by_id.get(unit_id, {})
         translations = {}
         for lang in doc.get("translations", {}):
-            value = exact_old.get("translations", {}).get(lang, "")
-            if not value and index - 1 < len(translation_chunks.get(lang, [])):
-                value = translation_chunks[lang][index - 1]
+            value = translation_chunks[lang][index - 1] if index - 1 < len(translation_chunks.get(lang, [])) else ""
             if value:
                 translations[lang] = value
         rebuilt.append(
