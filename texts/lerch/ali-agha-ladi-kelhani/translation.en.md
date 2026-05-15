@@ -1,45 +1,45 @@
 Ali Agha, Son of Kelhan
 
-Ali Agha, son of Kelhan, was chief of the Karbegan district. The name of his village was Narbyes.
+Ali Agha, son of Kelhan, was the mir of the Karbegan district. The name of Ali Agha's village was Narbyesh.
 
-Ali Agha overran four villages; thirty-four people he killed. Nothing happened to Ali Agha; no one's hand touched Ali Agha.
+Ali Agha attacked four villages and killed thirty-four people. Nothing happened to Ali Agha; no one's hand touched Ali Agha.
 
-Ali Agha packed up, left his house, and went to Syerature. He stayed thirty-six days in Syerature.
+Ali Agha packed up his household and went to Syerachur. He stayed in Syerachur for thirty-six days.
 
-Thirty-four Karbegan villages and thirty-four Sivan villages came together and held counsel: the Sivan elders, Qasim Agha of Karbegan and Hasan Agha of Weshin came together and said: 'Let us attack Ali Agha's house.' Qasim Agha said: 'We will trick Ali Agha; we will call out our army at night; let the village soldiers all gather, and at night we will go kill Ali Agha and all four of his sons.'
+Thirty-four villages of Karbegan and thirty-four villages of Sivan came together and held counsel; the elders of Sivan, Qasim Agha of Karbegan, and Hasan Agha of Weshin came together and said: 'Let us attack Ali Agha's house.' Qasim Agha said: 'We will deceive Ali Agha; at night we will call our army, let the village soldiers all gather, and at night we will go kill Ali Agha and all four of his sons.'
 
-Hasan Agha of Weshin said: 'Good, let us go kill Ali Agha.' The elders of Sivan said: 'We will not take part.'
+Hasan Agha of Weshin said: 'That will be good; let us go kill Ali Agha.' The elders of Sivan said: 'We will not get involved.'
 
-Qasim Agha said: 'You are not needed.' The Sivan elders withdrew and went home.
+Qasim Agha said: 'We have no need of you.' The elders of Sivan withdrew and went home.
 
-Qasim Agha and Hasan Agha, those two, went to attack Ali Agha's house; all four sons they carried off and took them to Mehmed Hendani's house. Qasim Agha sent news by night to the villages, saying: 'Why are you waiting?
+Qasim Agha and Hasan Agha, the two of them, went to raid Ali Agha's house; they took all four sons and put them in Mehmed Hendani's room. At night Qasim Agha sent word to the villages and said: 'Why are you waiting?'
 
-We are going to kill Ali Agha.' All the villagers gathered; at night they rose; four hundred soldiers came out and came to Qasim Agha's side.
+'We are going to kill Ali Agha.' All the villages gathered; they rose at night, four hundred soldiers came out and came to Qasim Agha's side.
 
-Qasim Agha mounted his horse and went ahead of the army, they came to Xeyd; from Xeyd he took another hundred, and with five hundred went to Ali Agha. Qasim Agha went in to Ali Agha, sat down, and said: 'Agha, I have come to you to ask a favor.'
+Qasim Agha mounted his horse, went before the army, came to Gheyte, took another hundred men from Gheyte, and with five hundred men went to Ali Agha. Qasim Agha went to Ali Agha, sat down, and said: 'Agha, I have come to ask a favor of you.'
 
-Ali Agha said: 'Agha, do not deceive me; I will not give my weapons to you.' Qasim Agha said: 'Do not fear, I will not betray you.'
+Ali Agha said: 'Agha, do not deceive me; I will not give you my weapons.' Qasim Agha said: 'Do not fear; I will not betray you.'
 
 Ali Agha said: 'You are a traitor; I will not give you my weapons.' Qasim Agha swore an oath.
 
-Ali Agha gathered his weapons and those of all four sons and gave them to Qasim Agha. Qasim Agha took them.
+Ali Agha gathered his own weapons and the weapons of all four of his sons and gave them to Qasim Agha. Qasim Agha took them.
 
-Ahmed, Ali Agha's son, said: 'Uncle, do not take our weapons; you are a traitor. Perhaps my father has no sense in his head; it is Ramadan, look, uncle: if you take our weapons and then come out as a traitor, I will kill you.'
+Ahmed, Ali Agha's son, said: 'Uncle, do not take our weapons. You are a traitor; perhaps there is no sense in my father's head, today is Ramadan. Look, uncle, if you take our weapons and then come out as a traitor, I will kill you.' Qasim Agha said to Ahmed: 'Nephew, do not fear.'
 
-Qasim Agha said to Ahmed: 'Nephew, do not fear.' Ahmed said this: 'Uncle, give me my dagger.
+Ahmed said: 'Uncle, give me my dagger; I know you are a traitor, and when you go outside you will kill us.' His uncle did not give Ahmed his dagger.
 
-I know you are a traitor; when you come out, you will kill us.' The uncle did not give Ahmed's dagger back to him.
+His uncle went outside and said to his soldiers: 'Do not wait; I have taken the weapons of Ali Agha and his four sons, and I have come outside. Do not wait, break down the door, go inside, and kill Ali Agha and all four of his sons; there are also eighteen foreign men there with them, do not touch them.' Qasim Agha's soldiers broke down the door, Qasim Agha went ahead and called out to Ahmed, saying: 'Nephew, I have come; wherever you go, this time I will cut off your head.'
 
-The uncle went out and said to the soldiers of his own: 'Do not delay; I have taken the weapons of Ali Agha and all four of his sons; I have come out. Do not delay; break the door, go inside, and kill Ali Agha and all four of his sons.
+Ahmed called out and said: 'May God give me permission; first I will kill you with my own hand.' His uncle went to kill Ahmed.
 
-There are also eighteen stranger men with them; do not touch them.' Qasim Agha's soldiers broke the door; Qasim Agha went ahead and called to Ahmed: 'Nephew, I have come; wherever you go, I will cut off your head right away.'
+Ahmed saw an opening in the wall; there was a lattice in the wall. He put his hand inside the lattice, found a dagger inside the lattice and pulled it out, and struck his uncle under the right side of the chest. His uncle fell.
 
-Ahmed called out: 'May God give me permission; I will kill you myself first.' The uncle went to kill Ahmed. Ahmed saw a wall opening; a grating was in the wall, and he put his hand through the grating.
+Ahmed pulled the dagger out of his uncle; Ahmed killed Eysan and killed Hasan Kalan. A sword came down between Ahmed's two eyes, and blood came into Ahmed's eyes.
 
-He found a dagger behind the grating and drew it out, and struck the uncle straight in the right side of the chest. The uncle fell. Ahmed pulled the dagger from the uncle, Ahmed killed Eysan and killed Hasan Kalan.
+Ahmed became enraged and killed seven people with that dagger. Ahmed was killed.
 
-A sword struck Ahmed between the eyes; Ahmed's eyes became bloody. Ahmed became enraged and with that dagger killed seven people. Ahmed was killed.
+All three of Ahmed's brothers and his father were killed. Eighteen foreign men were killed as well.
 
-All three of Ahmed's brothers and his father were killed. Eighteen stranger men were killed too. The armed men left, and everyone went home.
+The soldiers left the agha's side, and everyone went home. The bodies of Ali Agha, his four sons, and the eighteen foreign men all remained in the room.
 
-The corpses of Ali Agha, all four of his sons, and the eighteen stranger men all remained together in the room. In the morning Mel'a Resa called out and said to Mel'a Qasim from Desmund: 'Bring the corpses of Ali Agha, his children and the eighteen stranger men here; bring them and carry them out.' Mel'a Qasim set out from Desmun, Memed Agha set out from Xeyd, Ramedan Agha set out from Merzyele; they went and took the bodies of Ali Agha, his sons, and the eighteen stranger men, brought them, carried them off, and buried them.
+In the morning Mela Resa called to Mela Qasim of Desmun and said: 'Bring Ali Agha, his sons, and the eighteen foreign men here; take them outside.' Mela Qasim rose from Desmun, Memed Agha rose from Gheyte, Ramedan Agha rose from Merzyele; they went, took the bodies of Ali Agha, his sons, and the eighteen foreign men, brought them out, carried them away, and buried them.

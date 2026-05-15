@@ -160,6 +160,81 @@ SIVAN_TRANSLATION_GROUPS_FROM_40 = [
 
 TRAILING_PUNCTUATION = ".,;:?!-"
 
+ALI_READER_TRANSLATION_OVERRIDES = {
+    "tr": [
+        "Kelhan'ın oğlu Ali Ağa Karbegan nahiyesinin miriydi. Ali Ağa'nın köyünün adı Narbêş'ti.",
+        "Ali Ağa dört köye saldırdı ve otuz dört kişiyi öldürdü. Ali Ağa'ya hiçbir şey olmadı; kimsenin eli Ali Ağa'ya değmedi.",
+        "Ali Ağa evini toplayıp Syeraçur'a gitti. Syeraçur'da otuz altı gün kaldı.",
+        "Karbegan'ın otuz dört köyü ve Sivan'ın otuz dört köyü bir araya gelip meşveret etti; Sivan ihtiyarları, Karbeganlı Qasım Ağa ve Weşinli Hasan Ağa bir araya gelip dedi ki: 'Ali Ağa'nın evine saldıralım.' Qasım Ağa dedi ki: 'Ali Ağa'yı kandıracağız; gece ordumuzu çağıracağız, köylerin askerleri hep toplansın, gece gidip Ali Ağa'yı ve dört oğlunun hepsini öldürelim.'",
+        "Weşinli Hasan Ağa dedi ki: 'İyi olur, gidip Ali Ağa'yı öldürelim.' Sivan ihtiyarları dedi ki: 'Biz karışmayız.'",
+        "Qasım Ağa dedi ki: 'Size ihtiyaç yok.' Sivan ihtiyarları çekilip evlerine gittiler.",
+        "Qasım Ağa ile Hasan Ağa, ikisi, Ali Ağa'nın evine baskına gittiler; dört oğlunun hepsini götürüp Mehmed Hendani'nin odasına koydular. Qasım Ağa gece köylere haber gönderip dedi ki: 'Niye bekliyorsunuz?'",
+        "'Ali Ağa'yı öldürmeye gidiyoruz.' Köylerin hepsi toplandı; gece kalktılar, dört yüz asker çıktı ve Qasım Ağa'nın yanına geldi.",
+        "Qasım Ağa ata bindi, ordunun önüne geçti, Ğêytê'ye geldi, Ğêytê'den yüz kişi daha aldı ve beş yüz kişiyle Ali Ağa'nın yanına gitti. Qasım Ağa Ali Ağa'nın yanına gitti, oturdu ve dedi ki: 'Ağa, senden bir ricada bulunmaya geldim.'",
+        "Ali Ağa dedi ki: 'Ağa, beni kandırma; silahlarımı sana vermem.' Qasım Ağa dedi ki: 'Korkma, sana hainlik etmem.'",
+        "Ali Ağa dedi ki: 'Sen hainsin; silahlarımı sana vermem.' Qasım Ağa yemin etti.",
+        "Ali Ağa kendi silahlarını ve dört oğlunun silahlarını topladı, Qasım Ağa'ya verdi. Qasım Ağa onları aldı.",
+        "Ali Ağa'nın oğlu Ahmed dedi ki: 'Dayı, silahlarımızı alma. Sen hainsin; belki babamın başında akıl yok, bugün Ramazan günüdür. Bak dayı, silahlarımızı alır da sonra hain olarak çıkarsan seni öldürürüm.' Qasım Ağa Ahmed'e dedi ki: 'Yeğenim, korkma.'",
+        "Ahmed dedi ki: 'Dayı, hançerimi ver; biliyorum, sen hainsin, dışarı çıkınca bizi öldüreceksin.' Dayısı Ahmed'e hançerini vermedi.",
+        "Dayısı dışarı çıktı ve askerlerine dedi ki: 'Beklemeyin; Ali Ağa'nın ve dört oğlunun silahlarını aldım, dışarı çıktım. Beklemeyin, kapıyı kırın, içeri girin, Ali Ağa'yı ve dört oğlunun hepsini öldürün; burada yanlarında on sekiz yabancı adam daha var, onlara dokunmayın.' Qasım Ağa'nın askerleri kapıyı kırdı, Qasım Ağa öne geçti ve Ahmed'e seslenip dedi ki: 'Yeğenim, geldim; nereye gidersen bu defa başını keseceğim.'",
+        "Ahmed seslenip dedi ki: 'Allah bana izin versin, önce ben seni kendi elimle öldüreceğim.' Dayısı Ahmed'i öldürmeye gitti.",
+        "Ahmed duvarda bir açıklık gördü; duvarda bir kafes vardı. Elini kafesin içine soktu, kafesin içinde bir hançer bulup çıkardı ve dayısını göğsünün sağ altından vurdu. Dayısı düştü.",
+        "Ahmed hançeri dayısından çıkardı; Ahmed Êysan'ı öldürdü, Hasan Kalan'ı öldürdü. Bir kılıç Ahmed'in iki gözünün arasına indi, kan Ahmed'in gözlerine geldi.",
+        "Ahmed öfkelendi ve o hançerle yedi kişiyi öldürdü. Ahmed öldürüldü.",
+        "Ahmed'in üç kardeşinin hepsi ve babası öldürüldü. On sekiz yabancı adam da öldürüldü.",
+        "Askerler ağanın yanından ayrıldı, herkes evine gitti. Ali Ağa'nın, dört oğlunun ve on sekiz yabancı adamın cenazeleri hep odada kaldı.",
+        "Sabah Mela Resa, Desmunlu Mela Qasım'a seslenip dedi ki: 'Ali Ağa'nın, oğullarının ve on sekiz yabancı adamın cenazelerini buraya getirin, dışarı çıkarın.' Mela Qasım Desmun'dan kalktı, Memed Ağa Ğêytê'den kalktı, Ramedan Ağa Merzyelê'den kalktı; gittiler, Ali Ağa'nın, oğullarının ve on sekiz yabancı adamın cesetlerini aldılar, getirdiler, götürdüler ve gömdüler.",
+    ],
+    "en": [
+        "Ali Agha, son of Kelhan, was the mir of the Karbegan district. The name of Ali Agha's village was Narbyesh.",
+        "Ali Agha attacked four villages and killed thirty-four people. Nothing happened to Ali Agha; no one's hand touched Ali Agha.",
+        "Ali Agha packed up his household and went to Syerachur. He stayed in Syerachur for thirty-six days.",
+        "Thirty-four villages of Karbegan and thirty-four villages of Sivan came together and held counsel; the elders of Sivan, Qasim Agha of Karbegan, and Hasan Agha of Weshin came together and said: 'Let us attack Ali Agha's house.' Qasim Agha said: 'We will deceive Ali Agha; at night we will call our army, let the village soldiers all gather, and at night we will go kill Ali Agha and all four of his sons.'",
+        "Hasan Agha of Weshin said: 'That will be good; let us go kill Ali Agha.' The elders of Sivan said: 'We will not get involved.'",
+        "Qasim Agha said: 'We have no need of you.' The elders of Sivan withdrew and went home.",
+        "Qasim Agha and Hasan Agha, the two of them, went to raid Ali Agha's house; they took all four sons and put them in Mehmed Hendani's room. At night Qasim Agha sent word to the villages and said: 'Why are you waiting?'",
+        "'We are going to kill Ali Agha.' All the villages gathered; they rose at night, four hundred soldiers came out and came to Qasim Agha's side.",
+        "Qasim Agha mounted his horse, went before the army, came to Gheyte, took another hundred men from Gheyte, and with five hundred men went to Ali Agha. Qasim Agha went to Ali Agha, sat down, and said: 'Agha, I have come to ask a favor of you.'",
+        "Ali Agha said: 'Agha, do not deceive me; I will not give you my weapons.' Qasim Agha said: 'Do not fear; I will not betray you.'",
+        "Ali Agha said: 'You are a traitor; I will not give you my weapons.' Qasim Agha swore an oath.",
+        "Ali Agha gathered his own weapons and the weapons of all four of his sons and gave them to Qasim Agha. Qasim Agha took them.",
+        "Ahmed, Ali Agha's son, said: 'Uncle, do not take our weapons. You are a traitor; perhaps there is no sense in my father's head, today is Ramadan. Look, uncle, if you take our weapons and then come out as a traitor, I will kill you.' Qasim Agha said to Ahmed: 'Nephew, do not fear.'",
+        "Ahmed said: 'Uncle, give me my dagger; I know you are a traitor, and when you go outside you will kill us.' His uncle did not give Ahmed his dagger.",
+        "His uncle went outside and said to his soldiers: 'Do not wait; I have taken the weapons of Ali Agha and his four sons, and I have come outside. Do not wait, break down the door, go inside, and kill Ali Agha and all four of his sons; there are also eighteen foreign men there with them, do not touch them.' Qasim Agha's soldiers broke down the door, Qasim Agha went ahead and called out to Ahmed, saying: 'Nephew, I have come; wherever you go, this time I will cut off your head.'",
+        "Ahmed called out and said: 'May God give me permission; first I will kill you with my own hand.' His uncle went to kill Ahmed.",
+        "Ahmed saw an opening in the wall; there was a lattice in the wall. He put his hand inside the lattice, found a dagger inside the lattice and pulled it out, and struck his uncle under the right side of the chest. His uncle fell.",
+        "Ahmed pulled the dagger out of his uncle; Ahmed killed Eysan and killed Hasan Kalan. A sword came down between Ahmed's two eyes, and blood came into Ahmed's eyes.",
+        "Ahmed became enraged and killed seven people with that dagger. Ahmed was killed.",
+        "All three of Ahmed's brothers and his father were killed. Eighteen foreign men were killed as well.",
+        "The soldiers left the agha's side, and everyone went home. The bodies of Ali Agha, his four sons, and the eighteen foreign men all remained in the room.",
+        "In the morning Mela Resa called to Mela Qasim of Desmun and said: 'Bring Ali Agha, his sons, and the eighteen foreign men here; take them outside.' Mela Qasim rose from Desmun, Memed Agha rose from Gheyte, Ramedan Agha rose from Merzyele; they went, took the bodies of Ali Agha, his sons, and the eighteen foreign men, brought them out, carried them away, and buried them.",
+    ],
+    "de": [
+        "Ali Agha, Kelhans Sohn, war Mir des Bezirks Karbegan. Der Name von Ali Aghas Dorf war Narbyesh.",
+        "Ali Agha überfiel vier Dörfer und tötete vierunddreißig Menschen. Ali Agha geschah nichts; niemand legte Hand an Ali Agha.",
+        "Ali Agha packte sein Haus zusammen und ging nach Syerachur. In Syerachur blieb er sechsunddreißig Tage.",
+        "Vierunddreißig Dörfer von Karbegan und vierunddreißig Dörfer von Sivan kamen zusammen und hielten Rat; die Ältesten von Sivan, Qasim Agha von Karbegan und Hasan Agha von Weshin kamen zusammen und sagten: 'Lasst uns Ali Aghas Haus überfallen.' Qasim Agha sagte: 'Wir werden Ali Agha täuschen; in der Nacht rufen wir unser Heer, die Soldaten der Dörfer sollen alle zusammenkommen, und in der Nacht gehen wir und töten Ali Agha und alle seine vier Söhne.'",
+        "Hasan Agha von Weshin sagte: 'Das ist gut; gehen wir und töten Ali Agha.' Die Ältesten von Sivan sagten: 'Wir mischen uns nicht ein.'",
+        "Qasim Agha sagte: 'Wir brauchen euch nicht.' Die Ältesten von Sivan zogen sich zurück und gingen nach Hause.",
+        "Qasim Agha und Hasan Agha, die beiden, gingen, um Ali Aghas Haus zu überfallen; sie nahmen alle vier Söhne mit und brachten sie in Mehmed Hendanis Zimmer. In der Nacht schickte Qasim Agha Nachricht in die Dörfer und sagte: 'Warum wartet ihr?'",
+        "'Wir gehen, um Ali Agha zu töten.' Alle Dörfer versammelten sich; in der Nacht standen sie auf, vierhundert Soldaten zogen aus und kamen zu Qasim Agha.",
+        "Qasim Agha stieg zu Pferd, zog vor dem Heer her, kam nach Gheyte, nahm von Gheyte noch hundert Mann und ging mit fünfhundert Mann zu Ali Agha. Qasim Agha ging zu Ali Agha, setzte sich und sagte: 'Agha, ich bin gekommen, um dich um eine Gefälligkeit zu bitten.'",
+        "Ali Agha sagte: 'Agha, täusche mich nicht; ich gebe dir meine Waffen nicht.' Qasim Agha sagte: 'Fürchte dich nicht; ich werde dich nicht verraten.'",
+        "Ali Agha sagte: 'Du bist ein Verräter; ich gebe dir meine Waffen nicht.' Qasim Agha schwor einen Eid.",
+        "Ali Agha sammelte seine eigenen Waffen und die Waffen aller seiner vier Söhne und gab sie Qasim Agha. Qasim Agha nahm sie.",
+        "Ahmed, Ali Aghas Sohn, sagte: 'Onkel, nimm unsere Waffen nicht. Du bist ein Verräter; vielleicht ist im Kopf meines Vaters kein Verstand, heute ist Ramadan. Pass auf, Onkel, wenn du unsere Waffen nimmst und dann als Verräter hinausgehst, werde ich dich töten.' Qasim Agha sagte zu Ahmed: 'Neffe, fürchte dich nicht.'",
+        "Ahmed sagte: 'Onkel, gib mir meinen Dolch; ich weiß, du bist ein Verräter, und wenn du hinausgehst, wirst du uns töten.' Sein Onkel gab Ahmed seinen Dolch nicht.",
+        "Sein Onkel ging hinaus und sagte zu seinen Soldaten: 'Wartet nicht; ich habe die Waffen Ali Aghas und seiner vier Söhne genommen und bin hinausgegangen. Wartet nicht, brecht die Tür auf, geht hinein und tötet Ali Agha und alle seine vier Söhne; dort sind auch achtzehn fremde Männer bei ihnen, die rührt nicht an.' Qasim Aghas Soldaten brachen die Tür auf, Qasim Agha ging voran und rief Ahmed zu: 'Neffe, ich bin gekommen; wohin du auch gehst, diesmal schlage ich dir den Kopf ab.'",
+        "Ahmed rief und sagte: 'Möge Gott mir die Erlaubnis geben; zuerst werde ich dich mit meiner eigenen Hand töten.' Sein Onkel ging, um Ahmed zu töten.",
+        "Ahmed sah eine Öffnung in der Wand; in der Wand war ein Gitter. Er steckte seine Hand in das Gitter, fand im Gitter einen Dolch und zog ihn heraus, und er stieß seinem Onkel unter die rechte Seite der Brust. Sein Onkel fiel.",
+        "Ahmed zog den Dolch aus seinem Onkel heraus; Ahmed tötete Eysan und tötete Hasan Kalan. Ein Schwert fuhr Ahmed zwischen die beiden Augen, und Blut kam in Ahmeds Augen.",
+        "Ahmed wurde zornig und tötete mit jenem Dolch sieben Menschen. Ahmed wurde getötet.",
+        "Alle drei Brüder Ahmeds und sein Vater wurden getötet. Auch achtzehn fremde Männer wurden getötet.",
+        "Die Soldaten gingen vom Agha weg, und jeder ging nach Hause. Die Leichen Ali Aghas, seiner vier Söhne und der achtzehn fremden Männer blieben alle im Zimmer.",
+        "Am Morgen rief Mela Resa dem Mela Qasim von Desmun zu und sagte: 'Bringt Ali Agha, seine Söhne und die achtzehn fremden Männer hierher; bringt sie hinaus.' Mela Qasim machte sich von Desmun auf, Memed Agha machte sich von Gheyte auf, Ramedan Agha machte sich von Merzyele auf; sie gingen, nahmen die Leichen Ali Aghas, seiner Söhne und der achtzehn fremden Männer, brachten sie heraus, trugen sie weg und begruben sie.",
+    ],
+}
+
 HYENI_READER_TRANSLATION_OVERRIDES = {
     "tr": [
         "Bir zamanlar Nyêrib'den bir adam yola çıkıp Dawz'a gitti; Dawz'dan Hyêni toprağına geldi. Hyêni'li bir adam kendi toprağını sürüyordu.",
@@ -665,7 +740,13 @@ def update_existing_text(slug: str, bundle: str, interlinear_file: str, morpheme
     elif slug == "gespraech-mit-hassan":
         doc["reading_units"] = rebuild_segmented_reader_units(doc, source_by_id, max_source_sentences=1)
     elif slug == "ali-agha-ladi-kelhani":
-        doc["reading_units"] = rebuild_reader_units_from_line_translations(slug, doc, fresh_source_lines, max_source_sentences=2)
+        doc["reading_units"] = rebuild_reader_units_from_line_translations(
+            slug,
+            doc,
+            fresh_source_lines,
+            max_source_sentences=2,
+            translation_overrides=ALI_READER_TRANSLATION_OVERRIDES,
+        )
     elif slug == "kauge-nyerib-u-hyeni":
         doc["reading_units"] = rebuild_reader_units_from_line_translations(
             slug,
