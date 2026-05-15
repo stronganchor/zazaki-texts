@@ -26,7 +26,8 @@
     "working_status": "reviewed working edition; not final critical edition",
     "created_from": "Lerch Ali Agha review bundle in Language/Z/Dictionaries/Lerch",
     "exported_at": "2026-05-11",
-    "reader_unit": "paragraph"
+    "reader_unit": "paragraph",
+    "reviewed_transcription_synced_at": "2026-05-15"
   },
   "summary": {
     "lines": 51,
@@ -83,7 +84,7 @@
   "reading_units": [
     {
       "id": "u01",
-      "source": "Ali ağa laci Kêlhani mirêy na'hêy Karbegani Namêy daway Ali ağay Narbyêş Ali ağa çêhêr dawang da pyêrû hiris û çêhêr kişti Çawdi Ali ağay çi nyêbê çewi desti Ali ağay nyêgêrawt Ali ağay kêyyê xoê bar kêrd şê Syêraçûrê Hiris û şeş roci vênert Syêraçûrêdê Hiris û çêhêr dewi Karbegani hiris û çêhêr dewi",
+      "source": "Ali ağa laci Kêlhani mirêy na'hêy Karbegani Namêy daway Ali ağay Narbyêş Ali ağa çêhêr dawang da pyêrû hiris û çêhêr kişti Çawdi Ali ağay çi nyêbê çewi desti Ali ağay nyêgêrawt Ali ağay kêyyê xoê bar kêrd şê Syêraçûrê Hiris û şêş roci vênert Syêraçûrêdê Hiris û çêhêr dewi Karbegani hiris û çêhêr dewi",
       "translations": {
         "en": "Ali Agha, son of Kelhan, was chief of the Karbegan district. His village was called Narbyes. Ali Agha attacked four villages and killed thirty-four people. Nothing happened to him; no one's hand touched him. Then Ali Agha packed up, left his house, and went to Syerature, where he stayed for thirty-six days.",
         "tr": "Kelhan'ın oğlu Ali Ağa, Karbegan nahiyesinin beyiydi. Köyünün adı Narbêş'ti. Ali Ağa dört köye saldırdı ve otuz dört kişiyi öldürdü. Ona hiçbir şey olmadı; kimsenin eli Ali Ağa'ya değmedi. Sonra Ali Ağa evini yükleyip göçtü ve Syeraçur'a gitti; orada otuz altı gün kaldı.",
@@ -152,7 +153,7 @@
     },
     {
       "id": "u05",
-      "source": "ma mebêrê tê xaini bawki mê serêdê aqıl çinyû rocêy ramazanyû bawni xalo tê çêkani ma bêni pêynıdê tê xain vêci ez twê kı sêna Qasim ağa va kê A'hmêdira warêza metêrsê A'hmêdi va kê 'halo xancêray mê bıdê êz zana tê xaini byê ba'htêdê tı ma kişêni 'Hali xancêray A'hmêdi nyêday cê 'Hal şê tebêr eskêri xora va mevindi çêki Ali ağay çêhêr hemê lacan mê gêrawt ez ama tebêr mevindi bêr bışikni şyêri zerê Ali ağay çêhêr hemê lacan bıkşi hêma dês û hêyşti merdwomi ğaribi yênê 'hetê esti yênêra ve meki Eskêri Qasim ağay bêr şêkit Qasim ağay kawta",
+      "source": "ma mebêrê tê xaini bawki mê serêdê aqıl çinyû rocêy ramazanyû bawni xalo tê çêkani ma bêni pêynıdê tê xain vêci ez twê kı sêna Qasim ağa va kê A'hmêdira warêza metêrsê A'hmêdi va kê 'halo xancêray mê bıdê ez zana tê xaini byê ba'htêdê tı ma kişêni 'Hali xancêray A'hmêdi nyêday cê 'Hal şê tebêr eskêri xora va mevindi çêki Ali ağay çêhêr hemê lacan mê gêrawt ez ama tebêr mevindi bêr bışikni şyêri zerê Ali ağay çêhêr hemê lacan bıkşi hêma dês û hêyşti merdwomi ğaribi yênê 'hetê esti yênêra ve meki Eskêri Qasim ağay bêr şêkit Qasim ağay kawta",
       "translations": {
         "en": "Ahmed, Ali Agha's son, said, \"Uncle, do not take our weapons. You are a traitor. Perhaps my father has no sense in his head; today is Ramadan. But look, uncle: if you take our weapons and then go out as a traitor, I will kill you.\" Qasim Agha said to Ahmed, \"Nephew, do not be afraid.\" Ahmed said, \"Uncle, give me my dagger. I know you are a traitor; when you go out, you will kill us.\" The uncle did not give Ahmed his dagger. The uncle went outside and said to his soldiers, \"Do not delay. I have taken the weapons of Ali Agha and all four of his sons, and I have come out. Do not delay. Break the door, go inside, and kill Ali Agha and all four of his sons. There are also eighteen strangers with them; do not touch them.\"",
         "tr": "Ali Ağa'nın oğlu Ahmed, \"Dayı, silahlarımızı alma. Sen hainsin. Belki babamın başında akıl yok; bugün Ramazan günü. Ama bak dayı: Silahlarımızı alır da sonra hain olarak dışarı çıkarsan seni öldürürüm,\" dedi. Qasım Ağa Ahmed'e, \"Yeğenim, korkma,\" dedi. Ahmed, \"Dayı, hançerimi bana ver. Senin hain olduğunu biliyorum; dışarı çıktığında bizi öldüreceksin,\" dedi. Dayısı Ahmed'e hançerini vermedi. Dayısı dışarı çıktı ve askerlerine, \"Beklemeyin. Ali Ağa'nın ve dört oğlunun silahlarını aldım, dışarı çıktım. Beklemeyin. Kapıyı kırın, içeri girin ve Ali Ağa'yı dört oğluyla birlikte öldürün. Yanlarında on sekiz yabancı da var; onlara dokunmayın,\" dedi.",
@@ -172,7 +173,7 @@
     },
     {
       "id": "u06",
-      "source": "ver vengg da va kê A'hmêdira warêza ez amêyya tı kû sera şyêri ez serêy twê ena gêlangkê wêna A'hmêdi vengg da va kê Alah izmê mê bıdû ez twê veri êyxoê kışêna 'Hal şi kê A'hmêdi bıkşû A'hmêd awnya dyêsi wedi yaw şıbakê 'ha dyêsê wedidê desti xoê berd zerêy şibakê yaw xancêri zerêy şıbakêdê di gêrawtê vera day 'hali bınê çici raştirû 'Hal kawt A'hmêdi xancêri 'halira vetê",
+      "source": "ver veng da va kê A'hmêdira warêza ez amêyya tı kû sera şyêri ez serêy twê ena gêlankê wêna A'hmêdi veng da va kê Alah izmê mê bıdû ez twê veri êyxoê kışêna 'Hal şi kê A'hmêdi bıkşû A'hmêd awnya dyêsi wedi yaw şıbakê 'ha dyêsê wedidê desti xoê berd zerêy şibakê yaw xancêri zerêy şıbakêdê di gêrawtê vera day 'hali bınê çici raştirû 'Hal kawt A'hmêdi xancêri 'halira vetê",
       "translations": {
         "en": "Qasim Agha's soldiers broke the door. Qasim Agha went ahead and called to Ahmed, \"Nephew, I have come. Wherever you go, I will cut off your head at once.\" Ahmed called back, \"May God give me leave; I will kill you myself first.\" The uncle went to kill Ahmed. Ahmed saw an opening in the wall of the room, with a lattice in the wall. He put his hand through the lattice, found a dagger behind it, drew it out, and struck the uncle straight in the right side of the chest. The uncle fell.",
         "tr": "Qasım Ağa'nın askerleri kapıyı kırdı. Qasım Ağa öne geçti ve Ahmed'e seslendi: \"Yeğenim, geldim; nereye gidersen hemen başını keseceğim.\" Ahmed de seslenip, \"Allah bana izin versin; önce ben seni kendi elimle öldüreceğim,\" dedi. Dayısı Ahmed'i öldürmeye gitti. Ahmed duvarda bir açıklık gördü; duvarda bir kafes vardı. Elini kafesin içine soktu, kafesin arkasında bir hançer buldu, onu çıkardı ve dayısının göğsünün sağ tarafına sapladı. Dayısı düştü.",
@@ -189,7 +190,7 @@
     },
     {
       "id": "u07",
-      "source": "A'hmêdi Êysan kişt 'Hasani Kalan kişt Kalme gna A'hmêdi pêy çimyirû goêni byê A'hmêdi çimi A'hmêd hyêrs bê hawt teni pêy aya xancêri kişti A'hmêd kişya Hiryê heme bêrai A'hmêdi bawkê yê kişti Dês û hêyşt teni merdûmi ğaribi kişti Eskêr ağayra şê hêrgû kês şi kêy xoê Cênazay Ali ağay çêhêr heme lacana dês û hêyşt merdûmi ğaribana pyêrû mêndi wadedê Soba Mêlay Rêsa",
+      "source": "A'hmêdi Êysan kişt 'Hasani Kalan kişt Kalme gna A'hmêdi pêy çimyirû goêni byê A'hmêdi çimi A'hmêd hyêrs bê 'hawt teni pêy aya xancêri kişti A'hmêd kişya 'Hiryê heme bêrai A'hmêdi bawkê yê kişti Dês û 'hêyşt teni merdûmi ğaribi kişti Eskêr ağayra şê hêrgû kês şi kêy xoê Cênazay Ali ağay çêhêr heme lacana dês û hêyşt merdûmi ğaribana pyêrû mêndi wadedê Soba Mêlay Rêsa",
       "translations": {
         "en": "Ahmed pulled the dagger from the uncle and killed Eysan and Hasan Kalan. A sword struck Ahmed between the eyes, and his eyes filled with blood. Ahmed became enraged and killed seven men with that dagger. Then Ahmed was killed. All three of Ahmed's brothers and his father were killed. The eighteen strangers were also killed. The armed men left, and everyone went home.",
         "tr": "Ahmed hançeri dayısından çekip çıkardı ve Eysan'ı, sonra Hasan Kalan'ı öldürdü. Bir kılıç Ahmed'in iki gözünün arasına indi, gözleri kanla doldu. Ahmed öfkelendi ve o hançerle yedi kişiyi öldürdü. Sonra Ahmed öldürüldü. Ahmed'in üç kardeşinin hepsi ve babası öldürüldü. On sekiz yabancı da öldürüldü. Askerler ağanın yanından ayrıldı ve herkes evine gitti.",
@@ -206,7 +207,7 @@
     },
     {
       "id": "u08",
-      "source": "vengg da va kê mêla Qasimi Dêsmûncira byêri cênazay Ali ağay aylana dês û hêyşt teni merdûmi ğaribana 'hetya byêri beri we dari Mêla Qasim werişt Dêsmûnira Mêmêd ağa werişt Ğêytêra Ramêdan ağay werişt Mêrzyêlêra şi leşi Ali ağay lacana dês û hêyşt merdûmi ğaribana gêrawti ardi berdi wederti",
+      "source": "veng da va kê mêla Qasimi Dêsmûncira byêri cênazay Ali ağay aylana dês û hêyşt teni merdûmi ğaribana 'hetya byêri beri we dari Mêla Qasim werişt Dêsmûnira Mêmêd ağa werişt Ğêytêra Ramêdan ağay werişt Mêrzyêlêra şi leşi Ali ağay lacana dês û hêyşt merdûmi ğaribana gêrawti ardi berdi wederti",
       "translations": {
         "en": "The bodies of Ali Agha, all four of his sons, and the eighteen strangers remained together in the room. In the morning Mela Resa called out to Mela Qasim of Desmund and said, \"Bring the bodies of Ali Agha, his children, and the eighteen strangers here; bring them and carry them out.\" Mela Qasim set out from Desmun, Memed Agha set out from Xeyd, and Ramedan Agha set out from Merzyele. They went, took the bodies of Ali Agha, his sons, and the eighteen strangers, brought them away, carried them off, and buried them.",
         "tr": "Ali Ağa'nın, dört oğlunun ve on sekiz yabancının cenazeleri odada kaldı. Sabah Mela Resa, Desmunlu Mela Qasım'a seslenip, \"Ali Ağa'nın, çocuklarının ve on sekiz yabancının cenazelerini buraya getirin; getirip dışarı çıkarın,\" dedi. Mela Qasım Desmun'dan kalktı, Memed Ağa Xeyd'den kalktı, Ramedan Ağa Merzyele'den kalktı. Gittiler, Ali Ağa'nın, oğullarının ve on sekiz yabancının cesetlerini aldılar, getirdiler, taşıyıp götürdüler ve gömdüler.",
@@ -227,7 +228,7 @@
       "title": "A01 line 01: Opening: Ali Agha, Narbyes, Karbegan and Sivan elders plan",
       "text": "Áli aγá lā́d̮i Kelháni mírei nah̔eí Karbe̱gā́ni. Nameí daú’ai",
       "lerch": "Áli aγá lā́d̮i Kelháni mírei nah̔eí Karbe̱gā́ni. Nameí daú’ai",
-      "ipa": "ˈali aˈʁa ˈlaːd͡ʒi kelˈhani ˈmirej naˈħej karbɛˈgaːni naˈmej ˈdawaj",
+      "ipa": "ˈali aˈʁa ˈlaːd͡ʒi kelˈhani ˈmirej naˈħej karbɛˈgaːni naˈmej ˈdaw.aj",
       "zazaki": "Ali ağa laci Kêlhani mirêy na'hêy Karbegani Namêy daway",
       "source_note": "German has Fürst des Districtes Karbegan; Russian likewise makes him the ruler/chief of Karbegan.",
       "russian_print_page": 99,
@@ -239,7 +240,7 @@
         },
         {
           "label": "IPA",
-          "value": "ˈali aˈʁa ˈlaːd͡ʒi kelˈhani ˈmirej naˈħej karbɛˈgaːni naˈmej ˈdawaj"
+          "value": "ˈali aˈʁa ˈlaːd͡ʒi kelˈhani ˈmirej naˈħej karbɛˈgaːni naˈmej ˈdaw.aj"
         },
         {
           "label": "ZAZAKI",
@@ -464,7 +465,7 @@
         },
         {
           "form": "daú’ai",
-          "ipa": "ˈdawaj",
+          "ipa": "ˈdaw.aj",
           "zazaki": "daway",
           "lemma": "dauai",
           "display_gloss": "of the village",
@@ -496,7 +497,7 @@
       "title": "A01 line 02: Opening: Ali Agha, Narbyes, Karbegan and Sivan elders plan",
       "text": "Áli aγaí Nārbyẹ̄́š. Áli aγá t̮ehér daú’āṅ dā pyérū, híris u t̮ehér",
       "lerch": "Áli aγaí Nārbyẹ̄́š. Áli aγá t̮ehér daú’āṅ dā pyérū, híris u t̮ehér",
-      "ipa": "ˈali aˈʁaj naːrbˈje̝ːʃ ˈali aˈʁa t͡ʃeˈher ˈdawaːŋ daː ˈpjeruː ˈhiris u t͡ʃeˈher",
+      "ipa": "ˈali aˈʁaj naːrbˈje̝ːʃ ˈali aˈʁa t͡ʃeˈher ˈdaw.aːŋ daː ˈpjeruː ˈhiris u t͡ʃeˈher",
       "zazaki": "Ali ağay Narbyêş Ali ağa çêhêr dawang da pyêrû hiris û çêhêr",
       "source_note": "German prose confirms four villages and thirty-four people; this fixes t̮ehér as four in this story.",
       "russian_print_page": 99,
@@ -508,7 +509,7 @@
         },
         {
           "label": "IPA",
-          "value": "ˈali aˈʁaj naːrbˈje̝ːʃ ˈali aˈʁa t͡ʃeˈher ˈdawaːŋ daː ˈpjeruː ˈhiris u t͡ʃeˈher"
+          "value": "ˈali aˈʁaj naːrbˈje̝ːʃ ˈali aˈʁa t͡ʃeˈher ˈdaw.aːŋ daː ˈpjeruː ˈhiris u t͡ʃeˈher"
         },
         {
           "label": "ZAZAKI",
@@ -687,7 +688,7 @@
         },
         {
           "form": "daú’āṅ",
-          "ipa": "ˈdawaːŋ",
+          "ipa": "ˈdaw.aːŋ",
           "zazaki": "dawang",
           "lemma": "daw",
           "display_gloss": "villages",
@@ -1246,25 +1247,25 @@
     {
       "id": "a01_l04",
       "title": "A01 line 04: Opening: Ali Agha, Narbyes, Karbegan and Sivan elders plan",
-      "text": "aγaí keíye χóe bār kerd, šẹ̄ Syérat̮ūre. Híris u še̱š rṓd̮i vené̱rt",
-      "lerch": "aγaí keíye χóe bār kerd, šẹ̄ Syérat̮ūre. Híris u še̱š rṓd̮i vené̱rt",
-      "ipa": "aˈʁaj ˈkejje ˈχoe baːr kerd ʃe̝ː ˈsjerat͡ʃuːre ˈhiris u ʃɛʃ ˈroːd͡ʒi veˈnɛrt",
-      "zazaki": "ağay kêyyê xoê bar kêrd şê Syêraçûrê Hiris û şeş roci vênert",
+      "text": "aγaí keíye χóe bār kerd, šẹ̄ Syérat̮ūre. Híris u šẹ̄š rṓd̮i vené̱rt",
+      "lerch": "aγaí keíye χóe bār kerd, šẹ̄ Syérat̮ūre. Híris u šẹ̄š rṓd̮i vené̱rt",
+      "ipa": "aˈʁaj ˈkejje ˈχoe baːr kerd ʃe̝ː ˈsjerat͡ʃuːre ˈhiris u ʃe̝ːʃ ˈroːd͡ʒi veˈnɛrt",
+      "zazaki": "ağay kêyyê xoê bar kêrd şê Syêraçûrê Hiris û şêş roci vênert",
       "source_note": "German prose has verliess sein Haus and Russian has left his house; the Zazaki uses the keíye χóe bār kerd compound, so 'packed up / moved out' is noted in the English/Turkish translation.",
       "russian_print_page": 99,
       "russian_scan_page": 113,
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "aγaí keíye χóe bār kerd, šẹ̄ Syérat̮ūre. Híris u še̱š rṓd̮i vené̱rt"
+          "value": "aγaí keíye χóe bār kerd, šẹ̄ Syérat̮ūre. Híris u šẹ̄š rṓd̮i vené̱rt"
         },
         {
           "label": "IPA",
-          "value": "aˈʁaj ˈkejje ˈχoe baːr kerd ʃe̝ː ˈsjerat͡ʃuːre ˈhiris u ʃɛʃ ˈroːd͡ʒi veˈnɛrt"
+          "value": "aˈʁaj ˈkejje ˈχoe baːr kerd ʃe̝ː ˈsjerat͡ʃuːre ˈhiris u ʃe̝ːʃ ˈroːd͡ʒi veˈnɛrt"
         },
         {
           "label": "ZAZAKI",
-          "value": "ağay kêyyê xoê bar kêrd şê Syêraçûrê Hiris û şeş roci vênert"
+          "value": "ağay kêyyê xoê bar kêrd şê Syêraçûrê Hiris û şêş roci vênert"
         },
         {
           "label": "ENGLISH",
@@ -1415,7 +1416,7 @@
           ]
         },
         {
-          "form": "šẹ̄",
+          "form": "šẹ̄",
           "ipa": "ʃe̝ː",
           "zazaki": "şê",
           "lemma": "se",
@@ -1425,7 +1426,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "šẹ̄",
+              "form": "šẹ̄",
               "normalized": "şê",
               "lemma": "se",
               "gloss": "went",
@@ -1507,9 +1508,9 @@
           ]
         },
         {
-          "form": "še̱š",
-          "ipa": "ʃɛʃ",
-          "zazaki": "şeş",
+          "form": "šẹ̄š",
+          "ipa": "ʃe̝ːʃ",
+          "zazaki": "şêş",
           "lemma": "ses",
           "display_gloss": "six",
           "gloss_tr": "altı",
@@ -1517,8 +1518,8 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "še̱š",
-              "normalized": "şeş",
+              "form": "šẹ̄š",
+              "normalized": "şêş",
               "lemma": "ses",
               "gloss": "six",
               "pos": "",
@@ -2856,7 +2857,7 @@
       "title": "A01 line 09: Opening: Ali Agha, Narbyes, Karbegan and Sivan elders plan",
       "text": "šaú’e vé̱ṅga eskére χóe di, e̱skéri daú’āṅ wa pyéru béru pyesé̱r,",
       "lerch": "šaú’e vé̱ṅga eskére χóe di, e̱skéri daú’āṅ wa pyéru béru pyesé̱r,",
-      "ipa": "ˈʃawe ˈvɛŋga esˈkere ˈχoe di ɛsˈkeri ˈdawaːŋ wa ˈpjeru ˈberu pjeˈsɛr",
+      "ipa": "ˈʃaw.e ˈvɛŋga esˈkere ˈχoe di ɛsˈkeri ˈdaw.aːŋ wa ˈpjeru ˈberu pjeˈsɛr",
       "zazaki": "şawê venga êskêrê xoê di eskêri dawang wa pyêrû bêrû pyêser",
       "source_note": "",
       "russian_print_page": 99,
@@ -2868,7 +2869,7 @@
         },
         {
           "label": "IPA",
-          "value": "ˈʃawe ˈvɛŋga esˈkere ˈχoe di ɛsˈkeri ˈdawaːŋ wa ˈpjeru ˈberu pjeˈsɛr"
+          "value": "ˈʃaw.e ˈvɛŋga esˈkere ˈχoe di ɛsˈkeri ˈdaw.aːŋ wa ˈpjeru ˈberu pjeˈsɛr"
         },
         {
           "label": "ZAZAKI",
@@ -2898,7 +2899,7 @@
       "tokens": [
         {
           "form": "šaú’e",
-          "ipa": "ˈʃawe",
+          "ipa": "ˈʃaw.e",
           "zazaki": "şawê",
           "lemma": "saue",
           "display_gloss": "night",
@@ -3036,7 +3037,7 @@
         },
         {
           "form": "daú’āṅ",
-          "ipa": "ˈdawaːŋ",
+          "ipa": "ˈdaw.aːŋ",
           "zazaki": "dawang",
           "lemma": "daw",
           "display_gloss": "villages",
@@ -3190,9 +3191,9 @@
     {
       "id": "a01_l10",
       "title": "A01 line 10: Opening: Ali Agha, Narbyes, Karbegan and Sivan elders plan",
-      "text": "mā šaú’e šyẹ̄́ri Áli aγaí t̮ehér hé̱me lad̮ā́na mā bi̥kší. Hʿasán aγaí",
-      "lerch": "mā šaú’e šyẹ̄́ri Áli aγaí t̮ehér hé̱me lad̮ā́na mā bi̥kší. Hʿasán aγaí",
-      "ipa": "maː ˈʃawe ˈʃje̝ːri ˈali aˈʁaj t͡ʃeˈher ˈhɛme laˈd͡ʒaːna maː bɨkˈʃi ħaˈsan aˈʁaj",
+      "text": "mā šaú’e šyẹ̄́ri Áli aγaí t̮ehér hé̱me lad̮ā́na mā bi̥kší. Hʿasán aγaí",
+      "lerch": "mā šaú’e šyẹ̄́ri Áli aγaí t̮ehér hé̱me lad̮ā́na mā bi̥kší. Hʿasán aγaí",
+      "ipa": "maː ˈʃaw.e ˈʃje̝ːri ˈali aˈʁaj t͡ʃeˈher ˈhɛme laˈd͡ʒaːna maː bɨkˈʃi ħaˈsan aˈʁaj",
       "zazaki": "ma şawê şyêri Ali ağay çêhêr hemê lacana ma bıkşi 'Hasan ağay",
       "source_note": "",
       "russian_print_page": 99,
@@ -3200,11 +3201,11 @@
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "mā šaú’e šyẹ̄́ri Áli aγaí t̮ehér hé̱me lad̮ā́na mā bi̥kší. Hʿasán aγaí"
+          "value": "mā šaú’e šyẹ̄́ri Áli aγaí t̮ehér hé̱me lad̮ā́na mā bi̥kší. Hʿasán aγaí"
         },
         {
           "label": "IPA",
-          "value": "maː ˈʃawe ˈʃje̝ːri ˈali aˈʁaj t͡ʃeˈher ˈhɛme laˈd͡ʒaːna maː bɨkˈʃi ħaˈsan aˈʁaj"
+          "value": "maː ˈʃaw.e ˈʃje̝ːri ˈali aˈʁaj t͡ʃeˈher ˈhɛme laˈd͡ʒaːna maː bɨkˈʃi ħaˈsan aˈʁaj"
         },
         {
           "label": "ZAZAKI",
@@ -3257,7 +3258,7 @@
         },
         {
           "form": "šaú’e",
-          "ipa": "ˈʃawe",
+          "ipa": "ˈʃaw.e",
           "zazaki": "şawê",
           "lemma": "saue",
           "display_gloss": "night",
@@ -3279,7 +3280,7 @@
           ]
         },
         {
-          "form": "šyẹ̄́ri",
+          "form": "šyẹ̄́ri",
           "ipa": "ˈʃje̝ːri",
           "zazaki": "şyêri",
           "lemma": "syeri",
@@ -3289,7 +3290,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "šyẹ̄́ri",
+              "form": "šyẹ̄́ri",
               "normalized": "şyêri",
               "lemma": "syeri",
               "gloss": "go",
@@ -3572,9 +3573,9 @@
     {
       "id": "a02_l01",
       "title": "A02 line 01: Qasim gathers the villages and asks Ali Agha for weapons",
-      "text": "We̱šíni vā ke: ri̥nd bén’u, mā šyẹ̄́ri Áli aγaí biári bi̥kší. Aγale-",
-      "lerch": "We̱šíni vā ke: ri̥nd bén’u, mā šyẹ̄́ri Áli aγaí biári bi̥kší. Aγale-",
-      "ipa": "wɛˈʃini vaː ke rɨnd ˈbenu maː ˈʃje̝ːri ˈali aˈʁaj ˈbjari bɨkˈʃi aʁale",
+      "text": "We̱šíni vā ke: ri̥nd bén’u, mā šyẹ̄́ri Áli aγaí biári bi̥kší. Aγale-",
+      "lerch": "We̱šíni vā ke: ri̥nd bén’u, mā šyẹ̄́ri Áli aγaí biári bi̥kší. Aγale-",
+      "ipa": "wɛˈʃini vaː ke rɨnd ˈben.u maː ˈʃje̝ːri ˈali aˈʁaj ˈbjari bɨkˈʃi aʁale",
       "zazaki": "Weşini va kê rınd bênû ma şyêri Ali ağay byari bıkşi Ağalê",
       "source_note": "",
       "russian_print_page": 100,
@@ -3582,11 +3583,11 @@
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "We̱šíni vā ke: ri̥nd bén’u, mā šyẹ̄́ri Áli aγaí biári bi̥kší. Aγale-"
+          "value": "We̱šíni vā ke: ri̥nd bén’u, mā šyẹ̄́ri Áli aγaí biári bi̥kší. Aγale-"
         },
         {
           "label": "IPA",
-          "value": "wɛˈʃini vaː ke rɨnd ˈbenu maː ˈʃje̝ːri ˈali aˈʁaj ˈbjari bɨkˈʃi aʁale"
+          "value": "wɛˈʃini vaː ke rɨnd ˈben.u maː ˈʃje̝ːri ˈali aˈʁaj ˈbjari bɨkˈʃi aʁale"
         },
         {
           "label": "ZAZAKI",
@@ -3708,7 +3709,7 @@
         },
         {
           "form": "bén’u,",
-          "ipa": "ˈbenu",
+          "ipa": "ˈben.u",
           "zazaki": "bênû",
           "lemma": "be",
           "display_gloss": "will be",
@@ -3764,7 +3765,7 @@
           ]
         },
         {
-          "form": "šyẹ̄́ri",
+          "form": "šyẹ̄́ri",
           "ipa": "ˈʃje̝ːri",
           "zazaki": "şyêri",
           "lemma": "syeri",
@@ -3774,7 +3775,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "šyẹ̄́ri",
+              "form": "šyẹ̄́ri",
               "normalized": "şyêri",
               "lemma": "syeri",
               "gloss": "go",
@@ -3956,7 +3957,7 @@
       "title": "A02 line 02: Qasim gathers the villages and asks Ali Agha for weapons",
       "text": "rā́ni Sivā́ni vā ke: mā qarí̥š ńebén’i. Qasím aγaí vā ke: šṳmári",
       "lerch": "rā́ni Sivā́ni vā ke: mā qarí̥š ńebén’i. Qasím aγaí vā ke: šṳmári",
-      "ipa": "ˈraːni siˈvaːni vaː ke maː qaˈrɨʃ ɲeˈbeni qaˈsim aˈʁaj vaː ke ʃyˈmari",
+      "ipa": "ˈraːni siˈvaːni vaː ke maː qaˈrɨʃ ɲeˈben.i qaˈsim aˈʁaj vaː ke ʃyˈmari",
       "zazaki": "rani Sivani va kê ma qarış nyêbêni Qasim ağay va kê şûmari",
       "source_note": "",
       "russian_print_page": 100,
@@ -3968,7 +3969,7 @@
         },
         {
           "label": "IPA",
-          "value": "ˈraːni siˈvaːni vaː ke maː qaˈrɨʃ ɲeˈbeni qaˈsim aˈʁaj vaː ke ʃyˈmari"
+          "value": "ˈraːni siˈvaːni vaː ke maː qaˈrɨʃ ɲeˈben.i qaˈsim aˈʁaj vaː ke ʃyˈmari"
         },
         {
           "label": "ZAZAKI",
@@ -4136,7 +4137,7 @@
         },
         {
           "form": "ńebén’i.",
-          "ipa": "ɲeˈbeni",
+          "ipa": "ɲeˈben.i",
           "zazaki": "nyêbêni",
           "lemma": "ne-",
           "display_gloss": "will not be",
@@ -4643,7 +4644,7 @@
       "title": "A02 line 04: Qasim gathers the villages and asks Ali Agha for weapons",
       "text": "aγá ḗ̱n’ie wírdi šī, kei Áli aγaí ārd daú’e, t̮ehér hé̱me lad̮ā́na",
       "lerch": "aγá ḗ̱n’ie wírdi šī, kei Áli aγaí ārd daú’e, t̮ehér hé̱me lad̮ā́na",
-      "ipa": "aˈʁa ˈɛːnje ˈwirdi ʃiː kej ˈali aˈʁaj aːrd ˈdawe t͡ʃeˈher ˈhɛme laˈd͡ʒaːna",
+      "ipa": "aˈʁa ˈɛːn.je ˈwirdi ʃiː kej ˈali aˈʁaj aːrd ˈdaw.e t͡ʃeˈher ˈhɛme laˈd͡ʒaːna",
       "zazaki": "ağa enyê wirdi şi kêy Ali ağay ard dawê çêhêr hemê lacana",
       "source_note": "",
       "russian_print_page": 100,
@@ -4655,7 +4656,7 @@
         },
         {
           "label": "IPA",
-          "value": "aˈʁa ˈɛːnje ˈwirdi ʃiː kej ˈali aˈʁaj aːrd ˈdawe t͡ʃeˈher ˈhɛme laˈd͡ʒaːna"
+          "value": "aˈʁa ˈɛːn.je ˈwirdi ʃiː kej ˈali aˈʁaj aːrd ˈdaw.e t͡ʃeˈher ˈhɛme laˈd͡ʒaːna"
         },
         {
           "label": "ZAZAKI",
@@ -4708,7 +4709,7 @@
         },
         {
           "form": "ḗ̱n’ie",
-          "ipa": "ˈɛːnje",
+          "ipa": "ˈɛːn.je",
           "zazaki": "enyê",
           "lemma": "enie",
           "display_gloss": "these",
@@ -4880,7 +4881,7 @@
         },
         {
           "form": "daú’e,",
-          "ipa": "ˈdawe",
+          "ipa": "ˈdaw.e",
           "zazaki": "dawê",
           "lemma": "daue",
           "display_gloss": "attack",
@@ -5014,7 +5015,7 @@
       "title": "A02 line 05: Qasim gathers the villages and asks Ali Agha for weapons",
       "text": "bé̱rdi, kérdi wade̱i Meh̔médi Hʿendā́ni. Qasím aγaí šaú’e h̔abére",
       "lerch": "bé̱rdi, kérdi wade̱i Meh̔médi Hʿendā́ni. Qasím aγaí šaú’e h̔abére",
-      "ipa": "ˈbɛrdi ˈkerdi wadɛj meħˈmedi ħenˈdaːni qaˈsim aˈʁaj ˈʃawe ħaˈbere",
+      "ipa": "ˈbɛrdi ˈkerdi wadɛj meħˈmedi ħenˈdaːni qaˈsim aˈʁaj ˈʃaw.e ħaˈbere",
       "zazaki": "berdi kêrdi wadey Mê'hmêdi 'Hêndani Qasim ağay şawê 'habêrê",
       "source_note": "German translates wadei Mehmedi Hendani as in's Haus zu Mehmed Hendani; use house here, not wedding.",
       "russian_print_page": 100,
@@ -5026,7 +5027,7 @@
         },
         {
           "label": "IPA",
-          "value": "ˈbɛrdi ˈkerdi wadɛj meħˈmedi ħenˈdaːni qaˈsim aˈʁaj ˈʃawe ħaˈbere"
+          "value": "ˈbɛrdi ˈkerdi wadɛj meħˈmedi ħenˈdaːni qaˈsim aˈʁaj ˈʃaw.e ħaˈbere"
         },
         {
           "label": "ZAZAKI",
@@ -5228,7 +5229,7 @@
         },
         {
           "form": "šaú’e",
-          "ipa": "ˈʃawe",
+          "ipa": "ˈʃaw.e",
           "zazaki": "şawê",
           "lemma": "saue",
           "display_gloss": "night",
@@ -5283,7 +5284,7 @@
       "title": "A02 line 06: Qasim gathers the villages and asks Ali Agha for weapons",
       "text": "e̱ršau’úte dauwā́na vā ke: ší̥ma t̮e vené̱rti? mā šyẹ̄́ri Áli aγaí bi̥kši.",
       "lerch": "e̱ršau’úte dauwā́na vā ke: ší̥ma t̮e vené̱rti? mā šyẹ̄́ri Áli aγaí bi̥kši.",
-      "ipa": "ɛrʃaˈwute dawˈwaːna vaː ke ˈʃɨma t͡ʃe veˈnɛrti maː ˈʃje̝ːri ˈali aˈʁaj bɨkʃi",
+      "ipa": "ɛrʃaw.ˈute dawˈwaːna vaː ke ˈʃɨma t͡ʃe veˈnɛrti maː ˈʃje̝ːri ˈali aˈʁaj bɨkʃi",
       "zazaki": "erşawûtê dawwana va kê şıma çê vênerti ma şyêri Ali ağay bıkşi",
       "source_note": "",
       "russian_print_page": 100,
@@ -5295,7 +5296,7 @@
         },
         {
           "label": "IPA",
-          "value": "ɛrʃaˈwute dawˈwaːna vaː ke ˈʃɨma t͡ʃe veˈnɛrti maː ˈʃje̝ːri ˈali aˈʁaj bɨkʃi"
+          "value": "ɛrʃaw.ˈute dawˈwaːna vaː ke ˈʃɨma t͡ʃe veˈnɛrti maː ˈʃje̝ːri ˈali aˈʁaj bɨkʃi"
         },
         {
           "label": "ZAZAKI",
@@ -5325,7 +5326,7 @@
       "tokens": [
         {
           "form": "e̱ršau’úte",
-          "ipa": "ɛrʃaˈwute",
+          "ipa": "ɛrʃaw.ˈute",
           "zazaki": "erşawûtê",
           "lemma": "ersauute",
           "display_gloss": "sent",
@@ -5654,7 +5655,7 @@
       "title": "A02 line 07: Qasim gathers the villages and asks Ali Agha for weapons",
       "text": "Dé̱wi pyéru āmeí pyesér, šaú’e we̱ríšti, t̮ehér sei e̱skér vi̥d̮iai, āmeí",
       "lerch": "Dé̱wi pyéru āmeí pyesér, šaú’e we̱ríšti, t̮ehér sei e̱skér vi̥d̮iai, āmeí",
-      "ipa": "ˈdɛwi ˈpjeru aːˈmej pjeˈser ˈʃawe wɛˈriʃti t͡ʃeˈher sej ɛsˈker vɨd͡ʒjaj aːˈmej",
+      "ipa": "ˈdɛwi ˈpjeru aːˈmej pjeˈser ˈʃaw.e wɛˈriʃti t͡ʃeˈher sej ɛsˈker vɨd͡ʒjaj aːˈmej",
       "zazaki": "Dewi pyêrû amêy pyêsêr şawê werişti çêhêr sêy eskêr vıcyay amêy",
       "source_note": "",
       "russian_print_page": 100,
@@ -5666,7 +5667,7 @@
         },
         {
           "label": "IPA",
-          "value": "ˈdɛwi ˈpjeru aːˈmej pjeˈser ˈʃawe wɛˈriʃti t͡ʃeˈher sej ɛsˈker vɨd͡ʒjaj aːˈmej"
+          "value": "ˈdɛwi ˈpjeru aːˈmej pjeˈser ˈʃaw.e wɛˈriʃti t͡ʃeˈher sej ɛsˈker vɨd͡ʒjaj aːˈmej"
         },
         {
           "label": "ZAZAKI",
@@ -5788,7 +5789,7 @@
         },
         {
           "form": "šaú’e",
-          "ipa": "ˈʃawe",
+          "ipa": "ˈʃaw.e",
           "zazaki": "şawê",
           "lemma": "saue",
           "display_gloss": "night",
@@ -5820,8 +5821,8 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "weríšti",
-              "normalized": "wêrişti",
+              "form": "we̱ríšti",
+              "normalized": "werişti",
               "lemma": "werist",
               "gloss": "arose",
               "pos": "",
@@ -7006,7 +7007,7 @@
       "title": "A02 line 11: Qasim gathers the villages and asks Ali Agha for weapons",
       "text": "amenét kén’a. Áli aγá vā ke: aγá, me me̱h̔épine, e̱z t̮ékāne χóe",
       "lerch": "amenét kén’a. Áli aγá vā ke: aγá, me me̱h̔épine, e̱z t̮ékāne χóe",
-      "ipa": "ameˈnet ˈkena ˈali aˈʁa vaː ke aˈʁa me mɛˈħepine ɛz ˈt͡ʃekaːne ˈχoe",
+      "ipa": "ameˈnet ˈken.a ˈali aˈʁa vaː ke aˈʁa me mɛˈħepine ɛz ˈt͡ʃekaːne ˈχoe",
       "zazaki": "amênêt kêna Ali ağa va kê ağa mê me'hêpinê ez çêkanê xoê",
       "source_note": "Reviewer note reads me̱h̔épine as 'do not deceive me', linking it to the hapn/deceive family; German/Russian 'do not be angry' is kept as a translation mismatch unless stronger evidence appears.",
       "russian_print_page": 100,
@@ -7018,7 +7019,7 @@
         },
         {
           "label": "IPA",
-          "value": "ameˈnet ˈkena ˈali aˈʁa vaː ke aˈʁa me mɛˈħepine ɛz ˈt͡ʃekaːne ˈχoe"
+          "value": "ameˈnet ˈken.a ˈali aˈʁa vaː ke aˈʁa me mɛˈħepine ɛz ˈt͡ʃekaːne ˈχoe"
         },
         {
           "label": "ZAZAKI",
@@ -7071,7 +7072,7 @@
         },
         {
           "form": "kén’a.",
-          "ipa": "ˈkena",
+          "ipa": "ˈken.a",
           "zazaki": "kêna",
           "lemma": "kerd",
           "display_gloss": "make",
@@ -7366,7 +7367,7 @@
       "title": "A02 line 12: Qasim gathers the villages and asks Ali Agha for weapons",
       "text": "ńédāna. Qasím aγaí vā ke: mé̱terse, e̱z túera χa’íne ńekén’a. Áli",
       "lerch": "ńédāna. Qasím aγaí vā ke: mé̱terse, e̱z túera χa’íne ńekén’a. Áli",
-      "ipa": "ˈɲedaːna qaˈsim aˈʁaj vaː ke ˈmɛterse ɛz ˈtwera χˈaine ɲeˈkena ˈali",
+      "ipa": "ˈɲedaːna qaˈsim aˈʁaj vaː ke ˈmɛterse ɛz ˈtwera χa.ˈine ɲeˈken.a ˈali",
       "zazaki": "nyêdana Qasim ağay va kê metêrsê ez twêra xainê nyêkêna Ali",
       "source_note": "",
       "russian_print_page": 100,
@@ -7378,7 +7379,7 @@
         },
         {
           "label": "IPA",
-          "value": "ˈɲedaːna qaˈsim aˈʁaj vaː ke ˈmɛterse ɛz ˈtwera χˈaine ɲeˈkena ˈali"
+          "value": "ˈɲedaːna qaˈsim aˈʁaj vaː ke ˈmɛterse ɛz ˈtwera χa.ˈine ɲeˈken.a ˈali"
         },
         {
           "label": "ZAZAKI",
@@ -7647,7 +7648,7 @@
         },
         {
           "form": "χa’íne",
-          "ipa": "χˈaine",
+          "ipa": "χa.ˈine",
           "zazaki": "xainê",
           "lemma": "xaine",
           "display_gloss": "traitor",
@@ -7670,7 +7671,7 @@
         },
         {
           "form": "ńekén’a.",
-          "ipa": "ɲeˈkena",
+          "ipa": "ɲeˈken.a",
           "zazaki": "nyêkêna",
           "lemma": "ne-",
           "display_gloss": "I will not do",
@@ -7747,7 +7748,7 @@
       "title": "A02 line 13: Qasim gathers the villages and asks Ali Agha for weapons",
       "text": "aγá vā ke: te χa’íni, e̱z t̮ékāni χóe ńédāna túe. Qasím aγaí sué̱nd",
       "lerch": "aγá vā ke: te χa’íni, e̱z t̮ékāni χóe ńédāna túe. Qasím aγaí sué̱nd",
-      "ipa": "aˈʁa vaː ke te χˈaini ɛz ˈt͡ʃekaːni ˈχoe ˈɲedaːna ˈtwe qaˈsim aˈʁaj ˈswɛnd",
+      "ipa": "aˈʁa vaː ke te χa.ˈini ɛz ˈt͡ʃekaːni ˈχoe ˈɲedaːna ˈtwe qaˈsim aˈʁaj ˈswɛnd",
       "zazaki": "ağa va kê tê xaini ez çêkani xoê nyêdana twê Qasim ağay swend",
       "source_note": "",
       "russian_print_page": 100,
@@ -7759,7 +7760,7 @@
         },
         {
           "label": "IPA",
-          "value": "aˈʁa vaː ke te χˈaini ɛz ˈt͡ʃekaːni ˈχoe ˈɲedaːna ˈtwe qaˈsim aˈʁaj ˈswɛnd"
+          "value": "aˈʁa vaː ke te χa.ˈini ɛz ˈt͡ʃekaːni ˈχoe ˈɲedaːna ˈtwe qaˈsim aˈʁaj ˈswɛnd"
         },
         {
           "label": "ZAZAKI",
@@ -7881,7 +7882,7 @@
         },
         {
           "form": "χa’íni,",
-          "ipa": "χˈaini",
+          "ipa": "χa.ˈini",
           "zazaki": "xaini",
           "lemma": "xaini",
           "display_gloss": "traitor",
@@ -8906,7 +8907,7 @@
       "title": "A03 line 02: Ahmed warns Ali Agha and Qasim's army enters",
       "text": "mā mé̱bere, te χa’íni, baúki me sé̱rede áqi̥l t̮íńu, rṓd̮ei ramazányu,",
       "lerch": "mā mé̱bere, te χa’íni, baúki me sé̱rede áqi̥l t̮íńu, rṓd̮ei ramazányu,",
-      "ipa": "maː ˈmɛbere te χˈaini ˈbawki me ˈsɛrede ˈaqɨl ˈt͡ʃiɲu ˈroːd͡ʒej ramaˈzanju",
+      "ipa": "maː ˈmɛbere te χa.ˈini ˈbawki me ˈsɛrede ˈaqɨl ˈt͡ʃiɲu ˈroːd͡ʒej ramaˈzanju",
       "zazaki": "ma mebêrê tê xaini bawki mê serêdê aqıl çinyû rocêy ramazanyû",
       "source_note": "",
       "russian_print_page": 101,
@@ -8918,7 +8919,7 @@
         },
         {
           "label": "IPA",
-          "value": "maː ˈmɛbere te χˈaini ˈbawki me ˈsɛrede ˈaqɨl ˈt͡ʃiɲu ˈroːd͡ʒej ramaˈzanju"
+          "value": "maː ˈmɛbere te χa.ˈini ˈbawki me ˈsɛrede ˈaqɨl ˈt͡ʃiɲu ˈroːd͡ʒej ramaˈzanju"
         },
         {
           "label": "ZAZAKI",
@@ -9028,7 +9029,7 @@
         },
         {
           "form": "χa’íni,",
-          "ipa": "χˈaini",
+          "ipa": "χa.ˈini",
           "zazaki": "xaini",
           "lemma": "xaini",
           "display_gloss": "traitor",
@@ -9232,7 +9233,7 @@
       "title": "A03 line 03: Ahmed warns Ali Agha and Qasim's army enters",
       "text": "baúni, χálō, te t̮ékāni mā bén’i, peíni̥de te χa’ín ved̮í, e̱z túe ki̥-",
       "lerch": "baúni, χálō, te t̮ékāni mā bén’i, peíni̥de te χa’ín ved̮í, e̱z túe ki̥-",
-      "ipa": "ˈbawni ˈχaloː te ˈt͡ʃekaːni maː ˈbeni ˈpejnɨde te χˈain veˈd͡ʒi ɛz ˈtwe kɨ",
+      "ipa": "ˈbawni ˈχaloː te ˈt͡ʃekaːni maː ˈben.i ˈpejnɨde te χa.ˈin veˈd͡ʒi ɛz ˈtwe kɨ",
       "zazaki": "bawni xalo tê çêkani ma bêni pêynıdê tê xain vêci ez twê kı",
       "source_note": "",
       "russian_print_page": 101,
@@ -9244,7 +9245,7 @@
         },
         {
           "label": "IPA",
-          "value": "ˈbawni ˈχaloː te ˈt͡ʃekaːni maː ˈbeni ˈpejnɨde te χˈain veˈd͡ʒi ɛz ˈtwe kɨ"
+          "value": "ˈbawni ˈχaloː te ˈt͡ʃekaːni maː ˈben.i ˈpejnɨde te χa.ˈin veˈd͡ʒi ɛz ˈtwe kɨ"
         },
         {
           "label": "ZAZAKI",
@@ -9389,7 +9390,7 @@
         },
         {
           "form": "bén’i,",
-          "ipa": "ˈbeni",
+          "ipa": "ˈben.i",
           "zazaki": "bêni",
           "lemma": "be",
           "display_gloss": "take",
@@ -9480,7 +9481,7 @@
         },
         {
           "form": "χa’ín",
-          "ipa": "χˈain",
+          "ipa": "χa.ˈin",
           "zazaki": "xain",
           "lemma": "xain",
           "display_gloss": "traitor",
@@ -9604,7 +9605,7 @@
       "title": "A03 line 04: Ahmed warns Ali Agha and Qasim's army enters",
       "text": "sén’a. Qasím aγā́ vā ke Ah̔médira: wáreza, mé̱terse. Ah̔médi vā",
       "lerch": "sén’a. Qasím aγā́ vā ke Ah̔médira: wáreza, mé̱terse. Ah̔médi vā",
-      "ipa": "ˈsena qaˈsim aˈʁaː vaː ke aħˈmedira ˈwareza ˈmɛterse aħˈmedi vaː",
+      "ipa": "ˈsen.a qaˈsim aˈʁaː vaː ke aħˈmedira ˈwareza ˈmɛterse aħˈmedi vaː",
       "zazaki": "sêna Qasim ağa va kê A'hmêdira warêza metêrsê A'hmêdi va",
       "source_note": "Reviewer note accepts wāreza as the kinship term 'nephew' (sister's son); German/Russian 'get up' is treated as a mistranslation/confusion with a rise/get-up form.",
       "russian_print_page": 101,
@@ -9616,7 +9617,7 @@
         },
         {
           "label": "IPA",
-          "value": "ˈsena qaˈsim aˈʁaː vaː ke aħˈmedira ˈwareza ˈmɛterse aħˈmedi vaː"
+          "value": "ˈsen.a qaˈsim aˈʁaː vaː ke aħˈmedira ˈwareza ˈmɛterse aħˈmedi vaː"
         },
         {
           "label": "ZAZAKI",
@@ -9646,7 +9647,7 @@
       "tokens": [
         {
           "form": "sén’a.",
-          "ipa": "ˈsena",
+          "ipa": "ˈsen.a",
           "zazaki": "sêna",
           "lemma": "kist",
           "display_gloss": "I will kill",
@@ -9916,25 +9917,25 @@
     {
       "id": "a03_l05",
       "title": "A03 line 05: Ahmed warns Ali Agha and Qasim's army enters",
-      "text": "ke: h̔álō χand̮érai me bi̥dé, ez zána, te χa’íni, bye bah̔tẹ̄́de ti̥ mā",
-      "lerch": "ke: h̔álō χand̮érai me bi̥dé, ez zána, te χa’íni, bye bah̔tẹ̄́de ti̥ mā",
-      "ipa": "ke ˈħaloː χanˈd͡ʒeraj me bɨˈde ez ˈzana te χˈaini bje baħˈte̝ːde tɨ maː",
-      "zazaki": "kê 'halo xancêray mê bıdê êz zana tê xaini byê ba'htêdê tı ma",
+      "text": "ke: h̔álō χand̮érai me bi̥dé, e̱z zána, te χa’íni, bye bah̔tẹ̄́de ti̥ mā",
+      "lerch": "ke: h̔álō χand̮érai me bi̥dé, e̱z zána, te χa’íni, bye bah̔tẹ̄́de ti̥ mā",
+      "ipa": "ke ˈħaloː χanˈd͡ʒeraj me bɨˈde ɛz ˈzana te χa.ˈini bje baħˈte̝ːde tɨ maː",
+      "zazaki": "kê 'halo xancêray mê bıdê ez zana tê xaini byê ba'htêdê tı ma",
       "source_note": "",
       "russian_print_page": 101,
       "russian_scan_page": 115,
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "ke: h̔álō χand̮érai me bi̥dé, ez zána, te χa’íni, bye bah̔tẹ̄́de ti̥ mā"
+          "value": "ke: h̔álō χand̮érai me bi̥dé, e̱z zána, te χa’íni, bye bah̔tẹ̄́de ti̥ mā"
         },
         {
           "label": "IPA",
-          "value": "ke ˈħaloː χanˈd͡ʒeraj me bɨˈde ez ˈzana te χˈaini bje baħˈte̝ːde tɨ maː"
+          "value": "ke ˈħaloː χanˈd͡ʒeraj me bɨˈde ɛz ˈzana te χa.ˈini bje baħˈte̝ːde tɨ maː"
         },
         {
           "label": "ZAZAKI",
-          "value": "kê 'halo xancêray mê bıdê êz zana tê xaini byê ba'htêdê tı ma"
+          "value": "kê 'halo xancêray mê bıdê ez zana tê xaini byê ba'htêdê tı ma"
         },
         {
           "label": "ENGLISH",
@@ -10085,9 +10086,9 @@
           ]
         },
         {
-          "form": "ez",
-          "ipa": "ez",
-          "zazaki": "êz",
+          "form": "e̱z",
+          "ipa": "ɛz",
+          "zazaki": "ez",
           "lemma": "ez",
           "display_gloss": "I",
           "gloss_tr": "ben",
@@ -10095,8 +10096,8 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "ez",
-              "normalized": "êz",
+              "form": "e̱z",
+              "normalized": "ez",
               "lemma": "ez",
               "gloss": "I",
               "pos": "",
@@ -10166,7 +10167,7 @@
         },
         {
           "form": "χa’íni,",
-          "ipa": "χˈaini",
+          "ipa": "χa.ˈini",
           "zazaki": "xaini",
           "lemma": "xaini",
           "display_gloss": "traitor",
@@ -10288,9 +10289,9 @@
     {
       "id": "a03_l06",
       "title": "A03 line 06: Ahmed warns Ali Agha and Qasim's army enters",
-      "text": "kišén’i. Hʿāli χand̮érai Ah̔médi ńédai d̮e. Hʿāl še te̱bér, e̱sḱéri",
-      "lerch": "kišén’i. Hʿāli χand̮érai Ah̔médi ńédai d̮e. Hʿāl še te̱bér, e̱sḱéri",
-      "ipa": "kiˈʃeni ħaːli χanˈd͡ʒeraj aħˈmedi ˈɲedaj d͡ʒe ħaːl ʃe tɛˈber ɛsˈceri",
+      "text": "kišén’i. Hʿāli χand̮érai Ah̔médi ńédai d̮e. Hʿāl šẹ̄ te̱bér, e̱skéri",
+      "lerch": "kišén’i. Hʿāli χand̮érai Ah̔médi ńédai d̮e. Hʿāl šẹ̄ te̱bér, e̱skéri",
+      "ipa": "kiˈʃen.i ħaːli χanˈd͡ʒeraj aħˈmedi ˈɲedaj d͡ʒe ħaːl ʃe̝ː tɛˈber ɛsˈkeri",
       "zazaki": "kişêni 'Hali xancêray A'hmêdi nyêday cê 'Hal şê tebêr eskêri",
       "source_note": "",
       "russian_print_page": 101,
@@ -10298,11 +10299,11 @@
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "kišén’i. Hʿāli χand̮érai Ah̔médi ńédai d̮e. Hʿāl še te̱bér, e̱sḱéri"
+          "value": "kišén’i. Hʿāli χand̮érai Ah̔médi ńédai d̮e. Hʿāl šẹ̄ te̱bér, e̱skéri"
         },
         {
           "label": "IPA",
-          "value": "kiˈʃeni ħaːli χanˈd͡ʒeraj aħˈmedi ˈɲedaj d͡ʒe ħaːl ʃe tɛˈber ɛsˈceri"
+          "value": "kiˈʃen.i ħaːli χanˈd͡ʒeraj aħˈmedi ˈɲedaj d͡ʒe ħaːl ʃe̝ː tɛˈber ɛsˈkeri"
         },
         {
           "label": "ZAZAKI",
@@ -10332,7 +10333,7 @@
       "tokens": [
         {
           "form": "kišén’i.",
-          "ipa": "kiˈʃeni",
+          "ipa": "kiˈʃen.i",
           "zazaki": "kişêni",
           "lemma": "kist",
           "display_gloss": "will kill",
@@ -10514,8 +10515,8 @@
           ]
         },
         {
-          "form": "še",
-          "ipa": "ʃe",
+          "form": "šẹ̄",
+          "ipa": "ʃe̝ː",
           "zazaki": "şê",
           "lemma": "se",
           "display_gloss": "went",
@@ -10524,7 +10525,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "še",
+              "form": "šẹ̄",
               "normalized": "şê",
               "lemma": "se",
               "gloss": "went",
@@ -10560,8 +10561,8 @@
           ]
         },
         {
-          "form": "e̱sḱéri",
-          "ipa": "ɛsˈceri",
+          "form": "e̱skéri",
+          "ipa": "ɛsˈkeri",
           "zazaki": "eskêri",
           "lemma": "eskeri",
           "display_gloss": "army",
@@ -10570,7 +10571,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "e̱sḱéri",
+              "form": "e̱skéri",
               "normalized": "eskêri",
               "lemma": "eskeri",
               "gloss": "army",
@@ -11299,9 +11300,9 @@
     {
       "id": "a03_l09",
       "title": "A03 line 09: Ahmed warns Ali Agha and Qasim's army enters",
-      "text": "lád̮ān bi̥kší; hém’a des u heíšti mē̱rduó̤mi γarī́bi yéne h̔é̱te é̱sti,",
-      "lerch": "lád̮ān bi̥kší; hém’a des u heíšti mē̱rduó̤mi γarī́bi yéne h̔é̱te é̱sti,",
-      "ipa": "ˈlad͡ʒaːn bɨkˈʃi ˈhema des u ˈhejʃti mɛːrdˈwømi ʁaˈriːbi ˈjene ˈħɛte ˈɛsti",
+      "text": "lád̮ān bi̥kší; hém’a des u heíšti mē̱rduó̤mi γarī́bi yéne h̔é̱te é̱sti,",
+      "lerch": "lád̮ān bi̥kší; hém’a des u heíšti mē̱rduó̤mi γarī́bi yéne h̔é̱te é̱sti,",
+      "ipa": "ˈlad͡ʒaːn bɨkˈʃi ˈhem.a des u ˈhejʃti mɛːrdˈwømi ʁaˈriːbi ˈjene ˈħɛte ˈɛsti",
       "zazaki": "lacan bıkşi hêma dês û hêyşti merdwomi ğaribi yênê 'hetê esti",
       "source_note": "",
       "russian_print_page": 101,
@@ -11309,11 +11310,11 @@
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "lád̮ān bi̥kší; hém’a des u heíšti mē̱rduó̤mi γarī́bi yéne h̔é̱te é̱sti,"
+          "value": "lád̮ān bi̥kší; hém’a des u heíšti mē̱rduó̤mi γarī́bi yéne h̔é̱te é̱sti,"
         },
         {
           "label": "IPA",
-          "value": "ˈlad͡ʒaːn bɨkˈʃi ˈhema des u ˈhejʃti mɛːrdˈwømi ʁaˈriːbi ˈjene ˈħɛte ˈɛsti"
+          "value": "ˈlad͡ʒaːn bɨkˈʃi ˈhem.a des u ˈhejʃti mɛːrdˈwømi ʁaˈriːbi ˈjene ˈħɛte ˈɛsti"
         },
         {
           "label": "ZAZAKI",
@@ -11411,7 +11412,7 @@
         },
         {
           "form": "hém’a",
-          "ipa": "ˈhema",
+          "ipa": "ˈhem.a",
           "zazaki": "hêma",
           "lemma": "hema",
           "display_gloss": "however",
@@ -11479,7 +11480,7 @@
           ]
         },
         {
-          "form": "heíšti",
+          "form": "heíšti",
           "ipa": "ˈhejʃti",
           "zazaki": "hêyşti",
           "lemma": "heisti",
@@ -11489,7 +11490,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "heíšti",
+              "form": "heíšti",
               "normalized": "hêyşti",
               "lemma": "heisti",
               "gloss": "eight",
@@ -11506,16 +11507,16 @@
           "ipa": "mɛːrdˈwømi",
           "zazaki": "merdwomi",
           "lemma": "merduomi",
-          "display_gloss": "",
-          "gloss_tr": "",
-          "gloss_de": "",
+          "display_gloss": "people",
+          "gloss_tr": "kişiler",
+          "gloss_de": "Leute",
           "pos": "",
           "morphemes": [
             {
               "form": "mē̱rduó̤mi",
               "normalized": "merdwomi",
               "lemma": "merduomi",
-              "gloss": "",
+              "gloss": "people",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
@@ -11987,7 +11988,7 @@
       "text": "ve̱r, ve̱ṅg dā vā ke Ah̔médira: wáreza, e̱z ameíya, ti̥ ku sé̱ra",
       "lerch": "ve̱r, ve̱ṅg dā vā ke Ah̔médira: wáreza, e̱z ameíya, ti̥ ku sé̱ra",
       "ipa": "vɛr vɛŋg daː vaː ke aħˈmedira ˈwareza ɛz aˈmejja tɨ ku ˈsɛra",
-      "zazaki": "ver vengg da va kê A'hmêdira warêza ez amêyya tı kû sera",
+      "zazaki": "ver veng da va kê A'hmêdira warêza ez amêyya tı kû sera",
       "source_note": "Reviewer note accepts wāreza as the kinship term 'nephew' (sister's son); German/Russian 'get up' is treated as a mistranslation/confusion with a rise/get-up form.",
       "russian_print_page": 101,
       "russian_scan_page": 115,
@@ -12002,7 +12003,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ver vengg da va kê A'hmêdira warêza ez amêyya tı kû sera"
+          "value": "ver veng da va kê A'hmêdira warêza ez amêyya tı kû sera"
         },
         {
           "label": "ENGLISH",
@@ -12052,7 +12053,7 @@
         {
           "form": "ve̱ṅg",
           "ipa": "vɛŋg",
-          "zazaki": "vengg",
+          "zazaki": "veng",
           "lemma": "veng",
           "display_gloss": "Sound, Audio, Voice",
           "gloss_tr": "ses",
@@ -12061,7 +12062,7 @@
           "morphemes": [
             {
               "form": "ve̱ṅg",
-              "normalized": "vengg",
+              "normalized": "veng",
               "lemma": "veng",
               "gloss": "Sound, Audio, Voice",
               "pos": "",
@@ -12319,7 +12320,7 @@
           "start": 1,
           "end": 3,
           "lerch": "ve̱ṅg dā",
-          "zazaki": "vengg da",
+          "zazaki": "veng da",
           "english": "called out",
           "turkish": "seslendi",
           "german": "schrie / rief",
@@ -12333,25 +12334,25 @@
     {
       "id": "a03_l12",
       "title": "A03 line 12: Ahmed warns Ali Agha and Qasim's army enters",
-      "text": "šyẹ̄́ri, e̱z sé̱rei túe ḗ̱n’a gelā́ṅke wén’a. Ah̔médi ve̱ṅg dā vā ke:",
-      "lerch": "šyẹ̄́ri, e̱z sé̱rei túe ḗ̱n’a gelā́ṅke wén’a. Ah̔médi ve̱ṅg dā vā ke:",
-      "ipa": "ˈʃje̝ːri ɛz ˈsɛrej ˈtwe ˈɛːna geˈlaːŋke ˈwena aħˈmedi vɛŋg daː vaː ke",
-      "zazaki": "şyêri ez serêy twê ena gêlangkê wêna A'hmêdi vengg da va kê",
+      "text": "šyẹ̄́ri, e̱z sé̱rei túe ḗ̱n’a gelā́ṅke wén’a. Ah̔médi ve̱ṅg dā vā ke:",
+      "lerch": "šyẹ̄́ri, e̱z sé̱rei túe ḗ̱n’a gelā́ṅke wén’a. Ah̔médi ve̱ṅg dā vā ke:",
+      "ipa": "ˈʃje̝ːri ɛz ˈsɛrej ˈtwe ˈɛːn.a geˈlaːŋke ˈwen.a aħˈmedi vɛŋg daː vaː ke",
+      "zazaki": "şyêri ez serêy twê ena gêlankê wêna A'hmêdi veng da va kê",
       "source_note": "",
       "russian_print_page": 101,
       "russian_scan_page": 115,
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "šyẹ̄́ri, e̱z sé̱rei túe ḗ̱n’a gelā́ṅke wén’a. Ah̔médi ve̱ṅg dā vā ke:"
+          "value": "šyẹ̄́ri, e̱z sé̱rei túe ḗ̱n’a gelā́ṅke wén’a. Ah̔médi ve̱ṅg dā vā ke:"
         },
         {
           "label": "IPA",
-          "value": "ˈʃje̝ːri ɛz ˈsɛrej ˈtwe ˈɛːna geˈlaːŋke ˈwena aħˈmedi vɛŋg daː vaː ke"
+          "value": "ˈʃje̝ːri ɛz ˈsɛrej ˈtwe ˈɛːn.a geˈlaːŋke ˈwen.a aħˈmedi vɛŋg daː vaː ke"
         },
         {
           "label": "ZAZAKI",
-          "value": "şyêri ez serêy twê ena gêlangkê wêna A'hmêdi vengg da va kê"
+          "value": "şyêri ez serêy twê ena gêlankê wêna A'hmêdi veng da va kê"
         },
         {
           "label": "ENGLISH",
@@ -12376,7 +12377,7 @@
       ],
       "tokens": [
         {
-          "form": "šyẹ̄́ri,",
+          "form": "šyẹ̄́ri,",
           "ipa": "ˈʃje̝ːri",
           "zazaki": "şyêri",
           "lemma": "syeri",
@@ -12386,7 +12387,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "šyẹ̄́ri",
+              "form": "šyẹ̄́ri",
               "normalized": "şyêri",
               "lemma": "syeri",
               "gloss": "go",
@@ -12469,7 +12470,7 @@
         },
         {
           "form": "ḗ̱n’a",
-          "ipa": "ˈɛːna",
+          "ipa": "ˈɛːn.a",
           "zazaki": "ena",
           "lemma": "ena",
           "display_gloss": "this",
@@ -12493,7 +12494,7 @@
         {
           "form": "gelā́ṅke",
           "ipa": "geˈlaːŋke",
-          "zazaki": "gêlangkê",
+          "zazaki": "gêlankê",
           "lemma": "gelanke",
           "display_gloss": "occasion",
           "gloss_tr": "sefer",
@@ -12502,7 +12503,7 @@
           "morphemes": [
             {
               "form": "gelā́ṅke",
-              "normalized": "gêlangkê",
+              "normalized": "gêlankê",
               "lemma": "gelanke",
               "gloss": "occasion",
               "pos": "",
@@ -12515,7 +12516,7 @@
         },
         {
           "form": "wén’a.",
-          "ipa": "ˈwena",
+          "ipa": "ˈwen.a",
           "zazaki": "wêna",
           "lemma": "wena",
           "display_gloss": "cut",
@@ -12573,7 +12574,7 @@
         {
           "form": "ve̱ṅg",
           "ipa": "vɛŋg",
-          "zazaki": "vengg",
+          "zazaki": "veng",
           "lemma": "veng",
           "display_gloss": "Sound, Audio, Voice",
           "gloss_tr": "ses",
@@ -12582,7 +12583,7 @@
           "morphemes": [
             {
               "form": "ve̱ṅg",
-              "normalized": "vengg",
+              "normalized": "veng",
               "lemma": "veng",
               "gloss": "Sound, Audio, Voice",
               "pos": "",
@@ -12668,7 +12669,7 @@
           "start": 8,
           "end": 10,
           "lerch": "ve̱ṅg dā",
-          "zazaki": "vengg da",
+          "zazaki": "veng da",
           "english": "called out",
           "turkish": "seslendi",
           "german": "schrie / rief",
@@ -12684,7 +12685,7 @@
       "title": "A03 line 13: Ahmed warns Ali Agha and Qasim's army enters",
       "text": "Aláh ī́zme me bi̥dú, e̱z túe vé̱ri eiχóe ki̥šén’a. Hʿāl ši ke Ah̔médi",
       "lerch": "Aláh ī́zme me bi̥dú, e̱z túe vé̱ri eiχóe ki̥šén’a. Hʿāl ši ke Ah̔médi",
-      "ipa": "aˈlah ˈiːzme me bɨˈdu ɛz ˈtwe ˈvɛri ejˈχoe kɨˈʃena ħaːl ʃi ke aħˈmedi",
+      "ipa": "aˈlah ˈiːzme me bɨˈdu ɛz ˈtwe ˈvɛri ejˈχoe kɨˈʃen.a ħaːl ʃi ke aħˈmedi",
       "zazaki": "Alah izmê mê bıdû ez twê veri êyxoê kışêna 'Hal şi kê A'hmêdi",
       "source_note": "",
       "russian_print_page": 101,
@@ -12696,7 +12697,7 @@
         },
         {
           "label": "IPA",
-          "value": "aˈlah ˈiːzme me bɨˈdu ɛz ˈtwe ˈvɛri ejˈχoe kɨˈʃena ħaːl ʃi ke aħˈmedi"
+          "value": "aˈlah ˈiːzme me bɨˈdu ɛz ˈtwe ˈvɛri ejˈχoe kɨˈʃen.a ħaːl ʃi ke aħˈmedi"
         },
         {
           "label": "ZAZAKI",
@@ -12921,7 +12922,7 @@
         },
         {
           "form": "ki̥šén’a.",
-          "ipa": "kɨˈʃena",
+          "ipa": "kɨˈʃen.a",
           "zazaki": "kışêna",
           "lemma": "kist",
           "display_gloss": "I will kill",
@@ -13717,8 +13718,8 @@
     {
       "id": "a04_l02",
       "title": "A04 line 02: Ahmed's resistance, deaths, and burial of the dead",
-      "text": "dai h̔ā́li bí̥ne t̮íd̮i rā́štiru. Hʿāl kaut. Ah̔médi χand̮éri h̔ā́lira vé̱te,",
-      "lerch": "dai h̔ā́li bí̥ne t̮íd̮i rā́štiru. Hʿāl kaut. Ah̔médi χand̮éri h̔ā́lira vé̱te,",
+      "text": "dai h̔ā́li bí̥ne t̮íd̮i rā́štiru. Hʿāl kaut. Ah̔médi χand̮éri h̔ā́lira vé̱te,",
+      "lerch": "dai h̔ā́li bí̥ne t̮íd̮i rā́štiru. Hʿāl kaut. Ah̔médi χand̮éri h̔ā́lira vé̱te,",
       "ipa": "daj ˈħaːli ˈbɨne ˈt͡ʃid͡ʒi ˈraːʃtiru ħaːl kawt aħˈmedi χanˈd͡ʒeri ˈħaːlira ˈvɛte",
       "zazaki": "day 'hali bınê çici raştirû 'Hal kawt A'hmêdi xancêri 'halira vetê",
       "source_note": "",
@@ -13727,7 +13728,7 @@
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "dai h̔ā́li bí̥ne t̮íd̮i rā́štiru. Hʿāl kaut. Ah̔médi χand̮éri h̔ā́lira vé̱te,"
+          "value": "dai h̔ā́li bí̥ne t̮íd̮i rā́štiru. Hʿāl kaut. Ah̔médi χand̮éri h̔ā́lira vé̱te,"
         },
         {
           "label": "IPA",
@@ -13852,7 +13853,7 @@
           ]
         },
         {
-          "form": "rā́štiru.",
+          "form": "rā́štiru.",
           "ipa": "ˈraːʃtiru",
           "zazaki": "raştirû",
           "lemma": "rastiru",
@@ -13862,7 +13863,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "rā́štiru",
+              "form": "rā́štiru",
               "normalized": "raştirû",
               "lemma": "rastiru",
               "gloss": "directly",
@@ -14028,7 +14029,7 @@
         {
           "start": 2,
           "end": 5,
-          "lerch": "bí̥ne t̮íd̮i rā́štiru.",
+          "lerch": "bí̥ne t̮íd̮i rā́štiru.",
           "zazaki": "bınê çici raştirû",
           "english": "straight into the right side of the chest",
           "turkish": "göğsünün sağ tarafına doğru",
@@ -14324,25 +14325,25 @@
     {
       "id": "a04_l04",
       "title": "A04 line 04: Ahmed's resistance, deaths, and burial of the dead",
-      "text": "t̮ímyiru, gó’eni bíe Ah̔médi t̮ími. Ah̔méd hyẹ̄rs be, hāut té̱ni pei",
-      "lerch": "t̮ímyiru, gó’eni bíe Ah̔médi t̮ími. Ah̔méd hyẹ̄rs be, hāut té̱ni pei",
-      "ipa": "ˈt͡ʃimjiru ˈgoeni ˈbje aħˈmedi ˈt͡ʃimi aħˈmed hje̝ːrs be haːwt ˈtɛni pej",
-      "zazaki": "çimyirû goêni byê A'hmêdi çimi A'hmêd hyêrs bê hawt teni pêy",
+      "text": "t̮ímyiru, gó’eni bíe Ah̔médi t̮ími. Ah̔méd hyẹ̄rs be, h̔aut té̱ni pei",
+      "lerch": "t̮ímyiru, gó’eni bíe Ah̔médi t̮ími. Ah̔méd hyẹ̄rs be, h̔aut té̱ni pei",
+      "ipa": "ˈt͡ʃimjiru ˈgo.eni ˈbje aħˈmedi ˈt͡ʃimi aħˈmed hje̝ːrs be ħawt ˈtɛni pej",
+      "zazaki": "çimyirû goêni byê A'hmêdi çimi A'hmêd hyêrs bê 'hawt teni pêy",
       "source_note": "",
       "russian_print_page": 102,
       "russian_scan_page": 116,
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "t̮ímyiru, gó’eni bíe Ah̔médi t̮ími. Ah̔méd hyẹ̄rs be, hāut té̱ni pei"
+          "value": "t̮ímyiru, gó’eni bíe Ah̔médi t̮ími. Ah̔méd hyẹ̄rs be, h̔aut té̱ni pei"
         },
         {
           "label": "IPA",
-          "value": "ˈt͡ʃimjiru ˈgoeni ˈbje aħˈmedi ˈt͡ʃimi aħˈmed hje̝ːrs be haːwt ˈtɛni pej"
+          "value": "ˈt͡ʃimjiru ˈgo.eni ˈbje aħˈmedi ˈt͡ʃimi aħˈmed hje̝ːrs be ħawt ˈtɛni pej"
         },
         {
           "label": "ZAZAKI",
-          "value": "çimyirû goêni byê A'hmêdi çimi A'hmêd hyêrs bê hawt teni pêy"
+          "value": "çimyirû goêni byê A'hmêdi çimi A'hmêd hyêrs bê 'hawt teni pêy"
         },
         {
           "label": "ENGLISH",
@@ -14391,7 +14392,7 @@
         },
         {
           "form": "gó’eni",
-          "ipa": "ˈgoeni",
+          "ipa": "ˈgo.eni",
           "zazaki": "goêni",
           "lemma": "goeni",
           "display_gloss": "blood",
@@ -14551,9 +14552,9 @@
           ]
         },
         {
-          "form": "hāut",
-          "ipa": "haːwt",
-          "zazaki": "hawt",
+          "form": "h̔aut",
+          "ipa": "ħawt",
+          "zazaki": "'hawt",
           "lemma": "haut",
           "display_gloss": "seven",
           "gloss_tr": "yedi",
@@ -14561,8 +14562,8 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "hāut",
-              "normalized": "hawt",
+              "form": "h̔aut",
+              "normalized": "'hawt",
               "lemma": "haut",
               "gloss": "seven",
               "pos": "",
@@ -14628,25 +14629,25 @@
     {
       "id": "a04_l05",
       "title": "A04 line 05: Ahmed's resistance, deaths, and burial of the dead",
-      "text": "áya χand̮éri kíšti. Ah̔méd kíšya. Hírye hé̱me̱ berá’i Ah̔médi baúke",
-      "lerch": "áya χand̮éri kíšti. Ah̔méd kíšya. Hírye hé̱me̱ berá’i Ah̔médi baúke",
-      "ipa": "ˈaja χanˈd͡ʒeri ˈkiʃti aħˈmed ˈkiʃja ˈhirje ˈhɛmɛ beˈrai aħˈmedi ˈbawke",
-      "zazaki": "aya xancêri kişti A'hmêd kişya Hiryê heme bêrai A'hmêdi bawkê",
+      "text": "áya χand̮éri kíšti. Ah̔méd kíšya. Hʿī́rye hé̱me̱ berá’i Ah̔médi baúke",
+      "lerch": "áya χand̮éri kíšti. Ah̔méd kíšya. Hʿī́rye hé̱me̱ berá’i Ah̔médi baúke",
+      "ipa": "ˈaja χanˈd͡ʒeri ˈkiʃti aħˈmed ˈkiʃja ˈħiːrje ˈhɛmɛ beˈra.i aħˈmedi ˈbawke",
+      "zazaki": "aya xancêri kişti A'hmêd kişya 'Hiryê heme bêrai A'hmêdi bawkê",
       "source_note": "Zazaki/Bingöl hewt/hāut and Russian seven support seven; the German prose translation has eight here and should be treated as a source mismatch.",
       "russian_print_page": 102,
       "russian_scan_page": 116,
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "áya χand̮éri kíšti. Ah̔méd kíšya. Hírye hé̱me̱ berá’i Ah̔médi baúke"
+          "value": "áya χand̮éri kíšti. Ah̔méd kíšya. Hʿī́rye hé̱me̱ berá’i Ah̔médi baúke"
         },
         {
           "label": "IPA",
-          "value": "ˈaja χanˈd͡ʒeri ˈkiʃti aħˈmed ˈkiʃja ˈhirje ˈhɛmɛ beˈrai aħˈmedi ˈbawke"
+          "value": "ˈaja χanˈd͡ʒeri ˈkiʃti aħˈmed ˈkiʃja ˈħiːrje ˈhɛmɛ beˈra.i aħˈmedi ˈbawke"
         },
         {
           "label": "ZAZAKI",
-          "value": "aya xancêri kişti A'hmêd kişya Hiryê heme bêrai A'hmêdi bawkê"
+          "value": "aya xancêri kişti A'hmêd kişya 'Hiryê heme bêrai A'hmêdi bawkê"
         },
         {
           "label": "ENGLISH",
@@ -14786,9 +14787,9 @@
           ]
         },
         {
-          "form": "Hírye",
-          "ipa": "ˈhirje",
-          "zazaki": "Hiryê",
+          "form": "Hʿī́rye",
+          "ipa": "ˈħiːrje",
+          "zazaki": "'Hiryê",
           "lemma": "hirye",
           "display_gloss": "three",
           "gloss_tr": "üç",
@@ -14796,8 +14797,8 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "Hírye",
-              "normalized": "Hiryê",
+              "form": "Hʿī́rye",
+              "normalized": "'Hiryê",
               "lemma": "hirye",
               "gloss": "three",
               "pos": "",
@@ -14833,7 +14834,7 @@
         },
         {
           "form": "berá’i",
-          "ipa": "beˈrai",
+          "ipa": "beˈra.i",
           "zazaki": "bêrai",
           "lemma": "berai",
           "display_gloss": "brothers",
@@ -14909,25 +14910,25 @@
     {
       "id": "a04_l06",
       "title": "A04 line 06: Ahmed's resistance, deaths, and burial of the dead",
-      "text": "ye kíšti. Des u heíšt té̱ni mē̱rdṳ́mi γarī́bi kíšti. E̱skér aγaíra še,",
-      "lerch": "ye kíšti. Des u heíšt té̱ni mē̱rdṳ́mi γarī́bi kíšti. E̱skér aγaíra še,",
-      "ipa": "je ˈkiʃti des u ˈhejʃt ˈtɛni mɛːrˈdymi ʁaˈriːbi ˈkiʃti ɛsˈker aˈʁajra ʃe",
-      "zazaki": "yê kişti Dês û hêyşt teni merdûmi ğaribi kişti Eskêr ağayra şê",
+      "text": "ye kíšti. Des u h̔eíšt té̱ni me̱rdṳ́mi γarī́bi kíšti. E̱skér aγaíra šẹ̄,",
+      "lerch": "ye kíšti. Des u h̔eíšt té̱ni me̱rdṳ́mi γarī́bi kíšti. E̱skér aγaíra šẹ̄,",
+      "ipa": "je ˈkiʃti des u ˈħejʃt ˈtɛni mɛrˈdymi ʁaˈriːbi ˈkiʃti ɛsˈker aˈʁajra ʃe̝ː",
+      "zazaki": "yê kişti Dês û 'hêyşt teni merdûmi ğaribi kişti Eskêr ağayra şê",
       "source_note": "",
       "russian_print_page": 102,
       "russian_scan_page": 116,
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "ye kíšti. Des u heíšt té̱ni mē̱rdṳ́mi γarī́bi kíšti. E̱skér aγaíra še,"
+          "value": "ye kíšti. Des u h̔eíšt té̱ni me̱rdṳ́mi γarī́bi kíšti. E̱skér aγaíra šẹ̄,"
         },
         {
           "label": "IPA",
-          "value": "je ˈkiʃti des u ˈhejʃt ˈtɛni mɛːrˈdymi ʁaˈriːbi ˈkiʃti ɛsˈker aˈʁajra ʃe"
+          "value": "je ˈkiʃti des u ˈħejʃt ˈtɛni mɛrˈdymi ʁaˈriːbi ˈkiʃti ɛsˈker aˈʁajra ʃe̝ː"
         },
         {
           "label": "ZAZAKI",
-          "value": "yê kişti Dês û hêyşt teni merdûmi ğaribi kişti Eskêr ağayra şê"
+          "value": "yê kişti Dês û 'hêyşt teni merdûmi ğaribi kişti Eskêr ağayra şê"
         },
         {
           "label": "ENGLISH",
@@ -15044,9 +15045,9 @@
           ]
         },
         {
-          "form": "heíšt",
-          "ipa": "ˈhejʃt",
-          "zazaki": "hêyşt",
+          "form": "h̔eíšt",
+          "ipa": "ˈħejʃt",
+          "zazaki": "'hêyşt",
           "lemma": "heist",
           "display_gloss": "eight",
           "gloss_tr": "sekiz",
@@ -15054,8 +15055,8 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "heíšt",
-              "normalized": "hêyşt",
+              "form": "h̔eíšt",
+              "normalized": "'hêyşt",
               "lemma": "heist",
               "gloss": "eight",
               "pos": "",
@@ -15090,8 +15091,8 @@
           ]
         },
         {
-          "form": "mē̱rdṳ́mi",
-          "ipa": "mɛːrˈdymi",
+          "form": "me̱rdṳ́mi",
+          "ipa": "mɛrˈdymi",
           "zazaki": "merdûmi",
           "lemma": "merdum",
           "display_gloss": "man",
@@ -15238,8 +15239,8 @@
           ]
         },
         {
-          "form": "še,",
-          "ipa": "ʃe",
+          "form": "šẹ̄,",
+          "ipa": "ʃe̝ː",
           "zazaki": "şê",
           "lemma": "se",
           "display_gloss": "left",
@@ -15248,7 +15249,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "še",
+              "form": "šẹ̄",
               "normalized": "şê",
               "lemma": "se",
               "gloss": "left",
@@ -15652,9 +15653,9 @@
     {
       "id": "a04_l08",
       "title": "A04 line 08: Ahmed's resistance, deaths, and burial of the dead",
-      "text": "heíšt mē̱rdṳ́mi γaribā́na pyéru méndi wáde̱de. So̤bá Mél’ai Resá",
-      "lerch": "heíšt mē̱rdṳ́mi γaribā́na pyéru méndi wáde̱de. So̤bá Mél’ai Resá",
-      "ipa": "ˈhejʃt mɛːrˈdymi ʁariˈbaːna ˈpjeru ˈmendi ˈwadɛde søˈba ˈmelaj reˈsa",
+      "text": "heišt me̱rdṳ́mi γaribā́na pyéru méndi wáde̱de. So̤bá Mél’ai Resá",
+      "lerch": "heišt me̱rdṳ́mi γaribā́na pyéru méndi wáde̱de. So̤bá Mél’ai Resá",
+      "ipa": "hejʃt mɛrˈdymi ʁariˈbaːna ˈpjeru ˈmendi ˈwadɛde søˈba ˈmel.aj reˈsa",
       "zazaki": "hêyşt merdûmi ğaribana pyêrû mêndi wadedê Soba Mêlay Rêsa",
       "source_note": "German has im Zimmer; update wadede as room here.",
       "russian_print_page": 102,
@@ -15662,11 +15663,11 @@
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "heíšt mē̱rdṳ́mi γaribā́na pyéru méndi wáde̱de. So̤bá Mél’ai Resá"
+          "value": "heišt me̱rdṳ́mi γaribā́na pyéru méndi wáde̱de. So̤bá Mél’ai Resá"
         },
         {
           "label": "IPA",
-          "value": "ˈhejʃt mɛːrˈdymi ʁariˈbaːna ˈpjeru ˈmendi ˈwadɛde søˈba ˈmelaj reˈsa"
+          "value": "hejʃt mɛrˈdymi ʁariˈbaːna ˈpjeru ˈmendi ˈwadɛde søˈba ˈmel.aj reˈsa"
         },
         {
           "label": "ZAZAKI",
@@ -15695,8 +15696,8 @@
       ],
       "tokens": [
         {
-          "form": "heíšt",
-          "ipa": "ˈhejʃt",
+          "form": "heišt",
+          "ipa": "hejʃt",
           "zazaki": "hêyşt",
           "lemma": "heist",
           "display_gloss": "eight",
@@ -15705,7 +15706,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "heíšt",
+              "form": "heišt",
               "normalized": "hêyşt",
               "lemma": "heist",
               "gloss": "eight",
@@ -15718,8 +15719,8 @@
           ]
         },
         {
-          "form": "mē̱rdṳ́mi",
-          "ipa": "mɛːrˈdymi",
+          "form": "me̱rdṳ́mi",
+          "ipa": "mɛrˈdymi",
           "zazaki": "merdûmi",
           "lemma": "merdum",
           "display_gloss": "man",
@@ -15901,7 +15902,7 @@
         },
         {
           "form": "Mél’ai",
-          "ipa": "ˈmelaj",
+          "ipa": "ˈmel.aj",
           "zazaki": "Mêlay",
           "lemma": "melai",
           "display_gloss": "mullah",
@@ -15956,8 +15957,8 @@
       "title": "A04 line 09: Ahmed's resistance, deaths, and burial of the dead",
       "text": "ve̱ṅg dā vā ke mél’a Qasími Desmúnd̮ira: bíeri d̮enazaí Áli aγaí",
       "lerch": "ve̱ṅg dā vā ke mél’a Qasími Desmúnd̮ira: bíeri d̮enazaí Áli aγaí",
-      "ipa": "vɛŋg daː vaː ke ˈmela qaˈsimi desˈmund͡ʒira ˈbjeri d͡ʒenaˈzaj ˈali aˈʁaj",
-      "zazaki": "vengg da va kê mêla Qasimi Dêsmûncira byêri cênazay Ali ağay",
+      "ipa": "vɛŋg daː vaː ke ˈmel.a qaˈsimi desˈmund͡ʒira ˈbjeri d͡ʒenaˈzaj ˈali aˈʁaj",
+      "zazaki": "veng da va kê mêla Qasimi Dêsmûncira byêri cênazay Ali ağay",
       "source_note": "",
       "russian_print_page": 102,
       "russian_scan_page": 116,
@@ -15968,11 +15969,11 @@
         },
         {
           "label": "IPA",
-          "value": "vɛŋg daː vaː ke ˈmela qaˈsimi desˈmund͡ʒira ˈbjeri d͡ʒenaˈzaj ˈali aˈʁaj"
+          "value": "vɛŋg daː vaː ke ˈmel.a qaˈsimi desˈmund͡ʒira ˈbjeri d͡ʒenaˈzaj ˈali aˈʁaj"
         },
         {
           "label": "ZAZAKI",
-          "value": "vengg da va kê mêla Qasimi Dêsmûncira byêri cênazay Ali ağay"
+          "value": "veng da va kê mêla Qasimi Dêsmûncira byêri cênazay Ali ağay"
         },
         {
           "label": "ENGLISH",
@@ -15999,7 +16000,7 @@
         {
           "form": "ve̱ṅg",
           "ipa": "vɛŋg",
-          "zazaki": "vengg",
+          "zazaki": "veng",
           "lemma": "veng",
           "display_gloss": "Sound, Audio, Voice",
           "gloss_tr": "ses",
@@ -16008,7 +16009,7 @@
           "morphemes": [
             {
               "form": "ve̱ṅg",
-              "normalized": "vengg",
+              "normalized": "veng",
               "lemma": "veng",
               "gloss": "Sound, Audio, Voice",
               "pos": "",
@@ -16090,7 +16091,7 @@
         },
         {
           "form": "mél’a",
-          "ipa": "ˈmela",
+          "ipa": "ˈmel.a",
           "zazaki": "mêla",
           "lemma": "mela",
           "display_gloss": "mullah",
@@ -16288,7 +16289,7 @@
           "start": 0,
           "end": 2,
           "lerch": "ve̱ṅg dā",
-          "zazaki": "vengg da",
+          "zazaki": "veng da",
           "english": "called out",
           "turkish": "seslendi",
           "german": "schrie / rief",
@@ -16302,9 +16303,9 @@
     {
       "id": "a04_l10",
       "title": "A04 line 10: Ahmed's resistance, deaths, and burial of the dead",
-      "text": "aílāna des u heíšt té̱ni mē̱rdṳ́mi γaribā́na h̔é̱tia bíeri bé̱ri we̱-",
-      "lerch": "aílāna des u heíšt té̱ni mē̱rdṳ́mi γaribā́na h̔é̱tia bíeri bé̱ri we̱-",
-      "ipa": "ˈajlaːna des u ˈhejʃt ˈtɛni mɛːrˈdymi ʁariˈbaːna ˈħɛtja ˈbjeri ˈbɛri wɛ",
+      "text": "aílāna des u heíšt té̱ni me̱rdṳ́mi γaribā́na h̔é̱tia bíeri bé̱ri we̱-",
+      "lerch": "aílāna des u heíšt té̱ni me̱rdṳ́mi γaribā́na h̔é̱tia bíeri bé̱ri we̱-",
+      "ipa": "ˈajlaːna des u ˈhejʃt ˈtɛni mɛrˈdymi ʁariˈbaːna ˈħɛtja ˈbjeri ˈbɛri wɛ",
       "zazaki": "aylana dês û hêyşt teni merdûmi ğaribana 'hetya byêri beri we",
       "source_note": "",
       "russian_print_page": 102,
@@ -16312,11 +16313,11 @@
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "aílāna des u heíšt té̱ni mē̱rdṳ́mi γaribā́na h̔é̱tia bíeri bé̱ri we̱-"
+          "value": "aílāna des u heíšt té̱ni me̱rdṳ́mi γaribā́na h̔é̱tia bíeri bé̱ri we̱-"
         },
         {
           "label": "IPA",
-          "value": "ˈajlaːna des u ˈhejʃt ˈtɛni mɛːrˈdymi ʁariˈbaːna ˈħɛtja ˈbjeri ˈbɛri wɛ"
+          "value": "ˈajlaːna des u ˈhejʃt ˈtɛni mɛrˈdymi ʁariˈbaːna ˈħɛtja ˈbjeri ˈbɛri wɛ"
         },
         {
           "label": "ZAZAKI",
@@ -16436,7 +16437,7 @@
           ]
         },
         {
-          "form": "heíšt",
+          "form": "heíšt",
           "ipa": "ˈhejʃt",
           "zazaki": "hêyşt",
           "lemma": "heist",
@@ -16446,7 +16447,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "heíšt",
+              "form": "heíšt",
               "normalized": "hêyşt",
               "lemma": "heist",
               "gloss": "eight",
@@ -16482,8 +16483,8 @@
           ]
         },
         {
-          "form": "mē̱rdṳ́mi",
-          "ipa": "mɛːrˈdymi",
+          "form": "me̱rdṳ́mi",
+          "ipa": "mɛrˈdymi",
           "zazaki": "merdûmi",
           "lemma": "merdum",
           "display_gloss": "man",
@@ -16674,7 +16675,7 @@
       "title": "A04 line 11: Ahmed's resistance, deaths, and burial of the dead",
       "text": "dari. Mél’a Qasím we̱ríšt Desmúnira, Meméd aγá we̱ríšt Γeítera,",
       "lerch": "dari. Mél’a Qasím we̱ríšt Desmúnira, Meméd aγá we̱ríšt Γeítera,",
-      "ipa": "dari ˈmela qaˈsim wɛˈriʃt desˈmunira meˈmed aˈʁa wɛˈriʃt ˈʁejtera",
+      "ipa": "dari ˈmel.a qaˈsim wɛˈriʃt desˈmunira meˈmed aˈʁa wɛˈriʃt ˈʁejtera",
       "zazaki": "dari Mêla Qasim werişt Dêsmûnira Mêmêd ağa werişt Ğêytêra",
       "source_note": "",
       "russian_print_page": 102,
@@ -16686,7 +16687,7 @@
         },
         {
           "label": "IPA",
-          "value": "dari ˈmela qaˈsim wɛˈriʃt desˈmunira meˈmed aˈʁa wɛˈriʃt ˈʁejtera"
+          "value": "dari ˈmel.a qaˈsim wɛˈriʃt desˈmunira meˈmed aˈʁa wɛˈriʃt ˈʁejtera"
         },
         {
           "label": "ZAZAKI",
@@ -16739,7 +16740,7 @@
         },
         {
           "form": "Mél’a",
-          "ipa": "ˈmela",
+          "ipa": "ˈmel.a",
           "zazaki": "Mêla",
           "lemma": "mela",
           "display_gloss": "mullah",
@@ -16952,9 +16953,9 @@
     {
       "id": "a04_l12",
       "title": "A04 line 12: Ahmed's resistance, deaths, and burial of the dead",
-      "text": "Ramedán aγaí we̱ríšt Merzyélera, ši, lé̱ši Áli aγaí lād̮ā́na des u",
-      "lerch": "Ramedán aγaí we̱ríšt Merzyélera, ši, lé̱ši Áli aγaí lād̮ā́na des u",
-      "ipa": "rameˈdan aˈʁaj wɛˈriʃt merzˈjelera ʃi ˈlɛʃi ˈali aˈʁaj laːˈd͡ʒaːna des u",
+      "text": "Ramedán aγaí we̱ríšt Merzyélera, ši, lé̱ši Áli aγaí lā́d̮āna des u",
+      "lerch": "Ramedán aγaí we̱ríšt Merzyélera, ši, lé̱ši Áli aγaí lā́d̮āna des u",
+      "ipa": "rameˈdan aˈʁaj wɛˈriʃt merzˈjelera ʃi ˈlɛʃi ˈali aˈʁaj ˈlaːd͡ʒaːna des u",
       "zazaki": "Ramêdan ağay werişt Mêrzyêlêra şi leşi Ali ağay lacana dês û",
       "source_note": "",
       "russian_print_page": 102,
@@ -16962,11 +16963,11 @@
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "Ramedán aγaí we̱ríšt Merzyélera, ši, lé̱ši Áli aγaí lād̮ā́na des u"
+          "value": "Ramedán aγaí we̱ríšt Merzyélera, ši, lé̱ši Áli aγaí lā́d̮āna des u"
         },
         {
           "label": "IPA",
-          "value": "rameˈdan aˈʁaj wɛˈriʃt merzˈjelera ʃi ˈlɛʃi ˈali aˈʁaj laːˈd͡ʒaːna des u"
+          "value": "rameˈdan aˈʁaj wɛˈriʃt merzˈjelera ʃi ˈlɛʃi ˈali aˈʁaj ˈlaːd͡ʒaːna des u"
         },
         {
           "label": "ZAZAKI",
@@ -17212,8 +17213,8 @@
           ]
         },
         {
-          "form": "lād̮ā́na",
-          "ipa": "laːˈd͡ʒaːna",
+          "form": "lā́d̮āna",
+          "ipa": "ˈlaːd͡ʒaːna",
           "zazaki": "lacana",
           "lemma": "lad",
           "display_gloss": "sons",
@@ -17311,9 +17312,9 @@
     {
       "id": "a04_l13",
       "title": "A04 line 13: Ahmed's resistance, deaths, and burial of the dead",
-      "text": "heíšt mē̱rdṳ́mi γaribā́na geraúti ā́rdi bé̱rdi we̱dé̱rti.",
-      "lerch": "heíšt mē̱rdṳ́mi γaribā́na geraúti ā́rdi bé̱rdi we̱dé̱rti.",
-      "ipa": "ˈhejʃt mɛːrˈdymi ʁariˈbaːna geˈrawti ˈaːrdi ˈbɛrdi wɛˈdɛrti",
+      "text": "heíšt mē̱rdúmi γaribā́na geraúti ā́rdi bé̱rdi we̱dé̱rti.",
+      "lerch": "heíšt mē̱rdúmi γaribā́na geraúti ā́rdi bé̱rdi we̱dé̱rti.",
+      "ipa": "ˈhejʃt mɛːrˈdumi ʁariˈbaːna geˈrawti ˈaːrdi ˈbɛrdi wɛˈdɛrti",
       "zazaki": "hêyşt merdûmi ğaribana gêrawti ardi berdi wederti",
       "source_note": "Russian and German both confirm the final action as taking away and burying the bodies.",
       "russian_print_page": 102,
@@ -17321,11 +17322,11 @@
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "heíšt mē̱rdṳ́mi γaribā́na geraúti ā́rdi bé̱rdi we̱dé̱rti."
+          "value": "heíšt mē̱rdúmi γaribā́na geraúti ā́rdi bé̱rdi we̱dé̱rti."
         },
         {
           "label": "IPA",
-          "value": "ˈhejʃt mɛːrˈdymi ʁariˈbaːna geˈrawti ˈaːrdi ˈbɛrdi wɛˈdɛrti"
+          "value": "ˈhejʃt mɛːrˈdumi ʁariˈbaːna geˈrawti ˈaːrdi ˈbɛrdi wɛˈdɛrti"
         },
         {
           "label": "ZAZAKI",
@@ -17377,8 +17378,8 @@
           ]
         },
         {
-          "form": "mē̱rdṳ́mi",
-          "ipa": "mɛːrˈdymi",
+          "form": "mē̱rdúmi",
+          "ipa": "mɛːrˈdumi",
           "zazaki": "merdûmi",
           "lemma": "merdum",
           "display_gloss": "man",

@@ -8,5 +8,6 @@
   "status": "reviewed working edition",
   "line_count": 51,
   "token_count": 575,
-  "lltools_payload": "text-document.json"
+  "lltools_payload": "text-document.json",
+  "reviewed_transcription_synced_at": "2026-05-15"
 }
