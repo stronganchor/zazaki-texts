@@ -8,9 +8,7 @@ Mel'a Ahmed's son said: 'You are from Nerib; from which Nerib?' The thief said: 
 
 Mel'a Ahmed's son said: 'From which mahalle are you?' The thief said that: 'I am from the Seinān mahalle.
 
-Mel'a Ahmed's son said: 'Why did you come into my house?' The thief said: 'I am Neribian; I came into your house to steal.
-
-Since you caught me here, know that I am strong.
+Mel'a Ahmed's son said: 'Why did you come into my house?' The thief said: 'I am Neribian; I came into your house to steal. Since you caught me here, know that I am strong.
 
 Mel'a Ahmed's son immediately killed the thief and sent a messenger to Nerib, to Xalef Agha, saying: 'Do not come to Hyeni; you fought there; you killed everyone in Hyeni and brought them under safe-conduct.
 
@@ -30,9 +28,7 @@ Avdulah Agha sent a message to the villagers: 'Do not fear; the heads are mine, 
 
 The villagers said: 'We will not delay tonight; we will set out and go to the stream Sele to fight, so do not delay, and you come too.
 
-In the morning Avdulah Agha mounted his horse, gathered his army and said to it: 'Sons, do not delay; we are going to battle.
-
-Do not fear; the Nerib people are few; this is a tribal feud; heads are mine, property yours.'
+In the morning Avdulah Agha mounted his horse, gathered his army and said to it: 'Sons, do not delay; we are going to battle. Do not fear; the Nerib people are few; this is a tribal feud; heads are mine, property yours.'
 
 The drum was struck; Avdulah Agha led the army and went to the stream Sele, but Xalef Agha's army had not come; he ordered movement and said to his army: 'The heads are mine, the property yours; burn the villages.
 
@@ -72,9 +68,7 @@ Haider Agha went three times and kissed Avdulah Agha's feet, saying: 'Agha, this
 
 Avdulah Agha said to Haider Agha: 'If you had not come, I would not have given Xalef Agha one boy back; I would have burned all the Nerib villages and plundered everything, but because you came, I grant Xalef Agha to you.
 
-Haider Agha kissed Avdulah Agha on the head, went and brought Xalef Agha, and kissed Avdulah Agha's feet.
-
-Avdulah Agha kissed Xalef Agha's hand; they reconciled and exchanged robes of honor.
+Haider Agha kissed Avdulah Agha on the head, went and brought Xalef Agha, and kissed Avdulah Agha's feet. Avdulah Agha kissed Xalef Agha's hand; they reconciled and exchanged robes of honor.
 
 Haider Agha mounted, took leave of Avdulah Agha, took Xalef Agha and went home.
 

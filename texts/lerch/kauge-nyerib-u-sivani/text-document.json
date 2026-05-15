@@ -32,7 +32,7 @@
   "summary": {
     "lines": 75,
     "source_lines": 75,
-    "reading_units": 40,
+    "reading_units": 37,
     "tokens": 796
   },
   "witnesses": [
@@ -88,517 +88,336 @@
   "reading_units": [
     {
       "id": "u01",
-      "source": "Veri coan yaw lacêkû Nyêrbic şê Sivang 'Horsigê dızdêyê bani Mêla A'hmêdi Qafan akêrd pûrti Mêla A'hmêdi Qafan gêrawt bêrû Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd tepişt va kê",
+      "source": "Veri coan yaw lacêkû Nyêrbic şê Sivang, 'Horsigê dızdêyê, bani Mêla A'hmêdi Qafan akêrd, pûrti Mêla A'hmêdi Qafan gêrawt bêrû.",
       "translations": {
         "tr": "Eskiden Nyêrib'den bir genç Sivan aşiretine, Horsig'e hırsızlığa gitti; Mela Ahmedi Qafon'un evini açtı ve Mela Ahmedi Qafon'un kürkünü aldı ve götürdü.",
         "en": "Once a young man from Nerib went to the Sivan tribe, to Horsig, to steal; he opened Mel'a Ahmed Qafan's house and took Mel'a Ahmed Qafan's fur coat and carried it off.",
         "de": "Einst ging ein junger Mann aus Nerib nach Horsig in Sivän, um zu stehlen, öffnete das Haus des Mel'a Ahmed Qafan, nahm dessen Pelz (und) ging damit davon (trug ihn davon)."
-      },
-      "source_line_ids": [
-        "s01_l02",
-        "s01_l03",
-        "s01_l04"
-      ]
+      }
     },
     {
       "id": "u02",
-      "source": "dızdê ra tê qangcaray Dızdi va kê ez Nyêribraya Laci Mêla A'h",
+      "source": "Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd, tepişt va kê dızdê ra: tê qangcaray. Dızdi va kê: ez Nyêribraya.",
       "translations": {
         "tr": "Mela Ahmed'in oğlu Huseyin o hırsızı gördü, yakaladı ve hırsıza dedi ki: 'Sen nerelisin?' Hırsız dedi ki: 'Ben Nyêrib'denim.",
         "en": "Mel'a Ahmed's son Husein saw that thief, seized him, and said to the thief: 'Where are you from?' The thief said: 'I am from Nerib.",
         "de": "Der Sohn Mel'a Ahmed’s, Husein bemerkte diesen Dieb, packte (ihn und) sagte (ihm): wo bist du her? Der Dieb sagte: ich bin aus Nerib."
-      },
-      "source_line_ids": [
-        "s01_l05"
-      ]
+      }
     },
     {
       "id": "u03",
-      "source": "mêdi va kê tê Nyêribdê qam Nyêribdêy Dızdi va kê ez Deştêy",
+      "source": "Laci Mêla A'hmêdi va kê: tê Nyêribdê, qam Nyêribdêy. Dızdi va kê: ez Deştêy 'Henzira.",
       "translations": {
         "tr": "Mela Ahmed'in oğlu dedi ki: 'Nyêrib'densin; hangi Nyêrib'densin?' Hırsız dedi ki: 'Ben Deştê Henzi'denim.",
         "en": "Mel'a Ahmed's son said: 'You are from Nerib; from which Nerib?' The thief said: 'I am from Destei Henzi.",
         "de": "Der Sohn Mel’a Ahmed’s sagte: du bist aus Nerib, aus welchem Nerib? Der Dieb sagte: ich bin aus Destei Henzi."
-      },
-      "source_line_ids": [
-        "s01_l06"
-      ]
+      }
     },
     {
       "id": "u04",
-      "source": "'Henzira Laci Mêla A'hmêdi va kê tê qam me'hladi Dızdi va kê ez me'hlay Şêynangda Laci Mêla A'hmêdi va kê tê qawi amêy",
+      "source": "Laci Mêla A'hmêdi va kê: tê qam me'hladi. Dızdi va kê: ez me'hlay Şêynangda.",
       "translations": {
         "tr": "Mela Ahmed'in oğlu dedi ki: 'Hangi mahalledensin?' Hırsız dedi ki: 'Şeynan mahallesindeyim.",
         "en": "Mel'a Ahmed's son said: 'From which mahalle are you?' The thief said that: 'I am from the Seinān mahalle.",
         "de": "Der Sohn Mel'a Ahmed’s fragte: aus welchem Mahal? Der Dieb sagte: aus dem Mahal Seinän."
-      },
-      "source_line_ids": [
-        "s01_l07",
-        "s01_l08"
-      ]
+      }
     },
     {
       "id": "u05",
-      "source": "malê mê bêni Dızdi va kê ez Nyêrbida amêya malê twê dızdêy",
+      "source": "Laci Mêla A'hmêdi va kê: tê qawi amêy malê mê bêni. Dızdi va kê: ez Nyêrbida amêya malê twê, dızdêy bıkêra, bêra twê ez dyang, lakimkê ez ha bêna, zor bêna.",
       "translations": {
-        "tr": "Mela Ahmed'in oğlu dedi ki: 'Niçin geldin benim evime?' Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim, hırsızlık etmek için.",
-        "en": "Mel'a Ahmed's son said: 'Why did you come into my house?' The thief said: 'I am Neribian; I came into your house to steal.",
-        "de": "Mel'a Ahmed’s Sohn fragte: warum kamst du? warum bist du in meinem Hause? Der Dieb antwortete ich (Einwohner) von Nerib kam in dein Haus, um Diebstahl zu verüben."
-      },
-      "source_line_ids": [
-        "s01_l09"
-      ]
+        "tr": "Mela Ahmed'in oğlu dedi ki: 'Niçin geldin benim evime?' Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim, hırsızlık etmek için. Sen beni burada yakaladın; fakat bil ki ben güçlüyüm.",
+        "en": "Mel'a Ahmed's son said: 'Why did you come into my house?' The thief said: 'I am Neribian; I came into your house to steal. Since you caught me here, know that I am strong.",
+        "de": "Mel'a Ahmed’s Sohn fragte: warum kamst du? warum bist du in meinem Hause? Der Dieb antwortete ich (Einwohner) von Nerib kam in dein Haus, um Diebstahl zu verüben. Und wurde von dir hier getroffen, darum bin ich hier, (wisse aber,) dass ich stark bin."
+      }
     },
     {
       "id": "u06",
-      "source": "bıkêra bêra twê ez dyang lakimkê ez ha bêna zor bêna Laci",
-      "translations": {
-        "tr": "Sen beni burada yakaladın; fakat bil ki ben güçlüyüm.",
-        "en": "Since you caught me here, know that I am strong.",
-        "de": "Und wurde von dir hier getroffen, darum bin ich hier, (wisse aber,) dass ich stark bin."
-      },
-      "source_line_ids": [
-        "s01_l10"
-      ]
-    },
-    {
-      "id": "u07",
-      "source": "Mêla A'hmêdi wica serêy dızdi têra kêrd 'habêrê êrşawûtê Nyê rib Xalef ağayri va kê we Xyeni nêbê twê têdê kawğê kêrdini tû 'Hyênici pyêrû kişti ardi emani ser Xalef ağay 'habêrê erşaw",
+      "source": "Laci Mêla A'hmêdi wica serêy dızdi têra kêrd, 'habêrê êrşawûtê Nyêrib Xalef ağayri va kê: we Xyeni nêbê, twê têdê kawğê kêrdini, tû 'Hyênici pyêrû kişti ardi emani ser.",
       "translations": {
         "tr": "Mela Ahmed'in oğlu hemen hırsızı öldürdü ve Nyêrib'e, Xalef Ağa'ya haber gönderdi, dedi ki: 'Hêni'ye gelme; sen orada kavga ettin; Hêni'de herkesi öldürüp emana getirdin.",
         "en": "Mel'a Ahmed's son immediately killed the thief and sent a messenger to Nerib, to Xalef Agha, saying: 'Do not come to Hyeni; you fought there; you killed everyone in Hyeni and brought them under safe-conduct.",
         "de": "Mel’a Ahmed's Sohn erschlug sogleich den Dieb, sandte einen Boten zu Xalef Agha und liess sagen: komme nicht nach Hyeni (?)."
-      },
-      "source_line_ids": [
-        "s01_l11",
-        "s01_l12",
-        "s01_l13"
-      ]
+      }
     },
     {
-      "id": "u08",
-      "source": "ûtê Avdûlah ağay Kêlang va kê mê Nyêribdê kawğê kêrd la kimkê wexti xoêdê 'hadre bê twê merdûmi mê kişt bızani kê ez vist merdûmi twê yaw merdûmi xoê vera kişênya Avdûlah ağay",
+      "id": "u07",
+      "source": "Xalef ağay 'habêrê erşawûtê Avdûlah ağay Kêlang va kê: mê Nyêribdê kawğê kêrd, lakimkê wexti xoêdê 'hadre bê, twê merdûmi mê kişt, bızani kê: ez vist merdûmi twê yaw merdûmi xoê vera kişênya.",
       "translations": {
         "tr": "Xalef Ağa, Kelanlı Avdulah Ağa'ya haber gönderip dedi ki: 'Nyêrib'le kavga ettim, fakat kendi vaktinde hazır ol; adamlarımdan birini öldürdün; bil ki ben, benim bir adamıma karşı senin yirmi adamını öldüreceğim.",
         "en": "Xalef Agha sent a message to Avdulah Agha of Kelan, saying: 'I fought with Nerib, but be ready at your own time; you killed one of my men; know that I will kill twenty of yours for one of mine.",
         "de": "Xalef Agha sandte einen Boten zu Avdül’ah Agha nach Kelan und liess sagen: ich habe mit (denen von) Nerib gekämpft (?), darum sei zu deiner Zeit bereit, du hast einen der Meinigen erschlagen, (so) wisse (denn), dass ich für einen der Meinigen zwanzig der Deinigen tödten werde."
-      },
-      "source_line_ids": [
-        "s02_l01",
-        "s02_l02",
-        "s02_l03"
-      ]
+      }
     },
     {
-      "id": "u09",
-      "source": "'habêrê êrşawûtê Xalef ağayri va kê waxtê xoêdê 'hadre bê ez mêyştê eskêri xoê gêna yêna awkay Şêlê ver tızi wicara eskêri xoê bıgi byê Cayt ver ma kawğê bıki nyavawkê tê serêy mê wêni nyavawkê ez serêy twê wêna Xalef ağay 'habêr erşawûtê Av",
+      "id": "u08",
+      "source": "Avdûlah ağay 'habêrê êrşawûtê Xalef ağayri va kê: waxtê xoêdê 'hadre bê, ez mêyştê eskêri xoê gêna, yêna awkay Şêlê ver, tızi wicara eskêri xoê bıgi, byê Cayt ver, ma kawğê bıki, nyavawkê tê serêy mê wêni, nyavawkê ez serêy twê wêna.",
       "translations": {
         "tr": "Avdulah Ağa Xalef Ağa'ya haber gönderdi: 'Kendi vaktinde hazır ol; ben yarın ordumu götürüp Sele deresine geleceğim; sen de ordunu götürüp Dait tarafına gel; ya sen benim başımı kesinceye kadar ya da ben senin başını kesinceye kadar kavga edeceğiz.",
         "en": "Avdulah Agha sent a message to Xalef Agha: 'Be ready at your own time; I will lead my army tomorrow and come to the stream Sele; you too bring your army and come toward Dait; we will fight until you cut off my head, or until I cut off yours.",
         "de": "Avdül’ah Agha sandte einen Boten zu Xalef Agha und liess sagen: sei deiner Zeit bereit, morgen führe ich mein Heer, komme zum Bache Sel’e, führe auch du dein Heer dorthin, komme gen Dait, wir werden uns lange schlagen, bis du mich oder ich dich getödtet habe."
-      },
-      "source_line_ids": [
-        "s02_l04",
-        "s02_l05",
-        "s02_l06",
-        "s02_l07"
-      ]
+      }
     },
     {
-      "id": "u10",
-      "source": "dûlah ağayri va kê eskêri mê 'hadraw enkay ez amêya Dêyştêdê tızi warzê eskêri xoê bıgi byê awkay Şêlê ver ma kawğe bıki",
+      "id": "u09",
+      "source": "Xalef ağay 'habêr erşawûtê Avdûlah ağayri va kê: eskêri mê 'hadraw, enkay ez amêya Dêyştêdê tızi warzê eskêri xoê bıgi, byê awkay Şêlê ver, ma kawğe bıki.",
       "translations": {
         "tr": "Xalef Ağa Avdulah Ağa'ya haber gönderdi: 'Ordum hazır; Deştê'ye varır varmaz sen de kalk, ordunu götür ve Sele deresine gel; kavga edeceğiz.",
         "en": "Xalef Agha sent a message to Avdulah Agha: 'My army is ready; as soon as I come to Deste you too rise, lead your army, and come to the stream Sele; we will fight.",
         "de": "Xalef Agha sandte, einen Boten zu Avdül’ah Agha und liess sagen: mein Heer ist bereit, sobald ich nach Dait komme breche du auch auf, führe dein Heer (und) komme zum Bache Sel’e, wir wollen uns schlagen."
-      },
-      "source_line_ids": [
-        "s02_l08",
-        "s02_l09"
-      ]
+      }
     },
     {
-      "id": "u11",
-      "source": "Enoê kawğe Tırkan nyû enoê kawğê aşiranû tı byê xoêri vyênê",
+      "id": "u10",
+      "source": "Enoê kawğe Tırkan nyû, enoê kawğê aşiranû, tı byê xoêri vyênê.",
       "translations": {
         "tr": "Bu Türklerle bir savaş değil; bu bir aşiret kavgası; gelmeye bak.",
         "en": "This is not a fight with Turks; this is a tribal feud; see that you come.",
         "de": "Dies wird kein Kampf zwischen Türken, sondern eine Stammesfehde sein, sieh zu, dass du kommst."
-      },
-      "source_line_ids": [
-        "s02_l10"
-      ]
+      }
     },
     {
-      "id": "u12",
-      "source": "Avdûlah ağay 'habêr erşawûtê dawang va kê çaw mevindi mêyştê awkay Şêlê verdê kawğê maw Nyêrbicanû Dawang 'habêr erşawûtê",
+      "id": "u11",
+      "source": "Avdûlah ağay 'habêr erşawûtê dawang va kê: çaw mevindi, mêyştê awkay Şêlê verdê kawğê maw, Nyêrbicanû.",
       "translations": {
         "tr": "Avdulah Ağa köylülere haber gönderdi: 'Kimse gecikmesin; yarın Sele deresinde Nyêriblilerle kavgamız var.",
         "en": "Avdulah Agha sent a message to the villagers: 'Let no one delay; tomorrow we have a fight at the stream Sele with the Nerib people.",
         "de": "Avdül’ah Agha sandte Botschaft zu den Dorfbewohnern und liess sagen: dass Keiner säume, morgen haben wir einen Kampf bei dem Bache Sel'e mit denen von Nerib."
-      },
-      "source_line_ids": [
-        "s02_l11",
-        "s02_l12"
-      ]
+      }
     },
     {
-      "id": "u13",
-      "source": "Avdûlah ağayri va kê mevindê çikas mali Nyêribi estû bıdê ma ma pêynyay dawani Nyêribi veşnêni Avdûlah ağay 'habêr erşawûtê",
+      "id": "u12",
+      "source": "Dawang 'habêr erşawûtê Avdûlah ağayri va kê: mevindê, çikas mali Nyêribi estû bıdê ma, ma pêynyay dawani Nyêribi veşnêni.",
       "translations": {
         "tr": "Köylüler haber gönderdi Avdulah Ağa'ya: 'Gecikme; Nyêrib'deki bütün malı bize ver, biz de Nyêrib köylerinin hepsini yakacağız.",
         "en": "The villagers sent a message to Avdulah Agha: 'Do not delay; give us all the property in Nerib, and we will burn all the Nerib villages.",
         "de": "Die Dorfbewohner sandten einen Boten zu Avdül'ah Agha und liessen sagen: säume nicht, alles Eigenthum, welches es nur giebt in Nerib, überlasse du uns, wir wollen die Dörfer in Nerib niederbrennen."
-      },
-      "source_line_ids": [
-        "s02_l13",
-        "s02_l14"
-      ]
+      }
     },
     {
-      "id": "u14",
-      "source": "dawani va ke metêrsi seri mıri mal şımari Dawang va kê ma",
+      "id": "u13",
+      "source": "Avdûlah ağay 'habêr erşawûtê dawani va ke: metêrsi, seri mıri, mal şımari.",
       "translations": {
         "tr": "Avdulah Ağa haber gönderdi köylülere: 'Korkmayın; başlar benim, mal sizin.",
         "en": "Avdulah Agha sent a message to the villagers: 'Do not fear; the heads are mine, the property is yours.",
         "de": "Avdül’ah Agha sandte einen Boten zu den Dorfbewohnern und liess sagen: fürchtet nicht, die Köpfe (gehören) mir, das Eigenthum (gehört) euch."
-      },
-      "source_line_ids": [
-        "s02_l15"
-      ]
+      }
     },
     {
-      "id": "u15",
-      "source": "emşoê nyêvindêni ma vardêni ma swêni awkay Şêlê vêr kawğe kêni mevindê tızi byê Sêbah Avdûlah ağa werişt bê êspar",
+      "id": "u14",
+      "source": "Dawang va kê: ma emşoê nyêvindêni, ma vardêni, ma swêni awkay Şêlê vêr, kawğe kêni, mevindê, tızi byê.",
       "translations": {
         "tr": "Köylüler dedi ki: 'Biz bu gece gecikmeyeceğiz; yola çıkıp Sele deresine kavga etmeye gideceğiz, sen de gecikme, gel.",
         "en": "The villagers said: 'We will not delay tonight; we will set out and go to the stream Sele to fight, so do not delay, and you come too.",
         "de": "Die Dorfbewohner sagten: diese Nacht werden wir nicht säumen, werden aufbrechen, werden zum Bache Sel'e kommen und uns schlagen, säume nicht, komme auch du."
-      },
-      "source_line_ids": [
-        "s03_l01",
-        "s03_l02"
-      ]
+      }
+    },
+    {
+      "id": "u15",
+      "source": "Sêbah Avdûlah ağa werişt bê êspar, eskêri xoê top kêrd, va kê eskêri xoêra: oğil, mevindi, ma şyêri kawğe, metêrsi, Nyêrbici çani, kawğe aşiranû, serê mıri, mal şı-mari.",
+      "translations": {
+        "tr": "Sabah Avdulah Ağa ata bindi, ordusunu topladı ve ordusuna dedi ki: 'Oğullar, gecikmeyin; kavgaya gidiyoruz. Korkmayın; Nyêribliler azdır; bu aşiret kavgası; başlar benim, mal sizin.'",
+        "en": "In the morning Avdulah Agha mounted his horse, gathered his army and said to it: 'Sons, do not delay; we are going to battle. Do not fear; the Nerib people are few; this is a tribal feud; heads are mine, property yours.'",
+        "de": "Am Morgen sass Avdül'ah Agha auf, versammelte seine Schaar und sagte zu ihr: Söhne, zögert nicht, wir gehen zum Kampf. Fürchtet euch nicht, derer von Nerib sind wenige, es ist eine Stammesfehde, die Köpfe (gehören) mir, die Beute (gehört) euch."
+      }
     },
     {
       "id": "u16",
-      "source": "eskêri xoê top kêrd va kê eskêri xoêra oğil mevindi ma şyêri",
-      "translations": {
-        "tr": "Sabah Avdulah Ağa ata bindi, ordusunu topladı ve ordusuna dedi ki: 'Oğullar, gecikmeyin; kavgaya gidiyoruz.",
-        "en": "In the morning Avdulah Agha mounted his horse, gathered his army and said to it: 'Sons, do not delay; we are going to battle.",
-        "de": "Am Morgen sass Avdül'ah Agha auf, versammelte seine Schaar und sagte zu ihr: Söhne, zögert nicht, wir gehen zum Kampf."
-      },
-      "source_line_ids": [
-        "s03_l03"
-      ]
-    },
-    {
-      "id": "u17",
-      "source": "kawğe metêrsi Nyêrbici çani kawğe aşiranû serê mıri mal şı-mari",
-      "translations": {
-        "tr": "Korkmayın; Nyêribliler azdır; bu aşiret kavgası; başlar benim, mal sizin.'",
-        "en": "Do not fear; the Nerib people are few; this is a tribal feud; heads are mine, property yours.'",
-        "de": "Fürchtet euch nicht, derer von Nerib sind wenige, es ist eine Stammesfehde, die Köpfe (gehören) mir, die Beute (gehört) euch."
-      },
-      "source_line_ids": [
-        "s03_l04"
-      ]
-    },
-    {
-      "id": "u18",
-      "source": "Dûmilbazi day pûroê Avdûlah ağa kawt eskêri ver şê awkay Şêlê ver eskêri Xalef ağay nyamaw erş kêrd va kê eskêri xoêra serê mıri mal şımari dawang veşni Eskêrê Avdûlah ağay şê",
+      "source": "Dûmilbazi day pûroê, Avdûlah ağa kawt eskêri ver, şê awkay Şêlê ver, eskêri Xalef ağay nyamaw, erş kêrd, va kê eskêri xoêra: serê mıri, mal şımari, dawang veşni.",
       "translations": {
         "tr": "Davul vuruldu; Avdulah Ağa orduyu götürüp Sele deresine gitti, ama Xalef Ağa'nın ordusu gelmemişti; yürümeyi emretti ve ordusuna dedi ki: 'Başlar benim, mal sizin; köyleri yakın.",
         "en": "The drum was struck; Avdulah Agha led the army and went to the stream Sele, but Xalef Agha's army had not come; he ordered movement and said to his army: 'The heads are mine, the property yours; burn the villages.",
         "de": "Man schlug die Trommel (und) Avdül ah Agha führte sein Heer zum Bache Sel'e; Xalef Agha ’s Heer war (aber) nicht gekommen; (da) befahl er sich in Bewegung zu setzen und sagte zu seiner Schar: die Köpfe (gehören) mir, die Beute (gehört) euch, sengt die Dörfer."
-      },
-      "source_line_ids": [
-        "s03_l05",
-        "s03_l06",
-        "s03_l07"
-      ]
+      }
     },
     {
-      "id": "u19",
-      "source": "dewi Xalef ağay gêrawti şêş dewi veşnay ağêray amêy kêyyê Avdûlah ağa da mal eskêri xoê",
+      "id": "u17",
+      "source": "Eskêrê Avdûlah ağay şê dewi Xalef ağay, gêrawti şêş dewi, veşnay, ağêray, amêy kêyyê, Avdûlah ağa da mal eskêri xoê.",
       "translations": {
         "tr": "Avdulah Ağa'nın ordusu Xalef Ağa'nın köylerine gitti, altı köyü aldı, yaktı, geri dönüp eve geldi; Avdulah Ağa malı ordusuna verdi.",
         "en": "Avdulah Agha's army went to Xalef Agha's villages, took six villages, burned them, returned, and came home; Avdulah Agha gave the property to his army.",
         "de": "Avdül’ah Agha’s Heer ging auf die Dörfer Xalef Agha’s, nahm sechs Dörfer, brannte sie nieder, zog sich zurück und kehrte heim."
-      },
-      "source_line_ids": [
-        "s03_l08",
-        "s03_l09"
-      ]
+      }
     },
     {
-      "id": "u20",
-      "source": "Yaw aşmê mênd Xalef ağay 'habêrê erşawûtê Avdûlah ağayri",
+      "id": "u18",
+      "source": "Yaw aşmê mênd.",
       "translations": {
         "tr": "Bir ay geçti.",
         "en": "A month passed.",
         "de": "Avdül'ah Agha überliess die Beute seinem Heere."
-      },
-      "source_line_ids": [
-        "s03_l10"
-      ]
+      }
     },
     {
-      "id": "u21",
-      "source": "va kê twe ehêndê eskêri mê kişt twê şeş dawê mê veşnay taalan kêrdi waxtê xoêdê 'hadre bê ez ena gêlankê yêna qancawkê dewi twê mê di ez veşnêna taalan kêna heta yaw şewê çoa cû'hi nyêvêrdana heminê serê bırmêna Avdûlah ağay 'habêr er",
+      "id": "u19",
+      "source": "Xalef ağay 'habêrê erşawûtê Avdûlah ağayri va kê: twe ehêndê eskêri mê kişt, twê şeş dawê mê veşnay, taalan kêrdi, waxtê xoêdê 'hadre bê, ez ena gêlankê yêna, qancawkê dewi twê mê di ez veşnêna, taalan kêna heta yaw şewê, çoacû'hi nyêvêrdana, heminê serê bırmêna.",
       "translations": {
         "tr": "Xalef Ağa Avdulah Ağa'ya haber gönderdi dedi ki: 'Ordumdan bazılarını öldürdün, altı köyümü yaktın ve talan ettin; kendi vaktinde hazır ol; bu sefer ben geleceğim ve her nerede senin bir köyünü görürsem, geceye kadar yakıp talan edeceğim; çocuk bile bağışlamayacağım; herkesin başını keseceğim.",
         "en": "Xalef Agha sent a message to Avdulah Agha saying: 'You killed some of my army, burned six of my villages, and plundered; be ready at your own time; this time I will come, and wherever I see one of your villages, I will burn and plunder until night; no child will I spare; I will cut off everyone's heads.",
         "de": "Es verging ein Monat."
-      },
-      "source_line_ids": [
-        "s03_l11",
-        "s03_l12",
-        "s03_l13",
-        "s04_l01"
-      ]
+      }
     },
     {
-      "id": "u22",
-      "source": "şawûtê Xalef ağayri va kê cay xoêdê rê'hat vındê ekê ena gê lankê ez amêya twêra yaw kêrga koêrê nyêvêrdanû Xalef ağay",
+      "id": "u20",
+      "source": "Avdûlah ağay 'habêr erşawûtê Xalef ağayri va kê: cay xoêdê rê'hat vındê, ekê ena gêlankê ez amêya twêra yaw kêrga koêrê nyêvêrdanû.",
       "translations": {
         "tr": "Avdulah Ağa Xalef Ağa'ya haber gönderdi: 'Olduğun yerde rahat dur; bu sefer sana gelirsem bir kör tavuğu bile bağışlamayacağım.",
         "en": "Avdulah Agha sent a message to Xalef Agha: 'Stay calmly where you are; if this time I come to you, I will not spare even one blind hen.",
         "de": "Xalef Agha sandte einen Boten zu Avdül’ah Agha und liess sagen: du hast Einige aus meinem Heere getödtet, du hast sechs meiner Dörfer niedergebrannt (und) geplündert, sei deiner Zeit bereit, dieses Mal komme ich, auf welche deiner Dörfer ich auch nur stosse, ich brenne sie nieder und plündere sie bis in die Nacht hinein, verschone kein Kind, reisse Allen die Köpfe Avdül ah Agha sandte einen Boten zu Xalef Agha nnd liess sagen: bleibe nur wo du bist, wenn ich dieses Mal komme, verschone ich bei dir kein blindes Huhn."
-      },
-      "source_line_ids": [
-        "s04_l02",
-        "s04_l03"
-      ]
+      }
     },
     {
-      "id": "u23",
-      "source": "'habêr erşawûtê Avdûlah ağayri va kê tê byê xoêri vyênê Av",
+      "id": "u21",
+      "source": "Xalef ağay 'habêr erşawûtê Avdûlah ağayri va kê: tê byê xoêri, vyênê.",
       "translations": {
         "tr": "Xalef Ağa Avdulah Ağa'ya haber gönderdi: 'Gelmeye bak.",
         "en": "Xalef Agha sent a message to Avdulah Agha: 'See that you come.",
         "de": "Xalef Agha sandte einen Boten zu Avdu lall Agha und liess sagen: sieh zu, dass du kommst."
-      },
-      "source_line_ids": [
-        "s04_l04"
-      ]
+      }
     },
     {
-      "id": "u24",
-      "source": "dûlah ağa werişt bê êspar dûmilbazi da pûroê eskêri xoê ame",
+      "id": "u22",
+      "source": "Avdûlah ağa werişt bê êspar, dûmilbazi da pûroê, eskêri xoê ame pyêser.",
       "translations": {
         "tr": "Avdulah Ağa ata bindi, davulu çaldırdı ve ordusu toplandı.",
         "en": "Avdulah Agha mounted his horse, had the drum struck, and his army gathered.",
         "de": "Avdül'ah Agha sass auf, liess die Trommel schlagen, zog sein Heer zusammen."
-      },
-      "source_line_ids": [
-        "s04_l05"
-      ]
+      }
     },
     {
-      "id": "u25",
-      "source": "pyêser Avdûlah ağa va kê eskêri xoêra çoacû'hi ma 'ha şwêni kawğe metêrsi ena gêlankê çewi meverdi heminê bıksi serê",
+      "id": "u23",
+      "source": "Avdûlah ağa va kê eskêri xoêra: çoacû'hi ma 'ha şwêni kawğe, metêrsi, ena gêlankê çewi meverdi, heminê bıksi, serê mıri mal sımari.",
       "translations": {
         "tr": "Avdulah Ağa ordusuna dedi ki: 'Çocuklar, kavgaya gidiyoruz; korkmayın; bu sefer kimseyi bağışlamayın; herkesi öldürün; başlar benim, mal sizin.",
         "en": "Avdulah Agha said to his army: 'Children, we are going to fight; do not fear; this time spare no one; kill everyone; the heads are mine, the property yours.",
         "de": "Er sagte zu demselben: wir gehen uns mit Kindern schlagen, fürchtet euch nicht, dieses Mal schonet Niemand, tödtet Alle, die Köpfe (gehören) mir, die Beute (gehört) euch."
-      },
-      "source_line_ids": [
-        "s04_l06",
-        "s04_l07"
-      ]
+      }
     },
     {
-      "id": "u26",
-      "source": "mıri mal sımari Eskêri va kê Avdûlah ağayra peki êfêndim Alah cani twê sağ bêdû hetakê pêynyay ma nyêmêrû twêri çi çinyû",
+      "id": "u24",
+      "source": "Eskêri va kê Avdûlah ağayra: peki, êfêndim, Alah cani twê sağ bêdû, hetakê pêynyay ma nyêmêrû, twêri çi çinyû.",
       "translations": {
         "tr": "Ordu Avdulah Ağa'ya dedi ki: 'Peki efendim, Allah canını korusun; biz ölmedikçe sana bir şey olmaz.",
         "en": "The army said to Avdulah Agha: 'Very well, my lord, may God preserve your life; as long as none of us dies, there is nothing for you to fear.",
         "de": "Das Heer sagte dem Avdül’ah Agha: wohl Gebieter, möge Gott deine Seele bewahren! lange wir nicht sterben, hast du nichts zu fürchten (ist dir nichts)."
-      },
-      "source_line_ids": [
-        "s04_l08",
-        "s04_l09"
-      ]
+      }
     },
     {
-      "id": "u27",
-      "source": "Avdûlah ağay va kê afêrêm oğil",
+      "id": "u25",
+      "source": "Avdûlah ağay va kê: afêrêm oğil.",
       "translations": {
         "tr": "Avdulah Ağa dedi ki: 'Aferin, oğullar.'",
         "en": "Avdulah Agha said: 'Thanks, sons.'",
         "de": "Avdül’ah Agha sagte: danke, Kinder! Avdül’ah Agha liess die Trommel rühren, befahl seinem Heere vorzuschreiten, zog in’s Gebiet von Melekan und sah, dass Xalef Agha’s Heer die Patronen zusammentrug."
-      },
-      "source_line_ids": [
-        "s04_l10"
-      ]
+      }
     },
     {
-      "id": "u28",
-      "source": "Avdûlah ağay dûmilbazi day pûroê eskêri xoê erş kêrd şê dyari Mêlêkani awnya kê eskêri Xalef ağay tabûrê bêsta Avdûlah",
+      "id": "u26",
+      "source": "Avdûlah ağay dûmilbazi day pûroê, eskêri xoê erş kêrd, şê dyari Mêlêkani, awnya kê eskêri Xalef ağay tabûrê bêsta.",
       "translations": {
         "tr": "Avdulah Ağa davulu çaldırdı, ordusuna ilerlemeyi emretti ve Melekani bölgesine gitti ve Xalef Ağa'nın ordusunun fişek hazırladığını gördü.",
         "en": "Avdulah Agha had the drum struck, ordered his army forward, and went into the Melekani district, and saw Xalef Agha's army preparing cartridges.",
         "de": "Avdül’ah Agha liess sein Heer vorschreiten und sagte: die Köpfe (gehören) mir, die Beute (gehört) euch, geht und tödtet Alle."
-      },
-      "source_line_ids": [
-        "s04_l11",
-        "s04_l12"
-      ]
+      }
     },
     {
-      "id": "u29",
-      "source": "ağay eskêri xoê erş kêrd va kê seri mıri mal şımari metêrsi",
+      "id": "u27",
+      "source": "Avdûlah ağay eskêri xoê erş kêrd va kê: seri mıri mal şımari, metêrsi, şyêri bıksi heminê.",
       "translations": {
         "tr": "Avdulah Ağa ordusuna ilerlemeyi emretti: 'Başlar benim, mal sizin; korkmayın, gidip herkesi öldürün.",
         "en": "Avdulah Agha ordered his army forward, saying: 'The heads are mine, property yours; do not fear, go and kill everyone.",
         "de": "Das Heer Avdül’ah Agha’s ging gegen Xalef Agha's Heer, kam bis Tauridye und schlug sich; Xalef Agha’s Heer floh, das von Avdül’ah Agha verfolgte es, plünderte sämmtliche Häuser in den Dörfern, tödtete alle Hirten von Nerib (und) führte alle Heerden weg."
-      },
-      "source_line_ids": [
-        "s04_l13"
-      ]
+      }
     },
     {
-      "id": "u30",
-      "source": "şyêri bıksi heminê Eskêri Avdûlah ağay şê eskêri Xalef ağay weta amê bı Tawricyê kawğe kerd eskêri Xalef ağay rema es kêri Adûlah ağay pêyra kawt bana dewi pyêrû taalan kerdi sû anêy Nyêrbican pyêrû kişti pesi cinê pyêrû ard",
+      "id": "u28",
+      "source": "Eskêri Avdûlah ağay şê eskêri Xalef ağay weta amê bı Tawricyê, kawğe kerd, eskêri Xalef ağay rema, eskêri Adûlah ağay pêyra kawt, bana dewi pyêrû taalan kerdi, sûanêy Nyêrbican pyêrû kişti, pesi cinê pyêrû ard.",
       "translations": {
         "tr": "Avdulah Ağa'nın ordusu Xalef Ağa'nın ordusuna karşı gitti ve Tauridye'ye kadar gelip kavga etti; Xalef Ağa'nın ordusu kaçtı ve Avdulah Ağa'nın ordusu peşinden gitti, köy evlerinin hepsini talan etti, Nyêrib çobanlarının hepsini öldürdü ve bütün sürüleri götürdü.",
         "en": "Avdulah Agha's army went against Xalef Agha's army and came as far as Tauridye, where they fought; Xalef Agha's army fled, and the army of Avdulah Agha pursued, plundered all the village houses, killed all the Nerib shepherds, and carried off all the herds.",
         "de": "Es verstrichen zwanzig Tage, da zog Xalef Agha gen Qotwesan zu H'aider Agha und sagte ihm: ich begebe mich unter deinen Schutz, Avdül ah Agha Kelan hat mein ganzes Heer getödtet, hat alle meine Dörfer niedergebrannt (und) geplündert."
-      },
-      "source_line_ids": [
-        "s04_l14",
-        "s04_l15",
-        "s05_l01",
-        "s05_l02"
-      ]
+      }
     },
     {
-      "id": "u31",
-      "source": "Mênd vist roc Xalef ağay şê kawt kêy Qotwesan 'Haydêr ağara va ez kawta bê'hti twê Avdûlah ağay Kelang eskêri mê pyêrû kişt dewi mê pyêrû veşnay taalan kerdi 'Haydêr ağa va kê Xa",
+      "id": "u29",
+      "source": "Mênd vist roc, Xalef ağay şê kawt kêy Qotwesan, 'Haydêr ağara va: ez kawta bê'hti twê, Avdûlah ağay Kelang eskêri mê pyêrû kişt, dewi mê pyêrû veşnay, taalan kerdi.",
       "translations": {
         "tr": "Yirmi gün sonra Xalef Ağa Qotwesan'a, Hayder Ağa'ya gidip dedi ki: 'Senin himayene geldim; Kelanlı Avdulah Ağa bütün ordumu öldürdü, bütün köylerimi yaktı ve talan etti.",
         "en": "After twenty days Xalef Agha went to Qotwesan, to Haider Agha, and said: 'I came under your protection; Avdulah Agha of Kelan killed my whole army, burned all my villages and plundered them.",
         "de": "Haider Agha sagte zu Xalef Agha: was sagst du mir?"
-      },
-      "source_line_ids": [
-        "s05_l03",
-        "s05_l04",
-        "s05_l05"
-      ]
+      }
     },
     {
-      "id": "u32",
-      "source": "lef ağayra tê mêra vani sê ez nyêşyêna Sivangcandê kawğe bikêra Sivangci pêynyay ma heminê kişêni Xalef ağay va kê ez kawta",
+      "id": "u30",
+      "source": "'Haydêr ağa va kê Xalef ağayra: tê mêra vani sê, ez nyêşyêna Sivangcandê kawğe bikêra, Sivangci pêynyay ma heminê kişêni.",
       "translations": {
         "tr": "Hayder Ağa Xalef Ağa'ya dedi ki: 'Bana ne diyorsun? Sivanlılarla kavga edemem; Sivanlılar hepimizi öldürür.",
         "en": "Haider Agha said to Xalef Agha: 'What are you saying to me? I cannot fight with the Sivan people; the Sivan people would kill all of us.",
         "de": "ich gehe nicht mit denen von Sivän mich schlagen, sie tödten uns Alle."
-      },
-      "source_line_ids": [
-        "s05_l06",
-        "s05_l07"
-      ]
+      }
     },
     {
-      "id": "u33",
-      "source": "be'hti twê byê mê berê kêy Avdûlah ağay ma pya weşi kê çıkaskê kêyfi twê wazênû ez mal dana twê 'Haydêr ağa werişt bê êspar",
+      "id": "u31",
+      "source": "Xalef ağay va kê: ez kawta be'hti twê, byê mê berê kêy Avdûlah ağay, ma pya weşi kê, çıkaskê kêyfi twê wazênû ez mal dana twê.",
       "translations": {
         "tr": "Xalef Ağa dedi ki: 'Ben senin himayene geldim; benimle Avdulah Ağa'nın evine gel; bizi barıştır; her ne gönlün isterse sana mal vereceğim.",
         "en": "Xalef Agha said: 'I came under your protection; come with me to Avdulah Agha's house; reconcile us; whatever your heart wants, I will give you property.",
         "de": "Xalef Agha sagte: ich begab mich unter deinen Schutz, komme mit mir in’s Haus Avdül ah Agha's, versöhne uns, was du nur begehren magst an Gütern, will ich dir geben."
-      },
-      "source_line_ids": [
-        "s05_l08",
-        "s05_l09"
-      ]
+      }
     },
     {
-      "id": "u34",
-      "source": "kawt Xalef ağay ver amêy şi Sivan kawti kêy Avdûlah ağay",
+      "id": "u32",
+      "source": "'Haydêr ağa werişt bê êspar, kawt Xalef ağay ver, amêy şi Sivan, kawti kêy Avdûlah ağay.",
       "translations": {
         "tr": "Hayder Ağa ata bindi, Xalef Ağa'yı yanına aldı, Sivan'a geldi ve Avdulah Ağa'nın evine girdi.",
         "en": "Haider Agha mounted his horse, took Xalef Agha along, came to Sivan, and went into Avdulah Agha's house.",
         "de": "Haider Agha sass auf, nahm Xalef Agha mit, kam nach Sivän und ging in s Haus des Avdül’ah Agha."
-      },
-      "source_line_ids": [
-        "s05_l10"
-      ]
+      }
     },
     {
-      "id": "u35",
-      "source": "Haydêr ağa hiryê gêlankê şê lawna Avdûlah ağa lingêrû va kê tê ağay ena gêlankê bıdi ricay mê Xalef ağay Avdûlah ağa va",
+      "id": "u33",
+      "source": "Haydêr ağa hiryê gêlankê şê lawna Avdûlah ağa lingêrû va kê: tê ağay ena gêlankê bıdi ricay mê Xalef ağay.",
       "translations": {
         "tr": "Hayder Ağa üç kez gidip Avdulah Ağa'nın ayaklarını öptü ve dedi ki: 'Ağa, bu sefer benim hatırım için Xalef Ağa'yı bağışla.",
         "en": "Haider Agha went three times and kissed Avdulah Agha's feet, saying: 'Agha, this time spare Xalef Agha for my sake.",
         "de": "Drei Mal küsste er dem Avdül ah Agha die Füsse (und) sagte: Agha, verschone um meinetwegen den Xalef Agha."
-      },
-      "source_line_ids": [
-        "s05_l11",
-        "s05_l12"
-      ]
+      }
     },
     {
-      "id": "u36",
-      "source": "kê Xaydêr ağara ekê tê nyamêyni mê Xalef ağayra yaw zirot vera nyêdani ez ka pêynyay dawani Nyêribi veşna heminê taalan ka çım kê tê amêy mê Xalef ağa kerd baxşi twê 'Haydêr ağay lawna Av",
+      "id": "u34",
+      "source": "Avdûlah ağa va kê Xaydêr ağara: ekê tê nyamêyni mê Xalef ağayra yaw zirot vera nyêdani, ez ka pêynyay dawani Nyêribi veşna, heminê taalan ka, çımkê tê amêy mê Xalef ağa kerd baxşi twê.",
       "translations": {
         "tr": "Avdulah Ağa dedi Hayder Ağa'ya: 'Sen gelmemiş olsaydın, Xalef Ağa'ya bir oğlan bile geri vermezdim; Nyêrib köylerinin hepsini yakar ve her şeyi talan ederdim; fakat sen geldiğin için Xalef Ağa'yı sana bağışladım.",
         "en": "Avdulah Agha said to Haider Agha: 'If you had not come, I would not have given Xalef Agha one boy back; I would have burned all the Nerib villages and plundered everything, but because you came, I grant Xalef Agha to you.",
         "de": "Avdülah Agha antwortete dem H'aidür Agha: wärest du nicht gekommen, hätte ich dem Xalef Agha nicht einen Buben zurückgegeben, ich hätte seine Dörfer niedergebrannt, alle geplündert, (doch) da du gekommen bist, schenke ich dir den Xalef Agha."
-      },
-      "source_line_ids": [
-        "s05_l13",
-        "s05_l14",
-        "s05_l15"
-      ]
+      }
     },
     {
-      "id": "u37",
-      "source": "dûla ağa serêrû şê Xalef ağa ard lawna Avdûlah ağa lingêrû",
+      "id": "u35",
+      "source": "'Haydêr ağay lawna Avdûla ağa serêrû şê Xalef ağa ard, lawna Avdûlah ağa lingêrû, Avdûlah ağa lawna Xalef ağa destrû, pya bê weşi, xalay day pyêra.",
       "translations": {
-        "tr": "Hayder Ağa Avdulah Ağa'yı başından öptü, gidip Xalef Ağa'yı getirdi ve Avdulah Ağa'nın ayaklarını öptü.",
-        "en": "Haider Agha kissed Avdulah Agha on the head, went and brought Xalef Agha, and kissed Avdulah Agha's feet.",
-        "de": "Haidör Agha küsste den Avdül’ah Agha auf den Kopf, ging (und) brachte den Xalef Agha herein; dieser küsste dem Avdülah Agha die Füsse."
-      },
-      "source_line_ids": [
-        "s06_l01"
-      ]
+        "tr": "Hayder Ağa Avdulah Ağa'yı başından öptü, gidip Xalef Ağa'yı getirdi ve Avdulah Ağa'nın ayaklarını öptü. Avdulah Ağa Xalef Ağa'nın elini öptü; barıştılar ve karşılıklı hilat verdiler.",
+        "en": "Haider Agha kissed Avdulah Agha on the head, went and brought Xalef Agha, and kissed Avdulah Agha's feet. Avdulah Agha kissed Xalef Agha's hand; they reconciled and exchanged robes of honor.",
+        "de": "Haidör Agha küsste den Avdül’ah Agha auf den Kopf, ging (und) brachte den Xalef Agha herein; dieser küsste dem Avdülah Agha die Füsse. Avdülah Agha küsste ihm die Hand, darauf versöhnten sie sich (und) tauschten gegen einander Chalate aus."
+      }
     },
     {
-      "id": "u38",
-      "source": "Avdûlah ağa lawna Xalef ağa destrû pya bê weşi xalay day pyêra",
-      "translations": {
-        "tr": "Avdulah Ağa Xalef Ağa'nın elini öptü; barıştılar ve karşılıklı hilat verdiler.",
-        "en": "Avdulah Agha kissed Xalef Agha's hand; they reconciled and exchanged robes of honor.",
-        "de": "Avdülah Agha küsste ihm die Hand, darauf versöhnten sie sich (und) tauschten gegen einander Chalate aus."
-      },
-      "source_line_ids": [
-        "s06_l02"
-      ]
-    },
-    {
-      "id": "u39",
-      "source": "Xaydêr ağa werışt xatır wayşt Avdûlah ağayra Xalef ağa gê",
+      "id": "u36",
+      "source": "Xaydêr ağa werışt, xatır wayşt Avdûlah ağayra, Xalef ağa gêrawt, şi kêyyê.",
       "translations": {
         "tr": "Hayder Ağa ata bindi, Avdulah Ağa'dan izin istedi, Xalef Ağa'yı aldı ve eve gitti.",
         "en": "Haider Agha mounted, took leave of Avdulah Agha, took Xalef Agha and went home.",
         "de": "Haider Agha sass auf, verabschiedete sich von Avdül’ah Agha, nahm den Xalef Agha mit (und) zog nach Hause."
-      },
-      "source_line_ids": [
-        "s06_l03"
-      ]
+      }
     },
     {
-      "id": "u40",
-      "source": "rawt şi kêyyê Têrêk na",
+      "id": "u37",
+      "source": "Têrêk na.",
       "translations": {
         "tr": "Kan davası bitti.",
         "en": "The feud was over.",
         "de": "Es war keine Fehde mehr."
-      },
-      "source_line_ids": [
-        "s06_l04"
-      ]
+      }
     }
   ],
   "source_lines": [
@@ -608,7 +427,7 @@
       "text": "Kauγé Ńeríb u Sivā́ni.",
       "lerch": "Kauγé Ńeríb u Sivā́ni.",
       "ipa": "kawˈʁe ɲeˈrib u siˈvaːni",
-      "zazaki": "Kawğê Nyêrib û Sivani",
+      "zazaki": "Kawğê Nyêrib û Sivani.",
       "source_note": "Russian title: Неприязнь между Нѣрибомъ и Сиваномъ. German title: Die Feindseligkeiten zwischen Nerib und Sivän.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -623,7 +442,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Kawğê Nyêrib û Sivani"
+          "value": "Kawğê Nyêrib û Sivani."
         },
         {
           "label": "ENGLISH",
@@ -719,7 +538,7 @@
         {
           "form": "Sivā́ni.",
           "ipa": "siˈvaːni",
-          "zazaki": "Sivani",
+          "zazaki": "Sivani.",
           "lemma": "sivani",
           "display_gloss": "Sivan tribe",
           "gloss_tr": "Sivan aşireti",
@@ -751,7 +570,7 @@
       "text": "Vé̱ri d̮ṓan yau lā́d̮eku Ńerbíd̮ šẹ̄ Sivā́ṅ, Hʿōrsíge di̥zdeíe, bā́ni",
       "lerch": "Vé̱ri d̮ṓan yau lā́d̮eku Ńerbíd̮ šẹ̄ Sivā́ṅ, Hʿōrsíge di̥zdeíe, bā́ni",
       "ipa": "ˈvɛri ˈd͡ʒoːan jaw ˈlaːd͡ʒeku ɲerˈbid͡ʒ ʃe̝ː siˈvaːŋ ħoːrˈsige dɨzˈdeje ˈbaːni",
-      "zazaki": "Veri coan yaw lacêkû Nyêrbic şê Sivang 'Horsigê dızdêyê bani",
+      "zazaki": "Veri coan yaw lacêkû Nyêrbic şê Sivang, 'Horsigê dızdêyê, bani",
       "source_note": "Russian and German both translate this as a young man from Nerib going to Sivan/Horsig to steal. Russian explicitly says 'to the Sivan tribe'.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -766,7 +585,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Veri coan yaw lacêkû Nyêrbic şê Sivang 'Horsigê dızdêyê bani"
+          "value": "Veri coan yaw lacêkû Nyêrbic şê Sivang, 'Horsigê dızdêyê, bani"
         },
         {
           "label": "ENGLISH",
@@ -964,7 +783,7 @@
         {
           "form": "Sivā́ṅ,",
           "ipa": "siˈvaːŋ",
-          "zazaki": "Sivang",
+          "zazaki": "Sivang,",
           "lemma": "sivan",
           "display_gloss": "Sivan tribe",
           "gloss_tr": "Sivan aşireti",
@@ -1010,7 +829,7 @@
         {
           "form": "di̥zdeíe,",
           "ipa": "dɨzˈdeje",
-          "zazaki": "dızdêyê",
+          "zazaki": "dızdêyê,",
           "lemma": "dizdeie",
           "display_gloss": "to steal",
           "gloss_tr": "çalmak için",
@@ -1106,7 +925,7 @@
       "text": "Mél’a Ah̔médi Qafán ākérd, púrti Mél’a Ah̔médi Qafán geraút",
       "lerch": "Mél’a Ah̔médi Qafán ākérd, púrti Mél’a Ah̔médi Qafán geraút",
       "ipa": "ˈmel.a aħˈmedi qaˈfan aːˈkerd ˈpurti ˈmel.a aħˈmedi qaˈfan geˈrawt",
-      "zazaki": "Mêla A'hmêdi Qafan akêrd pûrti Mêla A'hmêdi Qafan gêrawt",
+      "zazaki": "Mêla A'hmêdi Qafan akêrd, pûrti Mêla A'hmêdi Qafan gêrawt",
       "source_note": "Russian шубу and German Pelz support 'fur coat', not plain wool.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -1121,7 +940,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Mêla A'hmêdi Qafan akêrd pûrti Mêla A'hmêdi Qafan gêrawt"
+          "value": "Mêla A'hmêdi Qafan akêrd, pûrti Mêla A'hmêdi Qafan gêrawt"
         },
         {
           "label": "ENGLISH",
@@ -1217,7 +1036,7 @@
         {
           "form": "ākérd,",
           "ipa": "aːˈkerd",
-          "zazaki": "akêrd",
+          "zazaki": "akêrd,",
           "lemma": "akerd",
           "display_gloss": "opened",
           "gloss_tr": "açtı",
@@ -1364,7 +1183,7 @@
       "text": "bér’u. Lā́d̮i Mél’a Ah̔médi Hʿuseíni dī é̱n’oe di̥zd, te̱píšt vā ke",
       "lerch": "bér’u. Lā́d̮i Mél’a Ah̔médi Hʿuseíni dī é̱n’oe di̥zd, te̱píšt vā ke",
       "ipa": "ˈber.u ˈlaːd͡ʒi ˈmel.a aħˈmedi ħuˈsejni di ˈɛn.oe dɨzd tɛˈpiʃt vaː ke",
-      "zazaki": "bêrû Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd tepişt va kê",
+      "zazaki": "bêrû. Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd, tepişt va kê",
       "source_note": "Russian: the son of Mela Ahmed, Husein, saw the thief, seized him, and spoke.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -1379,7 +1198,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "bêrû Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd tepişt va kê"
+          "value": "bêrû. Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd, tepişt va kê"
         },
         {
           "label": "ENGLISH",
@@ -1406,7 +1225,7 @@
         {
           "form": "bér’u.",
           "ipa": "ˈber.u",
-          "zazaki": "bêrû",
+          "zazaki": "bêrû.",
           "lemma": "beru",
           "display_gloss": "carried off",
           "gloss_tr": "götürdü",
@@ -1578,7 +1397,7 @@
         {
           "form": "di̥zd,",
           "ipa": "dɨzd",
-          "zazaki": "dızd",
+          "zazaki": "dızd,",
           "lemma": "dizd",
           "display_gloss": "thief",
           "gloss_tr": "hırsız",
@@ -1679,7 +1498,7 @@
       "text": "dí̥zdera: te qāṅd̮araí. Dí̥zdi vā ke: e̱z Ńeríbraya. Lā́d̮i Mél’a Ah̔-",
       "lerch": "dí̥zdera: te qāṅd̮araí. Dí̥zdi vā ke: e̱z Ńeríbraya. Lā́d̮i Mél’a Ah̔-",
       "ipa": "ˈdɨzdera te qaːŋd͡ʒaˈraj ˈdɨzdi vaː ke ɛz ɲeˈribraja ˈlaːd͡ʒi ˈmel.a aħ",
-      "zazaki": "dızdê ra tê qangcaray Dızdi va kê ez Nyêribraya Laci Mêla A'h",
+      "zazaki": "dızdê ra: tê qangcaray. Dızdi va kê: ez Nyêribraya. Laci Mêla A'h-",
       "source_note": "Russian wording is literally 'What kind are you?' and answers 'I am Neribian'; German renders 'where are you from?'.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -1694,7 +1513,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dızdê ra tê qangcaray Dızdi va kê ez Nyêribraya Laci Mêla A'h"
+          "value": "dızdê ra: tê qangcaray. Dızdi va kê: ez Nyêribraya. Laci Mêla A'h-"
         },
         {
           "label": "ENGLISH",
@@ -1721,7 +1540,7 @@
         {
           "form": "dí̥zdera:",
           "ipa": "ˈdɨzdera",
-          "zazaki": "dızdê ra",
+          "zazaki": "dızdê ra:",
           "lemma": "dizde",
           "display_gloss": "to the thief",
           "gloss_tr": "hırsıza",
@@ -1778,7 +1597,7 @@
         {
           "form": "qāṅd̮araí.",
           "ipa": "qaːŋd͡ʒaˈraj",
-          "zazaki": "qangcaray",
+          "zazaki": "qangcaray.",
           "lemma": "qandarai",
           "display_gloss": "where from?",
           "gloss_tr": "nerelisin?",
@@ -1847,7 +1666,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -1893,7 +1712,7 @@
         {
           "form": "Ńeríbraya.",
           "ipa": "ɲeˈribraja",
-          "zazaki": "Nyêribraya",
+          "zazaki": "Nyêribraya.",
           "lemma": "nerib",
           "display_gloss": "from Nerib",
           "gloss_tr": "Nyêrib'denim",
@@ -1995,7 +1814,7 @@
         {
           "form": "Ah̔-",
           "ipa": "aħ",
-          "zazaki": "A'h",
+          "zazaki": "A'h-",
           "lemma": "ah",
           "display_gloss": "Ahmed-",
           "gloss_tr": "Ahmed-",
@@ -2027,7 +1846,7 @@
       "text": "médi vā ke: te Ńeríbde, qām Ńeríbdei. Dí̥zdi vā ke: e̱z Dé̱šteí",
       "lerch": "médi vā ke: te Ńeríbde, qām Ńeríbdei. Dí̥zdi vā ke: e̱z Dé̱šteí",
       "ipa": "ˈmedi vaː ke te ɲeˈribde qaːm ɲeˈribdej ˈdɨzdi vaː ke ɛz ˈdɛʃˈtej",
-      "zazaki": "mêdi va kê tê Nyêribdê qam Nyêribdêy Dızdi va kê ez Deştêy",
+      "zazaki": "mêdi va kê: tê Nyêribdê, qam Nyêribdêy. Dızdi va kê: ez Deştêy",
       "source_note": "Both source translations clarify the repeated Nerib question as 'which Nerib?'.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -2042,7 +1861,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "mêdi va kê tê Nyêribdê qam Nyêribdêy Dızdi va kê ez Deştêy"
+          "value": "mêdi va kê: tê Nyêribdê, qam Nyêribdêy. Dızdi va kê: ez Deştêy"
         },
         {
           "label": "ENGLISH",
@@ -2115,7 +1934,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -2161,7 +1980,7 @@
         {
           "form": "Ńeríbde,",
           "ipa": "ɲeˈribde",
-          "zazaki": "Nyêribdê",
+          "zazaki": "Nyêribdê,",
           "lemma": "nerib",
           "display_gloss": "from Nerib",
           "gloss_tr": "Nyêrib'den",
@@ -2218,7 +2037,7 @@
         {
           "form": "Ńeríbdei.",
           "ipa": "ɲeˈribdej",
-          "zazaki": "Nyêribdêy",
+          "zazaki": "Nyêribdêy.",
           "lemma": "neribdei",
           "display_gloss": "from which Nerib?",
           "gloss_tr": "hangi Nyêrib'den?",
@@ -2287,7 +2106,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -2365,7 +2184,7 @@
       "text": "Hʿé̱nzira. Lā́d̮i Mél’a Ah̔médi vā ke: te qām mé̱h̔ladi. Dí̥zdi vā",
       "lerch": "Hʿé̱nzira. Lā́d̮i Mél’a Ah̔médi vā ke: te qām mé̱h̔ladi. Dí̥zdi vā",
       "ipa": "ˈħɛnzira ˈlaːd͡ʒi ˈmel.a aħˈmedi vaː ke te qaːm ˈmɛħladi ˈdɨzdi vaː",
-      "zazaki": "'Henzira Laci Mêla A'hmêdi va kê tê qam me'hladi Dızdi va",
+      "zazaki": "'Henzira. Laci Mêla A'hmêdi va kê: tê qam me'hladi. Dızdi va",
       "source_note": "Russian uses магалъ/магала for mahalle; German keeps Mahdl/Mahalle.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -2380,7 +2199,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "'Henzira Laci Mêla A'hmêdi va kê tê qam me'hladi Dızdi va"
+          "value": "'Henzira. Laci Mêla A'hmêdi va kê: tê qam me'hladi. Dızdi va"
         },
         {
           "label": "ENGLISH",
@@ -2407,7 +2226,7 @@
         {
           "form": "Hʿé̱nzira.",
           "ipa": "ˈħɛnzira",
-          "zazaki": "'Henzira",
+          "zazaki": "'Henzira.",
           "lemma": "henzi",
           "display_gloss": "from Henzi, place name",
           "gloss_tr": "Henzi'den, yer adı",
@@ -2544,7 +2363,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -2613,7 +2432,7 @@
         {
           "form": "mé̱h̔ladi.",
           "ipa": "ˈmɛħladi",
-          "zazaki": "me'hladi",
+          "zazaki": "me'hladi.",
           "lemma": "mehladi",
           "display_gloss": "from which mahalle?",
           "gloss_tr": "hangi mahalleden?",
@@ -2691,7 +2510,7 @@
       "text": "ke: e̱z mé̱h̔lai Šeinā́ṅda. Lā́d̮i Mél’a Ah̔médi vā ke: te qaú’i āmeí",
       "lerch": "ke: e̱z mé̱h̔lai Šeinā́ṅda. Lā́d̮i Mél’a Ah̔médi vā ke: te qaú’i āmeí",
       "ipa": "ke ɛz ˈmɛħlaj ʃejˈnaːŋda ˈlaːd͡ʒi ˈmel.a aħˈmedi vaː ke te ˈqaw.i aːˈmej",
-      "zazaki": "kê ez me'hlay Şêynangda Laci Mêla A'hmêdi va kê tê qawi amêy",
+      "zazaki": "kê: ez me'hlay Şêynangda. Laci Mêla A'hmêdi va kê: tê qawi amêy",
       "source_note": "Russian and German both make this a question of purpose: why did you come?",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -2706,7 +2525,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kê ez me'hlay Şêynangda Laci Mêla A'hmêdi va kê tê qawi amêy"
+          "value": "kê: ez me'hlay Şêynangda. Laci Mêla A'hmêdi va kê: tê qawi amêy"
         },
         {
           "label": "ENGLISH",
@@ -2733,7 +2552,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -2802,7 +2621,7 @@
         {
           "form": "Šeinā́ṅda.",
           "ipa": "ʃejˈnaːŋda",
-          "zazaki": "Şêynangda",
+          "zazaki": "Şêynangda.",
           "lemma": "seinanda",
           "display_gloss": "in the Seinan mahalle",
           "gloss_tr": "Şeynan mahallesinde",
@@ -2928,7 +2747,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -3029,7 +2848,7 @@
       "text": "mā́le me bén’i. Dí̥zdi vā ke: e̱z Ńerbída āmeía mā́le tue, dí̥zdeí",
       "lerch": "mā́le me bén’i. Dí̥zdi vā ke: e̱z Ńerbída āmeía mā́le tue, dí̥zdeí",
       "ipa": "ˈmaːle me ˈben.i ˈdɨzdi vaː ke ɛz ɲerˈbida aːˈmeja ˈmaːle twe ˈdɨzˈdej",
-      "zazaki": "malê mê bêni Dızdi va kê ez Nyêrbida amêya malê twê dızdêy",
+      "zazaki": "malê mê bêni. Dızdi va kê: ez Nyêrbida amêya malê twê, dızdêy",
       "source_note": "Russian has 'into my house' and 'into your house'; German OCR alternates Haus/Hause.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -3044,7 +2863,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "malê mê bêni Dızdi va kê ez Nyêrbida amêya malê twê dızdêy"
+          "value": "malê mê bêni. Dızdi va kê: ez Nyêrbida amêya malê twê, dızdêy"
         },
         {
           "label": "ENGLISH",
@@ -3117,7 +2936,7 @@
         {
           "form": "bén’i.",
           "ipa": "ˈben.i",
-          "zazaki": "bêni",
+          "zazaki": "bêni.",
           "lemma": "be",
           "display_gloss": "into",
           "gloss_tr": "içine",
@@ -3197,7 +3016,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -3312,7 +3131,7 @@
         {
           "form": "tue,",
           "ipa": "twe",
-          "zazaki": "twê",
+          "zazaki": "twê,",
           "lemma": "tue",
           "display_gloss": "your",
           "gloss_tr": "senin",
@@ -3367,7 +3186,7 @@
       "text": "bi̥kéra, berá túe e̱z diā́ṅ, lakímke e̱z hā bén’a, zōr bén’a. Lā́d̮i",
       "lerch": "bi̥kéra, berá túe e̱z diā́ṅ, lakímke e̱z hā bén’a, zōr bén’a. Lā́d̮i",
       "ipa": "bɨˈkera beˈra ˈtwe ɛz ˈdjaːŋ laˈkimke ɛz haː ˈben.a zoːr ˈben.a ˈlaːd͡ʒi",
-      "zazaki": "bıkêra bêra twê ez dyang lakimkê ez ha bêna zor bêna Laci",
+      "zazaki": "bıkêra, bêra twê ez dyang, lakimkê ez ha bêna, zor bêna. Laci",
       "source_note": "Revised after case-alignment review: túe is the oblique ergative agent, e̱z is the direct object, and diā́ṅ is treated as Lerch's past-perfect seeing form; hā bén'a, zōr bén'a is read as taking by force, not 'I am strong'.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -3382,7 +3201,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "bıkêra bêra twê ez dyang lakimkê ez ha bêna zor bêna Laci"
+          "value": "bıkêra, bêra twê ez dyang, lakimkê ez ha bêna, zor bêna. Laci"
         },
         {
           "label": "ENGLISH",
@@ -3409,7 +3228,7 @@
         {
           "form": "bi̥kéra,",
           "ipa": "bɨˈkera",
-          "zazaki": "bıkêra",
+          "zazaki": "bıkêra,",
           "lemma": "bi-",
           "display_gloss": "commit",
           "gloss_tr": "etmek",
@@ -3512,7 +3331,7 @@
         {
           "form": "diā́ṅ,",
           "ipa": "ˈdjaːŋ",
-          "zazaki": "dyang",
+          "zazaki": "dyang,",
           "lemma": "dian",
           "display_gloss": "see.PST.PRF",
           "gloss_tr": "görmüş.PRF",
@@ -3604,7 +3423,7 @@
         {
           "form": "bén’a,",
           "ipa": "ˈben.a",
-          "zazaki": "bêna",
+          "zazaki": "bêna,",
           "lemma": "berdene",
           "display_gloss": "I am taking it",
           "gloss_tr": "onu alıyorum",
@@ -3650,7 +3469,7 @@
         {
           "form": "bén’a.",
           "ipa": "ˈben.a",
-          "zazaki": "bêna",
+          "zazaki": "bêna.",
           "lemma": "berdene",
           "display_gloss": "I am taking it",
           "gloss_tr": "onu alıyorum",
@@ -3737,7 +3556,7 @@
       "text": "Mél’a Ah̔médi wid̮á sé̱rei dí̥zdi terá kerd, h̔abér’e eršau’úte Ńe-",
       "lerch": "Mél’a Ah̔médi wid̮á sé̱rei dí̥zdi terá kerd, h̔abér’e eršau’úte Ńe-",
       "ipa": "ˈmel.a aħˈmedi wiˈd͡ʒa ˈsɛrej ˈdɨzdi teˈra kerd ħaˈber.e erʃaw.ˈute ɲe",
-      "zazaki": "Mêla A'hmêdi wica serêy dızdi têra kêrd 'habêrê êrşawûtê Nyê",
+      "zazaki": "Mêla A'hmêdi wica serêy dızdi têra kêrd, 'habêrê êrşawûtê Nyê-",
       "source_note": "Russian and German both say he killed the thief immediately and sent a messenger.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -3752,7 +3571,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Mêla A'hmêdi wica serêy dızdi têra kêrd 'habêrê êrşawûtê Nyê"
+          "value": "Mêla A'hmêdi wica serêy dızdi têra kêrd, 'habêrê êrşawûtê Nyê-"
         },
         {
           "label": "ENGLISH",
@@ -3917,7 +3736,7 @@
         {
           "form": "kerd,",
           "ipa": "kerd",
-          "zazaki": "kêrd",
+          "zazaki": "kêrd,",
           "lemma": "kerd",
           "display_gloss": "cut",
           "gloss_tr": "kesti",
@@ -3986,7 +3805,7 @@
         {
           "form": "Ńe-",
           "ipa": "ɲe",
-          "zazaki": "Nyê",
+          "zazaki": "Nyê-",
           "lemma": "ne",
           "display_gloss": "Nerib-",
           "gloss_tr": "Nyêrib-",
@@ -4029,7 +3848,7 @@
       "text": "ríb Χalé̱f aγāiri vā ke: we̱ Χyé̱ni nébe, tue téde kauγé kerdíni,",
       "lerch": "ríb Χalé̱f aγāiri vā ke: we̱ Χyé̱ni nébe, tue téde kauγé kerdíni,",
       "ipa": "ˈrib χaˈlɛf aʁaːjri vaː ke wɛ ˈχjɛni ˈnebe twe ˈtede kawˈʁe kerˈdini",
-      "zazaki": "rib Xalef ağayri va kê we Xyeni nêbê twê têdê kawğê kêrdini",
+      "zazaki": "rib Xalef ağayri va kê: we Xyeni nêbê, twê têdê kawğê kêrdini,",
       "source_note": "Lerch flags this passage as unclear: Russian footnote says the place in the story is not understandable to him; German note says Diese Stelle ist mir dunkel.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -4044,7 +3863,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "rib Xalef ağayri va kê we Xyeni nêbê twê têdê kawğê kêrdini"
+          "value": "rib Xalef ağayri va kê: we Xyeni nêbê, twê têdê kawğê kêrdini,"
         },
         {
           "label": "ENGLISH",
@@ -4174,7 +3993,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -4243,7 +4062,7 @@
         {
           "form": "nébe,",
           "ipa": "ˈnebe",
-          "zazaki": "nêbê",
+          "zazaki": "nêbê,",
           "lemma": "ne-",
           "display_gloss": "do not come",
           "gloss_tr": "gelme",
@@ -4346,7 +4165,7 @@
         {
           "form": "kerdíni,",
           "ipa": "kerˈdini",
-          "zazaki": "kêrdini",
+          "zazaki": "kêrdini,",
           "lemma": "kerdini",
           "display_gloss": "you fought",
           "gloss_tr": "kavga ettin",
@@ -4378,7 +4197,7 @@
       "text": "tu Hʿyẹ̄níd̮i pyéru kíšti ā́rdi e̱mā́ni se̱r. Χalé̱f aγaí h̔abér’e e̱ršau’-",
       "lerch": "tu Hʿyẹ̄níd̮i pyéru kíšti ā́rdi e̱mā́ni se̱r. Χalé̱f aγaí h̔abér’e e̱ršau’-",
       "ipa": "tu ħje̝ːˈnid͡ʒi ˈpjeru ˈkiʃti ˈaːrdi ɛˈmaːni sɛr χaˈlɛf aˈʁaj ħaˈber.e ɛrʃaw",
-      "zazaki": "tû 'Hyênici pyêrû kişti ardi emani ser Xalef ağay 'habêrê erşaw",
+      "zazaki": "tû 'Hyênici pyêrû kişti ardi emani ser. Xalef ağay 'habêrê erşaw-",
       "source_note": "Continuation of the passage Lerch marks unclear; emāni ser is kept tentative as safe-conduct.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -4393,7 +4212,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "tû 'Hyênici pyêrû kişti ardi emani ser Xalef ağay 'habêrê erşaw"
+          "value": "tû 'Hyênici pyêrû kişti ardi emani ser. Xalef ağay 'habêrê erşaw-"
         },
         {
           "label": "ENGLISH",
@@ -4558,7 +4377,7 @@
         {
           "form": "se̱r.",
           "ipa": "sɛr",
-          "zazaki": "ser",
+          "zazaki": "ser.",
           "lemma": "ser",
           "display_gloss": "head",
           "gloss_tr": "baş",
@@ -4650,7 +4469,7 @@
         {
           "form": "e̱ršau’-",
           "ipa": "ɛrʃaw",
-          "zazaki": "erşaw",
+          "zazaki": "erşaw-",
           "lemma": "ersau",
           "display_gloss": "sent-",
           "gloss_tr": "gönderdi-",
@@ -4682,7 +4501,7 @@
       "text": "úte Avdúl’ah aγaí Kelā́ṅ vā ke: me Ńeríbde kauγé kerd, la-",
       "lerch": "úte Avdúl’ah aγaí Kelā́ṅ vā ke: me Ńeríbde kauγé kerd, la-",
       "ipa": "ˈute avˈdul.ah aˈʁaj keˈlaːŋ vaː ke me ɲeˈribde kawˈʁe kerd la",
-      "zazaki": "ûtê Avdûlah ağay Kêlang va kê mê Nyêribdê kawğê kêrd la",
+      "zazaki": "ûtê Avdûlah ağay Kêlang va kê: mê Nyêribdê kawğê kêrd, la-",
       "source_note": "German/Russian continue the message after Lerch's unclear Hyeni note.",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -4697,7 +4516,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ûtê Avdûlah ağay Kêlang va kê mê Nyêribdê kawğê kêrd la"
+          "value": "ûtê Avdûlah ağay Kêlang va kê: mê Nyêribdê kawğê kêrd, la-"
         },
         {
           "label": "ENGLISH",
@@ -4839,7 +4658,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -4942,7 +4761,7 @@
         {
           "form": "kerd,",
           "ipa": "kerd",
-          "zazaki": "kêrd",
+          "zazaki": "kêrd,",
           "lemma": "kerd",
           "display_gloss": "did",
           "gloss_tr": "etti",
@@ -4965,7 +4784,7 @@
         {
           "form": "la-",
           "ipa": "la",
-          "zazaki": "la",
+          "zazaki": "la-",
           "lemma": "la",
           "display_gloss": "but-",
           "gloss_tr": "fakat-",
@@ -5008,7 +4827,7 @@
       "text": "kímke wé̱χti χóede h̔ādré̱ be, túe mē̱rdṳ́mi me kišt, bi̥zā́ni ke: e̱z",
       "lerch": "kímke wé̱χti χóede h̔ādré̱ be, túe mē̱rdṳ́mi me kišt, bi̥zā́ni ke: e̱z",
       "ipa": "ˈkimke ˈwɛχti ˈχoede ħaːdˈrɛ be ˈtwe mɛːrˈdymi me kiʃt bɨˈzaːni ke ɛz",
-      "zazaki": "kimkê wexti xoêdê 'hadre bê twê merdûmi mê kişt bızani kê ez",
+      "zazaki": "kimkê wexti xoêdê 'hadre bê, twê merdûmi mê kişt, bızani kê: ez",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -5023,7 +4842,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kimkê wexti xoêdê 'hadre bê twê merdûmi mê kişt bızani kê ez"
+          "value": "kimkê wexti xoêdê 'hadre bê, twê merdûmi mê kişt, bızani kê: ez"
         },
         {
           "label": "ENGLISH",
@@ -5153,7 +4972,7 @@
         {
           "form": "be,",
           "ipa": "be",
-          "zazaki": "bê",
+          "zazaki": "bê,",
           "lemma": "be",
           "display_gloss": "be",
           "gloss_tr": "ol",
@@ -5256,7 +5075,7 @@
         {
           "form": "kišt,",
           "ipa": "kiʃt",
-          "zazaki": "kişt",
+          "zazaki": "kişt,",
           "lemma": "kist",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -5313,7 +5132,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -5379,7 +5198,7 @@
       "text": "vīst mē̱rdṳ́mi túe yau mē̱rdṳ́mi χóe vé̱ra kišeń’a. Avdúl’ah aγáí",
       "lerch": "vīst mē̱rdṳ́mi túe yau mē̱rdṳ́mi χóe vé̱ra kišeń’a. Avdúl’ah aγáí",
       "ipa": "viːst mɛːrˈdymi ˈtwe jaw mɛːrˈdymi ˈχoe ˈvɛra kiʃeɲa avˈdul.ah aˈʁaj",
-      "zazaki": "vist merdûmi twê yaw merdûmi xoê vera kişênya Avdûlah ağay",
+      "zazaki": "vist merdûmi twê yaw merdûmi xoê vera kişênya. Avdûlah ağay",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -5394,7 +5213,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "vist merdûmi twê yaw merdûmi xoê vera kişênya Avdûlah ağay"
+          "value": "vist merdûmi twê yaw merdûmi xoê vera kişênya. Avdûlah ağay"
         },
         {
           "label": "ENGLISH",
@@ -5604,7 +5423,7 @@
         {
           "form": "kišeń’a.",
           "ipa": "kiʃeɲa",
-          "zazaki": "kişênya",
+          "zazaki": "kişênya.",
           "lemma": "kist",
           "display_gloss": "I will kill",
           "gloss_tr": "öldüreceğim",
@@ -5693,7 +5512,7 @@
       "text": "h̔abér’e eršau’úte Χalé̱f aγāíri vā ke: waχte χóede h̔ādré̱ be, e̱z",
       "lerch": "h̔abér’e eršau’úte Χalé̱f aγāíri vā ke: waχte χóede h̔ādré̱ be, e̱z",
       "ipa": "ħaˈber.e erʃaw.ˈute χaˈlɛf aˈʁaːjri vaː ke waχte ˈχoede ħaːdˈrɛ be ɛz",
-      "zazaki": "'habêrê êrşawûtê Xalef ağayri va kê waxtê xoêdê 'hadre bê ez",
+      "zazaki": "'habêrê êrşawûtê Xalef ağayri va kê: waxtê xoêdê 'hadre bê, ez",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -5708,7 +5527,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "'habêrê êrşawûtê Xalef ağayri va kê waxtê xoêdê 'hadre bê ez"
+          "value": "'habêrê êrşawûtê Xalef ağayri va kê: waxtê xoêdê 'hadre bê, ez"
         },
         {
           "label": "ENGLISH",
@@ -5861,7 +5680,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -5964,7 +5783,7 @@
         {
           "form": "be,",
           "ipa": "be",
-          "zazaki": "bê",
+          "zazaki": "bê,",
           "lemma": "be",
           "display_gloss": "be",
           "gloss_tr": "ol",
@@ -6040,7 +5859,7 @@
       "text": "meíšte e̱skéri χóe ǵén’a, yén’a aúkai Šél’e ve̱r, tí̥zi wid̮ára e̱skéri",
       "lerch": "meíšte e̱skéri χóe ǵén’a, yén’a aúkai Šél’e ve̱r, tí̥zi wid̮ára e̱skéri",
       "ipa": "ˈmejʃte ɛsˈkeri ˈχoe ˈɟen.a ˈjen.a ˈawkaj ˈʃel.e vɛr ˈtɨzi wiˈd͡ʒara ɛsˈkeri",
-      "zazaki": "mêyştê eskêri xoê gêna yêna awkay Şêlê ver tızi wicara eskêri",
+      "zazaki": "mêyştê eskêri xoê gêna, yêna awkay Şêlê ver, tızi wicara eskêri",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -6055,7 +5874,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "mêyştê eskêri xoê gêna yêna awkay Şêlê ver tızi wicara eskêri"
+          "value": "mêyştê eskêri xoê gêna, yêna awkay Şêlê ver, tızi wicara eskêri"
         },
         {
           "label": "ENGLISH",
@@ -6151,7 +5970,7 @@
         {
           "form": "ǵén’a,",
           "ipa": "ˈɟen.a",
-          "zazaki": "gêna",
+          "zazaki": "gêna,",
           "lemma": "gena",
           "display_gloss": "I lead",
           "gloss_tr": "götürüyorum",
@@ -6243,7 +6062,7 @@
         {
           "form": "ve̱r,",
           "ipa": "vɛr",
-          "zazaki": "ver",
+          "zazaki": "ver,",
           "lemma": "ver",
           "display_gloss": "front",
           "gloss_tr": "ön",
@@ -6344,7 +6163,7 @@
       "text": "χóe bi̥ǵí, bye D̮ait ve̱r, mā kauγé bi̥kí, ńavaúke te sé̱rei me wén’i,",
       "lerch": "χóe bi̥ǵí, bye D̮ait ve̱r, mā kauγé bi̥kí, ńavaúke te sé̱rei me wén’i,",
       "ipa": "ˈχoe bɨˈɟi bje d͡ʒajt vɛr maː kawˈʁe bɨˈki ɲaˈvawke te ˈsɛrej me ˈwen.i",
-      "zazaki": "xoê bıgi byê Cayt ver ma kawğê bıki nyavawkê tê serêy mê wêni",
+      "zazaki": "xoê bıgi, byê Cayt ver, ma kawğê bıki, nyavawkê tê serêy mê wêni,",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -6359,7 +6178,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "xoê bıgi byê Cayt ver ma kawğê bıki nyavawkê tê serêy mê wêni"
+          "value": "xoê bıgi, byê Cayt ver, ma kawğê bıki, nyavawkê tê serêy mê wêni,"
         },
         {
           "label": "ENGLISH",
@@ -6409,7 +6228,7 @@
         {
           "form": "bi̥ǵí,",
           "ipa": "bɨˈɟi",
-          "zazaki": "bıgi",
+          "zazaki": "bıgi,",
           "lemma": "bi-",
           "display_gloss": "lead",
           "gloss_tr": "götür",
@@ -6489,7 +6308,7 @@
         {
           "form": "ve̱r,",
           "ipa": "vɛr",
-          "zazaki": "ver",
+          "zazaki": "ver,",
           "lemma": "ver",
           "display_gloss": "front",
           "gloss_tr": "ön",
@@ -6558,7 +6377,7 @@
         {
           "form": "bi̥kí,",
           "ipa": "bɨˈki",
-          "zazaki": "bıki",
+          "zazaki": "bıki,",
           "lemma": "bi-",
           "display_gloss": "do",
           "gloss_tr": "yap",
@@ -6684,7 +6503,7 @@
         {
           "form": "wén’i,",
           "ipa": "ˈwen.i",
-          "zazaki": "wêni",
+          "zazaki": "wêni,",
           "lemma": "weni",
           "display_gloss": "cut",
           "gloss_tr": "kesmek",
@@ -6737,7 +6556,7 @@
       "text": "ńavaúke e̱z sé̱rei túe wén’a. Χalé̱f aγái h̔abér e̱ršau’úte Av-",
       "lerch": "ńavaúke e̱z sé̱rei túe wén’a. Χalé̱f aγái h̔abér e̱ršau’úte Av-",
       "ipa": "ɲaˈvawke ɛz ˈsɛrej ˈtwe ˈwen.a χaˈlɛf aˈʁaj ħaˈber ɛrʃaw.ˈute av",
-      "zazaki": "nyavawkê ez serêy twê wêna Xalef ağay 'habêr erşawûtê Av",
+      "zazaki": "nyavawkê ez serêy twê wêna. Xalef ağay 'habêr erşawûtê Av-",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -6752,7 +6571,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "nyavawkê ez serêy twê wêna Xalef ağay 'habêr erşawûtê Av"
+          "value": "nyavawkê ez serêy twê wêna. Xalef ağay 'habêr erşawûtê Av-"
         },
         {
           "label": "ENGLISH",
@@ -6871,7 +6690,7 @@
         {
           "form": "wén’a.",
           "ipa": "ˈwen.a",
-          "zazaki": "wêna",
+          "zazaki": "wêna.",
           "lemma": "wena",
           "display_gloss": "cut",
           "gloss_tr": "kesmek",
@@ -6997,7 +6816,7 @@
         {
           "form": "Av-",
           "ipa": "av",
-          "zazaki": "Av",
+          "zazaki": "Av-",
           "lemma": "av",
           "display_gloss": "Avdulah-",
           "gloss_tr": "Avdulah-",
@@ -7050,7 +6869,7 @@
       "text": "dúl’ah aγaíri vā ke: e̱skéri me h̔adraú, ē̱nkaí e̱z āmeía Deíštede",
       "lerch": "dúl’ah aγaíri vā ke: e̱skéri me h̔adraú, ē̱nkaí e̱z āmeía Deíštede",
       "ipa": "ˈdul.ah aˈʁajri vaː ke ɛsˈkeri me ħadˈraw ɛːnˈkaj ɛz aːˈmeja ˈdejʃtede",
-      "zazaki": "dûlah ağayri va kê eskêri mê 'hadraw enkay ez amêya Dêyştêdê",
+      "zazaki": "dûlah ağayri va kê: eskêri mê 'hadraw, enkay ez amêya Dêyştêdê",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -7065,7 +6884,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dûlah ağayri va kê eskêri mê 'hadraw enkay ez amêya Dêyştêdê"
+          "value": "dûlah ağayri va kê: eskêri mê 'hadraw, enkay ez amêya Dêyştêdê"
         },
         {
           "label": "ENGLISH",
@@ -7172,7 +6991,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -7241,7 +7060,7 @@
         {
           "form": "h̔adraú,",
           "ipa": "ħadˈraw",
-          "zazaki": "'hadraw",
+          "zazaki": "'hadraw,",
           "lemma": "hadrau",
           "display_gloss": "is ready",
           "gloss_tr": "hazırdır",
@@ -7376,7 +7195,7 @@
       "text": "tí̥zi wárze e̱skéri χoé bi̥ǵí, bye aúkai Šél’e ve̱r, mā kauγé̱ bi̥kí.",
       "lerch": "tí̥zi wárze e̱skéri χoé bi̥ǵí, bye aúkai Šél’e ve̱r, mā kauγé̱ bi̥kí.",
       "ipa": "ˈtɨzi ˈwarze ɛsˈkeri χˈoe bɨˈɟi bje ˈawkaj ˈʃel.e vɛr maː kawˈʁɛ bɨˈki",
-      "zazaki": "tızi warzê eskêri xoê bıgi byê awkay Şêlê ver ma kawğe bıki",
+      "zazaki": "tızi warzê eskêri xoê bıgi, byê awkay Şêlê ver, ma kawğe bıki.",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -7391,7 +7210,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "tızi warzê eskêri xoê bıgi byê awkay Şêlê ver ma kawğe bıki"
+          "value": "tızi warzê eskêri xoê bıgi, byê awkay Şêlê ver, ma kawğe bıki."
         },
         {
           "label": "ENGLISH",
@@ -7510,7 +7329,7 @@
         {
           "form": "bi̥ǵí,",
           "ipa": "bɨˈɟi",
-          "zazaki": "bıgi",
+          "zazaki": "bıgi,",
           "lemma": "bi-",
           "display_gloss": "lead",
           "gloss_tr": "götür",
@@ -7613,7 +7432,7 @@
         {
           "form": "ve̱r,",
           "ipa": "vɛr",
-          "zazaki": "ver",
+          "zazaki": "ver,",
           "lemma": "ver",
           "display_gloss": "front",
           "gloss_tr": "ön",
@@ -7682,7 +7501,7 @@
         {
           "form": "bi̥kí.",
           "ipa": "bɨˈki",
-          "zazaki": "bıki",
+          "zazaki": "bıki.",
           "lemma": "bi-",
           "display_gloss": "do",
           "gloss_tr": "yap",
@@ -7736,7 +7555,7 @@
       "text": "Ḗ̱n’oe kauγé̱ Ti̥rkā́n ńu, ḗ̱n’oe kauγé aširā́nu, ti̥ bye χóeri vyén’e.",
       "lerch": "Ḗ̱n’oe kauγé̱ Ti̥rkā́n ńu, ḗ̱n’oe kauγé aširā́nu, ti̥ bye χóeri vyén’e.",
       "ipa": "ˈɛːn.oe kawˈʁɛ tɨrˈkaːn ɲu ˈɛːn.oe kawˈʁe aʃiˈraːnu tɨ bje ˈχoeri ˈvjen.e",
-      "zazaki": "Enoê kawğe Tırkan nyû enoê kawğê aşiranû tı byê xoêri vyênê",
+      "zazaki": "Enoê kawğe Tırkan nyû, enoê kawğê aşiranû, tı byê xoêri vyênê.",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -7751,7 +7570,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Enoê kawğe Tırkan nyû enoê kawğê aşiranû tı byê xoêri vyênê"
+          "value": "Enoê kawğe Tırkan nyû, enoê kawğê aşiranû, tı byê xoêri vyênê."
         },
         {
           "label": "ENGLISH",
@@ -7847,7 +7666,7 @@
         {
           "form": "ńu,",
           "ipa": "ɲu",
-          "zazaki": "nyû",
+          "zazaki": "nyû,",
           "lemma": "nu",
           "display_gloss": "not",
           "gloss_tr": "değil",
@@ -7916,7 +7735,7 @@
         {
           "form": "aširā́nu,",
           "ipa": "aʃiˈraːnu",
-          "zazaki": "aşiranû",
+          "zazaki": "aşiranû,",
           "lemma": "asiranu",
           "display_gloss": "tribal",
           "gloss_tr": "aşirete ait",
@@ -8019,7 +7838,7 @@
         {
           "form": "vyén’e.",
           "ipa": "ˈvjen.e",
-          "zazaki": "vyênê",
+          "zazaki": "vyênê.",
           "lemma": "vyene",
           "display_gloss": "see",
           "gloss_tr": "gör",
@@ -8051,7 +7870,7 @@
       "text": "Avdúl’ah aγái h̔abér e̱ršau’úte dauā́ṅ vā ke: t̮au me̱víndi, meíšte",
       "lerch": "Avdúl’ah aγái h̔abér e̱ršau’úte dauā́ṅ vā ke: t̮au me̱víndi, meíšte",
       "ipa": "avˈdul.ah aˈʁaj ħaˈber ɛrʃaw.ˈute daˈwaːŋ vaː ke t͡ʃaw mɛˈvindi ˈmejʃte",
-      "zazaki": "Avdûlah ağay 'habêr erşawûtê dawang va kê çaw mevindi mêyştê",
+      "zazaki": "Avdûlah ağay 'habêr erşawûtê dawang va kê: çaw mevindi, mêyştê",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -8066,7 +7885,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Avdûlah ağay 'habêr erşawûtê dawang va kê çaw mevindi mêyştê"
+          "value": "Avdûlah ağay 'habêr erşawûtê dawang va kê: çaw mevindi, mêyştê"
         },
         {
           "label": "ENGLISH",
@@ -8242,7 +8061,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -8288,7 +8107,7 @@
         {
           "form": "me̱víndi,",
           "ipa": "mɛˈvindi",
-          "zazaki": "mevindi",
+          "zazaki": "mevindi,",
           "lemma": "me-",
           "display_gloss": "do not delay",
           "gloss_tr": "gecikme",
@@ -8365,7 +8184,7 @@
       "text": "aúkai Šél’e vé̱rde kauγé mau, Ńerbid̮ā́nu. Dauā́ṅ h̔abér e̱ršau’úte",
       "lerch": "aúkai Šél’e vé̱rde kauγé mau, Ńerbid̮ā́nu. Dauā́ṅ h̔abér e̱ršau’úte",
       "ipa": "ˈawkaj ˈʃel.e ˈvɛrde kawˈʁe maw ɲerbiˈd͡ʒaːnu daˈwaːŋ ħaˈber ɛrʃaw.ˈute",
-      "zazaki": "awkay Şêlê verdê kawğê maw Nyêrbicanû Dawang 'habêr erşawûtê",
+      "zazaki": "awkay Şêlê verdê kawğê maw, Nyêrbicanû. Dawang 'habêr erşawûtê",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -8380,7 +8199,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "awkay Şêlê verdê kawğê maw Nyêrbicanû Dawang 'habêr erşawûtê"
+          "value": "awkay Şêlê verdê kawğê maw, Nyêrbicanû. Dawang 'habêr erşawûtê"
         },
         {
           "label": "ENGLISH",
@@ -8510,7 +8329,7 @@
         {
           "form": "mau,",
           "ipa": "maw",
-          "zazaki": "maw",
+          "zazaki": "maw,",
           "lemma": "mau",
           "display_gloss": "our",
           "gloss_tr": "bizim",
@@ -8533,7 +8352,7 @@
         {
           "form": "Ńerbid̮ā́nu.",
           "ipa": "ɲerbiˈd͡ʒaːnu",
-          "zazaki": "Nyêrbicanû",
+          "zazaki": "Nyêrbicanû.",
           "lemma": "nerbid",
           "display_gloss": "Nerib people",
           "gloss_tr": "Nyêribliler",
@@ -8678,7 +8497,7 @@
       "text": "Avdúl’ah aγaíri vā ke: mé̱vinde, t̮ikás mā́li Ńeríbi é̱stu bi̥de mā,",
       "lerch": "Avdúl’ah aγaíri vā ke: mé̱vinde, t̮ikás mā́li Ńeríbi é̱stu bi̥de mā,",
       "ipa": "avˈdul.ah aˈʁajri vaː ke ˈmɛvinde t͡ʃiˈkas ˈmaːli ɲeˈribi ˈɛstu bɨde maː",
-      "zazaki": "Avdûlah ağayri va kê mevindê çikas mali Nyêribi estû bıdê ma",
+      "zazaki": "Avdûlah ağayri va kê: mevindê, çikas mali Nyêribi estû bıdê ma,",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -8693,7 +8512,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Avdûlah ağayri va kê mevindê çikas mali Nyêribi estû bıdê ma"
+          "value": "Avdûlah ağayri va kê: mevindê, çikas mali Nyêribi estû bıdê ma,"
         },
         {
           "label": "ENGLISH",
@@ -8800,7 +8619,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -8823,7 +8642,7 @@
         {
           "form": "mé̱vinde,",
           "ipa": "ˈmɛvinde",
-          "zazaki": "mevindê",
+          "zazaki": "mevindê,",
           "lemma": "me-",
           "display_gloss": "do not delay",
           "gloss_tr": "gecikme",
@@ -8983,7 +8802,7 @@
         {
           "form": "mā,",
           "ipa": "maː",
-          "zazaki": "ma",
+          "zazaki": "ma,",
           "lemma": "ma",
           "display_gloss": "us",
           "gloss_tr": "bize",
@@ -9015,7 +8834,7 @@
       "text": "mā peíńai dauā́ni Ńeríbi ve̱šnén’i. Avdúl’ah aγái h̔abér e̱ršau’úte",
       "lerch": "mā peíńai dauā́ni Ńeríbi ve̱šnén’i. Avdúl’ah aγái h̔abér e̱ršau’úte",
       "ipa": "maː ˈpejɲaj daˈwaːni ɲeˈribi vɛʃˈnen.i avˈdul.ah aˈʁaj ħaˈber ɛrʃaw.ˈute",
-      "zazaki": "ma pêynyay dawani Nyêribi veşnêni Avdûlah ağay 'habêr erşawûtê",
+      "zazaki": "ma pêynyay dawani Nyêribi veşnêni. Avdûlah ağay 'habêr erşawûtê",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -9030,7 +8849,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ma pêynyay dawani Nyêribi veşnêni Avdûlah ağay 'habêr erşawûtê"
+          "value": "ma pêynyay dawani Nyêribi veşnêni. Avdûlah ağay 'habêr erşawûtê"
         },
         {
           "label": "ENGLISH",
@@ -9171,7 +8990,7 @@
         {
           "form": "ve̱šnén’i.",
           "ipa": "vɛʃˈnen.i",
-          "zazaki": "veşnêni",
+          "zazaki": "veşnêni.",
           "lemma": "vesneni",
           "display_gloss": "burn",
           "gloss_tr": "yakmak",
@@ -9306,7 +9125,7 @@
       "text": "dauā́ni vā ke̱: mé̱tersi, sé̱ri mí̥ri, māl ši̥mā́ri. Dauā́ṅ vā ke: mā",
       "lerch": "dauā́ni vā ke̱: mé̱tersi, sé̱ri mí̥ri, māl ši̥mā́ri. Dauā́ṅ vā ke: mā",
       "ipa": "daˈwaːni vaː kɛ ˈmɛtersi ˈsɛri ˈmɨri maːl ʃɨˈmaːri daˈwaːŋ vaː ke maː",
-      "zazaki": "dawani va ke metêrsi seri mıri mal şımari Dawang va kê ma",
+      "zazaki": "dawani va ke: metêrsi, seri mıri, mal şımari. Dawang va kê: ma",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -9321,7 +9140,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dawani va ke metêrsi seri mıri mal şımari Dawang va kê ma"
+          "value": "dawani va ke: metêrsi, seri mıri, mal şımari. Dawang va kê: ma"
         },
         {
           "label": "ENGLISH",
@@ -9416,7 +9235,7 @@
         {
           "form": "ke̱:",
           "ipa": "kɛ",
-          "zazaki": "ke",
+          "zazaki": "ke:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -9439,7 +9258,7 @@
         {
           "form": "mé̱tersi,",
           "ipa": "ˈmɛtersi",
-          "zazaki": "metêrsi",
+          "zazaki": "metêrsi,",
           "lemma": "me-",
           "display_gloss": "do not fear",
           "gloss_tr": "korkmayın",
@@ -9496,7 +9315,7 @@
         {
           "form": "mí̥ri,",
           "ipa": "ˈmɨri",
-          "zazaki": "mıri",
+          "zazaki": "mıri,",
           "lemma": "miri",
           "display_gloss": "mine",
           "gloss_tr": "benim",
@@ -9542,7 +9361,7 @@
         {
           "form": "ši̥mā́ri.",
           "ipa": "ʃɨˈmaːri",
-          "zazaki": "şımari",
+          "zazaki": "şımari.",
           "lemma": "sima",
           "display_gloss": "yours (pl.)",
           "gloss_tr": "sizin",
@@ -9633,7 +9452,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -9699,7 +9518,7 @@
       "text": "é̱mšoe ńevindén’i, mā vardén’i, ma suén’i aúkai Šél’e ver, kauγé̱",
       "lerch": "é̱mšoe ńevindén’i, mā vardén’i, ma suén’i aúkai Šél’e ver, kauγé̱",
       "ipa": "ˈɛmʃoe ɲevinˈden.i maː varˈden.i ma ˈswen.i ˈawkaj ˈʃel.e ver kawˈʁɛ",
-      "zazaki": "emşoê nyêvindêni ma vardêni ma swêni awkay Şêlê vêr kawğe",
+      "zazaki": "emşoê nyêvindêni, ma vardêni, ma swêni awkay Şêlê vêr, kawğe",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -9714,7 +9533,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "emşoê nyêvindêni ma vardêni ma swêni awkay Şêlê vêr kawğe"
+          "value": "emşoê nyêvindêni, ma vardêni, ma swêni awkay Şêlê vêr, kawğe"
         },
         {
           "label": "ENGLISH",
@@ -9764,7 +9583,7 @@
         {
           "form": "ńevindén’i,",
           "ipa": "ɲevinˈden.i",
-          "zazaki": "nyêvindêni",
+          "zazaki": "nyêvindêni,",
           "lemma": "ne-",
           "display_gloss": "we will not delay",
           "gloss_tr": "gecikmeyeceğiz",
@@ -9821,7 +9640,7 @@
         {
           "form": "vardén’i,",
           "ipa": "varˈden.i",
-          "zazaki": "vardêni",
+          "zazaki": "vardêni,",
           "lemma": "vardeni",
           "display_gloss": "we will set out",
           "gloss_tr": "yola çıkacağız",
@@ -9936,7 +9755,7 @@
         {
           "form": "ver,",
           "ipa": "ver",
-          "zazaki": "vêr",
+          "zazaki": "vêr,",
           "lemma": "ver",
           "display_gloss": "front",
           "gloss_tr": "ön",
@@ -9991,7 +9810,7 @@
       "text": "kén’i, mé̱vinde, tí̥zi bye. Sebáh Avdúl’ah aγá we̱ríšt be espā́r,",
       "lerch": "kén’i, mé̱vinde, tí̥zi bye. Sebáh Avdúl’ah aγá we̱ríšt be espā́r,",
       "ipa": "ˈken.i ˈmɛvinde ˈtɨzi bje seˈbah avˈdul.ah aˈʁa wɛˈriʃt be esˈpaːr",
-      "zazaki": "kêni mevindê tızi byê Sêbah Avdûlah ağa werişt bê êspar",
+      "zazaki": "kêni, mevindê, tızi byê. Sêbah Avdûlah ağa werişt bê êspar,",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -10006,7 +9825,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kêni mevindê tızi byê Sêbah Avdûlah ağa werişt bê êspar"
+          "value": "kêni, mevindê, tızi byê. Sêbah Avdûlah ağa werişt bê êspar,"
         },
         {
           "label": "ENGLISH",
@@ -10033,7 +9852,7 @@
         {
           "form": "kén’i,",
           "ipa": "ˈken.i",
-          "zazaki": "kêni",
+          "zazaki": "kêni,",
           "lemma": "kerd",
           "display_gloss": "do",
           "gloss_tr": "yapmak",
@@ -10067,7 +9886,7 @@
         {
           "form": "mé̱vinde,",
           "ipa": "ˈmɛvinde",
-          "zazaki": "mevindê",
+          "zazaki": "mevindê,",
           "lemma": "me-",
           "display_gloss": "do not delay",
           "gloss_tr": "gecikme",
@@ -10124,7 +9943,7 @@
         {
           "form": "bye.",
           "ipa": "bje",
-          "zazaki": "byê",
+          "zazaki": "byê.",
           "lemma": "bye",
           "display_gloss": "come",
           "gloss_tr": "gel",
@@ -10262,7 +10081,7 @@
         {
           "form": "espā́r,",
           "ipa": "esˈpaːr",
-          "zazaki": "êspar",
+          "zazaki": "êspar,",
           "lemma": "espar",
           "display_gloss": "horse",
           "gloss_tr": "at",
@@ -10294,7 +10113,7 @@
       "text": "e̱skéri χóe top kerd, vā ke e̱skéri χóera: ōγíl, mé̱vindi, mā šyẹ́ri",
       "lerch": "e̱skéri χóe top kerd, vā ke e̱skéri χóera: ōγíl, mé̱vindi, mā šyẹ́ri",
       "ipa": "ɛsˈkeri ˈχoe top kerd vaː ke ɛsˈkeri ˈχoera oːˈʁil ˈmɛvindi maː ˈʃje̝ri",
-      "zazaki": "eskêri xoê top kêrd va kê eskêri xoêra oğil mevindi ma şyêri",
+      "zazaki": "eskêri xoê top kêrd, va kê eskêri xoêra: oğil, mevindi, ma şyêri",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -10309,7 +10128,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "eskêri xoê top kêrd va kê eskêri xoêra oğil mevindi ma şyêri"
+          "value": "eskêri xoê top kêrd, va kê eskêri xoêra: oğil, mevindi, ma şyêri"
         },
         {
           "label": "ENGLISH",
@@ -10405,7 +10224,7 @@
         {
           "form": "kerd,",
           "ipa": "kerd",
-          "zazaki": "kêrd",
+          "zazaki": "kêrd,",
           "lemma": "kerd",
           "display_gloss": "did",
           "gloss_tr": "etti",
@@ -10497,7 +10316,7 @@
         {
           "form": "χóera:",
           "ipa": "ˈχoera",
-          "zazaki": "xoêra",
+          "zazaki": "xoêra:",
           "lemma": "xoe",
           "display_gloss": "to oneself",
           "gloss_tr": "kendine",
@@ -10531,7 +10350,7 @@
         {
           "form": "ōγíl,",
           "ipa": "oːˈʁil",
-          "zazaki": "oğil",
+          "zazaki": "oğil,",
           "lemma": "ogil",
           "display_gloss": "sons",
           "gloss_tr": "oğullar",
@@ -10554,7 +10373,7 @@
         {
           "form": "mé̱vindi,",
           "ipa": "ˈmɛvindi",
-          "zazaki": "mevindi",
+          "zazaki": "mevindi,",
           "lemma": "me-",
           "display_gloss": "do not delay",
           "gloss_tr": "gecikme",
@@ -10643,7 +10462,7 @@
       "text": "kauγé̱, mé̱tersi, Ńerbíd̮i t̮ā́ni, kauγé̱ aširā́nu, sé̱re mí̥ri, māl ši̥-māri.",
       "lerch": "kauγé̱, mé̱tersi, Ńerbíd̮i t̮ā́ni, kauγé̱ aširā́nu, sé̱re mí̥ri, māl ši̥-māri.",
       "ipa": "kawˈʁɛ ˈmɛtersi ɲerˈbid͡ʒi ˈt͡ʃaːni kawˈʁɛ aʃiˈraːnu ˈsɛre ˈmɨri maːl ʃɨ-maːri",
-      "zazaki": "kawğe metêrsi Nyêrbici çani kawğe aşiranû serê mıri mal şı-mari",
+      "zazaki": "kawğe, metêrsi, Nyêrbici çani, kawğe aşiranû, serê mıri, mal şı-mari.",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -10658,7 +10477,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kawğe metêrsi Nyêrbici çani kawğe aşiranû serê mıri mal şı-mari"
+          "value": "kawğe, metêrsi, Nyêrbici çani, kawğe aşiranû, serê mıri, mal şı-mari."
         },
         {
           "label": "ENGLISH",
@@ -10685,7 +10504,7 @@
         {
           "form": "kauγé̱,",
           "ipa": "kawˈʁɛ",
-          "zazaki": "kawğe",
+          "zazaki": "kawğe,",
           "lemma": "kauge",
           "display_gloss": "fight",
           "gloss_tr": "kavga",
@@ -10708,7 +10527,7 @@
         {
           "form": "mé̱tersi,",
           "ipa": "ˈmɛtersi",
-          "zazaki": "metêrsi",
+          "zazaki": "metêrsi,",
           "lemma": "me-",
           "display_gloss": "do not fear",
           "gloss_tr": "korkmayın",
@@ -10787,7 +10606,7 @@
         {
           "form": "t̮ā́ni,",
           "ipa": "ˈt͡ʃaːni",
-          "zazaki": "çani",
+          "zazaki": "çani,",
           "lemma": "tani",
           "display_gloss": "few",
           "gloss_tr": "az",
@@ -10833,7 +10652,7 @@
         {
           "form": "aširā́nu,",
           "ipa": "aʃiˈraːnu",
-          "zazaki": "aşiranû",
+          "zazaki": "aşiranû,",
           "lemma": "asiranu",
           "display_gloss": "tribal",
           "gloss_tr": "aşirete ait",
@@ -10879,7 +10698,7 @@
         {
           "form": "mí̥ri,",
           "ipa": "ˈmɨri",
-          "zazaki": "mıri",
+          "zazaki": "mıri,",
           "lemma": "miri",
           "display_gloss": "mine",
           "gloss_tr": "benim",
@@ -10925,7 +10744,7 @@
         {
           "form": "ši̥-māri.",
           "ipa": "ʃɨ-maːri",
-          "zazaki": "şı-mari",
+          "zazaki": "şı-mari.",
           "lemma": "sima",
           "display_gloss": "yours (pl.)",
           "gloss_tr": "sizin",
@@ -10979,7 +10798,7 @@
       "text": "Dúmilbāzi dai pṳ́roe, Avdúl’ah aγá kaut e̱skéri ve̱r, šẹ̄ aúkai",
       "lerch": "Dúmilbāzi dai pṳ́roe, Avdúl’ah aγá kaut e̱skéri ve̱r, šẹ̄ aúkai",
       "ipa": "ˈdumilbaːzi daj ˈpyroe avˈdul.ah aˈʁa kawt ɛsˈkeri vɛr ʃe̝ː ˈawkaj",
-      "zazaki": "Dûmilbazi day pûroê Avdûlah ağa kawt eskêri ver şê awkay",
+      "zazaki": "Dûmilbazi day pûroê, Avdûlah ağa kawt eskêri ver, şê awkay",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -10994,7 +10813,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Dûmilbazi day pûroê Avdûlah ağa kawt eskêri ver şê awkay"
+          "value": "Dûmilbazi day pûroê, Avdûlah ağa kawt eskêri ver, şê awkay"
         },
         {
           "label": "ENGLISH",
@@ -11067,7 +10886,7 @@
         {
           "form": "pṳ́roe,",
           "ipa": "ˈpyroe",
-          "zazaki": "pûroê",
+          "zazaki": "pûroê,",
           "lemma": "puroe",
           "display_gloss": "upon",
           "gloss_tr": "üzerine",
@@ -11182,7 +11001,7 @@
         {
           "form": "ve̱r,",
           "ipa": "vɛr",
-          "zazaki": "ver",
+          "zazaki": "ver,",
           "lemma": "ver",
           "display_gloss": "front",
           "gloss_tr": "ön",
@@ -11260,7 +11079,7 @@
       "text": "Šél’e ve̱r, e̱skéri Χalé̱f aγái ńāmaú, e̱rš kerd, vā ke e̱skéri χóera:",
       "lerch": "Šél’e ve̱r, e̱skéri Χalé̱f aγái ńāmaú, e̱rš kerd, vā ke e̱skéri χóera:",
       "ipa": "ˈʃel.e vɛr ɛsˈkeri χaˈlɛf aˈʁaj ɲaːˈmaw ɛrʃ kerd vaː ke ɛsˈkeri ˈχoera",
-      "zazaki": "Şêlê ver eskêri Xalef ağay nyamaw erş kêrd va kê eskêri xoêra",
+      "zazaki": "Şêlê ver, eskêri Xalef ağay nyamaw, erş kêrd, va kê eskêri xoêra:",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -11275,7 +11094,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Şêlê ver eskêri Xalef ağay nyamaw erş kêrd va kê eskêri xoêra"
+          "value": "Şêlê ver, eskêri Xalef ağay nyamaw, erş kêrd, va kê eskêri xoêra:"
         },
         {
           "label": "ENGLISH",
@@ -11325,7 +11144,7 @@
         {
           "form": "ve̱r,",
           "ipa": "vɛr",
-          "zazaki": "ver",
+          "zazaki": "ver,",
           "lemma": "ver",
           "display_gloss": "front",
           "gloss_tr": "ön",
@@ -11417,7 +11236,7 @@
         {
           "form": "ńāmaú,",
           "ipa": "ɲaːˈmaw",
-          "zazaki": "nyamaw",
+          "zazaki": "nyamaw,",
           "lemma": "namau",
           "display_gloss": "ordered",
           "gloss_tr": "emretti",
@@ -11463,7 +11282,7 @@
         {
           "form": "kerd,",
           "ipa": "kerd",
-          "zazaki": "kêrd",
+          "zazaki": "kêrd,",
           "lemma": "kerd",
           "display_gloss": "did",
           "gloss_tr": "etti",
@@ -11555,7 +11374,7 @@
         {
           "form": "χóera:",
           "ipa": "ˈχoera",
-          "zazaki": "xoêra",
+          "zazaki": "xoêra:",
           "lemma": "xoe",
           "display_gloss": "to oneself",
           "gloss_tr": "kendine",
@@ -11598,7 +11417,7 @@
       "text": "sé̱re mi̥ri, māl ši̥mā́ri, dau’ā́ṅ vé̱šni. E̱skére Avdúl’ah aγái šẹ̄",
       "lerch": "sé̱re mi̥ri, māl ši̥mā́ri, dau’ā́ṅ vé̱šni. E̱skére Avdúl’ah aγái šẹ̄",
       "ipa": "ˈsɛre mɨri maːl ʃɨˈmaːri daw.ˈaːŋ ˈvɛʃni ɛsˈkere avˈdul.ah aˈʁaj ʃe̝ː",
-      "zazaki": "serê mıri mal şımari dawang veşni Eskêrê Avdûlah ağay şê",
+      "zazaki": "serê mıri, mal şımari, dawang veşni. Eskêrê Avdûlah ağay şê",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -11613,7 +11432,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "serê mıri mal şımari dawang veşni Eskêrê Avdûlah ağay şê"
+          "value": "serê mıri, mal şımari, dawang veşni. Eskêrê Avdûlah ağay şê"
         },
         {
           "label": "ENGLISH",
@@ -11663,7 +11482,7 @@
         {
           "form": "mi̥ri,",
           "ipa": "mɨri",
-          "zazaki": "mıri",
+          "zazaki": "mıri,",
           "lemma": "miri",
           "display_gloss": "mine",
           "gloss_tr": "benim",
@@ -11709,7 +11528,7 @@
         {
           "form": "ši̥mā́ri,",
           "ipa": "ʃɨˈmaːri",
-          "zazaki": "şımari",
+          "zazaki": "şımari,",
           "lemma": "sima",
           "display_gloss": "yours (pl.)",
           "gloss_tr": "sizin",
@@ -11777,7 +11596,7 @@
         {
           "form": "vé̱šni.",
           "ipa": "ˈvɛʃni",
-          "zazaki": "veşni",
+          "zazaki": "veşni.",
           "lemma": "vesni",
           "display_gloss": "burn",
           "gloss_tr": "yakın",
@@ -11912,7 +11731,7 @@
       "text": "dé̱wi Χalé̱f aγái, geraúti šeš dé̱wi, vé̱šnai, aγeraí, āmeí keíye,",
       "lerch": "dé̱wi Χalé̱f aγái, geraúti šeš dé̱wi, vé̱šnai, aγeraí, āmeí keíye,",
       "ipa": "ˈdɛwi χaˈlɛf aˈʁaj geˈrawti ʃeʃ ˈdɛwi ˈvɛʃnaj aʁeˈraj aːˈmej ˈkejje",
-      "zazaki": "dewi Xalef ağay gêrawti şêş dewi veşnay ağêray amêy kêyyê",
+      "zazaki": "dewi Xalef ağay, gêrawti şêş dewi, veşnay, ağêray, amêy kêyyê,",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -11927,7 +11746,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dewi Xalef ağay gêrawti şêş dewi veşnay ağêray amêy kêyyê"
+          "value": "dewi Xalef ağay, gêrawti şêş dewi, veşnay, ağêray, amêy kêyyê,"
         },
         {
           "label": "ENGLISH",
@@ -12000,7 +11819,7 @@
         {
           "form": "aγái,",
           "ipa": "aˈʁaj",
-          "zazaki": "ağay",
+          "zazaki": "ağay,",
           "lemma": "agai",
           "display_gloss": "Agha",
           "gloss_tr": "ağa",
@@ -12069,7 +11888,7 @@
         {
           "form": "dé̱wi,",
           "ipa": "ˈdɛwi",
-          "zazaki": "dewi",
+          "zazaki": "dewi,",
           "lemma": "dewi",
           "display_gloss": "villages",
           "gloss_tr": "köyler",
@@ -12092,7 +11911,7 @@
         {
           "form": "vé̱šnai,",
           "ipa": "ˈvɛʃnaj",
-          "zazaki": "veşnay",
+          "zazaki": "veşnay,",
           "lemma": "vesnai",
           "display_gloss": "burned",
           "gloss_tr": "yaktı",
@@ -12115,7 +11934,7 @@
         {
           "form": "aγeraí,",
           "ipa": "aʁeˈraj",
-          "zazaki": "ağêray",
+          "zazaki": "ağêray,",
           "lemma": "agerai",
           "display_gloss": "returned",
           "gloss_tr": "geri döndü",
@@ -12161,7 +11980,7 @@
         {
           "form": "keíye,",
           "ipa": "ˈkejje",
-          "zazaki": "kêyyê",
+          "zazaki": "kêyyê,",
           "lemma": "keiye",
           "display_gloss": "house",
           "gloss_tr": "ev",
@@ -12193,7 +12012,7 @@
       "text": "Avdúl’ah aγá dā māl e̱skéri χoé.",
       "lerch": "Avdúl’ah aγá dā māl e̱skéri χoé.",
       "ipa": "avˈdul.ah aˈʁa daː maːl ɛsˈkeri χˈoe",
-      "zazaki": "Avdûlah ağa da mal eskêri xoê",
+      "zazaki": "Avdûlah ağa da mal eskêri xoê.",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -12208,7 +12027,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Avdûlah ağa da mal eskêri xoê"
+          "value": "Avdûlah ağa da mal eskêri xoê."
         },
         {
           "label": "ENGLISH",
@@ -12350,7 +12169,7 @@
         {
           "form": "χoé.",
           "ipa": "χˈoe",
-          "zazaki": "xoê",
+          "zazaki": "xoê.",
           "lemma": "xoe",
           "display_gloss": "own",
           "gloss_tr": "kendi",
@@ -12382,7 +12201,7 @@
       "text": "Yau ā́šme mend. Χalé̱f aγái h̔abére e̱ršau’úte Avdúl’ah aγáiri",
       "lerch": "Yau ā́šme mend. Χalé̱f aγái h̔abére e̱ršau’úte Avdúl’ah aγáiri",
       "ipa": "jaw ˈaːʃme mend χaˈlɛf aˈʁaj ħaˈbere ɛrʃaw.ˈute avˈdul.ah aˈʁajri",
-      "zazaki": "Yaw aşmê mênd Xalef ağay 'habêrê erşawûtê Avdûlah ağayri",
+      "zazaki": "Yaw aşmê mênd. Xalef ağay 'habêrê erşawûtê Avdûlah ağayri",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -12397,7 +12216,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Yaw aşmê mênd Xalef ağay 'habêrê erşawûtê Avdûlah ağayri"
+          "value": "Yaw aşmê mênd. Xalef ağay 'habêrê erşawûtê Avdûlah ağayri"
         },
         {
           "label": "ENGLISH",
@@ -12470,7 +12289,7 @@
         {
           "form": "mend.",
           "ipa": "mend",
-          "zazaki": "mênd",
+          "zazaki": "mênd.",
           "lemma": "mend",
           "display_gloss": "passed",
           "gloss_tr": "geçti",
@@ -12662,7 +12481,7 @@
       "text": "vā ke: túe̱ é̱hende e̱skéri me kišt, túe še̱š dau’e me ve̱šnai, tá’alan",
       "lerch": "vā ke: túe̱ é̱hende e̱skéri me kišt, túe še̱š dau’e me ve̱šnai, tá’alan",
       "ipa": "vaː ke ˈtwɛ ˈɛhende ɛsˈkeri me kiʃt ˈtwe ʃɛʃ daw.e me vɛʃnaj ˈta.alan",
-      "zazaki": "va kê twe ehêndê eskêri mê kişt twê şeş dawê mê veşnay taalan",
+      "zazaki": "va kê: twe ehêndê eskêri mê kişt, twê şeş dawê mê veşnay, taalan",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -12677,7 +12496,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "va kê twe ehêndê eskêri mê kişt twê şeş dawê mê veşnay taalan"
+          "value": "va kê: twe ehêndê eskêri mê kişt, twê şeş dawê mê veşnay, taalan"
         },
         {
           "label": "ENGLISH",
@@ -12727,7 +12546,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -12842,7 +12661,7 @@
         {
           "form": "kišt,",
           "ipa": "kiʃt",
-          "zazaki": "kişt",
+          "zazaki": "kişt,",
           "lemma": "kist",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -12957,7 +12776,7 @@
         {
           "form": "ve̱šnai,",
           "ipa": "vɛʃnaj",
-          "zazaki": "veşnay",
+          "zazaki": "veşnay,",
           "lemma": "vesnai",
           "display_gloss": "burned",
           "gloss_tr": "yaktı",
@@ -13012,7 +12831,7 @@
       "text": "kérdi, wā́χte χóede h̔adré̱ be, e̱z ḗ̱n’a gelā́ṅke yén’a, qand̮aúke",
       "lerch": "kérdi, wā́χte χóede h̔adré̱ be, e̱z ḗ̱n’a gelā́ṅke yén’a, qand̮aúke",
       "ipa": "ˈkerdi ˈwaːχte ˈχoede ħadˈrɛ be ɛz ˈɛːn.a geˈlaːŋke ˈjen.a qanˈd͡ʒawke",
-      "zazaki": "kêrdi waxtê xoêdê 'hadre bê ez ena gêlankê yêna qancawkê",
+      "zazaki": "kêrdi, waxtê xoêdê 'hadre bê, ez ena gêlankê yêna, qancawkê",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -13027,7 +12846,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kêrdi waxtê xoêdê 'hadre bê ez ena gêlankê yêna qancawkê"
+          "value": "kêrdi, waxtê xoêdê 'hadre bê, ez ena gêlankê yêna, qancawkê"
         },
         {
           "label": "ENGLISH",
@@ -13054,7 +12873,7 @@
         {
           "form": "kérdi,",
           "ipa": "ˈkerdi",
-          "zazaki": "kêrdi",
+          "zazaki": "kêrdi,",
           "lemma": "kerdi",
           "display_gloss": "did",
           "gloss_tr": "etti",
@@ -13157,7 +12976,7 @@
         {
           "form": "be,",
           "ipa": "be",
-          "zazaki": "bê",
+          "zazaki": "bê,",
           "lemma": "be",
           "display_gloss": "be",
           "gloss_tr": "ol",
@@ -13249,7 +13068,7 @@
         {
           "form": "yén’a,",
           "ipa": "ˈjen.a",
-          "zazaki": "yêna",
+          "zazaki": "yêna,",
           "lemma": "yena",
           "display_gloss": "I come",
           "gloss_tr": "geliyorum",
@@ -13315,7 +13134,7 @@
       "text": "dé̱wi túe me dī e̱z ve̱šnén’a, tá’alan kén’a hé̱ta yau šé̱we, t̮oa-",
       "lerch": "dé̱wi túe me dī e̱z ve̱šnén’a, tá’alan kén’a hé̱ta yau šé̱we, t̮oa-",
       "ipa": "ˈdɛwi ˈtwe me diː ɛz vɛʃˈnen.a ˈta.alan ˈken.a ˈhɛta jaw ˈʃɛwe t͡ʃoa",
-      "zazaki": "dewi twê mê di ez veşnêna taalan kêna heta yaw şewê çoa",
+      "zazaki": "dewi twê mê di ez veşnêna, taalan kêna heta yaw şewê, çoa-",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -13330,7 +13149,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dewi twê mê di ez veşnêna taalan kêna heta yaw şewê çoa"
+          "value": "dewi twê mê di ez veşnêna, taalan kêna heta yaw şewê, çoa-"
         },
         {
           "label": "ENGLISH",
@@ -13472,7 +13291,7 @@
         {
           "form": "ve̱šnén’a,",
           "ipa": "vɛʃˈnen.a",
-          "zazaki": "veşnêna",
+          "zazaki": "veşnêna,",
           "lemma": "vesnena",
           "display_gloss": "I will burn",
           "gloss_tr": "yakacağım",
@@ -13598,7 +13417,7 @@
         {
           "form": "šé̱we,",
           "ipa": "ˈʃɛwe",
-          "zazaki": "şewê",
+          "zazaki": "şewê,",
           "lemma": "sewe",
           "display_gloss": "night",
           "gloss_tr": "gece",
@@ -13621,7 +13440,7 @@
         {
           "form": "t̮oa-",
           "ipa": "t͡ʃoa",
-          "zazaki": "çoa",
+          "zazaki": "çoa-",
           "lemma": "toa",
           "display_gloss": "child-",
           "gloss_tr": "çocuk-",
@@ -13653,7 +13472,7 @@
       "text": "d̮úh̔i ńeverdā́na, hé̱mine sé̱re bi̥rmén’a. Avdúl’ah aγái h̔abér e̱r-",
       "lerch": "d̮úh̔i ńeverdā́na, hé̱mine sé̱re bi̥rmén’a. Avdúl’ah aγái h̔abér e̱r-",
       "ipa": "ˈd͡ʒuħi ɲeverˈdaːna ˈhɛmine ˈsɛre bɨrˈmen.a avˈdul.ah aˈʁaj ħaˈber ɛr",
-      "zazaki": "cû'hi nyêvêrdana heminê serê bırmêna Avdûlah ağay 'habêr er",
+      "zazaki": "cû'hi nyêvêrdana, heminê serê bırmêna. Avdûlah ağay 'habêr er-",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -13668,7 +13487,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "cû'hi nyêvêrdana heminê serê bırmêna Avdûlah ağay 'habêr er"
+          "value": "cû'hi nyêvêrdana, heminê serê bırmêna. Avdûlah ağay 'habêr er-"
         },
         {
           "label": "ENGLISH",
@@ -13718,7 +13537,7 @@
         {
           "form": "ńeverdā́na,",
           "ipa": "ɲeverˈdaːna",
-          "zazaki": "nyêvêrdana",
+          "zazaki": "nyêvêrdana,",
           "lemma": "ne-",
           "display_gloss": "I will not spare",
           "gloss_tr": "bağışlamayacağım",
@@ -13798,7 +13617,7 @@
         {
           "form": "bi̥rmén’a.",
           "ipa": "bɨrˈmen.a",
-          "zazaki": "bırmêna",
+          "zazaki": "bırmêna.",
           "lemma": "birmena",
           "display_gloss": "cut off",
           "gloss_tr": "koparacağım",
@@ -13890,7 +13709,7 @@
         {
           "form": "e̱r-",
           "ipa": "ɛr",
-          "zazaki": "er",
+          "zazaki": "er-",
           "lemma": "er",
           "display_gloss": "sent-",
           "gloss_tr": "gönderdi-",
@@ -13922,7 +13741,7 @@
       "text": "šau’úte Χalé̱f aγāiri vā ke: d̮ai χóede reh̔át ví̥nde, é̱ke ḗ̱n’a ge-",
       "lerch": "šau’úte Χalé̱f aγāiri vā ke: d̮ai χóede reh̔át ví̥nde, é̱ke ḗ̱n’a ge-",
       "ipa": "ʃaw.ˈute χaˈlɛf aʁaːjri vaː ke d͡ʒaj ˈχoede reˈħat ˈvɨnde ˈɛke ˈɛːn.a ge",
-      "zazaki": "şawûtê Xalef ağayri va kê cay xoêdê rê'hat vındê ekê ena gê",
+      "zazaki": "şawûtê Xalef ağayri va kê: cay xoêdê rê'hat vındê, ekê ena gê-",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -13937,7 +13756,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "şawûtê Xalef ağayri va kê cay xoêdê rê'hat vındê ekê ena gê"
+          "value": "şawûtê Xalef ağayri va kê: cay xoêdê rê'hat vındê, ekê ena gê-"
         },
         {
           "label": "ENGLISH",
@@ -14067,7 +13886,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -14170,7 +13989,7 @@
         {
           "form": "ví̥nde,",
           "ipa": "ˈvɨnde",
-          "zazaki": "vındê",
+          "zazaki": "vındê,",
           "lemma": "vinde",
           "display_gloss": "stay",
           "gloss_tr": "kal",
@@ -14239,7 +14058,7 @@
         {
           "form": "ge-",
           "ipa": "ge",
-          "zazaki": "gê",
+          "zazaki": "gê-",
           "lemma": "ge",
           "display_gloss": "occasion-",
           "gloss_tr": "sefer-",
@@ -14271,7 +14090,7 @@
       "text": "lāṅke e̱z ameía túera yāu kérgā kóere ńeverdā́nu. Χalé̱f aγái",
       "lerch": "lāṅke e̱z ameía túera yāu kérgā kóere ńeverdā́nu. Χalé̱f aγái",
       "ipa": "laːŋke ɛz aˈmeja ˈtwera jaːw ˈkergaː ˈkoere ɲeverˈdaːnu χaˈlɛf aˈʁaj",
-      "zazaki": "lankê ez amêya twêra yaw kêrga koêrê nyêvêrdanû Xalef ağay",
+      "zazaki": "lankê ez amêya twêra yaw kêrga koêrê nyêvêrdanû. Xalef ağay",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -14286,7 +14105,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "lankê ez amêya twêra yaw kêrga koêrê nyêvêrdanû Xalef ağay"
+          "value": "lankê ez amêya twêra yaw kêrga koêrê nyêvêrdanû. Xalef ağay"
         },
         {
           "label": "ENGLISH",
@@ -14485,7 +14304,7 @@
         {
           "form": "ńeverdā́nu.",
           "ipa": "ɲeverˈdaːnu",
-          "zazaki": "nyêvêrdanû",
+          "zazaki": "nyêvêrdanû.",
           "lemma": "ne-",
           "display_gloss": "I will not spare",
           "gloss_tr": "bağışlamayacağım",
@@ -14574,7 +14393,7 @@
       "text": "h̔abér e̱ršau’úte Avdúl’ah aγāiri vā ke: te bye χóeri, vién’e. Av-",
       "lerch": "h̔abér e̱ršau’úte Avdúl’ah aγāiri vā ke: te bye χóeri, vién’e. Av-",
       "ipa": "ħaˈber ɛrʃaw.ˈute avˈdul.ah aʁaːjri vaː ke te bje ˈχoeri ˈvjen.e av",
-      "zazaki": "'habêr erşawûtê Avdûlah ağayri va kê tê byê xoêri vyênê Av",
+      "zazaki": "'habêr erşawûtê Avdûlah ağayri va kê: tê byê xoêri, vyênê. Av-",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -14589,7 +14408,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "'habêr erşawûtê Avdûlah ağayri va kê tê byê xoêri vyênê Av"
+          "value": "'habêr erşawûtê Avdûlah ağayri va kê: tê byê xoêri, vyênê. Av-"
         },
         {
           "label": "ENGLISH",
@@ -14742,7 +14561,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -14811,7 +14630,7 @@
         {
           "form": "χóeri,",
           "ipa": "ˈχoeri",
-          "zazaki": "xoêri",
+          "zazaki": "xoêri,",
           "lemma": "xoe",
           "display_gloss": "yourself",
           "gloss_tr": "kendin",
@@ -14845,7 +14664,7 @@
         {
           "form": "vién’e.",
           "ipa": "ˈvjen.e",
-          "zazaki": "vyênê",
+          "zazaki": "vyênê.",
           "lemma": "viene",
           "display_gloss": "see",
           "gloss_tr": "gör",
@@ -14868,7 +14687,7 @@
         {
           "form": "Av-",
           "ipa": "av",
-          "zazaki": "Av",
+          "zazaki": "Av-",
           "lemma": "av",
           "display_gloss": "Avdulah-",
           "gloss_tr": "Avdulah-",
@@ -14911,7 +14730,7 @@
       "text": "dúl’ah aγá we̱ríšt be espā́r, dṳ́milbā́zi dā pṳ́roe, e̱skéri χóe āmé̱",
       "lerch": "dúl’ah aγá we̱ríšt be espā́r, dṳ́milbā́zi dā pṳ́roe, e̱skéri χóe āmé̱",
       "ipa": "ˈdul.ah aˈʁa wɛˈriʃt be esˈpaːr ˈdymilˈbaːzi daː ˈpyroe ɛsˈkeri ˈχoe aːˈmɛ",
-      "zazaki": "dûlah ağa werişt bê êspar dûmilbazi da pûroê eskêri xoê ame",
+      "zazaki": "dûlah ağa werişt bê êspar, dûmilbazi da pûroê, eskêri xoê ame",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -14926,7 +14745,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dûlah ağa werişt bê êspar dûmilbazi da pûroê eskêri xoê ame"
+          "value": "dûlah ağa werişt bê êspar, dûmilbazi da pûroê, eskêri xoê ame"
         },
         {
           "label": "ENGLISH",
@@ -15045,7 +14864,7 @@
         {
           "form": "espā́r,",
           "ipa": "esˈpaːr",
-          "zazaki": "êspar",
+          "zazaki": "êspar,",
           "lemma": "espar",
           "display_gloss": "horse",
           "gloss_tr": "at",
@@ -15114,7 +14933,7 @@
         {
           "form": "pṳ́roe,",
           "ipa": "ˈpyroe",
-          "zazaki": "pûroê",
+          "zazaki": "pûroê,",
           "lemma": "puroe",
           "display_gloss": "upon",
           "gloss_tr": "üzerine",
@@ -15215,7 +15034,7 @@
       "text": "pyesé̱r. Avdúl’ah aγá vā ke e̱skéri χóera: t̮oad̮úh̔i mā h̔ā šuén’i",
       "lerch": "pyesé̱r. Avdúl’ah aγá vā ke e̱skéri χóera: t̮oad̮úh̔i mā h̔ā šuén’i",
       "ipa": "pjeˈsɛr avˈdul.ah aˈʁa vaː ke ɛsˈkeri ˈχoera t͡ʃoaˈd͡ʒuħi maː ħaː ˈʃwen.i",
-      "zazaki": "pyêser Avdûlah ağa va kê eskêri xoêra çoacû'hi ma 'ha şwêni",
+      "zazaki": "pyêser. Avdûlah ağa va kê eskêri xoêra: çoacû'hi ma 'ha şwêni",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -15230,7 +15049,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "pyêser Avdûlah ağa va kê eskêri xoêra çoacû'hi ma 'ha şwêni"
+          "value": "pyêser. Avdûlah ağa va kê eskêri xoêra: çoacû'hi ma 'ha şwêni"
         },
         {
           "label": "ENGLISH",
@@ -15257,7 +15076,7 @@
         {
           "form": "pyesé̱r.",
           "ipa": "pjeˈsɛr",
-          "zazaki": "pyêser",
+          "zazaki": "pyêser.",
           "lemma": "pyeser",
           "display_gloss": "together",
           "gloss_tr": "birlikte",
@@ -15395,7 +15214,7 @@
         {
           "form": "χóera:",
           "ipa": "ˈχoera",
-          "zazaki": "xoêra",
+          "zazaki": "xoêra:",
           "lemma": "xoe",
           "display_gloss": "to oneself",
           "gloss_tr": "kendine",
@@ -15530,7 +15349,7 @@
       "text": "kauγé̱, mé̱tersi, ḗ̱n’a gelā́ṅke t̮é̱wi mé̱ve̱rdi, hé̱mine bí̥ksi, sé̱re",
       "lerch": "kauγé̱, mé̱tersi, ḗ̱n’a gelā́ṅke t̮é̱wi mé̱ve̱rdi, hé̱mine bí̥ksi, sé̱re",
       "ipa": "kawˈʁɛ ˈmɛtersi ˈɛːn.a geˈlaːŋke ˈt͡ʃɛwi ˈmɛvɛrdi ˈhɛmine ˈbɨksi ˈsɛre",
-      "zazaki": "kawğe metêrsi ena gêlankê çewi meverdi heminê bıksi serê",
+      "zazaki": "kawğe, metêrsi, ena gêlankê çewi meverdi, heminê bıksi, serê",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -15545,7 +15364,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kawğe metêrsi ena gêlankê çewi meverdi heminê bıksi serê"
+          "value": "kawğe, metêrsi, ena gêlankê çewi meverdi, heminê bıksi, serê"
         },
         {
           "label": "ENGLISH",
@@ -15572,7 +15391,7 @@
         {
           "form": "kauγé̱,",
           "ipa": "kawˈʁɛ",
-          "zazaki": "kawğe",
+          "zazaki": "kawğe,",
           "lemma": "kauge",
           "display_gloss": "fight",
           "gloss_tr": "kavga",
@@ -15595,7 +15414,7 @@
         {
           "form": "mé̱tersi,",
           "ipa": "ˈmɛtersi",
-          "zazaki": "metêrsi",
+          "zazaki": "metêrsi,",
           "lemma": "me-",
           "display_gloss": "do not fear",
           "gloss_tr": "korkmayın",
@@ -15698,7 +15517,7 @@
         {
           "form": "mé̱ve̱rdi,",
           "ipa": "ˈmɛvɛrdi",
-          "zazaki": "meverdi",
+          "zazaki": "meverdi,",
           "lemma": "me-",
           "display_gloss": "spare",
           "gloss_tr": "bağışlayın",
@@ -15755,7 +15574,7 @@
         {
           "form": "bí̥ksi,",
           "ipa": "ˈbɨksi",
-          "zazaki": "bıksi",
+          "zazaki": "bıksi,",
           "lemma": "bi-",
           "display_gloss": "kill",
           "gloss_tr": "öldürün",
@@ -15821,7 +15640,7 @@
       "text": "mí̥ri māl sí̥mā́ri. E̱skéri vā ke Avdúl’ah aγaíra: pé̱ki, eféndim,",
       "lerch": "mí̥ri māl sí̥mā́ri. E̱skéri vā ke Avdúl’ah aγaíra: pé̱ki, eféndim,",
       "ipa": "ˈmɨri maːl ˈsɨˈmaːri ɛsˈkeri vaː ke avˈdul.ah aˈʁajra ˈpɛki eˈfendim",
-      "zazaki": "mıri mal sımari Eskêri va kê Avdûlah ağayra peki êfêndim",
+      "zazaki": "mıri mal sımari. Eskêri va kê Avdûlah ağayra: peki, êfêndim,",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -15836,7 +15655,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "mıri mal sımari Eskêri va kê Avdûlah ağayra peki êfêndim"
+          "value": "mıri mal sımari. Eskêri va kê Avdûlah ağayra: peki, êfêndim,"
         },
         {
           "label": "ENGLISH",
@@ -15909,7 +15728,7 @@
         {
           "form": "sí̥mā́ri.",
           "ipa": "ˈsɨˈmaːri",
-          "zazaki": "sımari",
+          "zazaki": "sımari.",
           "lemma": "sima",
           "display_gloss": "yours (pl.)",
           "gloss_tr": "sizin",
@@ -16035,7 +15854,7 @@
         {
           "form": "aγaíra:",
           "ipa": "aˈʁajra",
-          "zazaki": "ağayra",
+          "zazaki": "ağayra:",
           "lemma": "agai",
           "display_gloss": "to the Agha",
           "gloss_tr": "ağaya",
@@ -16069,7 +15888,7 @@
         {
           "form": "pé̱ki,",
           "ipa": "ˈpɛki",
-          "zazaki": "peki",
+          "zazaki": "peki,",
           "lemma": "peki",
           "display_gloss": "good",
           "gloss_tr": "peki",
@@ -16092,7 +15911,7 @@
         {
           "form": "eféndim,",
           "ipa": "eˈfendim",
-          "zazaki": "êfêndim",
+          "zazaki": "êfêndim,",
           "lemma": "efendim",
           "display_gloss": "my lord",
           "gloss_tr": "efendim",
@@ -16124,7 +15943,7 @@
       "text": "Aláh d̮ā́ni túe saγ bedú, he̱táke peíńai mā ńémeru, túeri t̮i t̮íńu.",
       "lerch": "Aláh d̮ā́ni túe saγ bedú, he̱táke peíńai mā ńémeru, túeri t̮i t̮íńu.",
       "ipa": "aˈlah ˈd͡ʒaːni ˈtwe saʁ beˈdu hɛˈtake ˈpejɲaj maː ˈɲemeru ˈtweri t͡ʃi ˈt͡ʃiɲu",
-      "zazaki": "Alah cani twê sağ bêdû hetakê pêynyay ma nyêmêrû twêri çi çinyû",
+      "zazaki": "Alah cani twê sağ bêdû, hetakê pêynyay ma nyêmêrû, twêri çi çinyû.",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -16139,7 +15958,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Alah cani twê sağ bêdû hetakê pêynyay ma nyêmêrû twêri çi çinyû"
+          "value": "Alah cani twê sağ bêdû, hetakê pêynyay ma nyêmêrû, twêri çi çinyû."
         },
         {
           "label": "ENGLISH",
@@ -16258,7 +16077,7 @@
         {
           "form": "bedú,",
           "ipa": "beˈdu",
-          "zazaki": "bêdû",
+          "zazaki": "bêdû,",
           "lemma": "bedu",
           "display_gloss": "may be",
           "gloss_tr": "olsun",
@@ -16350,7 +16169,7 @@
         {
           "form": "ńémeru,",
           "ipa": "ˈɲemeru",
-          "zazaki": "nyêmêrû",
+          "zazaki": "nyêmêrû,",
           "lemma": "ne-",
           "display_gloss": "do not die",
           "gloss_tr": "ölmeyiz",
@@ -16441,7 +16260,7 @@
         {
           "form": "t̮íńu.",
           "ipa": "ˈt͡ʃiɲu",
-          "zazaki": "çinyû",
+          "zazaki": "çinyû.",
           "lemma": "tinu",
           "display_gloss": "is not",
           "gloss_tr": "yoktur",
@@ -16473,7 +16292,7 @@
       "text": "Avdúl’ah aγái vā ke: ā́ferem ōγíl.",
       "lerch": "Avdúl’ah aγái vā ke: ā́ferem ōγíl.",
       "ipa": "avˈdul.ah aˈʁaj vaː ke ˈaːferem oːˈʁil",
-      "zazaki": "Avdûlah ağay va kê afêrêm oğil",
+      "zazaki": "Avdûlah ağay va kê: afêrêm oğil.",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -16488,7 +16307,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Avdûlah ağay va kê afêrêm oğil"
+          "value": "Avdûlah ağay va kê: afêrêm oğil."
         },
         {
           "label": "ENGLISH",
@@ -16584,7 +16403,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -16630,7 +16449,7 @@
         {
           "form": "ōγíl.",
           "ipa": "oːˈʁil",
-          "zazaki": "oğil",
+          "zazaki": "oğil.",
           "lemma": "ogil",
           "display_gloss": "sons",
           "gloss_tr": "oğullar",
@@ -16662,7 +16481,7 @@
       "text": "Avdúl’ah aγái dṳ́milbā́zi dai pṳ́roe, e̱skéri χóe e̱rš kérd, šẹ̄",
       "lerch": "Avdúl’ah aγái dṳ́milbā́zi dai pṳ́roe, e̱skéri χóe e̱rš kérd, šẹ̄",
       "ipa": "avˈdul.ah aˈʁaj ˈdymilˈbaːzi daj ˈpyroe ɛsˈkeri ˈχoe ɛrʃ ˈkerd ʃe̝ː",
-      "zazaki": "Avdûlah ağay dûmilbazi day pûroê eskêri xoê erş kêrd şê",
+      "zazaki": "Avdûlah ağay dûmilbazi day pûroê, eskêri xoê erş kêrd, şê",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -16677,7 +16496,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Avdûlah ağay dûmilbazi day pûroê eskêri xoê erş kêrd şê"
+          "value": "Avdûlah ağay dûmilbazi day pûroê, eskêri xoê erş kêrd, şê"
         },
         {
           "label": "ENGLISH",
@@ -16796,7 +16615,7 @@
         {
           "form": "pṳ́roe,",
           "ipa": "ˈpyroe",
-          "zazaki": "pûroê",
+          "zazaki": "pûroê,",
           "lemma": "puroe",
           "display_gloss": "upon",
           "gloss_tr": "üzerine",
@@ -16888,7 +16707,7 @@
         {
           "form": "kérd,",
           "ipa": "ˈkerd",
-          "zazaki": "kêrd",
+          "zazaki": "kêrd,",
           "lemma": "kerd",
           "display_gloss": "did",
           "gloss_tr": "etti",
@@ -16943,7 +16762,7 @@
       "text": "diā́ri Mél’ekāni, auńā́ ke e̱skéri Χalé̱f aγái tā́bure bestā́. Avdúl’ah",
       "lerch": "diā́ri Mél’ekāni, auńā́ ke e̱skéri Χalé̱f aγái tā́bure bestā́. Avdúl’ah",
       "ipa": "ˈdjaːri ˈmel.ekaːni awˈɲaː ke ɛsˈkeri χaˈlɛf aˈʁaj ˈtaːbure besˈtaː avˈdul.ah",
-      "zazaki": "dyari Mêlêkani awnya kê eskêri Xalef ağay tabûrê bêsta Avdûlah",
+      "zazaki": "dyari Mêlêkani, awnya kê eskêri Xalef ağay tabûrê bêsta. Avdûlah",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -16958,7 +16777,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dyari Mêlêkani awnya kê eskêri Xalef ağay tabûrê bêsta Avdûlah"
+          "value": "dyari Mêlêkani, awnya kê eskêri Xalef ağay tabûrê bêsta. Avdûlah"
         },
         {
           "label": "ENGLISH",
@@ -17008,7 +16827,7 @@
         {
           "form": "Mél’ekāni,",
           "ipa": "ˈmel.ekaːni",
-          "zazaki": "Mêlêkani",
+          "zazaki": "Mêlêkani,",
           "lemma": "melekani",
           "display_gloss": "Melekani district",
           "gloss_tr": "Melekani bölgesi",
@@ -17169,7 +16988,7 @@
         {
           "form": "bestā́.",
           "ipa": "besˈtaː",
-          "zazaki": "bêsta",
+          "zazaki": "bêsta.",
           "lemma": "besta",
           "display_gloss": "prepared",
           "gloss_tr": "hazırladı",
@@ -17224,7 +17043,7 @@
       "text": "aγái e̱skéri χóe e̱rš kerd vā ke: sé̱ri mi̥ri māl ši̥māri, mé̱tersi,",
       "lerch": "aγái e̱skéri χóe e̱rš kerd vā ke: sé̱ri mi̥ri māl ši̥māri, mé̱tersi,",
       "ipa": "aˈʁaj ɛsˈkeri ˈχoe ɛrʃ kerd vaː ke ˈsɛri mɨri maːl ʃɨmaːri ˈmɛtersi",
-      "zazaki": "ağay eskêri xoê erş kêrd va kê seri mıri mal şımari metêrsi",
+      "zazaki": "ağay eskêri xoê erş kêrd va kê: seri mıri mal şımari, metêrsi,",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -17239,7 +17058,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ağay eskêri xoê erş kêrd va kê seri mıri mal şımari metêrsi"
+          "value": "ağay eskêri xoê erş kêrd va kê: seri mıri mal şımari, metêrsi,"
         },
         {
           "label": "ENGLISH",
@@ -17404,7 +17223,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -17496,7 +17315,7 @@
         {
           "form": "ši̥māri,",
           "ipa": "ʃɨmaːri",
-          "zazaki": "şımari",
+          "zazaki": "şımari,",
           "lemma": "sima",
           "display_gloss": "yours (pl.)",
           "gloss_tr": "sizin",
@@ -17530,7 +17349,7 @@
         {
           "form": "mé̱tersi,",
           "ipa": "ˈmɛtersi",
-          "zazaki": "metêrsi",
+          "zazaki": "metêrsi,",
           "lemma": "me-",
           "display_gloss": "do not fear",
           "gloss_tr": "korkmayın",
@@ -17584,7 +17403,7 @@
       "text": "šyẹ̄́ri bí̥ksi hé̱mine. E̱skéri Avdúl’ah aγái šẹ̄ e̱skéri Χalé̱f aγái",
       "lerch": "šyẹ̄́ri bí̥ksi hé̱mine. E̱skéri Avdúl’ah aγái šẹ̄ e̱skéri Χalé̱f aγái",
       "ipa": "ˈʃje̝ːri ˈbɨksi ˈhɛmine ɛsˈkeri avˈdul.ah aˈʁaj ʃe̝ː ɛsˈkeri χaˈlɛf aˈʁaj",
-      "zazaki": "şyêri bıksi heminê Eskêri Avdûlah ağay şê eskêri Xalef ağay",
+      "zazaki": "şyêri bıksi heminê. Eskêri Avdûlah ağay şê eskêri Xalef ağay",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -17599,7 +17418,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "şyêri bıksi heminê Eskêri Avdûlah ağay şê eskêri Xalef ağay"
+          "value": "şyêri bıksi heminê. Eskêri Avdûlah ağay şê eskêri Xalef ağay"
         },
         {
           "label": "ENGLISH",
@@ -17683,7 +17502,7 @@
         {
           "form": "hé̱mine.",
           "ipa": "ˈhɛmine",
-          "zazaki": "heminê",
+          "zazaki": "heminê.",
           "lemma": "hemine",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -17876,7 +17695,7 @@
       "text": "wé̱ta āmé bi̥ Taúrid̮ye, kauγé̱ ke̱rd, e̱skéri Χalé̱f aγái re̱mā́, e̱s-",
       "lerch": "wé̱ta āmé bi̥ Taúrid̮ye, kauγé̱ ke̱rd, e̱skéri Χalé̱f aγái re̱mā́, e̱s-",
       "ipa": "ˈwɛta aːˈme bɨ ˈtawrid͡ʒje kawˈʁɛ kɛrd ɛsˈkeri χaˈlɛf aˈʁaj rɛˈmaː ɛs",
-      "zazaki": "weta amê bı Tawricyê kawğe kerd eskêri Xalef ağay rema es",
+      "zazaki": "weta amê bı Tawricyê, kawğe kerd, eskêri Xalef ağay rema, es-",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -17891,7 +17710,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "weta amê bı Tawricyê kawğe kerd eskêri Xalef ağay rema es"
+          "value": "weta amê bı Tawricyê, kawğe kerd, eskêri Xalef ağay rema, es-"
         },
         {
           "label": "ENGLISH",
@@ -17987,7 +17806,7 @@
         {
           "form": "Taúrid̮ye,",
           "ipa": "ˈtawrid͡ʒje",
-          "zazaki": "Tawricyê",
+          "zazaki": "Tawricyê,",
           "lemma": "tauridye",
           "display_gloss": "Tauridye, place name",
           "gloss_tr": "Tauridye, yer adı",
@@ -18033,7 +17852,7 @@
         {
           "form": "ke̱rd,",
           "ipa": "kɛrd",
-          "zazaki": "kerd",
+          "zazaki": "kerd,",
           "lemma": "kerd",
           "display_gloss": "did",
           "gloss_tr": "etti",
@@ -18125,7 +17944,7 @@
         {
           "form": "re̱mā́,",
           "ipa": "rɛˈmaː",
-          "zazaki": "rema",
+          "zazaki": "rema,",
           "lemma": "rema",
           "display_gloss": "fled",
           "gloss_tr": "kaçtı",
@@ -18148,7 +17967,7 @@
         {
           "form": "e̱s-",
           "ipa": "ɛs",
-          "zazaki": "es",
+          "zazaki": "es-",
           "lemma": "es",
           "display_gloss": "army-",
           "gloss_tr": "ordu-",
@@ -18191,7 +18010,7 @@
       "text": "kéri Adúl’ah aγái peíra kaut, bā́na dé̱wi pyéru tá’alan ké̱rdi, su-",
       "lerch": "kéri Adúl’ah aγái peíra kaut, bā́na dé̱wi pyéru tá’alan ké̱rdi, su-",
       "ipa": "ˈkeri aˈdul.ah aˈʁaj ˈpejra kawt ˈbaːna ˈdɛwi ˈpjeru ˈta.alan ˈkɛrdi su",
-      "zazaki": "kêri Adûlah ağay pêyra kawt bana dewi pyêrû taalan kerdi sû",
+      "zazaki": "kêri Adûlah ağay pêyra kawt, bana dewi pyêrû taalan kerdi, sû-",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -18206,7 +18025,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kêri Adûlah ağay pêyra kawt bana dewi pyêrû taalan kerdi sû"
+          "value": "kêri Adûlah ağay pêyra kawt, bana dewi pyêrû taalan kerdi, sû-"
         },
         {
           "label": "ENGLISH",
@@ -18325,7 +18144,7 @@
         {
           "form": "kaut,",
           "ipa": "kawt",
-          "zazaki": "kawt",
+          "zazaki": "kawt,",
           "lemma": "kaut",
           "display_gloss": "went",
           "gloss_tr": "gitti",
@@ -18440,7 +18259,7 @@
         {
           "form": "ké̱rdi,",
           "ipa": "ˈkɛrdi",
-          "zazaki": "kerdi",
+          "zazaki": "kerdi,",
           "lemma": "kerdi",
           "display_gloss": "did",
           "gloss_tr": "etti",
@@ -18463,7 +18282,7 @@
         {
           "form": "su-",
           "ipa": "su",
-          "zazaki": "sû",
+          "zazaki": "sû-",
           "lemma": "su",
           "display_gloss": "shepherds-",
           "gloss_tr": "çobanlar-",
@@ -18495,7 +18314,7 @@
       "text": "aneí Ńerbid̮ān pyéru kíšti, pé̱si d̮īne pyéru ārd.",
       "lerch": "aneí Ńerbid̮ān pyéru kíšti, pé̱si d̮īne pyéru ārd.",
       "ipa": "aˈnej ɲerbid͡ʒaːn ˈpjeru ˈkiʃti ˈpɛsi d͡ʒiːne ˈpjeru aːrd",
-      "zazaki": "anêy Nyêrbican pyêrû kişti pesi cinê pyêrû ard",
+      "zazaki": "anêy Nyêrbican pyêrû kişti, pesi cinê pyêrû ard.",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -18510,7 +18329,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "anêy Nyêrbican pyêrû kişti pesi cinê pyêrû ard"
+          "value": "anêy Nyêrbican pyêrû kişti, pesi cinê pyêrû ard."
         },
         {
           "label": "ENGLISH",
@@ -18617,7 +18436,7 @@
         {
           "form": "kíšti,",
           "ipa": "ˈkiʃti",
-          "zazaki": "kişti",
+          "zazaki": "kişti,",
           "lemma": "kisti",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -18709,7 +18528,7 @@
         {
           "form": "ārd.",
           "ipa": "aːrd",
-          "zazaki": "ard",
+          "zazaki": "ard.",
           "lemma": "ard",
           "display_gloss": "brought",
           "gloss_tr": "getirdi",
@@ -18741,7 +18560,7 @@
       "text": "Mend vīst rōd̮, Χalé̱f aγái šẹ̄ kaut kei Qótwe̱sān, Hʿaidér",
       "lerch": "Mend vīst rōd̮, Χalé̱f aγái šẹ̄ kaut kei Qótwe̱sān, Hʿaidér",
       "ipa": "mend viːst roːd͡ʒ χaˈlɛf aˈʁaj ʃe̝ː kawt kej ˈqotwɛsaːn ħajˈder",
-      "zazaki": "Mênd vist roc Xalef ağay şê kawt kêy Qotwesan 'Haydêr",
+      "zazaki": "Mênd vist roc, Xalef ağay şê kawt kêy Qotwesan, 'Haydêr",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -18756,7 +18575,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Mênd vist roc Xalef ağay şê kawt kêy Qotwesan 'Haydêr"
+          "value": "Mênd vist roc, Xalef ağay şê kawt kêy Qotwesan, 'Haydêr"
         },
         {
           "label": "ENGLISH",
@@ -18829,7 +18648,7 @@
         {
           "form": "rōd̮,",
           "ipa": "roːd͡ʒ",
-          "zazaki": "roc",
+          "zazaki": "roc,",
           "lemma": "rod",
           "display_gloss": "days",
           "gloss_tr": "gün",
@@ -18967,7 +18786,7 @@
         {
           "form": "Qótwe̱sān,",
           "ipa": "ˈqotwɛsaːn",
-          "zazaki": "Qotwesan",
+          "zazaki": "Qotwesan,",
           "lemma": "qotwesan",
           "display_gloss": "Qotwesan, place name",
           "gloss_tr": "Qotwesan, yer adı",
@@ -19022,7 +18841,7 @@
       "text": "aγára vā: e̱z kaúta beh̔ti túe, Avdúl’ah aγái Ké̱lāṅ é̱skéri me pyéru",
       "lerch": "aγára vā: e̱z kaúta beh̔ti túe, Avdúl’ah aγái Ké̱lāṅ é̱skéri me pyéru",
       "ipa": "aˈʁara vaː ɛz ˈkawta beħti ˈtwe avˈdul.ah aˈʁaj ˈkɛlaːŋ ˈɛsˈkeri me ˈpjeru",
-      "zazaki": "ağara va ez kawta bê'hti twê Avdûlah ağay Kelang eskêri mê pyêrû",
+      "zazaki": "ağara va: ez kawta bê'hti twê, Avdûlah ağay Kelang eskêri mê pyêrû",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -19037,7 +18856,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ağara va ez kawta bê'hti twê Avdûlah ağay Kelang eskêri mê pyêrû"
+          "value": "ağara va: ez kawta bê'hti twê, Avdûlah ağay Kelang eskêri mê pyêrû"
         },
         {
           "label": "ENGLISH",
@@ -19098,7 +18917,7 @@
         {
           "form": "vā:",
           "ipa": "vaː",
-          "zazaki": "va",
+          "zazaki": "va:",
           "lemma": "va",
           "display_gloss": "said",
           "gloss_tr": "dedi",
@@ -19190,7 +19009,7 @@
         {
           "form": "túe,",
           "ipa": "ˈtwe",
-          "zazaki": "twê",
+          "zazaki": "twê,",
           "lemma": "tue",
           "display_gloss": "your",
           "gloss_tr": "senin",
@@ -19360,7 +19179,7 @@
       "text": "kišt, dé̱wi me pyéru ve̱šnaí, tá’alan ké̱rdi. Hʿaidér aγá vā ke Χa-",
       "lerch": "kišt, dé̱wi me pyéru ve̱šnaí, tá’alan ké̱rdi. Hʿaidér aγá vā ke Χa-",
       "ipa": "kiʃt ˈdɛwi me ˈpjeru vɛʃˈnaj ˈta.alan ˈkɛrdi ħajˈder aˈʁa vaː ke χa",
-      "zazaki": "kişt dewi mê pyêrû veşnay taalan kerdi 'Haydêr ağa va kê Xa",
+      "zazaki": "kişt, dewi mê pyêrû veşnay, taalan kerdi. 'Haydêr ağa va kê Xa-",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -19375,7 +19194,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kişt dewi mê pyêrû veşnay taalan kerdi 'Haydêr ağa va kê Xa"
+          "value": "kişt, dewi mê pyêrû veşnay, taalan kerdi. 'Haydêr ağa va kê Xa-"
         },
         {
           "label": "ENGLISH",
@@ -19402,7 +19221,7 @@
         {
           "form": "kišt,",
           "ipa": "kiʃt",
-          "zazaki": "kişt",
+          "zazaki": "kişt,",
           "lemma": "kist",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -19494,7 +19313,7 @@
         {
           "form": "ve̱šnaí,",
           "ipa": "vɛʃˈnaj",
-          "zazaki": "veşnay",
+          "zazaki": "veşnay,",
           "lemma": "vesnai",
           "display_gloss": "burned",
           "gloss_tr": "yaktı",
@@ -19540,7 +19359,7 @@
         {
           "form": "ké̱rdi.",
           "ipa": "ˈkɛrdi",
-          "zazaki": "kerdi",
+          "zazaki": "kerdi.",
           "lemma": "kerdi",
           "display_gloss": "did",
           "gloss_tr": "etti",
@@ -19655,7 +19474,7 @@
         {
           "form": "Χa-",
           "ipa": "χa",
-          "zazaki": "Xa",
+          "zazaki": "Xa-",
           "lemma": "xa",
           "display_gloss": "Xalef-",
           "gloss_tr": "Xalef-",
@@ -19687,7 +19506,7 @@
       "text": "lé̱f aγāira: te méra vā́ni se, e̱z ńešyén’a Sivā́ṅd̮ānde kauγé̱ bikéra,",
       "lerch": "lé̱f aγāira: te méra vā́ni se, e̱z ńešyén’a Sivā́ṅd̮ānde kauγé̱ bikéra,",
       "ipa": "ˈlɛf aʁaːjra te ˈmera ˈvaːni se ɛz ɲeʃˈjen.a siˈvaːŋd͡ʒaːnde kawˈʁɛ biˈkera",
-      "zazaki": "lef ağayra tê mêra vani sê ez nyêşyêna Sivangcandê kawğe bikêra",
+      "zazaki": "lef ağayra: tê mêra vani sê, ez nyêşyêna Sivangcandê kawğe bikêra,",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -19702,7 +19521,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "lef ağayra tê mêra vani sê ez nyêşyêna Sivangcandê kawğe bikêra"
+          "value": "lef ağayra: tê mêra vani sê, ez nyêşyêna Sivangcandê kawğe bikêra,"
         },
         {
           "label": "ENGLISH",
@@ -19752,7 +19571,7 @@
         {
           "form": "aγāira:",
           "ipa": "aʁaːjra",
-          "zazaki": "ağayra",
+          "zazaki": "ağayra:",
           "lemma": "agai",
           "display_gloss": "to the Agha",
           "gloss_tr": "ağaya",
@@ -19866,7 +19685,7 @@
         {
           "form": "se,",
           "ipa": "se",
-          "zazaki": "sê",
+          "zazaki": "sê,",
           "lemma": "se",
           "display_gloss": "what",
           "gloss_tr": "ne",
@@ -19992,7 +19811,7 @@
         {
           "form": "bikéra,",
           "ipa": "biˈkera",
-          "zazaki": "bikêra",
+          "zazaki": "bikêra,",
           "lemma": "bi-",
           "display_gloss": "commit",
           "gloss_tr": "etmek",
@@ -20035,7 +19854,7 @@
       "text": "Sivā́ṅd̮i peíńai mā hé̱mine kišén’i. Χalé̱f aγái vā ke: e̱z kaúta",
       "lerch": "Sivā́ṅd̮i peíńai mā hé̱mine kišén’i. Χalé̱f aγái vā ke: e̱z kaúta",
       "ipa": "siˈvaːŋd͡ʒi ˈpejɲaj maː ˈhɛmine kiˈʃen.i χaˈlɛf aˈʁaj vaː ke ɛz ˈkawta",
-      "zazaki": "Sivangci pêynyay ma heminê kişêni Xalef ağay va kê ez kawta",
+      "zazaki": "Sivangci pêynyay ma heminê kişêni. Xalef ağay va kê: ez kawta",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -20050,7 +19869,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Sivangci pêynyay ma heminê kişêni Xalef ağay va kê ez kawta"
+          "value": "Sivangci pêynyay ma heminê kişêni. Xalef ağay va kê: ez kawta"
         },
         {
           "label": "ENGLISH",
@@ -20169,7 +19988,7 @@
         {
           "form": "kišén’i.",
           "ipa": "kiˈʃen.i",
-          "zazaki": "kişêni",
+          "zazaki": "kişêni.",
           "lemma": "kist",
           "display_gloss": "will kill",
           "gloss_tr": "öldürürler",
@@ -20272,7 +20091,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -20350,7 +20169,7 @@
       "text": "bé̱h̔ti túe, bye me bé̱re kei Avdúl’ah aγái, mā pya wé̱ši ke, t̮i̥káske",
       "lerch": "bé̱h̔ti túe, bye me bé̱re kei Avdúl’ah aγái, mā pya wé̱ši ke, t̮i̥káske",
       "ipa": "ˈbɛħti ˈtwe bje me ˈbɛre kej avˈdul.ah aˈʁaj maː pja ˈwɛʃi ke t͡ʃɨˈkaske",
-      "zazaki": "be'hti twê byê mê berê kêy Avdûlah ağay ma pya weşi kê çıkaskê",
+      "zazaki": "be'hti twê, byê mê berê kêy Avdûlah ağay, ma pya weşi kê, çıkaskê",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -20365,7 +20184,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "be'hti twê byê mê berê kêy Avdûlah ağay ma pya weşi kê çıkaskê"
+          "value": "be'hti twê, byê mê berê kêy Avdûlah ağay, ma pya weşi kê, çıkaskê"
         },
         {
           "label": "ENGLISH",
@@ -20415,7 +20234,7 @@
         {
           "form": "túe,",
           "ipa": "ˈtwe",
-          "zazaki": "twê",
+          "zazaki": "twê,",
           "lemma": "tue",
           "display_gloss": "your",
           "gloss_tr": "senin",
@@ -20553,7 +20372,7 @@
         {
           "form": "aγái,",
           "ipa": "aˈʁaj",
-          "zazaki": "ağay",
+          "zazaki": "ağay,",
           "lemma": "agai",
           "display_gloss": "Agha",
           "gloss_tr": "ağa",
@@ -20645,7 +20464,7 @@
         {
           "form": "ke,",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê,",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -20711,7 +20530,7 @@
       "text": "keífi túe wazén’u e̱z māl dā́na túe. Hʿaidér aγá we̱ríšt be espā́r,",
       "lerch": "keífi túe wazén’u e̱z māl dā́na túe. Hʿaidér aγá we̱ríšt be espā́r,",
       "ipa": "ˈkejfi ˈtwe waˈzen.u ɛz maːl ˈdaːna ˈtwe ħajˈder aˈʁa wɛˈriʃt be esˈpaːr",
-      "zazaki": "kêyfi twê wazênû ez mal dana twê 'Haydêr ağa werişt bê êspar",
+      "zazaki": "kêyfi twê wazênû ez mal dana twê. 'Haydêr ağa werişt bê êspar,",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -20726,7 +20545,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kêyfi twê wazênû ez mal dana twê 'Haydêr ağa werişt bê êspar"
+          "value": "kêyfi twê wazênû ez mal dana twê. 'Haydêr ağa werişt bê êspar,"
         },
         {
           "label": "ENGLISH",
@@ -20902,7 +20721,7 @@
         {
           "form": "túe.",
           "ipa": "ˈtwe",
-          "zazaki": "twê",
+          "zazaki": "twê.",
           "lemma": "tue",
           "display_gloss": "your",
           "gloss_tr": "senin",
@@ -21017,7 +20836,7 @@
         {
           "form": "espā́r,",
           "ipa": "esˈpaːr",
-          "zazaki": "êspar",
+          "zazaki": "êspar,",
           "lemma": "espar",
           "display_gloss": "horse",
           "gloss_tr": "at",
@@ -21049,7 +20868,7 @@
       "text": "kaut Χalé̱f aγái ve̱r, āmeí ši Sivā́n, kaúti kei Avdúl’ah aγái.",
       "lerch": "kaut Χalé̱f aγái ve̱r, āmeí ši Sivā́n, kaúti kei Avdúl’ah aγái.",
       "ipa": "kawt χaˈlɛf aˈʁaj vɛr aːˈmej ʃi siˈvaːn ˈkawti kej avˈdul.ah aˈʁaj",
-      "zazaki": "kawt Xalef ağay ver amêy şi Sivan kawti kêy Avdûlah ağay",
+      "zazaki": "kawt Xalef ağay ver, amêy şi Sivan, kawti kêy Avdûlah ağay.",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -21064,7 +20883,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kawt Xalef ağay ver amêy şi Sivan kawti kêy Avdûlah ağay"
+          "value": "kawt Xalef ağay ver, amêy şi Sivan, kawti kêy Avdûlah ağay."
         },
         {
           "label": "ENGLISH",
@@ -21160,7 +20979,7 @@
         {
           "form": "ve̱r,",
           "ipa": "vɛr",
-          "zazaki": "ver",
+          "zazaki": "ver,",
           "lemma": "ver",
           "display_gloss": "front",
           "gloss_tr": "ön",
@@ -21229,7 +21048,7 @@
         {
           "form": "Sivā́n,",
           "ipa": "siˈvaːn",
-          "zazaki": "Sivan",
+          "zazaki": "Sivan,",
           "lemma": "sivan",
           "display_gloss": "Sivan",
           "gloss_tr": "Sivan",
@@ -21321,7 +21140,7 @@
         {
           "form": "aγái.",
           "ipa": "aˈʁaj",
-          "zazaki": "ağay",
+          "zazaki": "ağay.",
           "lemma": "agai",
           "display_gloss": "Agha",
           "gloss_tr": "ağa",
@@ -21353,7 +21172,7 @@
       "text": "Haidér aγá hī́rye gelā́ṅke šẹ̄ launā́ Avdúl’ah aγá líṅgeru vā ke:",
       "lerch": "Haidér aγá hī́rye gelā́ṅke šẹ̄ launā́ Avdúl’ah aγá líṅgeru vā ke:",
       "ipa": "hajˈder aˈʁa ˈhiːrje geˈlaːŋke ʃe̝ː lawˈnaː avˈdul.ah aˈʁa ˈliŋgeru vaː ke",
-      "zazaki": "Haydêr ağa hiryê gêlankê şê lawna Avdûlah ağa lingêrû va kê",
+      "zazaki": "Haydêr ağa hiryê gêlankê şê lawna Avdûlah ağa lingêrû va kê:",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -21368,7 +21187,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Haydêr ağa hiryê gêlankê şê lawna Avdûlah ağa lingêrû va kê"
+          "value": "Haydêr ağa hiryê gêlankê şê lawna Avdûlah ağa lingêrû va kê:"
         },
         {
           "label": "ENGLISH",
@@ -21625,7 +21444,7 @@
         {
           "form": "ke:",
           "ipa": "ke",
-          "zazaki": "kê",
+          "zazaki": "kê:",
           "lemma": "ke",
           "display_gloss": "that",
           "gloss_tr": "ki",
@@ -21657,7 +21476,7 @@
       "text": "te aγái ḗ̱n’a gelā́ṅke bi̥dí rid̮aī me Χalé̱f aγái. Avdúl’ah aγá vā",
       "lerch": "te aγái ḗ̱n’a gelā́ṅke bi̥dí rid̮aī me Χalé̱f aγái. Avdúl’ah aγá vā",
       "ipa": "te aˈʁaj ˈɛːn.a geˈlaːŋke bɨˈdi rid͡ʒaj me χaˈlɛf aˈʁaj avˈdul.ah aˈʁa vaː",
-      "zazaki": "tê ağay ena gêlankê bıdi ricay mê Xalef ağay Avdûlah ağa va",
+      "zazaki": "tê ağay ena gêlankê bıdi ricay mê Xalef ağay. Avdûlah ağa va",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -21672,7 +21491,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "tê ağay ena gêlankê bıdi ricay mê Xalef ağay Avdûlah ağa va"
+          "value": "tê ağay ena gêlankê bıdi ricay mê Xalef ağay. Avdûlah ağa va"
         },
         {
           "label": "ENGLISH",
@@ -21883,7 +21702,7 @@
         {
           "form": "aγái.",
           "ipa": "aˈʁaj",
-          "zazaki": "ağay",
+          "zazaki": "ağay.",
           "lemma": "agai",
           "display_gloss": "Agha",
           "gloss_tr": "ağa",
@@ -21984,7 +21803,7 @@
       "text": "ke Χaidér aγára: é̱ḱ’e te ńameíni me Χalé̱f aγāira yau ziröt vé̱ra",
       "lerch": "ke Χaidér aγára: é̱ḱ’e te ńameíni me Χalé̱f aγāira yau ziröt vé̱ra",
       "ipa": "ke χajˈder aˈʁara ˈɛc.e te ɲaˈmejni me χaˈlɛf aʁaːjra jaw zirøt ˈvɛra",
-      "zazaki": "kê Xaydêr ağara ekê tê nyamêyni mê Xalef ağayra yaw zirot vera",
+      "zazaki": "kê Xaydêr ağara: ekê tê nyamêyni mê Xalef ağayra yaw zirot vera",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -21999,7 +21818,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kê Xaydêr ağara ekê tê nyamêyni mê Xalef ağayra yaw zirot vera"
+          "value": "kê Xaydêr ağara: ekê tê nyamêyni mê Xalef ağayra yaw zirot vera"
         },
         {
           "label": "ENGLISH",
@@ -22072,7 +21891,7 @@
         {
           "form": "aγára:",
           "ipa": "aˈʁara",
-          "zazaki": "ağara",
+          "zazaki": "ağara:",
           "lemma": "aga",
           "display_gloss": "to the Agha",
           "gloss_tr": "ağaya",
@@ -22333,7 +22152,7 @@
       "text": "ńedā́ni, e̱z ka peińai dauā́ni Ńeríbi vé̱šna, hé̱mine tá’alan ka, t̮i̥m-",
       "lerch": "ńedā́ni, e̱z ka peińai dauā́ni Ńeríbi vé̱šna, hé̱mine tá’alan ka, t̮i̥m-",
       "ipa": "ɲeˈdaːni ɛz ka pejɲaj daˈwaːni ɲeˈribi ˈvɛʃna ˈhɛmine ˈta.alan ka t͡ʃɨm",
-      "zazaki": "nyêdani ez ka pêynyay dawani Nyêribi veşna heminê taalan ka çım",
+      "zazaki": "nyêdani, ez ka pêynyay dawani Nyêribi veşna, heminê taalan ka, çım-",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -22348,7 +22167,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "nyêdani ez ka pêynyay dawani Nyêribi veşna heminê taalan ka çım"
+          "value": "nyêdani, ez ka pêynyay dawani Nyêribi veşna, heminê taalan ka, çım-"
         },
         {
           "label": "ENGLISH",
@@ -22375,7 +22194,7 @@
         {
           "form": "ńedā́ni,",
           "ipa": "ɲeˈdaːni",
-          "zazaki": "nyêdani",
+          "zazaki": "nyêdani,",
           "lemma": "nedani",
           "display_gloss": "I would not give",
           "gloss_tr": "vermezdim",
@@ -22535,7 +22354,7 @@
         {
           "form": "vé̱šna,",
           "ipa": "ˈvɛʃna",
-          "zazaki": "veşna",
+          "zazaki": "veşna,",
           "lemma": "vesna",
           "display_gloss": "I would burn",
           "gloss_tr": "yakardım",
@@ -22604,7 +22423,7 @@
         {
           "form": "ka,",
           "ipa": "ka",
-          "zazaki": "ka",
+          "zazaki": "ka,",
           "lemma": "ka",
           "display_gloss": "would",
           "gloss_tr": "-ardım",
@@ -22627,7 +22446,7 @@
         {
           "form": "t̮i̥m-",
           "ipa": "t͡ʃɨm",
-          "zazaki": "çım",
+          "zazaki": "çım-",
           "lemma": "tim",
           "display_gloss": "because-",
           "gloss_tr": "çünkü-",
@@ -22659,7 +22478,7 @@
       "text": "ke te āmeí me Χalé̱f aγá ke̱rd báχši túe. Hʿaidér aγái launā́ Av-",
       "lerch": "ke te āmeí me Χalé̱f aγá ke̱rd báχši túe. Hʿaidér aγái launā́ Av-",
       "ipa": "ke te aːˈmej me χaˈlɛf aˈʁa kɛrd ˈbaχʃi ˈtwe ħajˈder aˈʁaj lawˈnaː av",
-      "zazaki": "kê tê amêy mê Xalef ağa kerd baxşi twê 'Haydêr ağay lawna Av",
+      "zazaki": "kê tê amêy mê Xalef ağa kerd baxşi twê. 'Haydêr ağay lawna Av-",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -22674,7 +22493,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kê tê amêy mê Xalef ağa kerd baxşi twê 'Haydêr ağay lawna Av"
+          "value": "kê tê amêy mê Xalef ağa kerd baxşi twê. 'Haydêr ağay lawna Av-"
         },
         {
           "label": "ENGLISH",
@@ -22885,7 +22704,7 @@
         {
           "form": "túe.",
           "ipa": "ˈtwe",
-          "zazaki": "twê",
+          "zazaki": "twê.",
           "lemma": "tue",
           "display_gloss": "your",
           "gloss_tr": "senin",
@@ -22977,7 +22796,7 @@
         {
           "form": "Av-",
           "ipa": "av",
-          "zazaki": "Av",
+          "zazaki": "Av-",
           "lemma": "av",
           "display_gloss": "Avdulah-",
           "gloss_tr": "Avdulah-",
@@ -23009,7 +22828,7 @@
       "text": "dúl’a aγá sé̱reru šẹ̄ Χalé̱f aγá ārd, launā́ Avdúl’ah aγá líṅgeru,",
       "lerch": "dúl’a aγá sé̱reru šẹ̄ Χalé̱f aγá ārd, launā́ Avdúl’ah aγá líṅgeru,",
       "ipa": "ˈdul.a aˈʁa ˈsɛreru ʃe̝ː χaˈlɛf aˈʁa aːrd lawˈnaː avˈdul.ah aˈʁa ˈliŋgeru",
-      "zazaki": "dûla ağa serêrû şê Xalef ağa ard lawna Avdûlah ağa lingêrû",
+      "zazaki": "dûla ağa serêrû şê Xalef ağa ard, lawna Avdûlah ağa lingêrû,",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -23024,7 +22843,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dûla ağa serêrû şê Xalef ağa ard lawna Avdûlah ağa lingêrû"
+          "value": "dûla ağa serêrû şê Xalef ağa ard, lawna Avdûlah ağa lingêrû,"
         },
         {
           "label": "ENGLISH",
@@ -23189,7 +23008,7 @@
         {
           "form": "ārd,",
           "ipa": "aːrd",
-          "zazaki": "ard",
+          "zazaki": "ard,",
           "lemma": "ard",
           "display_gloss": "brought",
           "gloss_tr": "getirdi",
@@ -23281,7 +23100,7 @@
         {
           "form": "líṅgeru,",
           "ipa": "ˈliŋgeru",
-          "zazaki": "lingêrû",
+          "zazaki": "lingêrû,",
           "lemma": "lingeru",
           "display_gloss": "feet",
           "gloss_tr": "ayaklar",
@@ -23313,7 +23132,7 @@
       "text": "Avdúl’ah aγá launā́ Χalé̱f aγá dé̱stru, pya be wé̱ši, χalaí dai pyéra.",
       "lerch": "Avdúl’ah aγá launā́ Χalé̱f aγá dé̱stru, pya be wé̱ši, χalaí dai pyéra.",
       "ipa": "avˈdul.ah aˈʁa lawˈnaː χaˈlɛf aˈʁa ˈdɛstru pja be ˈwɛʃi χaˈlaj daj ˈpjera",
-      "zazaki": "Avdûlah ağa lawna Xalef ağa destrû pya bê weşi xalay day pyêra",
+      "zazaki": "Avdûlah ağa lawna Xalef ağa destrû, pya bê weşi, xalay day pyêra.",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -23328,7 +23147,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Avdûlah ağa lawna Xalef ağa destrû pya bê weşi xalay day pyêra"
+          "value": "Avdûlah ağa lawna Xalef ağa destrû, pya bê weşi, xalay day pyêra."
         },
         {
           "label": "ENGLISH",
@@ -23470,7 +23289,7 @@
         {
           "form": "dé̱stru,",
           "ipa": "ˈdɛstru",
-          "zazaki": "destrû",
+          "zazaki": "destrû,",
           "lemma": "destru",
           "display_gloss": "hand",
           "gloss_tr": "el",
@@ -23539,7 +23358,7 @@
         {
           "form": "wé̱ši,",
           "ipa": "ˈwɛʃi",
-          "zazaki": "weşi",
+          "zazaki": "weşi,",
           "lemma": "wesi",
           "display_gloss": "reconciliation",
           "gloss_tr": "barış",
@@ -23608,7 +23427,7 @@
         {
           "form": "pyéra.",
           "ipa": "ˈpjera",
-          "zazaki": "pyêra",
+          "zazaki": "pyêra.",
           "lemma": "pye",
           "display_gloss": "to each other",
           "gloss_tr": "birbirine",
@@ -23662,7 +23481,7 @@
       "text": "Χaidér aγá we̱rí̥št, χati̥r waišt Avdúl’ah aγāira, Χalé̱f aγá ge-",
       "lerch": "Χaidér aγá we̱rí̥št, χati̥r waišt Avdúl’ah aγāira, Χalé̱f aγá ge-",
       "ipa": "χajˈder aˈʁa wɛˈrɨʃt χatɨr wajʃt avˈdul.ah aʁaːjra χaˈlɛf aˈʁa ge",
-      "zazaki": "Xaydêr ağa werışt xatır wayşt Avdûlah ağayra Xalef ağa gê",
+      "zazaki": "Xaydêr ağa werışt, xatır wayşt Avdûlah ağayra, Xalef ağa gê-",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -23677,7 +23496,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Xaydêr ağa werışt xatır wayşt Avdûlah ağayra Xalef ağa gê"
+          "value": "Xaydêr ağa werışt, xatır wayşt Avdûlah ağayra, Xalef ağa gê-"
         },
         {
           "label": "ENGLISH",
@@ -23750,7 +23569,7 @@
         {
           "form": "we̱rí̥št,",
           "ipa": "wɛˈrɨʃt",
-          "zazaki": "werışt",
+          "zazaki": "werışt,",
           "lemma": "werist",
           "display_gloss": "mounted",
           "gloss_tr": "bindi",
@@ -23842,7 +23661,7 @@
         {
           "form": "aγāira,",
           "ipa": "aʁaːjra",
-          "zazaki": "ağayra",
+          "zazaki": "ağayra,",
           "lemma": "agai",
           "display_gloss": "to the Agha",
           "gloss_tr": "ağaya",
@@ -23922,7 +23741,7 @@
         {
           "form": "ge-",
           "ipa": "ge",
-          "zazaki": "gê",
+          "zazaki": "gê-",
           "lemma": "ge",
           "display_gloss": "took-",
           "gloss_tr": "aldı-",
@@ -23954,7 +23773,7 @@
       "text": "raút, šī keíye. Térek nā.",
       "lerch": "raút, šī keíye. Térek nā.",
       "ipa": "ˈrawt ʃiː ˈkejje ˈterek naː",
-      "zazaki": "rawt şi kêyyê Têrêk na",
+      "zazaki": "rawt, şi kêyyê. Têrêk na.",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -23969,7 +23788,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "rawt şi kêyyê Têrêk na"
+          "value": "rawt, şi kêyyê. Têrêk na."
         },
         {
           "label": "ENGLISH",
@@ -23996,7 +23815,7 @@
         {
           "form": "raút,",
           "ipa": "ˈrawt",
-          "zazaki": "rawt",
+          "zazaki": "rawt,",
           "lemma": "raut",
           "display_gloss": "took",
           "gloss_tr": "aldı",
@@ -24042,7 +23861,7 @@
         {
           "form": "keíye.",
           "ipa": "ˈkejje",
-          "zazaki": "kêyyê",
+          "zazaki": "kêyyê.",
           "lemma": "keiye",
           "display_gloss": "house",
           "gloss_tr": "ev",
@@ -24088,7 +23907,7 @@
         {
           "form": "nā.",
           "ipa": "naː",
-          "zazaki": "na",
+          "zazaki": "na.",
           "lemma": "na",
           "display_gloss": "ended",
           "gloss_tr": "bitti",

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 import shutil
 from datetime import date
 from pathlib import Path
@@ -77,6 +78,88 @@ READING_UNIT_SOURCE_LINE_IDS = {
     },
 }
 
+SIVAN_SOURCE_SEGMENT_GROUPS = [
+    [0],
+    [1, 2],
+    [3, 4],
+    [5, 6],
+    [7, 8],
+    [9],
+    [10],
+    [11],
+    [12],
+    [13],
+    [14],
+    [15],
+    [16],
+    [17],
+    [18],
+    [19],
+    [20],
+    [21],
+    [22],
+    [23],
+    [24],
+    [25],
+    [26],
+    [27],
+    [28],
+    [29],
+    [30],
+    [31],
+    [32],
+    [33],
+    [34],
+    [35],
+    [36],
+    [37],
+    [38],
+    [39],
+    [40],
+]
+
+SIVAN_TRANSLATION_GROUPS_FROM_40 = [
+    [0],
+    [1],
+    [2],
+    [3],
+    [4, 5],
+    [6],
+    [7],
+    [8],
+    [9],
+    [10],
+    [11],
+    [12],
+    [13],
+    [14],
+    [15, 16],
+    [17],
+    [18],
+    [19],
+    [20],
+    [21],
+    [22],
+    [23],
+    [24],
+    [25],
+    [26],
+    [27],
+    [28],
+    [29],
+    [30],
+    [31],
+    [32],
+    [33],
+    [34],
+    [35],
+    [36],
+    [37, 38],
+    [39],
+]
+
+TRAILING_PUNCTUATION = ".,;:?!-"
+
 
 def assert_inside_repo(path: Path) -> Path:
     resolved = path.resolve()
@@ -105,11 +188,36 @@ def write_text(path: Path, value: str) -> None:
 
 
 def clean_join(parts: list[str]) -> str:
-    return " ".join(part.strip() for part in parts if part and part.strip()).replace("  ", " ").strip()
+    return re.sub(r"\s+", " ", " ".join(part.strip() for part in parts if part and part.strip())).strip()
+
+
+def join_source_parts(parts: list[str]) -> str:
+    text = clean_join(parts)
+    text = re.sub(r"-\s+", "", text)
+    text = re.sub(r"\s+([,.;:?!])", r"\1", text)
+    return clean_join([text])
+
+
+def trailing_punctuation(value: str) -> str:
+    end = len(value)
+    start = end
+    while start > 0 and value[start - 1] in TRAILING_PUNCTUATION:
+        start -= 1
+    return value[start:end]
+
+
+def token_text(token: dict, key: str) -> str:
+    text = str(token.get(key, "") or "")
+    if key != "zazaki" or not text:
+        return text
+    punctuation = trailing_punctuation(str(token.get("lerch", "") or ""))
+    if punctuation and not text.endswith(punctuation):
+        text += punctuation
+    return text
 
 
 def line_text(line: dict, key: str) -> str:
-    return clean_join([str(token.get(key, "")) for token in line.get("tokens", [])])
+    return clean_join([token_text(token, key) for token in line.get("tokens", [])])
 
 
 def corpus_token(token: dict) -> dict:
@@ -118,7 +226,7 @@ def corpus_token(token: dict) -> dict:
     return {
         "form": token.get("lerch") or token.get("core") or "",
         "ipa": token.get("ipa") or "",
-        "zazaki": token.get("zazaki") or "",
+        "zazaki": token_text(token, "zazaki"),
         "lemma": first_morph.get("lemma") or token.get("core") or token.get("lerch") or "",
         "display_gloss": token.get("gloss") or "",
         "gloss_tr": token.get("gloss_tr") or "",
@@ -191,6 +299,67 @@ def source_line(line: dict, source_label: str) -> dict:
     }
 
 
+def sentence_segments_from_source_lines(source_lines: list[dict]) -> list[str]:
+    text = join_source_parts([str(line.get("zazaki", "")) for line in source_lines])
+    return [segment.strip() for segment in re.split(r"(?<=[.?])\s+", text) if segment.strip()]
+
+
+def grouped_translation(units: list[dict], indexes: list[int], lang: str) -> str:
+    return clean_join([str(units[index].get("translations", {}).get(lang, "")) for index in indexes if index < len(units)])
+
+
+def repair_existing_sivan_translations(units: list[dict]) -> list[dict]:
+    if len(units) != len(SIVAN_SOURCE_SEGMENT_GROUPS):
+        return units
+    split_markers = {
+        "tr": "Hayder Ağa ata bindi",
+        "en": "Haider Agha mounted",
+        "de": "Haider Agha sass auf",
+    }
+    repaired = json.loads(json.dumps(units, ensure_ascii=False))
+    for lang, marker in split_markers.items():
+        first = str(repaired[34].get("translations", {}).get(lang, ""))
+        second = str(repaired[35].get("translations", {}).get(lang, ""))
+        if marker not in second:
+            continue
+        prefix, suffix = second.split(marker, 1)
+        if not prefix.strip():
+            continue
+        repaired[34].setdefault("translations", {})[lang] = clean_join([first, prefix])
+        repaired[35].setdefault("translations", {})[lang] = clean_join([marker + suffix])
+    return repaired
+
+
+def rebuild_sivan_reader_units(doc: dict, source_lines: list[dict]) -> list[dict]:
+    old_units = repair_existing_sivan_translations(list(doc.get("reading_units", [])))
+    source_segments = sentence_segments_from_source_lines(source_lines[1:])
+    if len(source_segments) <= max(max(group) for group in SIVAN_SOURCE_SEGMENT_GROUPS):
+        return old_units
+
+    if len(old_units) == len(SIVAN_TRANSLATION_GROUPS_FROM_40) + 3:
+        translation_groups = SIVAN_TRANSLATION_GROUPS_FROM_40
+    elif len(old_units) == len(SIVAN_SOURCE_SEGMENT_GROUPS):
+        translation_groups = [[index] for index in range(len(SIVAN_SOURCE_SEGMENT_GROUPS))]
+    else:
+        translation_groups = [[index] for index in range(min(len(old_units), len(SIVAN_SOURCE_SEGMENT_GROUPS)))]
+
+    units = []
+    for index, source_group in enumerate(SIVAN_SOURCE_SEGMENT_GROUPS):
+        translation_group = translation_groups[index] if index < len(translation_groups) else []
+        translations = {
+            lang: grouped_translation(old_units, translation_group, lang)
+            for lang in doc.get("translations", {})
+        }
+        units.append(
+            {
+                "id": f"u{index + 1:02d}",
+                "source": join_source_parts([source_segments[segment_index] for segment_index in source_group]),
+                "translations": {lang: value for lang, value in translations.items() if value},
+            }
+        )
+    return units
+
+
 def copy_bundle_assets(bundle_dir: Path, target_dir: Path) -> None:
     source_assets = bundle_dir / "assets"
     if not source_assets.exists():
@@ -220,11 +389,14 @@ def update_existing_text(slug: str, bundle: str, interlinear_file: str, morpheme
     fresh_source_lines = [source_line(line, source_label) for line in lines]
     source_by_id = {line["id"]: line for line in fresh_source_lines}
 
-    for unit in doc.get("reading_units", []):
-        ids = unit.get("source_line_ids") or READING_UNIT_SOURCE_LINE_IDS.get(slug, {}).get(unit.get("id"), [])
-        if ids:
-            unit["source_line_ids"] = ids
-        unit["source"] = clean_join([source_by_id[line_id]["zazaki"] for line_id in ids if line_id in source_by_id])
+    if slug == "kauge-nyerib-u-sivani":
+        doc["reading_units"] = rebuild_sivan_reader_units(doc, fresh_source_lines)
+    else:
+        for unit in doc.get("reading_units", []):
+            ids = unit.get("source_line_ids") or READING_UNIT_SOURCE_LINE_IDS.get(slug, {}).get(unit.get("id"), [])
+            if ids:
+                unit["source_line_ids"] = ids
+            unit["source"] = join_source_parts([source_by_id[line_id]["zazaki"] for line_id in ids if line_id in source_by_id])
 
     doc["source_lines"] = fresh_source_lines
     doc["summary"] = {

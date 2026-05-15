@@ -8,9 +8,7 @@ Mela Ahmed'in oğlu dedi ki: 'Nyêrib'densin; hangi Nyêrib'densin?' Hırsız de
 
 Mela Ahmed'in oğlu dedi ki: 'Hangi mahalledensin?' Hırsız dedi ki: 'Şeynan mahallesindeyim.
 
-Mela Ahmed'in oğlu dedi ki: 'Niçin geldin benim evime?' Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim, hırsızlık etmek için.
-
-Sen beni burada yakaladın; fakat bil ki ben güçlüyüm.
+Mela Ahmed'in oğlu dedi ki: 'Niçin geldin benim evime?' Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim, hırsızlık etmek için. Sen beni burada yakaladın; fakat bil ki ben güçlüyüm.
 
 Mela Ahmed'in oğlu hemen hırsızı öldürdü ve Nyêrib'e, Xalef Ağa'ya haber gönderdi, dedi ki: 'Hêni'ye gelme; sen orada kavga ettin; Hêni'de herkesi öldürüp emana getirdin.
 
@@ -30,9 +28,7 @@ Avdulah Ağa haber gönderdi köylülere: 'Korkmayın; başlar benim, mal sizin.
 
 Köylüler dedi ki: 'Biz bu gece gecikmeyeceğiz; yola çıkıp Sele deresine kavga etmeye gideceğiz, sen de gecikme, gel.
 
-Sabah Avdulah Ağa ata bindi, ordusunu topladı ve ordusuna dedi ki: 'Oğullar, gecikmeyin; kavgaya gidiyoruz.
-
-Korkmayın; Nyêribliler azdır; bu aşiret kavgası; başlar benim, mal sizin.'
+Sabah Avdulah Ağa ata bindi, ordusunu topladı ve ordusuna dedi ki: 'Oğullar, gecikmeyin; kavgaya gidiyoruz. Korkmayın; Nyêribliler azdır; bu aşiret kavgası; başlar benim, mal sizin.'
 
 Davul vuruldu; Avdulah Ağa orduyu götürüp Sele deresine gitti, ama Xalef Ağa'nın ordusu gelmemişti; yürümeyi emretti ve ordusuna dedi ki: 'Başlar benim, mal sizin; köyleri yakın.
 
@@ -72,9 +68,7 @@ Hayder Ağa üç kez gidip Avdulah Ağa'nın ayaklarını öptü ve dedi ki: 'A�
 
 Avdulah Ağa dedi Hayder Ağa'ya: 'Sen gelmemiş olsaydın, Xalef Ağa'ya bir oğlan bile geri vermezdim; Nyêrib köylerinin hepsini yakar ve her şeyi talan ederdim; fakat sen geldiğin için Xalef Ağa'yı sana bağışladım.
 
-Hayder Ağa Avdulah Ağa'yı başından öptü, gidip Xalef Ağa'yı getirdi ve Avdulah Ağa'nın ayaklarını öptü.
-
-Avdulah Ağa Xalef Ağa'nın elini öptü; barıştılar ve karşılıklı hilat verdiler.
+Hayder Ağa Avdulah Ağa'yı başından öptü, gidip Xalef Ağa'yı getirdi ve Avdulah Ağa'nın ayaklarını öptü. Avdulah Ağa Xalef Ağa'nın elini öptü; barıştılar ve karşılıklı hilat verdiler.
 
 Hayder Ağa ata bindi, Avdulah Ağa'dan izin istedi, Xalef Ağa'yı aldı ve eve gitti.
 

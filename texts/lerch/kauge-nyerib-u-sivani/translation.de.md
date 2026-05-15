@@ -8,9 +8,7 @@ Der Sohn Mel’a Ahmed’s sagte: du bist aus Nerib, aus welchem Nerib? Der Dieb
 
 Der Sohn Mel'a Ahmed’s fragte: aus welchem Mahal? Der Dieb sagte: aus dem Mahal Seinän.
 
-Mel'a Ahmed’s Sohn fragte: warum kamst du? warum bist du in meinem Hause? Der Dieb antwortete ich (Einwohner) von Nerib kam in dein Haus, um Diebstahl zu verüben.
-
-Und wurde von dir hier getroffen, darum bin ich hier, (wisse aber,) dass ich stark bin.
+Mel'a Ahmed’s Sohn fragte: warum kamst du? warum bist du in meinem Hause? Der Dieb antwortete ich (Einwohner) von Nerib kam in dein Haus, um Diebstahl zu verüben. Und wurde von dir hier getroffen, darum bin ich hier, (wisse aber,) dass ich stark bin.
 
 Mel’a Ahmed's Sohn erschlug sogleich den Dieb, sandte einen Boten zu Xalef Agha und liess sagen: komme nicht nach Hyeni (?).
 
@@ -30,9 +28,7 @@ Avdül’ah Agha sandte einen Boten zu den Dorfbewohnern und liess sagen: fürch
 
 Die Dorfbewohner sagten: diese Nacht werden wir nicht säumen, werden aufbrechen, werden zum Bache Sel'e kommen und uns schlagen, säume nicht, komme auch du.
 
-Am Morgen sass Avdül'ah Agha auf, versammelte seine Schaar und sagte zu ihr: Söhne, zögert nicht, wir gehen zum Kampf.
-
-Fürchtet euch nicht, derer von Nerib sind wenige, es ist eine Stammesfehde, die Köpfe (gehören) mir, die Beute (gehört) euch.
+Am Morgen sass Avdül'ah Agha auf, versammelte seine Schaar und sagte zu ihr: Söhne, zögert nicht, wir gehen zum Kampf. Fürchtet euch nicht, derer von Nerib sind wenige, es ist eine Stammesfehde, die Köpfe (gehören) mir, die Beute (gehört) euch.
 
 Man schlug die Trommel (und) Avdül ah Agha führte sein Heer zum Bache Sel'e; Xalef Agha ’s Heer war (aber) nicht gekommen; (da) befahl er sich in Bewegung zu setzen und sagte zu seiner Schar: die Köpfe (gehören) mir, die Beute (gehört) euch, sengt die Dörfer.
 
@@ -72,9 +68,7 @@ Drei Mal küsste er dem Avdül ah Agha die Füsse (und) sagte: Agha, verschone u
 
 Avdülah Agha antwortete dem H'aidür Agha: wärest du nicht gekommen, hätte ich dem Xalef Agha nicht einen Buben zurückgegeben, ich hätte seine Dörfer niedergebrannt, alle geplündert, (doch) da du gekommen bist, schenke ich dir den Xalef Agha.
 
-Haidör Agha küsste den Avdül’ah Agha auf den Kopf, ging (und) brachte den Xalef Agha herein; dieser küsste dem Avdülah Agha die Füsse.
-
-Avdülah Agha küsste ihm die Hand, darauf versöhnten sie sich (und) tauschten gegen einander Chalate aus.
+Haidör Agha küsste den Avdül’ah Agha auf den Kopf, ging (und) brachte den Xalef Agha herein; dieser küsste dem Avdülah Agha die Füsse. Avdülah Agha küsste ihm die Hand, darauf versöhnten sie sich (und) tauschten gegen einander Chalate aus.
 
 Haider Agha sass auf, verabschiedete sich von Avdül’ah Agha, nahm den Xalef Agha mit (und) zog nach Hause.
 

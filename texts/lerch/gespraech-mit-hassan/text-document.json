@@ -81,7 +81,7 @@
   "reading_units": [
     {
       "id": "u01",
-      "source": "Kêyfê twê sênyênû Kêyfê mê 'hawlû",
+      "source": "Kêyfê twê sênyênû? Kêyfê mê 'hawlû.",
       "translations": {
         "en": "How are you? I am well.",
         "tr": "Nasılsın? İyiyim."
@@ -93,7 +93,7 @@
     },
     {
       "id": "u02",
-      "source": "Namêy aşirêta tê çinaw Namêy aşirêta ma Sivang",
+      "source": "Namêy aşirêta tê çinaw? Namêy aşirêta ma Sivang.",
       "translations": {
         "en": "What is the name of your tribe? The name of our tribe is Sivan.",
         "tr": "Aşiretinin adı nedir? Aşiretimizin adı Sivan'dır."
@@ -105,7 +105,7 @@
     },
     {
       "id": "u03",
-      "source": "Çendê dêwi aşirêta şûma esti Hyêris û çêhêr dewi aşirêta mai",
+      "source": "Çendê dêwi aşirêta şûma esti? Hyêris û çêhêr dewi aşirêta mai.",
       "translations": {
         "en": "How many villages does your tribe have? Our tribe has thirty-four villages.",
         "tr": "Aşiretinizin kaç köyü var? Aşiretimizin otuz dört köyü var."
@@ -117,7 +117,7 @@
     },
     {
       "id": "u04",
-      "source": "Namêy dewani aşirêta şûma çinaw Fatrakom 'Hopsor Tênik Rêjwan Zımag 'Hoêrsig 'Hê mêk Bılıkê Melêkang Mark Aldûn Gewêl Kasan 'Hoêna Sa ma Emêra Şêkêra 'Hêylang Bazyang Mala-İbrahiman Avdêlang Mıstang Sayêrê Abasa Wis'hêyn 'Haspêg Sêraçyori Akêragi Letang Ğahar Ğoêmang Kavarê Talek",
+      "source": "Namêy dewani aşirêta şûma çinaw? Fatrakom, 'Hopsor, Tênik, Rêjwan, Zımag, 'Hoêrsig, 'Hê- mêk, Bılıkê, Melêkang, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sa- ma, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahiman, Avdêlang, Mıstang, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi, Letang, Ğahar, Ğoêmang, Kavarê, Talek.",
       "translations": {
         "en": "What are the names of your tribe's villages? Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.",
         "tr": "Aşiretinizin köylerinin adları nelerdir? Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek."
@@ -133,7 +133,7 @@
     },
     {
       "id": "u05",
-      "source": "Sıpyerdışi dewe Aldûni qamû Ali Beg sıpyerdışû dawê Aldûni estû",
+      "source": "Sıpyerdışi dewe Aldûni qamû? Ali Beg sıpyerdışû dawê Aldûni estû.",
       "translations": {
         "en": "Who is the elder of the village of Aldun? Ali Beg is the elder of the village of Aldun.",
         "tr": "Aldun köyünün ileri geleni kimdir? Ali Beg Aldun köyünün ileri gelenidir."
@@ -145,7 +145,7 @@
     },
     {
       "id": "u06",
-      "source": "Sıpyerdışû dawê Gewêl qamû Mistêfa Alya sıpyerdışû",
+      "source": "Sıpyerdışû dawê Gewêl qamû? Mistêfa Alya sıpyerdışû.",
       "translations": {
         "en": "Who is the elder of the village of Gewel? Mistefa Ali is the elder.",
         "tr": "Gewel köyünün ileri geleni kimdir? Mistefa Ali ileri gelendir."
@@ -157,7 +157,7 @@
     },
     {
       "id": "u07",
-      "source": "Namêy dewa twê çinaw Kasan dewa mê estû",
+      "source": "Namêy dewa twê çinaw? Kasan dewa mê estû.",
       "translations": {
         "en": "What is the name of your village? Kasan is my village.",
         "tr": "Köyünün adı nedir? Benim köyüm Kasan'dır."
@@ -169,7 +169,7 @@
     },
     {
       "id": "u08",
-      "source": "Çendê bani dawe Kasan esti Şeşti bani Kasan esti",
+      "source": "Çendê bani dawe Kasan esti? Şeşti bani Kasan esti.",
       "translations": {
         "en": "How many houses are there in the village of Kasan? There are sixty houses in Kasan.",
         "tr": "Kasan köyünde kaç ev var? Kasan'da altmış ev var."
@@ -181,7 +181,7 @@
     },
     {
       "id": "u09",
-      "source": "Bağçê tû estû Estû bağçê mê",
+      "source": "Bağçê tû estû? Estû bağçê mê.",
       "translations": {
         "en": "Do you have a garden? I have a garden.",
         "tr": "Bahçen var mı? Bahçem var."
@@ -193,7 +193,7 @@
     },
     {
       "id": "u10",
-      "source": "Bağçê tû senyê dari Darê tûyêra estû sayêr estû mişmişyêr estû xawxir he nariyêr rez êsti",
+      "source": "Bağçê tû senyê dari? Darê tûyêra estû, sayêr estû, mişmişyêr estû, xawxir, he- nariyêr, rez êsti.",
       "translations": {
         "en": "What kind of trees does your garden have? It has trees: apple trees, apricot trees, peach trees, pomegranate trees and grapevines.",
         "tr": "Bahçende nasıl ağaçlar var? Ağaçlar var: elma ağaçları, kayısı ağaçları, şeftali ağaçları, nar ağaçları ve üzüm asmaları var."
@@ -206,7 +206,7 @@
     },
     {
       "id": "u11",
-      "source": "Çendê wadêy yaw bani esti Merdûm estû weri kêy çêhêr êsti pangc esti merdûm estû yaw bang estû wade çinyû",
+      "source": "Çendê wadêy yaw bani esti? Merdûm estû weri kêy çêhêr êsti, pangc esti, merdûm estû yaw bang estû, wade çinyû.",
       "translations": {
         "en": "How many rooms are there in one house? Some people's houses have four or five rooms; some people have one house and no room.",
         "tr": "Bir evde kaç oda var? Bazı kişilerin evinde dört, beş oda var; bazı kişilerin bir evi var, odası yok."
@@ -219,7 +219,7 @@
     },
     {
       "id": "u12",
-      "source": "Şûma şwêni zozang Ma şwêni zozang",
+      "source": "Şûma şwêni zozang? Ma şwêni zozang.",
       "translations": {
         "en": "Do you go to the summer pasture? We go to the summer pasture.",
         "tr": "Yaylaya gider misiniz? Yaylaya gideriz."
@@ -231,7 +231,7 @@
     },
     {
       "id": "u13",
-      "source": "Şûma qam waxtê şwêni zozang Aşmê Temûzidê ma şwêni zozang",
+      "source": "Şûma qam waxtê şwêni zozang? Aşmê Temûzidê ma şwêni zozang.",
       "translations": {
         "en": "When do you go to the summer pasture? In the month of Temmuz we go to the summer pasture.",
         "tr": "Yaylaya ne zaman gidersiniz? Temmuz ayında yaylaya gideriz."
@@ -243,7 +243,7 @@
     },
     {
       "id": "u14",
-      "source": "Şûma zozangdê karaçaciridê roşêni Ma karaçaciricê roşêni bani êsti ma banidê roşêni",
+      "source": "Şûma zozangdê karaçaciridê roşêni? Ma karaçaciricê roşêni, bani êsti ma banidê roşêni.",
       "translations": {
         "en": "Do you live in black tents at the summer pasture? We live in black tents; there are houses, and we live in houses.",
         "tr": "Yaylada kara çadırlarda mı kalırsınız? Kara çadırlarda kalırız; evler de var, evlerde de kalırız."
@@ -255,7 +255,7 @@
     },
     {
       "id": "u15",
-      "source": "Şûma qam waxtê yêni war Ma aşmay paizi veryêni yêni war",
+      "source": "Şûma qam waxtê yêni war? Ma aşmay paizi veryêni yêni war.",
       "translations": {
         "en": "When do you come back down? We come back at the beginning of autumn.",
         "tr": "Ne zaman aşağı gelirsiniz? Sonbaharın başında aşağı geliriz."
@@ -267,7 +267,7 @@
     },
     {
       "id": "u16",
-      "source": "Tû zaf kawğe di Mê zaf kawğe di Bawki mêra kawğei Nyêribi û 'Hyêni mê di ez şya kawğei Nyêribi û 'Hyêni kawğei E'hmêd begi û Sivani",
+      "source": "Tû zaf kawğe di? Mê zaf kawğe di. Bawki mêra, kawğei Nyêribi û 'Hyêni mê di, ez şya kawğei Nyêribi û 'Hyêni, kawğei E'hmêd begi û Sivani",
       "translations": {
         "en": "Have you seen many feuds? I saw many feuds. By my father, I saw the feud between Nerib and Hyeni; I went to the feud between Nerib and Hyeni, and to the feud between Ahmed Beg and Sivan;",
         "tr": "Çok kavga gördün mü? Çok kavga gördüm. Babamın hakkı için, Nyêrib ile Hyêni'nin kavgasını gördüm; Nyêrib ile Hyêni'nin kavgasına, Ahmed Beg ile Sivan'ın kavgasına gittim;"
@@ -280,7 +280,7 @@
     },
     {
       "id": "u17",
-      "source": "ez tedê bya kawğei Sivani û Avdûla begi mê di ez tedê bya kawğei Karbegani û Sivani mê di ez tedê bya kawğei Weşini û Sivani mê di ez tedê bya Awê kawğei aşiranû Ez kawğe nyêtêrsêna",
+      "source": "ez tedê bya; kawğei Sivani û Avdûla begi mê di, ez tedê bya; kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini û Sivani mê di, ez tedê bya. Awê kawğei aşiranû. Ez kawğe nyêtêrsêna.",
       "translations": {
         "en": "I was there. I saw the feud between Sivan and Avdula Beg; I was there. I saw the feud between Karbegan and Sivan; I was there, and the feud between Weshin and Sivan, I saw; I was there. Those were tribal feuds. I do not fear feuds.",
         "tr": "Oradaydım. Sivan ile Avdula Beg'in kavgasını gördüm; oradaydım. Karbegan ile Sivan'ın kavgasını gördüm; oradaydım, Weşin ile Sivan'ın kavgasını gördüm; oradaydım. Onlar aşiret kavgalarıydı. Ben kavgadan korkmam."
@@ -294,7 +294,7 @@
     },
     {
       "id": "u18",
-      "source": "Tı nyêşêni vaci kawğei Sivani û Avdûla begi Ez rocêya nyêşêna vaca zerêy mê kalûna wazêna",
+      "source": "Tı nyêşêni vaci kawğei Sivani û Avdûla begi. Ez rocêya, nyêşêna vaca, zerêy mê kalûna wazêna.",
       "translations": {
         "en": "Can you not tell the feud between Sivan and Avdula Beg? I am fasting; I cannot tell it; my heart wants a pipe.",
         "tr": "Sivan ile Avdula Beg'in kavgasını anlatamaz mısın? Oruçluyum; anlatamam; canım pipo istiyor."
@@ -312,7 +312,7 @@
       "text": "Keífe túe seńén’u?",
       "lerch": "Keífe túe seńén’u?",
       "ipa": "ˈkejfe ˈtwe seˈɲen.u",
-      "zazaki": "Kêyfê twê sênyênû",
+      "zazaki": "Kêyfê twê sênyênû?",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
@@ -327,7 +327,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Kêyfê twê sênyênû"
+          "value": "Kêyfê twê sênyênû?"
         },
         {
           "label": "ENGLISH",
@@ -400,7 +400,7 @@
         {
           "form": "seńén’u?",
           "ipa": "seˈɲen.u",
-          "zazaki": "sênyênû",
+          "zazaki": "sênyênû?",
           "lemma": "senenu",
           "display_gloss": "how are",
           "gloss_tr": "nasılsın",
@@ -443,7 +443,7 @@
       "text": "Keífe me h̔aúlu.",
       "lerch": "Keífe me h̔aúlu.",
       "ipa": "ˈkejfe me ˈħawlu",
-      "zazaki": "Kêyfê mê 'hawlû",
+      "zazaki": "Kêyfê mê 'hawlû.",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
@@ -458,7 +458,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Kêyfê mê 'hawlû"
+          "value": "Kêyfê mê 'hawlû."
         },
         {
           "label": "ENGLISH",
@@ -531,7 +531,7 @@
         {
           "form": "h̔aúlu.",
           "ipa": "ˈħawlu",
-          "zazaki": "'hawlû",
+          "zazaki": "'hawlû.",
           "lemma": "haulu",
           "display_gloss": "well",
           "gloss_tr": "iyi",
@@ -574,7 +574,7 @@
       "text": "Nāmeí ašíreta te t̮ínau?",
       "lerch": "Nāmeí ašíreta te t̮ínau?",
       "ipa": "naːˈmej aˈʃireta te ˈt͡ʃinaw",
-      "zazaki": "Namêy aşirêta tê çinaw",
+      "zazaki": "Namêy aşirêta tê çinaw?",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
@@ -589,7 +589,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Namêy aşirêta tê çinaw"
+          "value": "Namêy aşirêta tê çinaw?"
         },
         {
           "label": "ENGLISH",
@@ -707,7 +707,7 @@
         {
           "form": "t̮ínau?",
           "ipa": "ˈt͡ʃinaw",
-          "zazaki": "çinaw",
+          "zazaki": "çinaw?",
           "lemma": "tinau",
           "display_gloss": "what is",
           "gloss_tr": "nedir",
@@ -739,7 +739,7 @@
       "text": "Nameí ašíreta mā Sivā́ṅ.",
       "lerch": "Nameí ašíreta mā Sivā́ṅ.",
       "ipa": "naˈmej aˈʃireta maː siˈvaːŋ",
-      "zazaki": "Namêy aşirêta ma Sivang",
+      "zazaki": "Namêy aşirêta ma Sivang.",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
@@ -754,7 +754,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Namêy aşirêta ma Sivang"
+          "value": "Namêy aşirêta ma Sivang."
         },
         {
           "label": "ENGLISH",
@@ -872,7 +872,7 @@
         {
           "form": "Sivā́ṅ.",
           "ipa": "siˈvaːŋ",
-          "zazaki": "Sivang",
+          "zazaki": "Sivang.",
           "lemma": "sivan",
           "display_gloss": "Sivan",
           "gloss_tr": "Sivan",
@@ -904,7 +904,7 @@
       "text": "T̮é̱nde dḗwi ašíreta šṳ́ma é̱sti?",
       "lerch": "T̮é̱nde dḗwi ašíreta šṳ́ma é̱sti?",
       "ipa": "ˈt͡ʃɛnde ˈdeːwi aˈʃireta ˈʃyma ˈɛsti",
-      "zazaki": "Çendê dêwi aşirêta şûma esti",
+      "zazaki": "Çendê dêwi aşirêta şûma esti?",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
@@ -919,7 +919,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Çendê dêwi aşirêta şûma esti"
+          "value": "Çendê dêwi aşirêta şûma esti?"
         },
         {
           "label": "ENGLISH",
@@ -1038,7 +1038,7 @@
         {
           "form": "é̱sti?",
           "ipa": "ˈɛsti",
-          "zazaki": "esti",
+          "zazaki": "esti?",
           "lemma": "esti",
           "display_gloss": "there are",
           "gloss_tr": "var",
@@ -1070,7 +1070,7 @@
       "text": "Hyéris u t̮ehér dé̱wi ašíreta mā́’i.",
       "lerch": "Hyéris u t̮ehér dé̱wi ašíreta mā́’i.",
       "ipa": "ˈhjeris u t͡ʃeˈher ˈdɛwi aˈʃireta ˈmaː.i",
-      "zazaki": "Hyêris û çêhêr dewi aşirêta mai",
+      "zazaki": "Hyêris û çêhêr dewi aşirêta mai.",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
@@ -1085,7 +1085,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Hyêris û çêhêr dewi aşirêta mai"
+          "value": "Hyêris û çêhêr dewi aşirêta mai."
         },
         {
           "label": "ENGLISH",
@@ -1227,7 +1227,7 @@
         {
           "form": "mā́’i.",
           "ipa": "ˈmaː.i",
-          "zazaki": "mai",
+          "zazaki": "mai.",
           "lemma": "mai",
           "display_gloss": "ours",
           "gloss_tr": "bizimki",
@@ -1259,7 +1259,7 @@
       "text": "Nāmeí dé̱wāni ašíreta šṳ́ma t̮ínau?",
       "lerch": "Nāmeí dé̱wāni ašíreta šṳ́ma t̮ínau?",
       "ipa": "naːˈmej ˈdɛwaːni aˈʃireta ˈʃyma ˈt͡ʃinaw",
-      "zazaki": "Namêy dewani aşirêta şûma çinaw",
+      "zazaki": "Namêy dewani aşirêta şûma çinaw?",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
@@ -1274,7 +1274,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Namêy dewani aşirêta şûma çinaw"
+          "value": "Namêy dewani aşirêta şûma çinaw?"
         },
         {
           "label": "ENGLISH",
@@ -1393,7 +1393,7 @@
         {
           "form": "t̮ínau?",
           "ipa": "ˈt͡ʃinaw",
-          "zazaki": "çinaw",
+          "zazaki": "çinaw?",
           "lemma": "tinau",
           "display_gloss": "what is",
           "gloss_tr": "nedir",
@@ -1425,7 +1425,7 @@
       "text": "Fatrakó̤m, Hʿo̤psó̤r, Teníḱ, Réžuān, Zi̥máǵ, Hʿoersíǵ, Hʿe-",
       "lerch": "Fatrakó̤m, Hʿo̤psó̤r, Teníḱ, Réžuān, Zi̥máǵ, Hʿoersíǵ, Hʿe-",
       "ipa": "fatraˈkøm ħøpˈsør teˈnic ˈreʒwaːn zɨˈmaɟ ħoerˈsiɟ ħe",
-      "zazaki": "Fatrakom 'Hopsor Tênik Rêjwan Zımag 'Hoêrsig 'Hê",
+      "zazaki": "Fatrakom, 'Hopsor, Tênik, Rêjwan, Zımag, 'Hoêrsig, 'Hê-",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
@@ -1440,7 +1440,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Fatrakom 'Hopsor Tênik Rêjwan Zımag 'Hoêrsig 'Hê"
+          "value": "Fatrakom, 'Hopsor, Tênik, Rêjwan, Zımag, 'Hoêrsig, 'Hê-"
         },
         {
           "label": "ENGLISH",
@@ -1467,7 +1467,7 @@
         {
           "form": "Fatrakó̤m,",
           "ipa": "fatraˈkøm",
-          "zazaki": "Fatrakom",
+          "zazaki": "Fatrakom,",
           "lemma": "fatrakom",
           "display_gloss": "Fatrakom",
           "gloss_tr": "Fatrakom",
@@ -1490,7 +1490,7 @@
         {
           "form": "Hʿo̤psó̤r,",
           "ipa": "ħøpˈsør",
-          "zazaki": "'Hopsor",
+          "zazaki": "'Hopsor,",
           "lemma": "hopsor",
           "display_gloss": "Hopsor",
           "gloss_tr": "Hopsor",
@@ -1513,7 +1513,7 @@
         {
           "form": "Teníḱ,",
           "ipa": "teˈnic",
-          "zazaki": "Tênik",
+          "zazaki": "Tênik,",
           "lemma": "tenik",
           "display_gloss": "Tenık",
           "gloss_tr": "Tenık",
@@ -1536,7 +1536,7 @@
         {
           "form": "Réžuān,",
           "ipa": "ˈreʒwaːn",
-          "zazaki": "Rêjwan",
+          "zazaki": "Rêjwan,",
           "lemma": "rezuan",
           "display_gloss": "Rezuan",
           "gloss_tr": "Rezuan",
@@ -1559,7 +1559,7 @@
         {
           "form": "Zi̥máǵ,",
           "ipa": "zɨˈmaɟ",
-          "zazaki": "Zımag",
+          "zazaki": "Zımag,",
           "lemma": "zimag",
           "display_gloss": "Zımax",
           "gloss_tr": "Zımax",
@@ -1582,7 +1582,7 @@
         {
           "form": "Hʿoersíǵ,",
           "ipa": "ħoerˈsiɟ",
-          "zazaki": "'Hoêrsig",
+          "zazaki": "'Hoêrsig,",
           "lemma": "hoersig",
           "display_gloss": "Horsıg",
           "gloss_tr": "Horsıg",
@@ -1605,7 +1605,7 @@
         {
           "form": "Hʿe-",
           "ipa": "ħe",
-          "zazaki": "'Hê",
+          "zazaki": "'Hê-",
           "lemma": "he",
           "display_gloss": "Hemık",
           "gloss_tr": "Hemık",
@@ -1637,7 +1637,7 @@
       "text": "mék, Bi̥lí̥ke, Me̱lekā́ṅ, Marḱ, Aldū́n, Ge̱wél, Kasán, Hʿóena, Sā́-",
       "lerch": "mék, Bi̥lí̥ke, Me̱lekā́ṅ, Marḱ, Aldū́n, Ge̱wél, Kasán, Hʿóena, Sā́-",
       "ipa": "ˈmek bɨˈlɨke mɛleˈkaːŋ marc alˈduːn gɛˈwel kaˈsan ˈħoena ˈsaː",
-      "zazaki": "mêk Bılıkê Melêkang Mark Aldûn Gewêl Kasan 'Hoêna Sa",
+      "zazaki": "mêk, Bılıkê, Melêkang, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sa-",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
@@ -1652,7 +1652,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "mêk Bılıkê Melêkang Mark Aldûn Gewêl Kasan 'Hoêna Sa"
+          "value": "mêk, Bılıkê, Melêkang, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sa-"
         },
         {
           "label": "ENGLISH",
@@ -1679,7 +1679,7 @@
         {
           "form": "mék,",
           "ipa": "ˈmek",
-          "zazaki": "mêk",
+          "zazaki": "mêk,",
           "lemma": "mek",
           "display_gloss": "Hemık",
           "gloss_tr": "Hemık",
@@ -1702,7 +1702,7 @@
         {
           "form": "Bi̥lí̥ke,",
           "ipa": "bɨˈlɨke",
-          "zazaki": "Bılıkê",
+          "zazaki": "Bılıkê,",
           "lemma": "bilike",
           "display_gloss": "Bılıko",
           "gloss_tr": "Bılıko",
@@ -1725,7 +1725,7 @@
         {
           "form": "Me̱lekā́ṅ,",
           "ipa": "mɛleˈkaːŋ",
-          "zazaki": "Melêkang",
+          "zazaki": "Melêkang,",
           "lemma": "melekan",
           "display_gloss": "Melekan",
           "gloss_tr": "Melekan",
@@ -1748,7 +1748,7 @@
         {
           "form": "Marḱ,",
           "ipa": "marc",
-          "zazaki": "Mark",
+          "zazaki": "Mark,",
           "lemma": "mark",
           "display_gloss": "Mark",
           "gloss_tr": "Mark",
@@ -1771,7 +1771,7 @@
         {
           "form": "Aldū́n,",
           "ipa": "alˈduːn",
-          "zazaki": "Aldûn",
+          "zazaki": "Aldûn,",
           "lemma": "aldun",
           "display_gloss": "Aldun",
           "gloss_tr": "Aldun",
@@ -1794,7 +1794,7 @@
         {
           "form": "Ge̱wél,",
           "ipa": "gɛˈwel",
-          "zazaki": "Gewêl",
+          "zazaki": "Gewêl,",
           "lemma": "gewel",
           "display_gloss": "Gewel",
           "gloss_tr": "Gewel",
@@ -1817,7 +1817,7 @@
         {
           "form": "Kasán,",
           "ipa": "kaˈsan",
-          "zazaki": "Kasan",
+          "zazaki": "Kasan,",
           "lemma": "kasan",
           "display_gloss": "Kasan",
           "gloss_tr": "Kasan",
@@ -1840,7 +1840,7 @@
         {
           "form": "Hʿóena,",
           "ipa": "ˈħoena",
-          "zazaki": "'Hoêna",
+          "zazaki": "'Hoêna,",
           "lemma": "hoena",
           "display_gloss": "Hoeni",
           "gloss_tr": "Hoeni",
@@ -1863,7 +1863,7 @@
         {
           "form": "Sā́-",
           "ipa": "ˈsaː",
-          "zazaki": "Sa",
+          "zazaki": "Sa-",
           "lemma": "sa",
           "display_gloss": "what",
           "gloss_tr": "ne",
@@ -1895,7 +1895,7 @@
       "text": "ma, É̱merā, Šékera, Hʿeílāṅ, Báziāṅ, Mála-Ibrahimā́n, Ávdelāṅ,",
       "lerch": "ma, É̱merā, Šékera, Hʿeílāṅ, Báziāṅ, Mála-Ibrahimā́n, Ávdelāṅ,",
       "ipa": "ma ˈɛmeraː ˈʃekera ˈħejlaːŋ ˈbazjaːŋ ˈmala-ibrahiˈmaːn ˈavdelaːŋ",
-      "zazaki": "ma Emêra Şêkêra 'Hêylang Bazyang Mala-İbrahiman Avdêlang",
+      "zazaki": "ma, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahiman, Avdêlang,",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
@@ -1910,7 +1910,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ma Emêra Şêkêra 'Hêylang Bazyang Mala-İbrahiman Avdêlang"
+          "value": "ma, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahiman, Avdêlang,"
         },
         {
           "label": "ENGLISH",
@@ -1937,7 +1937,7 @@
         {
           "form": "ma,",
           "ipa": "ma",
-          "zazaki": "ma",
+          "zazaki": "ma,",
           "lemma": "ma",
           "display_gloss": "we",
           "gloss_tr": "biz",
@@ -1960,7 +1960,7 @@
         {
           "form": "É̱merā,",
           "ipa": "ˈɛmeraː",
-          "zazaki": "Emêra",
+          "zazaki": "Emêra,",
           "lemma": "emera",
           "display_gloss": "Emera",
           "gloss_tr": "Emera",
@@ -1983,7 +1983,7 @@
         {
           "form": "Šékera,",
           "ipa": "ˈʃekera",
-          "zazaki": "Şêkêra",
+          "zazaki": "Şêkêra,",
           "lemma": "sekera",
           "display_gloss": "Şekera",
           "gloss_tr": "Şekera",
@@ -2006,7 +2006,7 @@
         {
           "form": "Hʿeílāṅ,",
           "ipa": "ˈħejlaːŋ",
-          "zazaki": "'Hêylang",
+          "zazaki": "'Hêylang,",
           "lemma": "heilan",
           "display_gloss": "Heylan",
           "gloss_tr": "Heylan",
@@ -2029,7 +2029,7 @@
         {
           "form": "Báziāṅ,",
           "ipa": "ˈbazjaːŋ",
-          "zazaki": "Bazyang",
+          "zazaki": "Bazyang,",
           "lemma": "bazian",
           "display_gloss": "Bazian",
           "gloss_tr": "Bazian",
@@ -2052,7 +2052,7 @@
         {
           "form": "Mála-Ibrahimā́n,",
           "ipa": "ˈmala-ibrahiˈmaːn",
-          "zazaki": "Mala-İbrahiman",
+          "zazaki": "Mala-İbrahiman,",
           "lemma": "malaibrahiman",
           "display_gloss": "Mala Ibrahim",
           "gloss_tr": "Mala İbrahim",
@@ -2075,7 +2075,7 @@
         {
           "form": "Ávdelāṅ,",
           "ipa": "ˈavdelaːŋ",
-          "zazaki": "Avdêlang",
+          "zazaki": "Avdêlang,",
           "lemma": "avdelan",
           "display_gloss": "Avdelan",
           "gloss_tr": "Avdelan",
@@ -2107,7 +2107,7 @@
       "text": "Mí̥stāṅ, Sáyere, Ábasa, Wísh̔ein, Hʿaspéǵ, Serat̮yó̤ri, Akerā́gi,",
       "lerch": "Mí̥stāṅ, Sáyere, Ábasa, Wísh̔ein, Hʿaspéǵ, Serat̮yó̤ri, Akerā́gi,",
       "ipa": "ˈmɨstaːŋ ˈsajere ˈabasa ˈwisħejn ħasˈpeɟ serat͡ʃˈjøri akeˈraːgi",
-      "zazaki": "Mıstang Sayêrê Abasa Wis'hêyn 'Haspêg Sêraçyori Akêragi",
+      "zazaki": "Mıstang, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi,",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
@@ -2122,7 +2122,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Mıstang Sayêrê Abasa Wis'hêyn 'Haspêg Sêraçyori Akêragi"
+          "value": "Mıstang, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi,"
         },
         {
           "label": "ENGLISH",
@@ -2149,7 +2149,7 @@
         {
           "form": "Mí̥stāṅ,",
           "ipa": "ˈmɨstaːŋ",
-          "zazaki": "Mıstang",
+          "zazaki": "Mıstang,",
           "lemma": "mistan",
           "display_gloss": "Mıstan",
           "gloss_tr": "Mıstan",
@@ -2172,7 +2172,7 @@
         {
           "form": "Sáyere,",
           "ipa": "ˈsajere",
-          "zazaki": "Sayêrê",
+          "zazaki": "Sayêrê,",
           "lemma": "sayere",
           "display_gloss": "Sayerı",
           "gloss_tr": "Sayerı",
@@ -2195,7 +2195,7 @@
         {
           "form": "Ábasa,",
           "ipa": "ˈabasa",
-          "zazaki": "Abasa",
+          "zazaki": "Abasa,",
           "lemma": "abasa",
           "display_gloss": "Abasa",
           "gloss_tr": "Abaşa",
@@ -2218,7 +2218,7 @@
         {
           "form": "Wísh̔ein,",
           "ipa": "ˈwisħejn",
-          "zazaki": "Wis'hêyn",
+          "zazaki": "Wis'hêyn,",
           "lemma": "wishein",
           "display_gloss": "Wisheyn",
           "gloss_tr": "Wisheyn",
@@ -2241,7 +2241,7 @@
         {
           "form": "Hʿaspéǵ,",
           "ipa": "ħasˈpeɟ",
-          "zazaki": "'Haspêg",
+          "zazaki": "'Haspêg,",
           "lemma": "haspeg",
           "display_gloss": "Haspeg",
           "gloss_tr": "Haspeg",
@@ -2264,7 +2264,7 @@
         {
           "form": "Serat̮yó̤ri,",
           "ipa": "serat͡ʃˈjøri",
-          "zazaki": "Sêraçyori",
+          "zazaki": "Sêraçyori,",
           "lemma": "seratyori",
           "display_gloss": "Seraçurı",
           "gloss_tr": "Seraçurı",
@@ -2287,7 +2287,7 @@
         {
           "form": "Akerā́gi,",
           "ipa": "akeˈraːgi",
-          "zazaki": "Akêragi",
+          "zazaki": "Akêragi,",
           "lemma": "akeragi",
           "display_gloss": "Akeragı",
           "gloss_tr": "Akeragı",
@@ -2319,7 +2319,7 @@
       "text": "Lé̱tāṅ, Γáhār, Γóemāṅ, Kávare, Tā́le̱k.",
       "lerch": "Lé̱tāṅ, Γáhār, Γóemāṅ, Kávare, Tā́le̱k.",
       "ipa": "ˈlɛtaːŋ ˈʁahaːr ˈʁoemaːŋ ˈkavare ˈtaːlɛk",
-      "zazaki": "Letang Ğahar Ğoêmang Kavarê Talek",
+      "zazaki": "Letang, Ğahar, Ğoêmang, Kavarê, Talek.",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
@@ -2334,7 +2334,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Letang Ğahar Ğoêmang Kavarê Talek"
+          "value": "Letang, Ğahar, Ğoêmang, Kavarê, Talek."
         },
         {
           "label": "ENGLISH",
@@ -2361,7 +2361,7 @@
         {
           "form": "Lé̱tāṅ,",
           "ipa": "ˈlɛtaːŋ",
-          "zazaki": "Letang",
+          "zazaki": "Letang,",
           "lemma": "letan",
           "display_gloss": "Letan",
           "gloss_tr": "Letan",
@@ -2384,7 +2384,7 @@
         {
           "form": "Γáhār,",
           "ipa": "ˈʁahaːr",
-          "zazaki": "Ğahar",
+          "zazaki": "Ğahar,",
           "lemma": "gahar",
           "display_gloss": "Gahar",
           "gloss_tr": "Gahar",
@@ -2407,7 +2407,7 @@
         {
           "form": "Γóemāṅ,",
           "ipa": "ˈʁoemaːŋ",
-          "zazaki": "Ğoêmang",
+          "zazaki": "Ğoêmang,",
           "lemma": "goeman",
           "display_gloss": "Gowman",
           "gloss_tr": "Gowman",
@@ -2430,7 +2430,7 @@
         {
           "form": "Kávare,",
           "ipa": "ˈkavare",
-          "zazaki": "Kavarê",
+          "zazaki": "Kavarê,",
           "lemma": "kavare",
           "display_gloss": "Kavarı",
           "gloss_tr": "Kavarı",
@@ -2453,7 +2453,7 @@
         {
           "form": "Tā́le̱k.",
           "ipa": "ˈtaːlɛk",
-          "zazaki": "Talek",
+          "zazaki": "Talek.",
           "lemma": "talek",
           "display_gloss": "Talık",
           "gloss_tr": "Talık",
@@ -2485,7 +2485,7 @@
       "text": "Si̥pye̱rdí̥ši dé̱we̱ Aldúni qā́mu?",
       "lerch": "Si̥pye̱rdí̥ši dé̱we̱ Aldúni qā́mu?",
       "ipa": "sɨpjɛrˈdɨʃi ˈdɛwɛ alˈduni ˈqaːmu",
-      "zazaki": "Sıpyerdışi dewe Aldûni qamû",
+      "zazaki": "Sıpyerdışi dewe Aldûni qamû?",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
@@ -2500,7 +2500,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Sıpyerdışi dewe Aldûni qamû"
+          "value": "Sıpyerdışi dewe Aldûni qamû?"
         },
         {
           "label": "ENGLISH",
@@ -2596,7 +2596,7 @@
         {
           "form": "qā́mu?",
           "ipa": "ˈqaːmu",
-          "zazaki": "qamû",
+          "zazaki": "qamû?",
           "lemma": "qamu",
           "display_gloss": "who is",
           "gloss_tr": "kimdir",
@@ -2628,7 +2628,7 @@
       "text": "Áli Be̱g si̥pye̱rdí̥šu daúe Aldū́ni é̱stu.",
       "lerch": "Áli Be̱g si̥pye̱rdí̥šu daúe Aldū́ni é̱stu.",
       "ipa": "ˈali bɛg sɨpjɛrˈdɨʃu ˈdawe alˈduːni ˈɛstu",
-      "zazaki": "Ali Beg sıpyerdışû dawê Aldûni estû",
+      "zazaki": "Ali Beg sıpyerdışû dawê Aldûni estû.",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -2643,7 +2643,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Ali Beg sıpyerdışû dawê Aldûni estû"
+          "value": "Ali Beg sıpyerdışû dawê Aldûni estû."
         },
         {
           "label": "ENGLISH",
@@ -2796,7 +2796,7 @@
         {
           "form": "é̱stu.",
           "ipa": "ˈɛstu",
-          "zazaki": "estû",
+          "zazaki": "estû.",
           "lemma": "estu",
           "display_gloss": "there is",
           "gloss_tr": "var",
@@ -2828,7 +2828,7 @@
       "text": "Si̥pye̱rdí̥šu daúe Ge̱wél qā́mu?",
       "lerch": "Si̥pye̱rdí̥šu daúe Ge̱wél qā́mu?",
       "ipa": "sɨpjɛrˈdɨʃu ˈdawe gɛˈwel ˈqaːmu",
-      "zazaki": "Sıpyerdışû dawê Gewêl qamû",
+      "zazaki": "Sıpyerdışû dawê Gewêl qamû?",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -2843,7 +2843,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Sıpyerdışû dawê Gewêl qamû"
+          "value": "Sıpyerdışû dawê Gewêl qamû?"
         },
         {
           "label": "ENGLISH",
@@ -2950,7 +2950,7 @@
         {
           "form": "qā́mu?",
           "ipa": "ˈqaːmu",
-          "zazaki": "qamû",
+          "zazaki": "qamû?",
           "lemma": "qamu",
           "display_gloss": "who is",
           "gloss_tr": "kimdir",
@@ -2982,7 +2982,7 @@
       "text": "Mistefā́ Alía si̥pye̱rdí̥šu.",
       "lerch": "Mistefā́ Alía si̥pye̱rdí̥šu.",
       "ipa": "misteˈfaː alˈja sɨpjɛrˈdɨʃu",
-      "zazaki": "Mistêfa Alya sıpyerdışû",
+      "zazaki": "Mistêfa Alya sıpyerdışû.",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -2997,7 +2997,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Mistêfa Alya sıpyerdışû"
+          "value": "Mistêfa Alya sıpyerdışû."
         },
         {
           "label": "ENGLISH",
@@ -3070,7 +3070,7 @@
         {
           "form": "si̥pye̱rdí̥šu.",
           "ipa": "sɨpjɛrˈdɨʃu",
-          "zazaki": "sıpyerdışû",
+          "zazaki": "sıpyerdışû.",
           "lemma": "sipyerdisu",
           "display_gloss": "village elder",
           "gloss_tr": "köy büyüğü",
@@ -3102,7 +3102,7 @@
       "text": "Nāmeí dé̱wa túe t̮ínau?",
       "lerch": "Nāmeí dé̱wa túe t̮ínau?",
       "ipa": "naːˈmej ˈdɛwa ˈtwe ˈt͡ʃinaw",
-      "zazaki": "Namêy dewa twê çinaw",
+      "zazaki": "Namêy dewa twê çinaw?",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -3117,7 +3117,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Namêy dewa twê çinaw"
+          "value": "Namêy dewa twê çinaw?"
         },
         {
           "label": "ENGLISH",
@@ -3213,7 +3213,7 @@
         {
           "form": "t̮ínau?",
           "ipa": "ˈt͡ʃinaw",
-          "zazaki": "çinaw",
+          "zazaki": "çinaw?",
           "lemma": "tinau",
           "display_gloss": "what is",
           "gloss_tr": "nedir",
@@ -3245,7 +3245,7 @@
       "text": "Kasán dé̱wa me é̱stu.",
       "lerch": "Kasán dé̱wa me é̱stu.",
       "ipa": "kaˈsan ˈdɛwa me ˈɛstu",
-      "zazaki": "Kasan dewa mê estû",
+      "zazaki": "Kasan dewa mê estû.",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -3260,7 +3260,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Kasan dewa mê estû"
+          "value": "Kasan dewa mê estû."
         },
         {
           "label": "ENGLISH",
@@ -3356,7 +3356,7 @@
         {
           "form": "é̱stu.",
           "ipa": "ˈɛstu",
-          "zazaki": "estû",
+          "zazaki": "estû.",
           "lemma": "estu",
           "display_gloss": "there is",
           "gloss_tr": "var",
@@ -3388,7 +3388,7 @@
       "text": "T̮é̱nde bā́ni daúe̱ Kasán é̱sti?",
       "lerch": "T̮é̱nde bā́ni daúe̱ Kasán é̱sti?",
       "ipa": "ˈt͡ʃɛnde ˈbaːni ˈdawɛ kaˈsan ˈɛsti",
-      "zazaki": "Çendê bani dawe Kasan esti",
+      "zazaki": "Çendê bani dawe Kasan esti?",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -3403,7 +3403,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Çendê bani dawe Kasan esti"
+          "value": "Çendê bani dawe Kasan esti?"
         },
         {
           "label": "ENGLISH",
@@ -3522,7 +3522,7 @@
         {
           "form": "é̱sti?",
           "ipa": "ˈɛsti",
-          "zazaki": "esti",
+          "zazaki": "esti?",
           "lemma": "esti",
           "display_gloss": "there are",
           "gloss_tr": "var",
@@ -3554,7 +3554,7 @@
       "text": "Šé̱šti bā́ni Kasán é̱sti.",
       "lerch": "Šé̱šti bā́ni Kasán é̱sti.",
       "ipa": "ˈʃɛʃti ˈbaːni kaˈsan ˈɛsti",
-      "zazaki": "Şeşti bani Kasan esti",
+      "zazaki": "Şeşti bani Kasan esti.",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -3569,7 +3569,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Şeşti bani Kasan esti"
+          "value": "Şeşti bani Kasan esti."
         },
         {
           "label": "ENGLISH",
@@ -3665,7 +3665,7 @@
         {
           "form": "é̱sti.",
           "ipa": "ˈɛsti",
-          "zazaki": "esti",
+          "zazaki": "esti.",
           "lemma": "esti",
           "display_gloss": "there are",
           "gloss_tr": "var",
@@ -3697,7 +3697,7 @@
       "text": "Bāγt̮e tu é̱stu?",
       "lerch": "Bāγt̮e tu é̱stu?",
       "ipa": "baːʁt͡ʃe tu ˈɛstu",
-      "zazaki": "Bağçê tû estû",
+      "zazaki": "Bağçê tû estû?",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -3712,7 +3712,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Bağçê tû estû"
+          "value": "Bağçê tû estû?"
         },
         {
           "label": "ENGLISH",
@@ -3785,7 +3785,7 @@
         {
           "form": "é̱stu?",
           "ipa": "ˈɛstu",
-          "zazaki": "estû",
+          "zazaki": "estû?",
           "lemma": "estu",
           "display_gloss": "there is",
           "gloss_tr": "var",
@@ -3817,7 +3817,7 @@
       "text": "É̱stu bāγt̮e me.",
       "lerch": "É̱stu bāγt̮e me.",
       "ipa": "ˈɛstu baːʁt͡ʃe me",
-      "zazaki": "Estû bağçê mê",
+      "zazaki": "Estû bağçê mê.",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -3832,7 +3832,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Estû bağçê mê"
+          "value": "Estû bağçê mê."
         },
         {
           "label": "ENGLISH",
@@ -3905,7 +3905,7 @@
         {
           "form": "me.",
           "ipa": "me",
-          "zazaki": "mê",
+          "zazaki": "mê.",
           "lemma": "me",
           "display_gloss": "my",
           "gloss_tr": "benim",
@@ -3937,7 +3937,7 @@
       "text": "Bāγt̮e tu sé̱ńe dā́ri?",
       "lerch": "Bāγt̮e tu sé̱ńe dā́ri?",
       "ipa": "baːʁt͡ʃe tu ˈsɛɲe ˈdaːri",
-      "zazaki": "Bağçê tû senyê dari",
+      "zazaki": "Bağçê tû senyê dari?",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -3952,7 +3952,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Bağçê tû senyê dari"
+          "value": "Bağçê tû senyê dari?"
         },
         {
           "label": "ENGLISH",
@@ -4048,7 +4048,7 @@
         {
           "form": "dā́ri?",
           "ipa": "ˈdaːri",
-          "zazaki": "dari",
+          "zazaki": "dari?",
           "lemma": "dari",
           "display_gloss": "trees",
           "gloss_tr": "ağaçlar",
@@ -4080,7 +4080,7 @@
       "text": "Dā́re tṳ́yera é̱stu, sayér é̱stu, mišmišyḗr é̱stu, χauχir, he̱-",
       "lerch": "Dā́re tṳ́yera é̱stu, sayér é̱stu, mišmišyḗr é̱stu, χauχir, he̱-",
       "ipa": "ˈdaːre ˈtyjera ˈɛstu saˈjer ˈɛstu miʃmiʃˈjeːr ˈɛstu χawχir hɛ",
-      "zazaki": "Darê tûyêra estû sayêr estû mişmişyêr estû xawxir he",
+      "zazaki": "Darê tûyêra estû, sayêr estû, mişmişyêr estû, xawxir, he-",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -4095,7 +4095,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Darê tûyêra estû sayêr estû mişmişyêr estû xawxir he"
+          "value": "Darê tûyêra estû, sayêr estû, mişmişyêr estû, xawxir, he-"
         },
         {
           "label": "ENGLISH",
@@ -4179,7 +4179,7 @@
         {
           "form": "é̱stu,",
           "ipa": "ˈɛstu",
-          "zazaki": "estû",
+          "zazaki": "estû,",
           "lemma": "estu",
           "display_gloss": "there is",
           "gloss_tr": "var",
@@ -4225,7 +4225,7 @@
         {
           "form": "é̱stu,",
           "ipa": "ˈɛstu",
-          "zazaki": "estû",
+          "zazaki": "estû,",
           "lemma": "estu",
           "display_gloss": "there is",
           "gloss_tr": "var",
@@ -4271,7 +4271,7 @@
         {
           "form": "é̱stu,",
           "ipa": "ˈɛstu",
-          "zazaki": "estû",
+          "zazaki": "estû,",
           "lemma": "estu",
           "display_gloss": "there is",
           "gloss_tr": "var",
@@ -4294,7 +4294,7 @@
         {
           "form": "χauχir,",
           "ipa": "χawχir",
-          "zazaki": "xawxir",
+          "zazaki": "xawxir,",
           "lemma": "xauxir",
           "display_gloss": "peach trees",
           "gloss_tr": "şeftali ağaçları",
@@ -4317,7 +4317,7 @@
         {
           "form": "he̱-",
           "ipa": "hɛ",
-          "zazaki": "he",
+          "zazaki": "he-",
           "lemma": "he",
           "display_gloss": "pomegranate",
           "gloss_tr": "nar",
@@ -4349,7 +4349,7 @@
       "text": "nāriyér, re̱z ésti.",
       "lerch": "nāriyér, re̱z ésti.",
       "ipa": "naːriˈjer rɛz ˈesti",
-      "zazaki": "nariyêr rez êsti",
+      "zazaki": "nariyêr, rez êsti.",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -4364,7 +4364,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "nariyêr rez êsti"
+          "value": "nariyêr, rez êsti."
         },
         {
           "label": "ENGLISH",
@@ -4391,7 +4391,7 @@
         {
           "form": "nāriyér,",
           "ipa": "naːriˈjer",
-          "zazaki": "nariyêr",
+          "zazaki": "nariyêr,",
           "lemma": "nariyer",
           "display_gloss": "pomegranate trees",
           "gloss_tr": "nar ağaçları",
@@ -4437,7 +4437,7 @@
         {
           "form": "ésti.",
           "ipa": "ˈesti",
-          "zazaki": "êsti",
+          "zazaki": "êsti.",
           "lemma": "esti",
           "display_gloss": "there are",
           "gloss_tr": "var",
@@ -4469,7 +4469,7 @@
       "text": "T̮é̱nde wadeí yau bā́ni é̱sti?",
       "lerch": "T̮é̱nde wadeí yau bā́ni é̱sti?",
       "ipa": "ˈt͡ʃɛnde waˈdej jaw ˈbaːni ˈɛsti",
-      "zazaki": "Çendê wadêy yaw bani esti",
+      "zazaki": "Çendê wadêy yaw bani esti?",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -4484,7 +4484,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Çendê wadêy yaw bani esti"
+          "value": "Çendê wadêy yaw bani esti?"
         },
         {
           "label": "ENGLISH",
@@ -4603,7 +4603,7 @@
         {
           "form": "é̱sti?",
           "ipa": "ˈɛsti",
-          "zazaki": "esti",
+          "zazaki": "esti?",
           "lemma": "esti",
           "display_gloss": "there are",
           "gloss_tr": "var",
@@ -4635,7 +4635,7 @@
       "text": "Mē̱rdúm é̱stu wé̱ri kei t̮ehér ésti, pāṅd̮ é̱sti, mē̱rdúm é̱stu",
       "lerch": "Mē̱rdúm é̱stu wé̱ri kei t̮ehér ésti, pāṅd̮ é̱sti, mē̱rdúm é̱stu",
       "ipa": "mɛːrˈdum ˈɛstu ˈwɛri kej t͡ʃeˈher ˈesti paːŋd͡ʒ ˈɛsti mɛːrˈdum ˈɛstu",
-      "zazaki": "Merdûm estû weri kêy çêhêr êsti pangc esti merdûm estû",
+      "zazaki": "Merdûm estû weri kêy çêhêr êsti, pangc esti, merdûm estû",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -4650,7 +4650,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Merdûm estû weri kêy çêhêr êsti pangc esti merdûm estû"
+          "value": "Merdûm estû weri kêy çêhêr êsti, pangc esti, merdûm estû"
         },
         {
           "label": "ENGLISH",
@@ -4792,7 +4792,7 @@
         {
           "form": "ésti,",
           "ipa": "ˈesti",
-          "zazaki": "êsti",
+          "zazaki": "êsti,",
           "lemma": "esti",
           "display_gloss": "there are",
           "gloss_tr": "var",
@@ -4838,7 +4838,7 @@
         {
           "form": "é̱sti,",
           "ipa": "ˈɛsti",
-          "zazaki": "esti",
+          "zazaki": "esti,",
           "lemma": "esti",
           "display_gloss": "there are",
           "gloss_tr": "var",
@@ -4916,7 +4916,7 @@
       "text": "yau bāṅ é̱stu, wadé̱ t̮íńu.",
       "lerch": "yau bāṅ é̱stu, wadé̱ t̮íńu.",
       "ipa": "jaw baːŋ ˈɛstu waˈdɛ ˈt͡ʃiɲu",
-      "zazaki": "yaw bang estû wade çinyû",
+      "zazaki": "yaw bang estû, wade çinyû.",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -4931,7 +4931,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "yaw bang estû wade çinyû"
+          "value": "yaw bang estû, wade çinyû."
         },
         {
           "label": "ENGLISH",
@@ -5004,7 +5004,7 @@
         {
           "form": "é̱stu,",
           "ipa": "ˈɛstu",
-          "zazaki": "estû",
+          "zazaki": "estû,",
           "lemma": "estu",
           "display_gloss": "there is",
           "gloss_tr": "var",
@@ -5050,7 +5050,7 @@
         {
           "form": "t̮íńu.",
           "ipa": "ˈt͡ʃiɲu",
-          "zazaki": "çinyû",
+          "zazaki": "çinyû.",
           "lemma": "tinu",
           "display_gloss": "there is not",
           "gloss_tr": "yok",
@@ -5082,7 +5082,7 @@
       "text": "Šṳ́ma šuén’i zozā́ṅ?",
       "lerch": "Šṳ́ma šuén’i zozā́ṅ?",
       "ipa": "ˈʃyma ˈʃwen.i zoˈzaːŋ",
-      "zazaki": "Şûma şwêni zozang",
+      "zazaki": "Şûma şwêni zozang?",
       "source_note": "",
       "russian_print_page": 97,
       "russian_scan_page": 111,
@@ -5097,7 +5097,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Şûma şwêni zozang"
+          "value": "Şûma şwêni zozang?"
         },
         {
           "label": "ENGLISH",
@@ -5170,7 +5170,7 @@
         {
           "form": "zozā́ṅ?",
           "ipa": "zoˈzaːŋ",
-          "zazaki": "zozang",
+          "zazaki": "zozang?",
           "lemma": "zozan",
           "display_gloss": "summer pasture",
           "gloss_tr": "yayla",
@@ -5202,7 +5202,7 @@
       "text": "Mā šuén’i zozā́ṅ.",
       "lerch": "Mā šuén’i zozā́ṅ.",
       "ipa": "maː ˈʃwen.i zoˈzaːŋ",
-      "zazaki": "Ma şwêni zozang",
+      "zazaki": "Ma şwêni zozang.",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -5217,7 +5217,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Ma şwêni zozang"
+          "value": "Ma şwêni zozang."
         },
         {
           "label": "ENGLISH",
@@ -5290,7 +5290,7 @@
         {
           "form": "zozā́ṅ.",
           "ipa": "zoˈzaːŋ",
-          "zazaki": "zozang",
+          "zazaki": "zozang.",
           "lemma": "zozan",
           "display_gloss": "summer pasture",
           "gloss_tr": "yayla",
@@ -5322,7 +5322,7 @@
       "text": "Šṳ́ma qām wáχte šuén’i zozā́ṅ?",
       "lerch": "Šṳ́ma qām wáχte šuén’i zozā́ṅ?",
       "ipa": "ˈʃyma qaːm ˈwaχte ˈʃwen.i zoˈzaːŋ",
-      "zazaki": "Şûma qam waxtê şwêni zozang",
+      "zazaki": "Şûma qam waxtê şwêni zozang?",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -5337,7 +5337,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Şûma qam waxtê şwêni zozang"
+          "value": "Şûma qam waxtê şwêni zozang?"
         },
         {
           "label": "ENGLISH",
@@ -5456,7 +5456,7 @@
         {
           "form": "zozā́ṅ?",
           "ipa": "zoˈzaːŋ",
-          "zazaki": "zozang",
+          "zazaki": "zozang?",
           "lemma": "zozan",
           "display_gloss": "summer pasture",
           "gloss_tr": "yayla",
@@ -5488,7 +5488,7 @@
       "text": "Ā́šme Te̱múzide mā šuén’i zozā́ṅ.",
       "lerch": "Ā́šme Te̱múzide mā šuén’i zozā́ṅ.",
       "ipa": "ˈaːʃme tɛˈmuzide maː ˈʃwen.i zoˈzaːŋ",
-      "zazaki": "Aşmê Temûzidê ma şwêni zozang",
+      "zazaki": "Aşmê Temûzidê ma şwêni zozang.",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -5503,7 +5503,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Aşmê Temûzidê ma şwêni zozang"
+          "value": "Aşmê Temûzidê ma şwêni zozang."
         },
         {
           "label": "ENGLISH",
@@ -5633,7 +5633,7 @@
         {
           "form": "zozā́ṅ.",
           "ipa": "zoˈzaːŋ",
-          "zazaki": "zozang",
+          "zazaki": "zozang.",
           "lemma": "zozan",
           "display_gloss": "summer pasture",
           "gloss_tr": "yayla",
@@ -5665,7 +5665,7 @@
       "text": "Šṳ́ma zozā́ṅde karat̮ad̮íride rōšén’i?",
       "lerch": "Šṳ́ma zozā́ṅde karat̮ad̮íride rōšén’i?",
       "ipa": "ˈʃyma zoˈzaːŋde karat͡ʃaˈd͡ʒiride roːˈʃen.i",
-      "zazaki": "Şûma zozangdê karaçaciridê roşêni",
+      "zazaki": "Şûma zozangdê karaçaciridê roşêni?",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -5680,7 +5680,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Şûma zozangdê karaçaciridê roşêni"
+          "value": "Şûma zozangdê karaçaciridê roşêni?"
         },
         {
           "label": "ENGLISH",
@@ -5798,7 +5798,7 @@
         {
           "form": "rōšén’i?",
           "ipa": "roːˈʃen.i",
-          "zazaki": "roşêni",
+          "zazaki": "roşêni?",
           "lemma": "roseni",
           "display_gloss": "we stay",
           "gloss_tr": "kalırız",
@@ -5830,7 +5830,7 @@
       "text": "Mā karat̮ad̮írid̮e rōšén’i, bā́ni ésti mā bā́nide rōšén’i.",
       "lerch": "Mā karat̮ad̮írid̮e rōšén’i, bā́ni ésti mā bā́nide rōšén’i.",
       "ipa": "maː karat͡ʃaˈd͡ʒirid͡ʒe roːˈʃen.i ˈbaːni ˈesti maː ˈbaːnide roːˈʃen.i",
-      "zazaki": "Ma karaçaciricê roşêni bani êsti ma banidê roşêni",
+      "zazaki": "Ma karaçaciricê roşêni, bani êsti ma banidê roşêni.",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -5845,7 +5845,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Ma karaçaciricê roşêni bani êsti ma banidê roşêni"
+          "value": "Ma karaçaciricê roşêni, bani êsti ma banidê roşêni."
         },
         {
           "label": "ENGLISH",
@@ -5929,7 +5929,7 @@
         {
           "form": "rōšén’i,",
           "ipa": "roːˈʃen.i",
-          "zazaki": "roşêni",
+          "zazaki": "roşêni,",
           "lemma": "roseni",
           "display_gloss": "we stay",
           "gloss_tr": "kalırız",
@@ -6055,7 +6055,7 @@
         {
           "form": "rōšén’i.",
           "ipa": "roːˈʃen.i",
-          "zazaki": "roşêni",
+          "zazaki": "roşêni.",
           "lemma": "roseni",
           "display_gloss": "we stay",
           "gloss_tr": "kalırız",
@@ -6087,7 +6087,7 @@
       "text": "Šṳ́ma qām wáχte yén’i wār?",
       "lerch": "Šṳ́ma qām wáχte yén’i wār?",
       "ipa": "ˈʃyma qaːm ˈwaχte ˈjen.i waːr",
-      "zazaki": "Şûma qam waxtê yêni war",
+      "zazaki": "Şûma qam waxtê yêni war?",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -6102,7 +6102,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Şûma qam waxtê yêni war"
+          "value": "Şûma qam waxtê yêni war?"
         },
         {
           "label": "ENGLISH",
@@ -6221,7 +6221,7 @@
         {
           "form": "wār?",
           "ipa": "waːr",
-          "zazaki": "war",
+          "zazaki": "war?",
           "lemma": "war",
           "display_gloss": "down",
           "gloss_tr": "aşağı",
@@ -6253,7 +6253,7 @@
       "text": "Mā ā́šmai pa’ízi vē̱ryén’i yén’i wār.",
       "lerch": "Mā ā́šmai pa’ízi vē̱ryén’i yén’i wār.",
       "ipa": "maː ˈaːʃmaj pa.ˈizi vɛːrˈjen.i ˈjen.i waːr",
-      "zazaki": "Ma aşmay paizi veryêni yêni war",
+      "zazaki": "Ma aşmay paizi veryêni yêni war.",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -6268,7 +6268,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Ma aşmay paizi veryêni yêni war"
+          "value": "Ma aşmay paizi veryêni yêni war."
         },
         {
           "label": "ENGLISH",
@@ -6410,7 +6410,7 @@
         {
           "form": "wār.",
           "ipa": "waːr",
-          "zazaki": "war",
+          "zazaki": "war.",
           "lemma": "war",
           "display_gloss": "down",
           "gloss_tr": "aşağı",
@@ -6442,7 +6442,7 @@
       "text": "Tu zāf kauγé̱ dī?",
       "lerch": "Tu zāf kauγé̱ dī?",
       "ipa": "tu zaːf kawˈʁɛ diː",
-      "zazaki": "Tû zaf kawğe di",
+      "zazaki": "Tû zaf kawğe di?",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -6457,7 +6457,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Tû zaf kawğe di"
+          "value": "Tû zaf kawğe di?"
         },
         {
           "label": "ENGLISH",
@@ -6553,7 +6553,7 @@
         {
           "form": "dī?",
           "ipa": "diː",
-          "zazaki": "di",
+          "zazaki": "di?",
           "lemma": "di",
           "display_gloss": "saw",
           "gloss_tr": "gördü",
@@ -6585,7 +6585,7 @@
       "text": "Me zaf kauγé̱ dī. Bāúki méra, kauγé̱’i Ńéribi u Hʿyẹ̄́ni me",
       "lerch": "Me zaf kauγé̱ dī. Bāúki méra, kauγé̱’i Ńéribi u Hʿyẹ̄́ni me",
       "ipa": "me zaf kawˈʁɛ diː ˈbaːwki ˈmera kawˈʁɛ.i ˈɲeribi u ˈħje̝ːni me",
-      "zazaki": "Mê zaf kawğe di Bawki mêra kawğei Nyêribi û 'Hyêni mê",
+      "zazaki": "Mê zaf kawğe di. Bawki mêra, kawğei Nyêribi û 'Hyêni mê",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -6600,7 +6600,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Mê zaf kawğe di Bawki mêra kawğei Nyêribi û 'Hyêni mê"
+          "value": "Mê zaf kawğe di. Bawki mêra, kawğei Nyêribi û 'Hyêni mê"
         },
         {
           "label": "ENGLISH",
@@ -6696,7 +6696,7 @@
         {
           "form": "dī.",
           "ipa": "diː",
-          "zazaki": "di",
+          "zazaki": "di.",
           "lemma": "di",
           "display_gloss": "saw",
           "gloss_tr": "gördü",
@@ -6742,7 +6742,7 @@
         {
           "form": "méra,",
           "ipa": "ˈmera",
-          "zazaki": "mêra",
+          "zazaki": "mêra,",
           "lemma": "me",
           "display_gloss": "my",
           "gloss_tr": "benim",
@@ -6922,7 +6922,7 @@
       "text": "dī, e̱z šía kauγé̱’i Ńeríbi u Hʿyẹ̄́ni, kauγé̱’i E̱h̔méd bé̱gi u Sivā́ni",
       "lerch": "dī, e̱z šía kauγé̱’i Ńeríbi u Hʿyẹ̄́ni, kauγé̱’i E̱h̔méd bé̱gi u Sivā́ni",
       "ipa": "diː ɛz ˈʃja kawˈʁɛ.i ɲeˈribi u ˈħje̝ːni kawˈʁɛ.i ɛħˈmed ˈbɛgi u siˈvaːni",
-      "zazaki": "di ez şya kawğei Nyêribi û 'Hyêni kawğei E'hmêd begi û Sivani",
+      "zazaki": "di, ez şya kawğei Nyêribi û 'Hyêni, kawğei E'hmêd begi û Sivani",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -6937,7 +6937,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "di ez şya kawğei Nyêribi û 'Hyêni kawğei E'hmêd begi û Sivani"
+          "value": "di, ez şya kawğei Nyêribi û 'Hyêni, kawğei E'hmêd begi û Sivani"
         },
         {
           "label": "ENGLISH",
@@ -6964,7 +6964,7 @@
         {
           "form": "dī,",
           "ipa": "diː",
-          "zazaki": "di",
+          "zazaki": "di,",
           "lemma": "di",
           "display_gloss": "saw",
           "gloss_tr": "gördü",
@@ -7113,7 +7113,7 @@
         {
           "form": "Hʿyẹ̄́ni,",
           "ipa": "ˈħje̝ːni",
-          "zazaki": "'Hyêni",
+          "zazaki": "'Hyêni,",
           "lemma": "hyeni",
           "display_gloss": "Hyeni",
           "gloss_tr": "Hêni",
@@ -7271,7 +7271,7 @@
       "text": "e̱z té̱de bía; kauγé̱’i Sivā́ni u Avdúla bé̱gi me dī, e̱z té̱de bía;",
       "lerch": "e̱z té̱de bía; kauγé̱’i Sivā́ni u Avdúla bé̱gi me dī, e̱z té̱de bía;",
       "ipa": "ɛz ˈtɛde ˈbja kawˈʁɛ.i siˈvaːni u avˈdula ˈbɛgi me diː ɛz ˈtɛde ˈbja",
-      "zazaki": "ez tedê bya kawğei Sivani û Avdûla begi mê di ez tedê bya",
+      "zazaki": "ez tedê bya; kawğei Sivani û Avdûla begi mê di, ez tedê bya;",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -7286,7 +7286,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ez tedê bya kawğei Sivani û Avdûla begi mê di ez tedê bya"
+          "value": "ez tedê bya; kawğei Sivani û Avdûla begi mê di, ez tedê bya;"
         },
         {
           "label": "ENGLISH",
@@ -7370,7 +7370,7 @@
         {
           "form": "bía;",
           "ipa": "ˈbja",
-          "zazaki": "bya",
+          "zazaki": "bya;",
           "lemma": "bia",
           "display_gloss": "was",
           "gloss_tr": "idi",
@@ -7542,7 +7542,7 @@
         {
           "form": "dī,",
           "ipa": "diː",
-          "zazaki": "di",
+          "zazaki": "di,",
           "lemma": "di",
           "display_gloss": "saw",
           "gloss_tr": "gördü",
@@ -7622,7 +7622,7 @@
         {
           "form": "bía;",
           "ipa": "ˈbja",
-          "zazaki": "bya",
+          "zazaki": "bya;",
           "lemma": "bia",
           "display_gloss": "was",
           "gloss_tr": "idi",
@@ -7654,7 +7654,7 @@
       "text": "kauγé̱’i Karbe̱gā́ni u Sivā́ni me dī, e̱z té̱de bía, kauγé̱’i We̱šini",
       "lerch": "kauγé̱’i Karbe̱gā́ni u Sivā́ni me dī, e̱z té̱de bía, kauγé̱’i We̱šini",
       "ipa": "kawˈʁɛ.i karbɛˈgaːni u siˈvaːni me diː ɛz ˈtɛde ˈbja kawˈʁɛ.i wɛʃini",
-      "zazaki": "kawğei Karbegani û Sivani mê di ez tedê bya kawğei Weşini",
+      "zazaki": "kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -7669,7 +7669,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kawğei Karbegani û Sivani mê di ez tedê bya kawğei Weşini"
+          "value": "kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini"
         },
         {
           "label": "ENGLISH",
@@ -7822,7 +7822,7 @@
         {
           "form": "dī,",
           "ipa": "diː",
-          "zazaki": "di",
+          "zazaki": "di,",
           "lemma": "di",
           "display_gloss": "saw",
           "gloss_tr": "gördü",
@@ -7902,7 +7902,7 @@
         {
           "form": "bía,",
           "ipa": "ˈbja",
-          "zazaki": "bya",
+          "zazaki": "bya,",
           "lemma": "bia",
           "display_gloss": "was",
           "gloss_tr": "idi",
@@ -7991,7 +7991,7 @@
       "text": "u Sivā́ni me dī, e̱z té̱de bía. Aú’e kauγé̱’i aširā́nu. E̱z kauγé̱",
       "lerch": "u Sivā́ni me dī, e̱z té̱de bía. Aú’e kauγé̱’i aširā́nu. E̱z kauγé̱",
       "ipa": "u siˈvaːni me diː ɛz ˈtɛde ˈbja ˈaw.e kawˈʁɛ.i aʃiˈraːnu ɛz kawˈʁɛ",
-      "zazaki": "û Sivani mê di ez tedê bya Awê kawğei aşiranû Ez kawğe",
+      "zazaki": "û Sivani mê di, ez tedê bya. Awê kawğei aşiranû. Ez kawğe",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -8006,7 +8006,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "û Sivani mê di ez tedê bya Awê kawğei aşiranû Ez kawğe"
+          "value": "û Sivani mê di, ez tedê bya. Awê kawğei aşiranû. Ez kawğe"
         },
         {
           "label": "ENGLISH",
@@ -8102,7 +8102,7 @@
         {
           "form": "dī,",
           "ipa": "diː",
-          "zazaki": "di",
+          "zazaki": "di,",
           "lemma": "di",
           "display_gloss": "saw",
           "gloss_tr": "gördü",
@@ -8182,7 +8182,7 @@
         {
           "form": "bía.",
           "ipa": "ˈbja",
-          "zazaki": "bya",
+          "zazaki": "bya.",
           "lemma": "bia",
           "display_gloss": "was",
           "gloss_tr": "idi",
@@ -8262,7 +8262,7 @@
         {
           "form": "aširā́nu.",
           "ipa": "aʃiˈraːnu",
-          "zazaki": "aşiranû",
+          "zazaki": "aşiranû.",
           "lemma": "asiret",
           "display_gloss": "tribes",
           "gloss_tr": "aşiretler",
@@ -8373,7 +8373,7 @@
       "text": "ńetersén’a.",
       "lerch": "ńetersén’a.",
       "ipa": "ɲeterˈsen.a",
-      "zazaki": "nyêtêrsêna",
+      "zazaki": "nyêtêrsêna.",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -8388,7 +8388,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "nyêtêrsêna"
+          "value": "nyêtêrsêna."
         },
         {
           "label": "ENGLISH",
@@ -8415,7 +8415,7 @@
         {
           "form": "ńetersén’a.",
           "ipa": "ɲeterˈsen.a",
-          "zazaki": "nyêtêrsêna",
+          "zazaki": "nyêtêrsêna.",
           "lemma": "netersena",
           "display_gloss": "I do not fear",
           "gloss_tr": "korkmam",
@@ -8447,7 +8447,7 @@
       "text": "Ti̥ ńešén’i vā́d̮i kauγé̱’i Sivā́ni u Avdúla bé̱gi.",
       "lerch": "Ti̥ ńešén’i vā́d̮i kauγé̱’i Sivā́ni u Avdúla bé̱gi.",
       "ipa": "tɨ ɲeˈʃen.i ˈvaːd͡ʒi kawˈʁɛ.i siˈvaːni u avˈdula ˈbɛgi",
-      "zazaki": "Tı nyêşêni vaci kawğei Sivani û Avdûla begi",
+      "zazaki": "Tı nyêşêni vaci kawğei Sivani û Avdûla begi.",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
@@ -8462,7 +8462,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Tı nyêşêni vaci kawğei Sivani û Avdûla begi"
+          "value": "Tı nyêşêni vaci kawğei Sivani û Avdûla begi."
         },
         {
           "label": "ENGLISH",
@@ -8672,7 +8672,7 @@
         {
           "form": "bé̱gi.",
           "ipa": "ˈbɛgi",
-          "zazaki": "begi",
+          "zazaki": "begi.",
           "lemma": "begi",
           "display_gloss": "Beg",
           "gloss_tr": "Bey",
@@ -8704,7 +8704,7 @@
       "text": "E̱z rōd̮eia, ńešén’a vā́d̮a, ze̱réi me kalṳ́na wazén’a.",
       "lerch": "E̱z rōd̮eia, ńešén’a vā́d̮a, ze̱réi me kalṳ́na wazén’a.",
       "ipa": "ɛz roːd͡ʒeja ɲeˈʃen.a ˈvaːd͡ʒa zɛˈrej me kaˈlyna waˈzen.a",
-      "zazaki": "Ez rocêya nyêşêna vaca zerêy mê kalûna wazêna",
+      "zazaki": "Ez rocêya, nyêşêna vaca, zerêy mê kalûna wazêna.",
       "source_note": "",
       "russian_print_page": 99,
       "russian_scan_page": 113,
@@ -8719,7 +8719,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Ez rocêya nyêşêna vaca zerêy mê kalûna wazêna"
+          "value": "Ez rocêya, nyêşêna vaca, zerêy mê kalûna wazêna."
         },
         {
           "label": "ENGLISH",
@@ -8769,7 +8769,7 @@
         {
           "form": "rōd̮eia,",
           "ipa": "roːd͡ʒeja",
-          "zazaki": "rocêya",
+          "zazaki": "rocêya,",
           "lemma": "rodeia",
           "display_gloss": "fasting",
           "gloss_tr": "oruçluyum",
@@ -8815,7 +8815,7 @@
         {
           "form": "vā́d̮a,",
           "ipa": "ˈvaːd͡ʒa",
-          "zazaki": "vaca",
+          "zazaki": "vaca,",
           "lemma": "vada",
           "display_gloss": "speak",
           "gloss_tr": "konuşmak",
@@ -8907,7 +8907,7 @@
         {
           "form": "wazén’a.",
           "ipa": "waˈzen.a",
-          "zazaki": "wazêna",
+          "zazaki": "wazêna.",
           "lemma": "wazena",
           "display_gloss": "wants",
           "gloss_tr": "istiyor",
