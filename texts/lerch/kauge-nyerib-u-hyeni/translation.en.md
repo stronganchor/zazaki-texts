@@ -14,11 +14,9 @@ Then he went to Nerib, to Xalef Agha, and said to him: 'I killed a man from Hyen
 
 That man said to Xalef Agha: 'He was a servant of Mela Hasein Muyara.' Xalef Agha said: 'Be careful; you have killed a stranger.
 
-A stranger will come into your house, take your property, and kill you.' That man said to Xalef Agha: 'Agha, send word to Little Nerib and Deste Henzi that they should be on guard and keep their property from being left unprotected.
+A stranger will come into your house, take your property, and kill you.' That man said to Xalef Agha: 'Agha, send word to Little Nerib and Deste Henzi that they should be on guard and keep their property from being left unprotected. On whatever day the news comes from Hyeni, let no one be absent and we will fight.'
 
-On whatever day the news comes from Hyeni, let no one be absent and we will fight.' Xalef Agha sent word to Little Nerib, to Wesman Agha, saying: 'Send the news to Mehmet Agha of Deste Henzi.'
-
-Wesman Agha sent word to Mehmet Agha of Deste Henzi, saying: 'Prepare yourself. The Hyeni people will fight us; take powder, make ready, and when the news comes from Hyeni, we will fight.'
+Xalef Agha sent word to Little Nerib, to Wesman Agha, saying: 'Send the news to Mehmet Agha of Deste Henzi.' Wesman Agha sent word to Mehmet Agha of Deste Henzi, saying: 'Prepare yourself. The Hyeni people will fight us; take powder, make ready, and when the news comes from Hyeni, we will fight.'
 
 Mehmet Agha sent word to Wesman Agha, saying: 'Tell Xalef Agha that we are ready; when the news comes from Hyeni, we will fight.' When a month had passed, Daqma Beg of Hyeni sent word to Great Nerib, to Xalef Agha: 'Why did you kill that man of mine? Be ready at your time; in five days we will fight.'
 
@@ -70,4 +68,6 @@ Xalef Agha pulled his army back, came to Nerib, and saw that sixty men were miss
 
 Come and take your dead; I have no one to bury my dead.' Xalef Agha sent a man, saying: 'Go and bring our dead.' The man went, brought the dead, and stayed there.
 
-Daqma Beg sent word to the Ziriki aghas, saying: 'Come and reconcile me with Xalef Agha; all of you come so that we may make peace.' The Ziriki aghas rose,
+Daqma Beg sent word to the Ziriki aghas, saying: 'Come and reconcile me with Xalef Agha; all of you come so that we may make peace.' The Ziriki aghas rose, came to Hyeni, took Daqma Beg, and came to Nerib, to Xalef Agha's house. Daqma Beg went and kissed Xalef Agha's feet; Xalef Agha kissed Daqma Beg's hand.
+
+Xalef Agha gave Daqma Beg two hundred sheep. Daqma Beg gave Xalef Agha a vineyard; they made peace, and the feud was no more.

@@ -1,45 +1,45 @@
 Kelhan'ın Oğlu Ali Ağa
 
-Kelhan'ın oğlu Ali Ağa, Karbegan nahiyesinin beyiydi. Köyünün adı Narbêş'ti.
+Kelhan'ın oğlu Ali Ağa Karbegan nahiyesinin miriydi. Köyünün adı Narbêş'ti.
 
-Ali Ağa dört köye saldırdı ve otuz dört kişiyi öldürdü. Ona hiçbir şey olmadı; kimsenin eli Ali Ağa'ya değmedi.
+Ali Ağa dört köye saldırdı; otuz dört kişiyi öldürdü. Ali Ağa'ya hiçbir şey olmadı; kimsenin eli Ali Ağa'ya değmedi.
 
-Sonra Ali Ağa evini yükleyip göçtü ve Syeraçur'a gitti; orada otuz altı gün kaldı. Otuz dört Karbegan köyü ve otuz dört Sivan köyü toplandı ve meşveret etti.
+Ali Ağa evini toplayıp Syeraçur'a gitti. Otuz altı gün kaldı Syeraçur'da.
 
-Sivan ağaları, Karbeganlı Qasım Ağa ve Weşinli Hasan Ağa bir araya gelip, "Ali Ağa'nın evine saldıralım," dediler. Qasım Ağa, "Ali Ağa'yı kandıracağız.
+Karbegan'ın otuz dört köyü ve Sivan'ın otuz dört köyü bir araya gelip meşveret etti: Sivan ihtiyarları, Qasım Ağa Karbeganlı ve Weşinli Hasan Ağa bir araya gelip dedi ki: 'Saldıralım Ali Ağa'nın evine.' Qasım Ağa dedi ki: 'Ali Ağa'yı kandıracağız; biz gece ordumuzu çağıracağız; köylerin askerleri hep toplansın, gece gidip Ali Ağa'yı ve dört oğlunun hepsini öldürelim.'
 
-Gece kendi askerimizi çağırıp köylerin askerlerini hep birlikte toplayacağız; gece gidip Ali Ağa'yı ve dört oğlunun hepsini öldüreceğiz," dedi. Weşinli Hasan Ağa, "İyi olur, gidip Ali Ağa'yı öldürelim," dedi.
+Hasan Ağa Weşinli dedi ki: 'İyi, gidip Ali Ağa'yı öldürelim.' İhtiyarlar Sivanlılar dedi ki: 'Biz karışmayız.'
 
-Sivan ağaları, "Biz karışmayacağız," dediler. Qasım Ağa, "Size ihtiyaç yok," dedi.
+Qasım Ağa dedi ki: 'Size ihtiyaç yok.' Sivan ihtiyarları çekilip evlerine gittiler.
 
-Sivan ağaları çekilip kendi evlerine gittiler. Qasım Ağa ile Hasan Ağa ikisi gittiler, Ali Ağa'nın evini bastılar, dört oğlunun hepsini götürdüler ve onları Mehmed Hendani'nin evine koydular.
+Qasım Ağa ve Hasan Ağa, o ikisi, Ali Ağa'nın evine saldırmaya gitti; dört oğlunun hepsini alıp götürdüler ve Mehmed Hendani'nin evine götürdüler. Qasım Ağa gece köylere haber gönderip dedi ki: 'Niye bekliyorsunuz?
 
-Gece Qasım Ağa köylere haber gönderip, "Niye bekliyorsunuz? Ali Ağa'yı öldürmeye gidiyoruz," dedi.
+Ali Ağa'yı öldürmeye gidiyoruz.' Köylülerin hepsi toplandı; gece kalktılar; dört yüz asker çıktı ve Qasım Ağa'nın yanına geldi.
 
-Köylüler toplandı; gece kalktılar, dört yüz silahlı adam çıktı ve Qasım Ağa'nın yanına geldi. Qasım Ağa ata bindi, askerin önüne geçti, Xeyd'e geldi, Xeyd'den yüz kişi daha aldı ve beş yüz kişiyle Ali Ağa'nın yanına gitti. Qasım Ağa Ali Ağa'nın yanına girdi, oturdu ve, "Ağa, senden silah istemeye geldim," dedi.
+Qasım Ağa ata bindi ve ordunun önüne geçti, Xeyd'e geldiler; Xeyd'den yüz kişi daha aldı ve beş yüz kişiyle Ali Ağa'ya gitti. Qasım Ağa Ali Ağa'nın yanına girdi, oturdu ve dedi ki: 'Ağa, sana geldim bir ricada bulunmaya.'
 
-Ali Ağa, "Ağa, beni kandırma; silahlarımı sana vermem," dedi. Qasım Ağa, "Korkma. Sana hainlik etmeyeceğim," dedi.
+Ali Ağa dedi ki: 'Ağa, beni kandırma; silahlarımı sana vermeyeceğim.' Qasım Ağa dedi ki: 'Korkma, sana hainlik etmem.'
 
-Ali Ağa, "Sen hainsin. Silahlarımı sana vermem," dedi. Qasım Ağa yemin etti.
+Ali Ağa dedi ki: 'Sen hainsin; silahlarımı sana vermem.' Qasım Ağa yemin etti.
 
-Ali Ağa kendi silahlarını ve dört oğlunun silahlarını topladı, Qasım Ağa'ya verdi. Qasım Ağa onları aldı. Ali Ağa'nın oğlu Ahmed, "Dayı, silahlarımızı alma.
+Ali Ağa kendi silahlarını ve dört oğlunun silahlarını bir araya getirip Qasım Ağa'ya verdi. Qasım Ağa onları aldı.
 
-Sen hainsin. Belki babamın başında akıl yok; bugün Ramazan günü. Ama bak dayı: Silahlarımızı alır da sonra hain olarak dışarı çıkarsan seni öldürürüm," dedi.
+Ali Ağa'nın oğlu Ahmed dedi ki: 'Dayı, alma silahlarımızı; sen hainsin. Belki babamın başında akıl yoktur; Ramazan günüdür, bak dayı: silahlarımızı alıp sonra hain olarak dışarı çıkarsan seni öldürürüm.'
 
-Qasım Ağa Ahmed'e, "Yeğenim, korkma," dedi. Ahmed, "Dayı, hançerimi bana ver. Senin hain olduğunu biliyorum; dışarı çıktığında bizi öldüreceksin," dedi.
+Qasım Ağa Ahmed'e dedi ki: 'Yeğenim, korkma.' Ahmed dedi ki: 'Dayı, hançerimi ver.
 
-Dayısı Ahmed'e hançerini vermedi. Dayısı dışarı çıktı ve askerlerine, "Beklemeyin. Ali Ağa'nın ve dört oğlunun silahlarını aldım, dışarı çıktım.
+Biliyorum, sen hainsin; dışarı çıkınca sen bizi öldüreceksin.' Dayı Ahmed'in hançerini ona geri vermedi.
 
-Beklemeyin. Kapıyı kırın, içeri girin ve Ali Ağa'yı dört oğluyla birlikte öldürün. Yanlarında on sekiz yabancı da var; onlara dokunmayın," dedi.
+Dayı dışarı çıktı ve askerlere dedi: 'Gecikmeyin; Ali Ağa'nın ve dört oğlunun silahlarını aldım; ben dışarı çıktım. Gecikmeyin; kapıyı kırın, içeri girin ve Ali Ağa'yı ve dört oğlunun hepsini öldürün.
 
-Qasım Ağa'nın askerleri kapıyı kırdı. Qasım Ağa öne geçti ve Ahmed'e seslendi: "Yeğenim, geldim; nereye gidersen hemen başını keseceğim." Ahmed de seslenip, "Allah bana izin versin; önce ben seni kendi elimle öldüreceğim," dedi.
+Yanlarında on sekiz yabancı adam da var; onlara dokunmayın.' Qasım Ağa'nın askerleri kapıyı kırdı; Qasım Ağa Öne geçti ve Ahmed'e seslendi: 'Yeğenim, geldim; nereye gidersen başını hemen keserim.'
 
-Dayısı Ahmed'i öldürmeye gitti. Ahmed duvarda bir açıklık gördü; duvarda bir kafes vardı. Elini kafesin içine soktu, kafesin arkasında bir hançer buldu, onu çıkardı ve dayısının göğsünün sağ tarafına sapladı.
+Ahmed seslendi: 'Allah bana izin versin; önce seni kendim öldüreceğim.' Dayı Ahmed'i öldürmeye gitti. Ahmed duvarda bir açıklık gördü; duvarda bir kafes vardı ve elini kafesin arasından geçirdi.
 
-Dayısı düştü. Ahmed hançeri dayısından çekip çıkardı ve Eysan'ı, sonra Hasan Kalan'ı öldürdü. Bir kılıç Ahmed'in iki gözünün arasına indi, gözleri kanla doldu.
+Kafesin arkasında bir hançer buldu ve onu çıkardı, ve dayıyı göğsünün sağ tarafından doğruca vurdu. Dayı düştü. Ahmed hançeri dayıdan çıkardı, Ahmed Eyşan'ı öldürdü, Hasan Kalan'ı öldürdü.
 
-Ahmed öfkelendi ve o hançerle yedi kişiyi öldürdü. Sonra Ahmed öldürüldü. Ahmed'in üç kardeşinin hepsi ve babası öldürüldü.
+Bir kılıç Ahmed'e iki gözünün arasına isabet etti; Ahmed'in gözleri kanlandı. Ahmed öfkelendi ve o hançerle yedi kişiyi öldürdü. Ahmed öldürüldü.
 
-On sekiz yabancı da öldürüldü. Askerler ağanın yanından ayrıldı ve herkes evine gitti. Ali Ağa'nın, dört oğlunun ve on sekiz yabancının cenazeleri odada kaldı.
+Ahmed'in üç kardeşinin hepsi ve babası öldürüldü. On sekiz yabancı adam da öldürüldü. Silahlı adamlar ayrıldı, herkes evine gitti.
 
-Sabah Mela Resa, Desmunlu Mela Qasım'a seslenip, "Ali Ağa'nın, çocuklarının ve on sekiz yabancının cenazelerini buraya getirin; getirip dışarı çıkarın," dedi. Mela Qasım Desmun'dan kalktı, Memed Ağa Xeyd'den kalktı, Ramedan Ağa Merzyele'den kalktı. Gittiler, Ali Ağa'nın, oğullarının ve on sekiz yabancının cesetlerini aldılar, getirdiler, taşıyıp götürdüler ve gömdüler.
+Ali Ağa'nın, dört oğlunun hepsinin ve on sekiz yabancı adamın cesetleri hep birlikte odada kaldı. Sabah Mela Resa seslenip Desmundlu Mela Qasım'a dedi ki: 'Ali Ağa'nın cesetlerini, çocuklarını ve on sekiz yabancı adamı buraya getirin; getirin ve onları taşıyın dışarı.' Mela Qasım Desmun'dan çıktı, Memed Ağa Xeyd'den çıktı, Ramedan Ağa Merzyele'den çıktı; gittiler, Ali Ağa'nın, oğullarının ve on sekiz yabancı adamın cesetlerini aldılar, getirdiler, götürdüler ve gömdüler.

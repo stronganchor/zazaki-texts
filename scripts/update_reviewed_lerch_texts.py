@@ -160,6 +160,47 @@ SIVAN_TRANSLATION_GROUPS_FROM_40 = [
 
 TRAILING_PUNCTUATION = ".,;:?!-"
 
+HYENI_READER_TRANSLATION_OVERRIDES = {
+    "tr": [
+        "Bir zamanlar Nyêrib'den bir adam yola çıkıp Dawz'a gitti; Dawz'dan Hyêni toprağına geldi. Hyêni'li bir adam kendi toprağını sürüyordu.",
+        "Nyêribli adam Hyêni'li adama yaklaşıp dedi ki: 'Sen kimsin de burada çift sürüyorsun?' Hyêni'li adam dedi ki: 'Ben Mela Haseynê Mûğara'nın hizmetçisiyim; burada çift sürüyorum.'",
+        "Nyêribli adam dedi ki: 'Mela Haseynê Mûğara benim düşmanımdır; dedemin zamanında dedemin bir hizmetçisini öldürdü, bugün senden intikam alacağım.' Hyêni'li adam dedi ki: 'Ben bir hizmetçiyim; senin derdine benden derman olmaz.'",
+        "Nyêribli adam dedi ki: 'Seni öldüreceğim.' Hyêni'li adam silahlarını almaya gitti, tabancalarını aldı, beline soktu, kılıcını eline aldı ve Nyêribli adamın üzerine yürüdü.",
+        "Nyêribli adam hemen sıçradı, Hyêni'linin silahlarını elinden aldı, başını kesti, onu öldürdü, cesedini bir yana attı, Nyêrib'e Xalef Ağa'nın yanına gitti ve ona dedi ki: 'Hyêni'lilerden bir adam öldürdüm.' Xalef Ağa o adama dedi ki: 'Öldürdüğün Hyêni'li nasıl bir adamdı?'",
+        "O adam Xalef Ağa'ya dedi ki: 'Mela Haseynê Mûğara'nın hizmetçisiydi.' Xalef Ağa dedi ki: 'Dikkatli ol; yabancı bir adam öldürdünüz, yabancı gelir, malınızı alır ve sizi öldürür.'",
+        "O adam Xalef Ağa'ya dedi ki: 'Ağa, Küçük Nyêrib'e ve Deştê Henzi'ye haber gönder; dikkatli olsunlar, mallarını sahipsiz bırakmasınlar. Hyêni'den haber geldiği gün kimse eksik olmasın, savaşacağız.' Xalef Ağa Küçük Nyêrib'e, Wesman Ağa'ya haber gönderdi: 'Haberi Deştê Henzi'de Mêhmêt Ağa'ya gönder.'",
+        "Wesman Ağa Deştê Henzi'de Mêhmêt Ağa'ya haber gönderdi: 'Hazırlan; Hyêni'liler bizimle savaşacak. Barut al, hazır ol; Hyêni'den haber geldiği gün savaşacağız.' Mêhmêt Ağa Wesman Ağa'ya haber gönderdi: 'Xalef Ağa'ya söyle: hazırız; Hyêni'den haber geldiği gün savaşacağız.'",
+        "Bir ay geçince Hyêni'li Daqma Bey Büyük Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Benim bu adamımı neden öldürdün? Kendi vaktinde hazır ol; beş gün içinde savaşacağız.' Xalef Ağa Hyêni'de Daqma Bey'e haber gönderdi: 'Beş gün içinde, olmazsa yarın gel; savaşalım.'",
+        "Daqma Bey Hyêni içinde tellala bağırttı: 'Hiçbir yabancı şehre girmesin, kimse izinsiz toplanmasın. Ben Daqma Bey diyorum: izinsiz gördüğüm kişinin başını kestiririm.' Daqma Bey dedi ki: 'Nyêrib'den Xalef Ağa'dan haber geldi: yarın savaş var. Evde eline sopa alabilen herkes gelsin, kimse kalmasın; yarın savaş var.'",
+        "Daqma Bey Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Ordum hazır; yarın bağların arasından geleceğiz.' Xalef Ağa Hyêni'deki Daqma Bey'e haber gönderdi: 'Bu gece dikkatli ol; bu gece şehri yakacağım.'",
+        "Daqma Bey bütün ordusunu topladı, Temir Bey'in evinin önünde bir araya getirdi, askerlerine barut ve kurşun verdi, ata bindi, bütün piyadeleri sokaklardan ve bütün atlıları bağların arasından gönderdi. Şafak söküp sabah aydınlanırken Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Lanetli, bu gece sabaha kadar uyumadım; sözün ne oldu, hani savaşa gelecektin? Ordum hazır.'",
+        "Xalef Ağa ata bindi, davulu çaldırdı, ordusunun önüne geçti ve askerlerine dedi ki: 'Korkmayın; onlar Türk'tür, savaşmayı bilmezler. Biz yiğit aşiret adamlarıyız; korkmayın, ben sizin önünüzdeyim; ben ölsem bile siz yine savaşa gidin.' Xalef Ağa'nın askerleri dedi ki: 'Peki Ağa; biz ölmedikçe seni bırakmayız, savaşa gideriz.'",
+        "Xalef Ağa dedi ki: 'Aferin ağalarım.' Xalef Ağa ordusunun önüne geçti, Hyêni toprağına çıktı ve baktı ki Daqma Bey'in bütün ordusu orada oturuyor: kimi at sürüyor, kimi yaya, kimi yemek yiyor, kimi govend çekiyor.",
+        "Xalef Ağa seslendi. Daqma Bey'e dedi ki: 'Kendi vaktinde hazır ol; geldim.'",
+        "Daqma Bey ata bindi, ordusuna seslenip dedi ki: 'Yerlerinize geçin; Xalef Ağa'nın ordusu geldi. Kalkın, gidin, korkmayın.' Xalef Ağa ordusuna dedi ki: 'Daqma Bey'in ordusundan kimse kaçmasın; hepsini öldürün.'",
+        "Xalef Ağa'nın askerleri Xalef Ağa'ya dedi ki: 'Bize izin ver, sen de seyret.' Xalef Ağa dedi ki: 'Hücum!'",
+        "Xalef Ağa'nın ordusu 'wakê, wakê' diye bağırdı. Daqma Bey'in ordusundan otuz dört kişi öldürüldü ve Daqma Bey'in ordusu kaçtı.",
+        "Xalef Ağa'nın ordusu peşlerine düştü, şehre girdi, Hyêni'de bir mahalleyi yaktı, Xalil Efendi'nin başını kesti, getirip Xalef Ağa'ya verdi. Daqma Bey dedi ki: 'Aman efendim, artık savaşmayacağım; ordum kalmadı.'",
+        "Xalef Ağa Daqma Bey'e haber gönderdi: 'Şehirden dışarı çık; şehri yakmaya geliyorum.' Daqma Bey hemen Xalef Ağa'ya bir kürk gönderip dedi ki: 'Aman efendim, kimsem yok; savaşamam. Benimle neden savaşacaksın?'",
+        "'Ben senin üzerine gelmiyorum.' Xalef Ağa dedi ki: 'Gel; sana asker vereceğim, git benimle savaş. Üç güne kadar savaşacağız; ordun ve şehrinden kimseyi bırakmayacağım, hepsini öldüreceğim, seni de öldüreceğim.'",
+        "'Karını da götüreceğim.' Daqma Bey Xalef Ağa'ya haber gönderdi: 'Bana on gün mühlet ver.'",
+        "Xalef Ağa dedi ki: 'Peki, sana yirmi gün mühlet olsun; sonra hemen gel, savaşalım. Gelmezsen bütün şehri yakarım, başını keserim.' Daqma Bey Xalef Ağa'ya haber gönderdi: 'Yirmi güne kadar savaşım yok; sonra sana haber göndereceğim.'",
+        "Xalef Ağa dedi ki: 'Peki efendim, sana izin olsun.' Daqma Bey'e yirmi gün mühlet verdi. Daqma Bey gitti, asker topladı ve yirmi gün içinde dört bin asker topladı.",
+        "Yirmi bir gün tamam olunca Daqma Bey Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Ordum hazır; yarın savaşa geliyorum, savaşacağız.' Xalef Ağa Daqma Bey'e haber gönderdi: 'Kendi vaktinde hazır ol; yarın şafakta Dûzê Hemyê'ye geleceğim. Ordunu al, bağların arasından gel, korkma; savaşalım, ya sen benim başımı kesersin ya da ben senin başını keserim.'",
+        "Daqma Bey Xalef Ağa'ya haber gönderdi: 'Gecikme, akşam gel; sabah olunca gel.' Xalef Ağa Daqma Bey'e haber gönderdi: 'Bu defa geliyorum.'",
+        "Daqma Bey Xalef Ağa'ya haber gönderdi: 'Kalk gel; gözlerini çıkaracağım.' Xalef Ağa kalktı, davulları çaldırdı.",
+        "Xalef Ağa'nın bütün ordusu toplandı. Xalef Ağa ordusuna dedi ki: 'Dinleyin ağalar, savaşa gidiyoruz. Korkmayın; Daqma Bey'in ordusu çoktur ama hepsi Türk'tür, bizimle savaşmayı bilmezler. Biz hepimiz yiğit Kürtleriz, aşiret adamlarıyız; korkmayın, gidiyoruz; benim başım kesilmedikçe size hiçbir şey olmaz.' Askerleri Xalef Ağa'ya dedi ki: 'Gidiyoruz; biz ölmedikçe sana bir şey olmaz.'",
+        "Xalef Ağa dedi ki: 'Aferin ağalarım.' Xalef Ağa kalktı, ordusunun önüne geçti, Hyêni toprağına çıktı ve baktı ki Daqma Bey'in ordusu bağların yanında fişekleri hazırlamış.",
+        "Daqma Bey'in ordusu dört bin, Xalef Ağa'nın ordusu iki bin kişiydi. Xalef Ağa'nın askerleri Xalef Ağa'ya dedi ki: 'Aman efendim, bize izin ver, savaşa gidelim.'",
+        "Xalef Ağa dedi ki: 'Hücum!' Bayraktar Daqma Bey'in ordusuna karşı yürüdü, ordular birbirine girdi, iki saat savaştılar; sonunda Daqma Bey aman istedi ve Xalef Ağa'ya dedi ki: 'Seninle savaşamıyorum.'",
+        "Xalef Ağa ordusunu geri çekti, Nyêrib'e geldi ve ordusunda altmış kişinin eksik olduğunu gördü. Daqma Bey'e haber gönderdi: 'Ordumdan altmış kişi eksik.' Daqma Bey Xalef Ağa'ya haber gönderdi: 'Senin ordudan altmış kişi eksik; benim ordudan yüz seksen kişi eksik, hepsi öldürüldü. Gel, ölülerini al; benim ölülerimi gömecek kimsem yok.'",
+        "Xalef Ağa adamlar gönderdi ve dedi ki: 'Gidin, ölülerimizi getirin.' Adamlar gitti, ölüleri getirdi ve orada kaldı.",
+        "Daqma Bey Ziriki ağalarına haber gönderdi: 'Gelin, beni Xalef Ağa ile barıştırın; hepiniz gelin, barışalım.' Ziriki ağaları kalkıp Hyêni'ye geldiler, Daqma Bey'i aldılar ve Nyêrib'e, Xalef Ağa'nın evine geldiler.",
+        "Daqma Bey gidip Xalef Ağa'nın ayaklarını öptü; Xalef Ağa Daqma Bey'in elini öptü. Xalef Ağa Daqma Bey'e iki yüz koyun verdi.",
+        "Daqma Bey Xalef Ağa'ya bir bağ verdi; birlikte barıştılar ve kan davası kalmadı.",
+    ],
+}
+
 
 def assert_inside_repo(path: Path) -> Path:
     resolved = path.resolve()
@@ -359,6 +400,81 @@ def distribute_segments_for_source_chunks(segments: list[str], source_chunks: li
     return distribute_segments(segments, chunk_count)
 
 
+def source_line_translation(line: dict, lang: str) -> str:
+    label = {"en": "ENGLISH", "tr": "TURKISH", "de": "GERMAN"}.get(lang, lang.upper())
+    for row in line.get("display_rows", []):
+        if row.get("label") == label:
+            return str(row.get("value", "") or "")
+    return ""
+
+
+def reader_translation_cleanup(slug: str, lang: str, text: str) -> str:
+    if slug == "ali-agha-ladi-kelhani" and lang == "tr":
+        fixes = {
+            "Köyünün adı Ali Ağa'nın köyü Narbêş'ti.": "Köyünün adı Narbêş'ti.",
+            "Qasım'a verdi Ağa'ya.": "Qasım Ağa'ya verdi.",
+            "haber köylere gönderip": "köylere haber gönderip",
+        }
+        for old, new in fixes.items():
+            text = text.replace(old, new)
+    if slug == "ali-agha-ladi-kelhani" and lang == "en":
+        fixes = {
+            "The name of Ali Agha's village was Narbyes.": "The name of his village was Narbyes.",
+            "gave them to Qasim Agha to.": "gave them to Qasim Agha.",
+        }
+        for old, new in fixes.items():
+            text = text.replace(old, new)
+    return text
+
+
+def rebuild_reader_units_from_line_translations(
+    slug: str,
+    doc: dict,
+    source_lines: list[dict],
+    max_source_sentences: int,
+    skip_first_source_line: bool = False,
+    translation_overrides: dict[str, list[str]] | None = None,
+) -> list[dict]:
+    usable_source_lines = source_lines[1:] if skip_first_source_line else source_lines
+    source = join_source_parts([str(line.get("zazaki", "")) for line in usable_source_lines])
+    source_chunks = chunk_source_segments(split_sentence_segments(source), max_source_sentences)
+    if not source_chunks:
+        return []
+
+    translation_overrides = translation_overrides or {}
+    translation_chunks = {}
+    for lang in doc.get("translations", {}):
+        override = translation_overrides.get(lang)
+        if override and len(override) == len(source_chunks):
+            translation_chunks[lang] = override
+            continue
+        line_translation = clean_join([source_line_translation(line, lang) for line in usable_source_lines])
+        if line_translation:
+            segments = split_sentence_segments(line_translation)
+        else:
+            full_translation = clean_join([unit.get("translations", {}).get(lang, "") for unit in doc.get("reading_units", [])])
+            segments = split_sentence_segments(full_translation)
+        translation_chunks[lang] = distribute_segments_for_source_chunks(segments, source_chunks)
+
+    rebuilt = []
+    for index, source_chunk in enumerate(source_chunks, start=1):
+        unit_id = f"u{index:03d}"
+        translations = {}
+        for lang in doc.get("translations", {}):
+            value = translation_chunks[lang][index - 1] if index - 1 < len(translation_chunks.get(lang, [])) else ""
+            value = reader_translation_cleanup(slug, lang, value)
+            if value:
+                translations[lang] = value
+        rebuilt.append(
+            {
+                "id": unit_id,
+                "source": join_source_parts(source_chunk),
+                "translations": translations,
+            }
+        )
+    return rebuilt
+
+
 def grouped_old_reader_units(doc: dict) -> list[dict]:
     grouped: list[dict] = []
     by_base: dict[str, dict] = {}
@@ -549,9 +665,16 @@ def update_existing_text(slug: str, bundle: str, interlinear_file: str, morpheme
     elif slug == "gespraech-mit-hassan":
         doc["reading_units"] = rebuild_segmented_reader_units(doc, source_by_id, max_source_sentences=1)
     elif slug == "ali-agha-ladi-kelhani":
-        doc["reading_units"] = rebuild_full_text_reader_units(doc, fresh_source_lines, max_source_sentences=2)
+        doc["reading_units"] = rebuild_reader_units_from_line_translations(slug, doc, fresh_source_lines, max_source_sentences=2)
     elif slug == "kauge-nyerib-u-hyeni":
-        doc["reading_units"] = rebuild_full_text_reader_units(doc, fresh_source_lines, max_source_sentences=2, skip_first_source_line=True)
+        doc["reading_units"] = rebuild_reader_units_from_line_translations(
+            slug,
+            doc,
+            fresh_source_lines,
+            max_source_sentences=2,
+            skip_first_source_line=True,
+            translation_overrides=HYENI_READER_TRANSLATION_OVERRIDES,
+        )
     else:
         for unit in doc.get("reading_units", []):
             ids = unit.get("source_line_ids") or READING_UNIT_SOURCE_LINE_IDS.get(slug, {}).get(unit.get("id"), [])
