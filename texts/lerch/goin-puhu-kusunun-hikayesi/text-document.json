@@ -18,7 +18,7 @@
   "metadata": {
     "collection": "lerch",
     "collection_label": "Peter Lerch Zazaki Texts",
-    "excerpt": "Üvey annesinin öldürdüğü kardeşini rüyasında gören bir kız, sonunda Allah'tan kendisini go'in / puhu kuşuna çevirmesini ister.",
+    "excerpt": "Üvey annesinin öldürdüğü kardeşini rüyasında gören bir kız, aile içi çatışmanın ardından Allah'tan kendisini go'in/puhu kuşuna çevirmesini ister. İçerik uyarısı: şiddet; çocuk ölümü.",
     "source_author": "Peter Lerch",
     "source_work": "Forschungen über die Kurden und die iranischen Nordchaldäer / Russian original Zazaki transcriptions",
     "story_title_lerch": "Sage vom Vogel gö'in",
@@ -27,7 +27,15 @@
     "created_from": "Lerch Goin review bundle in Language/Z/Dictionaries/Lerch",
     "exported_at": "2026-05-19",
     "reviewed_transcription_synced_at": "2026-05-19",
-    "reader_unit": "sentence_or_short_section"
+    "reader_unit": "sentence_or_short_section",
+    "publication": {
+      "public_summary_tr": "Üvey annesinin öldürdüğü kardeşini rüyasında gören bir kız, aile içi çatışmanın ardından Allah'tan kendisini go'in/puhu kuşuna çevirmesini ister.",
+      "content_warning_tr": "şiddet; çocuk ölümü",
+      "people_tr": "",
+      "places_tr": "",
+      "historical_context_tr": "Dönüşüm ve kuş motifi etrafında gelişen folklorik bir anlatıdır; belirli tarihsel kişi veya yer bilgisi eklenmemiştir.",
+      "editorial_note_tr": "Go'in/puhu kuşu kimliği çalışma yorumudur ve kuş adı sonraki folklor/diyalekt karşılaştırmalarıyla yeniden değerlendirilebilir."
+    }
   },
   "summary": {
     "lines": 40,

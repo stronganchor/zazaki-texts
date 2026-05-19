@@ -18,7 +18,7 @@
   "metadata": {
     "collection": "lerch",
     "collection_label": "Peter Lerch Zazaki Texts",
-    "excerpt": "Nyêrib'den bir gencin Horsig'de yaptığı hırsızlık ve öldürülmesiyle başlayan, Xalef Ağa ile Avdulah Ağa arasında tehditler, çatışma ve sonunda barışla biten bir kan davası anlatısı.",
+    "excerpt": "Nyêrib'den bir gencin Horsig'de hırsızlık yapması ve öldürülmesiyle başlayan anlatı, Xalef Ağa ile Avdulah Ağa arasında tehditler, çatışma ve sonunda barışa uzanan bir kan davasını anlatır. İçerik uyarısı: şiddet; ölüm.",
     "source_author": "Peter Lerch",
     "source_work": "Forschungen über die Kurden und die iranischen Nordchaldäer / Russian original Zazaki transcriptions",
     "story_title_lerch": "Kauγé Ńeríb u Sivā́ni.",
@@ -27,7 +27,15 @@
     "created_from": "Lerch feud review bundle in Language/Z/Dictionaries/Lerch",
     "exported_at": "2026-05-13",
     "reader_unit": "sentence_or_short_section",
-    "reviewed_transcription_synced_at": "2026-05-19"
+    "reviewed_transcription_synced_at": "2026-05-19",
+    "publication": {
+      "public_summary_tr": "Nyêrib'den bir gencin Horsig'de hırsızlık yapması ve öldürülmesiyle başlayan anlatı, Xalef Ağa ile Avdulah Ağa arasında tehditler, çatışma ve sonunda barışa uzanan bir kan davasını anlatır.",
+      "content_warning_tr": "şiddet; ölüm",
+      "people_tr": "Xalef Ağa; Avdulah Ağa; Mela Ahmed/Qafon; Huseyin; Hayder Ağa; Sele.",
+      "places_tr": "Nyêrib; Sivan; Horsig; Deştê Henzi; Şeynan; Hêni/Hyêni; Kelan.",
+      "historical_context_tr": "Bu anlatı, Nyêrib-Hyêni kavgasından sonra anlatılan veya onu ima eden bir Sivan-Nyêrib kavgası gibi görünür. Çalışma notu olarak kabaca 1820-1853 aralığı önerilebilir; üst sınır, metnin Kırım Savaşı sırasında Lerch tarafından kaydedilmiş olmasıdır.",
+      "editorial_note_tr": "Sivan/Nyêrib yer adları, kişi adları ve anlatılar arası kronoloji çalışma notu olarak tutulmalıdır."
+    }
   },
   "summary": {
     "lines": 75,

@@ -15,7 +15,7 @@
   "metadata": {
     "collection": "lerch",
     "collection_label": "Peter Lerch Zazaki Texts",
-    "excerpt": "Hassan ile yapılan kısa bir söyleşide Sivan aşiretinin köyleri, Kasan köyü, bahçeler, yayla yaşamı ve Hassan'ın gördüğü kan davaları anlatılır.",
+    "excerpt": "Hassan ile yapılan kısa soru-cevap söyleşisi Sivan aşiretinin köyleri, Kasan/Kassau/Kaschan, bahçeler, yayla yaşamı ve Hassan'ın gördüğü kan davalarına değinir.",
     "source_author": "Peter Lerch",
     "source_work": "Forschungen über die Kurden und die iranischen Nordchaldäer / Russian original Zazaki transcriptions",
     "story_title_lerch": "Gespräch mit Hassan",
@@ -24,7 +24,15 @@
     "created_from": "Lerch Hassan review bundle in Language/Z/Dictionaries/Lerch",
     "exported_at": "2026-05-19",
     "reviewed_transcription_synced_at": "2026-05-19",
-    "reader_unit": "dialogue_turn"
+    "reader_unit": "dialogue_turn",
+    "publication": {
+      "public_summary_tr": "Hassan ile yapılan kısa soru-cevap söyleşisi Sivan aşiretinin köyleri, Kasan/Kassau/Kaschan, bahçeler, yayla yaşamı ve Hassan'ın gördüğü kan davalarına değinir.",
+      "content_warning_tr": "",
+      "people_tr": "Hassan; Avdula Beg; Mistefa Ali; Ali Beg Aldun; Ahmed Beg.",
+      "places_tr": "Sivan; Kasan/Kassau/Kaschan; Gewel; Aldun; Talek; Weşin; Karbegan; Hyêni/Hêni; Nyêrib; Kavare; Gowman.",
+      "historical_context_tr": "Bu söyleşi, Lerch'in ana Zaza kaynağı Hassan hakkında en doğrudan bilgiyi veren metindir. Yerel çalışma notlarına göre Hassan Sivan aşiretindendi ve Palu yakınındaki Kasan/Kassau/Kaschan köyüyle bağlantılıydı.",
+      "editorial_note_tr": "Hassan/Hasan yazımı ve Kasan yerinin kesin modern karşılığı daha fazla dış kaynakla kontrol edilmelidir."
+    }
   },
   "summary": {
     "lines": 45,

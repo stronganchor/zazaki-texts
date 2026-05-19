@@ -18,7 +18,7 @@
   "metadata": {
     "collection": "lerch",
     "collection_label": "Peter Lerch Zazaki Texts",
-    "excerpt": "Hasanek, Qasım ve Şaban adlı üç kardeşin bir devle karşılaşmasını, Hasanek'in mektupları değiştirerek devi kandırmasını ve sonunda devi öldürmesini anlatan masal.",
+    "excerpt": "Hasanek, Qasım ve Şaban adlı üç kardeşin bir devle karşılaşmasını, Hasanek'in mektupları değiştirerek devi kandırmasını ve sonunda devi öldürmesini anlatan masal. İçerik uyarısı: şiddet; yetişkin tema.",
     "source_author": "Peter Lerch",
     "source_work": "Forschungen über die Kurden und die iranischen Nordchaldäer / Russian original Zazaki transcriptions",
     "story_title_lerch": "Das Märchen von den drei Brüdern",
@@ -27,7 +27,15 @@
     "created_from": "Lerch Three Brothers review bundle in Language/Z/Dictionaries/Lerch",
     "exported_at": "2026-05-19",
     "reviewed_transcription_synced_at": "2026-05-19",
-    "reader_unit": "sentence_group"
+    "reader_unit": "sentence_group",
+    "publication": {
+      "public_summary_tr": "Hasanek, Qasım ve Şaban adlı üç kardeşin bir devle karşılaşmasını, Hasanek'in mektupları değiştirerek devi kandırmasını ve sonunda devi öldürmesini anlatan masal.",
+      "content_warning_tr": "şiddet; yetişkin tema",
+      "people_tr": "",
+      "places_tr": "",
+      "historical_context_tr": "Masal türündedir; belirli tarihsel kişi veya yer bilgisi eklenmemiştir.",
+      "editorial_note_tr": "Hasanek adı, Qasım/Qasim yazımı ve bazı masal motifleri sonraki folklor karşılaştırmalarıyla gözden geçirilebilir."
+    }
   },
   "summary": {
     "lines": 126,

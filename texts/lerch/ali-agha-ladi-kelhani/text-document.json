@@ -18,7 +18,7 @@
   "metadata": {
     "collection": "lerch",
     "collection_label": "Peter Lerch Zazaki Texts",
-    "excerpt": "Kelhan'ın oğlu Ali Ağa'nın Karbegan'daki gücü, Qasım Ağa ile Hasan Ağa'nın kurduğu tuzak, Ali Ağa'nın ailesinin öldürülmesi ve cenazelerin defnedilmesini anlatan bir kan davası hikayesi.",
+    "excerpt": "Kelhan'ın oğlu Ali Ağa'nın Karbegan çevresindeki gücünü, Qasım Ağa ile Weşinli Hasan Ağa'nın kurduğu tuzağı, Ali Ağa'nın ailesinin öldürülmesini ve cenazelerin defnedilmesini anlatan bir kan davası hikayesi. İçerik uyarısı: şiddet; ölüm.",
     "source_author": "Peter Lerch",
     "source_work": "Forschungen über die Kurden und die iranischen Nordchaldäer / Russian original Zazaki transcriptions",
     "story_title_lerch": "Áli aγá lā́d̮i Kelháni",
@@ -27,7 +27,15 @@
     "created_from": "Lerch Ali Agha review bundle in Language/Z/Dictionaries/Lerch",
     "exported_at": "2026-05-11",
     "reader_unit": "paragraph",
-    "reviewed_transcription_synced_at": "2026-05-19"
+    "reviewed_transcription_synced_at": "2026-05-19",
+    "publication": {
+      "public_summary_tr": "Kelhan'ın oğlu Ali Ağa'nın Karbegan çevresindeki gücünü, Qasım Ağa ile Weşinli Hasan Ağa'nın kurduğu tuzağı, Ali Ağa'nın ailesinin öldürülmesini ve cenazelerin defnedilmesini anlatan bir kan davası hikayesi.",
+      "content_warning_tr": "şiddet; ölüm",
+      "people_tr": "Ali Ağa; Qasım Ağa; Weşinli Hasan Ağa; Ahmed; Mela Qasım; Ramedan Ağa; Memed Ağa; Hasan Kalan; Ahmed Êysan; Mela Resa.",
+      "places_tr": "Karbegan; Narbêş; Syeraçur; Sivan; Weşin; Desmun; Merzyelê; Ğêytê.",
+      "historical_context_tr": "Sivan/Karbegan çevresiyle ilişkili bir yerel güç ve kan davası anlatısıdır. Şimdilik kesin tarih verilmemelidir; metin, Lerch'in 1856'da Roslavl'da savaş esirlerinden derlediği Zazaca malzemenin parçası olarak yayınlanmaktadır.",
+      "editorial_note_tr": "Çalışma yayınıdır; kişi ve yer adlarının bazı modern karşılıkları ek araştırma gerektirir."
+    }
   },
   "summary": {
     "lines": 51,

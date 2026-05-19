@@ -9,6 +9,14 @@
   "line_count": 75,
   "token_count": 796,
   "lltools_payload": "text-document.json",
-  "excerpt": "Nyêrib'den bir gencin Horsig'de yaptığı hırsızlık ve öldürülmesiyle başlayan, Xalef Ağa ile Avdulah Ağa arasında tehditler, çatışma ve sonunda barışla biten bir kan davası anlatısı.",
-  "reviewed_transcription_synced_at": "2026-05-19"
+  "excerpt": "Nyêrib'den bir gencin Horsig'de hırsızlık yapması ve öldürülmesiyle başlayan anlatı, Xalef Ağa ile Avdulah Ağa arasında tehditler, çatışma ve sonunda barışa uzanan bir kan davasını anlatır.",
+  "reviewed_transcription_synced_at": "2026-05-19",
+  "publication": {
+    "public_summary_tr": "Nyêrib'den bir gencin Horsig'de hırsızlık yapması ve öldürülmesiyle başlayan anlatı, Xalef Ağa ile Avdulah Ağa arasında tehditler, çatışma ve sonunda barışa uzanan bir kan davasını anlatır.",
+    "content_warning_tr": "şiddet; ölüm",
+    "people_tr": "Xalef Ağa; Avdulah Ağa; Mela Ahmed/Qafon; Huseyin; Hayder Ağa; Sele.",
+    "places_tr": "Nyêrib; Sivan; Horsig; Deştê Henzi; Şeynan; Hêni/Hyêni; Kelan.",
+    "historical_context_tr": "Bu anlatı, Nyêrib-Hyêni kavgasından sonra anlatılan veya onu ima eden bir Sivan-Nyêrib kavgası gibi görünür. Çalışma notu olarak kabaca 1820-1853 aralığı önerilebilir; üst sınır, metnin Kırım Savaşı sırasında Lerch tarafından kaydedilmiş olmasıdır.",
+    "editorial_note_tr": "Sivan/Nyêrib yer adları, kişi adları ve anlatılar arası kronoloji çalışma notu olarak tutulmalıdır."
+  }
 }
