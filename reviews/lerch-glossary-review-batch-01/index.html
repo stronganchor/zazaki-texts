@@ -117,6 +117,7 @@
       font-weight: 700;
     }
     .badge.function { background: #fff3dc; color: var(--warn); }
+    .badge.merge { background: #e9f7ef; color: #166534; }
     .badge.review { background: #eef2ff; color: #3730a3; }
     .meta {
       color: var(--muted);
@@ -163,11 +164,37 @@
       min-height: 84px;
       resize: vertical;
     }
+    .guide {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 14px 16px;
+      margin-bottom: 16px;
+    }
+    .guide h2 {
+      margin: 0 0 8px;
+      font-size: 17px;
+    }
+    .guide dl {
+      display: grid;
+      grid-template-columns: minmax(170px, 260px) minmax(0, 1fr);
+      gap: 6px 14px;
+      margin: 0;
+    }
+    .guide dt {
+      font-weight: 750;
+      color: #2f2a24;
+    }
+    .guide dd {
+      margin: 0;
+      color: var(--muted);
+    }
     .hidden { display: none; }
     @media (max-width: 760px) {
       .card-header { grid-template-columns: 1fr; }
       .grid { grid-template-columns: 1fr; }
       .label { border-right: 0; border-bottom: 1px solid var(--line); }
+      .guide dl { grid-template-columns: 1fr; }
     }
   </style>
 </head>
@@ -198,6 +225,21 @@
   </header>
   <main>
     <section class="summary" id="summary"></section>
+    <section class="guide" aria-label="Action guide">
+      <h2>Action guide</h2>
+      <dl>
+        <dt>likely_add_or_merge</dt>
+        <dd>No plausible existing glossary hit was detected. Add only after checking the scanned Lerch glossary row.</dd>
+        <dt>likely_merge_existing</dt>
+        <dd>A related glossary entry already exists. Treat this as a variant, inflected form, or child entry unless review proves it is separate.</dd>
+        <dt>merge_or_function_entry</dt>
+        <dd>Function words, pronouns, prefixes, suffixes, and grammar particles. Do not add these as simple lexical headwords.</dd>
+        <dt>review_against_existing</dt>
+        <dd>A broad related hit exists, but the match is not strong enough for automatic merge.</dd>
+        <dt>review_high_value / review_lower_priority</dt>
+        <dd>No clear decision yet; use the example sentence, variants, and source scan before deciding.</dd>
+      </dl>
+    </section>
     <section id="cards"></section>
   </main>
   <script>
@@ -242,6 +284,7 @@
 
     function badgeClass(action) {
       if (action === "merge_or_function_entry") return "function";
+      if (action.includes("merge") || action === "review_against_existing") return "merge";
       if (action.startsWith("review_")) return "review";
       return "";
     }

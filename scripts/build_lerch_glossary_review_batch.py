@@ -238,6 +238,22 @@ def classify(row: dict[str, str]) -> tuple[str, str, str, str, str]:
     )
 
 
+def refine_action_for_related_hit(action: str, rationale: str, related: str) -> tuple[str, str]:
+    if not related:
+        return action, rationale
+    if action == "likely_add_or_merge":
+        return (
+            "likely_merge_existing",
+            "Related Lerch glossary hit(s) exist; review as a variant, inflected form, or child entry before adding a new headword.",
+        )
+    if action in {"review_high_value", "review_lower_priority"}:
+        return (
+            "review_against_existing",
+            "Related Lerch glossary hit(s) exist, but the match is broad; decide whether this belongs under an existing entry.",
+        )
+    return action, rationale
+
+
 def build_batch(limit: int = 90) -> tuple[list[BatchRow], Counter[str]]:
     compare = load_compare_module()
     glossary_rows = read_tsv(compare.DEFAULT_GLOSSARY)
@@ -272,6 +288,8 @@ def build_batch(limit: int = 90) -> tuple[list[BatchRow], Counter[str]]:
     action_counts: Counter[str] = Counter()
     for row in selected[:limit]:
         action, headword, gloss_en, gloss_tr, rationale = classify(row)
+        related = related_hits(compare, row["lemma_key"], glossary_rows)
+        action, rationale = refine_action_for_related_hit(action, rationale, related)
         action_counts[action] += 1
         batch.append(
             BatchRow(
@@ -288,7 +306,7 @@ def build_batch(limit: int = 90) -> tuple[list[BatchRow], Counter[str]]:
                 zazaki_variants=row.get("zazaki_variants") or "",
                 lerch_variants=row.get("lerch_variants") or "",
                 context_gloss_hints=row.get("context_gloss_hints") or "",
-                related_glossary_hits=related_hits(compare, row["lemma_key"], glossary_rows),
+                related_glossary_hits=related,
                 example_ref=row.get("example_ref") or "",
                 example_token_zazaki=row.get("example_token_zazaki") or "",
                 example_token_lerch=row.get("example_token_lerch") or "",
@@ -324,6 +342,7 @@ def write_report(path: Path, rows: list[BatchRow], action_counts: Counter[str]) 
     lines.append("- It does not modify the working glossary.")
     lines.append("- The batch is intentionally conservative: frequent unmatched forms are proposed for review, not automatically imported.")
     lines.append("- `merge_or_function_entry` rows should usually become grammar/morpheme links rather than standalone dictionary headwords.")
+    lines.append("- `likely_merge_existing` and `review_against_existing` mean a plausible Lerch glossary hit already exists; these should be treated as merge/variant decisions before any new entry is created.")
     lines.append("")
     lines.append("## Batch Counts")
     lines.append("")
