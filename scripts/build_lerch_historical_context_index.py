@@ -47,17 +47,17 @@ CURATED_ENTITIES: list[Entity] = [
         "person",
         "Hassan",
         "Primary Zaza-speaking consultant for the processed Lerch Zazaki texts; says his tribe is Sivan and his village is Kasan/Kassau/Kaschan.",
-        "Hassan interview text; Lerch collection intro notes",
+        "Hassan interview text; Lerch collection intro notes; Köse 2016 Sivan nahiye article",
         "text_attested",
-        "Confirm the modern location of Kasan/Kassau/Kaschan and whether living descendants connect to this village name.",
+        "Kasan/Kassau/Kaschan is now best treated as Kasan/Kâsan = Günkondu in the Sivan/Servi village list, but descendant/local confirmation is still useful.",
     ),
     Entity(
         "gespraech-mit-hassan",
         "group",
         "Sivan",
-        "Hassan's tribe; the interview says it had thirty-four villages.",
-        "Hassan interview text",
-        "text_attested",
+        "Hassan's tribe/territorial frame; the interview says it had thirty-four villages. External records show an 1841 Sivan nahiye attached to Palu, later transferred to Genç/Servi.",
+        "Hassan interview text; Köse 2016 Sivan nahiye article",
+        "source_supported",
     ),
     Entity(
         "gespraech-mit-hassan",
@@ -97,19 +97,19 @@ CURATED_ENTITIES: list[Entity] = [
         "gespraech-mit-hassan",
         "place",
         "Kasan / Kassau / Kaschan",
-        "Hassan's village; described as having sixty houses in the interview.",
-        "Hassan interview text; Lerch collection intro notes",
-        "text_attested",
-        "High-priority place identification; keep all spellings together until externally resolved.",
+        "Hassan's village; described as having sixty houses in the interview. Best working match is Kasan/Kâsan = Günkondu in the externally published Sivan village list.",
+        "Hassan interview text; Köse 2016 Sivan nahiye article",
+        "source_supported",
+        "Confirm with local oral-history/place-name evidence because Lerch's spellings Kassau/Kaschan are filtered through Russian/German publication conventions.",
     ),
     Entity(
         "gespraech-mit-hassan",
         "place",
         "Sivan village list",
-        "The interview gives a list of Sivan villages: Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.",
-        "Hassan interview text",
-        "text_attested",
-        "Split into individually researched modern place rows after external checking.",
+        "The interview gives a Sivan village list. Several names now have source-backed matches in the 1841 Sivan nahiye list: Kasan/Kâsan = Günkondu, Horsig/Horsik = Saklıca, Aldun = Alaaddin, Hopsor/Hapsor = Ericek, Tenik/Tinik = Doludere, Rezuan/Rızvan = Harmancık, Zimag/Zimak = Bahçebaşı, Melekan = Sarıbudak.",
+        "Hassan interview text; Köse 2016 Sivan nahiye article",
+        "source_supported",
+        "Continue splitting the raw village list into individually researched place rows; verify Gewel, Talek, Kavare, Gowman, Hoena, Sama, Emera, Akeragi, Letan, Gahar, and related forms.",
     ),
     Entity(
         "kauge-nyerib-u-hyeni",
@@ -133,10 +133,10 @@ CURATED_ENTITIES: list[Entity] = [
         "kauge-nyerib-u-hyeni",
         "person",
         "Temir Beg / Timur Bey of Hani",
-        "The story mentions Temir Beg's house as a gathering point. Local research notes identify a likely match with Timur/Temir Bey of Hani, active by 1819 and defeated/exiled in 1835.",
-        "Nerib-Hyêni text; local external-source research note",
+        "The story mentions Temir Beg's house as a gathering point. A likely external match is Timur/Temir Bey of Hani/Khini: documented as Hani emin in February 1835, described by Brant as the exiled ruler of Khiní, and included among the beys defeated and sent to Istanbul/Edirne in 1835.",
+        "Nerib-Hyêni text; yurtluk-ocaklık dissertation; Brant 1841; Zirki Beylikleri study",
         "working_hypothesis",
-        "Verify the identification in the cited Ottoman/dissertation/Brant sources before making a firm historical claim.",
+        "Use c. 1819-1835 as a working dating window only if Temir Beg's house is his active Hani residence, not merely a later landmark.",
     ),
     Entity(
         "kauge-nyerib-u-hyeni",
@@ -183,18 +183,18 @@ CURATED_ENTITIES: list[Entity] = [
         "kauge-nyerib-u-hyeni",
         "place",
         "Hyêni / Hêni / Hani / Khini",
-        "Main opposing territory/town in the Nerib-Hyêni feud; connected in working notes with Hani and Temir/Timur Bey.",
-        "Nerib-Hyêni text; publication metadata",
-        "text_attested",
-        "Use Hani as a working modern Turkish identification only with caveat.",
+        "Main opposing territory/town in the Nerib-Hyêni feud. Verheij's 19th-century place-name index aligns Brant's Khini and Taylor's Heyni with modern Hani.",
+        "Nerib-Hyêni text; Verheij place-name index; Brant/Taylor annotations",
+        "source_supported",
+        "Use Hani as the working modern Turkish identification; still distinguish this from smaller Hyêni-linked localities mentioned inside the story.",
     ),
     Entity(
         "kauge-nyerib-u-hyeni",
         "place",
         "Nyêrib",
-        "Nerib-side home territory and Xalef Ağa's base.",
-        "Nerib-Hyêni text",
-        "text_attested",
+        "Nerib-side home territory and Xalef Ağa's base. Verheij's Taylor 1865 annotation gives Nerib = Kuyular, a village/neighbourhood in Hani district.",
+        "Nerib-Hyêni text; Verheij Taylor 1865 annotation",
+        "source_supported",
     ),
     Entity(
         "kauge-nyerib-u-hyeni",
@@ -251,9 +251,9 @@ CURATED_ENTITIES: list[Entity] = [
         "kauge-nyerib-u-sivani",
         "place",
         "Horsig",
-        "Sivan-associated place where the opening theft takes place.",
-        "Sivan-Nyêrib text and Hassan interview village list",
-        "text_attested",
+        "Sivan-associated place where the opening theft takes place. Best working match is Horsig/Horsik = Saklıca in the 1841 Sivan nahiye village list.",
+        "Sivan-Nyêrib text; Hassan interview village list; Köse 2016 Sivan nahiye article",
+        "source_supported",
     ),
     Entity(
         "kauge-nyerib-u-sivani",
@@ -385,9 +385,9 @@ CURATED_ENTITIES: list[Entity] = [
         "ali-agha-ladi-kelhani",
         "place",
         "Karbegan",
-        "District over which Ali Ağa is said to be mir/chief; later thirty-four Karbegan villages are involved in counsel.",
-        "Ali Ağa text and translation",
-        "text_attested",
+        "District over which Ali Ağa is said to be mir/chief; later thirty-four Karbegan villages are involved in counsel. External Sivan research notes a Karabegan nahiye associated with Sivan in the 1870-1871 Diyarbakır salname.",
+        "Ali Ağa text and translation; Köse/Servi-region article citing Diyarbakır salname",
+        "source_supported",
     ),
     Entity(
         "ali-agha-ladi-kelhani",
@@ -420,11 +420,11 @@ CURATED_ENTITIES: list[Entity] = [
 CHRONOLOGY_NOTES = [
     (
         "Nerib-Hyêni",
-        "If Temir Beg is the documented Timur/Temir Bey of Hani, the cleanest working range is c. 1819-1835: active as Hani notable by 1819 and defeated/exiled in 1835. This is a working historical identification, not a final date.",
+        "If Temir Beg is the documented Timur/Temir Bey of Hani, the cleanest working range is c. 1819-1835: the broader source trail places him in Hani politics by 1819, names him Hani emin in February 1835, and shows him defeated/exiled in 1835. This is a working historical identification, not a final date.",
     ),
     (
         "Sivan-Nyêrib",
-        "The story appears to allude to the earlier Nerib-Hyêni conflict, so it likely follows that feud. The broad working range remains roughly 1820-1853, with 1853/Crimean War collection context as the upper horizon.",
+        "The story appears to allude to the earlier Nerib-Hyêni conflict, so it likely follows that feud. The broad working range remains roughly 1820-1853, with the Crimean War collection context as the upper horizon. The place frame links Sivan/Servi-Palu to Nerib/Kuyular-Hani.",
     ),
     (
         "Ali Ağa",
@@ -433,6 +433,24 @@ CHRONOLOGY_NOTES = [
     (
         "Hassan interview",
         "Not a feud event narrative; it is direct source/context evidence for Hassan, Sivan villages, and the feuds Hassan says he witnessed.",
+    ),
+]
+
+EXTERNAL_SOURCE_NOTES = [
+    (
+        "Sivan / Servi / Kasan / Horsik",
+        "Muhammed Köse's 2016 Sivan nahiye article says Sivan was a 42-village nahiye of Palu in 1841, later transferred to Genç and renamed Servi; its village list includes Kasan/Kâsan = Günkondu and Horsik = Saklıca.",
+        "https://dergipark.org.tr/tr/pub/bad/article/468213",
+    ),
+    (
+        "Nyêrib / Nerib / Kuyular and Hyêni / Hani",
+        "Jelle Verheij's 19th-century place-name index and Taylor 1865 annotation identify Nerib with Kuyular in Hani district and align Khini/Heyni with Hani.",
+        "https://www.jelleverheij.net/research-tools/place-name-index/diyarbakir.html ; https://www.jelleverheij.net/sources/1861---1870/Taylor-1865/Taylor-1865-038.html",
+    ),
+    (
+        "Temir Beg / Timur Bey of Hani",
+        "The yurtluk-ocaklık dissertation quotes an 1835 document naming Timur Bey as Hani emin; Brant's 1838 journey report says Khiní was under Temir Beg, then in exile at Adrianople; the Zirki Beylikleri study says Timur Bey was defeated in 1835 and sent with others to Istanbul/Edirne.",
+        "https://digitalarchive.library.bogazici.edu.tr/bitstreams/02a6dfc7-77e0-41f8-913c-4fcab780ef94/download ; https://fundamentalarmenology.am/datas/pdfs/528.pdf ; https://www.kurdolojiakademi.net/wp-content/uploads/2021/11/Zirki-Beylikleri-1.pdf",
     ),
 ]
 
@@ -481,7 +499,7 @@ def write_tsv(rows: list[Entity], metadata_by_slug: dict[str, dict]) -> None:
                     "role_or_note": row.role_or_note,
                     "source_basis": row.source_basis,
                     "confidence": row.confidence,
-                    "follow_up": row.follow_up,
+                    "follow_up": row.follow_up or "none",
                 }
             )
 
@@ -564,6 +582,10 @@ def write_markdown(rows: list[Entity], metadata_by_slug: dict[str, dict]) -> Non
     for label, note in CHRONOLOGY_NOTES:
         lines.append(f"- **{label}:** {note}")
 
+    lines.extend(["", "## External Source Notes", ""])
+    for label, note, url in EXTERNAL_SOURCE_NOTES:
+        lines.append(f"- **{label}:** {note} Source: {url}")
+
     lines.extend(["", "## Folktales Excluded From Historical Entity Index", ""])
     for slug in FOLKTALES:
         metadata = metadata_by_slug[slug]
@@ -576,9 +598,9 @@ def write_markdown(rows: list[Entity], metadata_by_slug: dict[str, dict]) -> Non
             "",
             "## Research Next Steps",
             "",
-            "1. Verify Temir Beg / Timur Bey of Hani against the external Ottoman, dissertation, Zirki, and Brant sources before using the 1819-1835 range as anything stronger than a working note.",
-            "2. Resolve Kasan/Kassau/Kaschan and the Sivan village list against modern place names.",
-            "3. Split the raw village list from the Hassan interview into individually researched place entries once modern matches are known.",
+            "1. Keep Temir Beg / Timur Bey of Hani as a working identification until an Ottoman document or independent local source directly ties Lerch's Temir Beg house to the same person.",
+            "2. Continue resolving the Sivan village list against modern place names, prioritizing Gewel, Talek, Kavare, Gowman, Hoena, Sama, Emera, Akeragi, Letan, and Gahar.",
+            "3. Split the raw village list from the Hassan interview into individually researched place entries once enough modern matches are known.",
             "4. Check whether Avdula Beg in Hassan's interview is the same person or tradition as Avdulah Ağa of Kelan in the Sivan-Nyêrib story.",
             "5. Review the Ali Ağa person list, especially Eysan versus the metadata string `Ahmed Êysan`, before publishing a final public person table.",
             "",
