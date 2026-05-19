@@ -16,7 +16,7 @@ window.LERCH_CONTEXT_SEED = {
         turkishDisplayTitle: "Kelhan'ın Oğlu Ali Ağa",
         shortTurkishSummary: "Kelhan'ın oğlu Ali Ağa'nın Karbegan'daki gücü, Qasım Ağa ile Hasan Ağa'nın kurduğu tuzak, Ali Ağa'nın ailesinin öldürülmesi ve cenazelerin defnedilmesi üzerine bir kan davası anlatısı.",
         contentWarnings: "şiddet; ölüm",
-        peopleMentioned: "Ali Ağa; Qasım Ağa; Weşinli Hasan Ağa; Ahmed; Mela Qasım; Ramedan Ağa; Memed Ağa; Hasan Kalan; Ahmed Êysan; Mela Resa. Verify name forms against the source lines before publication.",
+        peopleMentioned: "Ali Ağa; Qasım Ağa; Weşinli Hasan Ağa; Ahmed; Eysan; Mela Qasım; Ramedan Ağa; Memed Ağa; Hasan Kalan; Mela Resa. Verify name forms against the source lines before publication.",
         placesMentioned: "Karbegan; Narbêş; Syeraçur; Sivan; Weşin; Desmun; Merzyelê; Ğêytê. Verify publication spellings before publication.",
         historicalContextNotes: "Feud/local-power narrative. Metadata connects it with the Sivan/Karbegan area, but person and place identifications still need source checking. General Lerch context: POW narrative material elicited at Roslavl in 1856.",
         publicationReviewNotes: "Working edition, not a final critical edition. Review modern spellings for names/places, title choice, and whether the brief warning is enough."

@@ -201,7 +201,7 @@
 <body>
   <header>
     <h1>Lerch Glossary Review Batch 01</h1>
-    <div class="subhead">High-value text-attested forms from the processed Lerch corpus. Edits autosave in this browser and can be exported as JSON.</div>
+    <div class="subhead">Review candidates from the processed Lerch corpus. These are not automatic new dictionary entries: many should be merged with an existing Lerch glossary headword or treated as grammar/function forms. Edits autosave in this browser and can be exported as JSON.</div>
     <div class="toolbar">
       <label>Filter
         <select id="actionFilter">
@@ -227,6 +227,7 @@
     <section class="summary" id="summary"></section>
     <section class="guide" aria-label="Action guide">
       <h2>Action guide</h2>
+      <p class="subhead">Use this page to decide what should happen to text-attested forms. First check whether a form is already covered by Lerch's glossary under a different spelling, lemma, or parent entry; only add a new public headword when that merge path does not work.</p>
       <dl>
         <dt>likely_add_or_merge</dt>
         <dd>No plausible existing glossary hit was detected. Add only after checking the scanned Lerch glossary row.</dd>
@@ -324,10 +325,10 @@
             </div>
             <div class="meta">${escapeHtml(row.token_count)} tokens<br>${escapeHtml(row.text_count)} texts</div>
           </div>
-          ${field("Gloss Hint", row.context_gloss_hints)}
-          ${field("Zazaki Variants", row.zazaki_variants)}
-          ${field("Lerch Variants", row.lerch_variants)}
-          ${field("Related Glossary", row.related_glossary_hits)}
+          ${field("Context Gloss Hints", row.context_gloss_hints)}
+          ${field("Text Zazaki Variants", row.zazaki_variants)}
+          ${field("Text Lerch Variants", row.lerch_variants)}
+          ${field("Possible Existing Lerch Glossary Hits", row.related_glossary_hits)}
           ${field("Example Ref", row.example_ref)}
           ${field("Example Zazaki", row.example_line_zazaki)}
           ${field("Example Lerch", row.example_line_lerch)}
