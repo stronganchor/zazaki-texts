@@ -484,7 +484,7 @@
     },
     {
       "id": "u007",
-      "source": "Paşay Mısri izmi luê da. Luê va kê: êfêndim, vêywe çêmçêqu paşay ame, kêynay çwê wazênu xoêri, yaw tuêrgê varay, laser ame pangc sêy êspari çêmçequ paşay bê, pyêru la seri berd, ez twêri cinê pyêru la seri berdi, mê yaw kere tepişt pa vênerta, ez awnyaya yaw dest ame gna mê lingê, mê enoê dest tepişt awkêra vecyaya tebêr, çêmçêqu paşa erzê xoê mê wica ver daw, ez amêya Paşay Mısri va kê: êspar wa wênisi, wa twêdê byêri, mıri çêmçêqu paşay byari, enoê ca wejiru, mê namêy çêmçêqu paşay nyêsnautu.",
+      "source": "Paşay Mısri izmi luê da. Luê va kê: êfêndim, vêywe çêmçêqu paşay ame, kêynay çwê wazênu xoêri, yaw tuêrgê varay, laser ame pangc sêy êspari çêmçequ paşay bê, pyêru laseri berd, ez twêri cinê pyêru laseri berdi, mê yaw kerre tepişt pa vênerta, ez awnyaya yaw dest ame gna mê lingê, mê enoê dest tepişt awkêra vecyaya tebêr, çêmçêqu paşa erzê xoê mê wica ver daw, ez amêya Paşay Mısri va kê: êspar wa wênisi, wa twêdê byêri, mıri çêmçêqu paşay byari, enoê ca wejiru, mê namêy çêmçêqu paşay nyêsnautu.",
       "translations": {
         "tr": "Paşa tilkiye izin vermiş. Tilki, \"Efendim, Çemçequ Paşa geldi; kızınızı kendisi için istiyor,\" demiş. Kaynakta bu sözlerin ardından Lerch'in anlamını açık bulmadığı bir bölüm gelir. Ardından Mısır Paşası, \"Atlılar onu karşılasın, seninle birlikte gelsinler ve Çemçequ Paşa'yı bana getirsinler. Orada bir vezir var; ama ben Çemçequ Paşa diye birinin adını bilmiyorum,\" demiş.",
         "en": "The Pasha gave the fox permission. The fox said, \"My lord, Çemçequ Pasha has come; he is asking for your daughter for himself.\" In the source, this is followed by a passage that Lerch says he did not understand clearly. After that, the Pasha of Egypt said, \"Let the horsemen meet him; let them come with you and bring Çemçequ Pasha to me. There is a vizier there, but I do not know the name of any Çemçequ Pasha.\"",
@@ -6356,20 +6356,20 @@
           "ipa": "laˈsɛr",
           "zazaki": "laser",
           "lemma": "laser",
-          "display_gloss": "on the head",
-          "gloss_tr": "baş üstüne",
-          "gloss_de": "auf den Kopf",
+          "display_gloss": "flood",
+          "gloss_tr": "sel",
+          "gloss_de": "Flut",
           "pos": "",
           "morphemes": [
             {
               "form": "lasé̱r",
               "normalized": "laser",
               "lemma": "laser",
-              "gloss": "on the head",
+              "gloss": "flood",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
-              "evidence": "Current word-level token gloss; no confident internal split applied.",
+              "evidence": "User correction: laser is a word for flood; this resolves the previously unclear bracketed passage.",
               "notes": ""
             }
           ]
@@ -6501,7 +6501,7 @@
       "text": "pašaí be, pyéru la sé̱ri be̱rd, e̱z túeri d̮íne pyéru la sé̱ri bé̱rdi,",
       "lerch": "pašaí be, pyéru la sé̱ri be̱rd, e̱z túeri d̮íne pyéru la sé̱ri bé̱rdi,",
       "ipa": "paˈʃaj be ˈpjeru la ˈsɛri bɛrd ɛz ˈtweri ˈd͡ʒine ˈpjeru la ˈsɛri ˈbɛrdi",
-      "zazaki": "paşay bê, pyêru la seri berd, ez twêri cinê pyêru la seri berdi,",
+      "zazaki": "paşay bê, pyêru laseri berd, ez twêri cinê pyêru laseri berdi,",
       "source_note": "",
       "russian_print_page": 121,
       "russian_scan_page": 135,
@@ -6516,7 +6516,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "paşay bê, pyêru la seri berd, ez twêri cinê pyêru la seri berdi,"
+          "value": "paşay bê, pyêru laseri berd, ez twêri cinê pyêru laseri berdi,"
         },
         {
           "label": "ENGLISH",
@@ -6609,21 +6609,21 @@
           "form": "la",
           "ipa": "la",
           "zazaki": "la",
-          "lemma": "la",
-          "display_gloss": "but-",
-          "gloss_tr": "fakat-",
-          "gloss_de": "aber-",
+          "lemma": "laser",
+          "display_gloss": "flood",
+          "gloss_tr": "sel",
+          "gloss_de": "Flut",
           "pos": "",
           "morphemes": [
             {
               "form": "la",
               "normalized": "la",
-              "lemma": "la",
-              "gloss": "but-",
+              "lemma": "laser",
+              "gloss": "flood",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
-              "evidence": "Current word-level token gloss; no confident internal split applied.",
+              "evidence": "Part of la sé̱ri / Bingöl laserı, flood; not the conjunction la here.",
               "notes": ""
             }
           ]
@@ -6632,21 +6632,21 @@
           "form": "sé̱ri",
           "ipa": "ˈsɛri",
           "zazaki": "seri",
-          "lemma": "seri",
-          "display_gloss": "head",
-          "gloss_tr": "baş",
-          "gloss_de": "Kopf",
+          "lemma": "laser",
+          "display_gloss": "flood-cont.",
+          "gloss_tr": "sel-devamı",
+          "gloss_de": "Flut-Fortsetzung",
           "pos": "",
           "morphemes": [
             {
               "form": "sé̱ri",
               "normalized": "seri",
-              "lemma": "seri",
-              "gloss": "head",
+              "lemma": "laser",
+              "gloss": "flood-cont.",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
-              "evidence": "Current word-level token gloss; no confident internal split applied.",
+              "evidence": "Second written part of la sé̱ri / laserı, flood.",
               "notes": ""
             }
           ]
@@ -6656,20 +6656,20 @@
           "ipa": "bɛrd",
           "zazaki": "berd,",
           "lemma": "berd",
-          "display_gloss": "carried",
-          "gloss_tr": "götürdü",
-          "gloss_de": "führte",
+          "display_gloss": "carried away",
+          "gloss_tr": "alıp götürdü",
+          "gloss_de": "trug fort",
           "pos": "",
           "morphemes": [
             {
               "form": "be̱rd",
               "normalized": "berd",
               "lemma": "berd",
-              "gloss": "carried",
+              "gloss": "carried away",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
-              "evidence": "Current word-level token gloss; no confident internal split applied.",
+              "evidence": "Context: the flood carried them all away.",
               "notes": ""
             }
           ]
@@ -6736,20 +6736,20 @@
           "ipa": "ˈd͡ʒine",
           "zazaki": "cinê",
           "lemma": "dine",
-          "display_gloss": "herds",
-          "gloss_tr": "sürüler",
-          "gloss_de": "Herden",
+          "display_gloss": "women",
+          "gloss_tr": "kadınlar",
+          "gloss_de": "Frauen",
           "pos": "",
           "morphemes": [
             {
               "form": "d̮íne",
               "normalized": "cinê",
               "lemma": "dine",
-              "gloss": "herds",
+              "gloss": "women",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
-              "evidence": "Current word-level token gloss; no confident internal split applied.",
+              "evidence": "Compare Sivan/Nerib pesi cinê vs Bingöl pes û ceni; not herds here.",
               "notes": ""
             }
           ]
@@ -6781,21 +6781,21 @@
           "form": "la",
           "ipa": "la",
           "zazaki": "la",
-          "lemma": "la",
-          "display_gloss": "but-",
-          "gloss_tr": "fakat-",
-          "gloss_de": "aber-",
+          "lemma": "laser",
+          "display_gloss": "flood",
+          "gloss_tr": "sel",
+          "gloss_de": "Flut",
           "pos": "",
           "morphemes": [
             {
               "form": "la",
               "normalized": "la",
-              "lemma": "la",
-              "gloss": "but-",
+              "lemma": "laser",
+              "gloss": "flood",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
-              "evidence": "Current word-level token gloss; no confident internal split applied.",
+              "evidence": "Part of la sé̱ri / Bingöl laserı, flood; not the conjunction la here.",
               "notes": ""
             }
           ]
@@ -6804,21 +6804,21 @@
           "form": "sé̱ri",
           "ipa": "ˈsɛri",
           "zazaki": "seri",
-          "lemma": "seri",
-          "display_gloss": "head",
-          "gloss_tr": "baş",
-          "gloss_de": "Kopf",
+          "lemma": "laser",
+          "display_gloss": "flood-cont.",
+          "gloss_tr": "sel-devamı",
+          "gloss_de": "Flut-Fortsetzung",
           "pos": "",
           "morphemes": [
             {
               "form": "sé̱ri",
               "normalized": "seri",
-              "lemma": "seri",
-              "gloss": "head",
+              "lemma": "laser",
+              "gloss": "flood-cont.",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
-              "evidence": "Current word-level token gloss; no confident internal split applied.",
+              "evidence": "Second written part of la sé̱ri / laserı, flood.",
               "notes": ""
             }
           ]
@@ -6828,20 +6828,20 @@
           "ipa": "ˈbɛrdi",
           "zazaki": "berdi,",
           "lemma": "berdi",
-          "display_gloss": "carried",
-          "gloss_tr": "götürdü",
-          "gloss_de": "führte",
+          "display_gloss": "carried away",
+          "gloss_tr": "alıp götürdü",
+          "gloss_de": "trug fort",
           "pos": "",
           "morphemes": [
             {
               "form": "bé̱rdi",
               "normalized": "berdi",
               "lemma": "berdi",
-              "gloss": "carried",
+              "gloss": "carried away",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
-              "evidence": "Current word-level token gloss; no confident internal split applied.",
+              "evidence": "Context: the flood carried them all away.",
               "notes": ""
             }
           ]
@@ -6858,7 +6858,7 @@
       "text": "me yau ké̱re̱ te̱píšt pa vené̱rta, e̱z auńáya yau de̱st āmé̱ gnā me",
       "lerch": "me yau ké̱re̱ te̱píšt pa vené̱rta, e̱z auńáya yau de̱st āmé̱ gnā me",
       "ipa": "me jaw ˈkɛrɛ tɛˈpiʃt pa veˈnɛrta ɛz awˈɲaja jaw dɛst aːˈmɛ gnaː me",
-      "zazaki": "mê yaw kere tepişt pa vênerta, ez awnyaya yaw dest ame gna mê",
+      "zazaki": "mê yaw kerre tepişt pa vênerta, ez awnyaya yaw dest ame gna mê",
       "source_note": "",
       "russian_print_page": 121,
       "russian_scan_page": 135,
@@ -6873,7 +6873,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "mê yaw kere tepişt pa vênerta, ez awnyaya yaw dest ame gna mê"
+          "value": "mê yaw kerre tepişt pa vênerta, ez awnyaya yaw dest ame gna mê"
         },
         {
           "label": "ENGLISH",
@@ -6942,22 +6942,22 @@
         {
           "form": "ké̱re̱",
           "ipa": "ˈkɛrɛ",
-          "zazaki": "kere",
-          "lemma": "kere",
-          "display_gloss": "time",
-          "gloss_tr": "kez",
-          "gloss_de": "Mal",
+          "zazaki": "kerre",
+          "lemma": "kerre",
+          "display_gloss": "rock",
+          "gloss_tr": "kaya",
+          "gloss_de": "Fels",
           "pos": "",
           "morphemes": [
             {
               "form": "ké̱re̱",
-              "normalized": "kere",
-              "lemma": "kere",
-              "gloss": "time",
+              "normalized": "kerre",
+              "lemma": "kerre",
+              "gloss": "rock",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
-              "evidence": "Current word-level token gloss; no confident internal split applied.",
+              "evidence": "User correction: kerre is a rock/stone here, not Turkish kere 'time'.",
               "notes": ""
             }
           ]
@@ -7359,29 +7359,29 @@
           "ipa": "ˈawkera",
           "zazaki": "awkêra",
           "lemma": "auke",
-          "display_gloss": "from it",
-          "gloss_tr": "ondan",
-          "gloss_de": "daraus",
+          "display_gloss": "from water",
+          "gloss_tr": "sudan",
+          "gloss_de": "aus dem Wasser",
           "pos": "",
           "morphemes": [
             {
               "form": "aúke",
               "normalized": "awkê",
               "lemma": "auke",
-              "gloss": "it",
+              "gloss": "water",
               "pos": "",
               "features": "",
               "confidence": "medium",
-              "evidence": "Contextual ra split; function checked against project ra conventions.",
+              "evidence": "Context: rescued the hand/person out of the flood water.",
               "notes": ""
             },
             {
               "form": "ra",
               "normalized": "ra",
               "lemma": "ra",
-              "gloss": "ABL",
+              "gloss": "from",
               "pos": "postposition",
-              "features": "case_or_relation=contextual",
+              "features": "case_or_relation=ablative",
               "confidence": "medium",
               "evidence": "Muller 1865, ZGP-0336; project glossing_conventions.tsv keeps ra contextual.",
               "notes": ""

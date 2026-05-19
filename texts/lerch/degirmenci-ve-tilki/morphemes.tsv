@@ -183,7 +183,7 @@ Mährchen von dem Müller und Fuchs	mf02_l14	1	χóeri,	xoêri	1	ri	ri	ri	REFL/
 Mährchen von dem Müller und Fuchs	mf02_l14	2	[yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l14	3	tu’érge	tuêrgê	0	tu’érge	tuêrgê	tuerge	hail			unsplit	Modern Zazaki torge means hail; this gives a coherent reading with varai/varayış.
 Mährchen von dem Müller und Fuchs	mf02_l14	4	varai,	varay	0	varai	varay	varai	rained			unsplit	Compare modern Zazaki varayış, raining/precipitation; context is hail falling.
-Mährchen von dem Müller und Fuchs	mf02_l14	5	lasé̱r	laser	0	lasé̱r	laser	laser	on the head			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf02_l14	5	lasé̱r	laser	0	lasé̱r	laser	laser	flood			unsplit	User correction: laser is a word for flood; this resolves the previously unclear bracketed passage.
 Mährchen von dem Müller und Fuchs	mf02_l14	6	āmé̱	ame	0	āmé̱	ame	ame	came			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l14	7	paṅd̮	pangc	0	paṅd̮	pangc	pand	five			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l14	8	sei	sêy	0	sei	sêy	sei	hundred			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -192,20 +192,20 @@ Mährchen von dem Müller und Fuchs	mf02_l14	10	t̮emt̮e̱qú	çêmçequ	0	t̮
 Mährchen von dem Müller und Fuchs	mf03_l01	0	pašaí	paşay	0	pašaí	paşay	pasai	pasha			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l01	1	be,	bê	0	be	bê	be	be			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l01	2	pyéru	pyêru	0	pyéru	pyêru	pyeru	all			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf03_l01	3	la	la	0	la	la	la	but-			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf03_l01	4	sé̱ri	seri	0	sé̱ri	seri	seri	head			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf03_l01	5	be̱rd,	berd	0	be̱rd	berd	berd	carried			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf03_l01	3	la	la	0	la	la	laser	flood			unsplit	Part of la sé̱ri / Bingöl laserı, 'flood'; not the conjunction la here.
+Mährchen von dem Müller und Fuchs	mf03_l01	4	sé̱ri	seri	0	sé̱ri	seri	laser	flood-cont.			unsplit	Second written part of la sé̱ri / laserı, 'flood'.
+Mährchen von dem Müller und Fuchs	mf03_l01	5	be̱rd,	berd	0	be̱rd	berd	berd	carried away			unsplit	Context: the flood carried them all away.
 Mährchen von dem Müller und Fuchs	mf03_l01	6	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l01	7	túeri	twêri	0	túe	twê	tue	2SG.OBL			high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
 Mährchen von dem Müller und Fuchs	mf03_l01	7	túeri	twêri	1	ri	ri	ri	GOAL/RECIP	case/postposition	relation=goal_or_recipient	high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
-Mährchen von dem Müller und Fuchs	mf03_l01	8	d̮íne	cinê	0	d̮íne	cinê	dine	herds			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf03_l01	8	d̮íne	cinê	0	d̮íne	cinê	dine	women			unsplit	Compare Sivan/Nerib pesi cinê vs Bingöl pes û ceni; not 'herds' here.
 Mährchen von dem Müller und Fuchs	mf03_l01	9	pyéru	pyêru	0	pyéru	pyêru	pyeru	all			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf03_l01	10	la	la	0	la	la	la	but-			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf03_l01	11	sé̱ri	seri	0	sé̱ri	seri	seri	head			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf03_l01	12	bé̱rdi,	berdi	0	bé̱rdi	berdi	berdi	carried			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf03_l01	10	la	la	0	la	la	laser	flood			unsplit	Part of la sé̱ri / Bingöl laserı, 'flood'; not the conjunction la here.
+Mährchen von dem Müller und Fuchs	mf03_l01	11	sé̱ri	seri	0	sé̱ri	seri	laser	flood-cont.			unsplit	Second written part of la sé̱ri / laserı, 'flood'.
+Mährchen von dem Müller und Fuchs	mf03_l01	12	bé̱rdi,	berdi	0	bé̱rdi	berdi	berdi	carried away			unsplit	Context: the flood carried them all away.
 Mährchen von dem Müller und Fuchs	mf03_l02	0	me	mê	0	me	mê	me	me			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l02	1	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf03_l02	2	ké̱re̱	kere	0	ké̱re̱	kere	kere	time			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf03_l02	2	ké̱re̱	kerre	0	ké̱re̱	kerre	kerre	rock			unsplit	User correction: kerre is a rock/stone here, not Turkish kere 'time'.
 Mährchen von dem Müller und Fuchs	mf03_l02	3	te̱píšt	tepişt	0	te̱píšt	tepişt	tepist	caught			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l02	4	pa	pa	0	pa	pa	pa	to			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l02	5	vené̱rta,	vênerta	0	vené̱rta	vênerta	venerta	stood			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -221,8 +221,8 @@ Mährchen von dem Müller und Fuchs	mf03_l03	1	me	mê	0	me	mê	me	me			unsplit	C
 Mährchen von dem Müller und Fuchs	mf03_l03	2	ḗ̱n’oe	enoê	0	ḗ̱n’oe	enoê	enoe	this			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l03	3	de̱st	dest	0	de̱st	dest	dest	hand			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l03	4	te̱píšt	tepişt	0	te̱píšt	tepişt	tepist	caught			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf03_l03	5	aúkera	awkêra	0	aúke	awkê	auke	it			medium	Contextual ra split; function checked against project ra conventions.
-Mährchen von dem Müller und Fuchs	mf03_l03	5	aúkera	awkêra	1	ra	ra	ra	ABL	postposition	case_or_relation=contextual	medium	Muller 1865, ZGP-0336; project glossing_conventions.tsv keeps ra contextual.
+Mährchen von dem Müller und Fuchs	mf03_l03	5	aúkera	awkêra	0	aúke	awkê	auke	water			medium	Context: rescued the hand/person out of the flood water.
+Mährchen von dem Müller und Fuchs	mf03_l03	5	aúkera	awkêra	1	ra	ra	ra	from	postposition	case_or_relation=ablative	medium	Muller 1865, ZGP-0336; project glossing_conventions.tsv keeps ra contextual.
 Mährchen von dem Müller und Fuchs	mf03_l03	6	ve̱d̮iáya	vecyaya	0	ve̱d̮iáya	vecyaya	vediaya	threw out			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l03	7	te̱bér,	tebêr	0	te̱bér	tebêr	teber	outside			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l03	8	t̮emt̮equ	çêmçêqu	0	t̮emt̮equ	çêmçêqu	temtequ	Çemçequ			unsplit	Current word-level token gloss; no confident internal split applied.

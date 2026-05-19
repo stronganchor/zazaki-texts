@@ -18508,20 +18508,20 @@
           "ipa": "d͡ʒiːne",
           "zazaki": "cinê",
           "lemma": "dine",
-          "display_gloss": "herds",
-          "gloss_tr": "sürüler",
-          "gloss_de": "Herden",
+          "display_gloss": "women",
+          "gloss_tr": "kadınlar",
+          "gloss_de": "Frauen",
           "pos": "",
           "morphemes": [
             {
               "form": "d̮īne",
               "normalized": "cinê",
               "lemma": "dine",
-              "gloss": "herds",
+              "gloss": "women",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
-              "evidence": "Current word-level token gloss; no confident internal split applied.",
+              "evidence": "Bingöl has pes û ceni here, confirming cinê/ceni means women, not herds.",
               "notes": ""
             }
           ]

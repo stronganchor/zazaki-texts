@@ -12,7 +12,7 @@ Luê arêwangçiri swangd wend, arêwangçi luê vera day. Luê weriştê, şyê
 
 Paşay Mısri va kê luêra: derdi tu çyu, mıri vacê. Luê va kê: êfêndim: izmi mê bıdê, ez twêri vaca.
 
-Paşay Mısri izmi luê da. Luê va kê: êfêndim, vêywe çêmçêqu paşay ame, kêynay çwê wazênu xoêri, yaw tuêrgê varay, laser ame pangc sêy êspari çêmçequ paşay bê, pyêru la seri berd, ez twêri cinê pyêru la seri berdi, mê yaw kere tepişt pa vênerta, ez awnyaya yaw dest ame gna mê lingê, mê enoê dest tepişt awkêra vecyaya tebêr, çêmçêqu paşa erzê xoê mê wica ver daw, ez amêya Paşay Mısri va kê: êspar wa wênisi, wa twêdê byêri, mıri çêmçêqu paşay byari, enoê ca wejiru, mê namêy çêmçêqu paşay nyêsnautu.
+Paşay Mısri izmi luê da. Luê va kê: êfêndim, vêywe çêmçêqu paşay ame, kêynay çwê wazênu xoêri, yaw tuêrgê varay, laser ame pangc sêy êspari çêmçequ paşay bê, pyêru laseri berd, ez twêri cinê pyêru laseri berdi, mê yaw kerre tepişt pa vênerta, ez awnyaya yaw dest ame gna mê lingê, mê enoê dest tepişt awkêra vecyaya tebêr, çêmçêqu paşa erzê xoê mê wica ver daw, ez amêya Paşay Mısri va kê: êspar wa wênisi, wa twêdê byêri, mıri çêmçêqu paşay byari, enoê ca wejiru, mê namêy çêmçêqu paşay nyêsnautu.
 
 Luê va kê: êfêndim, yaw qati kincang bıdê mê, ez bêna çêmçaqu paşari, wa pêra gu; 'hata dı rodi eskêri xoê mevêcê sêlam lêğêy, 'heta çêmçaqu paşa byêru tya, ez twêri 'haberê ana. Paşay Mısri yaw qati kincan da lwê.
 
