@@ -1022,7 +1022,12 @@ def create_hassan_text() -> dict:
     return {"slug": slug, "lines": len(lines), "tokens": doc["summary"]["tokens"]}
 
 
-def translation_markdown_text(path: Path, start_marker: str | None = None, stop_marker: str | None = None) -> str:
+def translation_markdown_text(
+    path: Path,
+    start_marker: str | None = None,
+    stop_marker: str | None = None,
+    skip_titles: set[str] | None = None,
+) -> str:
     text = path.read_text(encoding="utf-8").replace("\ufeff", "")
     if start_marker and start_marker in text:
         text = text.split(start_marker, 1)[1]
@@ -1035,6 +1040,8 @@ def translation_markdown_text(path: Path, start_marker: str | None = None, stop_
         "Sage vom Vogel go'in.",
         "Mährchen von dem Müller und Fuchs.",
     }
+    if skip_titles:
+        title_like.update(skip_titles)
     for paragraph in paragraphs:
         if paragraph.startswith("#"):
             continue
@@ -1046,6 +1053,22 @@ def translation_markdown_text(path: Path, start_marker: str | None = None, stop_
             continue
         body.append(paragraph)
     return "\n\n".join(body).strip()
+
+
+def translation_markdown_paragraphs(
+    path: Path,
+    *,
+    skip_titles: set[str] | None = None,
+    start_marker: str | None = None,
+    stop_marker: str | None = None,
+) -> list[str]:
+    text = translation_markdown_text(
+        path,
+        start_marker=start_marker,
+        stop_marker=stop_marker,
+        skip_titles=skip_titles,
+    )
+    return [paragraph.strip() for paragraph in re.split(r"\n\s*\n", text) if paragraph.strip()]
 
 
 def build_reader_units_from_translation_texts(
@@ -1141,6 +1164,7 @@ def create_bundle_text(
     created_from: str,
     dialect_note: str,
     translation_texts: dict[str, str],
+    aligned_translation_paths: dict[str, Path] | None = None,
     witnesses: list[dict],
     max_source_sentences: int = 2,
 ) -> dict:
@@ -1155,6 +1179,19 @@ def create_bundle_text(
         translation_texts,
         max_source_sentences=max_source_sentences,
     )
+    aligned_translation_paths = aligned_translation_paths or {}
+    title_skips = set(TRANSLATION_TITLES.get(slug, {}).values()) | {title, lerch_title}
+    for lang, path in aligned_translation_paths.items():
+        if not path.exists():
+            continue
+        paragraphs = translation_markdown_paragraphs(path, skip_titles=title_skips)
+        if len(paragraphs) != len(reading_units):
+            raise ValueError(
+                f"{path} has {len(paragraphs)} body paragraphs; expected {len(reading_units)} for {slug}"
+            )
+        translation_texts.setdefault(lang, "\n\n".join(paragraphs))
+        for index, paragraph in enumerate(paragraphs):
+            reading_units[index].setdefault("translations", {})[lang] = paragraph
     translations = {
         lang: {"label": {"en": "English", "tr": "Turkish", "de": "German"}.get(lang, lang.upper())}
         for lang in translation_texts
@@ -1246,6 +1283,8 @@ def create_goin_text() -> dict:
 
 def create_miller_fox_text() -> dict:
     bundle_dir = LERCH_ROOT / "lerch_miller_fox_review_bundle"
+    text_dir = TEXTS_ROOT / "degirmenci-ve-tilki"
+    skip_titles = set(TRANSLATION_TITLES["degirmenci-ve-tilki"].values())
     return create_bundle_text(
         slug="degirmenci-ve-tilki",
         bundle="lerch_miller_fox_review_bundle",
@@ -1257,8 +1296,12 @@ def create_miller_fox_text() -> dict:
         created_from="Lerch Miller/Fox review bundle in Language/Z/Dictionaries/Lerch",
         dialect_note="Sivan-area Zazaki tale material as discussed in local project notes.",
         translation_texts={
+            "tr": translation_markdown_text(text_dir / "translation.tr.md", skip_titles=skip_titles),
             "en": translation_markdown_text(bundle_dir / "miller_fox_english_free_translation.md"),
             "de": translation_markdown_text(bundle_dir / "miller_fox_german_translation_ocr.md"),
+        },
+        aligned_translation_paths={
+            "tr": text_dir / "translation.tr.md",
         },
         witnesses=folk_tale_witnesses(
             "Mährchen von dem Müller und Fuchs, printed pp. 119-123",
@@ -1275,6 +1318,8 @@ def create_miller_fox_text() -> dict:
 
 def create_three_brothers_text() -> dict:
     extraction = LERCH_ROOT / "lerch_zazaki_german_extraction.md"
+    text_dir = TEXTS_ROOT / "uc-kardes-masali"
+    skip_titles = set(TRANSLATION_TITLES["uc-kardes-masali"].values())
     return create_bundle_text(
         slug="uc-kardes-masali",
         bundle="lerch_three_brothers_review_bundle",
@@ -1286,7 +1331,13 @@ def create_three_brothers_text() -> dict:
         created_from="Lerch Three Brothers review bundle in Language/Z/Dictionaries/Lerch",
         dialect_note="Sivan-area Zazaki tale material as discussed in local project notes.",
         translation_texts={
+            "tr": translation_markdown_text(text_dir / "translation.tr.md", skip_titles=skip_titles),
+            "en": translation_markdown_text(text_dir / "translation.en.md", skip_titles=skip_titles),
             "de": translation_markdown_text(extraction, start_marker="### German Translation", stop_marker="### Needs Review"),
+        },
+        aligned_translation_paths={
+            "tr": text_dir / "translation.tr.md",
+            "en": text_dir / "translation.en.md",
         },
         witnesses=folk_tale_witnesses(
             "Das Märchen von den drei Brüdern, printed pp. 87-96",
