@@ -34,7 +34,7 @@ Daw werişt, kayit noşt, da 'Hasanêkira. 'Hasanêki gêrawt, dı saati ca şê
 
 'Hasanêki kağit wengd, ekê dewi kağit sa katêy tedê noştu. 'Hasanêki kağit dırna, êşt, yawna kağit noşt, ekê miri ena gêlankê gay şüri serê bırnê, miri kebab kê, pawjê, na pilaw miri berşawê, emşoê 'Hasanêk kêynay mina kıci 'hêtê ra ku, soba na pilaw bigu, byaru.
 
-'Hasanêki kayit berd, da cênyay dyewi. Cênyay dyêwi kağit wengd, ekê dyewi tedê noştu: miri gay şüri serê bırnê, goşti gay şüri kebab kê, pawcê, berşaw, emşoê 'Hasanêk wa kêynay mina kıci 'hêtê ra ku, soba miri na pilaw kebab byaru.
+'Hasanêki kayit (kağit?) berd, da cênyay dyewi. Cênyay dyêwi kağit wengd, ekê dyewi tedê noştu: miri gay şüri serê bırnê, goşti gay şüri kebab kê, pawcê, berşaw, emşoê 'Hasanêk wa kêynay mina kıci 'hêtê ra ku, soba miri na pilaw kebab byaru.
 
 Cênyay dyewi gay sür serê bırna, goşti gay şüri kebab kê, pawcê, berşaw, emşoê 'Hasanêk wa kêynay mina kıci 'hêtê ra ku, soba miri na pilaw kebab byaru. Cênyay dyewi gay sür serê bırna, goşti gay şuri kêrd kêbab.
 

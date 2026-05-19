@@ -6121,7 +6121,7 @@
       "lerch": "Mā karat̮ad̮írid̮e rōšén’i, bā́ni ésti mā bā́nide rōšén’i.",
       "ipa": "maː karat͡ʃaˈd͡ʒirid͡ʒe roːˈʃen.i ˈbaːni ˈesti maː ˈbaːnide roːˈʃen.i",
       "zazaki": "Ma karaçaciricê roşêni, bani êsti ma banidê roşêni.",
-      "source_note": "",
+      "source_note": "Probable Lerch/printing typo: `karat̮ad̮írid̮e` is expected to be `karat̮ad̮íride`. The reader text shows the likely correction as `karaçaciricê (karaçaciridê?)`.",
       "russian_print_page": 98,
       "russian_scan_page": 112,
       "display_rows": [
@@ -6144,6 +6144,10 @@
         {
           "label": "TURKISH",
           "value": "Kara çadırlarda kalırız; evler de var, evlerde de kalırız."
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `karat̮ad̮írid̮e` is expected to be `karat̮ad̮íride`. The reader text shows the likely correction as `karaçaciricê (karaçaciridê?)`."
         }
       ],
       "witnesses": [
@@ -6369,7 +6373,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "dı roşeni? -Ma Qaraçadırı dı roşeni, boni esti, ma boni"
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "h03_l05",
+          "note": "Probable Lerch/printing typo: `karat̮ad̮írid̮e` is expected to be `karat̮ad̮íride`. The reader text shows the likely correction as `karaçaciricê (karaçaciridê?)`.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "h03_l06",

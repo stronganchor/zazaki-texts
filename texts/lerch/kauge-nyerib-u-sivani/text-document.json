@@ -2849,7 +2849,7 @@
       "lerch": "mā́le me bén’i. Dí̥zdi vā ke: e̱z Ńerbída āmeía mā́le tue, dí̥zdeí",
       "ipa": "ˈmaːle me ˈben.i ˈdɨzdi vaː ke ɛz ɲerˈbida aːˈmeja ˈmaːle twe ˈdɨzˈdej",
       "zazaki": "malê mê bêni. Dızdi va kê: ez Nyêrbida amêya malê twê, dızdêy",
-      "source_note": "Russian has 'into my house' and 'into your house'; German OCR alternates Haus/Hause.",
+      "source_note": "Russian has 'into my house' and 'into your house'; German OCR alternates Haus/Hause. Probable Lerch/printing typo: `dí̥zdeí` has two accented vowel nuclei. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
       "display_rows": [
@@ -2872,6 +2872,10 @@
         {
           "label": "TURKISH",
           "value": "benim evime?' Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim,"
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `dí̥zdeí` has two accented vowel nuclei. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed."
         }
       ],
       "witnesses": [
@@ -3178,7 +3182,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "mali mı bêni?\" Dızdi va ki: \"Ez Nêribıc a, ameya mali tu, dızdey"
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "s01_l09",
+          "note": "Probable Lerch/printing typo: `dí̥zdeí` has two accented vowel nuclei. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "s01_l10",
@@ -15641,7 +15653,7 @@
       "lerch": "mí̥ri māl sí̥mā́ri. E̱skéri vā ke Avdúl’ah aγaíra: pé̱ki, eféndim,",
       "ipa": "ˈmɨri maːl ˈsɨˈmaːri ɛsˈkeri vaː ke avˈdul.ah aˈʁajra ˈpɛki eˈfendim",
       "zazaki": "mıri mal sımari. Eskêri va kê Avdulah ağayra: peki, êfêndim,",
-      "source_note": "",
+      "source_note": "Probable Lerch/printing typo: `sí̥mā́ri` is expected to be `ší̥mā́ri`. The reader text shows the likely correction as `sımari (şımari?)`.",
       "russian_print_page": 106,
       "russian_scan_page": 120,
       "display_rows": [
@@ -15664,6 +15676,10 @@
         {
           "label": "TURKISH",
           "value": "benim, mal sizin.' Ordu Avdulah Ağa'ya dedi ki: 'Peki efendim,"
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `sí̥mā́ri` is expected to be `ší̥mā́ri`. The reader text shows the likely correction as `sımari (şımari?)`."
         }
       ],
       "witnesses": [
@@ -15935,7 +15951,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "\"Peki, efendım, Allah coni tu sağ bıdu, heta ki peynay ma nêmeru, tu ri çi çiniyu.\""
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "s04_l08",
+          "note": "Probable Lerch/printing typo: `sí̥mā́ri` is expected to be `ší̥mā́ri`. The reader text shows the likely correction as `sımari (şımari?)`.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "s04_l09",
@@ -18842,7 +18866,7 @@
       "lerch": "aγára vā: e̱z kaúta beh̔ti túe, Avdúl’ah aγái Ké̱lāṅ é̱skéri me pyéru",
       "ipa": "aˈʁara vaː ɛz ˈkawta beħti ˈtwe avˈdul.ah aˈʁaj ˈkɛlaːŋ ˈɛsˈkeri me ˈpjeru",
       "zazaki": "ağara va: ez kawta bê'hti twê, Avdulah ağay Kelang eskêri mê pyêru",
-      "source_note": "",
+      "source_note": "Probable Lerch/printing typo: `é̱skéri` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
       "russian_print_page": 107,
       "russian_scan_page": 121,
       "display_rows": [
@@ -18865,6 +18889,10 @@
         {
           "label": "TURKISH",
           "value": "Ağa'ya gidip dedi ki: 'Senin himayene geldim; Kelanlı Avdulah Ağa bütün ordumu öldürdü,"
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `é̱skéri` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed."
         }
       ],
       "witnesses": [
@@ -19171,7 +19199,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "Heyder ağa va ki Xelef ağay ra:"
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "s05_l04",
+          "note": "Probable Lerch/printing typo: `é̱skéri` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "s05_l05",

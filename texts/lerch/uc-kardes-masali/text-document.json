@@ -2413,7 +2413,7 @@
     },
     {
       "id": "u018",
-      "source": "'Hasanêki kayit berd, da cênyay dyewi. Cênyay dyêwi kağit wengd, ekê dyewi tedê noştu: miri gay şüri serê bırnê, goşti gay şüri kebab kê, pawcê, berşaw, emşoê 'Hasanêk wa kêynay mina kıci 'hêtê ra ku, soba miri na pilaw kebab byaru.",
+      "source": "'Hasanêki kayit (kağit?) berd, da cênyay dyewi. Cênyay dyêwi kağit wengd, ekê dyewi tedê noştu: miri gay şüri serê bırnê, goşti gay şüri kebab kê, pawcê, berşaw, emşoê 'Hasanêk wa kêynay mina kıci 'hêtê ra ku, soba miri na pilaw kebab byaru.",
       "translations": {
         "tr": "Hasanek mektubu götürüp devin karısına vermiş. Devin karısı mektubu okumuş; dev orada, \"Benim için kızıl öküzü kes, kızıl öküzün etinden kebap yap, pişir ve gönder. Bu gece Hasanek benim küçük kızımın yanında yatsın; sabah bana bu pilavı ve kebabı getirsin,\" diye yazmış.",
         "en": "Hasanek took the letter and gave it to the dev's wife. The dev's wife read the letter, where the dev had written: \"Slaughter the red bull for me, make kebab from the red bull's meat, roast it, and send it. Tonight let Hasanek sleep beside my youngest daughter, and tomorrow let him bring me this pilaf and kebab.\"",
@@ -6249,7 +6249,7 @@
       "lerch": "kār bi̥kérí, pei dabā́rai ma bo̤bú. Ḗ̱n’ie hī́rye hé̱me we̱rísti ši, ve̱-",
       "ipa": "kaːr bɨˈkeˈri pej daˈbaːraj ma bøˈbu ˈɛːn.je ˈhiːrje ˈhɛme wɛˈristi ʃi vɛ",
       "zazaki": "kar bıkêri, pêy dabaray ma bobu. Enyê hiryê hemê weristi şi, ve-",
-      "source_note": "",
+      "source_note": "Probable Lerch/printing typo: `we̱rísti` is expected to have š, i.e. `we̱ríšti`. The reader text shows the likely correction as `weristi (werişti?)`.",
       "russian_print_page": 87,
       "russian_scan_page": 101,
       "display_rows": [
@@ -6264,6 +6264,10 @@
         {
           "label": "ZAZAKI",
           "value": "kar bıkêri, pêy dabaray ma bobu. Enyê hiryê hemê weristi şi, ve-"
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `we̱rísti` is expected to have š, i.e. `we̱ríšti`. The reader text shows the likely correction as `weristi (werişti?)`."
         }
       ],
       "witnesses": [
@@ -6570,7 +6574,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "bıkerı, pey dabaray ma bıbu”. Eni hirye hemı werışti şi, vêciyey seri"
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "tb01_l05",
+          "note": "Probable Lerch/printing typo: `we̱rísti` is expected to have š, i.e. `we̱ríšti`. The reader text shows the likely correction as `weristi (werişti?)`.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "tb01_l06",
@@ -9914,7 +9926,7 @@
       "lerch": "nekaí sērei šṳ́ma hírye hé̱mine wén’a. Hʿasanéki vā: efendím, ī́zmí",
       "ipa": "neˈkaj seːrej ˈʃyma ˈhirje ˈhɛmine ˈwen.a ħasaˈneki vaː efenˈdim ˈiːzˈmi",
       "zazaki": "nêkay sêrêy şüma hiryê heminê wêna. 'Hasanêki va: êfêndim, izmi",
-      "source_note": "",
+      "source_note": "Probable Lerch/printing typo: `ī́zmí` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
       "russian_print_page": 88,
       "russian_scan_page": 102,
       "display_rows": [
@@ -9929,6 +9941,10 @@
         {
           "label": "ZAZAKI",
           "value": "nêkay sêrêy şüma hiryê heminê wêna. 'Hasanêki va: êfêndim, izmi"
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `ī́zmí` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed."
         }
       ],
       "witnesses": [
@@ -10189,7 +10205,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "dêwu, ez nekay sarê şıma hirye hemıni wena.” Hesenık va: “Efendim, izmi"
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "tb02_l08",
+          "note": "Probable Lerch/printing typo: `ī́zmí` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "tb02_l09",
@@ -12505,7 +12529,7 @@
       "lerch": "mā́d̮i yẹ̄́rí. D́au we̱ríšt, yau kaγít no̤št, dā H̔asanékira, vā ke:",
       "ipa": "ˈmaːd͡ʒi ˈje̝ːˈri dʲaw wɛˈriʃt jaw kaˈʁit nøʃt daː ħasaˈnekira vaː ke",
       "zazaki": "maci yêri. Dyaw werişt, yaw kağit noşt, da 'Hasanêkira, va kê:",
-      "source_note": "",
+      "source_note": "Probable Lerch/printing typo: `yẹ̄́rí` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
       "russian_print_page": 89,
       "russian_scan_page": 103,
       "display_rows": [
@@ -12520,6 +12544,10 @@
         {
           "label": "ZAZAKI",
           "value": "maci yêri. Dyaw werişt, yaw kağit noşt, da 'Hasanêkira, va kê:"
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `yẹ̄́rí` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed."
         }
       ],
       "witnesses": [
@@ -12803,7 +12831,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "Dêwi çina, Qasım û Şaban,"
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "tb03_l01",
+          "note": "Probable Lerch/printing typo: `yẹ̄́rí` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "tb03_l02",
@@ -15578,7 +15614,7 @@
       "lerch": "ḗ̱n’a pilaú biáru. H̔asanék dā kaγít déniai d́é̱wi. D̮éniai d́é̱wi ka-",
       "ipa": "ˈɛːn.a piˈlaw ˈbjaru ħasaˈnek daː kaˈʁit ˈdenjaj ˈdʲɛwi ˈd͡ʒenjaj ˈdʲɛwi ka",
       "zazaki": "ena pilaw byaru. 'Hasanêk da kağit dênyay dyewi. Cênyay dyewi ka-",
-      "source_note": "",
+      "source_note": "Probable Lerch/printing typo: `déniai` is expected to be `d̮éniai`. The reader text shows the likely correction as `dênyay (cênyay?)`.",
       "russian_print_page": 89,
       "russian_scan_page": 103,
       "display_rows": [
@@ -15593,6 +15629,10 @@
         {
           "label": "ZAZAKI",
           "value": "ena pilaw byaru. 'Hasanêk da kağit dênyay dyewi. Cênyay dyewi ka-"
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `déniai` is expected to be `d̮éniai`. The reader text shows the likely correction as `dênyay (cênyay?)`."
         }
       ],
       "witnesses": [
@@ -15865,7 +15905,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "gay bueri pilaw ver ke, emşew Hesenık wa keynay mına pili"
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "tb03_l11",
+          "note": "Probable Lerch/printing typo: `déniai` is expected to be `d̮éniai`. The reader text shows the likely correction as `dênyay (cênyay?)`.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "tb03_l12",
@@ -24587,7 +24635,7 @@
       "lerch": "ki̥d̮i h̔ēte rā ku, so̤bā́ nā pilaú biǵú, biáru. H̔asanéki kayít be̱rd,",
       "ipa": "kɨd͡ʒi ħeːte raː ku søˈbaː naː piˈlaw biˈɟu ˈbjaru ħasaˈneki kaˈjit bɛrd",
       "zazaki": "kıci 'hêtê ra ku, soba na pilaw bigu, byaru. 'Hasanêki kayit berd,",
-      "source_note": "",
+      "source_note": "Probable Lerch/printing typo: `kayít` is expected to be `kaγít`. The reader text shows the likely correction as `kayit (kağit?)`.",
       "russian_print_page": 91,
       "russian_scan_page": 105,
       "display_rows": [
@@ -24602,6 +24650,10 @@
         {
           "label": "ZAZAKI",
           "value": "kıci 'hêtê ra ku, soba na pilaw bigu, byaru. 'Hasanêki kayit berd,"
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `kayít` is expected to be `kaγít`. The reader text shows the likely correction as `kayit (kağit?)`."
         }
       ],
       "witnesses": [
@@ -24897,7 +24949,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "ri berşaw, emşew Hesenık keynay mına qıci het raku, sıba ena pilaw"
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "tb05_l13",
+          "note": "Probable Lerch/printing typo: `kayít` is expected to be `kaγít`. The reader text shows the likely correction as `kayit (kağit?)`.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "tb05_l14",
@@ -27265,7 +27325,7 @@
       "lerch": "ta sobā́. So̤bā́ we̱ríšt, šẹ̄ h̔e̱ré̱mi d́éwi, vā d̮éniai d̮é̱wira, t̮i bi̥dé,",
       "ipa": "ta soˈbaː søˈbaː wɛˈriʃt ʃe̝ː ħɛˈrɛmi ˈdʲewi vaː ˈd͡ʒenjaj ˈd͡ʒɛwira t͡ʃi bɨˈde",
       "zazaki": "ta soba. Soba werişt, şê 'heremi dyêwi, va cênyay cewira, çi bıdê,",
-      "source_note": "",
+      "source_note": "Probable Lerch/printing typo: `d̮é̱wira` is expected to be `dé̱wira`. The reader text shows the likely correction as `cewira (dewira?)`.",
       "russian_print_page": 92,
       "russian_scan_page": 106,
       "display_rows": [
@@ -27280,6 +27340,10 @@
         {
           "label": "ZAZAKI",
           "value": "ta soba. Soba werişt, şê 'heremi dyêwi, va cênyay cewira, çi bıdê,"
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `d̮é̱wira` is expected to be `dé̱wira`. The reader text shows the likely correction as `cewira (dewira?)`."
         }
       ],
       "witnesses": [
@@ -27597,7 +27661,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "ceniyey dêwi ra, çi bıde, ez bena dêwi ri. Ceniyê dêwi werışti,"
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "tb06_l06",
+          "note": "Probable Lerch/printing typo: `d̮é̱wira` is expected to be `dé̱wira`. The reader text shows the likely correction as `cewira (dewira?)`.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "tb06_l07",

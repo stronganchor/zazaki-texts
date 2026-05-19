@@ -1783,7 +1783,7 @@
       "lerch": "Mél’a Haseíni Muγaráya, e̱tía d̮it kén’a. Mérdṳ́mi Ńerbíd̮",
       "ipa": "ˈmel.a haˈsejni muʁaˈraja ɛtˈja d͡ʒit ˈken.a ˈmerˈdymi ɲerˈbid͡ʒ",
       "zazaki": "Mêla Hasêyni Muğaraya, etya cit kêna. Mêrdümi Nyêrbic",
-      "source_note": "",
+      "source_note": "Probable Lerch/printing typo: `Mérdṳ́mi` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
       "russian_print_page": 108,
       "russian_scan_page": 122,
       "display_rows": [
@@ -1802,6 +1802,10 @@
         {
           "label": "ENGLISH",
           "value": "of Mela Hasein Muyara, and I am plowing here.' The Nerib man"
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `Mérdṳ́mi` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed."
         }
       ],
       "witnesses": [
@@ -2038,7 +2042,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "xızmıkari Mela Huseyni Muyaraya, etia cıt kena.” Merdumi Nêribıj va"
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "h01_l06",
+          "note": "Probable Lerch/printing typo: `Mérdṳ́mi` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "h01_l07",
@@ -7761,7 +7773,7 @@
       "lerch": "téra réki χóe bi̥kéri, Hʿyẹ̄́neyíd̮í mā́de kauγé̱ kén’i, bā́rut bigéri,",
       "ipa": "ˈtera ˈreki ˈχoe bɨˈkeri ˈħje̝ːneˈjiˈd͡ʒi ˈmaːde kawˈʁɛ ˈken.i ˈbaːrut biˈgeri",
       "zazaki": "têra rêki xoê bıkêri, 'Hyênêyici madê kawğe kêni, barut bigêri,",
-      "source_note": "",
+      "source_note": "Probable Lerch/printing typo: `Hʿyẹ̄́neyíd̮í` has multiple vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
       "russian_print_page": 109,
       "russian_scan_page": 123,
       "display_rows": [
@@ -7780,6 +7792,10 @@
         {
           "label": "ENGLISH",
           "value": "'Prepare yourself. The Hyeni people will fight us; take powder,"
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `Hʿyẹ̄́neyíd̮í` has multiple vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed."
         }
       ],
       "witnesses": [
@@ -8062,7 +8078,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "ma dı qewxe keni, barut bıgeri, hadre keri, kom rocu ku Hyêni"
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "h02_l15",
+          "note": "Probable Lerch/printing typo: `Hʿyẹ̄́neyíd̮í` has multiple vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "h03_l01",
@@ -11639,7 +11663,7 @@
       "lerch": "dé̱sti t̮ua ǵén’a t̮au mé̱vindi, meíšte kauyaú.",
       "ipa": "ˈdɛsti t͡ʃwa ˈɟen.a t͡ʃaw ˈmɛvindi ˈmejʃte kawˈjaw",
       "zazaki": "desti çwa gêna çaw mevindi, mêyştê kawyaw.",
-      "source_note": "",
+      "source_note": "Probable Lerch/printing typo: `kauyaú` is expected to be `kauγaú`. The reader text shows the likely correction as `kawyaw (kawğaw?)`.",
       "russian_print_page": 110,
       "russian_scan_page": 124,
       "display_rows": [
@@ -11658,6 +11682,10 @@
         {
           "label": "ENGLISH",
           "value": "anyone who can take a stick in his hand must not stay behind; tomorrow there will be a fight.'"
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `kauyaú` is expected to be `kauγaú`. The reader text shows the likely correction as `kawyaw (kawğaw?)`."
         }
       ],
       "witnesses": [
@@ -11849,7 +11877,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "genu çew mevındi, mêştı qewxe u.” Daqma beg"
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "h03_l14",
+          "note": "Probable Lerch/printing typo: `kauyaú` is expected to be `kauγaú`. The reader text shows the likely correction as `kawyaw (kawğaw?)`.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "h04_l01",
@@ -30249,7 +30285,7 @@
       "lerch": "h̔éta ńémiri túeri t̮i̥ t̮íńu. Χalé̱f aγá vā ke: āferém ā́γálerim.",
       "ipa": "ˈħeta ˈɲemiri ˈtweri t͡ʃɨ ˈt͡ʃiɲu χaˈlɛf aˈʁa vaː ke aːfeˈrem ˈaːˈʁalerim",
       "zazaki": "'hêta nyêmiri twêri çı çinyu. Xalef ağa va kê: afêrêm ağalêrim.",
-      "source_note": "",
+      "source_note": "Probable Lerch/printing typo: `ā́γálerim` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
       "russian_print_page": 115,
       "russian_scan_page": 129,
       "display_rows": [
@@ -30268,6 +30304,10 @@
         {
           "label": "ENGLISH",
           "value": "as long as we do not die, nothing will happen to you.' Xalef Agha said: 'Well done, my aghas.'"
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `ā́γálerim` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed."
         }
       ],
       "witnesses": [
@@ -30562,7 +30602,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "çiniyu.” Xelef axa va ki: “Aferem axalerım.” Xelef axa werışt, kewt"
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "h08_l03",
+          "note": "Probable Lerch/printing typo: `ā́γálerim` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "h08_l04",

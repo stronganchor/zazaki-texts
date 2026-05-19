@@ -30,12 +30,13 @@ window.LERCH_CONTEXT_SEED = {
       lineCount: 56,
       tokenCount: 614,
       status: "reviewed working edition",
+      hiddenFields: ["contentWarnings", "peopleMentioned", "placesMentioned"],
       fields: {
         turkishDisplayTitle: "Değirmenci ve Tilki",
         shortTurkishSummary: "Bir tilki değirmencinin ununu çalarken yakalanır ve canını kurtarmak için değirmenciyi Mısır Paşası'nın kızıyla evlendireceğini söyler. Anlatı kurnazlık ve kimlik uydurma üzerine ilerleyen bir masal niteliğindedir.",
-        contentWarnings: "Hayvana vurma/öldürme tehdidi, aldatma ve evlilik pazarlığı temaları. Büyük şiddet uyarısı gerekip gerekmediği kullanıcı tarafından değerlendirilmeli.",
-        peopleMentioned: "Değirmenci; Tilki; Mısır Paşası; Çemçequ Paşa. Tilki ve Çemçequ Paşa adının yayın biçimi gözden geçirilmeli.",
-        placesMentioned: "Mısır; Mısır Paşası'nın sarayı. Başka yer adı varsa kaynak satırlarından doğrulanmalı.",
+        contentWarnings: "",
+        peopleMentioned: "",
+        placesMentioned: "",
         historicalContextNotes: "Folklorik masal olarak görünüyor; metadata Sivan-area tale material notunu veriyor. Çeviride Lerch'in anlamını açık bulmadığı bir bölüm işaretlenmiş, bu bölüm yayın notu isteyebilir.",
         publicationReviewNotes: "Working edition olarak işaretli. Belirsiz bölüm için dipnot/uyarı, masal başlığı ve Çemçequ Paşa adının standardizasyonu incelenmeli."
       }
@@ -48,10 +49,11 @@ window.LERCH_CONTEXT_SEED = {
       lineCount: 45,
       tokenCount: 260,
       status: "reviewed working edition",
+      hiddenFields: ["contentWarnings"],
       fields: {
         turkishDisplayTitle: "Hassan ile Söyleşi",
         shortTurkishSummary: "Hassan ile yapılan kısa soru-cevap söyleşisi Sivan aşiretinin köyleri, Kasan, bahçeler, yayla yaşamı ve Hassan'ın gördüğü kan davalarına değinir.",
-        contentWarnings: "Kan davası/çatışma göndermeleri var. Metin büyük ölçüde etnografik soru-cevap niteliğinde olsa da son kısımlar kullanıcı tarafından kontrol edilmeli.",
+        contentWarnings: "",
         peopleMentioned: "Hassan; Avdula Beg; Mistefa Ali; Ali Beg Aldun; Ahmed Beg. Adlar ve unvanlar kaynakla doğrulanmalı.",
         placesMentioned: "Sivan; Kasan; Gewel; Aldun; Talek; Weşin; Karbegan; Hyêni; Nyêrib; Kavare; Gowman. Liste çeviri tabanlıdır, yayın öncesi kaynak satırlarıyla karşılaştırılmalı.",
         historicalContextNotes: "Bu kart genel Lerch bağlamı için en doğrudan metin: prior notes Hasan/Hassan'ı Sivan aşiretinden, Kasan/Kassau/Kaschan civarı Palu bağlantılı ana Zaza kaynak kişi olarak ele alıyor. Metin bunu aşiret ve köy bilgileriyle destekleyen bir söyleşi gibi duruyor.",
@@ -66,12 +68,13 @@ window.LERCH_CONTEXT_SEED = {
       lineCount: 40,
       tokenCount: 419,
       status: "reviewed working edition",
+      hiddenFields: ["peopleMentioned", "placesMentioned"],
       fields: {
         turkishDisplayTitle: "Go'in / Puhu Kuşunun Hikayesi",
         shortTurkishSummary: "Üvey annesinin öldürdüğü kardeşini rüyasında gören bir kız, aile içi çatışmanın ardından Allah'tan kendisini go'in/puhu kuşuna çevirmesini ister.",
         contentWarnings: "Çocuk/aile içi öldürme, üvey anne zulmü, rüyada ölüm görme ve yas temaları. Yayın öncesi hassas uyarı dili gerekli görünüyor.",
-        peopleMentioned: "Kız; erkek kardeş; baba; üvey anne. Metinde özel kişi adı görünmüyor; doğrulanmalı.",
-        placesMentioned: "Açık özel yer adı görünmüyor; kaynak satırlarıyla doğrulanmalı.",
+        peopleMentioned: "",
+        placesMentioned: "",
         historicalContextNotes: "Folklorik dönüşüm/kuş anlatısı olarak görünüyor. Metadata Sivan-area tale material notunu veriyor, fakat belirli tarihsel bağlam eklenmemeli.",
         publicationReviewNotes: "Working edition olarak işaretli. Go'in/puhu adlandırması, tür adı ve aile içi şiddet uyarısı kullanıcı incelemesi gerektirir."
       }
@@ -120,12 +123,13 @@ window.LERCH_CONTEXT_SEED = {
       lineCount: 126,
       tokenCount: 1398,
       status: "reviewed working edition",
+      hiddenFields: ["peopleMentioned", "placesMentioned"],
       fields: {
         turkishDisplayTitle: "Üç Kardeş Masalı",
         shortTurkishSummary: "Hasanek, Qasım ve Şaban adlı üç kardeşin bir devle karşılaşmasını, Hasanek'in mektupları değiştirerek devi kandırmasını ve sonunda devi öldürmesini anlatan masal.",
-        contentWarnings: "Masalsı şiddet, ölüm tehdidi, dev tarafından yenme tehdidi, aldatma ve devin öldürülmesi. Çocuk okuyucu bağlamı varsa uyarı dili gözden geçirilmeli.",
-        peopleMentioned: "Hasanek; Qasım; Şaban; Dev; Muhafızbaşı. Qasım/Qasim yazımı ve karakter listesi doğrulanmalı.",
-        placesMentioned: "Belirgin özel yer adı az veya yok; dağ, tarla, mağara ve saray gibi masal mekanları var. Kaynak satırlarıyla doğrulanmalı.",
+        contentWarnings: "Masalsı şiddet, ölüm tehdidi, dev tarafından yenme tehdidi, aldatma, devin öldürülmesi ve yetişkin temalı/cinsel gönderme içerir. Çocuk okuyucu bağlamı varsa uyarı dili gözden geçirilmeli.",
+        peopleMentioned: "",
+        placesMentioned: "",
         historicalContextNotes: "Folklorik masal olarak görünüyor; belirli tarihsel olay notu eklenmemeli. Genel Lerch bağlamı dışında tarihsel iddia için ek kaynak gerekir.",
         publicationReviewNotes: "Working edition olarak işaretli. Başlık, Qasım/Qasim yazımı, masalsı şiddet uyarısı ve kısa yayın özeti kullanıcı incelemesi gerektirir."
       }

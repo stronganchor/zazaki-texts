@@ -89,6 +89,20 @@
       display: block;
       font-size: 20px;
     }
+    .explainer {
+      display: grid;
+      gap: 8px;
+      margin: 0 0 16px;
+      padding: 14px 16px;
+      background: #fffdf8;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .explainer b {
+      color: var(--text);
+    }
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(430px, 1fr));
@@ -208,7 +222,7 @@
   <header>
     <div>
       <h1>Lerch Glossary Candidate Review</h1>
-      <div class="subhead">High-frequency text forms without an obvious match in the current local Lerch glossary. Edits autosave in this browser.</div>
+      <div class="subhead">Review helper for text forms that may need a new glossary entry, a merge into an existing entry, or an explicit ignore decision. Edits autosave in this browser.</div>
     </div>
     <div class="toolbar">
       <input id="search" class="filter" type="search" placeholder="Search forms, glosses, text ids">
@@ -228,6 +242,11 @@
   </header>
   <main>
     <section class="stats" id="stats"></section>
+    <section class="explainer" aria-label="How to use this review page">
+      <div><b>Candidate form</b> is the normalized form seen in processed Lerch texts after broad matching against the current local glossary. It is not automatically a missing lemma.</div>
+      <div><b>Variants</b> are the spellings/forms seen in the texts. <b>Lemma hints</b> are the current interlinear lemmas used to test whether this should merge with an existing glossary entry. <b>Gloss hints</b> are contextual glosses from the interlinears, not final dictionary definitions. <b>Examples</b> show where the form appears.</div>
+      <div>Use <b>Add new glossary entry</b> only when the form is not already covered. Use <b>Merge with existing glossary entry</b> when it belongs under a known headword such as a base word plus case/ezafe material. Use <b>Do not add: inflected form</b> when it is only a grammatical form that should stay out of the headword list.</div>
+    </section>
     <section class="grid" id="cards"></section>
   </main>
   <script>
@@ -237,9 +256,9 @@
 
     const actionLabels = {
       "": "Needs review",
-      add_entry: "Add entry",
-      merge_with_existing: "Merge with existing",
-      inflected_form_only: "Inflected form only",
+      add_entry: "Add new glossary entry",
+      merge_with_existing: "Merge with existing glossary entry",
+      inflected_form_only: "Do not add: inflected form",
       proper_name: "Proper name",
       ignore: "Ignore"
     };
@@ -339,19 +358,19 @@
           </select>
         </div>
         <div class="body">
-          ${chipBlock("Variants", candidate.variants)}
-          ${chipBlock("Lemma hints", candidate.lemmas)}
-          ${chipBlock("Gloss hints", candidate.gloss_hints)}
+          ${chipBlock("Variants seen in texts", candidate.variants)}
+          ${chipBlock("Lemma hints from interlinear", candidate.lemmas)}
+          ${chipBlock("Context gloss hints", candidate.gloss_hints)}
           ${chipBlock("Texts", candidate.texts.map(item => ({ value: item.text, count: item.count })))}
           <div class="examples">${candidate.examples.map(renderExample).join("")}</div>
           <div class="actions">
             <label>
               <span class="label">Merge Target</span>
-              <input class="note-input" data-field="merge_target" value="${escapeAttr(review.merge_target || "")}" placeholder="Existing glossary headword/id">
+              <input class="note-input" data-field="merge_target" value="${escapeAttr(review.merge_target || "")}" placeholder="Existing glossary headword/id, if merging">
             </label>
             <label>
               <span class="label">Review Note</span>
-              <textarea data-field="note" placeholder="Why add/merge/ignore?">${escapeHtml(review.note || "")}</textarea>
+              <textarea data-field="note" placeholder="Decision evidence, e.g. 'covered by ağa/axa entry' or 'only oblique/ezafe form'">${escapeHtml(review.note || "")}</textarea>
             </label>
           </div>
         </div>

@@ -30,6 +30,7 @@ DEFAULT_GLOSSARY = Path(
 
 PUNCT_RE = re.compile(r"[^\w\s]+", re.UNICODE)
 WHITESPACE_RE = re.compile(r"\s+")
+GLOSSARY_SPLIT_RE = re.compile(r"[|,;/]+")
 
 CHAR_MAP = str.maketrans(
     {
@@ -113,6 +114,44 @@ def compact(value: str) -> str:
     return normalize(value).replace(" ", "")
 
 
+def add_case_stripped_forms(forms: set[str], key: str) -> None:
+    if len(key) <= 3:
+        return
+    candidates = {key}
+    for suffix in ("ri", "ra"):
+        if len(key) > 4 and key.endswith(suffix):
+            candidates.add(key[: -len(suffix)])
+    expanded = set(candidates)
+    for candidate in candidates:
+        if len(candidate) > 3 and candidate.endswith(("i", "y")):
+            expanded.add(candidate[:-1])
+    forms.update(item for item in expanded if item)
+
+
+def key_forms(value: str, *, split_words: bool = False) -> set[str]:
+    forms: set[str] = set()
+    values = [value]
+    values.extend(GLOSSARY_SPLIT_RE.split(value or ""))
+    for raw in values:
+        for key in (normalize(raw), compact(raw)):
+            if key:
+                forms.add(key)
+        if split_words:
+            for part in normalize(raw).split():
+                if part:
+                    forms.add(part)
+    return forms
+
+
+def candidate_forms(value: str) -> set[str]:
+    forms: set[str] = set()
+    for key in (normalize(value), compact(value)):
+        if key:
+            forms.add(key)
+            add_case_stripped_forms(forms, key)
+    return forms
+
+
 def read_tsv(path: Path) -> list[dict[str, str]]:
     with path.open("r", encoding="utf-8-sig", newline="") as handle:
         return list(csv.DictReader(handle, delimiter="\t"))
@@ -182,13 +221,9 @@ def glossary_keys(row: dict[str, str]) -> set[str]:
         "raw_headword",
     ):
         value = row.get(field_name) or ""
-        for key in (normalize(value), compact(value)):
-            if key:
-                keys.add(key)
+        keys.update(key_forms(value, split_words=field_name in {"parent", "parent_search", "title_keys"}))
     for value in (row.get("title_keys") or "").split("|"):
-        for key in (normalize(value), compact(value)):
-            if key:
-                keys.add(key)
+        keys.update(key_forms(value, split_words=True))
     return keys
 
 
@@ -209,7 +244,7 @@ def candidate_keys(record: TokenRecord) -> dict[str, set[str]]:
         "morpheme": set(record.morphemes),
     }
     return {
-        source: {key for value in raw_values for key in (normalize(value), compact(value)) if key}
+        source: {key for value in raw_values for key in candidate_forms(value) if key}
         for source, raw_values in values.items()
     }
 

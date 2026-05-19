@@ -15715,7 +15715,7 @@
       "lerch": "wárze, lau língeru. T̮emt̮aqú pašá vā ke lúera: nekaí pašai Mí̥šri",
       "ipa": "ˈwarze law ˈlingeru t͡ʃemt͡ʃaˈqu paˈʃa vaː ke ˈlwera neˈkaj paʃaj ˈmɨʃri",
       "zazaki": "warzê, law lingêru. Çêmçaqu paşa va kê lwêra: nêkay paşay Mışri",
-      "source_note": "",
+      "source_note": "Probable Lerch/printing typo: `Mí̥šri` is expected to have plain s, i.e. `Mí̥sri`. The reader text shows the likely correction as `Mışri (Mısri?)`.",
       "russian_print_page": 123,
       "russian_scan_page": 137,
       "display_rows": [
@@ -15734,6 +15734,10 @@
         {
           "label": "ENGLISH",
           "value": "fox said, \"Get up. I will prepare water for you in the basin. Go, perform ablution,"
+        },
+        {
+          "label": "EDITORIAL NOTE",
+          "value": "Probable Lerch/printing typo: `Mí̥šri` is expected to have plain s, i.e. `Mí̥sri`. The reader text shows the likely correction as `Mışri (Mısri?)`."
         }
       ],
       "witnesses": [
@@ -16017,7 +16021,15 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "lew lıngı ru.” Çemçequ Paşa va ki luy ra: “Nekay paşay"
-      }
+      },
+      "editorial_notes": [
+        {
+          "type": "suspected_lerch_typo",
+          "line_id": "mf05_l01",
+          "note": "Probable Lerch/printing typo: `Mí̥šri` is expected to have plain s, i.e. `Mí̥sri`. The reader text shows the likely correction as `Mışri (Mısri?)`.",
+          "confidence": "probable"
+        }
+      ]
     },
     {
       "id": "mf05_l02",

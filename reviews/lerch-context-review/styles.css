@@ -204,7 +204,8 @@ input {
 
 textarea {
   min-height: 78px;
-  resize: vertical;
+  overflow: hidden;
+  resize: none;
   padding: 10px;
 }
 

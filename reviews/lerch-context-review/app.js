@@ -6,8 +6,8 @@
     ["turkishDisplayTitle", "Turkish display title", "input"],
     ["shortTurkishSummary", "Short Turkish summary/excerpt", "textarea"],
     ["contentWarnings", "Content warnings", "textarea"],
-    ["peopleMentioned", "People mentioned", "textarea"],
-    ["placesMentioned", "Places mentioned", "textarea"],
+    ["peopleMentioned", "Historical people mentioned", "textarea"],
+    ["placesMentioned", "Historical places mentioned", "textarea"],
     ["historicalContextNotes", "Historical/context notes", "textarea"],
     ["publicationReviewNotes", "Publication-status/review notes", "textarea"]
   ];
@@ -77,7 +77,11 @@
       addFact(facts, "Source root", `${seed.sourceRoot}/${text.folder}`);
 
       const fields = card.querySelector(".fields");
+      const hiddenFields = new Set(text.hiddenFields || []);
       FIELDS.forEach(([fieldName, labelText, elementType]) => {
+        if (hiddenFields.has(fieldName)) {
+          return;
+        }
         const label = document.createElement("label");
         const control = document.createElement(elementType);
         label.textContent = labelText;
@@ -92,6 +96,8 @@
       cardsEl.appendChild(card);
     });
 
+    expandAllTextareas();
+    window.requestAnimationFrame(expandAllTextareas);
     setSaveState(reviewData.lastSavedAt ? `Loaded autosave from ${reviewData.lastSavedAt}` : "Loaded seed data");
   }
 
@@ -112,9 +118,21 @@
     }
 
     text.fields[field] = event.target.value;
+    if (event.target.tagName === "TEXTAREA") {
+      autoExpand(event.target);
+    }
     setSaveState("Saving...");
     window.clearTimeout(saveTimer);
     saveTimer = window.setTimeout(save, 250);
+  }
+
+  function autoExpand(textarea) {
+    textarea.style.height = "auto";
+    textarea.style.height = `${textarea.scrollHeight + 8}px`;
+  }
+
+  function expandAllTextareas() {
+    cardsEl.querySelectorAll("textarea").forEach(autoExpand);
   }
 
   function save() {
