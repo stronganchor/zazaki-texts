@@ -26,7 +26,7 @@ Generated: 2026-05-19
 | Unique normalized text forms | 1260 |
 | Forms with at least one glossary match | 430 |
 | Forms without an obvious glossary match | 830 |
-| High-priority unmatched review candidates | 201 |
+| High-priority unmatched review candidates | 198 |
 
 ## Glossary Review State
 
@@ -80,7 +80,7 @@ These are good candidates for glossary review/addition because they are frequent
 | we | 5 | 5 | we; we̱; we̱-; wê | out-; let | ali-agha-ladi-kelhani:a04_l10:10 we = out- |
 | alah | 5 | 4 | Alah; Aláh | God | ali-agha-ladi-kelhani:a03_l13:0 Alah = God |
 | ge | 5 | 4 | gê; ge-; ǵe, | put on; go | degirmenci-ve-tilki:mf03_l13:4 gê = put on |
-| la | 5 | 4 | la; la- | but- | degirmenci-ve-tilki:mf03_l01:3 la = but- |
+| la | 5 | 4 | la; la- | but-; flood | degirmenci-ve-tilki:mf03_l01:3 la = flood |
 | izmi | 5 | 3 | izmi; ī́zmi; ī́zmí | permission | degirmenci-ve-tilki:mf02_l12:1 izmi = permission |
 | nye | 5 | 3 | nyê; ńe; ńe; Nyê | not; Nerib- | goin-puhu-kusunun-hikayesi:g03_l02:7 nyê = not |
 | qawi | 5 | 3 | qawi; qaúwi; qaúwi; qaú’i | surely; why | goin-puhu-kusunun-hikayesi:g03_l06:4 qawi = surely |
@@ -120,10 +120,8 @@ These are good candidates for glossary review/addition because they are frequent
 | eman | 4 | 1 | eman; e̱mán; e̱mán, | mercy | kauge-nyerib-u-hyeni:h05_l14:5 eman = mercy |
 | heyst | 4 | 1 | hêyşt; 'hêyşt; h̔eíšt; heišt | eight | ali-agha-ladi-kelhani:a04_l06:4 'hêyşt = eight |
 | hiris | 4 | 1 | hiris; híris; Hiris; Híris | thirty | ali-agha-ladi-kelhani:a01_l02:9 hiris = thirty |
-| kasan | 4 | 1 | Kasan; Kasán; Kasán, | Kasan | gespraech-mit-hassan:h01_l09:6 Kasan = Kasan |
 | mina | 4 | 1 | mina; mína; mına; mí̥na | my | uc-kardes-masali:tb03_l10:6 mına = my |
 | nang | 4 | 1 | nang; nāṅ | food | uc-kardes-masali:tb04_l05:4 nang = food |
-| nyeribu | 4 | 1 | Nyêribu; Ńeríbu; Ńeríbu, | to Nerib | kauge-nyerib-u-hyeni:h02_l10:0 Nyêribu = to Nerib |
 | pasade | 4 | 1 | paşadê; pašáde | of the pasha | degirmenci-ve-tilki:mf02_l04:5 paşadê = of the pasha |
 | peynyay | 4 | 1 | pêynyay; peíńai; peíńai; peińai | all | kauge-nyerib-u-sivani:s02_l14:1 pêynyay = all |
 | qabas | 4 | 1 | qabas; Qabas; Qabás; qabā́s | captain | uc-kardes-masali:tb08_l09:6 qabas = captain |
@@ -131,6 +129,8 @@ These are good candidates for glossary review/addition because they are frequent
 | selam | 4 | 1 | sêlam; selám | greeting | degirmenci-ve-tilki:mf03_l08:6 sêlam = greeting |
 | ten | 4 | 1 | tên; ten | person | kauge-nyerib-u-hyeni:h08_l13:2 tên = person |
 | cey | 3 | 3 | cêy; d̮ei; cey; d̮e̱i | place; that | degirmenci-ve-tilki:mf04_l10:10 cey = place |
+| gna | 3 | 3 | gna; gnā; gnā | struck; fell | ali-agha-ladi-kelhani:a04_l03:7 gna = struck |
+| keri | 3 | 3 | kêri; kéri.; kéri,; kéri | -army; make | goin-puhu-kusunun-hikayesi:g04_l09:1 kêri = make |
 
 ## Next Review Actions
 

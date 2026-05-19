@@ -2,7 +2,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
   "generated": "2026-05-19",
   "source_report": "reports/lerch-glossary-text-form-comparison.md",
   "source_tsv": "reports/lerch-glossary-text-form-comparison.tsv",
-  "candidate_count": 201,
+  "candidate_count": 198,
   "candidates": [
     {
       "normalized_form": "eskeri",
@@ -2676,13 +2676,21 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       "lemmas": [
         {
           "value": "la",
-          "count": 5
+          "count": 3
+        },
+        {
+          "value": "laser",
+          "count": 2
         }
       ],
       "gloss_hints": [
         {
           "value": "but-",
-          "count": 5
+          "count": 3
+        },
+        {
+          "value": "flood",
+          "count": 2
         }
       ],
       "examples": [
@@ -2692,9 +2700,9 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "token_index": 3,
           "token_zazaki": "la",
           "token_lerch": "la",
-          "lemma": "la",
+          "lemma": "laser",
           "glosses": [
-            "but-"
+            "flood"
           ]
         },
         {
@@ -2703,9 +2711,9 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "token_index": 10,
           "token_zazaki": "la",
           "token_lerch": "la",
-          "lemma": "la",
+          "lemma": "laser",
           "glosses": [
-            "but-"
+            "flood"
           ]
         },
         {
@@ -5948,78 +5956,6 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ]
     },
     {
-      "normalized_form": "kasan",
-      "token_count": 4,
-      "text_count": 1,
-      "texts": [
-        {
-          "text": "gespraech-mit-hassan",
-          "count": 4
-        }
-      ],
-      "variants": [
-        {
-          "value": "Kasan",
-          "count": 4
-        },
-        {
-          "value": "Kasán",
-          "count": 3
-        },
-        {
-          "value": "Kasán,",
-          "count": 1
-        }
-      ],
-      "lemmas": [
-        {
-          "value": "kasan",
-          "count": 4
-        }
-      ],
-      "gloss_hints": [
-        {
-          "value": "Kasan",
-          "count": 4
-        }
-      ],
-      "examples": [
-        {
-          "text_slug": "gespraech-mit-hassan",
-          "segment_id": "h01_l09",
-          "token_index": 6,
-          "token_zazaki": "Kasan",
-          "token_lerch": "Kasán,",
-          "lemma": "kasan",
-          "glosses": [
-            "Kasan"
-          ]
-        },
-        {
-          "text_slug": "gespraech-mit-hassan",
-          "segment_id": "h02_l05",
-          "token_index": 0,
-          "token_zazaki": "Kasan",
-          "token_lerch": "Kasán",
-          "lemma": "kasan",
-          "glosses": [
-            "Kasan"
-          ]
-        },
-        {
-          "text_slug": "gespraech-mit-hassan",
-          "segment_id": "h02_l06",
-          "token_index": 3,
-          "token_zazaki": "Kasan",
-          "token_lerch": "Kasán",
-          "lemma": "kasan",
-          "glosses": [
-            "Kasan"
-          ]
-        }
-      ]
-    },
-    {
       "normalized_form": "mina",
       "token_count": 4,
       "text_count": 1,
@@ -6159,78 +6095,6 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "lemma": "nan",
           "glosses": [
             "food"
-          ]
-        }
-      ]
-    },
-    {
-      "normalized_form": "nyeribu",
-      "token_count": 4,
-      "text_count": 1,
-      "texts": [
-        {
-          "text": "kauge-nyerib-u-hyeni",
-          "count": 4
-        }
-      ],
-      "variants": [
-        {
-          "value": "Nyêribu",
-          "count": 4
-        },
-        {
-          "value": "Ńeríbu",
-          "count": 3
-        },
-        {
-          "value": "Ńeríbu,",
-          "count": 1
-        }
-      ],
-      "lemmas": [
-        {
-          "value": "neribu",
-          "count": 4
-        }
-      ],
-      "gloss_hints": [
-        {
-          "value": "to Nerib",
-          "count": 4
-        }
-      ],
-      "examples": [
-        {
-          "text_slug": "kauge-nyerib-u-hyeni",
-          "segment_id": "h02_l10",
-          "token_index": 0,
-          "token_zazaki": "Nyêribu",
-          "token_lerch": "Ńeríbu",
-          "lemma": "neribu",
-          "glosses": [
-            "to Nerib"
-          ]
-        },
-        {
-          "text_slug": "kauge-nyerib-u-hyeni",
-          "segment_id": "h02_l12",
-          "token_index": 8,
-          "token_zazaki": "Nyêribu",
-          "token_lerch": "Ńeríbu",
-          "lemma": "neribu",
-          "glosses": [
-            "to Nerib"
-          ]
-        },
-        {
-          "text_slug": "kauge-nyerib-u-hyeni",
-          "segment_id": "h03_l05",
-          "token_index": 8,
-          "token_zazaki": "Nyêribu",
-          "token_lerch": "Ńeríbu",
-          "lemma": "neribu",
-          "glosses": [
-            "to Nerib"
           ]
         }
       ]
@@ -6807,7 +6671,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "count": 1
         },
         {
-          "value": "to",
+          "value": "fell",
           "count": 1
         },
         {
@@ -6835,7 +6699,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "token_lerch": "gnā",
           "lemma": "gna",
           "glosses": [
-            "to"
+            "fell"
           ]
         },
         {
@@ -9196,74 +9060,6 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "lemma": "wazena",
           "glosses": [
             "wants"
-          ]
-        }
-      ]
-    },
-    {
-      "normalized_form": "av",
-      "token_count": 3,
-      "text_count": 1,
-      "texts": [
-        {
-          "text": "kauge-nyerib-u-sivani",
-          "count": 3
-        }
-      ],
-      "variants": [
-        {
-          "value": "Av",
-          "count": 3
-        },
-        {
-          "value": "Av-",
-          "count": 3
-        }
-      ],
-      "lemmas": [
-        {
-          "value": "av",
-          "count": 3
-        }
-      ],
-      "gloss_hints": [
-        {
-          "value": "Avdulah-",
-          "count": 3
-        }
-      ],
-      "examples": [
-        {
-          "text_slug": "kauge-nyerib-u-sivani",
-          "segment_id": "s02_l07",
-          "token_index": 9,
-          "token_zazaki": "Av",
-          "token_lerch": "Av-",
-          "lemma": "av",
-          "glosses": [
-            "Avdulah-"
-          ]
-        },
-        {
-          "text_slug": "kauge-nyerib-u-sivani",
-          "segment_id": "s04_l04",
-          "token_index": 10,
-          "token_zazaki": "Av",
-          "token_lerch": "Av-",
-          "lemma": "av",
-          "glosses": [
-            "Avdulah-"
-          ]
-        },
-        {
-          "text_slug": "kauge-nyerib-u-sivani",
-          "segment_id": "s05_l15",
-          "token_index": 12,
-          "token_zazaki": "Av",
-          "token_lerch": "Av-",
-          "lemma": "av",
-          "glosses": [
-            "Avdulah-"
           ]
         }
       ]
@@ -12889,7 +12685,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "gloss_hints": [
         {
-          "value": "herds",
+          "value": "women",
           "count": 2
         }
       ],
@@ -12902,7 +12698,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "token_lerch": "d̮íne",
           "lemma": "dine",
           "glosses": [
-            "herds"
+            "women"
           ]
         },
         {
@@ -12913,7 +12709,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "token_lerch": "d̮īne",
           "lemma": "dine",
           "glosses": [
-            "herds"
+            "women"
           ]
         }
       ]

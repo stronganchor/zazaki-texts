@@ -61,6 +61,20 @@ C:\Users\messy\OneDrive\Documents\Language\Z\Dictionaries\Lerch\lerch_glossary_r
 C:\Users\messy\OneDrive\Documents\Language\Z\Dictionaries\Lerch\lerch_glossary_remaining_witness_review.md
 ```
 
+Repository-side text index:
+
+```text
+C:\Users\messy\OneDrive\Documents\GitHub\zazaki-texts\reports\lerch-word-index.md
+C:\Users\messy\OneDrive\Documents\GitHub\zazaki-texts\reports\lerch-word-index.tsv
+```
+
+The repository index groups every token in the processed Lerch texts by the
+current interlinear lemma/form key, preserves the attested Lerch and Zazaki
+variants, attaches example locations, and marks whether each form matches the
+current local glossary. It is safer for glossary-review triage than the older
+surface-form gap report because it compares lemma keys first and avoids treating
+short suffix fragments as whole-word glossary matches.
+
 ## Publication Issues
 
 The files appear to be valid UTF-8. The remaining problems are mostly OCR, review-state, and editorial-policy issues:
