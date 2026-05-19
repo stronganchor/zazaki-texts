@@ -1,0 +1,436 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lerch Glossary Candidate Review</title>
+  <script src="candidates-data.js"></script>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f7f2e9;
+      --panel: #fffaf1;
+      --line: #d9ccb8;
+      --text: #1f2933;
+      --muted: #675f55;
+      --accent: #0f766e;
+      --accent-bg: #dff3ef;
+      --warn: #8a4b08;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+      color: var(--text);
+      background: var(--bg);
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 16px;
+      align-items: center;
+      padding: 14px 18px;
+      background: rgba(255, 250, 241, 0.96);
+      border-bottom: 1px solid var(--line);
+      backdrop-filter: blur(8px);
+    }
+    h1 {
+      margin: 0;
+      font-size: 20px;
+      line-height: 1.2;
+    }
+    .subhead {
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .toolbar {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+    button, select, input, textarea {
+      font: inherit;
+    }
+    button, select, .filter {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      padding: 9px 11px;
+    }
+    button.primary {
+      color: #fff;
+      background: var(--accent);
+      border-color: var(--accent);
+    }
+    main {
+      max-width: 1480px;
+      margin: 0 auto;
+      padding: 18px;
+    }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(160px, 1fr));
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+    .stat {
+      padding: 12px;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+    }
+    .stat b {
+      display: block;
+      font-size: 20px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(430px, 1fr));
+      gap: 14px;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .card.reviewed {
+      border-color: rgba(15, 118, 110, 0.45);
+      box-shadow: inset 4px 0 0 var(--accent);
+    }
+    .card-head {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 12px;
+      align-items: start;
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--line);
+    }
+    .form {
+      font-size: 22px;
+      font-weight: 700;
+    }
+    .counts {
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 2px;
+    }
+    .body {
+      padding: 12px 14px 14px;
+    }
+    .chips {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin: 8px 0;
+    }
+    .chip {
+      display: inline-flex;
+      gap: 4px;
+      align-items: center;
+      padding: 4px 7px;
+      background: #f1e8d9;
+      border: 1px solid #e2d5c2;
+      border-radius: 999px;
+      font-size: 13px;
+    }
+    .chip b {
+      color: var(--muted);
+      font-weight: 600;
+    }
+    .examples {
+      margin: 10px 0;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+    .example {
+      padding: 8px 0;
+      font-size: 13px;
+      border-top: 1px solid rgba(217, 204, 184, 0.55);
+    }
+    .example:first-child { border-top: 0; }
+    .label {
+      display: block;
+      margin: 10px 0 4px;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+    }
+    textarea, .note-input {
+      width: 100%;
+      min-height: 72px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 8px;
+      background: #fff;
+    }
+    .note-input {
+      min-height: auto;
+    }
+    .actions {
+      display: grid;
+      grid-template-columns: minmax(150px, 0.7fr) 1fr;
+      gap: 8px;
+    }
+    .saved {
+      color: var(--muted);
+      font-size: 13px;
+      min-width: 160px;
+      text-align: right;
+    }
+    .empty {
+      grid-column: 1 / -1;
+      padding: 24px;
+      text-align: center;
+      color: var(--muted);
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+    }
+    @media (max-width: 760px) {
+      header { grid-template-columns: 1fr; }
+      .toolbar { justify-content: start; }
+      .stats { grid-template-columns: 1fr 1fr; }
+      .grid { grid-template-columns: 1fr; }
+      .actions { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Lerch Glossary Candidate Review</h1>
+      <div class="subhead">High-frequency text forms without an obvious match in the current local Lerch glossary. Edits autosave in this browser.</div>
+    </div>
+    <div class="toolbar">
+      <input id="search" class="filter" type="search" placeholder="Search forms, glosses, text ids">
+      <select id="actionFilter">
+        <option value="">All actions</option>
+        <option value="unreviewed">Unreviewed</option>
+        <option value="add_entry">Add entry</option>
+        <option value="merge_with_existing">Merge</option>
+        <option value="inflected_form_only">Inflected only</option>
+        <option value="proper_name">Proper name</option>
+        <option value="ignore">Ignore</option>
+      </select>
+      <button id="export" class="primary" type="button">Export JSON</button>
+      <button id="reset" type="button">Reset Local Edits</button>
+      <span id="saved" class="saved">Loaded</span>
+    </div>
+  </header>
+  <main>
+    <section class="stats" id="stats"></section>
+    <section class="grid" id="cards"></section>
+  </main>
+  <script>
+    const STORAGE_KEY = "lerch-glossary-candidate-review-v1";
+    const source = window.LERCH_GLOSSARY_CANDIDATES || { candidates: [] };
+    let reviews = loadReviews();
+
+    const actionLabels = {
+      "": "Needs review",
+      add_entry: "Add entry",
+      merge_with_existing: "Merge with existing",
+      inflected_form_only: "Inflected form only",
+      proper_name: "Proper name",
+      ignore: "Ignore"
+    };
+
+    const search = document.getElementById("search");
+    const actionFilter = document.getElementById("actionFilter");
+    search.addEventListener("input", render);
+    actionFilter.addEventListener("change", render);
+    document.getElementById("export").addEventListener("click", exportJson);
+    document.getElementById("reset").addEventListener("click", resetLocalEdits);
+
+    render();
+
+    function loadReviews() {
+      try {
+        return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
+      } catch (_error) {
+        return {};
+      }
+    }
+
+    function saveReviews() {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(reviews, null, 2));
+      const stamp = new Date().toLocaleTimeString();
+      document.getElementById("saved").textContent = `Saved ${stamp}`;
+    }
+
+    function getReview(form) {
+      if (!reviews[form]) {
+        reviews[form] = { action: "", merge_target: "", note: "" };
+      }
+      return reviews[form];
+    }
+
+    function candidateText(candidate) {
+      return [
+        candidate.normalized_form,
+        ...candidate.variants.map(item => item.value),
+        ...candidate.lemmas.map(item => item.value),
+        ...candidate.gloss_hints.map(item => item.value),
+        ...candidate.texts.map(item => item.text),
+        ...candidate.examples.flatMap(item => [item.token_zazaki, item.token_lerch, item.segment_id, ...item.glosses])
+      ].join(" ").toLowerCase();
+    }
+
+    function filteredCandidates() {
+      const query = search.value.trim().toLowerCase();
+      const action = actionFilter.value;
+      return source.candidates.filter(candidate => {
+        const review = getReview(candidate.normalized_form);
+        const actionMatch = !action
+          || (action === "unreviewed" ? !review.action : review.action === action);
+        const textMatch = !query || candidateText(candidate).includes(query);
+        return actionMatch && textMatch;
+      });
+    }
+
+    function render() {
+      const candidates = filteredCandidates();
+      renderStats(candidates);
+      const cards = document.getElementById("cards");
+      cards.innerHTML = "";
+      if (!candidates.length) {
+        cards.innerHTML = '<div class="empty">No candidates match the current filter.</div>';
+        return;
+      }
+      for (const candidate of candidates) {
+        cards.appendChild(renderCard(candidate));
+      }
+    }
+
+    function renderStats(candidates) {
+      const stats = document.getElementById("stats");
+      const reviewed = source.candidates.filter(item => getReview(item.normalized_form).action).length;
+      const addCount = source.candidates.filter(item => getReview(item.normalized_form).action === "add_entry").length;
+      const properNameCount = source.candidates.filter(item => getReview(item.normalized_form).action === "proper_name").length;
+      stats.innerHTML = `
+        <div class="stat"><b>${source.candidate_count || source.candidates.length}</b>Total candidates</div>
+        <div class="stat"><b>${candidates.length}</b>Shown by filter</div>
+        <div class="stat"><b>${reviewed}</b>Reviewed locally</div>
+        <div class="stat"><b>${addCount}</b>Add-entry marks, ${properNameCount} proper names</div>
+      `;
+    }
+
+    function renderCard(candidate) {
+      const review = getReview(candidate.normalized_form);
+      const card = document.createElement("article");
+      card.className = "card" + (review.action ? " reviewed" : "");
+      card.innerHTML = `
+        <div class="card-head">
+          <div>
+            <div class="form">${escapeHtml(candidate.normalized_form)}</div>
+            <div class="counts">${candidate.token_count} tokens in ${candidate.text_count} text(s)</div>
+          </div>
+          <select data-field="action">
+            ${Object.entries(actionLabels).map(([value, label]) => `<option value="${value}" ${review.action === value ? "selected" : ""}>${label}</option>`).join("")}
+          </select>
+        </div>
+        <div class="body">
+          ${chipBlock("Variants", candidate.variants)}
+          ${chipBlock("Lemma hints", candidate.lemmas)}
+          ${chipBlock("Gloss hints", candidate.gloss_hints)}
+          ${chipBlock("Texts", candidate.texts.map(item => ({ value: item.text, count: item.count })))}
+          <div class="examples">${candidate.examples.map(renderExample).join("")}</div>
+          <div class="actions">
+            <label>
+              <span class="label">Merge Target</span>
+              <input class="note-input" data-field="merge_target" value="${escapeAttr(review.merge_target || "")}" placeholder="Existing glossary headword/id">
+            </label>
+            <label>
+              <span class="label">Review Note</span>
+              <textarea data-field="note" placeholder="Why add/merge/ignore?">${escapeHtml(review.note || "")}</textarea>
+            </label>
+          </div>
+        </div>
+      `;
+      card.querySelectorAll("[data-field]").forEach(input => {
+        input.addEventListener("input", () => {
+          const current = getReview(candidate.normalized_form);
+          current[input.dataset.field] = input.value;
+          saveReviews();
+          card.classList.toggle("reviewed", Boolean(current.action));
+          renderStats(filteredCandidates());
+        });
+        input.addEventListener("change", () => {
+          const current = getReview(candidate.normalized_form);
+          current[input.dataset.field] = input.value;
+          saveReviews();
+          card.classList.toggle("reviewed", Boolean(current.action));
+          renderStats(filteredCandidates());
+        });
+      });
+      return card;
+    }
+
+    function chipBlock(label, items) {
+      if (!items || !items.length) return "";
+      return `
+        <span class="label">${label}</span>
+        <div class="chips">${items.map(item => `<span class="chip">${escapeHtml(item.value)} <b>${item.count}</b></span>`).join("")}</div>
+      `;
+    }
+
+    function renderExample(example) {
+      const gloss = example.glosses && example.glosses.length ? ` = ${escapeHtml(example.glosses.join("; "))}` : "";
+      return `
+        <div class="example">
+          <b>${escapeHtml(example.text_slug)}:${escapeHtml(example.segment_id)}:${example.token_index}</b>
+          ${escapeHtml(example.token_zazaki || example.token_lerch)}${gloss}
+          <br><span class="subhead">Lerch: ${escapeHtml(example.token_lerch || "")}; lemma: ${escapeHtml(example.lemma || "")}</span>
+        </div>
+      `;
+    }
+
+    function exportJson() {
+      const payload = {
+        exported_at: new Date().toISOString(),
+        source_generated: source.generated,
+        reviews
+      };
+      const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = "lerch-glossary-candidate-review.json";
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      URL.revokeObjectURL(url);
+    }
+
+    function resetLocalEdits() {
+      if (!confirm("Clear local glossary candidate review edits in this browser?")) return;
+      reviews = {};
+      localStorage.removeItem(STORAGE_KEY);
+      render();
+      document.getElementById("saved").textContent = "Local edits reset";
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+    }
+
+    function escapeAttr(value) {
+      return escapeHtml(value).replace(/`/g, "&#096;");
+    }
+  </script>
+</body>
+</html>

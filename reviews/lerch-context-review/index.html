@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lerch Context Review</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">Peter Lerch Zazaki Texts</p>
+      <h1>Context Review</h1>
+    </div>
+    <div class="actions">
+      <button id="export-json" type="button">Export JSON</button>
+      <button id="reset-seed" type="button" class="secondary">Reset to seed</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="intro">
+      <p>
+        This static review page is seeded from the processed Lerch text metadata and translations.
+        Edits are saved only in this browser's localStorage. Use Export JSON when review text is ready to move into another artifact.
+      </p>
+      <p id="save-state" class="save-state" aria-live="polite">Not loaded yet</p>
+    </section>
+
+    <section id="cards" class="cards" aria-label="Lerch text context cards"></section>
+  </main>
+
+  <template id="card-template">
+    <article class="text-card">
+      <div class="card-heading">
+        <div>
+          <p class="source-title"></p>
+          <h2></h2>
+        </div>
+        <span class="status-pill"></span>
+      </div>
+      <dl class="facts"></dl>
+      <div class="fields"></div>
+    </article>
+  </template>
+
+  <script src="seed-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
