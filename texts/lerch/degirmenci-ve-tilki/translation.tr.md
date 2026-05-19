@@ -12,7 +12,7 @@ Tilki değirmenciye yemin etmiş, değirmenci de onu bırakmış. Tilki kalkıp 
 
 Mısır Paşası tilkiye, "Derdin nedir, söyle," demiş. Tilki, "Efendim, izin ver de sana anlatayım," diye karşılık vermiş.
 
-Paşa tilkiye izin vermiş. Tilki, "Efendim, Çemçequ Paşa geldi; kızınızı kendisi için istiyor," demiş. Kaynakta bu sözlerin ardından Lerch'in anlamını açık bulmadığı bir bölüm gelir. Ardından Mısır Paşası, "Atlılar onu karşılasın, seninle birlikte gelsinler ve Çemçequ Paşa'yı bana getirsinler. Orada bir vezir var; ama ben Çemçequ Paşa diye birinin adını bilmiyorum," demiş.
+Paşa tilkiye izin vermiş. Tilki, "Efendim, Çemçequ Paşa geldi; kızınızı kendisi için istiyor. Bir dolu yağdı, sel geldi. Çemçequ Paşa'nın beş yüz atlısı vardı; sel hepsini alıp götürdü. Sana (söylüyorum), sel bütün kadınları da alıp götürdü. Bir kayaya tutunup ayağa kalktım. Baktım, bir el geldi bacağıma düştü. O eli tuttum ve onu sudan dışarı çıkardım. Çemçequ Paşa kendini benim üstüme attı; onu orada bıraktım ve geldim," demiş. Mısır Paşası, "Atlılar onu karşılasın, seninle birlikte gelsinler ve Çemçequ Paşa'yı bana getirsinler. Orada bir vezir var; ama ben Çemçequ Paşa diye birinin adını bilmiyorum," demiş.
 
 Tilki, "Efendim, bana bir kat elbise ver. Ben onu Çemçequ Paşa'ya götüreyim, o da giysin. İki gün boyunca askerlerini onu karşılamaya çıkarma; Çemçequ Paşa buraya varıncaya kadar sana haber getiririm," demiş. Mısır Paşası tilkiye bir kat elbise vermiş.
 
