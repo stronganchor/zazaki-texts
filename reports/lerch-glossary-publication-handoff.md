@@ -66,6 +66,9 @@ Repository-side text index:
 ```text
 C:\Users\messy\OneDrive\Documents\GitHub\zazaki-texts\reports\lerch-word-index.md
 C:\Users\messy\OneDrive\Documents\GitHub\zazaki-texts\reports\lerch-word-index.tsv
+C:\Users\messy\OneDrive\Documents\GitHub\zazaki-texts\reports\lerch-glossary-review-batch-01.md
+C:\Users\messy\OneDrive\Documents\GitHub\zazaki-texts\reports\lerch-glossary-review-batch-01.tsv
+C:\Users\messy\OneDrive\Documents\GitHub\zazaki-texts\reviews\lerch-glossary-review-batch-01\index.html
 ```
 
 The repository index groups every token in the processed Lerch texts by the
@@ -74,6 +77,12 @@ variants, attaches example locations, and marks whether each form matches the
 current local glossary. It is safer for glossary-review triage than the older
 surface-form gap report because it compares lemma keys first and avoids treating
 short suffix fragments as whole-word glossary matches.
+
+`lerch-glossary-review-batch-01` is the first high-value review batch generated
+from that index. It contains 90 text-attested rows: likely add/merge candidates,
+grammar/function items that should not become simple headwords, and lower-priority
+review rows. The HTML review UI autosaves browser-local decisions and can export
+review JSON.
 
 ## Publication Issues
 

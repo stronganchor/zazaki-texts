@@ -1,0 +1,363 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lerch Glossary Review Batch 01</title>
+  <script src="batch-data.js"></script>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f8f5ee;
+      --panel: #fffdf8;
+      --line: #d8cdbb;
+      --text: #1e1b18;
+      --muted: #6b6258;
+      --accent: #0f766e;
+      --warn: #8a4b00;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, Segoe UI, sans-serif;
+      line-height: 1.45;
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      background: rgba(248, 245, 238, .96);
+      border-bottom: 1px solid var(--line);
+      padding: 14px 18px;
+      backdrop-filter: blur(6px);
+    }
+    h1 {
+      margin: 0 0 6px;
+      font-size: 22px;
+    }
+    .subhead {
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      margin-top: 12px;
+    }
+    select, button, input, textarea {
+      font: inherit;
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 6px;
+      padding: 8px 10px;
+    }
+    button {
+      cursor: pointer;
+      color: var(--accent);
+      border-color: #94c9c2;
+      font-weight: 650;
+    }
+    main {
+      max-width: 1440px;
+      margin: 0 auto;
+      padding: 18px;
+    }
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 10px;
+      margin-bottom: 18px;
+    }
+    .stat, .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: 0 1px 2px rgba(0,0,0,.04);
+    }
+    .stat {
+      padding: 12px;
+    }
+    .stat b {
+      display: block;
+      font-size: 22px;
+    }
+    .stat span {
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .card {
+      margin-bottom: 16px;
+      overflow: hidden;
+    }
+    .card-header {
+      display: grid;
+      grid-template-columns: minmax(160px, 240px) minmax(200px, 1fr) auto;
+      gap: 14px;
+      align-items: start;
+      border-bottom: 1px solid var(--line);
+      padding: 14px 16px;
+      background: #fffaf0;
+    }
+    .key {
+      font-size: 24px;
+      font-weight: 750;
+    }
+    .badge {
+      display: inline-block;
+      margin-top: 6px;
+      border-radius: 999px;
+      padding: 3px 8px;
+      background: #e8f6f3;
+      color: #0b5e58;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .badge.function { background: #fff3dc; color: var(--warn); }
+    .badge.review { background: #eef2ff; color: #3730a3; }
+    .meta {
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 5px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 150px minmax(0, 1fr);
+      border-top: 1px solid var(--line);
+    }
+    .grid:first-child { border-top: 0; }
+    .label {
+      background: #fbf6ec;
+      color: #574e45;
+      font-weight: 700;
+      padding: 10px 12px;
+      border-right: 1px solid var(--line);
+      text-transform: uppercase;
+      font-size: 12px;
+      letter-spacing: .03em;
+    }
+    .value {
+      padding: 10px 12px;
+      white-space: pre-wrap;
+      overflow-wrap: anywhere;
+    }
+    .review {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 10px;
+      padding: 12px;
+      border-top: 1px solid var(--line);
+      background: #fffdf8;
+    }
+    .review label {
+      display: grid;
+      gap: 5px;
+      font-size: 13px;
+      color: var(--muted);
+      font-weight: 650;
+    }
+    .review textarea {
+      min-height: 84px;
+      resize: vertical;
+    }
+    .hidden { display: none; }
+    @media (max-width: 760px) {
+      .card-header { grid-template-columns: 1fr; }
+      .grid { grid-template-columns: 1fr; }
+      .label { border-right: 0; border-bottom: 1px solid var(--line); }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Lerch Glossary Review Batch 01</h1>
+    <div class="subhead">High-value text-attested forms from the processed Lerch corpus. Edits autosave in this browser and can be exported as JSON.</div>
+    <div class="toolbar">
+      <label>Filter
+        <select id="actionFilter">
+          <option value="">All actions</option>
+        </select>
+      </label>
+      <label>Status
+        <select id="statusFilter">
+          <option value="">All statuses</option>
+          <option value="needs_human_review">Needs review</option>
+          <option value="accepted_add">Accept add/merge</option>
+          <option value="merge_existing">Merge existing</option>
+          <option value="function_only">Function only</option>
+          <option value="do_not_add">Do not add</option>
+        </select>
+      </label>
+      <button id="exportBtn">Export Review JSON</button>
+      <button id="resetBtn">Reset Local Edits</button>
+      <span id="saveState" class="subhead">No edits yet</span>
+    </div>
+  </header>
+  <main>
+    <section class="summary" id="summary"></section>
+    <section id="cards"></section>
+  </main>
+  <script>
+    const batch = window.LERCH_GLOSSARY_REVIEW_BATCH_01 || { rows: [], counts: {} };
+    const storageKey = "lerch-glossary-review-batch-01-v1";
+    const state = JSON.parse(localStorage.getItem(storageKey) || "{}");
+    const actionFilter = document.getElementById("actionFilter");
+    const statusFilter = document.getElementById("statusFilter");
+    const cardsEl = document.getElementById("cards");
+    const summaryEl = document.getElementById("summary");
+    const saveState = document.getElementById("saveState");
+
+    function escapeHtml(value) {
+      return String(value ?? "").replace(/[&<>"']/g, char => ({
+        "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+      }[char]));
+    }
+
+    function rowKey(row) {
+      return row.lemma_key;
+    }
+
+    function reviewFor(row) {
+      return state[rowKey(row)] || {
+        review_status: row.review_status || "needs_human_review",
+        final_headword: row.suggested_headword || "",
+        final_action: row.suggested_action || "",
+        definition_en: row.suggested_gloss_en || "",
+        definition_tr: row.suggested_gloss_tr || "",
+        reviewer_note: row.reviewer_note || ""
+      };
+    }
+
+    function save() {
+      localStorage.setItem(storageKey, JSON.stringify(state, null, 2));
+      saveState.textContent = "Saved " + new Date().toLocaleTimeString();
+    }
+
+    function field(label, value) {
+      return `<div class="grid"><div class="label">${escapeHtml(label)}</div><div class="value">${escapeHtml(value || "")}</div></div>`;
+    }
+
+    function badgeClass(action) {
+      if (action === "merge_or_function_entry") return "function";
+      if (action.startsWith("review_")) return "review";
+      return "";
+    }
+
+    function renderSummary(rows) {
+      const counts = rows.reduce((acc, row) => {
+        acc[row.suggested_action] = (acc[row.suggested_action] || 0) + 1;
+        return acc;
+      }, {});
+      summaryEl.innerHTML = [
+        `<div class="stat"><b>${rows.length}</b><span>visible rows</span></div>`,
+        ...Object.entries(counts).map(([name, count]) =>
+          `<div class="stat"><b>${count}</b><span>${escapeHtml(name)}</span></div>`
+        )
+      ].join("");
+    }
+
+    function render() {
+      const action = actionFilter.value;
+      const status = statusFilter.value;
+      const rows = batch.rows.filter(row => {
+        const review = reviewFor(row);
+        return (!action || row.suggested_action === action) && (!status || review.review_status === status);
+      });
+      renderSummary(rows);
+      cardsEl.innerHTML = rows.map(row => {
+        const review = reviewFor(row);
+        return `<article class="card" data-key="${escapeHtml(rowKey(row))}">
+          <div class="card-header">
+            <div>
+              <div class="key">${escapeHtml(row.lemma_key)}</div>
+              <span class="badge ${badgeClass(row.suggested_action)}">${escapeHtml(row.suggested_action)}</span>
+            </div>
+            <div>
+              <b>${escapeHtml(row.suggested_headword || row.lemma_key)}</b>
+              <div class="meta">${escapeHtml(row.rationale)}</div>
+            </div>
+            <div class="meta">${escapeHtml(row.token_count)} tokens<br>${escapeHtml(row.text_count)} texts</div>
+          </div>
+          ${field("Gloss Hint", row.context_gloss_hints)}
+          ${field("Zazaki Variants", row.zazaki_variants)}
+          ${field("Lerch Variants", row.lerch_variants)}
+          ${field("Related Glossary", row.related_glossary_hits)}
+          ${field("Example Ref", row.example_ref)}
+          ${field("Example Zazaki", row.example_line_zazaki)}
+          ${field("Example Lerch", row.example_line_lerch)}
+          <div class="review">
+            <label>Review status
+              <select data-field="review_status">
+                ${["needs_human_review","accepted_add","merge_existing","function_only","do_not_add"].map(item =>
+                  `<option value="${item}" ${review.review_status === item ? "selected" : ""}>${item}</option>`
+                ).join("")}
+              </select>
+            </label>
+            <label>Final action
+              <input data-field="final_action" value="${escapeHtml(review.final_action)}">
+            </label>
+            <label>Final headword
+              <input data-field="final_headword" value="${escapeHtml(review.final_headword)}">
+            </label>
+            <label>English definition
+              <input data-field="definition_en" value="${escapeHtml(review.definition_en)}">
+            </label>
+            <label>Turkish definition
+              <input data-field="definition_tr" value="${escapeHtml(review.definition_tr)}">
+            </label>
+            <label>Reviewer note
+              <textarea data-field="reviewer_note">${escapeHtml(review.reviewer_note)}</textarea>
+            </label>
+          </div>
+        </article>`;
+      }).join("");
+    }
+
+    function initFilters() {
+      const actions = [...new Set(batch.rows.map(row => row.suggested_action))].sort();
+      actionFilter.innerHTML += actions.map(action => `<option value="${escapeHtml(action)}">${escapeHtml(action)}</option>`).join("");
+    }
+
+    cardsEl.addEventListener("input", event => {
+      const field = event.target.dataset.field;
+      if (!field) return;
+      const card = event.target.closest(".card");
+      const key = card.dataset.key;
+      state[key] = state[key] || reviewFor(batch.rows.find(row => row.lemma_key === key));
+      state[key][field] = event.target.value;
+      save();
+    });
+    cardsEl.addEventListener("change", event => {
+      const field = event.target.dataset.field;
+      if (!field) return;
+      const card = event.target.closest(".card");
+      const key = card.dataset.key;
+      state[key] = state[key] || reviewFor(batch.rows.find(row => row.lemma_key === key));
+      state[key][field] = event.target.value;
+      save();
+      render();
+    });
+    actionFilter.addEventListener("change", render);
+    statusFilter.addEventListener("change", render);
+    document.getElementById("exportBtn").addEventListener("click", () => {
+      const blob = new Blob([JSON.stringify({ generated_from: batch.generated, review: state }, null, 2)], { type: "application/json" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = "lerch-glossary-review-batch-01-review.json";
+      link.click();
+      URL.revokeObjectURL(link.href);
+    });
+    document.getElementById("resetBtn").addEventListener("click", () => {
+      if (!confirm("Clear local review edits for this batch?")) return;
+      localStorage.removeItem(storageKey);
+      location.reload();
+    });
+
+    initFilters();
+    render();
+  </script>
+</body>
+</html>
