@@ -222,7 +222,7 @@
   <header>
     <div>
       <h1>Lerch Glossary Candidate Review</h1>
-      <div class="subhead">Review helper for text forms that may need a new glossary entry, a merge into an existing entry, or an explicit ignore decision. Edits autosave in this browser.</div>
+      <div class="subhead">Review helper for text forms that still did not match the current Lerch glossary after broad matching and known-alias checks. Edits autosave in this browser.</div>
     </div>
     <div class="toolbar">
       <input id="search" class="filter" type="search" placeholder="Search forms, glosses, text ids">
@@ -230,9 +230,9 @@
         <option value="">All actions</option>
         <option value="unreviewed">Unreviewed</option>
         <option value="add_entry">Add entry</option>
-        <option value="merge_with_existing">Merge</option>
-        <option value="inflected_form_only">Inflected only</option>
-        <option value="proper_name">Proper name</option>
+        <option value="merge_with_existing">Merge under headword</option>
+        <option value="inflected_form_only">Inflected/variant only</option>
+        <option value="proper_name">Name/place/title</option>
         <option value="ignore">Ignore</option>
       </select>
       <button id="export" class="primary" type="button">Export JSON</button>
@@ -243,9 +243,9 @@
   <main>
     <section class="stats" id="stats"></section>
     <section class="explainer" aria-label="How to use this review page">
-      <div><b>Candidate form</b> is the normalized form seen in processed Lerch texts after broad matching against the current local glossary. It is not automatically a missing lemma.</div>
-      <div><b>Variants</b> are the spellings/forms seen in the texts. <b>Lemma hints</b> are the current interlinear lemmas used to test whether this should merge with an existing glossary entry. <b>Gloss hints</b> are contextual glosses from the interlinears, not final dictionary definitions. <b>Examples</b> show where the form appears.</div>
-      <div>Use <b>Add new glossary entry</b> only when the form is not already covered. Use <b>Merge with existing glossary entry</b> when it belongs under a known headword such as a base word plus case/ezafe material. Use <b>Do not add: inflected form</b> when it is only a grammatical form that should stay out of the headword list.</div>
+      <div><b>Possible unmatched form</b> is the normalized text form that remains after checking text surfaces, Lerch spellings, interlinear lemmas, morphemes, and our known alias map. It is still only a review target, not automatically a missing lemma.</div>
+      <div><b>Text forms</b> are the spellings/forms seen in the stories. <b>Interlinear lemma hints</b> come from our current interlinear files and may point to the existing headword. <b>Context gloss hints</b> are local glosses from the interlinear, not final dictionary definitions. <b>Examples</b> show where the form appears.</div>
+      <div>Use <b>Add as new glossary entry</b> only when the word is not already covered by Lerch's glossary. Use <b>Merge under existing headword</b> for forms like inflections, case/ezafe forms, and spelling variants. Use <b>Do not add: name/place/title</b> for proper names or source-specific historical names.</div>
     </section>
     <section class="grid" id="cards"></section>
   </main>
@@ -256,10 +256,10 @@
 
     const actionLabels = {
       "": "Needs review",
-      add_entry: "Add new glossary entry",
-      merge_with_existing: "Merge with existing glossary entry",
-      inflected_form_only: "Do not add: inflected form",
-      proper_name: "Proper name",
+      add_entry: "Add as new glossary entry",
+      merge_with_existing: "Merge under existing headword",
+      inflected_form_only: "Do not add: inflected/variant form",
+      proper_name: "Do not add: name/place/title",
       ignore: "Ignore"
     };
 
@@ -339,7 +339,7 @@
         <div class="stat"><b>${source.candidate_count || source.candidates.length}</b>Total candidates</div>
         <div class="stat"><b>${candidates.length}</b>Shown by filter</div>
         <div class="stat"><b>${reviewed}</b>Reviewed locally</div>
-        <div class="stat"><b>${addCount}</b>Add-entry marks, ${properNameCount} proper names</div>
+        <div class="stat"><b>${addCount}</b>Add-entry marks, ${properNameCount} name/place marks</div>
       `;
     }
 
@@ -358,15 +358,15 @@
           </select>
         </div>
         <div class="body">
-          ${chipBlock("Variants seen in texts", candidate.variants)}
-          ${chipBlock("Lemma hints from interlinear", candidate.lemmas)}
+          ${chipBlock("Text forms seen", candidate.variants)}
+          ${chipBlock("Interlinear lemma hints", candidate.lemmas)}
           ${chipBlock("Context gloss hints", candidate.gloss_hints)}
           ${chipBlock("Texts", candidate.texts.map(item => ({ value: item.text, count: item.count })))}
           <div class="examples">${candidate.examples.map(renderExample).join("")}</div>
           <div class="actions">
             <label>
-              <span class="label">Merge Target</span>
-              <input class="note-input" data-field="merge_target" value="${escapeAttr(review.merge_target || "")}" placeholder="Existing glossary headword/id, if merging">
+              <span class="label">Existing Headword / Row Id</span>
+              <input class="note-input" data-field="merge_target" value="${escapeAttr(review.merge_target || "")}" placeholder="For merges, e.g. şiyayene / lerch_glossary_p210_r0363">
             </label>
             <label>
               <span class="label">Review Note</span>

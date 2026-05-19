@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const STORAGE_KEY = "lerch-context-review:v1";
+  const STORAGE_KEY = "lerch-context-review:v2";
   const FIELDS = [
     ["turkishDisplayTitle", "Turkish display title", "input"],
     ["shortTurkishSummary", "Short Turkish summary/excerpt", "textarea"],

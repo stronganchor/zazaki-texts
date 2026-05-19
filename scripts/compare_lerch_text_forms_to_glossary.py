@@ -32,6 +32,140 @@ PUNCT_RE = re.compile(r"[^\w\s]+", re.UNICODE)
 WHITESPACE_RE = re.compile(r"\s+")
 GLOSSARY_SPLIT_RE = re.compile(r"[|,;/]+")
 
+# Normalized text forms that are clearly inflected/case-marked variants of a
+# headword already represented in Lerch's glossary.  This keeps the review UI
+# focused on real lexical gaps instead of asking whether forms like `şi` or
+# `amêy` should become new headwords.
+KNOWN_FORM_ALIASES: dict[str, tuple[str, ...]] = {
+    # Pronouns / pronominal cases.
+    "me": ("mjri", "ez"),
+    "mi": ("mjri", "ez"),
+    "miri": ("mjri", "ez"),
+    "ma": ("rna",),
+    "te": ("tu",),
+    "tue": ("tu",),
+    "tueri": ("tu",),
+    "tuerira": ("tu",),
+    "tweri": ("tu",),
+    "twerira": ("tu",),
+    "suma": ("sima",),
+    "sımari": ("sima",),
+    "simari": ("sima",),
+    "xoe": ("ez",),
+    "xoeri": ("ez",),
+    "ena": ("ana", "awe"),
+    "enoe": ("ana", "awe"),
+    "enye": ("ana", "awe"),
+    # Common verbs and transparent inflected forms.
+    "si": ("siyayene", "siyene", "sussna", "sc", "sl"),
+    "sye": ("siyayene", "siyene", "sussna"),
+    "swe": ("siyayene", "siyene", "sussna"),
+    "sueni": ("siyayene", "siyene", "sussna"),
+    "sweni": ("siyayene", "siyene", "sussna"),
+    "syeri": ("siyayene", "siyene", "sussna"),
+    "ame": ("amayene",),
+    "amey": ("amayene",),
+    "ameya": ("amayene",),
+    "amei": ("amayene",),
+    "ameiya": ("amayene",),
+    "werist": ("weriat", "warzdna"),
+    "weristi": ("weriat", "warzdna"),
+    "ersawute": ("eraauute",),
+    "ersauute": ("eraauute",),
+    "day": ("dayene", "dana", "da"),
+    "dai": ("dayene", "dana", "da"),
+    "bide": ("dayene", "dana", "da"),
+    "bid": ("dayene", "dana", "da"),
+    "byari": ("ardene",),
+    "warze": ("warzdna",),
+    "kawta": ("siyayene", "siyene", "sussna"),
+    "swena": ("siyayene", "siyene", "sussna"),
+    "yenu": ("amayene",),
+    "kist": ("kisena",),
+    "kisti": ("kisena",),
+    "kistu": ("kisena",),
+    "kenu": ("kena", "kerdene"),
+    # Common nouns/titles already present under OCR-shaped glossary keys.
+    "agay": ("aya", "aga", "axa"),
+    "agayi": ("aya", "aga", "axa"),
+    "beray": ("berd",),
+    "berai": ("berd",),
+    "kawge": ("kauya",),
+    "kauge": ("kauya",),
+    "lwe": ("lu",),
+    "lue": ("lu",),
+    "arewangci": ("arewantf",),
+    "arewanti": ("arewantf",),
+    "dewi": ("dau",),
+    "dyewi": ("dau",),
+    "keye": ("kei",),
+    "keiye": ("kei",),
+    "keynay": ("kcina",),
+    "keynek": ("kcina",),
+    "keyneke": ("kcina",),
+    "keina": ("kcina",),
+    "keinai": ("kcina",),
+    "sere": ("ser",),
+    "serey": ("ser",),
+    # Lerch's OCR table embeds habür under the häl row.
+    "habere": ("hal",),
+    "haber": ("hal",),
+    "mela": ("mola",),
+    "hemine": ("heme",),
+    "heta": ("hetaku",),
+    "esti": ("estii",),
+    "estu": ("estii",),
+    "cinyu": ("tihu",),
+    "cinu": ("tihu",),
+    "ceher": ("tehtir",),
+    "teher": ("tehtir",),
+    "hirye": ("diei",),
+    "gay": ("ga",),
+    "espar": ("sstere",),
+    "etya": ("gtia",),
+    "meyste": ("melate",),
+    "puroe": ("pero",),
+    "wica": ("widd",),
+    "awnya": ("aununa", "di"),
+    "awnyay": ("aununa", "di"),
+    "desmac": ("desmal",),
+}
+
+PROPER_NAME_KEYS = {
+    "xalef",
+    "halef",
+    "ali",
+    "ahmed",
+    "ahmedi",
+    "daqma",
+    "qasim",
+    "qasimi",
+    "hasanek",
+    "hasaneki",
+    "hasan",
+    "saban",
+    "hyeni",
+    "sivani",
+    "nerib",
+    "nyerib",
+    "misri",
+    "cemcaqu",
+    "temtaqu",
+    "cemcequ",
+    "temtequ",
+    "sele",
+}
+
+PROPER_NAME_HINTS = (
+    "personal name",
+    "person name",
+    "place name",
+    "group name",
+    "tribe name",
+    "kişi adı",
+    "yer adı",
+)
+
 CHAR_MAP = str.maketrans(
     {
         "ı": "i",
@@ -249,6 +383,18 @@ def candidate_keys(record: TokenRecord) -> dict[str, set[str]]:
     }
 
 
+def matching_rows_for_key(candidate_key: str, glossary_index: dict[str, list[dict[str, str]]]) -> list[dict[str, str]]:
+    rows = list(glossary_index.get(candidate_key) or [])
+    seen = {row.get("entry_id") for row in rows}
+    for alias_key in KNOWN_FORM_ALIASES.get(candidate_key, ()):
+        for row in glossary_index.get(alias_key, []) or []:
+            row_id = row.get("entry_id")
+            if row_id not in seen:
+                rows.append(row)
+                seen.add(row_id)
+    return rows
+
+
 def add_match(bucket: FormBucket, source: str, rows: list[dict[str, str]]) -> None:
     bucket.match_sources.add(source)
     for row in rows[:5]:
@@ -278,10 +424,21 @@ def build_buckets(records: list[TokenRecord], glossary_index: dict[str, list[dic
             bucket.examples.append(record)
         for source, keys in candidate_keys(record).items():
             for candidate_key in keys:
-                matches = glossary_index.get(candidate_key)
+                matches = matching_rows_for_key(candidate_key, glossary_index)
                 if matches:
                     add_match(bucket, source, matches)
     return buckets
+
+
+def is_proper_name_bucket(bucket: FormBucket) -> bool:
+    if bucket.key in PROPER_NAME_KEYS:
+        return True
+    gloss_text = " ".join(bucket.glosses).lower()
+    if any(hint in gloss_text for hint in PROPER_NAME_HINTS):
+        return True
+    if "sivan tribe" in gloss_text or "hyeni" in gloss_text:
+        return True
+    return False
 
 
 def top_values(counter: Counter[str], limit: int = 5) -> str:
@@ -299,7 +456,9 @@ def write_candidate_tsv(path: Path, buckets: dict[str, FormBucket]) -> list[Form
     candidates = [
         bucket
         for bucket in buckets.values()
-        if not bucket.match_sources and (bucket.token_count >= 3 or len(bucket.texts) >= 2)
+        if not bucket.match_sources
+        and not is_proper_name_bucket(bucket)
+        and (bucket.token_count >= 3 or len(bucket.texts) >= 2)
     ]
     candidates.sort(key=lambda item: (-item.token_count, -len(item.texts), item.key))
     fields = [
@@ -403,7 +562,8 @@ def write_report(
     lines.append("## Scope")
     lines.append("")
     lines.append("- Compares `texts/lerch/*/morphemes.tsv` against the current local 600-row Lerch glossary TSV.")
-    lines.append("- This is a review aid only. It uses broad accent-insensitive matching, so it can find obvious candidates but cannot replace manual lemma review.")
+    lines.append("- This is a review aid only. It uses broad accent-insensitive matching plus a known-alias map for common inflected forms, pronouns, and spelling variants. It can find obvious candidates but cannot replace manual lemma review.")
+    lines.append("- Proper names and known place names are filtered out before the review list is generated.")
     lines.append("- No source text, translation, or glossary files were modified.")
     lines.append("")
     lines.append("## Inputs")
@@ -441,7 +601,7 @@ def write_report(
     lines.append("")
     lines.append("## Top Unmatched Review Candidates")
     lines.append("")
-    lines.append("These are good candidates for glossary review/addition because they are frequent or occur in multiple texts and do not have an obvious match under the broad matching policy.")
+    lines.append("These are good candidates for glossary review/addition because they are frequent or occur in multiple texts and do not have an obvious match under the broad matching and known-alias policy.")
     lines.append("")
     lines.append("| Form | Tokens | Texts | Variants | Gloss hint | Example |")
     lines.append("| --- | ---: | ---: | --- | --- | --- |")
