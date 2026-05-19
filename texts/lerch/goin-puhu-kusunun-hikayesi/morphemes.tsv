@@ -1,0 +1,440 @@
+story_id	segment_id	token_index	token_lerch	token_zazaki	morpheme_index	morpheme_surface_lerch	morpheme_normalized	lemma	gloss	pos	features	confidence	evidence	notes
+Sage vom Vogel go'in	g01_l01	0	Zemā́ne	Zêmanê	0	Zemā́ne	Zêmanê	zemane	time			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l01	1	ve̱ríe	veryê	0	ve̱ríe	veryê	verie	first			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l01	2	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l01	3	mí̥rdau	mırdaw	0	mí̥rdau	mırdaw	mirdau	man			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l01	4	d̮éniai	cênyay	0	d̮éniai	cênyay	deniai	woman			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l01	5	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l01	6	bī,	bi	0	bī	bi	bi	was			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l01	7	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l01	8	keínau	kêynaw	0	keínau	kêynaw	keinau	daughter			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l01	9	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l01	10	lād̮	lac	0	lād̮	lac	lad	boy			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l02	0	terá	têra	0	terá	têra	tera	with			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l02	1	bī.	bi	0	bī	bi	bi	was			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l02	2	D̮éniai	Cênyay	0	D̮éniai	Cênyay	deniai	woman			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l02	3	me̱rd,	merd	0	me̱rd	merd	merd	man			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l02	4	peíni̥de	pêynıdê	0	peíni̥	pêynı	peini	end			high	Muller 1865, ZGP-0340 locative -de/-di.
+Sage vom Vogel go'in	g01_l02	4	peíni̥de	pêynıdê	1	de	dê	de	LOC/TEMP	case	case=locative_or_temporal	high	Muller 1865, ZGP-0340 locative -de/-di.
+Sage vom Vogel go'in	g01_l02	5	myérde	myêrdê	0	myérde	myêrdê	myerde	husband			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l02	6	šẹ̄	şê	0	šẹ̄	şê	se	what			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l02	7	yaúna	yawna	0	yaúna	yawna	yauna	another			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l02	8	d̮éni	cêni	0	d̮éni	cêni	deni	woman			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l02	9	ā́rde.	ardê	0	ā́rde	ardê	arde	flour			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g01_l02	10	Di̥	Dı	0	Di̥	Dı	di	two			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l01	0	sé̱ri	seri	0	sé̱ri	seri	seri	head			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l01	1	ve̱né̱rt,	venert	0	ve̱né̱rt	venert	venert	stood			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l01	2	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l01	3	keína	kêyna	0	keína	kêyna	keina	girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l01	4	áya	aya	0	áya	aya	aya	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l01	5	d̮énira	cênira	0	d̮éni	cêni	deni	woman			medium	Contextual ra split; function checked against project ra conventions.
+Sage vom Vogel go'in	g02_l01	5	d̮énira	cênira	1	ra	ra	ra	RECIP	postposition	case_or_relation=contextual	medium	Muller 1865, ZGP-0336; project glossing_conventions.tsv keeps ra contextual.
+Sage vom Vogel go'in	g02_l01	6	bī́e.	byê	0	bī́e	byê	bie	became			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l01	7	Ē̱n’a	Ena	0	Ē̱n’a	Ena	ena	this			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l01	8	d̮énie	cênyê	0	d̮énie	cênyê	denie	woman			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l01	9	bíe	byê	0	bíe	byê	bie	became			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l01	10	di̥šmén’i	dışmêni	0	di̥šmén’i	dışmêni	dismeni	enemy			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l02	0	lād̮eḱ	lacêk	0	lād̮eḱ	lacêk	ladek	boy			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l02	1	u	û	0	u	û	u	and			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l02	2	keíneka	kêynêka	0	keíneka	kêynêka	keineka	the girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l02	3	ve̱ryén’e.	veryênê	0	ve̱ryén’e	veryênê	veryene	first			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l03	0	Keíneke	Kêynêkê	0	Keíneke	Kêynêkê	keineke	the girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l03	1	šuén’a	şwêna	0	šuén’a	şwêna	suena	goes			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l03	2	gōlikā́ṅde;	golikangdê	0	gōlikā́ṅde	golikangdê	golikande	among the cattle			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l03	3	keínek	kêynêk	0	keínek	kêynêk	keinek	girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l03	4	rṓd̮eki	rocêki	0	rṓd̮eki	rocêki	rodeki	one day			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l03	5	yé̱rei	yerêy	0	yé̱rei	yerêy	yerei	afternoon			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l03	6	gōlikā́na	golikana	0	gōlikā́na	golikana	golikana	cattle			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l03	7	yén’a,	yêna	0	yén’a	yêna	yena	I come			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l04	0	e̱k	ek	0	e̱k	ek	ek	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l04	1	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l04	2	χoe	xoê	0	χoe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l04	3	t̮í̥nu	çınu	0	t̮í̥nu	çınu	tinu	is not			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l04	4	persén’a	pêrsêna	0	persén’a	pêrsêna	persena	asks			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l04	5	d̮éniai	cênyay	0	d̮éniai	cênyay	deniai	woman			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l04	6	baúki	bawki	0	baúki	bawki	bauki	father			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l04	7	χóe,	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l04	8	vā́na	vana	0	vā́na	vana	vana	says			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l04	9	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l04	10	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l04	11	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l05	0	t̮au?	çaw	0	t̮au	çaw	tau	no one			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l05	1	D̮é̱ńeke	Cenyêkê	0	D̮é̱ńeke	Cenyêkê	deneke	woman			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l05	2	keínekra	kêynêkra	0	keínek	kêynêk	keinek	girl			medium	Contextual ra split; function checked against project ra conventions.
+Sage vom Vogel go'in	g02_l05	2	keínekra	kêynêkra	1	ra	ra	ra	RECIP	postposition	case_or_relation=contextual	medium	Muller 1865, ZGP-0336; project glossing_conventions.tsv keeps ra contextual.
+Sage vom Vogel go'in	g02_l05	3	vā́na	vana	0	vā́na	vana	vana	says			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l05	4	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l05	5	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l05	6	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l05	7	šyu	şyu	0	šyu	şyu	syu	went			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l05	8	kei	kêy	0	kei	kêy	kei	house			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l05	9	h̔ā́lāne	'halanê	0	h̔ā́lāne	'halanê	halane	uncles'			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l05	10	χóe.	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l06	0	Keínek	Kêynêk	0	Keínek	Kêynêk	keinek	girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l06	1	aya	aya	0	aya	aya	aya	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l06	2	šu	şu	0	šu	şu	su	went			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l06	3	rā	ra	0	rā	ra	ra	to			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l06	4	kuén’a,	kwêna	0	kuén’a	kwêna	kuena	lay down			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l06	5	h̔āu	'haw	0	h̔āu	'haw	hau	dream			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l06	6	vyenén’a,	vyênêna	0	vyenén’a	vyênêna	vyenena	sees			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l06	7	e̱k	ek	0	e̱k	ek	ek	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l06	8	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l06	9	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l06	10	kíštu,	kiştu	0	kíštu	kiştu	kistu	killed			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l07	0	eíštu	êyştu	0	eíštu	êyştu	eistu	threw			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l07	1	zeindā́ṅ.	zêyndang	0	zeindā́ṅ	zêyndang	zeindan	pit			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l07	2	Sebáh	Sêbah	0	Sebáh	Sêbah	sebah	morning			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l07	3	wardén’a,	wardêna	0	wardén’a	wardêna	wardena	gets up			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l07	4	bāúki	bawki	0	bāúki	bawki	bauki	father			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l07	5	χóera	xoêra	0	χóe	xoê	xoe	self/own			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g02_l07	5	χóera	xoêra	1	ra	ra	ra	REFL/RECIP	postposition	relation=reflexive_or_recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g02_l07	6	vā́na:	vana	0	vā́na	vana	vana	says			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l07	7	bau,	baw	0	bau	baw	bau	father			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l07	8	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l07	9	é̱m-	em	0	é̱m	em	em	this			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l08	0	šoe	şoê	0	šoe	şoê	soe	night			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l08	1	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l08	2	h̔au	'haw	0	h̔au	'haw	hau	dream			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l08	3	dī,	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l08	4	é̱k’e	ekê	0	é̱k’e	ekê	eke	if			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l08	5	d̮éniai	cênyay	0	d̮éniai	cênyay	deniai	woman			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l08	6	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l08	7	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l08	8	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l08	9	kíštu,	kiştu	0	kíštu	kiştu	kistu	killed			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l08	10	eíštu	êyştu	0	eíštu	êyştu	eistu	threw			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l08	11	zeindā́ṅ.	zêyndang	0	zeindā́ṅ	zêyndang	zeindan	pit			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l09	0	Baúki	Bawki	0	Baúki	Bawki	bauki	father			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l09	1	keíneke	kêynêkê	0	keíneke	kêynêkê	keineke	the girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l09	2	χóera	xoêra	0	χóe	xoê	xoe	self/own			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g02_l09	2	χóera	xoêra	1	ra	ra	ra	REFL/RECIP	postposition	relation=reflexive_or_recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g02_l09	3	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l09	4	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l09	5	h̔eir	'hêyr	0	h̔eir	'hêyr	heir	no			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l09	6	bu,	bu	0	bu	bu	bu	be			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l09	7	sḗ̱n’ie	senyê	0	sḗ̱n’ie	senyê	senie	why			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l09	8	berāí	bêray	0	berāí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l09	9	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l09	10	kīšén’u?	kişênu	0	kiš	kiş	kist	kill			high	Muller 1865, ZGP-0356 present -ena/-ana material.
+Sage vom Vogel go'in	g02_l09	10	kīšén’u?	kişênu	1	én’u	enu	-ena	PRS/FUT.3SG	suffix	tense_aspect=present_or_future;person=3;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.
+Sage vom Vogel go'in	g02_l10	0	Keínek	Kêynêk	0	Keínek	Kêynêk	keinek	girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l10	1	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l10	2	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l10	3	bau,	baw	0	bau	baw	bau	father			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l10	4	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l10	5	h̔āúni	'hawni	0	h̔āúni	'hawni	hauni	dream			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l10	6	χóede	xoêdê	0	χóe	xoê	xoe	own			high	Muller 1865, ZGP-0340 locative -de/-di.
+Sage vom Vogel go'in	g02_l10	6	χóede	xoêdê	1	de	dê	de	LOC/TEMP	case	case=locative_or_temporal	high	Muller 1865, ZGP-0340 locative -de/-di.
+Sage vom Vogel go'in	g02_l10	7	d́ī,	dyi	0	d́ī	dyi	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l10	8	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l10	9	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l10	10	kíštu,	kiştu	0	kíštu	kiştu	kistu	killed			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l10	11	eíštu	êyştu	0	eíštu	êyştu	eistu	threw			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l11	0	zeindā́ṅ,	zêyndang	0	zeindā́ṅ	zêyndang	zeindan	pit			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l11	1	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l11	2	h̔ā	'ha	0	h̔ā	'ha	ha	here			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l11	3	warzén’a,	warzêna	0	warzén’a	warzêna	warzena	I get up			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l11	4	šuén’a	şwêna	0	šuén’a	şwêna	suena	goes			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l11	5	gōlekā́ṅde,	golêkangdê	0	gōlekā́ṅde	golêkangdê	golekande	among the cattle			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l11	6	yérei	yêrêy	0	yérei	yêrêy	yerei	afternoon			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l11	7	yén’a	yêna	0	yén’a	yêna	yena	I come			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l11	8	keíye,	kêyê	0	keíye	kêyê	keiye	house			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l12	0	é̱k’e	ekê	0	é̱k’e	ekê	eke	if			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l12	1	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l12	2	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l12	3	āmaú,	amaw	0	āmaú	amaw	amau	come			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l12	4	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l12	5	zā́na	zana	0	zā́na	zana	zana	I know			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l12	6	wé̱šu,	weşu	0	wé̱šu	weşu	wesu	well			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l12	7	h̔eirke	'hêyrkê	0	h̔eirke	'hêyrkê	heirke	but if			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l12	8	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l12	9	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l12	10	ńāmaú	nyamaw	0	ńāmaú	nyamaw	namau	did not come			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l12	11	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l13	0	h̔én’i	'hêni	0	h̔én’i	'hêni	heni	again			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l13	1	túeri	twêri	0	túe	twê	tue	2SG.OBL			high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
+Sage vom Vogel go'in	g02_l13	1	túeri	twêri	1	ri	ri	ri	GOAL/RECIP	case/postposition	relation=goal_or_recipient	high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
+Sage vom Vogel go'in	g02_l13	2	gōlekā́ṅde	golêkangdê	0	gōlekā́ṅde	golêkangdê	golekande	among the cattle			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l13	3	ńešuén’a,	nyêşwêna	0	ńešuén’a	nyêşwêna	nesuena	I will not go			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l13	4	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l13	5	e̱tía	etya	0	e̱tía	etya	etia	here			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l13	6	ńevendén’a.	nyêvêndêna	0	ńevendén’a	nyêvêndêna	nevendena	I will not stay			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l14	0	Baúki	Bawki	0	Baúki	Bawki	bauki	father			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l14	1	keíneke	kêynêkê	0	keíneke	kêynêkê	keineke	the girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l14	2	χóera	xoêra	0	χóe	xoê	xoe	self/own			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g02_l14	2	χóera	xoêra	1	ra	ra	ra	REFL/RECIP	postposition	relation=reflexive_or_recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g02_l14	3	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l14	4	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l14	5	eírue	êyrwê	0	eírue	êyrwê	eirue	today			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l14	6	ti̥	tı	0	ti̥	tı	ti	you			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l14	7	šúe	şwê	0	šúe	şwê	sue	go			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l14	8	gōlikā́ṅde,	golikangdê	0	gōlikā́ṅde	golikangdê	golikande	among the cattle			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l14	9	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g02_l14	10	ge-	gê	0	ge	gê	ge	go			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l01	0	rén’a,	rêna	0	rén’a	rêna	rena	I search			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l01	1	é̱k’e	ekê	0	é̱k’e	ekê	eke	if			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l01	2	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l01	3	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l01	4	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l01	5	dī,	di	0	dī	di	di	find			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l01	6	bi̥zā́ne	bızanê	0	bi̥zā́ne	bızanê	bizane	know			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l01	7	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l01	8	e̱k	ek	0	e̱k	ek	ek	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l01	9	d̮éniai	cênyay	0	d̮éniai	cênyay	deniai	woman			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l01	10	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l01	11	ši̥máde	şımadê	0	ši̥máde	şımadê	simade	you			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l02	0	sáγe	sağê	0	sáγe	sağê	sage				unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l02	1	ńa,	nya	0	ńa	nya	na	ended			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l02	2	h̔eirke	'hêyrkê	0	h̔eirke	'hêyrkê	heirke	but if			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l02	3	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l02	4	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l02	5	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l02	6	ńédī,	nyêdi	0	ńédī	nyêdi	nedi	did not see			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l02	7	ńe	nyê	0	ńe	nyê	ne	not			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l02	8	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l02	9	vendén’a,	vêndêna	0	vendén’a	vêndêna	vendena	I stay			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l02	10	ńe	nyê	0	ńe	nyê	ne	not			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l02	11	ti̥	tı	0	ti̥	tı	ti	you			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l02	12	ví̥nde.	vındê	0	ví̥nde	vındê	vinde	stay			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l03	0	Keínek	Kêynêk	0	Keínek	Kêynêk	keinek	girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l03	1	we̱ríšt	werişt	0	we̱ríšt	werişt	werist	mounted			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l03	2	ši,	şi	0	ši	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l03	3	gṓleki	golêki	0	gṓleki	golêki	goleki	cattle			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l03	4	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l03	5	ver	vêr	0	ver	vêr	ver	front			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l03	6	dai,	day	0	dai	day	dai	struck			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l03	7	ši	şi	0	ši	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l03	8	golekā́ṅde.	golêkangdê	0	golekā́ṅde	golêkangdê	golekande	among the cattle			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l03	9	Baúki	Bawki	0	Baúki	Bawki	bauki	father			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l04	0	keíneke	kêynêkê	0	keíneke	kêynêkê	keineke	the girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l04	1	āmé̱,	ame	0	āmé̱	ame	ame	came			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l04	2	geíra	gêyra	0	geíra	gêyra	geira	searched			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l04	3	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l04	4	keíneke,	kêynêkê	0	keíneke	kêynêkê	keineke	the girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l04	5	é̱ki	eki	0	é̱ki	eki	eki	where			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l04	6	kístu,	kistu	0	kístu	kistu	kistu	killed			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l04	7	eíštu	êyştu	0	eíštu	êyştu	eistu	threw			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l04	8	zeindā́ṅ,	zêyndang	0	zeindā́ṅ	zêyndang	zeindan	pit			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l04	9	d̮ṓrde	cordê	0	d̮ṓrde	cordê	dorde	there			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l05	0	zi̥bíl	zıbil	0	zi̥bíl	zıbil	zibil	stone			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l05	1	wél’e	wêlê	0	wél’e	wêlê	wele	large			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l05	2	kérda	kêrda	0	kérda	kêrda	kerda	did			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l05	3	lā́d̮eki	lacêki	0	lā́d̮eki	lacêki	ladeki	of the boy			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l05	4	se̱r.	ser	0	se̱r	ser	ser	head			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l05	5	Baúki	Bawki	0	Baúki	Bawki	bauki	father			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l05	6	keínek	kêynêk	0	keínek	kêynêk	keinek	girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l05	7	āmeí	amêy	0	āmeí	amêy	amei	came			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l05	8	keíye,	kêyê	0	keíye	kêyê	keiye	house			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l05	9	d̮éniai	cênyay	0	d̮éniai	cênyay	deniai	woman			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l06	0	χóera	xoêra	0	χóe	xoê	xoe	self/own			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g03_l06	0	χóera	xoêra	1	ra	ra	ra	REFL/RECIP	postposition	relation=reflexive_or_recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g03_l06	1	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l06	2	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l06	3	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l06	4	qaúwi	qawi	0	qaúwi	qawi	qauwi	surely			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l06	5	lā́d̮i	laci	0	lā́d̮	lac	lad	son			high	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.
+Sage vom Vogel go'in	g03_l06	5	lā́d̮i	laci	1	i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.
+Sage vom Vogel go'in	g03_l06	6	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l06	7	kíštu,	kiştu	0	kíštu	kiştu	kistu	killed			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l06	8	wai	way	0	wai	way	wai	sister			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l06	9	d̮ei	cêy	0	d̮ei	cêy	dei	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l06	10	bi	bi	0	bi	bi	bi	was			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l06	11	še̱wi	şewi	0	še̱wi	şewi	sewi	night			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l06	12	h̔aúni	'hawni	0	h̔aúni	'hawni	hauni	dream			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l06	13	χóe-	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l07	0	de	dê	0	de	dê	de	in			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l07	1	dī	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l07	2	be,	bê	0	be	bê	be	be			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l07	3	e̱k	ek	0	e̱k	ek	ek	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l07	4	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l07	5	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l07	6	kíštu,	kiştu	0	kíštu	kiştu	kistu	killed			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l07	7	āmeí,	amêy	0	āmeí	amêy	amei	came			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l07	8	be̱rmáye,	bermayê	0	be̱rmáye	bermayê	bermaye	wept			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l07	9	méra	mêra	0	mé	mê	me	1SG.OBL			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g03_l07	9	méra	mêra	1	ra	ra	ra	RECIP	postposition	relation=recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g03_l07	10	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l07	11	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l07	12	bau,	baw	0	bau	baw	bau	father			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l08	0	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l08	1	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l08	2	kíštu,	kiştu	0	kíštu	kiştu	kistu	killed			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l08	3	eíštu	êyştu	0	eíštu	êyştu	eistu	threw			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l08	4	zeindā́ṅ.	zêyndang	0	zeindā́ṅ	zêyndang	zeindan	pit			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l08	5	Me	Mê	0	Me	Mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l08	6	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l08	7	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l08	8	keínaim,	kêynaym	0	keínaim	kêynaym	keinaim	my daughter			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l08	9	h̔eir	'hêyr	0	h̔eir	'hêyr	heir	no			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l08	10	bu,	bu	0	bu	bu	bu	be			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l08	11	mé̱-	me	0	mé̱	me	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l09	0	terse,	têrsê	0	terse	têrsê	terse	do not fear			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l09	1	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l09	2	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l09	3	wé̱šu.	weşu	0	wé̱šu	weşu	wesu	well			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l09	4	Keínek	Kêynêk	0	Keínek	Kêynêk	keinek	girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l09	5	méra	mêra	0	mé	mê	me	1SG.OBL			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g03_l09	5	méra	mêra	1	ra	ra	ra	RECIP	postposition	relation=recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g03_l09	6	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l09	7	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l09	8	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l09	9	h̔ā	'ha	0	h̔ā	'ha	ha	here			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l09	10	eírue	êyrwê	0	eírue	êyrwê	eirue	today			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l09	11	šuén’a	şwêna	0	šuén’a	şwêna	suena	goes			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l10	0	gōlikā́ṅde,	golikangdê	0	gōlikā́ṅde	golikangdê	golikande	among the cattle			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l10	1	yérei	yêrêy	0	yérei	yêrêy	yerei	afternoon			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l10	2	yén’a	yêna	0	yén’a	yêna	yena	I come			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l10	3	keíye̱,	kêye	0	keíye̱	kêye	keiye	house			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l10	4	e̱k	ek	0	e̱k	ek	ek	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l10	5	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l10	6	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l10	7	āmaú,	amaw	0	āmaú	amaw	amau	come			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l10	8	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l10	9	zā́na	zana	0	zā́na	zana	zana	I know			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l10	10	wé̱šu,	weşu	0	wé̱šu	weşu	wesu	well			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l11	0	e̱k	ek	0	e̱k	ek	ek	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l11	1	ńāmaú,	nyamaw	0	ńāmaú	nyamaw	namau	did not come			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l11	2	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l11	3	ńevendā́na	nyêvêndana	0	ńevendā́na	nyêvêndana	nevendana	I will not stay			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l11	4	e̱tía.	etya	0	e̱tía	etya	etia	here			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l12	0	D̮éni	Cêni	0	D̮éni	Cêni	deni	woman			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l12	1	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l12	2	myẹ̄́rde	myêrdê	0	myẹ̄́rde	myêrdê	myerde	husband			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l12	3	χóera:	xoêra	0	χóe	xoê	xoe	self/own			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g03_l12	3	χóera:	xoêra	1	ra	ra	ra	REFL/RECIP	postposition	relation=reflexive_or_recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g03_l12	4	wé̱rze	werzê	0	wé̱rze	werzê	werze	get up			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l12	5	téra	têra	0	téra	têra	tera	with			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l12	6	šúe,	şwê	0	šúe	şwê	sue	go			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l12	7	te	tê	0	te	tê	te	you			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l12	8	pī́si,	pisi	0	pī́si	pisi	pisi	filthy			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l12	9	te	tê	0	te	tê	te	you			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l12	10	vā́tí̥ši	vatışi	0	vā́tí̥ši	vatışi	vatisi	you listen			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l12	11	keí-	kêy	0	keí	kêy	kei	house			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l13	0	neke,	nêkê	0	neke	nêkê	neke	the girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l13	1	te	tê	0	te	tê	te	you			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l13	2	āmeí	amêy	0	āmeí	amêy	amei	came			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l13	3	mi̥	mı	0	mi̥	mı	mi	me			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l13	4	se̱r,	ser	0	se̱r	ser	ser	head			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l13	5	ti̥	tı	0	ti̥	tı	ti	you			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l13	6	méra	mêra	0	mé	mê	me	1SG.OBL			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g03_l13	6	méra	mêra	1	ra	ra	ra	RECIP	postposition	relation=recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g03_l13	7	vā́ni	vani	0	vā́ni	vani	vani	you say			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l13	8	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l13	9	qaúwi	qawi	0	qaúwi	qawi	qauwi	surely			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l13	10	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l13	11	lā́d̮i	laci	0	lā́d̮	lac	lad	son			high	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.
+Sage vom Vogel go'in	g03_l13	11	lā́d̮i	laci	1	i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.
+Sage vom Vogel go'in	g03_l13	12	kíštu,	kiştu	0	kíštu	kiştu	kistu	killed			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l13	13	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l14	0	t̮ítau	çitaw	0	t̮ítau	çitaw	titau	why			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l14	1	lā́d̮eki	lacêki	0	lā́d̮eki	lacêki	ladeki	of the boy			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l14	2	kišén’a.	kişêna	0	kiš	kiş	kist	kill			high	Muller 1865, ZGP-0356 present -ena/-ana material.
+Sage vom Vogel go'in	g03_l14	2	kišén’a.	kişêna	1	én’a	ena	-ena	PRS/FUT.1SG	suffix	tense_aspect=present_or_future;person=1;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.
+Sage vom Vogel go'in	g03_l15	0	Myẹ̄́rdek	Myêrdêk	0	Myẹ̄́rdek	Myêrdêk	myerdek	the man			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l15	1	h̔ẹ̄rs	'hêrs	0	h̔ẹ̄rs	'hêrs	hers	anger			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l15	2	be,	bê	0	be	bê	be	be			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l15	3	šẹ̄	şê	0	šẹ̄	şê	se	what			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l15	4	lé̱še	leşê	0	lé̱še	leşê	lese	body			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l15	5	lā́d̮eki	lacêki	0	lā́d̮eki	lacêki	ladeki	of the boy			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l15	6	zeindā́na	zêyndana	0	zeindā́na	zêyndana	zeindana	from the pit			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l15	7	vé̱te	vetê	0	vé̱te	vetê	vete	pulled out			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l15	8	ā́rdi	ardi	0	ā́rdi	ardi	ardi	brought			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l15	9	d̮éni	cêni	0	d̮éni	cêni	deni	woman			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g03_l15	10	h̔e̱t,	'het	0	h̔e̱t	'het	het	side			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l01	0	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l01	1	ke	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l01	2	d̮énira,	cênira	0	d̮éni	cêni	deni	woman			medium	Contextual ra split; function checked against project ra conventions.
+Sage vom Vogel go'in	g04_l01	2	d̮énira,	cênira	1	ra	ra	ra	RECIP	postposition	case_or_relation=contextual	medium	Muller 1865, ZGP-0336; project glossing_conventions.tsv keeps ra contextual.
+Sage vom Vogel go'in	g04_l01	3	keínai	kêynay	0	keínai	kêynay	keinai	girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l01	4	kōpé̱ki,	kopeki	0	kōpé̱ki	kopeki	kopeki	of a dog			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l01	5	la	la	0	la	la	la	but-			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l01	6	qā́mi	qami	0	qā́mi	qami	qami	who			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l01	7	kíštu	kiştu	0	kíštu	kiştu	kistu	killed			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l01	8	ẹ̄́n’oe	ênoê	0	ẹ̄́n’oe	ênoê	enoe	this			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l01	9	lā́d̮ek?	lacêk	0	lā́d̮ek	lacêk	ladek	boy			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l01	10	Zuā́ni	Zwani	0	Zuā́ni	Zwani	zuani	tongue			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l02	0	d̮éineki	cêynêki	0	d̮éineki	cêynêki	deineki	the woman's			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l02	1	qáfelya,	qafêlya	0	qáfelya	qafêlya	qafelya	was tied			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l02	2	d̮éini	cêyni	0	d̮éini	cêyni	deini	woman			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l02	3	tersáye,	têrsayê	0	tersáye	têrsayê	tersaye	was afraid			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l02	4	h̔én’i	'hêni	0	h̔én’i	'hêni	heni	again			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l02	5	ńaútarai	nyawtaray	0	ńaútarai	nyawtaray	nautarai	not at all			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l02	6	ve̱ṅg	veng	0	ve̱ṅg	veng	veng	sound			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l02	7	bi̥kéru.	bıkêru	0	bi̥kéru	bıkêru	bikeru	make			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l03	0	Baúki	Bawki	0	Baúki	Bawki	bauki	father			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l03	1	lā́d̮eki	lacêki	0	lā́d̮eki	lacêki	ladeki	of the boy			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l03	2	šid,	şid	0	šid	şid	sid	washed			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l03	3	be̱rd	berd	0	be̱rd	berd	berd	took			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l03	4	me̱zél,	mezêl	0	me̱zél	mezêl	mezel	grave			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l03	5	we̱dé̱rt,	wedert	0	we̱dé̱rt	wedert	wedert	buried			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l03	6	āmé̱	ame	0	āmé̱	ame	ame	came			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l03	7	keíye̱,	kêye	0	keíye̱	kêye	keiye	house			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l03	8	sé̱rei	serêy	0	sé̱rei	serêy	serei	head			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l03	9	d̮é-	cê	0	d̮é	cê	de	in			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l04	0	niai	nyay	0	niai	nyay	niai	wife			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l04	1	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l04	2	terá	têra	0	terá	têra	tera	with			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l04	3	kerd,	kêrd	0	kerd	kêrd	kerd	did			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l04	4	bé̱rde,	berdê	0	bé̱rde	berdê	berde	took			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l04	5	eíšte	êyştê	0	eíšte	êyştê	eiste	threw			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l04	6	zeindā́ṅ.	zêyndang	0	zeindā́ṅ	zêyndang	zeindan	pit			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l04	7	Wai	Way	0	Wai	Way	wai	sister			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l04	8	lā́d̮eki	lacêki	0	lā́d̮eki	lacêki	ladeki	of the boy			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l04	9	gōlikā́na	golikana	0	gōlikā́na	golikana	golikana	cattle			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l05	0	āmeí	amêy	0	āmeí	amêy	amei	came			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l05	1	keíye.	kêyê	0	keíye	kêyê	keiye	house			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l05	2	E̱k	Ek	0	E̱k	Ek	ek	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l05	3	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l05	4	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l05	5	t̮í̥nu,	çınu	0	t̮í̥nu	çınu	tinu	is not			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l05	6	d̮éniai	cênyay	0	d̮éniai	cênyay	deniai	woman			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l05	7	baúki	bawki	0	baúki	bawki	bauki	father			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l05	8	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l05	9	t̮í̥na,	çına	0	t̮í̥na	çına	tina	is not there			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l05	10	šī,	şi	0	šī	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l05	11	laúki	lawki	0	laúki	lawki	lauki	boy			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l06	0	χóera	xoêra	0	χóe	xoê	xoe	self/own			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g04_l06	0	χóera	xoêra	1	ra	ra	ra	REFL/RECIP	postposition	relation=reflexive_or_recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
+Sage vom Vogel go'in	g04_l06	1	vā:	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l06	2	bau,	baw	0	bau	baw	bau	father			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l06	3	d̮éniai	cênyay	0	d̮éniai	cênyay	deniai	woman			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l06	4	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l06	5	t̮áya?	çaya	0	t̮áya	çaya	taya	where			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l06	6	Baúki	Bawki	0	Baúki	Bawki	bauki	father			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l06	7	keínekra	kêynêkra	0	keínek	kêynêk	keinek	girl			medium	Contextual ra split; function checked against project ra conventions.
+Sage vom Vogel go'in	g04_l06	7	keínekra	kêynêkra	1	ra	ra	ra	RECIP	postposition	case_or_relation=contextual	medium	Muller 1865, ZGP-0336; project glossing_conventions.tsv keeps ra contextual.
+Sage vom Vogel go'in	g04_l06	8	vā:	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l06	9	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l06	10	ńezā́na	nyêzana	0	ńezā́na	nyêzana	nezana	I do not know			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l07	0	sé̱ra	sera	0	sé̱ra	sera	sera	year			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l07	1	šai,	şay	0	šai	şay	sai	went			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l07	2	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l07	3	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l07	4	mé̱rdu.	merdu	0	mé̱rdu	merdu	merdu	died			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l07	5	Keínek	Kêynêk	0	Keínek	Kêynêk	keinek	girl			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l07	6	be̱rmáye,	bermayê	0	be̱rmáye	bermayê	bermaye	wept			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l07	7	āmeí,	amêy	0	āmeí	amêy	amei	came			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l07	8	ši	şi	0	ši	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l07	9	aúki	awki	0	aúki	awki	auki	stream			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l07	10	ver,	vêr	0	ver	vêr	ver	front			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l08	0	desmā́t̮	dêsmaç	0	desmā́t̮	dêsmaç	desmat	ablution			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l08	1	geraut,	gêrawt	0	geraut	gêrawt	geraut	took			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l08	2	di̥	dı	0	di̥	dı	di	two			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l08	3	rekā́ti	rêkati	0	rekā́ti	rêkati	rekati	cycles			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l08	4	nemā́d̮	nêmac	0	nemā́d̮	nêmac	nemad	prayer			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l08	5	kerd,	kêrd	0	kerd	kêrd	kerd	did			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l08	6	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l08	7	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l08	8	ya	ya	0	ya	ya	ya	she			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l08	9	rā́bi,	rabi	0	rā́bi	rabi	rabi	Lord			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l08	10	ti̥	tı	0	ti̥	tı	ti	you			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l08	11	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l08	12	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l09	0	gō’íne	goinê	0	gō’íne	goinê	goine	go'in (eagle-owl)			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l09	1	kéri.	kêri	0	kéri	kêri	keri	make			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l09	2	Aúd̮a	Awca	0	Aúd̮a	Awca	auda	at once			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l09	3	bī	bi	0	bī	bi	bi	was			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l09	4	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l09	5	gō’íne,	goinê	0	gō’íne	goinê	goine	go'in (eagle-owl)			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l09	6	ferā́ye,	fêrayê	0	ferā́ye	fêrayê	feraye	flew			unsplit	Current word-level token gloss; no confident internal split applied.
+Sage vom Vogel go'in	g04_l09	7	šī.	şi	0	šī	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.

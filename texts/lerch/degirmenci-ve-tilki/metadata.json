@@ -1,0 +1,13 @@
+{
+  "id": "lerch-degirmenci-ve-tilki",
+  "title": "Değirmenci ve Tilki",
+  "title_lerch": "Mährchen von dem Müller und Fuchs",
+  "author_collector": "Peter Lerch",
+  "language": "Zazaki",
+  "dialect_region_note": "Sivan-area Zazaki tale material as discussed in local project notes.",
+  "status": "reviewed working edition",
+  "line_count": 56,
+  "token_count": 614,
+  "lltools_payload": "text-document.json",
+  "reviewed_transcription_synced_at": "2026-05-19"
+}

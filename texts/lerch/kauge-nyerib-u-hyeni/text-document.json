@@ -27,7 +27,7 @@
     "created_from": "Lerch Nerib-Hyeni review bundle in Language/Z/Dictionaries/Lerch",
     "exported_at": "2026-05-11",
     "reader_unit": "paragraph",
-    "reviewed_transcription_synced_at": "2026-05-15"
+    "reviewed_transcription_synced_at": "2026-05-19"
   },
   "summary": {
     "lines": 122,
@@ -84,7 +84,7 @@
   "reading_units": [
     {
       "id": "u001",
-      "source": "Veri coan yaw merdûm Nyêribra werişt şê Dawzra agêyra, amê zımêy 'Hyêni. Yaw merdûm 'Hyênêyic zımecê xoêri cit kêrdini.",
+      "source": "Veri coan yaw merdüm Nyêribra werişt şê Dawzra agêyra, amê zımêy 'Hyêni. Yaw merdüm 'Hyênêyic zımecê xoêri cit kêrdini.",
       "translations": {
         "tr": "Bir zamanlar Nyêrib'den bir adam yola çıkıp Dawz'a gitti; Dawz'dan Hyêni toprağına geldi. Hyêni'li bir adam kendi toprağını sürüyordu.",
         "en": "Once a man from Nerib set out and went to Dauz; from Dauz he came into the territory of Hyeni. A man from Hyeni was plowing his land.",
@@ -93,7 +93,7 @@
     },
     {
       "id": "u002",
-      "source": "Enoê merdûmû Nyêrbic amê enoê merdûmi 'Hyênêyicra va kê: tı çi bêni etya cit kêni. Merdûmi 'Hyênêyici va kê: ez ğızmkari Mêla Hasêyni Mûğaraya, etya cit kêna.",
+      "source": "Enoê merdümu Nyêrbic amê enoê merdümi 'Hyênêyicra va kê: tı çi bêni etya cit kêni. Merdümi 'Hyênêyici va kê: ez ğızmkari Mêla Hasêyni Muğaraya, etya cit kêna.",
       "translations": {
         "tr": "Nyêribli adam Hyêni'li adama yaklaşıp dedi ki: 'Sen kimsin de burada çift sürüyorsun?' Hyêni'li adam dedi ki: 'Ben Mela Haseynê Mûğara'nın hizmetçisiyim; burada çift sürüyorum.'",
         "en": "That Nerib man went up to the Hyeni man and said: 'Who are you, that you are plowing here?' The Hyeni man said: 'I am a servant of Mela Hasein Muyara, and I am plowing here.'",
@@ -102,7 +102,7 @@
     },
     {
       "id": "u003",
-      "source": "Mêrdûmi Nyêrbic va kê: Mêla Hasêyni Mûğara xoêra cişmêni mênû, wexti piriki mıdê yaw ğızmkari piriki min kiştû, ez êyroê 'hêyfi twêra gênû. Merdûmi 'Hyênêyici va kê: ez ğızmkara, derdi twê ebê mê dermang nyêbênû.",
+      "source": "Mêrdümi Nyêrbic va kê: Mêla Hasêyni Muğara xoêra cişmêni mênu, wexti piriki mıdê yaw ğızmkari piriki min kiştu, ez êyroê 'hêyfi twêra gênu. Merdümi 'Hyênêyici va kê: ez ğızmkara, derdi twê ebê mê dermang nyêbênu.",
       "translations": {
         "tr": "Nyêribli adam dedi ki: 'Mela Haseynê Mûğara benim düşmanımdır; dedemin zamanında dedemin bir hizmetçisini öldürdü, bugün senden intikam alacağım.' Hyêni'li adam dedi ki: 'Ben bir hizmetçiyim; senin derdine benden derman olmaz.'",
         "en": "The Nerib man said: 'Mela Hasein Muyara is my enemy; in my grandfather's time he killed one of my grandfather's servants, and today I will take revenge on you.' The man from Hyeni said: 'I am a servant; your grief will find no remedy through me.'",
@@ -111,7 +111,7 @@
     },
     {
       "id": "u004",
-      "source": "Merdûmi Nyêrbici va kê: ez twê kişêna. Merdûmi 'Hyênêyici şê çeki xoê gêrawti tırsi xoê kêrd, xo dest şımşyêri xoê werand, şê merdûmi Nyêrbici sêr.",
+      "source": "Merdümi Nyêrbici va kê: ez twê kişêna. Merdümi 'Hyênêyici şê çeki xoê gêrawti tırsi xoê kêrd, xo dest şımşyêri xoê werand, şê merdümi Nyêrbici sêr.",
       "translations": {
         "tr": "Nyêribli adam dedi ki: 'Seni öldüreceğim.' Hyêni'li adam silahlarını almaya gitti, tabancalarını aldı, beline soktu, kılıcını eline aldı ve Nyêribli adamın üzerine yürüdü.",
         "en": "The Nerib man said: 'I will kill you.' The Hyeni man went to fetch his weapons.",
@@ -120,7 +120,7 @@
     },
     {
       "id": "u005",
-      "source": "Merdûmi Nyêrbici wica vazda, şê çeki merdûmi 'Hyênici têra gêrawt, pêy seri merdûmi 'Hyênici têra kerd kişt, cadê ver da, şê Nyêrib Xalef ağay 'hêt, yêra va kê: mê yaw merdûmû 'Hyênêyic kişt. Xalef ağay yê merdûmra va kê: merdûmû 'Hyênêyicû tû kiştû, merdûmi qamyû.",
+      "source": "Merdümi Nyêrbici wica vazda, şê çeki merdümi 'Hyênici têra gêrawt, pêy seri merdümi 'Hyênici têra kerd kişt, cadê ver da, şê Nyêrib Xalef ağay 'hêt, yêra va kê: mê yaw merdümu 'Hyênêyic kişt. Xalef ağay yê merdümra va kê: merdümu 'Hyênêyicu tu kiştu, merdümi qamyu.",
       "translations": {
         "tr": "Nyêribli adam hemen sıçradı, Hyêni'linin silahlarını elinden aldı, başını kesti, onu öldürdü, cesedini bir yana attı, Nyêrib'e Xalef Ağa'nın yanına gitti ve ona dedi ki: 'Hyêni'lilerden bir adam öldürdüm.' Xalef Ağa o adama dedi ki: 'Öldürdüğün Hyêni'li nasıl bir adamdı?'",
         "en": "He took his pistols, put them in his belt, took his sword in his hand, and went at the Nerib man. The Nerib man sprang up at once, went to the Hyeni man, wrenched the weapons from him, cut off his head, killed him, and threw the body aside.",
@@ -129,7 +129,7 @@
     },
     {
       "id": "u006",
-      "source": "Yê merdûm Xalef ağayra va kê: ğızmkari Mêla 'Hasêyni Mûğeraw. Xalef ağa va kê: mûqaytê xoê bi, şıma merdûmi şari kişti, şar yênû, mali şıma bênû, şıma kişênû.",
+      "source": "Yê merdüm Xalef ağayra va kê: ğızmkari Mêla 'Hasêyni Muğeraw. Xalef ağa va kê: muqaytê xoê bi, şıma merdümi şari kişti, şar yênu, mali şıma bênu, şıma kişênu.",
       "translations": {
         "tr": "O adam Xalef Ağa'ya dedi ki: 'Mela Haseynê Mûğara'nın hizmetçisiydi.' Xalef Ağa dedi ki: 'Dikkatli ol; yabancı bir adam öldürdünüz, yabancı gelir, malınızı alır ve sizi öldürür.'",
         "en": "Then he went to Nerib, to Xalef Agha, and said to him: 'I killed a man from Hyeni.' Xalef Agha said to that man: 'The Hyeni man whom you killed, what sort of man was he?'",
@@ -138,7 +138,7 @@
     },
     {
       "id": "u007",
-      "source": "Yê merdûmi va kê Xalef ağayra: ağa, 'haberê berşawê Nyêribû kic, Dêyştêy 'Henzi wa mûqaytê xoê bi, wa malê xoê byê, wayêr nyêkêri, qam rocû kê 'habêrê 'Hyênêra amêy wa çaw çêhetya nyêşirû ma kawğe bıkêri. Xalef ağay 'habêrê erşawûtê Nyêribû kic Wesman ağayri va kê: 'habêrê berşaw Dêyştêy 'Henzi Mê'hmêt ağayri.",
+      "source": "Yê merdümi va kê Xalef ağayra: ağa, 'haberê berşawê Nyêribu kic, Dêyştêy 'Henzi wa muqaytê xoê bi, wa malê xoê byê, wayêr nyêkêri, qam rocu kê 'habêrê 'Hyênêra amêy wa çaw çêhetya nyêşiru ma kawğe bıkêri. Xalef ağay 'habêrê erşawutê Nyêribu kic Wesman ağayri va kê: 'habêrê berşaw Dêyştêy 'Henzi Mê'hmêt ağayri.",
       "translations": {
         "tr": "O adam Xalef Ağa'ya dedi ki: 'Ağa, Küçük Nyêrib'e ve Deştê Henzi'ye haber gönder; dikkatli olsunlar, mallarını sahipsiz bırakmasınlar. Hyêni'den haber geldiği gün kimse eksik olmasın, savaşacağız.' Xalef Ağa Küçük Nyêrib'e, Wesman Ağa'ya haber gönderdi: 'Haberi Deştê Henzi'de Mêhmêt Ağa'ya gönder.'",
         "en": "That man said to Xalef Agha: 'He was a servant of Mela Hasein Muyara.' Xalef Agha said: 'Be careful; you have killed a stranger.",
@@ -147,7 +147,7 @@
     },
     {
       "id": "u008",
-      "source": "Wesman ağa 'haber erşawûtê Dêyştêy 'Henzi Mê'hmêt ağayri va kê: têra rêki xoê bıkêri, 'Hyênêyici madê kawğe kêni, barût bigêri, 'hadre kêri, qam rocûkê 'Hyênêra 'haberê amêyyê ma kawğe kêni. Mê'hmêt ağay 'habêr erşawûtê Wêsman ağayri va kê: Xalef ağayra vadi: ma 'ha 'hadrêy, qam rocûkê 'haberê 'Hyênêra amêyyê, kawğe ma kawğaw.",
+      "source": "Wesman ağa 'haber erşawutê Dêyştêy 'Henzi Mê'hmêt ağayri va kê: têra rêki xoê bıkêri, 'Hyênêyici madê kawğe kêni, barut bigêri, 'hadre kêri, qam rocukê 'Hyênêra 'haberê amêyê ma kawğe kêni. Mê'hmêt ağay 'habêr erşawutê Wêsman ağayri va kê: Xalef ağayra vadi: ma 'ha 'hadrêy, qam rocukê 'haberê 'Hyênêra amêyê, kawğe ma kawğaw.",
       "translations": {
         "tr": "Wesman Ağa Deştê Henzi'de Mêhmêt Ağa'ya haber gönderdi: 'Hazırlan; Hyêni'liler bizimle savaşacak. Barut al, hazır ol; Hyêni'den haber geldiği gün savaşacağız.' Mêhmêt Ağa Wesman Ağa'ya haber gönderdi: 'Xalef Ağa'ya söyle: hazırız; Hyêni'den haber geldiği gün savaşacağız.'",
         "en": "A stranger will come into your house, take your property, and kill you.' That man said to Xalef Agha: 'Agha, send word to Little Nerib and Deste Henzi that they should be on guard and keep their property from being left unprotected. On whatever day the news comes from Hyeni, let no one be absent and we will fight.'",
@@ -156,7 +156,7 @@
     },
     {
       "id": "u009",
-      "source": "Kê aşmi mênd, Daqma begi 'Hyêni 'habêrê erşawûtê Nyêribû pil Xalef ağayri: twê çiri enoê merdûmi mê kiştû, waxtê xoêdê 'hadre bê, roci pangcinê kawğe mê kawğaw. Xalef ağay 'habêra xoê erşawûtê 'Hyênê Daqma begiri va kê: roci pangcinê, nyê mêyştê byê, ma kawğê bıkêri.",
+      "source": "Kê aşmi mênd, Daqma begi 'Hyêni 'habêrê erşawutê Nyêribu pil Xalef ağayri: twê çiri enoê merdümi mê kiştu, waxtê xoêdê 'hadre bê, roci pangcinê kawğe mê kawğaw. Xalef ağay 'habêra xoê erşawutê 'Hyênê Daqma begiri va kê: roci pangcinê, nyê mêyştê byê, ma kawğê bıkêri.",
       "translations": {
         "tr": "Bir ay geçince Hyêni'li Daqma Bey Büyük Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Benim bu adamımı neden öldürdün? Kendi vaktinde hazır ol; beş gün içinde savaşacağız.' Xalef Ağa Hyêni'de Daqma Bey'e haber gönderdi: 'Beş gün içinde, olmazsa yarın gel; savaşalım.'",
         "en": "Xalef Agha sent word to Little Nerib, to Wesman Agha, saying: 'Send the news to Mehmet Agha of Deste Henzi.' Wesman Agha sent word to Mehmet Agha of Deste Henzi, saying: 'Prepare yourself. The Hyeni people will fight us; take powder, make ready, and when the news comes from Hyeni, we will fight.'",
@@ -165,7 +165,7 @@
     },
     {
       "id": "u010",
-      "source": "Daqma begi zerêy 'Hyênidê dêlali vêyng da: nyêçaw ğarib şahrêstan bıngêi, pyêrû çaw byê sila megiri, ez Daqma begi va kê: qamêk vyêna byê sila serêy cêy dana pûroê. Daqma begi va kê: Nyêribra Halef ağayra 'haberê amêya: mêyştê kawğaw, çaw kêyyêdê desti çwa gêna çaw mevindi, mêyştê kawyaw.",
+      "source": "Daqma begi zerêy 'Hyênidê dêlali vêyng da: nyêçaw ğarib şahrêstan bıngêi, pyêru çaw byê sila megiri, ez Daqma begi va kê: qamêk vyêna byê sila serêy cêy dana püroê. Daqma begi va kê: Nyêribra Halef ağayra 'haberê amêya: mêyştê kawğaw, çaw kêyêdê desti çwa gêna çaw mevindi, mêyştê kawyaw.",
       "translations": {
         "tr": "Daqma Bey Hyêni içinde tellala bağırttı: 'Hiçbir yabancı şehre girmesin, kimse izinsiz toplanmasın. Ben Daqma Bey diyorum: izinsiz gördüğüm kişinin başını kestiririm.' Daqma Bey dedi ki: 'Nyêrib'den Xalef Ağa'dan haber geldi: yarın savaş var. Evde eline sopa alabilen herkes gelsin, kimse kalmasın; yarın savaş var.'",
         "en": "Mehmet Agha sent word to Wesman Agha, saying: 'Tell Xalef Agha that we are ready; when the news comes from Hyeni, we will fight.' When a month had passed, Daqma Beg of Hyeni sent word to Great Nerib, to Xalef Agha: 'Why did you kill that man of mine? Be ready at your time; in five days we will fight.'",
@@ -174,7 +174,7 @@
     },
     {
       "id": "u011",
-      "source": "Daqma beg 'habêrê erşawûtê Nyêrib Xalef ağayri va kê: eskêri mê 'hadraw, mêyştê ma yêni pêy rezan. Xalef ağa 'haber erşawûtê Daqma begiri 'Hyênê va kê: emşoê mûqaytê xoê bê, ez emşoê şahrêstan vêşnêna.",
+      "source": "Daqma beg 'habêrê erşawutê Nyêrib Xalef ağayri va kê: eskêri mê 'hadraw, mêyştê ma yêni pêy rezan. Xalef ağa 'haber erşawutê Daqma begiri 'Hyênê va kê: emşoê muqaytê xoê bê, ez emşoê şahrêstan vêşnêna.",
       "translations": {
         "tr": "Daqma Bey Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Ordum hazır; yarın bağların arasından geleceğiz.' Xalef Ağa Hyêni'deki Daqma Bey'e haber gönderdi: 'Bu gece dikkatli ol; bu gece şehri yakacağım.'",
         "en": "Xalef Agha sent his word to Hyeni, to Daqma Beg, saying: 'In five days, if not tomorrow, we will fight.' Daqma Beg had a herald cry out inside Hyeni: 'Let no stranger enter the town, and let no gathering take place without permission. I, Daqma Beg, say: whoever I see without permission, I will have his head cut off.'",
@@ -183,7 +183,7 @@
     },
     {
       "id": "u012",
-      "source": "Daqma begi eskêri xoê hemê top kêrd, eskêr pyêrû kêrand pêy kûnaği Temir begi, barût, qırqışûn da eskêri xoê, êspar vici, pêyye pyêrû erşawût pêy kûçan, êspar pyêrû erşawût pêy rezan. Şefak bestya bıroşt 'habêr erşawûtê Nyêrib Xalef ağayri va kê: têrês, emşoê 'heta soba ez nyê ra kawta, sozi twê sênyênû, sozû tê byê kawğe xoêri vyênê, eskêri mê 'hadraw.",
+      "source": "Daqma begi eskêri xoê hemê top kêrd, eskêr pyêru kêrand pêy kunaği Temir begi, barut, qırqışun da eskêri xoê, êspar vici, pêye pyêru erşawut pêy kuçan, êspar pyêru erşawut pêy rezan. Şefak bestya bıroşt 'habêr erşawutê Nyêrib Xalef ağayri va kê: têrês, emşoê 'heta soba ez nyê ra kawta, sozi twê sênyênu, sozu tê byê kawğe xoêri vyênê, eskêri mê 'hadraw.",
       "translations": {
         "tr": "Daqma Bey bütün ordusunu topladı, Temir Bey'in evinin önünde bir araya getirdi, askerlerine barut ve kurşun verdi, ata bindi, bütün piyadeleri sokaklardan ve bütün atlıları bağların arasından gönderdi. Şafak söküp sabah aydınlanırken Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Lanetli, bu gece sabaha kadar uyumadım; sözün ne oldu, hani savaşa gelecektin? Ordum hazır.'",
         "en": "Daqma Beg said: 'News has come from Xalef Agha in Nerib: tomorrow there will be a fight; in every house, anyone who can take a stick in his hand must not stay behind; tomorrow there will be a fight.' Daqma Beg sent word to Nerib, to Xalef Agha, saying: 'My army is ready; tomorrow we will come through the vineyards.' Xalef Agha sent word to Daqma Beg in Hyeni, saying: 'Be on guard tonight; I will burn the town tonight.'",
@@ -192,7 +192,7 @@
     },
     {
       "id": "u013",
-      "source": "Xalef ağa werişt bê êspar, dûmilbazi da pûroê, kawt eskêri xoê ver va kê eskêri xoêra: metêrsi, yê Tırki, yê nêşyêni kawğe bıki, ma cang mırdi aşirani, metêrsi, ez 'ha şıma ver, kêykê ez merda şıma 'hema şyêri kawğê. Eskêri Xalef ağay va kê, peki, ağa, 'hetakê ma nyêmiri ma nyêverdani tê, şyêri kawğe.",
+      "source": "Xalef ağa werişt bê êspar, dumilbazi da püroê, kawt eskêri xoê ver va kê eskêri xoêra: metêrsi, yê Tırki, yê nêşyêni kawğe bıki, ma cang mırdi aşirani, metêrsi, ez 'ha şıma ver, kêykê ez merda şıma 'hema şyêri kawğê. Eskêri Xalef ağay va kê, peki, ağa, 'hetakê ma nyêmiri ma nyêverdani tê, şyêri kawğe.",
       "translations": {
         "tr": "Xalef Ağa ata bindi, davulu çaldırdı, ordusunun önüne geçti ve askerlerine dedi ki: 'Korkmayın; onlar Türk'tür, savaşmayı bilmezler. Biz yiğit aşiret adamlarıyız; korkmayın, ben sizin önünüzdeyim; ben ölsem bile siz yine savaşa gidin.' Xalef Ağa'nın askerleri dedi ki: 'Peki Ağa; biz ölmedikçe seni bırakmayız, savaşa gideriz.'",
         "en": "Daqma Beg gathered his whole army, assembled it before Temir Beg's house, gave powder and lead to his army, and mounted. He sent all the infantry over the meadows and all the horsemen through the vineyards. At daybreak, as morning was coming on, he sent word to Xalef Agha in Nerib, saying: 'Accursed one, I did not sleep until morning tonight.",
@@ -201,7 +201,7 @@
     },
     {
       "id": "u014",
-      "source": "Xalef ağa va kê: afêrêm, ağalêrêm. Xalef ağa kawt eskêri xoê ver, şi vecyay dyari 'Hyêni, awnyay kê: eskêri Daqma begi pyêrû 'ha rûnistê, êspar kay kênû, qamûk byû pêyye, qamûk na wênû, qamûk govêndi kênû.",
+      "source": "Xalef ağa va kê: afêrêm, ağalêrêm. Xalef ağa kawt eskêri xoê ver, şi vecyay dyari 'Hyêni, awnyay kê: eskêri Daqma begi pyêru 'ha runistê, êspar kay kênu, qamuk byu pêye, qamuk na wênu, qamuk govêndi kênu.",
       "translations": {
         "tr": "Xalef Ağa dedi ki: 'Aferin ağalarım.' Xalef Ağa ordusunun önüne geçti, Hyêni toprağına çıktı ve baktı ki Daqma Bey'in bütün ordusu orada oturuyor: kimi at sürüyor, kimi yaya, kimi yemek yiyor, kimi govend çekiyor.",
         "en": "What happened to your promise, the promise that you would come to fight? My army is ready.' Xalef Agha rose, mounted his horse, had the drum beaten, and put himself at the head of his army.",
@@ -219,7 +219,7 @@
     },
     {
       "id": "u016",
-      "source": "Daqma beg werişt bê êspar, venga eskêri xoê da va kê: kêyyê 'harêbya yêni, eskêri Xalêf ağay amê, warzi, şyêri metırisi. Xalef ağay eskêri xoêra va kê: çewi eskêri Daqma begi vêra medi, heminê bıkşi.",
+      "source": "Daqma beg werişt bê êspar, venga eskêri xoê da va kê: kêyê 'harêbya yêni, eskêri Xalêf ağay amê, warzi, şyêri metırisi. Xalef ağay eskêri xoêra va kê: çewi eskêri Daqma begi vêra medi, heminê bıkşi.",
       "translations": {
         "tr": "Daqma Bey ata bindi, ordusuna seslenip dedi ki: 'Yerlerinize geçin; Xalef Ağa'nın ordusu geldi. Kalkın, gidin, korkmayın.' Xalef Ağa ordusuna dedi ki: 'Daqma Bey'in ordusundan kimse kaçmasın; hepsini öldürün.'",
         "en": "I am with you, and even if I die, you must still go into battle.' Xalef Agha's army said: 'Very well, Agha; as long as we are not dead, we will not leave you. We will go into battle.'",
@@ -246,7 +246,7 @@
     },
     {
       "id": "u019",
-      "source": "Eskêri Xalef ağay kawta dımê berdi, kerdi zerêy şahrêstang, yaw ma'halay 'Hyêni veşnay, serêy Xalil êfêndi têra kêrd, ard, da Xalef ağayra. Daqma begi va kê: eman êfêndim, ez kawğe nyêkêna, eskêri mê çinû.",
+      "source": "Eskêri Xalef ağay kawta dımê berdi, kerdi zerêy şahrêstang, yaw ma'halay 'Hyêni veşnay, serêy Xalil êfêndi têra kêrd, ard, da Xalef ağayra. Daqma begi va kê: eman êfêndim, ez kawğe nyêkêna, eskêri mê çinu.",
       "translations": {
         "tr": "Xalef Ağa'nın ordusu peşlerine düştü, şehre girdi, Hyêni'de bir mahalleyi yaktı, Xalil Efendi'nin başını kesti, getirip Xalef Ağa'ya verdi. Daqma Bey dedi ki: 'Aman efendim, artık savaşmayacağım; ordum kalmadı.'",
         "en": "Xalef's army said to Xalef Agha: 'Give us permission, and watch.' Xalef Agha said: 'March!' Xalef Agha's army shouted 'wake, wake.'",
@@ -255,7 +255,7 @@
     },
     {
       "id": "u020",
-      "source": "Xalef ağay 'haber erşawûtê Daqma begiri va kê: şahrêstanda byê tebêr, ez yêna şahrêstan veşnêna. Daqma begi wida yaw koêle erşawût Xalef ağayri va kê: eman êfêndim, çawdi ma çinû, nyêşyêna kawğe bıka, tê mıdê çitaw kawğe kêni?",
+      "source": "Xalef ağay 'haber erşawutê Daqma begiri va kê: şahrêstanda byê tebêr, ez yêna şahrêstan veşnêna. Daqma begi wida yaw koêle erşawut Xalef ağayri va kê: eman êfêndim, çawdi ma çinu, nyêşyêna kawğe bıka, tê mıdê çitaw kawğe kêni?",
       "translations": {
         "tr": "Xalef Ağa Daqma Bey'e haber gönderdi: 'Şehirden dışarı çık; şehri yakmaya geliyorum.' Daqma Bey hemen Xalef Ağa'ya bir kürk gönderip dedi ki: 'Aman efendim, kimsem yok; savaşamam. Benimle neden savaşacaksın?'",
         "en": "Thirty-four men from Daqma Beg's army were killed, and Daqma Beg's army fled. The army of Xalef Agha pursued them, entered the town, and burned one mahalle of Hyeni. They cut off Xalil Efendi's head, brought it, and gave it to Xalef Agha.",
@@ -264,7 +264,7 @@
     },
     {
       "id": "u021",
-      "source": "ez tê nyêyya. Xalef ağay va kê: byê eskêri ez dana twê, şwê byê mıdê kawğe dıkê, hêta hiryê roci kawğe mê kawğaw, ez eskêri twêra we şahrêstani twêra çewi nyêvêrdana, heminê kışêna, twê kışêna.",
+      "source": "ez tê nyêya. Xalef ağay va kê: byê eskêri ez dana twê, şwê byê mıdê kawğe dıkê, hêta hiryê roci kawğe mê kawğaw, ez eskêri twêra we şahrêstani twêra çewi nyêvêrdana, heminê kışêna, twê kışêna.",
       "translations": {
         "tr": "'Ben senin üzerine gelmiyorum.' Xalef Ağa dedi ki: 'Gel; sana asker vereceğim, git benimle savaş. Üç güne kadar savaşacağız; ordun ve şehrinden kimseyi bırakmayacağım, hepsini öldüreceğim, seni de öldüreceğim.'",
         "en": "Daqma Beg said: 'Mercy, my lord, I will not fight; I have no army.' Xalef Agha sent word to Daqma Beg, saying: 'Leave the town; I am coming to burn the town.' Daqma Beg at once sent a fur coat to Xalef Agha, saying: 'Mercy, my lord; I have no one.",
@@ -273,7 +273,7 @@
     },
     {
       "id": "u022",
-      "source": "cênyay twê ez ana. Daqma begi 'haberê erşawûtê Xalef ağayri va kê: dês roci mawlêt bıdê mê.",
+      "source": "cênyay twê ez ana. Daqma begi 'haberê erşawutê Xalef ağayri va kê: dês roci mawlêt bıdê mê.",
       "translations": {
         "tr": "'Karını da götüreceğim.' Daqma Bey Xalef Ağa'ya haber gönderdi: 'Bana on gün mühlet ver.'",
         "en": "I cannot fight. Why do you want to fight with me? I am not going against you.'",
@@ -282,7 +282,7 @@
     },
     {
       "id": "u023",
-      "source": "Xalef ağa va kê: 'haici, wa twêri vist roc mawlêt, wicara pêy byê, ma kawğe bıki, ekê tê nyêri ez şahrêstan pyêrû veşnêna, serêy twê wêna. Daqma begi 'haberê erşawûtê Xalef ağayri va kê: 'hêta vist roc kawğe mê çinyû, wicara pêy ez twêri 'haberê erşawwêna.",
+      "source": "Xalef ağa va kê: 'haici, wa twêri vist roc mawlêt, wicara pêy byê, ma kawğe bıki, ekê tê nyêri ez şahrêstan pyêru veşnêna, serêy twê wêna. Daqma begi 'haberê erşawutê Xalef ağayri va kê: 'hêta vist roc kawğe mê çinyu, wicara pêy ez twêri 'haberê erşawêna.",
       "translations": {
         "tr": "Xalef Ağa dedi ki: 'Peki, sana yirmi gün mühlet olsun; sonra hemen gel, savaşalım. Gelmezsen bütün şehri yakarım, başını keserim.' Daqma Bey Xalef Ağa'ya haber gönderdi: 'Yirmi güne kadar savaşım yok; sonra sana haber göndereceğim.'",
         "en": "Xalef Agha said: 'Even without an army I will defeat you; come and fight me. In three days we will fight; I will spare none of your army nor of your town. I will kill everyone, and I will kill you; I will carry off your wife.'",
@@ -291,7 +291,7 @@
     },
     {
       "id": "u024",
-      "source": "Xalef ağa va kê: peki, êfêndim, 'haydi twêri izmû; vist roc mawlêt da Daqma begira. Daqma beg şê, eskêr toplê kêrd, 'hêta vist roc çêhêr hênzari eskêr toplê kêrd.",
+      "source": "Xalef ağa va kê: peki, êfêndim, 'haydi twêri izmu; vist roc mawlêt da Daqma begira. Daqma beg şê, eskêr toplê kêrd, 'hêta vist roc çêhêr hênzari eskêr toplê kêrd.",
       "translations": {
         "tr": "Xalef Ağa dedi ki: 'Peki efendim, sana izin olsun.' Daqma Bey'e yirmi gün mühlet verdi. Daqma Bey gitti, asker topladı ve yirmi gün içinde dört bin asker topladı.",
         "en": "Daqma Beg sent word to Xalef Agha, saying: 'Give me ten days of respite.' Xalef Agha said: 'All right; let there be twenty days of respite for you. After that, come at once and we will fight.",
@@ -300,7 +300,7 @@
     },
     {
       "id": "u025",
-      "source": "Vist û yaw roc bi temami, Daqma begi 'haber erşawûtê Nyêrib Xalef ağayri va kê: eskêri mê temamû, mêyştê ez yêna kawğe, kawğe mê kawğaw. Xalef ağay 'haberê erşawûtê Daqma begiri va kê: waxtê xoêdê 'hadrê bê, ez mêyştê şêfaqdê yêna dûzi 'Hemyêra, tê eskêri xoê bıgê, byê pêy rezan metırisi, ma kawğe bıki, nya tê serêy mê wêni, nya ez serêy twê wêna.",
+      "source": "Vist û yaw roc bi temami, Daqma begi 'haber erşawutê Nyêrib Xalef ağayri va kê: eskêri mê temamu, mêyştê ez yêna kawğe, kawğe mê kawğaw. Xalef ağay 'haberê erşawutê Daqma begiri va kê: waxtê xoêdê 'hadrê bê, ez mêyştê şêfaqdê yêna duzi 'Hemyêra, tê eskêri xoê bıgê, byê pêy rezan metırisi, ma kawğe bıki, nya tê serêy mê wêni, nya ez serêy twê wêna.",
       "translations": {
         "tr": "Yirmi bir gün tamam olunca Daqma Bey Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Ordum hazır; yarın savaşa geliyorum, savaşacağız.' Xalef Ağa Daqma Bey'e haber gönderdi: 'Kendi vaktinde hazır ol; yarın şafakta Dûzê Hemyê'ye geleceğim. Ordunu al, bağların arasından gel, korkma; savaşalım, ya sen benim başımı kesersin ya da ben senin başını keserim.'",
         "en": "If you do not come, I will burn the town completely and cut off your head.' Daqma Beg sent word to Xalef Agha, saying: 'There will be no fighting for twenty days; after that I will send you word.' Xalef Agha said: 'Very well, my lord, it is permitted to you'; he gave Daqma Beg twenty days of respite.",
@@ -309,7 +309,7 @@
     },
     {
       "id": "u026",
-      "source": "Daqma begi 'haber erşawûtê Xalef ağayri va kê: mêvındê, şandê yêni, sêbah byê. Xalef ağa 'habêr erşawûtê Daqma begiri va kê: ena 'halê ez ama.",
+      "source": "Daqma begi 'haber erşawutê Xalef ağayri va kê: mêvındê, şandê yêni, sêbah byê. Xalef ağa 'habêr erşawutê Daqma begiri va kê: ena 'halê ez ama.",
       "translations": {
         "tr": "Daqma Bey Xalef Ağa'ya haber gönderdi: 'Gecikme, akşam gel; sabah olunca gel.' Xalef Ağa Daqma Bey'e haber gönderdi: 'Bu defa geliyorum.'",
         "en": "Daqma Beg went and gathered troops; within twenty days he gathered four thousand men. When twenty-one days were complete, Daqma Beg sent word to Nerib, to Xalef Agha, saying: 'My army is ready; tomorrow I am coming to battle; we will fight.' Xalef Agha sent word to Daqma Beg, saying: 'Be ready at your time; tomorrow at dawn I will come to the Hemyer field.",
@@ -318,7 +318,7 @@
     },
     {
       "id": "u027",
-      "source": "Daqma begi 'haber erşawûtê Xalef ağayri va kê: warzê, byê, ez çimani twê vecêna. Xalef ağa werişt, dûmilbazê day pûroê.",
+      "source": "Daqma begi 'haber erşawutê Xalef ağayri va kê: warzê, byê, ez çimani twê vecêna. Xalef ağa werişt, dumilbazê day püroê.",
       "translations": {
         "tr": "Daqma Bey Xalef Ağa'ya haber gönderdi: 'Kalk gel; gözlerini çıkaracağım.' Xalef Ağa kalktı, davulları çaldırdı.",
         "en": "Bring your army; come through the vineyards to the fortress, and we will fight until either you cut off my head or I cut off yours.' Daqma Beg sent word to Xalef Agha, saying: 'Do not delay; I will come in the morning; be there.' Xalef Agha sent word to Daqma Beg, saying: 'This time I am coming.'",
@@ -327,7 +327,7 @@
     },
     {
       "id": "u028",
-      "source": "Êskêri Xalef ağa pyêrû ame pyêser, Xalef ağa va kê eskêri xoêra: bawni, ağalêr, ma şwêni kawğe, mêtêrsi, eskêri Daqma begi zavû, hema pyêrû Tırki, nyêşêngi madê kawğe bıki, ma pyêrû cang mırdi kırdani, myêrdêy aşirani, metêrsi, ma 'ha şwêni, 'hetakê serêy mê nyêwênû, şım çêywiri çı çinyû. Eskêri Xalef ağay va kê: ma 'ha şwêni, 'hêta nyêmiri twêri çı çinyû.",
+      "source": "Êskêri Xalef ağa pyêru ame pyêser, Xalef ağa va kê eskêri xoêra: bawni, ağalêr, ma şwêni kawğe, mêtêrsi, eskêri Daqma begi zavu, hema pyêru Tırki, nyêşêngi madê kawğe bıki, ma pyêru cang mırdi kırdani, myêrdêy aşirani, metêrsi, ma 'ha şwêni, 'hetakê serêy mê nyêwênu, şım çêywiri çı çinyu. Eskêri Xalef ağay va kê: ma 'ha şwêni, 'hêta nyêmiri twêri çı çinyu.",
       "translations": {
         "tr": "Xalef Ağa'nın bütün ordusu toplandı. Xalef Ağa ordusuna dedi ki: 'Dinleyin ağalar, savaşa gidiyoruz. Korkmayın; Daqma Bey'in ordusu çoktur ama hepsi Türk'tür, bizimle savaşmayı bilmezler. Biz hepimiz yiğit Kürtleriz, aşiret adamlarıyız; korkmayın, gidiyoruz; benim başım kesilmedikçe size hiçbir şey olmaz.' Askerleri Xalef Ağa'ya dedi ki: 'Gidiyoruz; biz ölmedikçe sana bir şey olmaz.'",
         "en": "Daqma Beg sent word to Xalef Agha saying: 'Rise and come; I will gouge out your eyes.' Xalef Agha rose and had the drums beaten. Xalef Agha's army all came together, and Xalef Agha said to his army: 'Listen, aghas, we are going to battle; do not be afraid.",
@@ -336,7 +336,7 @@
     },
     {
       "id": "u029",
-      "source": "Xalef ağa va kê: afêrêm ağalêrim. Xalef ağa werişt, kawt eskêri xoê vêr, şi vecyay dyari 'Hyêni, awnyay kê eskêri Daqma begi pyêrû tabûrê bêsta pêy rezandê.",
+      "source": "Xalef ağa va kê: afêrêm ağalêrim. Xalef ağa werişt, kawt eskêri xoê vêr, şi vecyay dyari 'Hyêni, awnyay kê eskêri Daqma begi pyêru taburê bêsta pêy rezandê.",
       "translations": {
         "tr": "Xalef Ağa dedi ki: 'Aferin ağalarım.' Xalef Ağa kalktı, ordusunun önüne geçti, Hyêni toprağına çıktı ve baktı ki Daqma Bey'in ordusu bağların yanında fişekleri hazırlamış.",
         "en": "Daqma Beg's army is numerous, but they are all Turks; they do not know how to fight with us. We are all brave Kurds, tribal men; do not be afraid. We are going forward, and as long as my head is not cut off, nothing will happen to you.'",
@@ -363,7 +363,7 @@
     },
     {
       "id": "u032",
-      "source": "Xalef ağay eskêri xoê kêrand, ame Nyêribû, awnay kê: eskêri xoêdê şêyşti tên çinû, 'haber erşawûtê Daqma begiri va kê: şêyşti tên eskêri mêra çinû. Daqma begi 'haber erşawûtê Xalef ağayri va kê: eskêri twê şêyşti tên çinû, eskêri mê saw hêyştê tên çinû, pyêrû kişyay, byê mêytani xoê berê, mêytani mê waderê çawdê mê çinyû.",
+      "source": "Xalef ağay eskêri xoê kêrand, ame Nyêribu, awnay kê: eskêri xoêdê şêyşti tên çinu, 'haber erşawutê Daqma begiri va kê: şêyşti tên eskêri mêra çinu. Daqma begi 'haber erşawutê Xalef ağayri va kê: eskêri twê şêyşti tên çinu, eskêri mê saw hêyştê tên çinu, pyêru kişyay, byê mêytani xoê berê, mêytani mê waderê çawdê mê çinyu.",
       "translations": {
         "tr": "Xalef Ağa ordusunu geri çekti, Nyêrib'e geldi ve ordusunda altmış kişinin eksik olduğunu gördü. Daqma Bey'e haber gönderdi: 'Ordumdan altmış kişi eksik.' Daqma Bey Xalef Ağa'ya haber gönderdi: 'Senin ordudan altmış kişi eksik; benim ordudan yüz seksen kişi eksik, hepsi öldürüldü. Gel, ölülerini al; benim ölülerimi gömecek kimsem yok.'",
         "en": "Xalef Agha said: 'March!' The standard-bearer went against Daqma Beg's army, they collided, and they fought for two hours. At the end, Daqma Beg asked for mercy and said to Xalef Agha: 'I cannot fight with you.'",
@@ -372,7 +372,7 @@
     },
     {
       "id": "u033",
-      "source": "Xalef ağay merdûm erşawûti va kê: şyêri mêytani ma byari. Merdûm şi, mêyti ardi, ronişt.",
+      "source": "Xalef ağay merdüm erşawuti va kê: şyêri mêytani ma byari. Merdüm şi, mêyti ardi, ronişt.",
       "translations": {
         "tr": "Xalef Ağa adamlar gönderdi ve dedi ki: 'Gidin, ölülerimizi getirin.' Adamlar gitti, ölüleri getirdi ve orada kaldı.",
         "en": "Xalef Agha pulled his army back, came to Nerib, and saw that sixty men were missing from his army. He sent word to Daqma Beg, saying: 'Sixty men are missing from my army.' Daqma Beg sent word to Xalef Agha saying: 'Sixty men are missing from your army; one hundred and eighty are missing from mine, all of them killed.",
@@ -381,7 +381,7 @@
     },
     {
       "id": "u034",
-      "source": "Daqma begi 'haber erşawûtê ağani Zıriki, va kê: byêri mênû Xalef ağay daw pyêrû byêri, ma pya weşı ki. Ağay Zıriki werişti, amêy 'Hyênê, Daqma beg gêrawti, amêy Nyêrib kêy Xalef ağay.",
+      "source": "Daqma begi 'haber erşawutê ağani Zıriki, va kê: byêri mênu Xalef ağay daw pyêru byêri, ma pya weşı ki. Ağay Zıriki werişti, amêy 'Hyênê, Daqma beg gêrawti, amêy Nyêrib kêy Xalef ağay.",
       "translations": {
         "tr": "Daqma Bey Ziriki ağalarına haber gönderdi: 'Gelin, beni Xalef Ağa ile barıştırın; hepiniz gelin, barışalım.' Ziriki ağaları kalkıp Hyêni'ye geldiler, Daqma Bey'i aldılar ve Nyêrib'e, Xalef Ağa'nın evine geldiler.",
         "en": "Come and take your dead; I have no one to bury my dead.' Xalef Agha sent a man, saying: 'Go and bring our dead.' The man went, brought the dead, and stayed there.",
@@ -390,7 +390,7 @@
     },
     {
       "id": "u035",
-      "source": "Daqma beg şê, lawna Xalef ağay lingêrû, Xalef ağay lawna Daqma begi destrû. Xalef ağay dı sêy myêşna day Daqma begiri.",
+      "source": "Daqma beg şê, lawna Xalef ağay lingêru, Xalef ağay lawna Daqma begi destru. Xalef ağay dı sêy myêşna day Daqma begiri.",
       "translations": {
         "tr": "Daqma Bey gidip Xalef Ağa'nın ayaklarını öptü; Xalef Ağa Daqma Bey'in elini öptü. Xalef Ağa Daqma Bey'e iki yüz koyun verdi.",
         "en": "Daqma Beg sent word to the Ziriki aghas, saying: 'Come and reconcile me with Xalef Agha; all of you come so that we may make peace.' The Ziriki aghas rose, came to Hyeni, took Daqma Beg, and came to Nerib, to Xalef Agha's house. Daqma Beg went and kissed Xalef Agha's feet; Xalef Agha kissed Daqma Beg's hand.",
@@ -553,7 +553,7 @@
       "text": "Vé̱ri d̮ṓan yau me̱rdṳ́m Ńeríbra we̱ríšt šẹ̄ Daúzra ageíra,",
       "lerch": "Vé̱ri d̮ṓan yau me̱rdṳ́m Ńeríbra we̱ríšt šẹ̄ Daúzra ageíra,",
       "ipa": "ˈvɛri ˈd͡ʒoːan jaw mɛrˈdym ɲeˈribra wɛˈriʃt ʃe̝ː ˈdawzra aˈgejra",
-      "zazaki": "Veri coan yaw merdûm Nyêribra werişt şê Dawzra agêyra,",
+      "zazaki": "Veri coan yaw merdüm Nyêribra werişt şê Dawzra agêyra,",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -568,7 +568,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Veri coan yaw merdûm Nyêribra werişt şê Dawzra agêyra,"
+          "value": "Veri coan yaw merdüm Nyêribra werişt şê Dawzra agêyra,"
         },
         {
           "label": "ENGLISH",
@@ -660,7 +660,7 @@
         {
           "form": "me̱rdṳ́m",
           "ipa": "mɛrˈdym",
-          "zazaki": "merdûm",
+          "zazaki": "merdüm",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -669,7 +669,7 @@
           "morphemes": [
             {
               "form": "me̱rdṳ́m",
-              "normalized": "merdûm",
+              "normalized": "merdüm",
               "lemma": "merdum",
               "gloss": "man",
               "pos": "",
@@ -840,7 +840,7 @@
       "text": "āmé zi̥meí Hʿyẹ̄́ni. Yau me̱rdṳ́m Hʿyẹ̄́neyid̮ zi̥mé̱d̮e χóeri d̮it kerdíni.",
       "lerch": "āmé zi̥meí Hʿyẹ̄́ni. Yau me̱rdṳ́m Hʿyẹ̄́neyid̮ zi̥mé̱d̮e χóeri d̮it kerdíni.",
       "ipa": "aːˈme zɨˈmej ˈħje̝ːni jaw mɛrˈdym ˈħje̝ːnejid͡ʒ zɨˈmɛd͡ʒe ˈχoeri d͡ʒit kerˈdini",
-      "zazaki": "amê zımêy 'Hyêni. Yaw merdûm 'Hyênêyic zımecê xoêri cit kêrdini.",
+      "zazaki": "amê zımêy 'Hyêni. Yaw merdüm 'Hyênêyic zımecê xoêri cit kêrdini.",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -855,7 +855,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "amê zımêy 'Hyêni. Yaw merdûm 'Hyênêyic zımecê xoêri cit kêrdini."
+          "value": "amê zımêy 'Hyêni. Yaw merdüm 'Hyênêyic zımecê xoêri cit kêrdini."
         },
         {
           "label": "ENGLISH",
@@ -970,7 +970,7 @@
         {
           "form": "me̱rdṳ́m",
           "ipa": "mɛrˈdym",
-          "zazaki": "merdûm",
+          "zazaki": "merdüm",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -979,7 +979,7 @@
           "morphemes": [
             {
               "form": "me̱rdṳ́m",
-              "normalized": "merdûm",
+              "normalized": "merdüm",
               "lemma": "merdum",
               "gloss": "man",
               "pos": "",
@@ -1128,7 +1128,7 @@
       "text": "Ḗ̱n’oe me̱rdṳ́mu Ńerbíd̮ āmé ḗ̱n’oe me̱rdṳ́mi Hʿyẹ̄́neyid̮ra vā",
       "lerch": "Ḗ̱n’oe me̱rdṳ́mu Ńerbíd̮ āmé ḗ̱n’oe me̱rdṳ́mi Hʿyẹ̄́neyid̮ra vā",
       "ipa": "ˈɛːn.oe mɛrˈdymu ɲerˈbid͡ʒ aːˈme ˈɛːn.oe mɛrˈdymi ˈħje̝ːnejid͡ʒra vaː",
-      "zazaki": "Enoê merdûmû Nyêrbic amê enoê merdûmi 'Hyênêyicra va",
+      "zazaki": "Enoê merdümu Nyêrbic amê enoê merdümi 'Hyênêyicra va",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -1143,7 +1143,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Enoê merdûmû Nyêrbic amê enoê merdûmi 'Hyênêyicra va"
+          "value": "Enoê merdümu Nyêrbic amê enoê merdümi 'Hyênêyicra va"
         },
         {
           "label": "ENGLISH",
@@ -1189,7 +1189,7 @@
         {
           "form": "me̱rdṳ́mu",
           "ipa": "mɛrˈdymu",
-          "zazaki": "merdûmû",
+          "zazaki": "merdümu",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -1303,7 +1303,7 @@
         {
           "form": "me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "merdûmi",
+          "zazaki": "merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -1403,7 +1403,7 @@
       "text": "ke: ti̥ t̮i bén’i e̱tia d̮it kén’i. Me̱rdṳ́mi Hʿyẹ̄́neyid̮i vā ke: e̱z γi̥zmkā́ri",
       "lerch": "ke: ti̥ t̮i bén’i e̱tia d̮it kén’i. Me̱rdṳ́mi Hʿyẹ̄́neyid̮i vā ke: e̱z γi̥zmkā́ri",
       "ipa": "ke tɨ t͡ʃi ˈben.i ɛtja d͡ʒit ˈken.i mɛrˈdymi ˈħje̝ːnejid͡ʒi vaː ke ɛz ʁɨzmˈkaːri",
-      "zazaki": "kê: tı çi bêni etya cit kêni. Merdûmi 'Hyênêyici va kê: ez ğızmkari",
+      "zazaki": "kê: tı çi bêni etya cit kêni. Merdümi 'Hyênêyici va kê: ez ğızmkari",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -1418,7 +1418,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kê: tı çi bêni etya cit kêni. Merdûmi 'Hyênêyici va kê: ez ğızmkari"
+          "value": "kê: tı çi bêni etya cit kêni. Merdümi 'Hyênêyici va kê: ez ğızmkari"
         },
         {
           "label": "ENGLISH",
@@ -1624,7 +1624,7 @@
         {
           "form": "Me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "Merdûmi",
+          "zazaki": "Merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -1782,7 +1782,7 @@
       "text": "Mél’a Haseíni Muγaráya, e̱tía d̮it kén’a. Mérdṳ́mi Ńerbíd̮",
       "lerch": "Mél’a Haseíni Muγaráya, e̱tía d̮it kén’a. Mérdṳ́mi Ńerbíd̮",
       "ipa": "ˈmel.a haˈsejni muʁaˈraja ɛtˈja d͡ʒit ˈken.a ˈmerˈdymi ɲerˈbid͡ʒ",
-      "zazaki": "Mêla Hasêyni Mûğaraya, etya cit kêna. Mêrdûmi Nyêrbic",
+      "zazaki": "Mêla Hasêyni Muğaraya, etya cit kêna. Mêrdümi Nyêrbic",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -1797,7 +1797,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Mêla Hasêyni Mûğaraya, etya cit kêna. Mêrdûmi Nyêrbic"
+          "value": "Mêla Hasêyni Muğaraya, etya cit kêna. Mêrdümi Nyêrbic"
         },
         {
           "label": "ENGLISH",
@@ -1866,7 +1866,7 @@
         {
           "form": "Muγaráya,",
           "ipa": "muʁaˈraja",
-          "zazaki": "Mûğaraya,",
+          "zazaki": "Muğaraya,",
           "lemma": "mugaraya",
           "display_gloss": "Muyara, name",
           "gloss_tr": "Muyara, ad",
@@ -1875,7 +1875,7 @@
           "morphemes": [
             {
               "form": "Muγaráya",
-              "normalized": "Mûğaraya",
+              "normalized": "Muğaraya",
               "lemma": "mugaraya",
               "gloss": "Muyara, name",
               "pos": "",
@@ -1969,7 +1969,7 @@
         {
           "form": "Mérdṳ́mi",
           "ipa": "ˈmerˈdymi",
-          "zazaki": "Mêrdûmi",
+          "zazaki": "Mêrdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -2046,7 +2046,7 @@
       "text": "vā ke: Mél’a Haseíni Muγará χóera d̮išmeni ménu, wé̱χti pī́riki mí̥de",
       "lerch": "vā ke: Mél’a Haseíni Muγará χóera d̮išmeni ménu, wé̱χti pī́riki mí̥de",
       "ipa": "vaː ke ˈmel.a haˈsejni muʁaˈra ˈχoera d͡ʒiʃmeni ˈmenu ˈwɛχti ˈpiːriki ˈmɨde",
-      "zazaki": "va kê: Mêla Hasêyni Mûğara xoêra cişmêni mênû, wexti piriki mıdê",
+      "zazaki": "va kê: Mêla Hasêyni Muğara xoêra cişmêni mênu, wexti piriki mıdê",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -2061,7 +2061,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "va kê: Mêla Hasêyni Mûğara xoêra cişmêni mênû, wexti piriki mıdê"
+          "value": "va kê: Mêla Hasêyni Muğara xoêra cişmêni mênu, wexti piriki mıdê"
         },
         {
           "label": "ENGLISH",
@@ -2176,7 +2176,7 @@
         {
           "form": "Muγará",
           "ipa": "muʁaˈra",
-          "zazaki": "Mûğara",
+          "zazaki": "Muğara",
           "lemma": "mugara",
           "display_gloss": "Mughara",
           "gloss_tr": "Mughara",
@@ -2185,7 +2185,7 @@
           "morphemes": [
             {
               "form": "Muγará",
-              "normalized": "Mûğara",
+              "normalized": "Muğara",
               "lemma": "mugara",
               "gloss": "Mughara",
               "pos": "",
@@ -2256,7 +2256,7 @@
         {
           "form": "ménu,",
           "ipa": "ˈmenu",
-          "zazaki": "mênû,",
+          "zazaki": "mênu,",
           "lemma": "menu",
           "display_gloss": "for me",
           "gloss_tr": "benim için",
@@ -2265,7 +2265,7 @@
           "morphemes": [
             {
               "form": "ménu",
-              "normalized": "mênû",
+              "normalized": "mênu",
               "lemma": "menu",
               "gloss": "for me",
               "pos": "",
@@ -2357,7 +2357,7 @@
       "text": "yau γi̥zmkā́ri pī́riki min kíštu, e̱z eíroe h̔eífi túera ǵén’u. Me̱rdṳ́mi",
       "lerch": "yau γi̥zmkā́ri pī́riki min kíštu, e̱z eíroe h̔eífi túera ǵén’u. Me̱rdṳ́mi",
       "ipa": "jaw ʁɨzmˈkaːri ˈpiːriki min ˈkiʃtu ɛz ˈejroe ˈħejfi ˈtwera ˈɟen.u mɛrˈdymi",
-      "zazaki": "yaw ğızmkari piriki min kiştû, ez êyroê 'hêyfi twêra gênû. Merdûmi",
+      "zazaki": "yaw ğızmkari piriki min kiştu, ez êyroê 'hêyfi twêra gênu. Merdümi",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -2372,7 +2372,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "yaw ğızmkari piriki min kiştû, ez êyroê 'hêyfi twêra gênû. Merdûmi"
+          "value": "yaw ğızmkari piriki min kiştu, ez êyroê 'hêyfi twêra gênu. Merdümi"
         },
         {
           "label": "ENGLISH",
@@ -2487,7 +2487,7 @@
         {
           "form": "kíštu,",
           "ipa": "ˈkiʃtu",
-          "zazaki": "kiştû,",
+          "zazaki": "kiştu,",
           "lemma": "kistu",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -2496,7 +2496,7 @@
           "morphemes": [
             {
               "form": "kíštu",
-              "normalized": "kiştû",
+              "normalized": "kiştu",
               "lemma": "kistu",
               "gloss": "killed",
               "pos": "",
@@ -2613,7 +2613,7 @@
         {
           "form": "ǵén’u.",
           "ipa": "ˈɟen.u",
-          "zazaki": "gênû.",
+          "zazaki": "gênu.",
           "lemma": "genu",
           "display_gloss": "I take",
           "gloss_tr": "alırım",
@@ -2622,7 +2622,7 @@
           "morphemes": [
             {
               "form": "ǵén’u",
-              "normalized": "gênû",
+              "normalized": "gênu",
               "lemma": "genu",
               "gloss": "I take",
               "pos": "",
@@ -2636,7 +2636,7 @@
         {
           "form": "Me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "Merdûmi",
+          "zazaki": "Merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -2679,7 +2679,7 @@
       "text": "Hʿyẹ̄́neyid̮i vā ke: e̱z γi̥zmkā́ra, de̱rdi túe é̱be me de̱rmā́ṅ ńebén’u.",
       "lerch": "Hʿyẹ̄́neyid̮i vā ke: e̱z γi̥zmkā́ra, de̱rdi túe é̱be me de̱rmā́ṅ ńebén’u.",
       "ipa": "ˈħje̝ːnejid͡ʒi vaː ke ɛz ʁɨzmˈkaːra dɛrdi ˈtwe ˈɛbe me dɛrˈmaːŋ ɲeˈben.u",
-      "zazaki": "'Hyênêyici va kê: ez ğızmkara, derdi twê ebê mê dermang nyêbênû.",
+      "zazaki": "'Hyênêyici va kê: ez ğızmkara, derdi twê ebê mê dermang nyêbênu.",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -2694,7 +2694,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "'Hyênêyici va kê: ez ğızmkara, derdi twê ebê mê dermang nyêbênû."
+          "value": "'Hyênêyici va kê: ez ğızmkara, derdi twê ebê mê dermang nyêbênu."
         },
         {
           "label": "ENGLISH",
@@ -2947,7 +2947,7 @@
         {
           "form": "ńebén’u.",
           "ipa": "ɲeˈben.u",
-          "zazaki": "nyêbênû.",
+          "zazaki": "nyêbênu.",
           "lemma": "ne-",
           "display_gloss": "will not be",
           "gloss_tr": "olmayacak",
@@ -2967,7 +2967,7 @@
             },
             {
               "form": "bén’u",
-              "normalized": "bênû",
+              "normalized": "bênu",
               "lemma": "benu",
               "gloss": "be",
               "pos": "",
@@ -2990,7 +2990,7 @@
       "text": "Me̱rdṳ́mi Ńerbíd̮i vā ke: e̱z túe kišén’a. Me̱rdṳ́mi Hʿyẹ̄́neyid̮i šẹ̄ t̮é̱ki",
       "lerch": "Me̱rdṳ́mi Ńerbíd̮i vā ke: e̱z túe kišén’a. Me̱rdṳ́mi Hʿyẹ̄́neyid̮i šẹ̄ t̮é̱ki",
       "ipa": "mɛrˈdymi ɲerˈbid͡ʒi vaː ke ɛz ˈtwe kiˈʃen.a mɛrˈdymi ˈħje̝ːnejid͡ʒi ʃe̝ː ˈt͡ʃɛki",
-      "zazaki": "Merdûmi Nyêrbici va kê: ez twê kişêna. Merdûmi 'Hyênêyici şê çeki",
+      "zazaki": "Merdümi Nyêrbici va kê: ez twê kişêna. Merdümi 'Hyênêyici şê çeki",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -3005,7 +3005,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Merdûmi Nyêrbici va kê: ez twê kişêna. Merdûmi 'Hyênêyici şê çeki"
+          "value": "Merdümi Nyêrbici va kê: ez twê kişêna. Merdümi 'Hyênêyici şê çeki"
         },
         {
           "label": "ENGLISH",
@@ -3028,7 +3028,7 @@
         {
           "form": "Me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "Merdûmi",
+          "zazaki": "Merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -3233,7 +3233,7 @@
         {
           "form": "Me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "Merdûmi",
+          "zazaki": "Merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -3345,7 +3345,7 @@
       "text": "χóe geraúti ti̥rsi χóe kerd, χo de̱st ši̥mšyẹ̄́ri χóe we̱rā́nd, šẹ̄ me̱rdṳ́mi",
       "lerch": "χóe geraúti ti̥rsi χóe kerd, χo de̱st ši̥mšyẹ̄́ri χóe we̱rā́nd, šẹ̄ me̱rdṳ́mi",
       "ipa": "ˈχoe geˈrawti tɨrsi ˈχoe kerd χo dɛst ʃɨmʃˈje̝ːri ˈχoe wɛˈraːnd ʃe̝ː mɛrˈdymi",
-      "zazaki": "xoê gêrawti tırsi xoê kêrd, xo dest şımşyêri xoê werand, şê merdûmi",
+      "zazaki": "xoê gêrawti tırsi xoê kêrd, xo dest şımşyêri xoê werand, şê merdümi",
       "source_note": "",
       "russian_print_page": 109,
       "russian_scan_page": 123,
@@ -3360,7 +3360,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "xoê gêrawti tırsi xoê kêrd, xo dest şımşyêri xoê werand, şê merdûmi"
+          "value": "xoê gêrawti tırsi xoê kêrd, xo dest şımşyêri xoê werand, şê merdümi"
         },
         {
           "label": "ENGLISH",
@@ -3636,7 +3636,7 @@
         {
           "form": "me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "merdûmi",
+          "zazaki": "merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -3679,7 +3679,7 @@
       "text": "Ńerbíd̮i ser. Me̱rdṳ́mi Ńerbíd̮i wíd̮ā vā́zda, šẹ̄ t̮é̱ki me̱rdṳ́mi Hʿyẹ̄nid̮i",
       "lerch": "Ńerbíd̮i ser. Me̱rdṳ́mi Ńerbíd̮i wíd̮ā vā́zda, šẹ̄ t̮é̱ki me̱rdṳ́mi Hʿyẹ̄nid̮i",
       "ipa": "ɲerˈbid͡ʒi ser mɛrˈdymi ɲerˈbid͡ʒi ˈwid͡ʒaː ˈvaːzda ʃe̝ː ˈt͡ʃɛki mɛrˈdymi ħje̝ːnid͡ʒi",
-      "zazaki": "Nyêrbici sêr. Merdûmi Nyêrbici wica vazda, şê çeki merdûmi 'Hyênici",
+      "zazaki": "Nyêrbici sêr. Merdümi Nyêrbici wica vazda, şê çeki merdümi 'Hyênici",
       "source_note": "",
       "russian_print_page": 109,
       "russian_scan_page": 123,
@@ -3694,7 +3694,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Nyêrbici sêr. Merdûmi Nyêrbici wica vazda, şê çeki merdûmi 'Hyênici"
+          "value": "Nyêrbici sêr. Merdümi Nyêrbici wica vazda, şê çeki merdümi 'Hyênici"
         },
         {
           "label": "ENGLISH",
@@ -3785,7 +3785,7 @@
         {
           "form": "Me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "Merdûmi",
+          "zazaki": "Merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -3956,7 +3956,7 @@
         {
           "form": "me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "merdûmi",
+          "zazaki": "merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -4022,7 +4022,7 @@
       "text": "terá geraút, pei sé̱ri me̱rdṳ́mi Hʿyẹ̄́nid̮i terá ke̱rd kišt, d̮āde",
       "lerch": "terá geraút, pei sé̱ri me̱rdṳ́mi Hʿyẹ̄́nid̮i terá ke̱rd kišt, d̮āde",
       "ipa": "teˈra geˈrawt pej ˈsɛri mɛrˈdymi ˈħje̝ːnid͡ʒi teˈra kɛrd kiʃt d͡ʒaːde",
-      "zazaki": "têra gêrawt, pêy seri merdûmi 'Hyênici têra kerd kişt, cadê",
+      "zazaki": "têra gêrawt, pêy seri merdümi 'Hyênici têra kerd kişt, cadê",
       "source_note": "",
       "russian_print_page": 109,
       "russian_scan_page": 123,
@@ -4037,7 +4037,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "têra gêrawt, pêy seri merdûmi 'Hyênici têra kerd kişt, cadê"
+          "value": "têra gêrawt, pêy seri merdümi 'Hyênici têra kerd kişt, cadê"
         },
         {
           "label": "ENGLISH",
@@ -4152,7 +4152,7 @@
         {
           "form": "me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "merdûmi",
+          "zazaki": "merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -4310,7 +4310,7 @@
       "text": "ve̱r dā, šẹ̄ Ńeríb Χalé̱f aγái h̔et, yéra vā ke: me yau me̱rdṳ́mu",
       "lerch": "ve̱r dā, šẹ̄ Ńeríb Χalé̱f aγái h̔et, yéra vā ke: me yau me̱rdṳ́mu",
       "ipa": "vɛr daː ʃe̝ː ɲeˈrib χaˈlɛf aˈʁaj ħet ˈjera vaː ke me jaw mɛrˈdymu",
-      "zazaki": "ver da, şê Nyêrib Xalef ağay 'hêt, yêra va kê: mê yaw merdûmû",
+      "zazaki": "ver da, şê Nyêrib Xalef ağay 'hêt, yêra va kê: mê yaw merdümu",
       "source_note": "",
       "russian_print_page": 109,
       "russian_scan_page": 123,
@@ -4325,7 +4325,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ver da, şê Nyêrib Xalef ağay 'hêt, yêra va kê: mê yaw merdûmû"
+          "value": "ver da, şê Nyêrib Xalef ağay 'hêt, yêra va kê: mê yaw merdümu"
         },
         {
           "label": "ENGLISH",
@@ -4635,7 +4635,7 @@
         {
           "form": "me̱rdṳ́mu",
           "ipa": "mɛrˈdymu",
-          "zazaki": "merdûmû",
+          "zazaki": "merdümu",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -4678,7 +4678,7 @@
       "text": "Hʿyẹ̄́neyid̮ kišt. Χalé̱f aγái ye me̱rdṳ́mra vā ke: me̱rdṳ́mu Hʿyẹ̄neyid̮u",
       "lerch": "Hʿyẹ̄́neyid̮ kišt. Χalé̱f aγái ye me̱rdṳ́mra vā ke: me̱rdṳ́mu Hʿyẹ̄neyid̮u",
       "ipa": "ˈħje̝ːnejid͡ʒ kiʃt χaˈlɛf aˈʁaj je mɛrˈdymra vaː ke mɛrˈdymu ħje̝ːnejid͡ʒu",
-      "zazaki": "'Hyênêyic kişt. Xalef ağay yê merdûmra va kê: merdûmû 'Hyênêyicû",
+      "zazaki": "'Hyênêyic kişt. Xalef ağay yê merdümra va kê: merdümu 'Hyênêyicu",
       "source_note": "",
       "russian_print_page": 109,
       "russian_scan_page": 123,
@@ -4693,7 +4693,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "'Hyênêyic kişt. Xalef ağay yê merdûmra va kê: merdûmû 'Hyênêyicû"
+          "value": "'Hyênêyic kişt. Xalef ağay yê merdümra va kê: merdümu 'Hyênêyicu"
         },
         {
           "label": "ENGLISH",
@@ -4831,7 +4831,7 @@
         {
           "form": "me̱rdṳ́mra",
           "ipa": "mɛrˈdymra",
-          "zazaki": "merdûmra",
+          "zazaki": "merdümra",
           "lemma": "merdum",
           "display_gloss": "to the man",
           "gloss_tr": "adama",
@@ -4840,7 +4840,7 @@
           "morphemes": [
             {
               "form": "me̱rdṳ́m",
-              "normalized": "merdûm",
+              "normalized": "merdüm",
               "lemma": "merdum",
               "gloss": "man",
               "pos": "",
@@ -4911,7 +4911,7 @@
         {
           "form": "me̱rdṳ́mu",
           "ipa": "mɛrˈdymu",
-          "zazaki": "merdûmû",
+          "zazaki": "merdümu",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -4945,7 +4945,7 @@
         {
           "form": "Hʿyẹ̄neyid̮u",
           "ipa": "ħje̝ːnejid͡ʒu",
-          "zazaki": "'Hyênêyicû",
+          "zazaki": "'Hyênêyicu",
           "lemma": "hyeneyidu",
           "display_gloss": "Hyeni person",
           "gloss_tr": "Hyeni'li",
@@ -4954,7 +4954,7 @@
           "morphemes": [
             {
               "form": "Hʿyẹ̄neyid̮u",
-              "normalized": "'Hyênêyicû",
+              "normalized": "'Hyênêyicu",
               "lemma": "hyeneyidu",
               "gloss": "Hyeni person",
               "pos": "",
@@ -4977,7 +4977,7 @@
       "text": "tu kištu, me̱rdṳ́mi qā́myu. Ye me̱rdṳ́m Χalé̱f aγáira vā",
       "lerch": "tu kištu, me̱rdṳ́mi qā́myu. Ye me̱rdṳ́m Χalé̱f aγáira vā",
       "ipa": "tu kiʃtu mɛrˈdymi ˈqaːmju je mɛrˈdym χaˈlɛf aˈʁajra vaː",
-      "zazaki": "tû kiştû, merdûmi qamyû. Yê merdûm Xalef ağayra va",
+      "zazaki": "tu kiştu, merdümi qamyu. Yê merdüm Xalef ağayra va",
       "source_note": "",
       "russian_print_page": 109,
       "russian_scan_page": 123,
@@ -4992,7 +4992,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "tû kiştû, merdûmi qamyû. Yê merdûm Xalef ağayra va"
+          "value": "tu kiştu, merdümi qamyu. Yê merdüm Xalef ağayra va"
         },
         {
           "label": "ENGLISH",
@@ -5015,7 +5015,7 @@
         {
           "form": "tu",
           "ipa": "tu",
-          "zazaki": "tû",
+          "zazaki": "tu",
           "lemma": "tu",
           "display_gloss": "you",
           "gloss_tr": "sen",
@@ -5024,7 +5024,7 @@
           "morphemes": [
             {
               "form": "tu",
-              "normalized": "tû",
+              "normalized": "tu",
               "lemma": "tu",
               "gloss": "you",
               "pos": "",
@@ -5038,7 +5038,7 @@
         {
           "form": "kištu,",
           "ipa": "kiʃtu",
-          "zazaki": "kiştû,",
+          "zazaki": "kiştu,",
           "lemma": "kistu",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -5047,7 +5047,7 @@
           "morphemes": [
             {
               "form": "kištu",
-              "normalized": "kiştû",
+              "normalized": "kiştu",
               "lemma": "kistu",
               "gloss": "killed",
               "pos": "",
@@ -5061,7 +5061,7 @@
         {
           "form": "me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "merdûmi",
+          "zazaki": "merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -5095,7 +5095,7 @@
         {
           "form": "qā́myu.",
           "ipa": "ˈqaːmju",
-          "zazaki": "qamyû.",
+          "zazaki": "qamyu.",
           "lemma": "qamyu",
           "display_gloss": "what kind",
           "gloss_tr": "ne tür",
@@ -5104,7 +5104,7 @@
           "morphemes": [
             {
               "form": "qā́myu",
-              "normalized": "qamyû",
+              "normalized": "qamyu",
               "lemma": "qamyu",
               "gloss": "what kind",
               "pos": "",
@@ -5141,7 +5141,7 @@
         {
           "form": "me̱rdṳ́m",
           "ipa": "mɛrˈdym",
-          "zazaki": "merdûm",
+          "zazaki": "merdüm",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -5150,7 +5150,7 @@
           "morphemes": [
             {
               "form": "me̱rdṳ́m",
-              "normalized": "merdûm",
+              "normalized": "merdüm",
               "lemma": "merdum",
               "gloss": "man",
               "pos": "",
@@ -5253,7 +5253,7 @@
       "text": "ke: γi̥zmkā́ri Mél’a Hʿaseíni Muγe̱raú. Χalé̱f aγá vā ke: muqaíte",
       "lerch": "ke: γi̥zmkā́ri Mél’a Hʿaseíni Muγe̱raú. Χalé̱f aγá vā ke: muqaíte",
       "ipa": "ke ʁɨzmˈkaːri ˈmel.a ħaˈsejni muʁɛˈraw χaˈlɛf aˈʁa vaː ke muˈqajte",
-      "zazaki": "kê: ğızmkari Mêla 'Hasêyni Mûğeraw. Xalef ağa va kê: mûqaytê",
+      "zazaki": "kê: ğızmkari Mêla 'Hasêyni Muğeraw. Xalef ağa va kê: muqaytê",
       "source_note": "",
       "russian_print_page": 109,
       "russian_scan_page": 123,
@@ -5268,7 +5268,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kê: ğızmkari Mêla 'Hasêyni Mûğeraw. Xalef ağa va kê: mûqaytê"
+          "value": "kê: ğızmkari Mêla 'Hasêyni Muğeraw. Xalef ağa va kê: muqaytê"
         },
         {
           "label": "ENGLISH",
@@ -5383,7 +5383,7 @@
         {
           "form": "Muγe̱raú.",
           "ipa": "muʁɛˈraw",
-          "zazaki": "Mûğeraw.",
+          "zazaki": "Muğeraw.",
           "lemma": "mugerau",
           "display_gloss": "Mughara",
           "gloss_tr": "Mughara",
@@ -5392,7 +5392,7 @@
           "morphemes": [
             {
               "form": "Muγe̱raú",
-              "normalized": "Mûğeraw",
+              "normalized": "Muğeraw",
               "lemma": "mugerau",
               "gloss": "Mughara",
               "pos": "",
@@ -5498,7 +5498,7 @@
         {
           "form": "muqaíte",
           "ipa": "muˈqajte",
-          "zazaki": "mûqaytê",
+          "zazaki": "muqaytê",
           "lemma": "muqaite",
           "display_gloss": "on guard",
           "gloss_tr": "dikkatli",
@@ -5507,7 +5507,7 @@
           "morphemes": [
             {
               "form": "muqaíte",
-              "normalized": "mûqaytê",
+              "normalized": "muqaytê",
               "lemma": "muqaite",
               "gloss": "on guard",
               "pos": "",
@@ -5530,7 +5530,7 @@
       "text": "χóe bi, ši̥mā́ me̱rdṳ́mi šā́rí kíšti, šār yén’u, mā́li ši̥mā́ bén’u, ši̥mā́",
       "lerch": "χóe bi, ši̥mā́ me̱rdṳ́mi šā́rí kíšti, šār yén’u, mā́li ši̥mā́ bén’u, ši̥mā́",
       "ipa": "ˈχoe bi ʃɨˈmaː mɛrˈdymi ˈʃaːˈri ˈkiʃti ʃaːr ˈjen.u ˈmaːli ʃɨˈmaː ˈben.u ʃɨˈmaː",
-      "zazaki": "xoê bi, şıma merdûmi şari kişti, şar yênû, mali şıma bênû, şıma",
+      "zazaki": "xoê bi, şıma merdümi şari kişti, şar yênu, mali şıma bênu, şıma",
       "source_note": "",
       "russian_print_page": 109,
       "russian_scan_page": 123,
@@ -5545,7 +5545,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "xoê bi, şıma merdûmi şari kişti, şar yênû, mali şıma bênû, şıma"
+          "value": "xoê bi, şıma merdümi şari kişti, şar yênu, mali şıma bênu, şıma"
         },
         {
           "label": "ENGLISH",
@@ -5637,7 +5637,7 @@
         {
           "form": "me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "merdûmi",
+          "zazaki": "merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -5740,7 +5740,7 @@
         {
           "form": "yén’u,",
           "ipa": "ˈjen.u",
-          "zazaki": "yênû,",
+          "zazaki": "yênu,",
           "lemma": "yenu",
           "display_gloss": "comes",
           "gloss_tr": "gelir",
@@ -5749,7 +5749,7 @@
           "morphemes": [
             {
               "form": "yén’u",
-              "normalized": "yênû",
+              "normalized": "yênu",
               "lemma": "yenu",
               "gloss": "comes",
               "pos": "",
@@ -5809,7 +5809,7 @@
         {
           "form": "bén’u,",
           "ipa": "ˈben.u",
-          "zazaki": "bênû,",
+          "zazaki": "bênu,",
           "lemma": "be",
           "display_gloss": "will be",
           "gloss_tr": "olacak",
@@ -5869,7 +5869,7 @@
           "start": 8,
           "end": 11,
           "lerch": "mā́li ši̥mā́ bén’u,",
-          "zazaki": "mali şıma bênû",
+          "zazaki": "mali şıma bênu",
           "english": "he will carry off your property",
           "turkish": "malınızı götürecek",
           "german": "er wird eure Habe nehmen",
@@ -5886,7 +5886,7 @@
       "text": "kišén’u. Ye me̱rdṳ́mi vā ke Χalé̱f aγáira: aγá, h̔abé̱re bē̱ršaúe",
       "lerch": "kišén’u. Ye me̱rdṳ́mi vā ke Χalé̱f aγáira: aγá, h̔abé̱re bē̱ršaúe",
       "ipa": "kiˈʃen.u je mɛrˈdymi vaː ke χaˈlɛf aˈʁajra aˈʁa ħaˈbɛre bɛːrˈʃawe",
-      "zazaki": "kişênû. Yê merdûmi va kê Xalef ağayra: ağa, 'haberê berşawê",
+      "zazaki": "kişênu. Yê merdümi va kê Xalef ağayra: ağa, 'haberê berşawê",
       "source_note": "",
       "russian_print_page": 109,
       "russian_scan_page": 123,
@@ -5901,7 +5901,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kişênû. Yê merdûmi va kê Xalef ağayra: ağa, 'haberê berşawê"
+          "value": "kişênu. Yê merdümi va kê Xalef ağayra: ağa, 'haberê berşawê"
         },
         {
           "label": "ENGLISH",
@@ -5924,7 +5924,7 @@
         {
           "form": "kišén’u.",
           "ipa": "kiˈʃen.u",
-          "zazaki": "kişênû.",
+          "zazaki": "kişênu.",
           "lemma": "kist",
           "display_gloss": "will kill",
           "gloss_tr": "öldürür",
@@ -5981,7 +5981,7 @@
         {
           "form": "me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "merdûmi",
+          "zazaki": "merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -6207,7 +6207,7 @@
       "text": "Ńeríbu kid̮, Deíštei Hʿé̱nzi wa muqaíte χóe bi, wa mā́le χóe bye,",
       "lerch": "Ńeríbu kid̮, Deíštei Hʿé̱nzi wa muqaíte χóe bi, wa mā́le χóe bye,",
       "ipa": "ɲeˈribu kid͡ʒ ˈdejʃtej ˈħɛnzi wa muˈqajte ˈχoe bi wa ˈmaːle ˈχoe bje",
-      "zazaki": "Nyêribû kic, Dêyştêy 'Henzi wa mûqaytê xoê bi, wa malê xoê byê,",
+      "zazaki": "Nyêribu kic, Dêyştêy 'Henzi wa muqaytê xoê bi, wa malê xoê byê,",
       "source_note": "",
       "russian_print_page": 109,
       "russian_scan_page": 123,
@@ -6222,7 +6222,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Nyêribû kic, Dêyştêy 'Henzi wa mûqaytê xoê bi, wa malê xoê byê,"
+          "value": "Nyêribu kic, Dêyştêy 'Henzi wa muqaytê xoê bi, wa malê xoê byê,"
         },
         {
           "label": "ENGLISH",
@@ -6245,7 +6245,7 @@
         {
           "form": "Ńeríbu",
           "ipa": "ɲeˈribu",
-          "zazaki": "Nyêribû",
+          "zazaki": "Nyêribu",
           "lemma": "neribu",
           "display_gloss": "to Nerib",
           "gloss_tr": "Nyêrib'e",
@@ -6254,7 +6254,7 @@
           "morphemes": [
             {
               "form": "Ńeríbu",
-              "normalized": "Nyêribû",
+              "normalized": "Nyêribu",
               "lemma": "neribu",
               "gloss": "to Nerib",
               "pos": "",
@@ -6360,7 +6360,7 @@
         {
           "form": "muqaíte",
           "ipa": "muˈqajte",
-          "zazaki": "mûqaytê",
+          "zazaki": "muqaytê",
           "lemma": "muqaite",
           "display_gloss": "on guard",
           "gloss_tr": "dikkatli",
@@ -6369,7 +6369,7 @@
           "morphemes": [
             {
               "form": "muqaíte",
-              "normalized": "mûqaytê",
+              "normalized": "muqaytê",
               "lemma": "muqaite",
               "gloss": "on guard",
               "pos": "",
@@ -6530,7 +6530,7 @@
       "text": "wayér ńékeri, qām rṓd̮u ke hʿabére Hʿyẹ̄́nera āmeí wa t̮au t̮ehé̱tia",
       "lerch": "wayér ńékeri, qām rṓd̮u ke hʿabére Hʿyẹ̄́nera āmeí wa t̮au t̮ehé̱tia",
       "ipa": "waˈjer ˈɲekeri qaːm ˈroːd͡ʒu ke ħaˈbere ˈħje̝ːnera aːˈmej wa t͡ʃaw t͡ʃeˈhɛtja",
-      "zazaki": "wayêr nyêkêri, qam rocû kê 'habêrê 'Hyênêra amêy wa çaw çêhetya",
+      "zazaki": "wayêr nyêkêri, qam rocu kê 'habêrê 'Hyênêra amêy wa çaw çêhetya",
       "source_note": "",
       "russian_print_page": 109,
       "russian_scan_page": 123,
@@ -6545,7 +6545,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "wayêr nyêkêri, qam rocû kê 'habêrê 'Hyênêra amêy wa çaw çêhetya"
+          "value": "wayêr nyêkêri, qam rocu kê 'habêrê 'Hyênêra amêy wa çaw çêhetya"
         },
         {
           "label": "ENGLISH",
@@ -6648,7 +6648,7 @@
         {
           "form": "rṓd̮u",
           "ipa": "ˈroːd͡ʒu",
-          "zazaki": "rocû",
+          "zazaki": "rocu",
           "lemma": "rodu",
           "display_gloss": "day",
           "gloss_tr": "gün",
@@ -6657,7 +6657,7 @@
           "morphemes": [
             {
               "form": "rṓd̮u",
-              "normalized": "rocû",
+              "normalized": "rocu",
               "lemma": "rodu",
               "gloss": "day",
               "pos": "",
@@ -6852,7 +6852,7 @@
       "text": "ńéširu mā kauγé̱ bi̥kéri. Χalé̱f aγái h̔abére e̱ršau’úte Ńeríbu kid̮",
       "lerch": "ńéširu mā kauγé̱ bi̥kéri. Χalé̱f aγái h̔abére e̱ršau’úte Ńeríbu kid̮",
       "ipa": "ˈɲeʃiru maː kawˈʁɛ bɨˈkeri χaˈlɛf aˈʁaj ħaˈbere ɛrʃaw.ˈute ɲeˈribu kid͡ʒ",
-      "zazaki": "nyêşirû ma kawğe bıkêri. Xalef ağay 'habêrê erşawûtê Nyêribû kic",
+      "zazaki": "nyêşiru ma kawğe bıkêri. Xalef ağay 'habêrê erşawutê Nyêribu kic",
       "source_note": "",
       "russian_print_page": 109,
       "russian_scan_page": 123,
@@ -6867,7 +6867,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "nyêşirû ma kawğe bıkêri. Xalef ağay 'habêrê erşawûtê Nyêribû kic"
+          "value": "nyêşiru ma kawğe bıkêri. Xalef ağay 'habêrê erşawutê Nyêribu kic"
         },
         {
           "label": "ENGLISH",
@@ -6890,7 +6890,7 @@
         {
           "form": "ńéširu",
           "ipa": "ˈɲeʃiru",
-          "zazaki": "nyêşirû",
+          "zazaki": "nyêşiru",
           "lemma": "ne-",
           "display_gloss": "be absent",
           "gloss_tr": "eksik olsun",
@@ -6910,7 +6910,7 @@
             },
             {
               "form": "širu",
-              "normalized": "şirû",
+              "normalized": "şiru",
               "lemma": "siru",
               "gloss": "be absent",
               "pos": "",
@@ -7073,7 +7073,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -7082,7 +7082,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -7096,7 +7096,7 @@
         {
           "form": "Ńeríbu",
           "ipa": "ɲeˈribu",
-          "zazaki": "Nyêribû",
+          "zazaki": "Nyêribu",
           "lemma": "neribu",
           "display_gloss": "to Nerib",
           "gloss_tr": "Nyêrib'e",
@@ -7105,7 +7105,7 @@
           "morphemes": [
             {
               "form": "Ńeríbu",
-              "normalized": "Nyêribû",
+              "normalized": "Nyêribu",
               "lemma": "neribu",
               "gloss": "to Nerib",
               "pos": "",
@@ -7145,7 +7145,7 @@
           "start": 6,
           "end": 8,
           "lerch": "h̔abére e̱ršau’úte",
-          "zazaki": "'habêrê erşawûtê",
+          "zazaki": "'habêrê erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -7461,7 +7461,7 @@
       "text": "We̱smán aγā h̔abé̱r e̱ršau’úte Deíštei Hʿé̱nzi Meh̔mét aγáiri vā ke:",
       "lerch": "We̱smán aγā h̔abé̱r e̱ršau’úte Deíštei Hʿé̱nzi Meh̔mét aγáiri vā ke:",
       "ipa": "wɛsˈman aʁaː ħaˈbɛr ɛrʃaw.ˈute ˈdejʃtej ˈħɛnzi meħˈmet aˈʁajri vaː ke",
-      "zazaki": "Wesman ağa 'haber erşawûtê Dêyştêy 'Henzi Mê'hmêt ağayri va kê:",
+      "zazaki": "Wesman ağa 'haber erşawutê Dêyştêy 'Henzi Mê'hmêt ağayri va kê:",
       "source_note": "",
       "russian_print_page": 109,
       "russian_scan_page": 123,
@@ -7476,7 +7476,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Wesman ağa 'haber erşawûtê Dêyştêy 'Henzi Mê'hmêt ağayri va kê:"
+          "value": "Wesman ağa 'haber erşawutê Dêyştêy 'Henzi Mê'hmêt ağayri va kê:"
         },
         {
           "label": "ENGLISH",
@@ -7568,7 +7568,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -7577,7 +7577,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -7743,7 +7743,7 @@
           "start": 2,
           "end": 4,
           "lerch": "h̔abé̱r e̱ršau’úte",
-          "zazaki": "'haber erşawûtê",
+          "zazaki": "'haber erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -7760,7 +7760,7 @@
       "text": "téra réki χóe bi̥kéri, Hʿyẹ̄́neyíd̮í mā́de kauγé̱ kén’i, bā́rut bigéri,",
       "lerch": "téra réki χóe bi̥kéri, Hʿyẹ̄́neyíd̮í mā́de kauγé̱ kén’i, bā́rut bigéri,",
       "ipa": "ˈtera ˈreki ˈχoe bɨˈkeri ˈħje̝ːneˈjiˈd͡ʒi ˈmaːde kawˈʁɛ ˈken.i ˈbaːrut biˈgeri",
-      "zazaki": "têra rêki xoê bıkêri, 'Hyênêyici madê kawğe kêni, barût bigêri,",
+      "zazaki": "têra rêki xoê bıkêri, 'Hyênêyici madê kawğe kêni, barut bigêri,",
       "source_note": "",
       "russian_print_page": 109,
       "russian_scan_page": 123,
@@ -7775,7 +7775,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "têra rêki xoê bıkêri, 'Hyênêyici madê kawğe kêni, barût bigêri,"
+          "value": "têra rêki xoê bıkêri, 'Hyênêyici madê kawğe kêni, barut bigêri,"
         },
         {
           "label": "ENGLISH",
@@ -8004,7 +8004,7 @@
         {
           "form": "bā́rut",
           "ipa": "ˈbaːrut",
-          "zazaki": "barût",
+          "zazaki": "barut",
           "lemma": "barut",
           "display_gloss": "gunpowder",
           "gloss_tr": "barut",
@@ -8013,7 +8013,7 @@
           "morphemes": [
             {
               "form": "bā́rut",
-              "normalized": "barût",
+              "normalized": "barut",
               "lemma": "barut",
               "gloss": "gunpowder",
               "pos": "",
@@ -8069,8 +8069,8 @@
       "title": "H03 line 01: Daqma Beg prepares H'yeni and calls for battle",
       "text": "h̔adré̱ kéri, qām rṓd̮uke Hʿyẹ̄́nera h̔abé̱re āmeíye mā kauγé̱ kén’i.",
       "lerch": "h̔adré̱ kéri, qām rṓd̮uke Hʿyẹ̄́nera h̔abé̱re āmeíye mā kauγé̱ kén’i.",
-      "ipa": "ħadˈrɛ ˈkeri qaːm ˈroːd͡ʒuke ˈħje̝ːnera ħaˈbɛre aːˈmejje maː kawˈʁɛ ˈken.i",
-      "zazaki": "'hadre kêri, qam rocûkê 'Hyênêra 'haberê amêyyê ma kawğe kêni.",
+      "ipa": "ħadˈrɛ ˈkeri qaːm ˈroːd͡ʒuke ˈħje̝ːnera ħaˈbɛre aːˈmeje maː kawˈʁɛ ˈken.i",
+      "zazaki": "'hadre kêri, qam rocukê 'Hyênêra 'haberê amêyê ma kawğe kêni.",
       "source_note": "",
       "russian_print_page": 110,
       "russian_scan_page": 124,
@@ -8081,11 +8081,11 @@
         },
         {
           "label": "IPA",
-          "value": "ħadˈrɛ ˈkeri qaːm ˈroːd͡ʒuke ˈħje̝ːnera ħaˈbɛre aːˈmejje maː kawˈʁɛ ˈken.i"
+          "value": "ħadˈrɛ ˈkeri qaːm ˈroːd͡ʒuke ˈħje̝ːnera ħaˈbɛre aːˈmeje maː kawˈʁɛ ˈken.i"
         },
         {
           "label": "ZAZAKI",
-          "value": "'hadre kêri, qam rocûkê 'Hyênêra 'haberê amêyyê ma kawğe kêni."
+          "value": "'hadre kêri, qam rocukê 'Hyênêra 'haberê amêyê ma kawğe kêni."
         },
         {
           "label": "ENGLISH",
@@ -8177,7 +8177,7 @@
         {
           "form": "rṓd̮uke",
           "ipa": "ˈroːd͡ʒuke",
-          "zazaki": "rocûkê",
+          "zazaki": "rocukê",
           "lemma": "roduke",
           "display_gloss": "the day when",
           "gloss_tr": "gün ki",
@@ -8186,7 +8186,7 @@
           "morphemes": [
             {
               "form": "rṓd̮uke",
-              "normalized": "rocûkê",
+              "normalized": "rocukê",
               "lemma": "roduke",
               "gloss": "the day when",
               "pos": "",
@@ -8256,8 +8256,8 @@
         },
         {
           "form": "āmeíye",
-          "ipa": "aːˈmejje",
-          "zazaki": "amêyyê",
+          "ipa": "aːˈmeje",
+          "zazaki": "amêyê",
           "lemma": "ameiye",
           "display_gloss": "has come",
           "gloss_tr": "gelmiştir",
@@ -8266,7 +8266,7 @@
           "morphemes": [
             {
               "form": "āmeíye",
-              "normalized": "amêyyê",
+              "normalized": "amêyê",
               "lemma": "ameiye",
               "gloss": "has come",
               "pos": "",
@@ -8369,7 +8369,7 @@
       "text": "Meh̔mét aγái h̔abér e̱ršau’úte Wesmán aγáiri vā ke: Χalé̱f",
       "lerch": "Meh̔mét aγái h̔abér e̱ršau’úte Wesmán aγáiri vā ke: Χalé̱f",
       "ipa": "meħˈmet aˈʁaj ħaˈber ɛrʃaw.ˈute wesˈman aˈʁajri vaː ke χaˈlɛf",
-      "zazaki": "Mê'hmêt ağay 'habêr erşawûtê Wêsman ağayri va kê: Xalef",
+      "zazaki": "Mê'hmêt ağay 'habêr erşawutê Wêsman ağayri va kê: Xalef",
       "source_note": "",
       "russian_print_page": 110,
       "russian_scan_page": 124,
@@ -8384,7 +8384,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Mê'hmêt ağay 'habêr erşawûtê Wêsman ağayri va kê: Xalef"
+          "value": "Mê'hmêt ağay 'habêr erşawutê Wêsman ağayri va kê: Xalef"
         },
         {
           "label": "ENGLISH",
@@ -8476,7 +8476,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -8485,7 +8485,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -8628,7 +8628,7 @@
           "start": 2,
           "end": 4,
           "lerch": "h̔abér e̱ršau’úte",
-          "zazaki": "'habêr erşawûtê",
+          "zazaki": "'habêr erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -8644,8 +8644,8 @@
       "title": "H03 line 03: Daqma Beg prepares H'yeni and calls for battle",
       "text": "aγáira vā́di: mā h̔ā h̔ādréi, qām rṓd̮uke h̔abé̱re Hʿyẹ̄́nera āmeíye,",
       "lerch": "aγáira vā́di: mā h̔ā h̔ādréi, qām rṓd̮uke h̔abé̱re Hʿyẹ̄́nera āmeíye,",
-      "ipa": "aˈʁajra ˈvaːdi maː ħaː ħaːdˈrej qaːm ˈroːd͡ʒuke ħaˈbɛre ˈħje̝ːnera aːˈmejje",
-      "zazaki": "ağayra vadi: ma 'ha 'hadrêy, qam rocûkê 'haberê 'Hyênêra amêyyê,",
+      "ipa": "aˈʁajra ˈvaːdi maː ħaː ħaːdˈrej qaːm ˈroːd͡ʒuke ħaˈbɛre ˈħje̝ːnera aːˈmeje",
+      "zazaki": "ağayra vadi: ma 'ha 'hadrêy, qam rocukê 'haberê 'Hyênêra amêyê,",
       "source_note": "",
       "russian_print_page": 110,
       "russian_scan_page": 124,
@@ -8656,11 +8656,11 @@
         },
         {
           "label": "IPA",
-          "value": "aˈʁajra ˈvaːdi maː ħaː ħaːdˈrej qaːm ˈroːd͡ʒuke ħaˈbɛre ˈħje̝ːnera aːˈmejje"
+          "value": "aˈʁajra ˈvaːdi maː ħaː ħaːdˈrej qaːm ˈroːd͡ʒuke ħaˈbɛre ˈħje̝ːnera aːˈmeje"
         },
         {
           "label": "ZAZAKI",
-          "value": "ağayra vadi: ma 'ha 'hadrêy, qam rocûkê 'haberê 'Hyênêra amêyyê,"
+          "value": "ağayra vadi: ma 'ha 'hadrêy, qam rocukê 'haberê 'Hyênêra amêyê,"
         },
         {
           "label": "ENGLISH",
@@ -8832,7 +8832,7 @@
         {
           "form": "rṓd̮uke",
           "ipa": "ˈroːd͡ʒuke",
-          "zazaki": "rocûkê",
+          "zazaki": "rocukê",
           "lemma": "roduke",
           "display_gloss": "the day when",
           "gloss_tr": "gün ki",
@@ -8841,7 +8841,7 @@
           "morphemes": [
             {
               "form": "rṓd̮uke",
-              "normalized": "rocûkê",
+              "normalized": "rocukê",
               "lemma": "roduke",
               "gloss": "the day when",
               "pos": "",
@@ -8911,8 +8911,8 @@
         },
         {
           "form": "āmeíye,",
-          "ipa": "aːˈmejje",
-          "zazaki": "amêyyê,",
+          "ipa": "aːˈmeje",
+          "zazaki": "amêyê,",
           "lemma": "ameiye",
           "display_gloss": "has come",
           "gloss_tr": "gelmiştir",
@@ -8921,7 +8921,7 @@
           "morphemes": [
             {
               "form": "āmeíye",
-              "normalized": "amêyyê",
+              "normalized": "amêyê",
               "lemma": "ameiye",
               "gloss": "has come",
               "pos": "",
@@ -9060,7 +9060,7 @@
       "text": "Ke āšmi mend, Dáqma bé̱gí Hʿyẹ̄́ni h̔abére e̱ršau’úte Ńeríbu",
       "lerch": "Ke āšmi mend, Dáqma bé̱gí Hʿyẹ̄́ni h̔abére e̱ršau’úte Ńeríbu",
       "ipa": "ke aːʃmi mend ˈdaqma ˈbɛˈgi ˈħje̝ːni ħaˈbere ɛrʃaw.ˈute ɲeˈribu",
-      "zazaki": "Kê aşmi mênd, Daqma begi 'Hyêni 'habêrê erşawûtê Nyêribû",
+      "zazaki": "Kê aşmi mênd, Daqma begi 'Hyêni 'habêrê erşawutê Nyêribu",
       "source_note": "",
       "russian_print_page": 110,
       "russian_scan_page": 124,
@@ -9075,7 +9075,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Kê aşmi mênd, Daqma begi 'Hyêni 'habêrê erşawûtê Nyêribû"
+          "value": "Kê aşmi mênd, Daqma begi 'Hyêni 'habêrê erşawutê Nyêribu"
         },
         {
           "label": "ENGLISH",
@@ -9259,7 +9259,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -9268,7 +9268,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -9282,7 +9282,7 @@
         {
           "form": "Ńeríbu",
           "ipa": "ɲeˈribu",
-          "zazaki": "Nyêribû",
+          "zazaki": "Nyêribu",
           "lemma": "neribu",
           "display_gloss": "to Nerib",
           "gloss_tr": "Nyêrib'e",
@@ -9291,7 +9291,7 @@
           "morphemes": [
             {
               "form": "Ńeríbu",
-              "normalized": "Nyêribû",
+              "normalized": "Nyêribu",
               "lemma": "neribu",
               "gloss": "to Nerib",
               "pos": "",
@@ -9308,7 +9308,7 @@
           "start": 6,
           "end": 8,
           "lerch": "h̔abére e̱ršau’úte",
-          "zazaki": "'habêrê erşawûtê",
+          "zazaki": "'habêrê erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -9325,7 +9325,7 @@
       "text": "pil Χalé̱f aγáiri: túe t̮íri ḗ̱n’oe me̱rdṳ́mi me kíštu, wáχte χóede",
       "lerch": "pil Χalé̱f aγáiri: túe t̮íri ḗ̱n’oe me̱rdṳ́mi me kíštu, wáχte χóede",
       "ipa": "pil χaˈlɛf aˈʁajri ˈtwe ˈt͡ʃiri ˈɛːn.oe mɛrˈdymi me ˈkiʃtu ˈwaχte ˈχoede",
-      "zazaki": "pil Xalef ağayri: twê çiri enoê merdûmi mê kiştû, waxtê xoêdê",
+      "zazaki": "pil Xalef ağayri: twê çiri enoê merdümi mê kiştu, waxtê xoêdê",
       "source_note": "",
       "russian_print_page": 110,
       "russian_scan_page": 124,
@@ -9340,7 +9340,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "pil Xalef ağayri: twê çiri enoê merdûmi mê kiştû, waxtê xoêdê"
+          "value": "pil Xalef ağayri: twê çiri enoê merdümi mê kiştu, waxtê xoêdê"
         },
         {
           "label": "ENGLISH",
@@ -9512,7 +9512,7 @@
         {
           "form": "me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "merdûmi",
+          "zazaki": "merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -9569,7 +9569,7 @@
         {
           "form": "kíštu,",
           "ipa": "ˈkiʃtu",
-          "zazaki": "kiştû,",
+          "zazaki": "kiştu,",
           "lemma": "kistu",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -9578,7 +9578,7 @@
           "morphemes": [
             {
               "form": "kíštu",
-              "normalized": "kiştû",
+              "normalized": "kiştu",
               "lemma": "kistu",
               "gloss": "killed",
               "pos": "",
@@ -9958,7 +9958,7 @@
       "text": "e̱ršau’úte Hʿyẹ̄́ne Dáqma bé̱giri vā ke: rōd̮i paṅd̮íne, ńe meíšte bye,",
       "lerch": "e̱ršau’úte Hʿyẹ̄́ne Dáqma bé̱giri vā ke: rōd̮i paṅd̮íne, ńe meíšte bye,",
       "ipa": "ɛrʃaw.ˈute ˈħje̝ːne ˈdaqma ˈbɛgiri vaː ke roːd͡ʒi paŋˈd͡ʒine ɲe ˈmejʃte bje",
-      "zazaki": "erşawûtê 'Hyênê Daqma begiri va kê: roci pangcinê, nyê mêyştê byê,",
+      "zazaki": "erşawutê 'Hyênê Daqma begiri va kê: roci pangcinê, nyê mêyştê byê,",
       "source_note": "",
       "russian_print_page": 110,
       "russian_scan_page": 124,
@@ -9973,7 +9973,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "erşawûtê 'Hyênê Daqma begiri va kê: roci pangcinê, nyê mêyştê byê,"
+          "value": "erşawutê 'Hyênê Daqma begiri va kê: roci pangcinê, nyê mêyştê byê,"
         },
         {
           "label": "ENGLISH",
@@ -9996,7 +9996,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -10005,7 +10005,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -10706,7 +10706,7 @@
       "text": "bi̥ṅge’i, pyéru t̮au bye silá mé̱giri, e̱z Dáqma bé̱gi vā ke:",
       "lerch": "bi̥ṅge’i, pyéru t̮au bye silá mé̱giri, e̱z Dáqma bé̱gi vā ke:",
       "ipa": "bɨŋge.i ˈpjeru t͡ʃaw bje siˈla ˈmɛgiri ɛz ˈdaqma ˈbɛgi vaː ke",
-      "zazaki": "bıngêi, pyêrû çaw byê sila megiri, ez Daqma begi va kê:",
+      "zazaki": "bıngêi, pyêru çaw byê sila megiri, ez Daqma begi va kê:",
       "source_note": "",
       "russian_print_page": 110,
       "russian_scan_page": 124,
@@ -10721,7 +10721,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "bıngêi, pyêrû çaw byê sila megiri, ez Daqma begi va kê:"
+          "value": "bıngêi, pyêru çaw byê sila megiri, ez Daqma begi va kê:"
         },
         {
           "label": "ENGLISH",
@@ -10778,7 +10778,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -10787,7 +10787,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -11028,7 +11028,7 @@
       "text": "qā́meḱ vyén’a bye silá sé̱rei d̮ei dā́na pṳ́roe. Dáqma bé̱gi vā ke:",
       "lerch": "qā́meḱ vyén’a bye silá sé̱rei d̮ei dā́na pṳ́roe. Dáqma bé̱gi vā ke:",
       "ipa": "ˈqaːmec ˈvjen.a bje siˈla ˈsɛrej d͡ʒej ˈdaːna ˈpyroe ˈdaqma ˈbɛgi vaː ke",
-      "zazaki": "qamêk vyêna byê sila serêy cêy dana pûroê. Daqma begi va kê:",
+      "zazaki": "qamêk vyêna byê sila serêy cêy dana püroê. Daqma begi va kê:",
       "source_note": "",
       "russian_print_page": 110,
       "russian_scan_page": 124,
@@ -11043,7 +11043,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "qamêk vyêna byê sila serêy cêy dana pûroê. Daqma begi va kê:"
+          "value": "qamêk vyêna byê sila serêy cêy dana püroê. Daqma begi va kê:"
         },
         {
           "label": "ENGLISH",
@@ -11227,7 +11227,7 @@
         {
           "form": "pṳ́roe.",
           "ipa": "ˈpyroe",
-          "zazaki": "pûroê.",
+          "zazaki": "püroê.",
           "lemma": "puroe",
           "display_gloss": "upon",
           "gloss_tr": "üzerine",
@@ -11236,7 +11236,7 @@
           "morphemes": [
             {
               "form": "pṳ́roe",
-              "normalized": "pûroê",
+              "normalized": "püroê",
               "lemma": "puroe",
               "gloss": "upon",
               "pos": "",
@@ -11350,8 +11350,8 @@
       "title": "H03 line 13: Daqma Beg prepares H'yeni and calls for battle",
       "text": "Ńeríbra Halé̱f aγáira h̔abé̱re āmeía: meíšte kauγaú, t̮au keíyede",
       "lerch": "Ńeríbra Halé̱f aγáira h̔abé̱re āmeía: meíšte kauγaú, t̮au keíyede",
-      "ipa": "ɲeˈribra haˈlɛf aˈʁajra ħaˈbɛre aːˈmeja ˈmejʃte kawˈʁaw t͡ʃaw ˈkejjede",
-      "zazaki": "Nyêribra Halef ağayra 'haberê amêya: mêyştê kawğaw, çaw kêyyêdê",
+      "ipa": "ɲeˈribra haˈlɛf aˈʁajra ħaˈbɛre aːˈmeja ˈmejʃte kawˈʁaw t͡ʃaw ˈkejede",
+      "zazaki": "Nyêribra Halef ağayra 'haberê amêya: mêyştê kawğaw, çaw kêyêdê",
       "source_note": "",
       "russian_print_page": 110,
       "russian_scan_page": 124,
@@ -11362,11 +11362,11 @@
         },
         {
           "label": "IPA",
-          "value": "ɲeˈribra haˈlɛf aˈʁajra ħaˈbɛre aːˈmeja ˈmejʃte kawˈʁaw t͡ʃaw ˈkejjede"
+          "value": "ɲeˈribra haˈlɛf aˈʁajra ħaˈbɛre aːˈmeja ˈmejʃte kawˈʁaw t͡ʃaw ˈkejede"
         },
         {
           "label": "ZAZAKI",
-          "value": "Nyêribra Halef ağayra 'haberê amêya: mêyştê kawğaw, çaw kêyyêdê"
+          "value": "Nyêribra Halef ağayra 'haberê amêya: mêyştê kawğaw, çaw kêyêdê"
         },
         {
           "label": "ENGLISH",
@@ -11594,8 +11594,8 @@
         },
         {
           "form": "keíyede",
-          "ipa": "ˈkejjede",
-          "zazaki": "kêyyêdê",
+          "ipa": "ˈkejede",
+          "zazaki": "kêyêdê",
           "lemma": "keiye",
           "display_gloss": "in the house",
           "gloss_tr": "evde",
@@ -11604,7 +11604,7 @@
           "morphemes": [
             {
               "form": "keíye",
-              "normalized": "kêyyê",
+              "normalized": "kêyê",
               "lemma": "keiye",
               "gloss": "house",
               "pos": "",
@@ -11857,7 +11857,7 @@
       "text": "Dáqma be̱g h̔abére e̱ršau’úte Ńeríb Χalé̱f aγáiri vā ke: e̱skéri",
       "lerch": "Dáqma be̱g h̔abére e̱ršau’úte Ńeríb Χalé̱f aγáiri vā ke: e̱skéri",
       "ipa": "ˈdaqma bɛg ħaˈbere ɛrʃaw.ˈute ɲeˈrib χaˈlɛf aˈʁajri vaː ke ɛsˈkeri",
-      "zazaki": "Daqma beg 'habêrê erşawûtê Nyêrib Xalef ağayri va kê: eskêri",
+      "zazaki": "Daqma beg 'habêrê erşawutê Nyêrib Xalef ağayri va kê: eskêri",
       "source_note": "",
       "russian_print_page": 111,
       "russian_scan_page": 125,
@@ -11872,7 +11872,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Daqma beg 'habêrê erşawûtê Nyêrib Xalef ağayri va kê: eskêri"
+          "value": "Daqma beg 'habêrê erşawutê Nyêrib Xalef ağayri va kê: eskêri"
         },
         {
           "label": "ENGLISH",
@@ -11964,7 +11964,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -11973,7 +11973,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -12139,7 +12139,7 @@
           "start": 2,
           "end": 4,
           "lerch": "h̔abére e̱ršau’úte",
-          "zazaki": "'habêrê erşawûtê",
+          "zazaki": "'habêrê erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -12156,7 +12156,7 @@
       "text": "me h̔ādrāu, meíšte mā yén’i pei ré̱zān. Χalé̱f aγá h̔abé̱r e̱ršau’úte",
       "lerch": "me h̔ādrāu, meíšte mā yén’i pei ré̱zān. Χalé̱f aγá h̔abé̱r e̱ršau’úte",
       "ipa": "me ħaːdraːw ˈmejʃte maː ˈjen.i pej ˈrɛzaːn χaˈlɛf aˈʁa ħaˈbɛr ɛrʃaw.ˈute",
-      "zazaki": "mê 'hadraw, mêyştê ma yêni pêy rezan. Xalef ağa 'haber erşawûtê",
+      "zazaki": "mê 'hadraw, mêyştê ma yêni pêy rezan. Xalef ağa 'haber erşawutê",
       "source_note": "",
       "russian_print_page": 111,
       "russian_scan_page": 125,
@@ -12171,7 +12171,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "mê 'hadraw, mêyştê ma yêni pêy rezan. Xalef ağa 'haber erşawûtê"
+          "value": "mê 'hadraw, mêyştê ma yêni pêy rezan. Xalef ağa 'haber erşawutê"
         },
         {
           "label": "ENGLISH",
@@ -12435,7 +12435,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -12444,7 +12444,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -12461,7 +12461,7 @@
           "start": 9,
           "end": 11,
           "lerch": "h̔abé̱r e̱ršau’úte",
-          "zazaki": "'haber erşawûtê",
+          "zazaki": "'haber erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -12488,7 +12488,7 @@
       "text": "Dáqma bé̱giri Hʿyẹ̄́ne vā ke: é̱mšoe muqaíte χóe be, e̱z",
       "lerch": "Dáqma bé̱giri Hʿyẹ̄́ne vā ke: é̱mšoe muqaíte χóe be, e̱z",
       "ipa": "ˈdaqma ˈbɛgiri ˈħje̝ːne vaː ke ˈɛmʃoe muˈqajte ˈχoe be ɛz",
-      "zazaki": "Daqma begiri 'Hyênê va kê: emşoê mûqaytê xoê bê, ez",
+      "zazaki": "Daqma begiri 'Hyênê va kê: emşoê muqaytê xoê bê, ez",
       "source_note": "",
       "russian_print_page": 111,
       "russian_scan_page": 125,
@@ -12503,7 +12503,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Daqma begiri 'Hyênê va kê: emşoê mûqaytê xoê bê, ez"
+          "value": "Daqma begiri 'Hyênê va kê: emşoê muqaytê xoê bê, ez"
         },
         {
           "label": "ENGLISH",
@@ -12675,7 +12675,7 @@
         {
           "form": "muqaíte",
           "ipa": "muˈqajte",
-          "zazaki": "mûqaytê",
+          "zazaki": "muqaytê",
           "lemma": "muqaite",
           "display_gloss": "on guard",
           "gloss_tr": "dikkatli",
@@ -12684,7 +12684,7 @@
           "morphemes": [
             {
               "form": "muqaíte",
-              "normalized": "mûqaytê",
+              "normalized": "muqaytê",
               "lemma": "muqaite",
               "gloss": "on guard",
               "pos": "",
@@ -12892,7 +12892,7 @@
       "text": "Dáqma bé̱gi e̱skéri χóe hé̱me top kerd, e̱skér pyéru keránd",
       "lerch": "Dáqma bé̱gi e̱skéri χóe hé̱me top kerd, e̱skér pyéru keránd",
       "ipa": "ˈdaqma ˈbɛgi ɛsˈkeri ˈχoe ˈhɛme top kerd ɛsˈker ˈpjeru keˈrand",
-      "zazaki": "Daqma begi eskêri xoê hemê top kêrd, eskêr pyêrû kêrand",
+      "zazaki": "Daqma begi eskêri xoê hemê top kêrd, eskêr pyêru kêrand",
       "source_note": "",
       "russian_print_page": 111,
       "russian_scan_page": 125,
@@ -12907,7 +12907,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Daqma begi eskêri xoê hemê top kêrd, eskêr pyêrû kêrand"
+          "value": "Daqma begi eskêri xoê hemê top kêrd, eskêr pyêru kêrand"
         },
         {
           "label": "ENGLISH",
@@ -13114,7 +13114,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -13123,7 +13123,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -13169,7 +13169,7 @@
       "text": "pei kunáγi Te̱mír bé̱gi, bārút, qi̥rqi̥šún dā e̱skéri χóe, espā́r vid̮í,",
       "lerch": "pei kunáγi Te̱mír bé̱gi, bārút, qi̥rqi̥šún dā e̱skéri χóe, espā́r vid̮í,",
       "ipa": "pej kuˈnaʁi tɛˈmir ˈbɛgi baːˈrut qɨrqɨˈʃun daː ɛsˈkeri ˈχoe esˈpaːr viˈd͡ʒi",
-      "zazaki": "pêy kûnaği Temir begi, barût, qırqışûn da eskêri xoê, êspar vici,",
+      "zazaki": "pêy kunaği Temir begi, barut, qırqışun da eskêri xoê, êspar vici,",
       "source_note": "",
       "russian_print_page": 111,
       "russian_scan_page": 125,
@@ -13184,7 +13184,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "pêy kûnaği Temir begi, barût, qırqışûn da eskêri xoê, êspar vici,"
+          "value": "pêy kunaği Temir begi, barut, qırqışun da eskêri xoê, êspar vici,"
         },
         {
           "label": "ENGLISH",
@@ -13230,7 +13230,7 @@
         {
           "form": "kunáγi",
           "ipa": "kuˈnaʁi",
-          "zazaki": "kûnaği",
+          "zazaki": "kunaği",
           "lemma": "kunagi",
           "display_gloss": "before",
           "gloss_tr": "önünde",
@@ -13239,7 +13239,7 @@
           "morphemes": [
             {
               "form": "kunáγi",
-              "normalized": "kûnaği",
+              "normalized": "kunaği",
               "lemma": "kunagi",
               "gloss": "before",
               "pos": "",
@@ -13299,7 +13299,7 @@
         {
           "form": "bārút,",
           "ipa": "baːˈrut",
-          "zazaki": "barût,",
+          "zazaki": "barut,",
           "lemma": "barut",
           "display_gloss": "gunpowder",
           "gloss_tr": "barut",
@@ -13308,7 +13308,7 @@
           "morphemes": [
             {
               "form": "bārút",
-              "normalized": "barût",
+              "normalized": "barut",
               "lemma": "barut",
               "gloss": "gunpowder",
               "pos": "",
@@ -13322,7 +13322,7 @@
         {
           "form": "qi̥rqi̥šún",
           "ipa": "qɨrqɨˈʃun",
-          "zazaki": "qırqışûn",
+          "zazaki": "qırqışun",
           "lemma": "qirqisun",
           "display_gloss": "match",
           "gloss_tr": "",
@@ -13331,7 +13331,7 @@
           "morphemes": [
             {
               "form": "qi̥rqi̥šún",
-              "normalized": "qırqışûn",
+              "normalized": "qırqışun",
               "lemma": "qirqisun",
               "gloss": "match",
               "pos": "",
@@ -13468,8 +13468,8 @@
       "title": "H04 line 07: First battle and burning in H'yeni",
       "text": "peíye̱ pyéru e̱ršau’út pei kút̮ān, espā́r pyéru e̱ršau’út pei ré̱zān.",
       "lerch": "peíye̱ pyéru e̱ršau’út pei kút̮ān, espā́r pyéru e̱ršau’út pei ré̱zān.",
-      "ipa": "ˈpejjɛ ˈpjeru ɛrʃaw.ˈut pej ˈkut͡ʃaːn esˈpaːr ˈpjeru ɛrʃaw.ˈut pej ˈrɛzaːn",
-      "zazaki": "pêyye pyêrû erşawût pêy kûçan, êspar pyêrû erşawût pêy rezan.",
+      "ipa": "ˈpejɛ ˈpjeru ɛrʃaw.ˈut pej ˈkut͡ʃaːn esˈpaːr ˈpjeru ɛrʃaw.ˈut pej ˈrɛzaːn",
+      "zazaki": "pêye pyêru erşawut pêy kuçan, êspar pyêru erşawut pêy rezan.",
       "source_note": "",
       "russian_print_page": 111,
       "russian_scan_page": 125,
@@ -13480,11 +13480,11 @@
         },
         {
           "label": "IPA",
-          "value": "ˈpejjɛ ˈpjeru ɛrʃaw.ˈut pej ˈkut͡ʃaːn esˈpaːr ˈpjeru ɛrʃaw.ˈut pej ˈrɛzaːn"
+          "value": "ˈpejɛ ˈpjeru ɛrʃaw.ˈut pej ˈkut͡ʃaːn esˈpaːr ˈpjeru ɛrʃaw.ˈut pej ˈrɛzaːn"
         },
         {
           "label": "ZAZAKI",
-          "value": "pêyye pyêrû erşawût pêy kûçan, êspar pyêrû erşawût pêy rezan."
+          "value": "pêye pyêru erşawut pêy kuçan, êspar pyêru erşawut pêy rezan."
         },
         {
           "label": "ENGLISH",
@@ -13506,8 +13506,8 @@
       "tokens": [
         {
           "form": "peíye̱",
-          "ipa": "ˈpejjɛ",
-          "zazaki": "pêyye",
+          "ipa": "ˈpejɛ",
+          "zazaki": "pêye",
           "lemma": "peiye",
           "display_gloss": "infantry",
           "gloss_tr": "piyade",
@@ -13516,7 +13516,7 @@
           "morphemes": [
             {
               "form": "peíye̱",
-              "normalized": "pêyye",
+              "normalized": "pêye",
               "lemma": "peiye",
               "gloss": "infantry",
               "pos": "",
@@ -13530,7 +13530,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -13539,7 +13539,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -13553,7 +13553,7 @@
         {
           "form": "e̱ršau’út",
           "ipa": "ɛrʃaw.ˈut",
-          "zazaki": "erşawût",
+          "zazaki": "erşawut",
           "lemma": "ersauut",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -13562,7 +13562,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’út",
-              "normalized": "erşawût",
+              "normalized": "erşawut",
               "lemma": "ersauut",
               "gloss": "sent",
               "pos": "",
@@ -13599,7 +13599,7 @@
         {
           "form": "kút̮ān,",
           "ipa": "ˈkut͡ʃaːn",
-          "zazaki": "kûçan,",
+          "zazaki": "kuçan,",
           "lemma": "kut",
           "display_gloss": "meadows",
           "gloss_tr": "çayırlar",
@@ -13608,7 +13608,7 @@
           "morphemes": [
             {
               "form": "kút̮",
-              "normalized": "kûç",
+              "normalized": "kuç",
               "lemma": "kut",
               "gloss": "meadow",
               "pos": "",
@@ -13656,7 +13656,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -13665,7 +13665,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -13679,7 +13679,7 @@
         {
           "form": "e̱ršau’út",
           "ipa": "ɛrʃaw.ˈut",
-          "zazaki": "erşawût",
+          "zazaki": "erşawut",
           "lemma": "ersauut",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -13688,7 +13688,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’út",
-              "normalized": "erşawût",
+              "normalized": "erşawut",
               "lemma": "ersauut",
               "gloss": "sent",
               "pos": "",
@@ -13762,7 +13762,7 @@
           "start": 3,
           "end": 5,
           "lerch": "pei kút̮ān,",
-          "zazaki": "pêy kûçan",
+          "zazaki": "pêy kuçan",
           "english": "over the meadows",
           "turkish": "çayırlar üzerinden",
           "german": "über die Wiesen",
@@ -13789,7 +13789,7 @@
       "text": "Še̱fák bé̱stia bi̥rōšt h̔abér e̱ršau’úte Ńeríb Χalé̱f aγáiri vā ke: terés,",
       "lerch": "Še̱fák bé̱stia bi̥rōšt h̔abér e̱ršau’úte Ńeríb Χalé̱f aγáiri vā ke: terés,",
       "ipa": "ʃɛˈfak ˈbɛstja bɨroːʃt ħaˈber ɛrʃaw.ˈute ɲeˈrib χaˈlɛf aˈʁajri vaː ke teˈres",
-      "zazaki": "Şefak bestya bıroşt 'habêr erşawûtê Nyêrib Xalef ağayri va kê: têrês,",
+      "zazaki": "Şefak bestya bıroşt 'habêr erşawutê Nyêrib Xalef ağayri va kê: têrês,",
       "source_note": "",
       "russian_print_page": 111,
       "russian_scan_page": 125,
@@ -13804,7 +13804,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Şefak bestya bıroşt 'habêr erşawûtê Nyêrib Xalef ağayri va kê: têrês,"
+          "value": "Şefak bestya bıroşt 'habêr erşawutê Nyêrib Xalef ağayri va kê: têrês,"
         },
         {
           "label": "ENGLISH",
@@ -13919,7 +13919,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -13928,7 +13928,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -14094,7 +14094,7 @@
           "start": 3,
           "end": 5,
           "lerch": "h̔abér e̱ršau’úte",
-          "zazaki": "'habêr erşawûtê",
+          "zazaki": "'habêr erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -14111,7 +14111,7 @@
       "text": "é̱mšoe h̔e̱ta so̤bā́ e̱z ńe ra kaúta, só̤zi túe seńén’u, so̤zu te",
       "lerch": "é̱mšoe h̔e̱ta so̤bā́ e̱z ńe ra kaúta, só̤zi túe seńén’u, so̤zu te",
       "ipa": "ˈɛmʃoe ħɛta søˈbaː ɛz ɲe ra ˈkawta ˈsøzi ˈtwe seˈɲen.u søzu te",
-      "zazaki": "emşoê 'heta soba ez nyê ra kawta, sozi twê sênyênû, sozû tê",
+      "zazaki": "emşoê 'heta soba ez nyê ra kawta, sozi twê sênyênu, sozu tê",
       "source_note": "",
       "russian_print_page": 111,
       "russian_scan_page": 125,
@@ -14126,7 +14126,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "emşoê 'heta soba ez nyê ra kawta, sozi twê sênyênû, sozû tê"
+          "value": "emşoê 'heta soba ez nyê ra kawta, sozi twê sênyênu, sozu tê"
         },
         {
           "label": "ENGLISH",
@@ -14356,7 +14356,7 @@
         {
           "form": "seńén’u,",
           "ipa": "seˈɲen.u",
-          "zazaki": "sênyênû,",
+          "zazaki": "sênyênu,",
           "lemma": "senenu",
           "display_gloss": "what happened to",
           "gloss_tr": "ne oldu",
@@ -14365,7 +14365,7 @@
           "morphemes": [
             {
               "form": "seńén’u",
-              "normalized": "sênyênû",
+              "normalized": "sênyênu",
               "lemma": "senenu",
               "gloss": "what happened to",
               "pos": "",
@@ -14379,7 +14379,7 @@
         {
           "form": "so̤zu",
           "ipa": "søzu",
-          "zazaki": "sozû",
+          "zazaki": "sozu",
           "lemma": "sozu",
           "display_gloss": "promise",
           "gloss_tr": "söz",
@@ -14388,7 +14388,7 @@
           "morphemes": [
             {
               "form": "so̤zu",
-              "normalized": "sozû",
+              "normalized": "sozu",
               "lemma": "sozu",
               "gloss": "promise",
               "pos": "",
@@ -14653,7 +14653,7 @@
       "text": "Χalé̱f aγá we̱ríšt be espā́r, dúmilbā́zi dā pṳ́roe, kaut e̱skéri",
       "lerch": "Χalé̱f aγá we̱ríšt be espā́r, dúmilbā́zi dā pṳ́roe, kaut e̱skéri",
       "ipa": "χaˈlɛf aˈʁa wɛˈriʃt be esˈpaːr ˈdumilˈbaːzi daː ˈpyroe kawt ɛsˈkeri",
-      "zazaki": "Xalef ağa werişt bê êspar, dûmilbazi da pûroê, kawt eskêri",
+      "zazaki": "Xalef ağa werişt bê êspar, dumilbazi da püroê, kawt eskêri",
       "source_note": "",
       "russian_print_page": 111,
       "russian_scan_page": 125,
@@ -14668,7 +14668,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Xalef ağa werişt bê êspar, dûmilbazi da pûroê, kawt eskêri"
+          "value": "Xalef ağa werişt bê êspar, dumilbazi da püroê, kawt eskêri"
         },
         {
           "label": "ENGLISH",
@@ -14806,7 +14806,7 @@
         {
           "form": "dúmilbā́zi",
           "ipa": "ˈdumilˈbaːzi",
-          "zazaki": "dûmilbazi",
+          "zazaki": "dumilbazi",
           "lemma": "dumilbazi",
           "display_gloss": "drum",
           "gloss_tr": "davul",
@@ -14815,7 +14815,7 @@
           "morphemes": [
             {
               "form": "dúmilbā́zi",
-              "normalized": "dûmilbazi",
+              "normalized": "dumilbazi",
               "lemma": "dumilbazi",
               "gloss": "drum",
               "pos": "",
@@ -14852,7 +14852,7 @@
         {
           "form": "pṳ́roe,",
           "ipa": "ˈpyroe",
-          "zazaki": "pûroê,",
+          "zazaki": "püroê,",
           "lemma": "puroe",
           "display_gloss": "upon",
           "gloss_tr": "üzerine",
@@ -14861,7 +14861,7 @@
           "morphemes": [
             {
               "form": "pṳ́roe",
-              "normalized": "pûroê",
+              "normalized": "püroê",
               "lemma": "puroe",
               "gloss": "upon",
               "pos": "",
@@ -16576,7 +16576,7 @@
       "text": "diári Hʿyẹ̄́ni, auńaí ke: e̱skéri Dáqma bé̱gi pyéru h̔ā rūníste,",
       "lerch": "diári Hʿyẹ̄́ni, auńaí ke: e̱skéri Dáqma bé̱gi pyéru h̔ā rūníste,",
       "ipa": "ˈdjari ˈħje̝ːni awˈɲaj ke ɛsˈkeri ˈdaqma ˈbɛgi ˈpjeru ħaː ruːˈniste",
-      "zazaki": "dyari 'Hyêni, awnyay kê: eskêri Daqma begi pyêrû 'ha rûnistê,",
+      "zazaki": "dyari 'Hyêni, awnyay kê: eskêri Daqma begi pyêru 'ha runistê,",
       "source_note": "",
       "russian_print_page": 112,
       "russian_scan_page": 126,
@@ -16591,7 +16591,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dyari 'Hyêni, awnyay kê: eskêri Daqma begi pyêrû 'ha rûnistê,"
+          "value": "dyari 'Hyêni, awnyay kê: eskêri Daqma begi pyêru 'ha runistê,"
         },
         {
           "label": "ENGLISH",
@@ -16775,7 +16775,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -16784,7 +16784,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -16821,7 +16821,7 @@
         {
           "form": "rūníste,",
           "ipa": "ruːˈniste",
-          "zazaki": "rûnistê,",
+          "zazaki": "runistê,",
           "lemma": "runiste",
           "display_gloss": "sitting",
           "gloss_tr": "oturmuş",
@@ -16830,7 +16830,7 @@
           "morphemes": [
             {
               "form": "rūníste",
-              "normalized": "rûnistê",
+              "normalized": "runistê",
               "lemma": "runiste",
               "gloss": "sitting",
               "pos": "",
@@ -16852,8 +16852,8 @@
       "title": "H05 line 03: Daqma Beg requests delay; Xalef grants time",
       "text": "espā́r kai kén’u, qā́muk byu peíye̱, qā́muk nā wén’u, qā́muk gōvéndi",
       "lerch": "espā́r kai kén’u, qā́muk byu peíye̱, qā́muk nā wén’u, qā́muk gōvéndi",
-      "ipa": "esˈpaːr kaj ˈken.u ˈqaːmuk bju ˈpejjɛ ˈqaːmuk naː ˈwen.u ˈqaːmuk goːˈvendi",
-      "zazaki": "êspar kay kênû, qamûk byû pêyye, qamûk na wênû, qamûk govêndi",
+      "ipa": "esˈpaːr kaj ˈken.u ˈqaːmuk bju ˈpejɛ ˈqaːmuk naː ˈwen.u ˈqaːmuk goːˈvendi",
+      "zazaki": "êspar kay kênu, qamuk byu pêye, qamuk na wênu, qamuk govêndi",
       "source_note": "",
       "russian_print_page": 112,
       "russian_scan_page": 126,
@@ -16864,11 +16864,11 @@
         },
         {
           "label": "IPA",
-          "value": "esˈpaːr kaj ˈken.u ˈqaːmuk bju ˈpejjɛ ˈqaːmuk naː ˈwen.u ˈqaːmuk goːˈvendi"
+          "value": "esˈpaːr kaj ˈken.u ˈqaːmuk bju ˈpejɛ ˈqaːmuk naː ˈwen.u ˈqaːmuk goːˈvendi"
         },
         {
           "label": "ZAZAKI",
-          "value": "êspar kay kênû, qamûk byû pêyye, qamûk na wênû, qamûk govêndi"
+          "value": "êspar kay kênu, qamuk byu pêye, qamuk na wênu, qamuk govêndi"
         },
         {
           "label": "ENGLISH",
@@ -16937,7 +16937,7 @@
         {
           "form": "kén’u,",
           "ipa": "ˈken.u",
-          "zazaki": "kênû,",
+          "zazaki": "kênu,",
           "lemma": "kenu",
           "display_gloss": "does",
           "gloss_tr": "yapıyor",
@@ -16946,7 +16946,7 @@
           "morphemes": [
             {
               "form": "kén’u",
-              "normalized": "kênû",
+              "normalized": "kênu",
               "lemma": "kenu",
               "gloss": "does",
               "pos": "",
@@ -16960,7 +16960,7 @@
         {
           "form": "qā́muk",
           "ipa": "ˈqaːmuk",
-          "zazaki": "qamûk",
+          "zazaki": "qamuk",
           "lemma": "qamuk",
           "display_gloss": "some",
           "gloss_tr": "kimi",
@@ -16969,7 +16969,7 @@
           "morphemes": [
             {
               "form": "qā́muk",
-              "normalized": "qamûk",
+              "normalized": "qamuk",
               "lemma": "qamuk",
               "gloss": "some",
               "pos": "",
@@ -16983,7 +16983,7 @@
         {
           "form": "byu",
           "ipa": "bju",
-          "zazaki": "byû",
+          "zazaki": "byu",
           "lemma": "byu",
           "display_gloss": "were",
           "gloss_tr": "idi",
@@ -16992,7 +16992,7 @@
           "morphemes": [
             {
               "form": "byu",
-              "normalized": "byû",
+              "normalized": "byu",
               "lemma": "byu",
               "gloss": "were",
               "pos": "",
@@ -17005,8 +17005,8 @@
         },
         {
           "form": "peíye̱,",
-          "ipa": "ˈpejjɛ",
-          "zazaki": "pêyye,",
+          "ipa": "ˈpejɛ",
+          "zazaki": "pêye,",
           "lemma": "peiye",
           "display_gloss": "infantry",
           "gloss_tr": "piyade",
@@ -17015,7 +17015,7 @@
           "morphemes": [
             {
               "form": "peíye̱",
-              "normalized": "pêyye",
+              "normalized": "pêye",
               "lemma": "peiye",
               "gloss": "infantry",
               "pos": "",
@@ -17029,7 +17029,7 @@
         {
           "form": "qā́muk",
           "ipa": "ˈqaːmuk",
-          "zazaki": "qamûk",
+          "zazaki": "qamuk",
           "lemma": "qamuk",
           "display_gloss": "some",
           "gloss_tr": "kimi",
@@ -17038,7 +17038,7 @@
           "morphemes": [
             {
               "form": "qā́muk",
-              "normalized": "qamûk",
+              "normalized": "qamuk",
               "lemma": "qamuk",
               "gloss": "some",
               "pos": "",
@@ -17075,7 +17075,7 @@
         {
           "form": "wén’u,",
           "ipa": "ˈwen.u",
-          "zazaki": "wênû,",
+          "zazaki": "wênu,",
           "lemma": "wenu",
           "display_gloss": "eats",
           "gloss_tr": "yer",
@@ -17084,7 +17084,7 @@
           "morphemes": [
             {
               "form": "wén’u",
-              "normalized": "wênû",
+              "normalized": "wênu",
               "lemma": "wenu",
               "gloss": "eats",
               "pos": "",
@@ -17098,7 +17098,7 @@
         {
           "form": "qā́muk",
           "ipa": "ˈqaːmuk",
-          "zazaki": "qamûk",
+          "zazaki": "qamuk",
           "lemma": "qamuk",
           "display_gloss": "some",
           "gloss_tr": "kimi",
@@ -17107,7 +17107,7 @@
           "morphemes": [
             {
               "form": "qā́muk",
-              "normalized": "qamûk",
+              "normalized": "qamuk",
               "lemma": "qamuk",
               "gloss": "some",
               "pos": "",
@@ -17153,7 +17153,7 @@
       "text": "kén’u. Χalé̱f aγá veiṅ dā. Dáqma bé̱gi, vā ke: mi̥gaí’e",
       "lerch": "kén’u. Χalé̱f aγá veiṅ dā. Dáqma bé̱gi, vā ke: mi̥gaí’e",
       "ipa": "ˈken.u χaˈlɛf aˈʁa vejŋ daː ˈdaqma ˈbɛgi vaː ke mɨˈgaj.e",
-      "zazaki": "kênû. Xalef ağa vêyng da. Daqma begi, va kê: mıgayê",
+      "zazaki": "kênu. Xalef ağa vêyng da. Daqma begi, va kê: mıgayê",
       "source_note": "",
       "russian_print_page": 112,
       "russian_scan_page": 126,
@@ -17168,7 +17168,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kênû. Xalef ağa vêyng da. Daqma begi, va kê: mıgayê"
+          "value": "kênu. Xalef ağa vêyng da. Daqma begi, va kê: mıgayê"
         },
         {
           "label": "ENGLISH",
@@ -17191,7 +17191,7 @@
         {
           "form": "kén’u.",
           "ipa": "ˈken.u",
-          "zazaki": "kênû.",
+          "zazaki": "kênu.",
           "lemma": "kenu",
           "display_gloss": "does",
           "gloss_tr": "yapıyor",
@@ -17200,7 +17200,7 @@
           "morphemes": [
             {
               "form": "kén’u",
-              "normalized": "kênû",
+              "normalized": "kênu",
               "lemma": "kenu",
               "gloss": "does",
               "pos": "",
@@ -17762,8 +17762,8 @@
       "title": "H05 line 06: Daqma Beg requests delay; Xalef grants time",
       "text": "vé̱ṅga e̱skéri χóe dā vā ke: keíye h̔arébya yén’i, e̱skéri Χaléf",
       "lerch": "vé̱ṅga e̱skéri χóe dā vā ke: keíye h̔arébya yén’i, e̱skéri Χaléf",
-      "ipa": "ˈvɛŋga ɛsˈkeri ˈχoe daː vaː ke ˈkejje ħaˈrebja ˈjen.i ɛsˈkeri χaˈlef",
-      "zazaki": "venga eskêri xoê da va kê: kêyyê 'harêbya yêni, eskêri Xalêf",
+      "ipa": "ˈvɛŋga ɛsˈkeri ˈχoe daː vaː ke ˈkeje ħaˈrebja ˈjen.i ɛsˈkeri χaˈlef",
+      "zazaki": "venga eskêri xoê da va kê: kêyê 'harêbya yêni, eskêri Xalêf",
       "source_note": "",
       "russian_print_page": 112,
       "russian_scan_page": 126,
@@ -17774,11 +17774,11 @@
         },
         {
           "label": "IPA",
-          "value": "ˈvɛŋga ɛsˈkeri ˈχoe daː vaː ke ˈkejje ħaˈrebja ˈjen.i ɛsˈkeri χaˈlef"
+          "value": "ˈvɛŋga ɛsˈkeri ˈχoe daː vaː ke ˈkeje ħaˈrebja ˈjen.i ɛsˈkeri χaˈlef"
         },
         {
           "label": "ZAZAKI",
-          "value": "venga eskêri xoê da va kê: kêyyê 'harêbya yêni, eskêri Xalêf"
+          "value": "venga eskêri xoê da va kê: kêyê 'harêbya yêni, eskêri Xalêf"
         },
         {
           "label": "ENGLISH",
@@ -17938,8 +17938,8 @@
         },
         {
           "form": "keíye",
-          "ipa": "ˈkejje",
-          "zazaki": "kêyyê",
+          "ipa": "ˈkeje",
+          "zazaki": "kêyê",
           "lemma": "keiye",
           "display_gloss": "house",
           "gloss_tr": "ev",
@@ -17948,7 +17948,7 @@
           "morphemes": [
             {
               "form": "keíye",
-              "normalized": "kêyyê",
+              "normalized": "kêyê",
               "lemma": "keiye",
               "gloss": "house",
               "pos": "",
@@ -20505,7 +20505,7 @@
       "text": "e̱skéri me t̮ínu. Χalé̱f aγái h̔abé̱r e̱ršau’úte Dáqma bé̱giri vā ke:",
       "lerch": "e̱skéri me t̮ínu. Χalé̱f aγái h̔abé̱r e̱ršau’úte Dáqma bé̱giri vā ke:",
       "ipa": "ɛsˈkeri me ˈt͡ʃinu χaˈlɛf aˈʁaj ħaˈbɛr ɛrʃaw.ˈute ˈdaqma ˈbɛgiri vaː ke",
-      "zazaki": "eskêri mê çinû. Xalef ağay 'haber erşawûtê Daqma begiri va kê:",
+      "zazaki": "eskêri mê çinu. Xalef ağay 'haber erşawutê Daqma begiri va kê:",
       "source_note": "",
       "russian_print_page": 112,
       "russian_scan_page": 126,
@@ -20520,7 +20520,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "eskêri mê çinû. Xalef ağay 'haber erşawûtê Daqma begiri va kê:"
+          "value": "eskêri mê çinu. Xalef ağay 'haber erşawutê Daqma begiri va kê:"
         },
         {
           "label": "ENGLISH",
@@ -20589,7 +20589,7 @@
         {
           "form": "t̮ínu.",
           "ipa": "ˈt͡ʃinu",
-          "zazaki": "çinû.",
+          "zazaki": "çinu.",
           "lemma": "tinu",
           "display_gloss": "there is none",
           "gloss_tr": "yok",
@@ -20598,7 +20598,7 @@
           "morphemes": [
             {
               "form": "t̮ínu",
-              "normalized": "çinû",
+              "normalized": "çinu",
               "lemma": "tinu",
               "gloss": "there is none",
               "pos": "",
@@ -20681,7 +20681,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -20690,7 +20690,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -20810,7 +20810,7 @@
           "start": 5,
           "end": 7,
           "lerch": "h̔abé̱r e̱ršau’úte",
-          "zazaki": "'haber erşawûtê",
+          "zazaki": "'haber erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -21081,7 +21081,7 @@
       "text": "widā yau koéle̱ e̱ršau’út Χalé̱f aγáiri vā ke: e̱mán eféndim, t̮aúdi",
       "lerch": "widā yau koéle̱ e̱ršau’út Χalé̱f aγáiri vā ke: e̱mán eféndim, t̮aúdi",
       "ipa": "widaː jaw kˈoelɛ ɛrʃaw.ˈut χaˈlɛf aˈʁajri vaː ke ɛˈman eˈfendim ˈt͡ʃawdi",
-      "zazaki": "wida yaw koêle erşawût Xalef ağayri va kê: eman êfêndim, çawdi",
+      "zazaki": "wida yaw koêle erşawut Xalef ağayri va kê: eman êfêndim, çawdi",
       "source_note": "",
       "russian_print_page": 113,
       "russian_scan_page": 127,
@@ -21096,7 +21096,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "wida yaw koêle erşawût Xalef ağayri va kê: eman êfêndim, çawdi"
+          "value": "wida yaw koêle erşawut Xalef ağayri va kê: eman êfêndim, çawdi"
         },
         {
           "label": "ENGLISH",
@@ -21188,7 +21188,7 @@
         {
           "form": "e̱ršau’út",
           "ipa": "ɛrʃaw.ˈut",
-          "zazaki": "erşawût",
+          "zazaki": "erşawut",
           "lemma": "ersauut",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -21197,7 +21197,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’út",
-              "normalized": "erşawût",
+              "normalized": "erşawut",
               "lemma": "ersauut",
               "gloss": "sent",
               "pos": "",
@@ -21392,7 +21392,7 @@
       "text": "mā t̮ínu, ńešyén’a kauγé̱ bi̥ká, te mí̥de t̮itaú kauγé̱ kén’i? e̱z te",
       "lerch": "mā t̮ínu, ńešyén’a kauγé̱ bi̥ká, te mí̥de t̮itaú kauγé̱ kén’i? e̱z te",
       "ipa": "maː ˈt͡ʃinu ɲeʃˈjen.a kawˈʁɛ bɨˈka te ˈmɨde t͡ʃiˈtaw kawˈʁɛ ˈken.i ɛz te",
-      "zazaki": "ma çinû, nyêşyêna kawğe bıka, tê mıdê çitaw kawğe kêni? ez tê",
+      "zazaki": "ma çinu, nyêşyêna kawğe bıka, tê mıdê çitaw kawğe kêni? ez tê",
       "source_note": "",
       "russian_print_page": 113,
       "russian_scan_page": 127,
@@ -21407,7 +21407,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ma çinû, nyêşyêna kawğe bıka, tê mıdê çitaw kawğe kêni? ez tê"
+          "value": "ma çinu, nyêşyêna kawğe bıka, tê mıdê çitaw kawğe kêni? ez tê"
         },
         {
           "label": "ENGLISH",
@@ -21453,7 +21453,7 @@
         {
           "form": "t̮ínu,",
           "ipa": "ˈt͡ʃinu",
-          "zazaki": "çinû,",
+          "zazaki": "çinu,",
           "lemma": "tinu",
           "display_gloss": "there is none",
           "gloss_tr": "yok",
@@ -21462,7 +21462,7 @@
           "morphemes": [
             {
               "form": "t̮ínu",
-              "normalized": "çinû",
+              "normalized": "çinu",
               "lemma": "tinu",
               "gloss": "there is none",
               "pos": "",
@@ -21747,8 +21747,8 @@
       "title": "H06 line 04: Second mobilization and challenge",
       "text": "ńeíya. Χalé̱f aγái vā ke: bye e̱skéri e̱z dána túe, šúe bye mí̥de",
       "lerch": "ńeíya. Χalé̱f aγái vā ke: bye e̱skéri e̱z dána túe, šúe bye mí̥de",
-      "ipa": "ˈɲejja χaˈlɛf aˈʁaj vaː ke bje ɛsˈkeri ɛz ˈdana ˈtwe ˈʃwe bje ˈmɨde",
-      "zazaki": "nyêyya. Xalef ağay va kê: byê eskêri ez dana twê, şwê byê mıdê",
+      "ipa": "ˈɲeja χaˈlɛf aˈʁaj vaː ke bje ɛsˈkeri ɛz ˈdana ˈtwe ˈʃwe bje ˈmɨde",
+      "zazaki": "nyêya. Xalef ağay va kê: byê eskêri ez dana twê, şwê byê mıdê",
       "source_note": "",
       "russian_print_page": 113,
       "russian_scan_page": 127,
@@ -21759,11 +21759,11 @@
         },
         {
           "label": "IPA",
-          "value": "ˈɲejja χaˈlɛf aˈʁaj vaː ke bje ɛsˈkeri ɛz ˈdana ˈtwe ˈʃwe bje ˈmɨde"
+          "value": "ˈɲeja χaˈlɛf aˈʁaj vaː ke bje ɛsˈkeri ɛz ˈdana ˈtwe ˈʃwe bje ˈmɨde"
         },
         {
           "label": "ZAZAKI",
-          "value": "nyêyya. Xalef ağay va kê: byê eskêri ez dana twê, şwê byê mıdê"
+          "value": "nyêya. Xalef ağay va kê: byê eskêri ez dana twê, şwê byê mıdê"
         },
         {
           "label": "ENGLISH",
@@ -21785,8 +21785,8 @@
       "tokens": [
         {
           "form": "ńeíya.",
-          "ipa": "ˈɲejja",
-          "zazaki": "nyêyya.",
+          "ipa": "ˈɲeja",
+          "zazaki": "nyêya.",
           "lemma": "neiya",
           "display_gloss": "I am not",
           "gloss_tr": "değilim",
@@ -21795,7 +21795,7 @@
           "morphemes": [
             {
               "form": "ńeíya",
-              "normalized": "nyêyya",
+              "normalized": "nyêya",
               "lemma": "neiya",
               "gloss": "I am not",
               "pos": "",
@@ -22842,7 +22842,7 @@
       "text": "Dáqma bé̱gi h̔abé̱re e̱ršau’úte Χalé̱f aγáiri vā ke: des rṓd̮i",
       "lerch": "Dáqma bé̱gi h̔abé̱re e̱ršau’úte Χalé̱f aγáiri vā ke: des rṓd̮i",
       "ipa": "ˈdaqma ˈbɛgi ħaˈbɛre ɛrʃaw.ˈute χaˈlɛf aˈʁajri vaː ke des ˈroːd͡ʒi",
-      "zazaki": "Daqma begi 'haberê erşawûtê Xalef ağayri va kê: dês roci",
+      "zazaki": "Daqma begi 'haberê erşawutê Xalef ağayri va kê: dês roci",
       "source_note": "",
       "russian_print_page": 113,
       "russian_scan_page": 127,
@@ -22857,7 +22857,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Daqma begi 'haberê erşawûtê Xalef ağayri va kê: dês roci"
+          "value": "Daqma begi 'haberê erşawutê Xalef ağayri va kê: dês roci"
         },
         {
           "label": "ENGLISH",
@@ -22949,7 +22949,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -22958,7 +22958,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -23124,7 +23124,7 @@
           "start": 2,
           "end": 4,
           "lerch": "h̔abé̱re e̱ršau’úte",
-          "zazaki": "'haberê erşawûtê",
+          "zazaki": "'haberê erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -23842,7 +23842,7 @@
       "text": "pyéru ve̱šnén’a, sé̱rei túe wén’a. Dáqma bé̱gi h̔abé̱re e̱ršau’úte",
       "lerch": "pyéru ve̱šnén’a, sé̱rei túe wén’a. Dáqma bé̱gi h̔abé̱re e̱ršau’úte",
       "ipa": "ˈpjeru vɛʃˈnen.a ˈsɛrej ˈtwe ˈwen.a ˈdaqma ˈbɛgi ħaˈbɛre ɛrʃaw.ˈute",
-      "zazaki": "pyêrû veşnêna, serêy twê wêna. Daqma begi 'haberê erşawûtê",
+      "zazaki": "pyêru veşnêna, serêy twê wêna. Daqma begi 'haberê erşawutê",
       "source_note": "",
       "russian_print_page": 113,
       "russian_scan_page": 127,
@@ -23857,7 +23857,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "pyêrû veşnêna, serêy twê wêna. Daqma begi 'haberê erşawûtê"
+          "value": "pyêru veşnêna, serêy twê wêna. Daqma begi 'haberê erşawutê"
         },
         {
           "label": "ENGLISH",
@@ -23880,7 +23880,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -23889,7 +23889,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -24075,7 +24075,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -24084,7 +24084,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -24101,7 +24101,7 @@
           "start": 7,
           "end": 9,
           "lerch": "h̔abé̱re e̱ršau’úte",
-          "zazaki": "'haberê erşawûtê",
+          "zazaki": "'haberê erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -24128,7 +24128,7 @@
       "text": "Χalé̱f aγáiri vā ke: h̔éta vīst rōd̮ kauγé̱ me t̮íńu, wid̮āra pei e̱z",
       "lerch": "Χalé̱f aγáiri vā ke: h̔éta vīst rōd̮ kauγé̱ me t̮íńu, wid̮āra pei e̱z",
       "ipa": "χaˈlɛf aˈʁajri vaː ke ˈħeta viːst roːd͡ʒ kawˈʁɛ me ˈt͡ʃiɲu wid͡ʒaːra pej ɛz",
-      "zazaki": "Xalef ağayri va kê: 'hêta vist roc kawğe mê çinyû, wicara pêy ez",
+      "zazaki": "Xalef ağayri va kê: 'hêta vist roc kawğe mê çinyu, wicara pêy ez",
       "source_note": "",
       "russian_print_page": 113,
       "russian_scan_page": 127,
@@ -24143,7 +24143,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Xalef ağayri va kê: 'hêta vist roc kawğe mê çinyû, wicara pêy ez"
+          "value": "Xalef ağayri va kê: 'hêta vist roc kawğe mê çinyu, wicara pêy ez"
         },
         {
           "label": "ENGLISH",
@@ -24384,7 +24384,7 @@
         {
           "form": "t̮íńu,",
           "ipa": "ˈt͡ʃiɲu",
-          "zazaki": "çinyû,",
+          "zazaki": "çinyu,",
           "lemma": "tinu",
           "display_gloss": "there is none",
           "gloss_tr": "yok",
@@ -24393,7 +24393,7 @@
           "morphemes": [
             {
               "form": "t̮íńu",
-              "normalized": "çinyû",
+              "normalized": "çinyu",
               "lemma": "tinu",
               "gloss": "there is none",
               "pos": "",
@@ -24484,8 +24484,8 @@
       "title": "H06 line 13: Second mobilization and challenge",
       "text": "túeri h̔abé̱re e̱ršauwén’a. Χalé̱f aγá vā ke: pé̱ḱi, eféndim, h̔aídi",
       "lerch": "túeri h̔abé̱re e̱ršauwén’a. Χalé̱f aγá vā ke: pé̱ḱi, eféndim, h̔aídi",
-      "ipa": "ˈtweri ħaˈbɛre ɛrʃawˈwen.a χaˈlɛf aˈʁa vaː ke ˈpɛci eˈfendim ˈħajdi",
-      "zazaki": "twêri 'haberê erşawwêna. Xalef ağa va kê: peki, êfêndim, 'haydi",
+      "ipa": "ˈtweri ħaˈbɛre ɛrʃaˈwen.a χaˈlɛf aˈʁa vaː ke ˈpɛci eˈfendim ˈħajdi",
+      "zazaki": "twêri 'haberê erşawêna. Xalef ağa va kê: peki, êfêndim, 'haydi",
       "source_note": "",
       "russian_print_page": 113,
       "russian_scan_page": 127,
@@ -24496,11 +24496,11 @@
         },
         {
           "label": "IPA",
-          "value": "ˈtweri ħaˈbɛre ɛrʃawˈwen.a χaˈlɛf aˈʁa vaː ke ˈpɛci eˈfendim ˈħajdi"
+          "value": "ˈtweri ħaˈbɛre ɛrʃaˈwen.a χaˈlɛf aˈʁa vaː ke ˈpɛci eˈfendim ˈħajdi"
         },
         {
           "label": "ZAZAKI",
-          "value": "twêri 'haberê erşawwêna. Xalef ağa va kê: peki, êfêndim, 'haydi"
+          "value": "twêri 'haberê erşawêna. Xalef ağa va kê: peki, êfêndim, 'haydi"
         },
         {
           "label": "ENGLISH",
@@ -24579,8 +24579,8 @@
         },
         {
           "form": "e̱ršauwén’a.",
-          "ipa": "ɛrʃawˈwen.a",
-          "zazaki": "erşawwêna.",
+          "ipa": "ɛrʃaˈwen.a",
+          "zazaki": "erşawêna.",
           "lemma": "ersauwena",
           "display_gloss": "I will send",
           "gloss_tr": "göndereceğim",
@@ -24589,7 +24589,7 @@
           "morphemes": [
             {
               "form": "e̱ršauwén’a",
-              "normalized": "erşawwêna",
+              "normalized": "erşawêna",
               "lemma": "ersauwena",
               "gloss": "I will send",
               "pos": "",
@@ -24773,7 +24773,7 @@
       "text": "túeri ī́zmu; vīst rōd̮ maulét dā Dáqma bé̱gira.",
       "lerch": "túeri ī́zmu; vīst rōd̮ maulét dā Dáqma bé̱gira.",
       "ipa": "ˈtweri ˈiːzmu viːst roːd͡ʒ mawˈlet daː ˈdaqma ˈbɛgira",
-      "zazaki": "twêri izmû; vist roc mawlêt da Daqma begira.",
+      "zazaki": "twêri izmu; vist roc mawlêt da Daqma begira.",
       "source_note": "",
       "russian_print_page": 113,
       "russian_scan_page": 127,
@@ -24788,7 +24788,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "twêri izmû; vist roc mawlêt da Daqma begira."
+          "value": "twêri izmu; vist roc mawlêt da Daqma begira."
         },
         {
           "label": "ENGLISH",
@@ -24845,7 +24845,7 @@
         {
           "form": "ī́zmu;",
           "ipa": "ˈiːzmu",
-          "zazaki": "izmû;",
+          "zazaki": "izmu;",
           "lemma": "izmu",
           "display_gloss": "permission",
           "gloss_tr": "izin",
@@ -24854,7 +24854,7 @@
           "morphemes": [
             {
               "form": "ī́zmu",
-              "normalized": "izmû",
+              "normalized": "izmu",
               "lemma": "izmu",
               "gloss": "permission",
               "pos": "",
@@ -25649,7 +25649,7 @@
       "text": "e̱ršau’úte Ńeríb Χalé̱f aγáiri vā ke: e̱skéri me te̱mā́mu, meíšte e̱z",
       "lerch": "e̱ršau’úte Ńeríb Χalé̱f aγáiri vā ke: e̱skéri me te̱mā́mu, meíšte e̱z",
       "ipa": "ɛrʃaw.ˈute ɲeˈrib χaˈlɛf aˈʁajri vaː ke ɛsˈkeri me tɛˈmaːmu ˈmejʃte ɛz",
-      "zazaki": "erşawûtê Nyêrib Xalef ağayri va kê: eskêri mê temamû, mêyştê ez",
+      "zazaki": "erşawutê Nyêrib Xalef ağayri va kê: eskêri mê temamu, mêyştê ez",
       "source_note": "",
       "russian_print_page": 114,
       "russian_scan_page": 128,
@@ -25664,7 +25664,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "erşawûtê Nyêrib Xalef ağayri va kê: eskêri mê temamû, mêyştê ez"
+          "value": "erşawutê Nyêrib Xalef ağayri va kê: eskêri mê temamu, mêyştê ez"
         },
         {
           "label": "ENGLISH",
@@ -25687,7 +25687,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -25696,7 +25696,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -25882,7 +25882,7 @@
         {
           "form": "te̱mā́mu,",
           "ipa": "tɛˈmaːmu",
-          "zazaki": "temamû,",
+          "zazaki": "temamu,",
           "lemma": "temamu",
           "display_gloss": "ready",
           "gloss_tr": "tamam",
@@ -25891,7 +25891,7 @@
           "morphemes": [
             {
               "form": "te̱mā́mu",
-              "normalized": "temamû",
+              "normalized": "temamu",
               "lemma": "temamu",
               "gloss": "ready",
               "pos": "",
@@ -25960,7 +25960,7 @@
       "text": "yén’a kauγé̱, kauγé̱ me kauγaú. Χalé̱f aγái h̔abé̱re e̱ršau’úte",
       "lerch": "yén’a kauγé̱, kauγé̱ me kauγaú. Χalé̱f aγái h̔abé̱re e̱ršau’úte",
       "ipa": "ˈjen.a kawˈʁɛ kawˈʁɛ me kawˈʁaw χaˈlɛf aˈʁaj ħaˈbɛre ɛrʃaw.ˈute",
-      "zazaki": "yêna kawğe, kawğe mê kawğaw. Xalef ağay 'haberê erşawûtê",
+      "zazaki": "yêna kawğe, kawğe mê kawğaw. Xalef ağay 'haberê erşawutê",
       "source_note": "",
       "russian_print_page": 114,
       "russian_scan_page": 128,
@@ -25975,7 +25975,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "yêna kawğe, kawğe mê kawğaw. Xalef ağay 'haberê erşawûtê"
+          "value": "yêna kawğe, kawğe mê kawğaw. Xalef ağay 'haberê erşawutê"
         },
         {
           "label": "ENGLISH",
@@ -26182,7 +26182,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -26191,7 +26191,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -26208,7 +26208,7 @@
           "start": 7,
           "end": 9,
           "lerch": "h̔abé̱re e̱ršau’úte",
-          "zazaki": "'haberê erşawûtê",
+          "zazaki": "'haberê erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -26569,7 +26569,7 @@
       "text": "yén’a dúzi Hʿé̱myera, te e̱skéri χóe bi̥gé, bye pei re̱zā́n me̱tí̥risi,",
       "lerch": "yén’a dúzi Hʿé̱myera, te e̱skéri χóe bi̥gé, bye pei re̱zā́n me̱tí̥risi,",
       "ipa": "ˈjen.a ˈduzi ˈħɛmjera te ɛsˈkeri ˈχoe bɨˈge bje pej rɛˈzaːn mɛˈtɨrisi",
-      "zazaki": "yêna dûzi 'Hemyêra, tê eskêri xoê bıgê, byê pêy rezan metırisi,",
+      "zazaki": "yêna duzi 'Hemyêra, tê eskêri xoê bıgê, byê pêy rezan metırisi,",
       "source_note": "",
       "russian_print_page": 114,
       "russian_scan_page": 128,
@@ -26584,7 +26584,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "yêna dûzi 'Hemyêra, tê eskêri xoê bıgê, byê pêy rezan metırisi,"
+          "value": "yêna duzi 'Hemyêra, tê eskêri xoê bıgê, byê pêy rezan metırisi,"
         },
         {
           "label": "ENGLISH",
@@ -26630,7 +26630,7 @@
         {
           "form": "dúzi",
           "ipa": "ˈduzi",
-          "zazaki": "dûzi",
+          "zazaki": "duzi",
           "lemma": "duzi",
           "display_gloss": "field",
           "gloss_tr": "ova",
@@ -26639,7 +26639,7 @@
           "morphemes": [
             {
               "form": "dúzi",
-              "normalized": "dûzi",
+              "normalized": "duzi",
               "lemma": "duzi",
               "gloss": "field",
               "pos": "",
@@ -27301,7 +27301,7 @@
       "text": "Dáqma bé̱gi h̔abé̱r e̱ršau’úte Χalé̱f aγáiri vā ke: mévi̥nde, šā́nde",
       "lerch": "Dáqma bé̱gi h̔abé̱r e̱ršau’úte Χalé̱f aγáiri vā ke: mévi̥nde, šā́nde",
       "ipa": "ˈdaqma ˈbɛgi ħaˈbɛr ɛrʃaw.ˈute χaˈlɛf aˈʁajri vaː ke ˈmevɨnde ˈʃaːnde",
-      "zazaki": "Daqma begi 'haber erşawûtê Xalef ağayri va kê: mêvındê, şandê",
+      "zazaki": "Daqma begi 'haber erşawutê Xalef ağayri va kê: mêvındê, şandê",
       "source_note": "",
       "russian_print_page": 114,
       "russian_scan_page": 128,
@@ -27316,7 +27316,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Daqma begi 'haber erşawûtê Xalef ağayri va kê: mêvındê, şandê"
+          "value": "Daqma begi 'haber erşawutê Xalef ağayri va kê: mêvındê, şandê"
         },
         {
           "label": "ENGLISH",
@@ -27408,7 +27408,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -27417,7 +27417,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -27594,7 +27594,7 @@
           "start": 2,
           "end": 4,
           "lerch": "h̔abé̱r e̱ršau’úte",
-          "zazaki": "'haber erşawûtê",
+          "zazaki": "'haber erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -27611,7 +27611,7 @@
       "text": "yén’i, sebāh bye. Χalé̱f aγá h̔abér e̱ršau’úte Dáqma bé̱giri vā ke:",
       "lerch": "yén’i, sebāh bye. Χalé̱f aγá h̔abér e̱ršau’úte Dáqma bé̱giri vā ke:",
       "ipa": "ˈjen.i sebaːh bje χaˈlɛf aˈʁa ħaˈber ɛrʃaw.ˈute ˈdaqma ˈbɛgiri vaː ke",
-      "zazaki": "yêni, sêbah byê. Xalef ağa 'habêr erşawûtê Daqma begiri va kê:",
+      "zazaki": "yêni, sêbah byê. Xalef ağa 'habêr erşawutê Daqma begiri va kê:",
       "source_note": "",
       "russian_print_page": 114,
       "russian_scan_page": 128,
@@ -27626,7 +27626,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "yêni, sêbah byê. Xalef ağa 'habêr erşawûtê Daqma begiri va kê:"
+          "value": "yêni, sêbah byê. Xalef ağa 'habêr erşawutê Daqma begiri va kê:"
         },
         {
           "label": "ENGLISH",
@@ -27787,7 +27787,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -27796,7 +27796,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -27916,7 +27916,7 @@
           "start": 5,
           "end": 7,
           "lerch": "h̔abér e̱ršau’úte",
-          "zazaki": "'habêr erşawûtê",
+          "zazaki": "'habêr erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -27933,7 +27933,7 @@
       "text": "ḗ̱n’a h̔āle e̱z āmá. Dáqma bé̱gi h̔abé̱r e̱ršau’úte Χalé̱f aγaíri vā",
       "lerch": "ḗ̱n’a h̔āle e̱z āmá. Dáqma bé̱gi h̔abé̱r e̱ršau’úte Χalé̱f aγaíri vā",
       "ipa": "ˈɛːn.a ħaːle ɛz aːˈma ˈdaqma ˈbɛgi ħaˈbɛr ɛrʃaw.ˈute χaˈlɛf aˈʁajri vaː",
-      "zazaki": "ena 'halê ez ama. Daqma begi 'haber erşawûtê Xalef ağayri va",
+      "zazaki": "ena 'halê ez ama. Daqma begi 'haber erşawutê Xalef ağayri va",
       "source_note": "",
       "russian_print_page": 114,
       "russian_scan_page": 128,
@@ -27948,7 +27948,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ena 'halê ez ama. Daqma begi 'haber erşawûtê Xalef ağayri va"
+          "value": "ena 'halê ez ama. Daqma begi 'haber erşawutê Xalef ağayri va"
         },
         {
           "label": "ENGLISH",
@@ -28132,7 +28132,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -28141,7 +28141,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -28238,7 +28238,7 @@
           "start": 6,
           "end": 8,
           "lerch": "h̔abé̱r e̱ršau’úte",
-          "zazaki": "'haber erşawûtê",
+          "zazaki": "'haber erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -28463,7 +28463,7 @@
       "text": "Χalé̱f aγá we̱ríšt, dumilbā́ze dai pṳ́roe. Eskéri Χalé̱f aγá",
       "lerch": "Χalé̱f aγá we̱ríšt, dumilbā́ze dai pṳ́roe. Eskéri Χalé̱f aγá",
       "ipa": "χaˈlɛf aˈʁa wɛˈriʃt dumilˈbaːze daj ˈpyroe esˈkeri χaˈlɛf aˈʁa",
-      "zazaki": "Xalef ağa werişt, dûmilbazê day pûroê. Êskêri Xalef ağa",
+      "zazaki": "Xalef ağa werişt, dumilbazê day püroê. Êskêri Xalef ağa",
       "source_note": "",
       "russian_print_page": 114,
       "russian_scan_page": 128,
@@ -28478,7 +28478,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Xalef ağa werişt, dûmilbazê day pûroê. Êskêri Xalef ağa"
+          "value": "Xalef ağa werişt, dumilbazê day püroê. Êskêri Xalef ağa"
         },
         {
           "label": "ENGLISH",
@@ -28570,7 +28570,7 @@
         {
           "form": "dumilbā́ze",
           "ipa": "dumilˈbaːze",
-          "zazaki": "dûmilbazê",
+          "zazaki": "dumilbazê",
           "lemma": "dumilbaze",
           "display_gloss": "drums",
           "gloss_tr": "davullar",
@@ -28579,7 +28579,7 @@
           "morphemes": [
             {
               "form": "dumilbā́ze",
-              "normalized": "dûmilbazê",
+              "normalized": "dumilbazê",
               "lemma": "dumilbaze",
               "gloss": "drums",
               "pos": "",
@@ -28616,7 +28616,7 @@
         {
           "form": "pṳ́roe.",
           "ipa": "ˈpyroe",
-          "zazaki": "pûroê.",
+          "zazaki": "püroê.",
           "lemma": "puroe",
           "display_gloss": "upon",
           "gloss_tr": "üzerine",
@@ -28625,7 +28625,7 @@
           "morphemes": [
             {
               "form": "pṳ́roe",
-              "normalized": "pûroê",
+              "normalized": "püroê",
               "lemma": "puroe",
               "gloss": "upon",
               "pos": "",
@@ -28717,7 +28717,7 @@
       "text": "pyéru āmé̱ pyesé̱r, Χalé̱f aγá vā ke e̱skéri χóera: baúni, aγalér,",
       "lerch": "pyéru āmé̱ pyesé̱r, Χalé̱f aγá vā ke e̱skéri χóera: baúni, aγalér,",
       "ipa": "ˈpjeru aːˈmɛ pjeˈsɛr χaˈlɛf aˈʁa vaː ke ɛsˈkeri ˈχoera ˈbawni aʁaˈler",
-      "zazaki": "pyêrû ame pyêser, Xalef ağa va kê eskêri xoêra: bawni, ağalêr,",
+      "zazaki": "pyêru ame pyêser, Xalef ağa va kê eskêri xoêra: bawni, ağalêr,",
       "source_note": "",
       "russian_print_page": 114,
       "russian_scan_page": 128,
@@ -28732,7 +28732,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "pyêrû ame pyêser, Xalef ağa va kê eskêri xoêra: bawni, ağalêr,"
+          "value": "pyêru ame pyêser, Xalef ağa va kê eskêri xoêra: bawni, ağalêr,"
         },
         {
           "label": "ENGLISH",
@@ -28755,7 +28755,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -28764,7 +28764,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -29028,7 +29028,7 @@
       "text": "mā šuén’i kauγé̱, métersi, e̱skéri Dáqma bé̱gi zā́vu, hé̱m’a pyéru",
       "lerch": "mā šuén’i kauγé̱, métersi, e̱skéri Dáqma bé̱gi zā́vu, hé̱m’a pyéru",
       "ipa": "maː ˈʃwen.i kawˈʁɛ ˈmetersi ɛsˈkeri ˈdaqma ˈbɛgi ˈzaːvu ˈhɛm.a ˈpjeru",
-      "zazaki": "ma şwêni kawğe, mêtêrsi, eskêri Daqma begi zavû, hema pyêrû",
+      "zazaki": "ma şwêni kawğe, mêtêrsi, eskêri Daqma begi zavu, hema pyêru",
       "source_note": "",
       "russian_print_page": 114,
       "russian_scan_page": 128,
@@ -29043,7 +29043,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ma şwêni kawğe, mêtêrsi, eskêri Daqma begi zavû, hema pyêrû"
+          "value": "ma şwêni kawğe, mêtêrsi, eskêri Daqma begi zavu, hema pyêru"
         },
         {
           "label": "ENGLISH",
@@ -29238,7 +29238,7 @@
         {
           "form": "zā́vu,",
           "ipa": "ˈzaːvu",
-          "zazaki": "zavû,",
+          "zazaki": "zavu,",
           "lemma": "zavu",
           "display_gloss": "many",
           "gloss_tr": "çok",
@@ -29247,7 +29247,7 @@
           "morphemes": [
             {
               "form": "zā́vu",
-              "normalized": "zavû",
+              "normalized": "zavu",
               "lemma": "zavu",
               "gloss": "many",
               "pos": "",
@@ -29284,7 +29284,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -29293,7 +29293,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -29316,7 +29316,7 @@
       "text": "Tí̥rki, ńešéṅ’i mā́de kauγé̱ bi̥kí, mā pyéru d̮āṅ mí̥rdi kí̥rdāni,",
       "lerch": "Tí̥rki, ńešéṅ’i mā́de kauγé̱ bi̥kí, mā pyéru d̮āṅ mí̥rdi kí̥rdāni,",
       "ipa": "ˈtɨrki ɲeˈʃeŋ.i ˈmaːde kawˈʁɛ bɨˈki maː ˈpjeru d͡ʒaːŋ ˈmɨrdi ˈkɨrdaːni",
-      "zazaki": "Tırki, nyêşêngi madê kawğe bıki, ma pyêrû cang mırdi kırdani,",
+      "zazaki": "Tırki, nyêşêngi madê kawğe bıki, ma pyêru cang mırdi kırdani,",
       "source_note": "",
       "russian_print_page": 114,
       "russian_scan_page": 128,
@@ -29331,7 +29331,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Tırki, nyêşêngi madê kawğe bıki, ma pyêrû cang mırdi kırdani,"
+          "value": "Tırki, nyêşêngi madê kawğe bıki, ma pyêru cang mırdi kırdani,"
         },
         {
           "label": "ENGLISH",
@@ -29514,7 +29514,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -29523,7 +29523,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -29626,7 +29626,7 @@
       "text": "myérdei aširā́ni, mé̱tersi, mā h̔ā šuén’i, h̔é̱take sé̱rei me ńewén’u,",
       "lerch": "myérdei aširā́ni, mé̱tersi, mā h̔ā šuén’i, h̔é̱take sé̱rei me ńewén’u,",
       "ipa": "ˈmjerdej aʃiˈraːni ˈmɛtersi maː ħaː ˈʃwen.i ˈħɛtake ˈsɛrej me ɲeˈwen.u",
-      "zazaki": "myêrdêy aşirani, metêrsi, ma 'ha şwêni, 'hetakê serêy mê nyêwênû,",
+      "zazaki": "myêrdêy aşirani, metêrsi, ma 'ha şwêni, 'hetakê serêy mê nyêwênu,",
       "source_note": "",
       "russian_print_page": 115,
       "russian_scan_page": 129,
@@ -29641,7 +29641,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "myêrdêy aşirani, metêrsi, ma 'ha şwêni, 'hetakê serêy mê nyêwênû,"
+          "value": "myêrdêy aşirani, metêrsi, ma 'ha şwêni, 'hetakê serêy mê nyêwênu,"
         },
         {
           "label": "ENGLISH",
@@ -29882,7 +29882,7 @@
         {
           "form": "ńewén’u,",
           "ipa": "ɲeˈwen.u",
-          "zazaki": "nyêwênû,",
+          "zazaki": "nyêwênu,",
           "lemma": "ne-",
           "display_gloss": "is not cut off",
           "gloss_tr": "kesilmez",
@@ -29902,7 +29902,7 @@
             },
             {
               "form": "wén’u",
-              "normalized": "wênû",
+              "normalized": "wênu",
               "lemma": "wenu",
               "gloss": "cut off",
               "pos": "",
@@ -29925,7 +29925,7 @@
       "text": "ši̥m t̮eíwiri t̮i̥ t̮íńu. E̱skéri Χalé̱f aγái vā ke: mā h̔ā šuén’i,",
       "lerch": "ši̥m t̮eíwiri t̮i̥ t̮íńu. E̱skéri Χalé̱f aγái vā ke: mā h̔ā šuén’i,",
       "ipa": "ʃɨm ˈt͡ʃejwiri t͡ʃɨ ˈt͡ʃiɲu ɛsˈkeri χaˈlɛf aˈʁaj vaː ke maː ħaː ˈʃwen.i",
-      "zazaki": "şım çêywiri çı çinyû. Eskêri Xalef ağay va kê: ma 'ha şwêni,",
+      "zazaki": "şım çêywiri çı çinyu. Eskêri Xalef ağay va kê: ma 'ha şwêni,",
       "source_note": "",
       "russian_print_page": 115,
       "russian_scan_page": 129,
@@ -29940,7 +29940,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "şım çêywiri çı çinyû. Eskêri Xalef ağay va kê: ma 'ha şwêni,"
+          "value": "şım çêywiri çı çinyu. Eskêri Xalef ağay va kê: ma 'ha şwêni,"
         },
         {
           "label": "ENGLISH",
@@ -30032,7 +30032,7 @@
         {
           "form": "t̮íńu.",
           "ipa": "ˈt͡ʃiɲu",
-          "zazaki": "çinyû.",
+          "zazaki": "çinyu.",
           "lemma": "tinu",
           "display_gloss": "there is none",
           "gloss_tr": "yok",
@@ -30041,7 +30041,7 @@
           "morphemes": [
             {
               "form": "t̮íńu",
-              "normalized": "çinyû",
+              "normalized": "çinyu",
               "lemma": "tinu",
               "gloss": "there is none",
               "pos": "",
@@ -30248,7 +30248,7 @@
       "text": "h̔éta ńémiri túeri t̮i̥ t̮íńu. Χalé̱f aγá vā ke: āferém ā́γálerim.",
       "lerch": "h̔éta ńémiri túeri t̮i̥ t̮íńu. Χalé̱f aγá vā ke: āferém ā́γálerim.",
       "ipa": "ˈħeta ˈɲemiri ˈtweri t͡ʃɨ ˈt͡ʃiɲu χaˈlɛf aˈʁa vaː ke aːfeˈrem ˈaːˈʁalerim",
-      "zazaki": "'hêta nyêmiri twêri çı çinyû. Xalef ağa va kê: afêrêm ağalêrim.",
+      "zazaki": "'hêta nyêmiri twêri çı çinyu. Xalef ağa va kê: afêrêm ağalêrim.",
       "source_note": "",
       "russian_print_page": 115,
       "russian_scan_page": 129,
@@ -30263,7 +30263,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "'hêta nyêmiri twêri çı çinyû. Xalef ağa va kê: afêrêm ağalêrim."
+          "value": "'hêta nyêmiri twêri çı çinyu. Xalef ağa va kê: afêrêm ağalêrim."
         },
         {
           "label": "ENGLISH",
@@ -30400,7 +30400,7 @@
         {
           "form": "t̮íńu.",
           "ipa": "ˈt͡ʃiɲu",
-          "zazaki": "çinyû.",
+          "zazaki": "çinyu.",
           "lemma": "tinu",
           "display_gloss": "there is none",
           "gloss_tr": "yok",
@@ -30409,7 +30409,7 @@
           "morphemes": [
             {
               "form": "t̮íńu",
-              "normalized": "çinyû",
+              "normalized": "çinyu",
               "lemma": "tinu",
               "gloss": "there is none",
               "pos": "",
@@ -30870,7 +30870,7 @@
       "text": "auńaí ke e̱skéri Dáqma bé̱gi pyéru tā́bure bésta pei re̱zā́nde.",
       "lerch": "auńaí ke e̱skéri Dáqma bé̱gi pyéru tā́bure bésta pei re̱zā́nde.",
       "ipa": "awˈɲaj ke ɛsˈkeri ˈdaqma ˈbɛgi ˈpjeru ˈtaːbure ˈbesta pej rɛˈzaːnde",
-      "zazaki": "awnyay kê eskêri Daqma begi pyêrû tabûrê bêsta pêy rezandê.",
+      "zazaki": "awnyay kê eskêri Daqma begi pyêru taburê bêsta pêy rezandê.",
       "source_note": "",
       "russian_print_page": 115,
       "russian_scan_page": 129,
@@ -30885,7 +30885,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "awnyay kê eskêri Daqma begi pyêrû tabûrê bêsta pêy rezandê."
+          "value": "awnyay kê eskêri Daqma begi pyêru taburê bêsta pêy rezandê."
         },
         {
           "label": "ENGLISH",
@@ -31023,7 +31023,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -31032,7 +31032,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -31046,7 +31046,7 @@
         {
           "form": "tā́bure",
           "ipa": "ˈtaːbure",
-          "zazaki": "tabûrê",
+          "zazaki": "taburê",
           "lemma": "tabure",
           "display_gloss": "cartridges",
           "gloss_tr": "fişekler",
@@ -31055,7 +31055,7 @@
           "morphemes": [
             {
               "form": "tā́bure",
-              "normalized": "tabûrê",
+              "normalized": "taburê",
               "lemma": "tabure",
               "gloss": "cartridges",
               "pos": "",
@@ -32782,7 +32782,7 @@
       "text": "Χalé̱f aγái e̱skéri χóe kerā́nd, āmé̱ Ńeríbu, aunái ke: e̱skéri",
       "lerch": "Χalé̱f aγái e̱skéri χóe kerā́nd, āmé̱ Ńeríbu, aunái ke: e̱skéri",
       "ipa": "χaˈlɛf aˈʁaj ɛsˈkeri ˈχoe keˈraːnd aːˈmɛ ɲeˈribu awˈnaj ke ɛsˈkeri",
-      "zazaki": "Xalef ağay eskêri xoê kêrand, ame Nyêribû, awnay kê: eskêri",
+      "zazaki": "Xalef ağay eskêri xoê kêrand, ame Nyêribu, awnay kê: eskêri",
       "source_note": "",
       "russian_print_page": 115,
       "russian_scan_page": 129,
@@ -32797,7 +32797,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Xalef ağay eskêri xoê kêrand, ame Nyêribû, awnay kê: eskêri"
+          "value": "Xalef ağay eskêri xoê kêrand, ame Nyêribu, awnay kê: eskêri"
         },
         {
           "label": "ENGLISH",
@@ -32958,7 +32958,7 @@
         {
           "form": "Ńeríbu,",
           "ipa": "ɲeˈribu",
-          "zazaki": "Nyêribû,",
+          "zazaki": "Nyêribu,",
           "lemma": "neribu",
           "display_gloss": "to Nerib",
           "gloss_tr": "Nyêrib'e",
@@ -32967,7 +32967,7 @@
           "morphemes": [
             {
               "form": "Ńeríbu",
-              "normalized": "Nyêribû",
+              "normalized": "Nyêribu",
               "lemma": "neribu",
               "gloss": "to Nerib",
               "pos": "",
@@ -33059,7 +33059,7 @@
       "text": "χóede šeíšti ten t̮ínu, h̔abé̱r e̱ršau’úte Dáqma bé̱giri vā ke: šeíšti",
       "lerch": "χóede šeíšti ten t̮ínu, h̔abé̱r e̱ršau’úte Dáqma bé̱giri vā ke: šeíšti",
       "ipa": "ˈχoede ˈʃejʃti ten ˈt͡ʃinu ħaˈbɛr ɛrʃaw.ˈute ˈdaqma ˈbɛgiri vaː ke ˈʃejʃti",
-      "zazaki": "xoêdê şêyşti tên çinû, 'haber erşawûtê Daqma begiri va kê: şêyşti",
+      "zazaki": "xoêdê şêyşti tên çinu, 'haber erşawutê Daqma begiri va kê: şêyşti",
       "source_note": "",
       "russian_print_page": 115,
       "russian_scan_page": 129,
@@ -33074,7 +33074,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "xoêdê şêyşti tên çinû, 'haber erşawûtê Daqma begiri va kê: şêyşti"
+          "value": "xoêdê şêyşti tên çinu, 'haber erşawutê Daqma begiri va kê: şêyşti"
         },
         {
           "label": "ENGLISH",
@@ -33177,7 +33177,7 @@
         {
           "form": "t̮ínu,",
           "ipa": "ˈt͡ʃinu",
-          "zazaki": "çinû,",
+          "zazaki": "çinu,",
           "lemma": "tinu",
           "display_gloss": "there is none",
           "gloss_tr": "yok",
@@ -33186,7 +33186,7 @@
           "morphemes": [
             {
               "form": "t̮ínu",
-              "normalized": "çinû",
+              "normalized": "çinu",
               "lemma": "tinu",
               "gloss": "there is none",
               "pos": "",
@@ -33223,7 +33223,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -33232,7 +33232,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -33375,7 +33375,7 @@
           "start": 4,
           "end": 6,
           "lerch": "h̔abé̱r e̱ršau’úte",
-          "zazaki": "'haber erşawûtê",
+          "zazaki": "'haber erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -33392,7 +33392,7 @@
       "text": "ten e̱skéri méra t̮ínu. Dáqma bé̱gi h̔abé̱r e̱ršau’úte Χalé̱f aγáiri",
       "lerch": "ten e̱skéri méra t̮ínu. Dáqma bé̱gi h̔abé̱r e̱ršau’úte Χalé̱f aγáiri",
       "ipa": "ten ɛsˈkeri ˈmera ˈt͡ʃinu ˈdaqma ˈbɛgi ħaˈbɛr ɛrʃaw.ˈute χaˈlɛf aˈʁajri",
-      "zazaki": "tên eskêri mêra çinû. Daqma begi 'haber erşawûtê Xalef ağayri",
+      "zazaki": "tên eskêri mêra çinu. Daqma begi 'haber erşawutê Xalef ağayri",
       "source_note": "",
       "russian_print_page": 115,
       "russian_scan_page": 129,
@@ -33407,7 +33407,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "tên eskêri mêra çinû. Daqma begi 'haber erşawûtê Xalef ağayri"
+          "value": "tên eskêri mêra çinu. Daqma begi 'haber erşawutê Xalef ağayri"
         },
         {
           "label": "ENGLISH",
@@ -33510,7 +33510,7 @@
         {
           "form": "t̮ínu.",
           "ipa": "ˈt͡ʃinu",
-          "zazaki": "çinû.",
+          "zazaki": "çinu.",
           "lemma": "tinu",
           "display_gloss": "there is none",
           "gloss_tr": "yok",
@@ -33519,7 +33519,7 @@
           "morphemes": [
             {
               "form": "t̮ínu",
-              "normalized": "çinû",
+              "normalized": "çinu",
               "lemma": "tinu",
               "gloss": "there is none",
               "pos": "",
@@ -33602,7 +33602,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -33611,7 +33611,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -33685,7 +33685,7 @@
           "start": 6,
           "end": 8,
           "lerch": "h̔abé̱r e̱ršau’úte",
-          "zazaki": "'haber erşawûtê",
+          "zazaki": "'haber erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -33702,7 +33702,7 @@
       "text": "vā ke: e̱skéri túe šeíšti ten t̮ínu, e̱skéri me sau heíšte ten t̮ínu,",
       "lerch": "vā ke: e̱skéri túe šeíšti ten t̮ínu, e̱skéri me sau heíšte ten t̮ínu,",
       "ipa": "vaː ke ɛsˈkeri ˈtwe ˈʃejʃti ten ˈt͡ʃinu ɛsˈkeri me saw ˈhejʃte ten ˈt͡ʃinu",
-      "zazaki": "va kê: eskêri twê şêyşti tên çinû, eskêri mê saw hêyştê tên çinû,",
+      "zazaki": "va kê: eskêri twê şêyşti tên çinu, eskêri mê saw hêyştê tên çinu,",
       "source_note": "",
       "russian_print_page": 116,
       "russian_scan_page": 130,
@@ -33717,7 +33717,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "va kê: eskêri twê şêyşti tên çinû, eskêri mê saw hêyştê tên çinû,"
+          "value": "va kê: eskêri twê şêyşti tên çinu, eskêri mê saw hêyştê tên çinu,"
         },
         {
           "label": "ENGLISH",
@@ -33878,7 +33878,7 @@
         {
           "form": "t̮ínu,",
           "ipa": "ˈt͡ʃinu",
-          "zazaki": "çinû,",
+          "zazaki": "çinu,",
           "lemma": "tinu",
           "display_gloss": "there is none",
           "gloss_tr": "yok",
@@ -33887,7 +33887,7 @@
           "morphemes": [
             {
               "form": "t̮ínu",
-              "normalized": "çinû",
+              "normalized": "çinu",
               "lemma": "tinu",
               "gloss": "there is none",
               "pos": "",
@@ -34016,7 +34016,7 @@
         {
           "form": "t̮ínu,",
           "ipa": "ˈt͡ʃinu",
-          "zazaki": "çinû,",
+          "zazaki": "çinu,",
           "lemma": "tinu",
           "display_gloss": "there is none",
           "gloss_tr": "yok",
@@ -34025,7 +34025,7 @@
           "morphemes": [
             {
               "form": "t̮ínu",
-              "normalized": "çinû",
+              "normalized": "çinu",
               "lemma": "tinu",
               "gloss": "there is none",
               "pos": "",
@@ -34048,7 +34048,7 @@
       "text": "pyéru kišyái, bye meitāni χóe bé̱re, meitāni me wáde̱re t̮aúde",
       "lerch": "pyéru kišyái, bye meitāni χóe bé̱re, meitāni me wáde̱re t̮aúde",
       "ipa": "ˈpjeru kiʃˈjaj bje mejtaːni ˈχoe ˈbɛre mejtaːni me ˈwadɛre ˈt͡ʃawde",
-      "zazaki": "pyêrû kişyay, byê mêytani xoê berê, mêytani mê waderê çawdê",
+      "zazaki": "pyêru kişyay, byê mêytani xoê berê, mêytani mê waderê çawdê",
       "source_note": "",
       "russian_print_page": 116,
       "russian_scan_page": 130,
@@ -34063,7 +34063,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "pyêrû kişyay, byê mêytani xoê berê, mêytani mê waderê çawdê"
+          "value": "pyêru kişyay, byê mêytani xoê berê, mêytani mê waderê çawdê"
         },
         {
           "label": "ENGLISH",
@@ -34086,7 +34086,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -34095,7 +34095,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -34325,7 +34325,7 @@
       "text": "me t̮íńu. Χalé̱f aγái me̱rdṳ́m e̱ršau’úti vā ke: šyẹ̄́ri meítāni mā",
       "lerch": "me t̮íńu. Χalé̱f aγái me̱rdṳ́m e̱ršau’úti vā ke: šyẹ̄́ri meítāni mā",
       "ipa": "me ˈt͡ʃiɲu χaˈlɛf aˈʁaj mɛrˈdym ɛrʃaw.ˈuti vaː ke ˈʃje̝ːri ˈmejtaːni maː",
-      "zazaki": "mê çinyû. Xalef ağay merdûm erşawûti va kê: şyêri mêytani ma",
+      "zazaki": "mê çinyu. Xalef ağay merdüm erşawuti va kê: şyêri mêytani ma",
       "source_note": "",
       "russian_print_page": 116,
       "russian_scan_page": 130,
@@ -34340,7 +34340,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "mê çinyû. Xalef ağay merdûm erşawûti va kê: şyêri mêytani ma"
+          "value": "mê çinyu. Xalef ağay merdüm erşawuti va kê: şyêri mêytani ma"
         },
         {
           "label": "ENGLISH",
@@ -34386,7 +34386,7 @@
         {
           "form": "t̮íńu.",
           "ipa": "ˈt͡ʃiɲu",
-          "zazaki": "çinyû.",
+          "zazaki": "çinyu.",
           "lemma": "tinu",
           "display_gloss": "there is none",
           "gloss_tr": "yok",
@@ -34395,7 +34395,7 @@
           "morphemes": [
             {
               "form": "t̮íńu",
-              "normalized": "çinyû",
+              "normalized": "çinyu",
               "lemma": "tinu",
               "gloss": "there is none",
               "pos": "",
@@ -34455,7 +34455,7 @@
         {
           "form": "me̱rdṳ́m",
           "ipa": "mɛrˈdym",
-          "zazaki": "merdûm",
+          "zazaki": "merdüm",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -34464,7 +34464,7 @@
           "morphemes": [
             {
               "form": "me̱rdṳ́m",
-              "normalized": "merdûm",
+              "normalized": "merdüm",
               "lemma": "merdum",
               "gloss": "man",
               "pos": "",
@@ -34478,7 +34478,7 @@
         {
           "form": "e̱ršau’úti",
           "ipa": "ɛrʃaw.ˈuti",
-          "zazaki": "erşawûti",
+          "zazaki": "erşawuti",
           "lemma": "ersauuti",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -34487,7 +34487,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úti",
-              "normalized": "erşawûti",
+              "normalized": "erşawuti",
               "lemma": "ersauuti",
               "gloss": "sent",
               "pos": "",
@@ -34625,7 +34625,7 @@
       "text": "biári. Me̱rdṳ́m ši, meíti ā́rdi, rōníšt.",
       "lerch": "biári. Me̱rdṳ́m ši, meíti ā́rdi, rōníšt.",
       "ipa": "ˈbjari mɛrˈdym ʃi ˈmejti ˈaːrdi roːˈniʃt",
-      "zazaki": "byari. Merdûm şi, mêyti ardi, ronişt.",
+      "zazaki": "byari. Merdüm şi, mêyti ardi, ronişt.",
       "source_note": "",
       "russian_print_page": 116,
       "russian_scan_page": 130,
@@ -34640,7 +34640,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "byari. Merdûm şi, mêyti ardi, ronişt."
+          "value": "byari. Merdüm şi, mêyti ardi, ronişt."
         },
         {
           "label": "ENGLISH",
@@ -34697,7 +34697,7 @@
         {
           "form": "Me̱rdṳ́m",
           "ipa": "mɛrˈdym",
-          "zazaki": "Merdûm",
+          "zazaki": "Merdüm",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -34706,7 +34706,7 @@
           "morphemes": [
             {
               "form": "Me̱rdṳ́m",
-              "normalized": "Merdûm",
+              "normalized": "Merdüm",
               "lemma": "merdum",
               "gloss": "man",
               "pos": "",
@@ -34821,7 +34821,7 @@
       "text": "Dáqma bé̱gi h̔abé̱r e̱ršau’úte aγā́ni Zí̥riki, vā ke: byẹ̄́ri ménu",
       "lerch": "Dáqma bé̱gi h̔abé̱r e̱ršau’úte aγā́ni Zí̥riki, vā ke: byẹ̄́ri ménu",
       "ipa": "ˈdaqma ˈbɛgi ħaˈbɛr ɛrʃaw.ˈute aˈʁaːni ˈzɨriki vaː ke ˈbje̝ːri ˈmenu",
-      "zazaki": "Daqma begi 'haber erşawûtê ağani Zıriki, va kê: byêri mênû",
+      "zazaki": "Daqma begi 'haber erşawutê ağani Zıriki, va kê: byêri mênu",
       "source_note": "",
       "russian_print_page": 116,
       "russian_scan_page": 130,
@@ -34836,7 +34836,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Daqma begi 'haber erşawûtê ağani Zıriki, va kê: byêri mênû"
+          "value": "Daqma begi 'haber erşawutê ağani Zıriki, va kê: byêri mênu"
         },
         {
           "label": "ENGLISH",
@@ -34928,7 +34928,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -34937,7 +34937,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -35066,7 +35066,7 @@
         {
           "form": "ménu",
           "ipa": "ˈmenu",
-          "zazaki": "mênû",
+          "zazaki": "mênu",
           "lemma": "menu",
           "display_gloss": "for me",
           "gloss_tr": "benim için",
@@ -35075,7 +35075,7 @@
           "morphemes": [
             {
               "form": "ménu",
-              "normalized": "mênû",
+              "normalized": "mênu",
               "lemma": "menu",
               "gloss": "for me",
               "pos": "",
@@ -35092,7 +35092,7 @@
           "start": 2,
           "end": 4,
           "lerch": "h̔abé̱r e̱ršau’úte",
-          "zazaki": "'haber erşawûtê",
+          "zazaki": "'haber erşawutê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -35109,7 +35109,7 @@
       "text": "Χalé̱f aγái dau pyéru byẹ̄́ri, mā pyā wé̱ši̥ ki. Aγái Zí̥riki we̱ríšti,",
       "lerch": "Χalé̱f aγái dau pyéru byẹ̄́ri, mā pyā wé̱ši̥ ki. Aγái Zí̥riki we̱ríšti,",
       "ipa": "χaˈlɛf aˈʁaj daw ˈpjeru ˈbje̝ːri maː pjaː ˈwɛʃɨ ki aˈʁaj ˈzɨriki wɛˈriʃti",
-      "zazaki": "Xalef ağay daw pyêrû byêri, ma pya weşı ki. Ağay Zıriki werişti,",
+      "zazaki": "Xalef ağay daw pyêru byêri, ma pya weşı ki. Ağay Zıriki werişti,",
       "source_note": "",
       "russian_print_page": 116,
       "russian_scan_page": 130,
@@ -35124,7 +35124,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Xalef ağay daw pyêrû byêri, ma pya weşı ki. Ağay Zıriki werişti,"
+          "value": "Xalef ağay daw pyêru byêri, ma pya weşı ki. Ağay Zıriki werişti,"
         },
         {
           "label": "ENGLISH",
@@ -35216,7 +35216,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -35225,7 +35225,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -35709,7 +35709,7 @@
       "text": "Dáqma be̱g šẹ̄, launā Χalé̱f aγái língeru, Χalé̱f aγái launā Dáqma",
       "lerch": "Dáqma be̱g šẹ̄, launā Χalé̱f aγái língeru, Χalé̱f aγái launā Dáqma",
       "ipa": "ˈdaqma bɛg ʃe̝ː lawnaː χaˈlɛf aˈʁaj ˈlingeru χaˈlɛf aˈʁaj lawnaː ˈdaqma",
-      "zazaki": "Daqma beg şê, lawna Xalef ağay lingêrû, Xalef ağay lawna Daqma",
+      "zazaki": "Daqma beg şê, lawna Xalef ağay lingêru, Xalef ağay lawna Daqma",
       "source_note": "",
       "russian_print_page": 116,
       "russian_scan_page": 130,
@@ -35724,7 +35724,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Daqma beg şê, lawna Xalef ağay lingêrû, Xalef ağay lawna Daqma"
+          "value": "Daqma beg şê, lawna Xalef ağay lingêru, Xalef ağay lawna Daqma"
         },
         {
           "label": "ENGLISH",
@@ -35885,7 +35885,7 @@
         {
           "form": "língeru,",
           "ipa": "ˈlingeru",
-          "zazaki": "lingêrû,",
+          "zazaki": "lingêru,",
           "lemma": "lingeru",
           "display_gloss": "feet",
           "gloss_tr": "ayaklar",
@@ -35894,7 +35894,7 @@
           "morphemes": [
             {
               "form": "língeru",
-              "normalized": "lingêrû",
+              "normalized": "lingêru",
               "lemma": "lingeru",
               "gloss": "feet",
               "pos": "",
@@ -36009,7 +36009,7 @@
       "text": "bé̱gi dé̱stru. Χalé̱f aγái di̥ sei myéšna dai Dáqma bé̱giri. Dáqma",
       "lerch": "bé̱gi dé̱stru. Χalé̱f aγái di̥ sei myéšna dai Dáqma bé̱giri. Dáqma",
       "ipa": "ˈbɛgi ˈdɛstru χaˈlɛf aˈʁaj dɨ sej ˈmjeʃna daj ˈdaqma ˈbɛgiri ˈdaqma",
-      "zazaki": "begi destrû. Xalef ağay dı sêy myêşna day Daqma begiri. Daqma",
+      "zazaki": "begi destru. Xalef ağay dı sêy myêşna day Daqma begiri. Daqma",
       "source_note": "",
       "russian_print_page": 116,
       "russian_scan_page": 130,
@@ -36024,7 +36024,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "begi destrû. Xalef ağay dı sêy myêşna day Daqma begiri. Daqma"
+          "value": "begi destru. Xalef ağay dı sêy myêşna day Daqma begiri. Daqma"
         },
         {
           "label": "ENGLISH",
@@ -36070,7 +36070,7 @@
         {
           "form": "dé̱stru.",
           "ipa": "ˈdɛstru",
-          "zazaki": "destrû.",
+          "zazaki": "destru.",
           "lemma": "destru",
           "display_gloss": "hand",
           "gloss_tr": "el",
@@ -36079,7 +36079,7 @@
           "morphemes": [
             {
               "form": "dé̱stru",
-              "normalized": "destrû",
+              "normalized": "destru",
               "lemma": "destru",
               "gloss": "hand",
               "pos": "",

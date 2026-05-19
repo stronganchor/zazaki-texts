@@ -1,0 +1,13 @@
+{
+  "id": "lerch-goin-puhu-kusunun-hikayesi",
+  "title": "Go'in / Puhu Kuşunun Hikayesi",
+  "title_lerch": "Sage vom Vogel gö'in",
+  "author_collector": "Peter Lerch",
+  "language": "Zazaki",
+  "dialect_region_note": "Sivan-area Zazaki tale material as discussed in local project notes.",
+  "status": "reviewed working edition",
+  "line_count": 40,
+  "token_count": 419,
+  "lltools_payload": "text-document.json",
+  "reviewed_transcription_synced_at": "2026-05-19"
+}

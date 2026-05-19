@@ -31,7 +31,33 @@ TRANSLATION_TITLES = {
         "en": "Conversation with Hassan",
         "tr": "Hassan ile Söyleşi",
     },
+    "goin-puhu-kusunun-hikayesi": {
+        "en": "Sage of the Go'in / Eagle-Owl",
+        "tr": "Go'in / Puhu Kuşunun Hikayesi",
+        "de": "Sage vom Vogel gö'in",
+    },
+    "degirmenci-ve-tilki": {
+        "en": "Tale of the Miller and the Fox",
+        "tr": "Değirmenci ve Tilki",
+        "de": "Mährchen von dem Müller und Fuchs",
+    },
+    "uc-kardes-masali": {
+        "en": "The Tale of the Three Brothers",
+        "tr": "Üç Kardeş Masalı",
+        "de": "Das Märchen von den drei Brüdern",
+    },
 }
+
+COMMON_BINGOL_URLS = [
+    {
+        "label": "Bingöl repository PDF",
+        "url": "https://bnposta.bingol.edu.tr/bitstream/handle/20.500.12898/600/10053832.pdf?isAllowed=y&sequence=1",
+    },
+    {
+        "label": "YÖK thesis record",
+        "url": "https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=XSxuloAAz12quT5oHaDwnA&no=lqmlps2zRpavNQmdt0OGGQ",
+    },
+]
 
 READING_UNIT_SOURCE_LINE_IDS = {
     "kauge-nyerib-u-sivani": {
@@ -717,6 +743,24 @@ def copy_bundle_assets(bundle_dir: Path, target_dir: Path) -> None:
             shutil.copy2(source, target_assets / source.name)
 
 
+def copy_referenced_assets(bundle_dir: Path, target_dir: Path, source_lines: list[dict]) -> None:
+    source_assets = bundle_dir / "assets"
+    if not source_assets.exists():
+        return
+    target_assets = assert_inside_repo(target_dir / "assets")
+    target_assets.mkdir(parents=True, exist_ok=True)
+    refs: set[str] = set()
+    for line in source_lines:
+        for witness in line.get("witnesses", []):
+            image_url = witness.get("image_url")
+            if isinstance(image_url, str) and image_url.startswith("assets/"):
+                refs.add(image_url.removeprefix("assets/"))
+    for ref in sorted(refs):
+        source = source_assets / ref
+        if source.exists() and source.is_file():
+            shutil.copy2(source, target_assets / ref)
+
+
 def copy_morphemes(bundle_dir: Path, target_dir: Path, morpheme_file: str) -> None:
     source = bundle_dir / morpheme_file
     target = assert_inside_repo(target_dir / "morphemes.tsv")
@@ -978,6 +1022,285 @@ def create_hassan_text() -> dict:
     return {"slug": slug, "lines": len(lines), "tokens": doc["summary"]["tokens"]}
 
 
+def translation_markdown_text(path: Path, start_marker: str | None = None, stop_marker: str | None = None) -> str:
+    text = path.read_text(encoding="utf-8").replace("\ufeff", "")
+    if start_marker and start_marker in text:
+        text = text.split(start_marker, 1)[1]
+    if stop_marker and stop_marker in text:
+        text = text.split(stop_marker, 1)[0]
+    paragraphs = [paragraph.strip() for paragraph in re.split(r"\n\s*\n", text) if paragraph.strip()]
+    body = []
+    title_like = {
+        "Sage vom Vogel gö'in.",
+        "Sage vom Vogel go'in.",
+        "Mährchen von dem Müller und Fuchs.",
+    }
+    for paragraph in paragraphs:
+        if paragraph.startswith("#"):
+            continue
+        if paragraph.startswith("Source:") or paragraph.startswith("Source note:"):
+            continue
+        if paragraph.startswith("This is a cleaned OCR transcription"):
+            continue
+        if paragraph in title_like:
+            continue
+        body.append(paragraph)
+    return "\n\n".join(body).strip()
+
+
+def build_reader_units_from_translation_texts(
+    source_lines: list[dict],
+    translation_texts: dict[str, str],
+    max_source_sentences: int = 2,
+) -> list[dict]:
+    source = join_source_parts([str(line.get("zazaki", "")) for line in source_lines])
+    source_chunks = chunk_source_segments(split_sentence_segments(source), max_source_sentences)
+    translation_chunks = {
+        lang: distribute_segments_for_source_chunks(split_sentence_segments(text), source_chunks)
+        for lang, text in translation_texts.items()
+        if text.strip()
+    }
+
+    reading_units = []
+    source_line_ids = [line["id"] for line in source_lines]
+    for index, source_chunk in enumerate(source_chunks, start=1):
+        translations = {}
+        for lang, chunks in translation_chunks.items():
+            value = chunks[index - 1] if index - 1 < len(chunks) else ""
+            if value:
+                translations[lang] = value
+        reading_units.append(
+            {
+                "id": f"u{index:03d}",
+                "source": join_source_parts(source_chunk),
+                "translations": translations,
+                "source_line_ids": source_line_ids,
+            }
+        )
+    return reading_units
+
+
+def folk_tale_witnesses(
+    russian_story: str,
+    russian_pages: str,
+    russian_url_anchor: int,
+    german_story: str,
+    german_pages: str,
+    german_archive_page: str,
+    bingol_pages: str,
+    bingol_heading: str,
+) -> list[dict]:
+    return [
+        {
+            "label": "Russian original edition",
+            "citation": f"Lerch, Peter Ivanovich. Izsledovaniia ob iranskikh kurdakh i ikh predkakh, severnykh khaldeiakh. Vol. 1. St. Petersburg: Imperial Academy of Sciences, 1856. {russian_story}.",
+            "pages": russian_pages,
+            "note": "Primary scan witness for Lerch's Zazaki transcription and Russian free translation.",
+            "urls": [
+                {
+                    "label": "RGO viewer, text start",
+                    "url": f"https://elib.rgo.ru/safe-view/123456789/218398/1/MTAwMDAyMTBfTGVya2gsIFBldHIgSXZhbm92aWNoICgxODI3LTE4ODQpLiBJc3NsZWRvdmFuaXlhIG8ucGRm#{russian_url_anchor}",
+                }
+            ],
+        },
+        {
+            "label": "German edition / reprint scan",
+            "citation": f"Lerch, Peter. Forschungen über die Kurden und die iranischen Nordchaldäer. Abth. 1. St. Petersburg: Kaiserliche Akademie der Wissenschaften, 1857. Story '{german_story}'.",
+            "pages": german_pages,
+            "note": "Used for the German free translation and as a second scan witness for the Zazaki transcription.",
+            "urls": [
+                {
+                    "label": "Internet Archive, text start",
+                    "url": f"https://archive.org/details/bub_gb_WlGVYoEkr7sC/page/{german_archive_page}/mode/1up",
+                },
+                {
+                    "label": "Internet Archive item",
+                    "url": "https://archive.org/details/bub_gb_WlGVYoEkr7sC",
+                },
+            ],
+        },
+        {
+            "label": "Bingöl University thesis transcription",
+            "citation": "Aslanoğulları, Mehmet. Lerch'in Zazaki Derlemelerinin Çevrimyazımı ve Türlerine Göre Sözcüklerin Tahlili. Master's thesis, Bingöl Üniversitesi, 2014.",
+            "pages": f"{bingol_pages}; heading '{bingol_heading}'.",
+            "note": "Secondary transcription witness used during alignment and review. The transcription text is cited here but is not reproduced in the Interlinear view.",
+            "urls": COMMON_BINGOL_URLS,
+        },
+    ]
+
+
+def create_bundle_text(
+    *,
+    slug: str,
+    bundle: str,
+    interlinear_file: str,
+    morpheme_file: str,
+    title: str,
+    lerch_title: str,
+    excerpt: str,
+    created_from: str,
+    dialect_note: str,
+    translation_texts: dict[str, str],
+    witnesses: list[dict],
+    max_source_sentences: int = 2,
+) -> dict:
+    target_dir = TEXTS_ROOT / slug
+    bundle_dir = LERCH_ROOT / bundle
+    data = read_json(bundle_dir / interlinear_file)
+    lines = data.get("lines", [])
+    source_lines = [source_line(line, "Müller 1865") for line in lines]
+    translation_texts = {lang: text for lang, text in translation_texts.items() if text.strip()}
+    reading_units = build_reader_units_from_translation_texts(
+        source_lines,
+        translation_texts,
+        max_source_sentences=max_source_sentences,
+    )
+    translations = {
+        lang: {"label": {"en": "English", "tr": "Turkish", "de": "German"}.get(lang, lang.upper())}
+        for lang in translation_texts
+    }
+
+    doc = {
+        "schema": "ll_tools_text_document.v1",
+        "kind": "corpus_text",
+        "lesson_id": f"lerch-{slug}",
+        "title": title,
+        "source_label": "Zazaki",
+        "translations": translations,
+        "metadata": {
+            "collection": "lerch",
+            "collection_label": "Peter Lerch Zazaki Texts",
+            "excerpt": excerpt,
+            "source_author": "Peter Lerch",
+            "source_work": "Forschungen über die Kurden und die iranischen Nordchaldäer / Russian original Zazaki transcriptions",
+            "story_title_lerch": lerch_title,
+            "story_title_modern_zazaki": title,
+            "working_status": "reviewed working edition; not final critical edition",
+            "created_from": created_from,
+            "exported_at": EXPORT_DATE,
+            "reviewed_transcription_synced_at": EXPORT_DATE,
+            "reader_unit": "sentence_group",
+        },
+        "summary": {
+            "lines": len(lines),
+            "source_lines": len(source_lines),
+            "reading_units": len(reading_units),
+            "tokens": sum(len(line.get("tokens", [])) for line in lines),
+        },
+        "witnesses": witnesses,
+        "reading_units": reading_units,
+        "source_lines": source_lines,
+    }
+    write_json(target_dir / "text-document.json", doc)
+    write_json(
+        target_dir / "metadata.json",
+        {
+            "id": f"lerch-{slug}",
+            "title": title,
+            "title_lerch": lerch_title,
+            "author_collector": "Peter Lerch",
+            "language": "Zazaki",
+            "dialect_region_note": dialect_note,
+            "status": "reviewed working edition",
+            "line_count": len(lines),
+            "token_count": doc["summary"]["tokens"],
+            "lltools_payload": "text-document.json",
+            "reviewed_transcription_synced_at": EXPORT_DATE,
+        },
+    )
+    write_public_text_files(target_dir, doc)
+    copy_referenced_assets(bundle_dir, target_dir, source_lines)
+    copy_morphemes(bundle_dir, target_dir, morpheme_file)
+    return {"slug": slug, "lines": len(lines), "tokens": doc["summary"]["tokens"]}
+
+
+def create_goin_text() -> dict:
+    bundle_dir = LERCH_ROOT / "lerch_goin_review_bundle"
+    return create_bundle_text(
+        slug="goin-puhu-kusunun-hikayesi",
+        bundle="lerch_goin_review_bundle",
+        interlinear_file="lerch_goin_interlinear_data.json",
+        morpheme_file="lerch_morpheme_segmentation.tsv",
+        title="Go'in / Puhu Kuşunun Hikayesi",
+        lerch_title="Sage vom Vogel gö'in",
+        excerpt="Üvey annesinin öldürdüğü kardeşini rüyasında gören bir kız, sonunda Allah'tan kendisini go'in / puhu kuşuna çevirmesini ister.",
+        created_from="Lerch Goin review bundle in Language/Z/Dictionaries/Lerch",
+        dialect_note="Sivan-area Zazaki tale material as discussed in local project notes.",
+        translation_texts={
+            "tr": translation_markdown_text(bundle_dir / "goin_turkish_free_translation.md", stop_marker="## Not"),
+            "en": translation_markdown_text(bundle_dir / "goin_english_free_translation.md", stop_marker="## Note"),
+            "de": translation_markdown_text(bundle_dir / "goin_german_translation_ocr.md", start_marker="## Cleaned OCR", stop_marker="## Notes"),
+        },
+        witnesses=folk_tale_witnesses(
+            "Sage vom Vogel go'in, printed pp. 116-119",
+            "Russian RGO viewer images 130-133; printed pp. 116-119.",
+            130,
+            "Sage vom Vogel gö'in",
+            "Internet Archive scan pages around n123-n126; printed pp. 80-83.",
+            "n123",
+            "PDF pp. 64-66",
+            "Goin",
+        ),
+    )
+
+
+def create_miller_fox_text() -> dict:
+    bundle_dir = LERCH_ROOT / "lerch_miller_fox_review_bundle"
+    return create_bundle_text(
+        slug="degirmenci-ve-tilki",
+        bundle="lerch_miller_fox_review_bundle",
+        interlinear_file="lerch_miller_fox_interlinear_data.json",
+        morpheme_file="lerch_morpheme_segmentation.tsv",
+        title="Değirmenci ve Tilki",
+        lerch_title="Mährchen von dem Müller und Fuchs",
+        excerpt="Bir tilki, değirmencinin ununu çalarken yakalanınca canını kurtarmak için onu Mısır Paşası'nın kızıyla evlendireceğini söyler.",
+        created_from="Lerch Miller/Fox review bundle in Language/Z/Dictionaries/Lerch",
+        dialect_note="Sivan-area Zazaki tale material as discussed in local project notes.",
+        translation_texts={
+            "en": translation_markdown_text(bundle_dir / "miller_fox_english_free_translation.md"),
+            "de": translation_markdown_text(bundle_dir / "miller_fox_german_translation_ocr.md"),
+        },
+        witnesses=folk_tale_witnesses(
+            "Mährchen von dem Müller und Fuchs, printed pp. 119-123",
+            "Russian RGO viewer images 133-137; printed pp. 119-123.",
+            133,
+            "Mährchen von dem Müller und Fuchs",
+            "Internet Archive scan pages around n126-n130; printed pp. 83-87.",
+            "n126",
+            "PDF pp. 67-70",
+            "Çemçequ Paşa",
+        ),
+    )
+
+
+def create_three_brothers_text() -> dict:
+    extraction = LERCH_ROOT / "lerch_zazaki_german_extraction.md"
+    return create_bundle_text(
+        slug="uc-kardes-masali",
+        bundle="lerch_three_brothers_review_bundle",
+        interlinear_file="lerch_three_brothers_interlinear_data.json",
+        morpheme_file="lerch_morpheme_segmentation.tsv",
+        title="Üç Kardeş Masalı",
+        lerch_title="Das Märchen von den drei Brüdern",
+        excerpt="Hasanek, Qasım ve Şaban adlı üç kardeşin bir devle karşılaşmasını, Hasanek'in mektupları değiştirerek devi kandırmasını ve sonunda devi öldürmesini anlatan masal.",
+        created_from="Lerch Three Brothers review bundle in Language/Z/Dictionaries/Lerch",
+        dialect_note="Sivan-area Zazaki tale material as discussed in local project notes.",
+        translation_texts={
+            "de": translation_markdown_text(extraction, start_marker="### German Translation", stop_marker="### Needs Review"),
+        },
+        witnesses=folk_tale_witnesses(
+            "Das Märchen von den drei Brüdern, printed pp. 87-96",
+            "Russian RGO viewer images 101-110; printed pp. 87-96.",
+            101,
+            "Das Märchen von den drei Brüdern",
+            "Internet Archive scan pages around n92-n101; printed pp. 49-58.",
+            "n92",
+            "PDF pp. 36-43",
+            "Vıstonıkê Hirye Bırayon",
+        ),
+    )
+
+
 def main() -> None:
     results = [
         update_existing_text(
@@ -1002,6 +1325,9 @@ def main() -> None:
             "Müller 1865",
         ),
         create_hassan_text(),
+        create_goin_text(),
+        create_miller_fox_text(),
+        create_three_brothers_text(),
     ]
     print(json.dumps(results, ensure_ascii=False, indent=2))
 

@@ -27,7 +27,7 @@
     "created_from": "Lerch Ali Agha review bundle in Language/Z/Dictionaries/Lerch",
     "exported_at": "2026-05-11",
     "reader_unit": "paragraph",
-    "reviewed_transcription_synced_at": "2026-05-15"
+    "reviewed_transcription_synced_at": "2026-05-19"
   },
   "summary": {
     "lines": 51,
@@ -93,7 +93,7 @@
     },
     {
       "id": "u002",
-      "source": "Ali ağa çêhêr dawang da pyêrû, hiris û çêhêr kişti. Çawdi Ali ağay çi nyêbê, çewi desti Ali ağay nyêgêrawt.",
+      "source": "Ali ağa çêhêr dawang da pyêru, hiris û çêhêr kişti. Çawdi Ali ağay çi nyêbê, çewi desti Ali ağay nyêgêrawt.",
       "translations": {
         "tr": "Ali Ağa dört köye saldırdı ve otuz dört kişiyi öldürdü. Ali Ağa'ya hiçbir şey olmadı; kimsenin eli Ali Ağa'ya değmedi.",
         "en": "Ali Agha attacked four villages and killed thirty-four people. Nothing happened to Ali Agha; no one's hand touched Ali Agha.",
@@ -102,7 +102,7 @@
     },
     {
       "id": "u003",
-      "source": "Ali ağay kêyyê xoê bar kêrd, şê Syêraçûrê. Hiris û şêş roci vênert Syêraçûrêdê.",
+      "source": "Ali ağay kêyê xoê bar kêrd, şê Syêraçurê. Hiris û şêş roci vênert Syêraçurêdê.",
       "translations": {
         "tr": "Ali Ağa evini toplayıp Syeraçur'a gitti. Syeraçur'da otuz altı gün kaldı.",
         "en": "Ali Agha packed up his household and went to Syerachur. He stayed in Syerachur for thirty-six days.",
@@ -111,7 +111,7 @@
     },
     {
       "id": "u004",
-      "source": "Hiris û çêhêr dewi Karbegani, hiris û çêhêr dewi Sivani amêy pyêser, mêşore kerd, ağalêrani Sivani, Qasim ağa Karbêgani, 'Hasan ağa Weşini amêy pyêser va kê: ma şyêri kêy Ali ağay byari daw. Qasim ağa va kê: ma Ali ağay bê'hapêyni, ma şawê venga êskêrê xoê di, eskêri dawang wa pyêrû bêrû pyêser, ma şawê şyêri Ali ağay çêhêr hemê lacana ma bıkşi.",
+      "source": "Hiris û çêhêr dewi Karbegani, hiris û çêhêr dewi Sivani amêy pyêser, mêşore kerd, ağalêrani Sivani, Qasim ağa Karbêgani, 'Hasan ağa Weşini amêy pyêser va kê: ma şyêri kêy Ali ağay byari daw. Qasim ağa va kê: ma Ali ağay bê'hapêyni, ma şawê venga êskêrê xoê di, eskêri dawang wa pyêru bêru pyêser, ma şawê şyêri Ali ağay çêhêr hemê lacana ma bıkşi.",
       "translations": {
         "tr": "Karbegan'ın otuz dört köyü ve Sivan'ın otuz dört köyü bir araya gelip meşveret etti; Sivan ihtiyarları, Karbeganlı Qasım Ağa ve Weşinli Hasan Ağa bir araya gelip dedi ki: 'Ali Ağa'nın evine saldıralım.' Qasım Ağa dedi ki: 'Ali Ağa'yı kandıracağız; gece ordumuzu çağıracağız, köylerin askerleri hep toplansın, gece gidip Ali Ağa'yı ve dört oğlunun hepsini öldürelim.'",
         "en": "Thirty-four villages of Karbegan and thirty-four villages of Sivan came together and held counsel; the elders of Sivan, Qasim Agha of Karbegan, and Hasan Agha of Weshin came together and said: 'Let us attack Ali Agha's house.' Qasim Agha said: 'We will deceive Ali Agha; at night we will call our army, let the village soldiers all gather, and at night we will go kill Ali Agha and all four of his sons.'",
@@ -120,7 +120,7 @@
     },
     {
       "id": "u005",
-      "source": "'Hasan ağay Weşini va kê: rınd bênû, ma şyêri Ali ağay byari bıkşi. Ağalêrani Sivani va kê: ma qarış nyêbêni.",
+      "source": "'Hasan ağay Weşini va kê: rınd bênu, ma şyêri Ali ağay byari bıkşi. Ağalêrani Sivani va kê: ma qarış nyêbêni.",
       "translations": {
         "tr": "Weşinli Hasan Ağa dedi ki: 'İyi olur, gidip Ali Ağa'yı öldürelim.' Sivan ihtiyarları dedi ki: 'Biz karışmayız.'",
         "en": "Hasan Agha of Weshin said: 'That will be good; let us go kill Ali Agha.' The elders of Sivan said: 'We will not get involved.'",
@@ -129,7 +129,7 @@
     },
     {
       "id": "u006",
-      "source": "Qasim ağay va kê: şûmari lazim nyû. Ağalêri Sivani ci giryay şi kêy xoê.",
+      "source": "Qasim ağay va kê: şümari lazim nyu. Ağalêri Sivani ci giryay şi kêy xoê.",
       "translations": {
         "tr": "Qasım Ağa dedi ki: 'Size ihtiyaç yok.' Sivan ihtiyarları çekilip evlerine gittiler.",
         "en": "Qasim Agha said: 'We have no need of you.' The elders of Sivan withdrew and went home.",
@@ -138,7 +138,7 @@
     },
     {
       "id": "u007",
-      "source": "Qasim ağa, 'Hasan ağa enyê wirdi şi, kêy Ali ağay ard dawê, çêhêr hemê lacana berdi, kêrdi wadey Mê'hmêdi 'Hêndani. Qasim ağay şawê 'habêrê erşawûtê dawwana va kê: şıma çê vênerti?",
+      "source": "Qasim ağa, 'Hasan ağa enyê wirdi şi, kêy Ali ağay ard dawê, çêhêr hemê lacana berdi, kêrdi wadey Mê'hmêdi 'Hêndani. Qasim ağay şawê 'habêrê erşawutê dawana va kê: şıma çê vênerti?",
       "translations": {
         "tr": "Qasım Ağa ile Hasan Ağa, ikisi, Ali Ağa'nın evine baskına gittiler; dört oğlunun hepsini götürüp Mehmed Hendani'nin odasına koydular. Qasım Ağa gece köylere haber gönderip dedi ki: 'Niye bekliyorsunuz?'",
         "en": "Qasim Agha and Hasan Agha, the two of them, went to raid Ali Agha's house; they took all four sons and put them in Mehmed Hendani's room. At night Qasim Agha sent word to the villages and said: 'Why are you waiting?'",
@@ -147,7 +147,7 @@
     },
     {
       "id": "u008",
-      "source": "ma şyêri Ali ağay bıkşi. Dewi pyêrû amêy pyêsêr, şawê werişti, çêhêr sêy eskêr vıcyay, amêy Qasim ağa 'hêt.",
+      "source": "ma şyêri Ali ağay bıkşi. Dewi pyêru amêy pyêsêr, şawê werişti, çêhêr sêy eskêr vıcyay, amêy Qasim ağa 'hêt.",
       "translations": {
         "tr": "'Ali Ağa'yı öldürmeye gidiyoruz.' Köylerin hepsi toplandı; gece kalktılar, dört yüz asker çıktı ve Qasım Ağa'nın yanına geldi.",
         "en": "'We are going to kill Ali Agha.' All the villages gathered; they rose at night, four hundred soldiers came out and came to Qasim Agha's side.",
@@ -192,7 +192,7 @@
     },
     {
       "id": "u013",
-      "source": "A'hmêd laci Ali ağay va kê: 'halo, çêkani ma mebêrê, tê xaini, bawki mê serêdê aqıl çinyû, rocêy ramazanyû, bawni, xalo, tê çêkani ma bêni, pêynıdê tê xain vêci, ez twê kısêna. Qasim ağa va kê A'hmêdira: warêza, metêrsê.",
+      "source": "A'hmêd laci Ali ağay va kê: 'halo, çêkani ma mebêrê, tê xaini, bawki mê serêdê aqıl çinyu, rocêy ramazanyu, bawni, xalo, tê çêkani ma bêni, pêynıdê tê xain vêci, ez twê kısêna. Qasim ağa va kê A'hmêdira: warêza, metêrsê.",
       "translations": {
         "tr": "Ali Ağa'nın oğlu Ahmed dedi ki: 'Dayı, silahlarımızı alma. Sen hainsin; belki babamın başında akıl yok, bugün Ramazan günüdür. Bak dayı, silahlarımızı alır da sonra hain olarak çıkarsan seni öldürürüm.' Qasım Ağa Ahmed'e dedi ki: 'Yeğenim, korkma.'",
         "en": "Ahmed, Ali Agha's son, said: 'Uncle, do not take our weapons. You are a traitor; perhaps there is no sense in my father's head, today is Ramadan. Look, uncle, if you take our weapons and then come out as a traitor, I will kill you.' Qasim Agha said to Ahmed: 'Nephew, do not fear.'",
@@ -210,7 +210,7 @@
     },
     {
       "id": "u015",
-      "source": "'Hal şê tebêr, eskêri xora va: mevindi, çêki Ali ağay çêhêr hemê lacan mê gêrawt, ez ama tebêr, mevindi, bêr bışikni, şyêri zerê, Ali ağay çêhêr hemê lacan bıkşi; hêma dês û hêyşti merdwomi ğaribi yênê 'hetê esti, yênêra ve meki. Eskêri Qasim ağay bêr şêkit, Qasim ağay kawta ver, veng da va kê A'hmêdira: warêza, ez amêyya, tı kû sera şyêri, ez serêy twê ena gêlankê wêna.",
+      "source": "'Hal şê tebêr, eskêri xora va: mevindi, çêki Ali ağay çêhêr hemê lacan mê gêrawt, ez ama tebêr, mevindi, bêr bışikni, şyêri zerê, Ali ağay çêhêr hemê lacan bıkşi; hêma dês û hêyşti merdwomi ğaribi yênê 'hetê esti, yênêra ve meki. Eskêri Qasim ağay bêr şêkit, Qasim ağay kawta ver, veng da va kê A'hmêdira: warêza, ez amêya, tı ku sera şyêri, ez serêy twê ena gêlankê wêna.",
       "translations": {
         "tr": "Dayısı dışarı çıktı ve askerlerine dedi ki: 'Beklemeyin; Ali Ağa'nın ve dört oğlunun silahlarını aldım, dışarı çıktım. Beklemeyin, kapıyı kırın, içeri girin, Ali Ağa'yı ve dört oğlunun hepsini öldürün; burada yanlarında on sekiz yabancı adam daha var, onlara dokunmayın.' Qasım Ağa'nın askerleri kapıyı kırdı, Qasım Ağa öne geçti ve Ahmed'e seslenip dedi ki: 'Yeğenim, geldim; nereye gidersen bu defa başını keseceğim.'",
         "en": "His uncle went outside and said to his soldiers: 'Do not wait; I have taken the weapons of Ali Agha and his four sons, and I have come outside. Do not wait, break down the door, go inside, and kill Ali Agha and all four of his sons; there are also eighteen foreign men there with them, do not touch them.' Qasim Agha's soldiers broke down the door, Qasim Agha went ahead and called out to Ahmed, saying: 'Nephew, I have come; wherever you go, this time I will cut off your head.'",
@@ -219,7 +219,7 @@
     },
     {
       "id": "u016",
-      "source": "A'hmêdi veng da va kê: Alah izmê mê bıdû, ez twê veri êyxoê kışêna. 'Hal şi kê A'hmêdi bıkşû.",
+      "source": "A'hmêdi veng da va kê: Alah izmê mê bıdu, ez twê veri êyxoê kışêna. 'Hal şi kê A'hmêdi bıkşu.",
       "translations": {
         "tr": "Ahmed seslenip dedi ki: 'Allah bana izin versin, önce ben seni kendi elimle öldüreceğim.' Dayısı Ahmed'i öldürmeye gitti.",
         "en": "Ahmed called out and said: 'May God give me permission; first I will kill you with my own hand.' His uncle went to kill Ahmed.",
@@ -228,7 +228,7 @@
     },
     {
       "id": "u017",
-      "source": "A'hmêd awnya dyêsi wedi, yaw şıbakê 'ha dyêsê wedidê, desti xoê berd zerêy şibakê, yaw xancêri zerêy şıbakêdê di gêrawtê vera, day 'hali bınê çici raştirû. 'Hal kawt.",
+      "source": "A'hmêd awnya dyêsi wedi, yaw şıbakê 'ha dyêsê wedidê, desti xoê berd zerêy şibakê, yaw xancêri zerêy şıbakêdê di gêrawtê vera, day 'hali bınê çici raştiru. 'Hal kawt.",
       "translations": {
         "tr": "Ahmed duvarda bir açıklık gördü; duvarda bir kafes vardı. Elini kafesin içine soktu, kafesin içinde bir hançer bulup çıkardı ve dayısını göğsünün sağ altından vurdu. Dayısı düştü.",
         "en": "Ahmed saw an opening in the wall; there was a lattice in the wall. He put his hand inside the lattice, found a dagger inside the lattice and pulled it out, and struck his uncle under the right side of the chest. His uncle fell.",
@@ -237,7 +237,7 @@
     },
     {
       "id": "u018",
-      "source": "A'hmêdi xancêri 'halira vetê, A'hmêdi Êysan kişt, 'Hasani Kalan kişt. Kalme gna A'hmêdi pêy çimyirû, goêni byê A'hmêdi çimi.",
+      "source": "A'hmêdi xancêri 'halira vetê, A'hmêdi Êysan kişt, 'Hasani Kalan kişt. Kalme gna A'hmêdi pêy çimyiru, goêni byê A'hmêdi çimi.",
       "translations": {
         "tr": "Ahmed hançeri dayısından çıkardı; Ahmed Êysan'ı öldürdü, Hasan Kalan'ı öldürdü. Bir kılıç Ahmed'in iki gözünün arasına indi, kan Ahmed'in gözlerine geldi.",
         "en": "Ahmed pulled the dagger out of his uncle; Ahmed killed Eysan and killed Hasan Kalan. A sword came down between Ahmed's two eyes, and blood came into Ahmed's eyes.",
@@ -255,7 +255,7 @@
     },
     {
       "id": "u020",
-      "source": "'Hiryê heme bêrai A'hmêdi bawkê yê kişti. Dês û 'hêyşt teni merdûmi ğaribi kişti.",
+      "source": "'Hiryê heme bêrai A'hmêdi bawkê yê kişti. Dês û 'hêyşt teni merdümi ğaribi kişti.",
       "translations": {
         "tr": "Ahmed'in üç kardeşinin hepsi ve babası öldürüldü. On sekiz yabancı adam da öldürüldü.",
         "en": "All three of Ahmed's brothers and his father were killed. Eighteen foreign men were killed as well.",
@@ -264,7 +264,7 @@
     },
     {
       "id": "u021",
-      "source": "Eskêr ağayra şê, hêrgû kês şi kêy xoê. Cênazay Ali ağay, çêhêr heme lacana, dês û hêyşt merdûmi ğaribana pyêrû mêndi wadedê.",
+      "source": "Eskêr ağayra şê, hêrgu kês şi kêy xoê. Cênazay Ali ağay, çêhêr heme lacana, dês û hêyşt merdümi ğaribana pyêru mêndi wadedê.",
       "translations": {
         "tr": "Askerler ağanın yanından ayrıldı, herkes evine gitti. Ali Ağa'nın, dört oğlunun ve on sekiz yabancı adamın cenazeleri hep odada kaldı.",
         "en": "The soldiers left the agha's side, and everyone went home. The bodies of Ali Agha, his four sons, and the eighteen foreign men all remained in the room.",
@@ -273,7 +273,7 @@
     },
     {
       "id": "u022",
-      "source": "Soba Mêlay Rêsa veng da va kê mêla Qasimi Dêsmûncira: byêri cênazay Ali ağay aylana dês û hêyşt teni merdûmi ğaribana 'hetya byêri beri wedari. Mêla Qasim werişt Dêsmûnira, Mêmêd ağa werişt Ğêytêra, Ramêdan ağay werişt Mêrzyêlêra, şi, leşi Ali ağay lacana dês û hêyşt merdûmi ğaribana gêrawti ardi berdi wederti.",
+      "source": "Soba Mêlay Rêsa veng da va kê mêla Qasimi Dêsmuncira: byêri cênazay Ali ağay aylana dês û hêyşt teni merdümi ğaribana 'hetya byêri beri wedari. Mêla Qasim werişt Dêsmunira, Mêmêd ağa werişt Ğêytêra, Ramêdan ağay werişt Mêrzyêlêra, şi, leşi Ali ağay lacana dês û hêyşt merdumi ğaribana gêrawti ardi berdi wederti.",
       "translations": {
         "tr": "Sabah Mela Resa, Desmunlu Mela Qasım'a seslenip dedi ki: 'Ali Ağa'nın, oğullarının ve on sekiz yabancı adamın cenazelerini buraya getirin, dışarı çıkarın.' Mela Qasım Desmun'dan kalktı, Memed Ağa Ğêytê'den kalktı, Ramedan Ağa Merzyelê'den kalktı; gittiler, Ali Ağa'nın, oğullarının ve on sekiz yabancı adamın cesetlerini aldılar, getirdiler, götürdüler ve gömdüler.",
         "en": "In the morning Mela Resa called to Mela Qasim of Desmun and said: 'Bring Ali Agha, his sons, and the eighteen foreign men here; take them outside.' Mela Qasim rose from Desmun, Memed Agha rose from Gheyte, Ramedan Agha rose from Merzyele; they went, took the bodies of Ali Agha, his sons, and the eighteen foreign men, brought them out, carried them away, and buried them.",
@@ -557,7 +557,7 @@
       "text": "Áli aγaí Nārbyẹ̄́š. Áli aγá t̮ehér daú’āṅ dā pyérū, híris u t̮ehér",
       "lerch": "Áli aγaí Nārbyẹ̄́š. Áli aγá t̮ehér daú’āṅ dā pyérū, híris u t̮ehér",
       "ipa": "ˈali aˈʁaj naːrbˈje̝ːʃ ˈali aˈʁa t͡ʃeˈher ˈdaw.aːŋ daː ˈpjeruː ˈhiris u t͡ʃeˈher",
-      "zazaki": "Ali ağay Narbyêş. Ali ağa çêhêr dawang da pyêrû, hiris û çêhêr",
+      "zazaki": "Ali ağay Narbyêş. Ali ağa çêhêr dawang da pyêru, hiris û çêhêr",
       "source_note": "German prose confirms four villages and thirty-four people; this fixes t̮ehér as four in this story.",
       "russian_print_page": 99,
       "russian_scan_page": 113,
@@ -572,7 +572,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Ali ağay Narbyêş. Ali ağa çêhêr dawang da pyêrû, hiris û çêhêr"
+          "value": "Ali ağay Narbyêş. Ali ağa çêhêr dawang da pyêru, hiris û çêhêr"
         },
         {
           "label": "ENGLISH",
@@ -805,7 +805,7 @@
         {
           "form": "pyérū,",
           "ipa": "ˈpjeruː",
-          "zazaki": "pyêrû,",
+          "zazaki": "pyêru,",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -814,7 +814,7 @@
           "morphemes": [
             {
               "form": "pyérū",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -900,7 +900,7 @@
           "start": 5,
           "end": 9,
           "lerch": "t̮ehér daú’āṅ dā pyérū,",
-          "zazaki": "çêhêr dawang da pyêrû",
+          "zazaki": "çêhêr dawang da pyêru",
           "english": "overran four villages",
           "turkish": "dört köye saldırdı",
           "german": "überfiel vier Dörfer",
@@ -1308,8 +1308,8 @@
       "title": "A01 line 04: Opening: Ali Agha, Narbyes, Karbegan and Sivan elders plan",
       "text": "aγaí keíye χóe bār kerd, šẹ̄ Syérat̮ūre. Híris u šẹ̄š rṓd̮i vené̱rt",
       "lerch": "aγaí keíye χóe bār kerd, šẹ̄ Syérat̮ūre. Híris u šẹ̄š rṓd̮i vené̱rt",
-      "ipa": "aˈʁaj ˈkejje ˈχoe baːr kerd ʃe̝ː ˈsjerat͡ʃuːre ˈhiris u ʃe̝ːʃ ˈroːd͡ʒi veˈnɛrt",
-      "zazaki": "ağay kêyyê xoê bar kêrd, şê Syêraçûrê. Hiris û şêş roci vênert",
+      "ipa": "aˈʁaj ˈkeje ˈχoe baːr kerd ʃe̝ː ˈsjerat͡ʃuːre ˈhiris u ʃe̝ːʃ ˈroːd͡ʒi veˈnɛrt",
+      "zazaki": "ağay kêyê xoê bar kêrd, şê Syêraçurê. Hiris û şêş roci vênert",
       "source_note": "German prose has verliess sein Haus and Russian has left his house; the Zazaki uses the keíye χóe bār kerd compound, so 'packed up / moved out' is noted in the English/Turkish translation.",
       "russian_print_page": 99,
       "russian_scan_page": 113,
@@ -1320,11 +1320,11 @@
         },
         {
           "label": "IPA",
-          "value": "aˈʁaj ˈkejje ˈχoe baːr kerd ʃe̝ː ˈsjerat͡ʃuːre ˈhiris u ʃe̝ːʃ ˈroːd͡ʒi veˈnɛrt"
+          "value": "aˈʁaj ˈkeje ˈχoe baːr kerd ʃe̝ː ˈsjerat͡ʃuːre ˈhiris u ʃe̝ːʃ ˈroːd͡ʒi veˈnɛrt"
         },
         {
           "label": "ZAZAKI",
-          "value": "ağay kêyyê xoê bar kêrd, şê Syêraçûrê. Hiris û şêş roci vênert"
+          "value": "ağay kêyê xoê bar kêrd, şê Syêraçurê. Hiris û şêş roci vênert"
         },
         {
           "label": "ENGLISH",
@@ -1384,8 +1384,8 @@
         },
         {
           "form": "keíye",
-          "ipa": "ˈkejje",
-          "zazaki": "kêyyê",
+          "ipa": "ˈkeje",
+          "zazaki": "kêyê",
           "lemma": "keiye",
           "display_gloss": "house",
           "gloss_tr": "ev",
@@ -1394,7 +1394,7 @@
           "morphemes": [
             {
               "form": "keíye",
-              "normalized": "kêyyê",
+              "normalized": "kêyê",
               "lemma": "keiye",
               "gloss": "house",
               "pos": "",
@@ -1500,7 +1500,7 @@
         {
           "form": "Syérat̮ūre.",
           "ipa": "ˈsjerat͡ʃuːre",
-          "zazaki": "Syêraçûrê.",
+          "zazaki": "Syêraçurê.",
           "lemma": "syerature",
           "display_gloss": "Syerature, place name",
           "gloss_tr": "Syeraçur, yer adı",
@@ -1509,7 +1509,7 @@
           "morphemes": [
             {
               "form": "Syérat̮ūre",
-              "normalized": "Syêraçûrê",
+              "normalized": "Syêraçurê",
               "lemma": "syerature",
               "gloss": "Syerature, place name",
               "pos": "",
@@ -1641,7 +1641,7 @@
           "start": 1,
           "end": 5,
           "lerch": "keíye χóe bār kerd,",
-          "zazaki": "kêyyê xoê bar kêrd",
+          "zazaki": "kêyê xoê bar kêrd",
           "english": "packed up and moved out",
           "turkish": "evini yükleyip göçtü",
           "german": "verliess sein Haus",
@@ -1658,7 +1658,7 @@
       "text": "Syerat̮ūrede. Híris u t̮ehér dé̱wi Karbe̱gā́ni, híris u t̮ehér dé̱wi",
       "lerch": "Syerat̮ūrede. Híris u t̮ehér dé̱wi Karbe̱gā́ni, híris u t̮ehér dé̱wi",
       "ipa": "sjerat͡ʃuːrede ˈhiris u t͡ʃeˈher ˈdɛwi karbɛˈgaːni ˈhiris u t͡ʃeˈher ˈdɛwi",
-      "zazaki": "Syêraçûrêdê. Hiris û çêhêr dewi Karbegani, hiris û çêhêr dewi",
+      "zazaki": "Syêraçurêdê. Hiris û çêhêr dewi Karbegani, hiris û çêhêr dewi",
       "source_note": "German explicitly explains the villages as the people of those villages.",
       "russian_print_page": 99,
       "russian_scan_page": 113,
@@ -1673,7 +1673,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Syêraçûrêdê. Hiris û çêhêr dewi Karbegani, hiris û çêhêr dewi"
+          "value": "Syêraçurêdê. Hiris û çêhêr dewi Karbegani, hiris û çêhêr dewi"
         },
         {
           "label": "ENGLISH",
@@ -1700,7 +1700,7 @@
         {
           "form": "Syerat̮ūrede.",
           "ipa": "sjerat͡ʃuːrede",
-          "zazaki": "Syêraçûrêdê.",
+          "zazaki": "Syêraçurêdê.",
           "lemma": "syerature",
           "display_gloss": "in Syerature",
           "gloss_tr": "Syeraçur'da",
@@ -1709,7 +1709,7 @@
           "morphemes": [
             {
               "form": "Syerat̮ūre",
-              "normalized": "Syêraçûrê",
+              "normalized": "Syêraçurê",
               "lemma": "syerature",
               "gloss": "Syerature",
               "pos": "",
@@ -2917,7 +2917,7 @@
       "text": "šaú’e vé̱ṅga eskére χóe di, e̱skéri daú’āṅ wa pyéru béru pyesé̱r,",
       "lerch": "šaú’e vé̱ṅga eskére χóe di, e̱skéri daú’āṅ wa pyéru béru pyesé̱r,",
       "ipa": "ˈʃaw.e ˈvɛŋga esˈkere ˈχoe di ɛsˈkeri ˈdaw.aːŋ wa ˈpjeru ˈberu pjeˈsɛr",
-      "zazaki": "şawê venga êskêrê xoê di, eskêri dawang wa pyêrû bêrû pyêser,",
+      "zazaki": "şawê venga êskêrê xoê di, eskêri dawang wa pyêru bêru pyêser,",
       "source_note": "",
       "russian_print_page": 99,
       "russian_scan_page": 113,
@@ -2932,7 +2932,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "şawê venga êskêrê xoê di, eskêri dawang wa pyêrû bêrû pyêser,"
+          "value": "şawê venga êskêrê xoê di, eskêri dawang wa pyêru bêru pyêser,"
         },
         {
           "label": "ENGLISH",
@@ -3154,7 +3154,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -3163,7 +3163,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -3177,7 +3177,7 @@
         {
           "form": "béru",
           "ipa": "ˈberu",
-          "zazaki": "bêrû",
+          "zazaki": "bêru",
           "lemma": "beru",
           "display_gloss": "may come",
           "gloss_tr": "gelsin",
@@ -3186,7 +3186,7 @@
           "morphemes": [
             {
               "form": "béru",
-              "normalized": "bêrû",
+              "normalized": "bêru",
               "lemma": "beru",
               "gloss": "may come",
               "pos": "",
@@ -3236,7 +3236,7 @@
           "start": 7,
           "end": 11,
           "lerch": "wa pyéru béru pyesé̱r,",
-          "zazaki": "wa pyêrû bêrû pyêser",
+          "zazaki": "wa pyêru bêru pyêser",
           "english": "let all gather",
           "turkish": "hepsi toplansın",
           "german": "sammeln",
@@ -3635,7 +3635,7 @@
       "text": "We̱šíni vā ke: ri̥nd bén’u, mā šyẹ̄́ri Áli aγaí biári bi̥kší. Aγale-",
       "lerch": "We̱šíni vā ke: ri̥nd bén’u, mā šyẹ̄́ri Áli aγaí biári bi̥kší. Aγale-",
       "ipa": "wɛˈʃini vaː ke rɨnd ˈben.u maː ˈʃje̝ːri ˈali aˈʁaj ˈbjari bɨkˈʃi aʁale",
-      "zazaki": "Weşini va kê: rınd bênû, ma şyêri Ali ağay byari bıkşi. Ağalê-",
+      "zazaki": "Weşini va kê: rınd bênu, ma şyêri Ali ağay byari bıkşi. Ağalê-",
       "source_note": "",
       "russian_print_page": 100,
       "russian_scan_page": 114,
@@ -3650,7 +3650,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Weşini va kê: rınd bênû, ma şyêri Ali ağay byari bıkşi. Ağalê-"
+          "value": "Weşini va kê: rınd bênu, ma şyêri Ali ağay byari bıkşi. Ağalê-"
         },
         {
           "label": "ENGLISH",
@@ -3769,7 +3769,7 @@
         {
           "form": "bén’u,",
           "ipa": "ˈben.u",
-          "zazaki": "bênû,",
+          "zazaki": "bênu,",
           "lemma": "be",
           "display_gloss": "will be",
           "gloss_tr": "olur",
@@ -4000,7 +4000,7 @@
           "start": 3,
           "end": 5,
           "lerch": "ri̥nd bén’u,",
-          "zazaki": "rınd bênû",
+          "zazaki": "rınd bênu",
           "english": "that is good",
           "turkish": "iyi olur",
           "german": "schön",
@@ -4017,7 +4017,7 @@
       "text": "rā́ni Sivā́ni vā ke: mā qarí̥š ńebén’i. Qasím aγaí vā ke: šṳmári",
       "lerch": "rā́ni Sivā́ni vā ke: mā qarí̥š ńebén’i. Qasím aγaí vā ke: šṳmári",
       "ipa": "ˈraːni siˈvaːni vaː ke maː qaˈrɨʃ ɲeˈben.i qaˈsim aˈʁaj vaː ke ʃyˈmari",
-      "zazaki": "rani Sivani va kê: ma qarış nyêbêni. Qasim ağay va kê: şûmari",
+      "zazaki": "rani Sivani va kê: ma qarış nyêbêni. Qasim ağay va kê: şümari",
       "source_note": "",
       "russian_print_page": 100,
       "russian_scan_page": 114,
@@ -4032,7 +4032,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "rani Sivani va kê: ma qarış nyêbêni. Qasim ağay va kê: şûmari"
+          "value": "rani Sivani va kê: ma qarış nyêbêni. Qasim ağay va kê: şümari"
         },
         {
           "label": "ENGLISH",
@@ -4334,7 +4334,7 @@
         {
           "form": "šṳmári",
           "ipa": "ʃyˈmari",
-          "zazaki": "şûmari",
+          "zazaki": "şümari",
           "lemma": "suma",
           "display_gloss": "to you",
           "gloss_tr": "size",
@@ -4377,7 +4377,7 @@
       "text": "lazím ńu. Aγáleri Sivā́ni d̮i giríai šī kei χóe. Qasím aγá, Hʿasán",
       "lerch": "lazím ńu. Aγáleri Sivā́ni d̮i giríai šī kei χóe. Qasím aγá, Hʿasán",
       "ipa": "laˈzim ɲu aˈʁaleri siˈvaːni d͡ʒi girˈjaj ʃiː kej ˈχoe qaˈsim aˈʁa ħaˈsan",
-      "zazaki": "lazim nyû. Ağalêri Sivani ci giryay şi kêy xoê. Qasim ağa, 'Hasan",
+      "zazaki": "lazim nyu. Ağalêri Sivani ci giryay şi kêy xoê. Qasim ağa, 'Hasan",
       "source_note": "",
       "russian_print_page": 100,
       "russian_scan_page": 114,
@@ -4392,7 +4392,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "lazim nyû. Ağalêri Sivani ci giryay şi kêy xoê. Qasim ağa, 'Hasan"
+          "value": "lazim nyu. Ağalêri Sivani ci giryay şi kêy xoê. Qasim ağa, 'Hasan"
         },
         {
           "label": "ENGLISH",
@@ -4442,7 +4442,7 @@
         {
           "form": "ńu.",
           "ipa": "ɲu",
-          "zazaki": "nyû.",
+          "zazaki": "nyu.",
           "lemma": "nu",
           "display_gloss": "not",
           "gloss_tr": "değil",
@@ -4451,7 +4451,7 @@
           "morphemes": [
             {
               "form": "ńu",
-              "normalized": "nyû",
+              "normalized": "nyu",
               "lemma": "nu",
               "gloss": "not",
               "pos": "",
@@ -5343,8 +5343,8 @@
       "title": "A02 line 06: Qasim gathers the villages and asks Ali Agha for weapons",
       "text": "e̱ršau’úte dauwā́na vā ke: ší̥ma t̮e vené̱rti? mā šyẹ̄́ri Áli aγaí bi̥kši.",
       "lerch": "e̱ršau’úte dauwā́na vā ke: ší̥ma t̮e vené̱rti? mā šyẹ̄́ri Áli aγaí bi̥kši.",
-      "ipa": "ɛrʃaw.ˈute dawˈwaːna vaː ke ˈʃɨma t͡ʃe veˈnɛrti maː ˈʃje̝ːri ˈali aˈʁaj bɨkʃi",
-      "zazaki": "erşawûtê dawwana va kê: şıma çê vênerti? ma şyêri Ali ağay bıkşi.",
+      "ipa": "ɛrʃaw.ˈute daˈwaːna vaː ke ˈʃɨma t͡ʃe veˈnɛrti maː ˈʃje̝ːri ˈali aˈʁaj bɨkʃi",
+      "zazaki": "erşawutê dawana va kê: şıma çê vênerti? ma şyêri Ali ağay bıkşi.",
       "source_note": "",
       "russian_print_page": 100,
       "russian_scan_page": 114,
@@ -5355,11 +5355,11 @@
         },
         {
           "label": "IPA",
-          "value": "ɛrʃaw.ˈute dawˈwaːna vaː ke ˈʃɨma t͡ʃe veˈnɛrti maː ˈʃje̝ːri ˈali aˈʁaj bɨkʃi"
+          "value": "ɛrʃaw.ˈute daˈwaːna vaː ke ˈʃɨma t͡ʃe veˈnɛrti maː ˈʃje̝ːri ˈali aˈʁaj bɨkʃi"
         },
         {
           "label": "ZAZAKI",
-          "value": "erşawûtê dawwana va kê: şıma çê vênerti? ma şyêri Ali ağay bıkşi."
+          "value": "erşawutê dawana va kê: şıma çê vênerti? ma şyêri Ali ağay bıkşi."
         },
         {
           "label": "ENGLISH",
@@ -5386,7 +5386,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawûtê",
+          "zazaki": "erşawutê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -5395,7 +5395,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawûtê",
+              "normalized": "erşawutê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -5408,8 +5408,8 @@
         },
         {
           "form": "dauwā́na",
-          "ipa": "dawˈwaːna",
-          "zazaki": "dawwana",
+          "ipa": "daˈwaːna",
+          "zazaki": "dawana",
           "lemma": "daw",
           "display_gloss": "to the villages",
           "gloss_tr": "köylere",
@@ -5715,7 +5715,7 @@
       "text": "Dé̱wi pyéru āmeí pyesér, šaú’e we̱ríšti, t̮ehér sei e̱skér vi̥d̮iai, āmeí",
       "lerch": "Dé̱wi pyéru āmeí pyesér, šaú’e we̱ríšti, t̮ehér sei e̱skér vi̥d̮iai, āmeí",
       "ipa": "ˈdɛwi ˈpjeru aːˈmej pjeˈser ˈʃaw.e wɛˈriʃti t͡ʃeˈher sej ɛsˈker vɨd͡ʒjaj aːˈmej",
-      "zazaki": "Dewi pyêrû amêy pyêsêr, şawê werişti, çêhêr sêy eskêr vıcyay, amêy",
+      "zazaki": "Dewi pyêru amêy pyêsêr, şawê werişti, çêhêr sêy eskêr vıcyay, amêy",
       "source_note": "",
       "russian_print_page": 100,
       "russian_scan_page": 114,
@@ -5730,7 +5730,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Dewi pyêrû amêy pyêsêr, şawê werişti, çêhêr sêy eskêr vıcyay, amêy"
+          "value": "Dewi pyêru amêy pyêsêr, şawê werişti, çêhêr sêy eskêr vıcyay, amêy"
         },
         {
           "label": "ENGLISH",
@@ -5780,7 +5780,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -5789,7 +5789,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -8967,7 +8967,7 @@
       "text": "mā mé̱bere, te χa’íni, baúki me sé̱rede áqi̥l t̮íńu, rṓd̮ei ramazányu,",
       "lerch": "mā mé̱bere, te χa’íni, baúki me sé̱rede áqi̥l t̮íńu, rṓd̮ei ramazányu,",
       "ipa": "maː ˈmɛbere te χa.ˈini ˈbawki me ˈsɛrede ˈaqɨl ˈt͡ʃiɲu ˈroːd͡ʒej ramaˈzanju",
-      "zazaki": "ma mebêrê, tê xaini, bawki mê serêdê aqıl çinyû, rocêy ramazanyû,",
+      "zazaki": "ma mebêrê, tê xaini, bawki mê serêdê aqıl çinyu, rocêy ramazanyu,",
       "source_note": "",
       "russian_print_page": 101,
       "russian_scan_page": 115,
@@ -8982,7 +8982,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ma mebêrê, tê xaini, bawki mê serêdê aqıl çinyû, rocêy ramazanyû,"
+          "value": "ma mebêrê, tê xaini, bawki mê serêdê aqıl çinyu, rocêy ramazanyu,"
         },
         {
           "label": "ENGLISH",
@@ -9215,7 +9215,7 @@
         {
           "form": "t̮íńu,",
           "ipa": "ˈt͡ʃiɲu",
-          "zazaki": "çinyû,",
+          "zazaki": "çinyu,",
           "lemma": "tinu",
           "display_gloss": "does not exist",
           "gloss_tr": "yoktur",
@@ -9224,7 +9224,7 @@
           "morphemes": [
             {
               "form": "t̮íńu",
-              "normalized": "çinyû",
+              "normalized": "çinyu",
               "lemma": "tinu",
               "gloss": "does not exist",
               "pos": "",
@@ -9261,7 +9261,7 @@
         {
           "form": "ramazányu,",
           "ipa": "ramaˈzanju",
-          "zazaki": "ramazanyû,",
+          "zazaki": "ramazanyu,",
           "lemma": "ramazanyu",
           "display_gloss": "is Ramadan",
           "gloss_tr": "Ramazan'dır",
@@ -9270,7 +9270,7 @@
           "morphemes": [
             {
               "form": "ramazányu",
-              "normalized": "ramazanyû",
+              "normalized": "ramazanyu",
               "lemma": "ramazanyu",
               "gloss": "is Ramadan",
               "pos": "",
@@ -12046,8 +12046,8 @@
       "title": "A03 line 11: Ahmed warns Ali Agha and Qasim's army enters",
       "text": "ve̱r, ve̱ṅg dā vā ke Ah̔médira: wáreza, e̱z ameíya, ti̥ ku sé̱ra",
       "lerch": "ve̱r, ve̱ṅg dā vā ke Ah̔médira: wáreza, e̱z ameíya, ti̥ ku sé̱ra",
-      "ipa": "vɛr vɛŋg daː vaː ke aħˈmedira ˈwareza ɛz aˈmejja tɨ ku ˈsɛra",
-      "zazaki": "ver, veng da va kê A'hmêdira: warêza, ez amêyya, tı kû sera",
+      "ipa": "vɛr vɛŋg daː vaː ke aħˈmedira ˈwareza ɛz aˈmeja tɨ ku ˈsɛra",
+      "zazaki": "ver, veng da va kê A'hmêdira: warêza, ez amêya, tı ku sera",
       "source_note": "Reviewer note accepts wāreza as the kinship term 'nephew' (sister's son); German/Russian 'get up' is treated as a mistranslation/confusion with a rise/get-up form.",
       "russian_print_page": 101,
       "russian_scan_page": 115,
@@ -12058,11 +12058,11 @@
         },
         {
           "label": "IPA",
-          "value": "vɛr vɛŋg daː vaː ke aħˈmedira ˈwareza ɛz aˈmejja tɨ ku ˈsɛra"
+          "value": "vɛr vɛŋg daː vaː ke aħˈmedira ˈwareza ɛz aˈmeja tɨ ku ˈsɛra"
         },
         {
           "label": "ZAZAKI",
-          "value": "ver, veng da va kê A'hmêdira: warêza, ez amêyya, tı kû sera"
+          "value": "ver, veng da va kê A'hmêdira: warêza, ez amêya, tı ku sera"
         },
         {
           "label": "ENGLISH",
@@ -12283,8 +12283,8 @@
         },
         {
           "form": "ameíya,",
-          "ipa": "aˈmejja",
-          "zazaki": "amêyya,",
+          "ipa": "aˈmeja",
+          "zazaki": "amêya,",
           "lemma": "ameiya",
           "display_gloss": "I have come",
           "gloss_tr": "geldim",
@@ -12293,7 +12293,7 @@
           "morphemes": [
             {
               "form": "ameíya",
-              "normalized": "amêyya",
+              "normalized": "amêya",
               "lemma": "ameiya",
               "gloss": "I have come",
               "pos": "",
@@ -12330,7 +12330,7 @@
         {
           "form": "ku",
           "ipa": "ku",
-          "zazaki": "kû",
+          "zazaki": "ku",
           "lemma": "ku",
           "display_gloss": "where",
           "gloss_tr": "nereye",
@@ -12339,7 +12339,7 @@
           "morphemes": [
             {
               "form": "ku",
-              "normalized": "kû",
+              "normalized": "ku",
               "lemma": "ku",
               "gloss": "where",
               "pos": "",
@@ -12745,7 +12745,7 @@
       "text": "Aláh ī́zme me bi̥dú, e̱z túe vé̱ri eiχóe ki̥šén’a. Hʿāl ši ke Ah̔médi",
       "lerch": "Aláh ī́zme me bi̥dú, e̱z túe vé̱ri eiχóe ki̥šén’a. Hʿāl ši ke Ah̔médi",
       "ipa": "aˈlah ˈiːzme me bɨˈdu ɛz ˈtwe ˈvɛri ejˈχoe kɨˈʃen.a ħaːl ʃi ke aħˈmedi",
-      "zazaki": "Alah izmê mê bıdû, ez twê veri êyxoê kışêna. 'Hal şi kê A'hmêdi",
+      "zazaki": "Alah izmê mê bıdu, ez twê veri êyxoê kışêna. 'Hal şi kê A'hmêdi",
       "source_note": "",
       "russian_print_page": 101,
       "russian_scan_page": 115,
@@ -12760,7 +12760,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Alah izmê mê bıdû, ez twê veri êyxoê kışêna. 'Hal şi kê A'hmêdi"
+          "value": "Alah izmê mê bıdu, ez twê veri êyxoê kışêna. 'Hal şi kê A'hmêdi"
         },
         {
           "label": "ENGLISH",
@@ -12856,7 +12856,7 @@
         {
           "form": "bi̥dú,",
           "ipa": "bɨˈdu",
-          "zazaki": "bıdû,",
+          "zazaki": "bıdu,",
           "lemma": "bi-",
           "display_gloss": "may give",
           "gloss_tr": "versin",
@@ -12876,7 +12876,7 @@
             },
             {
               "form": "dú",
-              "normalized": "dû",
+              "normalized": "du",
               "lemma": "du",
               "gloss": "give",
               "pos": "",
@@ -13128,7 +13128,7 @@
       "text": "bi̥kšú. Ah̔méd auńā́ d́ési we̱dí, yau ši̥bā́ke h̔ā d́ése wé̱dide, dé̱sti",
       "lerch": "bi̥kšú. Ah̔méd auńā́ d́ési we̱dí, yau ši̥bā́ke h̔ā d́ése wé̱dide, dé̱sti",
       "ipa": "bɨkˈʃu aħˈmed awˈɲaː ˈdʲesi wɛˈdi jaw ʃɨˈbaːke ħaː ˈdʲese ˈwɛdide ˈdɛsti",
-      "zazaki": "bıkşû. A'hmêd awnya dyêsi wedi, yaw şıbakê 'ha dyêsê wedidê, desti",
+      "zazaki": "bıkşu. A'hmêd awnya dyêsi wedi, yaw şıbakê 'ha dyêsê wedidê, desti",
       "source_note": "German says in der Wand des Zimmers ein Gitter; Russian has решетка. Translate šibāke as grating/lattice.",
       "russian_print_page": 101,
       "russian_scan_page": 115,
@@ -13143,7 +13143,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "bıkşû. A'hmêd awnya dyêsi wedi, yaw şıbakê 'ha dyêsê wedidê, desti"
+          "value": "bıkşu. A'hmêd awnya dyêsi wedi, yaw şıbakê 'ha dyêsê wedidê, desti"
         },
         {
           "label": "ENGLISH",
@@ -13170,7 +13170,7 @@
         {
           "form": "bi̥kšú.",
           "ipa": "bɨkˈʃu",
-          "zazaki": "bıkşû.",
+          "zazaki": "bıkşu.",
           "lemma": "bi-",
           "display_gloss": "kill him",
           "gloss_tr": "öldürsün",
@@ -13190,7 +13190,7 @@
             },
             {
               "form": "kšú",
-              "normalized": "kşû",
+              "normalized": "kşu",
               "lemma": "ksu",
               "gloss": "kill",
               "pos": "",
@@ -13780,7 +13780,7 @@
       "text": "dai h̔ā́li bí̥ne t̮íd̮i rā́štiru. Hʿāl kaut. Ah̔médi χand̮éri h̔ā́lira vé̱te,",
       "lerch": "dai h̔ā́li bí̥ne t̮íd̮i rā́štiru. Hʿāl kaut. Ah̔médi χand̮éri h̔ā́lira vé̱te,",
       "ipa": "daj ˈħaːli ˈbɨne ˈt͡ʃid͡ʒi ˈraːʃtiru ħaːl kawt aħˈmedi χanˈd͡ʒeri ˈħaːlira ˈvɛte",
-      "zazaki": "day 'hali bınê çici raştirû. 'Hal kawt. A'hmêdi xancêri 'halira vetê,",
+      "zazaki": "day 'hali bınê çici raştiru. 'Hal kawt. A'hmêdi xancêri 'halira vetê,",
       "source_note": "",
       "russian_print_page": 102,
       "russian_scan_page": 116,
@@ -13795,7 +13795,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "day 'hali bınê çici raştirû. 'Hal kawt. A'hmêdi xancêri 'halira vetê,"
+          "value": "day 'hali bınê çici raştiru. 'Hal kawt. A'hmêdi xancêri 'halira vetê,"
         },
         {
           "label": "ENGLISH",
@@ -13914,7 +13914,7 @@
         {
           "form": "rā́štiru.",
           "ipa": "ˈraːʃtiru",
-          "zazaki": "raştirû.",
+          "zazaki": "raştiru.",
           "lemma": "rastiru",
           "display_gloss": "directly",
           "gloss_tr": "doğrudan",
@@ -13923,7 +13923,7 @@
           "morphemes": [
             {
               "form": "rā́štiru",
-              "normalized": "raştirû",
+              "normalized": "raştiru",
               "lemma": "rastiru",
               "gloss": "directly",
               "pos": "",
@@ -14089,7 +14089,7 @@
           "start": 2,
           "end": 5,
           "lerch": "bí̥ne t̮íd̮i rā́štiru.",
-          "zazaki": "bınê çici raştirû",
+          "zazaki": "bınê çici raştiru",
           "english": "straight into the right side of the chest",
           "turkish": "göğsünün sağ tarafına doğru",
           "german": "gegen die rechte Brust",
@@ -14387,7 +14387,7 @@
       "text": "t̮ímyiru, gó’eni bíe Ah̔médi t̮ími. Ah̔méd hyẹ̄rs be, h̔aut té̱ni pei",
       "lerch": "t̮ímyiru, gó’eni bíe Ah̔médi t̮ími. Ah̔méd hyẹ̄rs be, h̔aut té̱ni pei",
       "ipa": "ˈt͡ʃimjiru ˈgo.eni ˈbje aħˈmedi ˈt͡ʃimi aħˈmed hje̝ːrs be ħawt ˈtɛni pej",
-      "zazaki": "çimyirû, goêni byê A'hmêdi çimi. A'hmêd hyêrs bê, 'hawt teni pêy",
+      "zazaki": "çimyiru, goêni byê A'hmêdi çimi. A'hmêd hyêrs bê, 'hawt teni pêy",
       "source_note": "",
       "russian_print_page": 102,
       "russian_scan_page": 116,
@@ -14402,7 +14402,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "çimyirû, goêni byê A'hmêdi çimi. A'hmêd hyêrs bê, 'hawt teni pêy"
+          "value": "çimyiru, goêni byê A'hmêdi çimi. A'hmêd hyêrs bê, 'hawt teni pêy"
         },
         {
           "label": "ENGLISH",
@@ -14429,7 +14429,7 @@
         {
           "form": "t̮ímyiru,",
           "ipa": "ˈt͡ʃimjiru",
-          "zazaki": "çimyirû,",
+          "zazaki": "çimyiru,",
           "lemma": "timyiru",
           "display_gloss": "on his eye",
           "gloss_tr": "gözünün üzerine",
@@ -14438,7 +14438,7 @@
           "morphemes": [
             {
               "form": "t̮ímyiru",
-              "normalized": "çimyirû",
+              "normalized": "çimyiru",
               "lemma": "timyiru",
               "gloss": "on his eye",
               "pos": "",
@@ -14972,7 +14972,7 @@
       "text": "ye kíšti. Des u h̔eíšt té̱ni me̱rdṳ́mi γarī́bi kíšti. E̱skér aγaíra šẹ̄,",
       "lerch": "ye kíšti. Des u h̔eíšt té̱ni me̱rdṳ́mi γarī́bi kíšti. E̱skér aγaíra šẹ̄,",
       "ipa": "je ˈkiʃti des u ˈħejʃt ˈtɛni mɛrˈdymi ʁaˈriːbi ˈkiʃti ɛsˈker aˈʁajra ʃe̝ː",
-      "zazaki": "yê kişti. Dês û 'hêyşt teni merdûmi ğaribi kişti. Eskêr ağayra şê,",
+      "zazaki": "yê kişti. Dês û 'hêyşt teni merdümi ğaribi kişti. Eskêr ağayra şê,",
       "source_note": "",
       "russian_print_page": 102,
       "russian_scan_page": 116,
@@ -14987,7 +14987,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "yê kişti. Dês û 'hêyşt teni merdûmi ğaribi kişti. Eskêr ağayra şê,"
+          "value": "yê kişti. Dês û 'hêyşt teni merdümi ğaribi kişti. Eskêr ağayra şê,"
         },
         {
           "label": "ENGLISH",
@@ -15152,7 +15152,7 @@
         {
           "form": "me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "merdûmi",
+          "zazaki": "merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -15332,7 +15332,7 @@
       "text": "hérgu kes ši kei χóe. D̮enazaí Áli aγaí, t̮ehér hé̱me̱ lād̮ā́na, des u",
       "lerch": "hérgu kes ši kei χóe. D̮enazaí Áli aγaí, t̮ehér hé̱me̱ lād̮ā́na, des u",
       "ipa": "ˈhergu kes ʃi kej ˈχoe d͡ʒenaˈzaj ˈali aˈʁaj t͡ʃeˈher ˈhɛmɛ laːˈd͡ʒaːna des u",
-      "zazaki": "hêrgû kês şi kêy xoê. Cênazay Ali ağay, çêhêr heme lacana, dês û",
+      "zazaki": "hêrgu kês şi kêy xoê. Cênazay Ali ağay, çêhêr heme lacana, dês û",
       "source_note": "",
       "russian_print_page": 102,
       "russian_scan_page": 116,
@@ -15347,7 +15347,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "hêrgû kês şi kêy xoê. Cênazay Ali ağay, çêhêr heme lacana, dês û"
+          "value": "hêrgu kês şi kêy xoê. Cênazay Ali ağay, çêhêr heme lacana, dês û"
         },
         {
           "label": "ENGLISH",
@@ -15374,7 +15374,7 @@
         {
           "form": "hérgu",
           "ipa": "ˈhergu",
-          "zazaki": "hêrgû",
+          "zazaki": "hêrgu",
           "lemma": "hergu",
           "display_gloss": "each",
           "gloss_tr": "her",
@@ -15383,7 +15383,7 @@
           "morphemes": [
             {
               "form": "hérgu",
-              "normalized": "hêrgû",
+              "normalized": "hêrgu",
               "lemma": "hergu",
               "gloss": "each",
               "pos": "",
@@ -15715,7 +15715,7 @@
       "text": "heišt me̱rdṳ́mi γaribā́na pyéru méndi wáde̱de. So̤bá Mél’ai Resá",
       "lerch": "heišt me̱rdṳ́mi γaribā́na pyéru méndi wáde̱de. So̤bá Mél’ai Resá",
       "ipa": "hejʃt mɛrˈdymi ʁariˈbaːna ˈpjeru ˈmendi ˈwadɛde søˈba ˈmel.aj reˈsa",
-      "zazaki": "hêyşt merdûmi ğaribana pyêrû mêndi wadedê. Soba Mêlay Rêsa",
+      "zazaki": "hêyşt merdümi ğaribana pyêru mêndi wadedê. Soba Mêlay Rêsa",
       "source_note": "German has im Zimmer; update wadede as room here.",
       "russian_print_page": 102,
       "russian_scan_page": 116,
@@ -15730,7 +15730,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "hêyşt merdûmi ğaribana pyêrû mêndi wadedê. Soba Mêlay Rêsa"
+          "value": "hêyşt merdümi ğaribana pyêru mêndi wadedê. Soba Mêlay Rêsa"
         },
         {
           "label": "ENGLISH",
@@ -15780,7 +15780,7 @@
         {
           "form": "me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "merdûmi",
+          "zazaki": "merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -15859,7 +15859,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêrû",
+          "zazaki": "pyêru",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -15868,7 +15868,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêrû",
+              "normalized": "pyêru",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -16017,7 +16017,7 @@
       "text": "ve̱ṅg dā vā ke mél’a Qasími Desmúnd̮ira: bíeri d̮enazaí Áli aγaí",
       "lerch": "ve̱ṅg dā vā ke mél’a Qasími Desmúnd̮ira: bíeri d̮enazaí Áli aγaí",
       "ipa": "vɛŋg daː vaː ke ˈmel.a qaˈsimi desˈmund͡ʒira ˈbjeri d͡ʒenaˈzaj ˈali aˈʁaj",
-      "zazaki": "veng da va kê mêla Qasimi Dêsmûncira: byêri cênazay Ali ağay",
+      "zazaki": "veng da va kê mêla Qasimi Dêsmuncira: byêri cênazay Ali ağay",
       "source_note": "",
       "russian_print_page": 102,
       "russian_scan_page": 116,
@@ -16032,7 +16032,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "veng da va kê mêla Qasimi Dêsmûncira: byêri cênazay Ali ağay"
+          "value": "veng da va kê mêla Qasimi Dêsmuncira: byêri cênazay Ali ağay"
         },
         {
           "label": "ENGLISH",
@@ -16197,7 +16197,7 @@
         {
           "form": "Desmúnd̮ira:",
           "ipa": "desˈmund͡ʒira",
-          "zazaki": "Dêsmûncira:",
+          "zazaki": "Dêsmuncira:",
           "lemma": "Desmund",
           "display_gloss": "from Desmund",
           "gloss_tr": "Desmun'dan",
@@ -16365,7 +16365,7 @@
       "text": "aílāna des u heíšt té̱ni me̱rdṳ́mi γaribā́na h̔é̱tia bíeri bé̱ri we̱-",
       "lerch": "aílāna des u heíšt té̱ni me̱rdṳ́mi γaribā́na h̔é̱tia bíeri bé̱ri we̱-",
       "ipa": "ˈajlaːna des u ˈhejʃt ˈtɛni mɛrˈdymi ʁariˈbaːna ˈħɛtja ˈbjeri ˈbɛri wɛ",
-      "zazaki": "aylana dês û hêyşt teni merdûmi ğaribana 'hetya byêri beri we-",
+      "zazaki": "aylana dês û hêyşt teni merdümi ğaribana 'hetya byêri beri we-",
       "source_note": "",
       "russian_print_page": 102,
       "russian_scan_page": 116,
@@ -16380,7 +16380,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "aylana dês û hêyşt teni merdûmi ğaribana 'hetya byêri beri we-"
+          "value": "aylana dês û hêyşt teni merdümi ğaribana 'hetya byêri beri we-"
         },
         {
           "label": "ENGLISH",
@@ -16544,7 +16544,7 @@
         {
           "form": "me̱rdṳ́mi",
           "ipa": "mɛrˈdymi",
-          "zazaki": "merdûmi",
+          "zazaki": "merdümi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",
@@ -16735,7 +16735,7 @@
       "text": "dari. Mél’a Qasím we̱ríšt Desmúnira, Meméd aγá we̱ríšt Γeítera,",
       "lerch": "dari. Mél’a Qasím we̱ríšt Desmúnira, Meméd aγá we̱ríšt Γeítera,",
       "ipa": "dari ˈmel.a qaˈsim wɛˈriʃt desˈmunira meˈmed aˈʁa wɛˈriʃt ˈʁejtera",
-      "zazaki": "dari. Mêla Qasim werişt Dêsmûnira, Mêmêd ağa werişt Ğêytêra,",
+      "zazaki": "dari. Mêla Qasim werişt Dêsmunira, Mêmêd ağa werişt Ğêytêra,",
       "source_note": "",
       "russian_print_page": 102,
       "russian_scan_page": 116,
@@ -16750,7 +16750,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dari. Mêla Qasim werişt Dêsmûnira, Mêmêd ağa werişt Ğêytêra,"
+          "value": "dari. Mêla Qasim werişt Dêsmunira, Mêmêd ağa werişt Ğêytêra,"
         },
         {
           "label": "ENGLISH",
@@ -16869,7 +16869,7 @@
         {
           "form": "Desmúnira,",
           "ipa": "desˈmunira",
-          "zazaki": "Dêsmûnira,",
+          "zazaki": "Dêsmunira,",
           "lemma": "Desmun",
           "display_gloss": "from Desmun",
           "gloss_tr": "Desmun'dan",
@@ -17374,7 +17374,7 @@
       "text": "heíšt mē̱rdúmi γaribā́na geraúti ā́rdi bé̱rdi we̱dé̱rti.",
       "lerch": "heíšt mē̱rdúmi γaribā́na geraúti ā́rdi bé̱rdi we̱dé̱rti.",
       "ipa": "ˈhejʃt mɛːrˈdumi ʁariˈbaːna geˈrawti ˈaːrdi ˈbɛrdi wɛˈdɛrti",
-      "zazaki": "hêyşt merdûmi ğaribana gêrawti ardi berdi wederti.",
+      "zazaki": "hêyşt merdumi ğaribana gêrawti ardi berdi wederti.",
       "source_note": "Russian and German both confirm the final action as taking away and burying the bodies.",
       "russian_print_page": 102,
       "russian_scan_page": 116,
@@ -17389,7 +17389,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "hêyşt merdûmi ğaribana gêrawti ardi berdi wederti."
+          "value": "hêyşt merdumi ğaribana gêrawti ardi berdi wederti."
         },
         {
           "label": "ENGLISH",
@@ -17439,7 +17439,7 @@
         {
           "form": "mē̱rdúmi",
           "ipa": "mɛːrˈdumi",
-          "zazaki": "merdûmi",
+          "zazaki": "merdumi",
           "lemma": "merdum",
           "display_gloss": "man",
           "gloss_tr": "adam",

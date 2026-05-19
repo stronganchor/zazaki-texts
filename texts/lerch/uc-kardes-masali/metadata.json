@@ -1,0 +1,13 @@
+{
+  "id": "lerch-uc-kardes-masali",
+  "title": "Üç Kardeş Masalı",
+  "title_lerch": "Das Märchen von den drei Brüdern",
+  "author_collector": "Peter Lerch",
+  "language": "Zazaki",
+  "dialect_region_note": "Sivan-area Zazaki tale material as discussed in local project notes.",
+  "status": "reviewed working edition",
+  "line_count": 126,
+  "token_count": 1398,
+  "lltools_payload": "text-document.json",
+  "reviewed_transcription_synced_at": "2026-05-19"
+}
