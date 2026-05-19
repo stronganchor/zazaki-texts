@@ -6310,20 +6310,20 @@
           "ipa": "tu.ˈerge",
           "zazaki": "tuêrgê",
           "lemma": "tuerge",
-          "display_gloss": "load",
-          "gloss_tr": "yük",
-          "gloss_de": "Last",
+          "display_gloss": "hail",
+          "gloss_tr": "dolu",
+          "gloss_de": "Hagel",
           "pos": "",
           "morphemes": [
             {
               "form": "tu’érge",
               "normalized": "tuêrgê",
               "lemma": "tuerge",
-              "gloss": "load",
+              "gloss": "hail",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
-              "evidence": "Current word-level token gloss; no confident internal split applied.",
+              "evidence": "Modern Zazaki torge means hail; this gives a coherent reading with varai/varayış.",
               "notes": ""
             }
           ]
@@ -6333,20 +6333,20 @@
           "ipa": "varaj",
           "zazaki": "varay,",
           "lemma": "varai",
-          "display_gloss": "brought",
-          "gloss_tr": "getirdi",
-          "gloss_de": "brachte",
+          "display_gloss": "rained",
+          "gloss_tr": "yağdı",
+          "gloss_de": "hagelte",
           "pos": "",
           "morphemes": [
             {
               "form": "varai",
               "normalized": "varay",
               "lemma": "varai",
-              "gloss": "brought",
+              "gloss": "rained",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
-              "evidence": "Current word-level token gloss; no confident internal split applied.",
+              "evidence": "Compare modern Zazaki varayış, raining/precipitation; context is hail falling.",
               "notes": ""
             }
           ]
