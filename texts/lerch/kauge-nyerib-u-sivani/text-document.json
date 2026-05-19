@@ -2,7 +2,7 @@
   "schema": "ll_tools_text_document.v1",
   "kind": "corpus_text",
   "lesson_id": "lerch-kauge-nyerib-u-sivani",
-  "title": "Kawğê Nyêrib û Sivani",
+  "title": "Nyêrib ve Sivan'ın Kavgası",
   "source_label": "Zazaki",
   "translations": {
     "tr": {
@@ -29,18 +29,20 @@
     "reader_unit": "sentence_or_short_section",
     "reviewed_transcription_synced_at": "2026-05-19",
     "publication": {
+      "title": "Nyêrib ve Sivan'ın Kavgası",
       "public_summary_tr": "Nyêrib'den bir gencin Horsig'de hırsızlık yapması ve öldürülmesiyle başlayan anlatı, Xalef Ağa ile Avdulah Ağa arasında tehditler, çatışma ve sonunda barışa uzanan bir kan davasını anlatır.",
       "content_warning_tr": "şiddet; ölüm",
       "people_tr": "Xalef Ağa; Avdulah Ağa; Mela Ahmed/Qafon; Huseyin; Hayder Ağa; Sele.",
       "places_tr": "Nyêrib/Nerib/Kuyular; Sivan/Servi; Horsig/Horsik/Saklıca; Deştê Henzi; Şeynan; Hêni/Hyêni/Hani; Kelan.",
-      "historical_context_tr": "Bu anlatı Sivan/Servi-Palu hattı ile Nyêrib/Hani hattı arasındaki yerel çatışma hafızasını birleştirir. Horsig adı, Sivan köy listesinde Horsik (bugünkü Saklıca) olarak görünen yerle büyük olasılıkla aynıdır. Metindeki Xalef Ağa'ya 'Hyêni'de kavga ettin' uyarısı, bunu Nyêrib-Hyêni kavgasından sonra konumlandıran iç ipucudur; bu nedenle çalışma aralığı kabaca 1820-1853 olarak tutulur, üst sınır ise Lerch'in Kırım Savaşı dönemindeki kayıt bağlamıdır.",
-      "editorial_note_tr": "Sivan/Servi, Horsig/Horsik/Saklıca ve Nyêrib/Nerib/Kuyular eşleştirmeleri kaynakla desteklenir. Deştê Henzi, Şeynan ve Kelan için modern karşılıklar henüz kesinleştirilmemiştir; anlatılar arası kronoloji çalışma hipotezi olarak verilmelidir."
-    }
+      "historical_context_tr": "Bu anlatı Sivan/Servi-Palu hattı ile Nyêrib/Hani hattı arasındaki yerel çatışma hafızasını birleştirir. Horsig adı, Sivan köy listesinde Horsik (bugünkü Saklıca) olarak görünen yerle büyük olasılıkla aynıdır. Metindeki Xalef Ağa'ya 'Hyêni'de kavga ettin' uyarısı, bu anlatıyı Nyêrib-Hyêni kavgasından sonra konumlandırır; bu nedenle en uygun tarih aralığı yaklaşık 1820-1853'tür.",
+      "editorial_note_tr": "Sivan/Servi, Horsig/Horsik/Saklıca ve Nyêrib/Nerib/Kuyular eşleştirmeleri kaynakla desteklenir. Deştê Henzi, Şeynan ve Kelan adları anlatının yerel coğrafyasına ait diğer önemli adlardır."
+    },
+    "title_tr": "Nyêrib ve Sivan'ın Kavgası"
   },
   "summary": {
     "lines": 75,
     "source_lines": 75,
-    "reading_units": 37,
+    "reading_units": 38,
     "tokens": 796
   },
   "witnesses": [
@@ -94,6 +96,15 @@
     }
   ],
   "reading_units": [
+    {
+      "id": "title",
+      "source": "Kawğê Nyêrib û Sivani",
+      "translations": {
+        "tr": "Nyêrib ve Sivan'ın Kavgası",
+        "en": "The Feud Between Nyêrib and Sivan",
+        "de": "Die Feindseligkeiten zwischen Nyêrib und Sivan"
+      }
+    },
     {
       "id": "u01",
       "source": "Veri coan yaw lacêku Nyêrbic şê Sivang, 'Horsigê dızdêyê, bani Mêla A'hmêdi Qafan akêrd, purti Mêla A'hmêdi Qafan gêrawt bêru.",
