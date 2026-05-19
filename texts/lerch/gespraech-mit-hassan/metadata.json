@@ -15,6 +15,190 @@
     "content_warning_tr": "",
     "people_tr": "Hassan; Avdula Beg; Mistefa Ali; Ali Beg Aldun; Ahmed Beg.",
     "places_tr": "Sivan/Servi; Kasan/Kassau/Kaschan/Günkondu; Gewel/Gevil; Aldun/Alaaddin; Talek; Weşin; Karbegan/Karabegan; Hyêni/Hêni/Hani; Nyêrib/Nerib/Kuyular; Kavare; Gowman.",
+    "place_links": [
+      {
+        "name": "Sivan",
+        "modern": "Servi",
+        "url": "https://www.google.com/maps/search/?api=1&query=Servi%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Kasan/Kassau/Kaschan",
+        "modern": "Günkondu",
+        "url": "https://www.google.com/maps/search/?api=1&query=G%C3%BCnkondu%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Fatrakom",
+        "modern": "Yatansöğüt",
+        "url": "https://www.google.com/maps/search/?api=1&query=Yatans%C3%B6%C4%9F%C3%BCt%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Hopsor/Hapsor",
+        "modern": "Ericek",
+        "url": "https://www.google.com/maps/search/?api=1&query=Ericek%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Tenik/Tinik",
+        "modern": "Doludere",
+        "url": "https://www.google.com/maps/search/?api=1&query=Doludere%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Rezuan/Rızvan",
+        "modern": "Harmancık",
+        "url": "https://www.google.com/maps/search/?api=1&query=Harmanc%C4%B1k%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Zımag/Zimak",
+        "modern": "Bahçebaşı",
+        "url": "https://www.google.com/maps/search/?api=1&query=Bah%C3%A7eba%C5%9F%C4%B1%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Horsig/Horsik",
+        "modern": "Saklıca",
+        "url": "https://www.google.com/maps/search/?api=1&query=Sakl%C4%B1ca%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Bılıkê/Bılıko",
+        "modern": "Yolaçtı",
+        "url": "https://www.google.com/maps/search/?api=1&query=Yola%C3%A7t%C4%B1%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Melêkang/Melekan",
+        "modern": "Sarıbudak",
+        "url": "https://www.google.com/maps/search/?api=1&query=Sar%C4%B1budak%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Mark/Mukriyan",
+        "modern": "Anıl",
+        "url": "https://www.google.com/maps/search/?api=1&query=An%C4%B1l%2C%20Hani%2C%20Diyarbak%C4%B1r"
+      },
+      {
+        "name": "Aldun/Aldûn",
+        "modern": "Alaaddin",
+        "url": "https://www.google.com/maps/search/?api=1&query=Alaaddin%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Gewel/Gevil",
+        "modern": "Görülü",
+        "url": "https://www.google.com/maps/search/?api=1&query=G%C3%B6r%C3%BCl%C3%BC%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Hoena/Huynu",
+        "modern": "Eskibağ",
+        "url": "https://www.google.com/maps/search/?api=1&query=Eskiba%C4%9F%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Şekara/Şekaron",
+        "modern": "Şekeran Yaylası",
+        "url": "https://www.google.com/maps/search/?api=1&query=%C5%9Eekeran%20Yaylas%C4%B1%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Hêylang/Heylan",
+        "modern": "Gerçekli",
+        "url": "https://www.google.com/maps/search/?api=1&query=Ger%C3%A7ekli%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Bazyang/Bazian",
+        "modern": "Dereköy",
+        "url": "https://www.google.com/maps/search/?api=1&query=Derek%C3%B6y%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Mala İbrahiman",
+        "modern": "Mollaibrahiman",
+        "url": "https://www.google.com/maps/search/?api=1&query=Mollaibrahiman%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Avdêlang/Avdelan",
+        "modern": "Sırmalıova",
+        "url": "https://www.google.com/maps/search/?api=1&query=S%C4%B1rmal%C4%B1ova%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Mıstang/Mıstan",
+        "modern": "Bulgurluk",
+        "url": "https://www.google.com/maps/search/?api=1&query=Bulgurluk%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Sayêrê/Sayer",
+        "modern": "Yazılı",
+        "url": "https://www.google.com/maps/search/?api=1&query=Yaz%C4%B1l%C4%B1%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Abasa/Abason",
+        "modern": "Damlapınar",
+        "url": "https://www.google.com/maps/search/?api=1&query=Damlap%C4%B1nar%2C%20Palu%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Wis’hêyn/Weşin",
+        "modern": "Erimli",
+        "url": "https://www.google.com/maps/search/?api=1&query=Erimli%2C%20Alacakaya%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Haspêg/Hasbeg",
+        "modern": "Hasbey",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hasbey%2C%20Palu%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Sêraçyori/Sêraçur",
+        "modern": "Güllüce",
+        "url": "https://www.google.com/maps/search/?api=1&query=G%C3%BCll%C3%BCce%2C%20Palu%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Akêragi/Akerag",
+        "modern": "Burgudere",
+        "url": "https://www.google.com/maps/search/?api=1&query=Burgudere%2C%20Palu%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Letang/Letan",
+        "modern": "Gürpınar",
+        "url": "https://www.google.com/maps/search/?api=1&query=G%C3%BCrp%C4%B1nar%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Ğahar/Gahar",
+        "modern": "Göründü",
+        "url": "https://www.google.com/maps/search/?api=1&query=G%C3%B6r%C3%BCnd%C3%BC%2C%20Ar%C4%B1cak%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Ğoêmang/Gowman",
+        "modern": "Yalnızdamlar",
+        "url": "https://www.google.com/maps/search/?api=1&query=Yaln%C4%B1zdamlar%2C%20Alacakaya%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Kavarê/Kavar",
+        "modern": "Yazkonağı",
+        "url": "https://www.google.com/maps/search/?api=1&query=Yazkona%C4%9F%C4%B1%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Talek/Tolek",
+        "modern": "Gümeçbağlar",
+        "url": "https://www.google.com/maps/search/?api=1&query=G%C3%BCme%C3%A7ba%C4%9Flar%2C%20Palu%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Karbegan/Karabegan",
+        "modern": "Arıcak",
+        "url": "https://www.google.com/maps/search/?api=1&query=Ar%C4%B1cak%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Hyêni/Hêni",
+        "modern": "Hani",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hani%2C%20Diyarbak%C4%B1r"
+      },
+      {
+        "name": "Nyêrib/Nerib",
+        "modern": "Kuyular",
+        "url": "https://www.google.com/maps/search/?api=1&query=Kuyular%2C%20Hani%2C%20Diyarbak%C4%B1r"
+      },
+      {
+        "name": "Hêmek/Hamek",
+        "modern": "modern adı kesinleşmedi"
+      },
+      {
+        "name": "Sama/Sema",
+        "modern": "modern adı kesinleşmedi"
+      },
+      {
+        "name": "Emêra/Emera",
+        "modern": "modern adı kesinleşmedi"
+      }
+    ],
     "historical_context_tr": "Bu söyleşi, Lerch'in ana Zaza kaynağı Hassan hakkında en doğrudan bilgiyi veren metindir. Hassan'ın Sivan dediği çerçeve, 1841 Palu nüfus defterinde 42 köylü Sivan nahiyesi olarak görünen ve daha sonra Genç'e bağlanıp Servi adıyla anılan bölgeyle örtüşür. Kasan/Kassau/Kaschan için en güçlü çalışma karşılığı, Sivan köy listesinde Kasan/Kâsan olarak verilen bugünkü Günkondu'dur.",
     "editorial_note_tr": "Hassan/Hasan yazımı Lerch'in biçimine göre korunur. Kasan/Günkondu, Horsik/Saklıca, Aldun/Alaaddin ve bazı diğer Sivan köyleri kaynakla desteklenir; Weşin, Talek, Kavare ve Gowman gibi adlar anlatının yerel coğrafyasını belgeleyen diğer adlardır."
   },

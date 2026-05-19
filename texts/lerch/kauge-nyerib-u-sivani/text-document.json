@@ -34,6 +34,61 @@
       "content_warning_tr": "şiddet; ölüm",
       "people_tr": "Xalef Ağa; Avdulah Ağa; Mela Ahmed/Qafon; Huseyin; Hayder Ağa; Sele.",
       "places_tr": "Nyêrib/Nerib/Kuyular; Sivan/Servi; Horsig/Horsik/Saklıca; Deştê Henzi; Şeynan; Hêni/Hyêni/Hani; Kelan.",
+      "place_links": [
+        {
+          "name": "Nyêrib/Nerib",
+          "modern": "Kuyular",
+          "url": "https://www.google.com/maps/search/?api=1&query=Kuyular%2C%20Hani%2C%20Diyarbak%C4%B1r"
+        },
+        {
+          "name": "Sivan",
+          "modern": "Servi",
+          "url": "https://www.google.com/maps/search/?api=1&query=Servi%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+        },
+        {
+          "name": "Horsig/Horsik",
+          "modern": "Saklıca",
+          "url": "https://www.google.com/maps/search/?api=1&query=Sakl%C4%B1ca%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+        },
+        {
+          "name": "Deştê Henzi",
+          "modern": "Henzi Ovası",
+          "url": "https://www.google.com/maps/search/?api=1&query=Henzi%20Ovas%C4%B1%2C%20Hani%2C%20Diyarbak%C4%B1r"
+        },
+        {
+          "name": "Şeynan/Şeynon",
+          "modern": "Çukurköy",
+          "url": "https://www.google.com/maps/search/?api=1&query=%C3%87ukurk%C3%B6y%2C%20Hani%2C%20Diyarbak%C4%B1r"
+        },
+        {
+          "name": "Hyêni/Hêni",
+          "modern": "Hani",
+          "url": "https://www.google.com/maps/search/?api=1&query=Hani%2C%20Diyarbak%C4%B1r"
+        },
+        {
+          "name": "Dait/Caıt",
+          "modern": "Sergen",
+          "url": "https://www.google.com/maps/search/?api=1&query=Sergen%2C%20Hani%2C%20Diyarbak%C4%B1r"
+        },
+        {
+          "name": "Şelê/Sele deresi",
+          "modern": "Yaydere",
+          "url": "https://www.google.com/maps/search/?api=1&query=Yaydere%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+        },
+        {
+          "name": "Qotwesan/Qotweson",
+          "modern": "Arıcak",
+          "url": "https://www.google.com/maps/search/?api=1&query=Ar%C4%B1cak%2C%20Elaz%C4%B1%C4%9F"
+        },
+        {
+          "name": "Kelan",
+          "modern": "modern adı kesinleşmedi"
+        },
+        {
+          "name": "Tawricyê/Taurıcye",
+          "modern": "modern adı kesinleşmedi"
+        }
+      ],
       "historical_context_tr": "Bu anlatı Sivan/Servi-Palu hattı ile Nyêrib/Hani hattı arasındaki yerel çatışma hafızasını birleştirir. Horsig adı, Sivan köy listesinde Horsik (bugünkü Saklıca) olarak görünen yerle büyük olasılıkla aynıdır. Metindeki Xalef Ağa'ya 'Hyêni'de kavga ettin' uyarısı, bu anlatıyı Nyêrib-Hyêni kavgasından sonra konumlandırır; bu nedenle en uygun tarih aralığı yaklaşık 1820-1853'tür.",
       "editorial_note_tr": "Sivan/Servi, Horsig/Horsik/Saklıca ve Nyêrib/Nerib/Kuyular eşleştirmeleri kaynakla desteklenir. Deştê Henzi, Şeynan ve Kelan adları anlatının yerel coğrafyasına ait diğer önemli adlardır."
     },

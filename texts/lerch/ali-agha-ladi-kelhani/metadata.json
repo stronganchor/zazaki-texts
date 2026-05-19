@@ -16,6 +16,48 @@
     "content_warning_tr": "şiddet; ölüm",
     "people_tr": "Ali Ağa; Qasım Ağa; Weşinli Hasan Ağa; Ahmed; Eysan; Mela Qasım; Ramedan Ağa; Memed Ağa; Hasan Kalan; Mela Resa.",
     "places_tr": "Karbegan/Karabegan; Narbêş; Syeraçur; Sivan/Servi; Weşin; Desmun; Merzyelê; Ğêytê.",
+    "place_links": [
+      {
+        "name": "Karbegan/Karabegan",
+        "modern": "Arıcak",
+        "url": "https://www.google.com/maps/search/?api=1&query=Ar%C4%B1cak%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Narbêş",
+        "modern": "Yoğunbilek",
+        "url": "https://www.google.com/maps/search/?api=1&query=Yo%C4%9Funbilek%2C%20Ar%C4%B1cak%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Syeraçur/Sêraçur",
+        "modern": "Güllüce",
+        "url": "https://www.google.com/maps/search/?api=1&query=G%C3%BCll%C3%BCce%2C%20Palu%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Sivan",
+        "modern": "Servi",
+        "url": "https://www.google.com/maps/search/?api=1&query=Servi%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      },
+      {
+        "name": "Weşin/Wısheyn",
+        "modern": "Erimli",
+        "url": "https://www.google.com/maps/search/?api=1&query=Erimli%2C%20Alacakaya%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Desmun",
+        "modern": "Küplüce",
+        "url": "https://www.google.com/maps/search/?api=1&query=K%C3%BCpl%C3%BCce%2C%20Ar%C4%B1cak%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Merzyelê/Merzil",
+        "modern": "Erbağı",
+        "url": "https://www.google.com/maps/search/?api=1&query=Erba%C4%9F%C4%B1%2C%20Ar%C4%B1cak%2C%20Elaz%C4%B1%C4%9F"
+      },
+      {
+        "name": "Ğêytê/Ğeyd",
+        "modern": "Karcı",
+        "url": "https://www.google.com/maps/search/?api=1&query=Karc%C4%B1%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+      }
+    ],
     "historical_context_tr": "Bu metin Karbegan/Karabegan ve Sivan/Servi çevresindeki yerel güç ilişkilerini yansıtan bir kan davası anlatısıdır. 1870-1871 Diyarbakır salnamesinde Karabegan nahiyesinin Sivan'a bağlı köylerle birlikte anılması, Karbegan adını aynı Palu-Genç/Servi tarihî coğrafyası içinde düşünmeyi destekler. Metin, Lerch'in 1856'da Roslavl'da savaş esirlerinden derlediği Zazaca malzemenin parçası olarak yayınlanmaktadır.",
     "editorial_note_tr": "Narbêş, Syeraçur, Desmun, Merzyelê ve Ğêytê adları anlatının yerel coğrafyasını gösterir; Karbegan/Karabegan ile Sivan/Servi bağlantısı dış kaynaklarla da desteklenir."
   },

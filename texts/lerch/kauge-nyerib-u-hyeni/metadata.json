@@ -16,6 +16,36 @@
     "content_warning_tr": "şiddet; ölüm",
     "people_tr": "Xalef Ağa; Daqma Bey; Temir Beg; Mela Haseynê Mûğara; Wesman Ağa; Mêhmêt Ağa; Ziriki ağaları; Bayraktar.",
     "places_tr": "Nyêrib/Nerib/Kuyular; Hyêni/Hêni/Hani/Khini; Dawz; Küçük Nyêrib; Deştê Henzi; Ziriki.",
+    "place_links": [
+      {
+        "name": "Nyêrib/Nerib",
+        "modern": "Kuyular",
+        "url": "https://www.google.com/maps/search/?api=1&query=Kuyular%2C%20Hani%2C%20Diyarbak%C4%B1r"
+      },
+      {
+        "name": "Hyêni/Hêni/Khini",
+        "modern": "Hani",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hani%2C%20Diyarbak%C4%B1r"
+      },
+      {
+        "name": "Dawz/Cauz/Cewzê",
+        "modern": "Gürbüz",
+        "url": "https://www.google.com/maps/search/?api=1&query=G%C3%BCrb%C3%BCz%2C%20Hani%2C%20Diyarbak%C4%B1r"
+      },
+      {
+        "name": "Deştê Henzi",
+        "modern": "Henzi Ovası",
+        "url": "https://www.google.com/maps/search/?api=1&query=Henzi%20Ovas%C4%B1%2C%20Hani%2C%20Diyarbak%C4%B1r"
+      },
+      {
+        "name": "Küçük Nyêrib",
+        "modern": "modern adı kesinleşmedi"
+      },
+      {
+        "name": "Dûzê Hemyê",
+        "modern": "modern adı kesinleşmedi"
+      }
+    ],
     "historical_context_tr": "Hyêni/Hêni adı dış kaynaklardaki Hani/Khini ile, Nyêrib/Nerib adı da 19. yüzyıl yer adı notlarında Hani ilçesindeki Kuyular/Nerib ile eşleşir. Hikâyede ordunun Temir Beg'in evi önünde toplanması önemlidir: bu kişi büyük olasılıkla kaynaklarda 1819'da Hani ileri geleni, 1835'te Hani emini olarak görünen ve aynı yıl yenilip Edirne'ye sürgün edilen Timur/Temir Bey'dir. Bu bağlantı, olayın muhtemelen 1819-1835 aralığında gerçekleştiğini gösterir.",
     "editorial_note_tr": "Nyêrib/Kuyular ve Hyêni/Hani eşleştirmeleri dış kaynakla desteklenir. Dawz, Deştê Henzi, Küçük Nyêrib ve Ziriki adları da anlatının Hani çevresindeki yerel coğrafyaya bağlı olduğunu gösterir."
   },

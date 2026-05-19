@@ -14,7 +14,14 @@
     "public_summary_tr": "Bir tilki değirmencinin ununu çalarken yakalanır ve canını kurtarmak için değirmenciyi Mısır Paşası'nın kızıyla evlendireceğini söyler. Kurnazlık, kimlik uydurma ve pazarlık üzerine kurulu bir masaldır.",
     "content_warning_tr": "",
     "people_tr": "",
-    "places_tr": "",
+    "places_tr": "Mısr/Mısır.",
+    "place_links": [
+      {
+        "name": "Mısr/Mısır",
+        "modern": "Mısır",
+        "url": "https://www.google.com/maps/search/?api=1&query=Egypt"
+      }
+    ],
     "historical_context_tr": "",
     "editorial_note_tr": "MF03 satırındaki köşeli parantezli bölüm Lerch tarafından çevrilmemiştir; yayındaki anlam, Zazaca metin çözümlemesi ve bağlam üzerinden verilmiştir."
   },

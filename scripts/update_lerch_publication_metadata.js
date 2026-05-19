@@ -15,6 +15,20 @@ function writeJson(filePath, value) {
   fs.writeFileSync(filePath, `${JSON.stringify(value, null, 2)}\n`, 'utf8');
 }
 
+function maps(query) {
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
+}
+
+function place(name, modern, query = null) {
+  const item = { name, modern };
+  if (query) {
+    item.url = maps(query);
+  }
+  return item;
+}
+
+const unresolvedModern = 'modern adı kesinleşmedi';
+
 const publication = {
   'ali-agha-ladi-kelhani': {
     title: "Kelhan'ın Oğlu Ali Ağa",
@@ -22,6 +36,16 @@ const publication = {
     content_warning_tr: 'şiddet; ölüm',
     people_tr: 'Ali Ağa; Qasım Ağa; Weşinli Hasan Ağa; Ahmed; Eysan; Mela Qasım; Ramedan Ağa; Memed Ağa; Hasan Kalan; Mela Resa.',
     places_tr: 'Karbegan/Karabegan; Narbêş; Syeraçur; Sivan/Servi; Weşin; Desmun; Merzyelê; Ğêytê.',
+    place_links: [
+      place('Karbegan/Karabegan', 'Arıcak', 'Arıcak, Elazığ'),
+      place('Narbêş', 'Yoğunbilek', 'Yoğunbilek, Arıcak, Elazığ'),
+      place('Syeraçur/Sêraçur', 'Güllüce', 'Güllüce, Palu, Elazığ'),
+      place('Sivan', 'Servi', 'Servi, Genç, Bingöl'),
+      place('Weşin/Wısheyn', 'Erimli', 'Erimli, Alacakaya, Elazığ'),
+      place('Desmun', 'Küplüce', 'Küplüce, Arıcak, Elazığ'),
+      place('Merzyelê/Merzil', 'Erbağı', 'Erbağı, Arıcak, Elazığ'),
+      place('Ğêytê/Ğeyd', 'Karcı', 'Karcı, Genç, Bingöl'),
+    ],
     historical_context_tr: "Bu metin Karbegan/Karabegan ve Sivan/Servi çevresindeki yerel güç ilişkilerini yansıtan bir kan davası anlatısıdır. 1870-1871 Diyarbakır salnamesinde Karabegan nahiyesinin Sivan'a bağlı köylerle birlikte anılması, Karbegan adını aynı Palu-Genç/Servi tarihî coğrafyası içinde düşünmeyi destekler. Metin, Lerch'in 1856'da Roslavl'da savaş esirlerinden derlediği Zazaca malzemenin parçası olarak yayınlanmaktadır.",
     editorial_note_tr: "Narbêş, Syeraçur, Desmun, Merzyelê ve Ğêytê adları anlatının yerel coğrafyasını gösterir; Karbegan/Karabegan ile Sivan/Servi bağlantısı dış kaynaklarla da desteklenir.",
   },
@@ -29,7 +53,10 @@ const publication = {
     public_summary_tr: "Bir tilki değirmencinin ununu çalarken yakalanır ve canını kurtarmak için değirmenciyi Mısır Paşası'nın kızıyla evlendireceğini söyler. Kurnazlık, kimlik uydurma ve pazarlık üzerine kurulu bir masaldır.",
     content_warning_tr: '',
     people_tr: '',
-    places_tr: '',
+    places_tr: 'Mısr/Mısır.',
+    place_links: [
+      place('Mısr/Mısır', 'Mısır', 'Egypt'),
+    ],
     historical_context_tr: '',
     editorial_note_tr: "MF03 satırındaki köşeli parantezli bölüm Lerch tarafından çevrilmemiştir; yayındaki anlam, Zazaca metin çözümlemesi ve bağlam üzerinden verilmiştir.",
   },
@@ -38,6 +65,45 @@ const publication = {
     content_warning_tr: '',
     people_tr: 'Hassan; Avdula Beg; Mistefa Ali; Ali Beg Aldun; Ahmed Beg.',
     places_tr: 'Sivan/Servi; Kasan/Kassau/Kaschan/Günkondu; Gewel/Gevil; Aldun/Alaaddin; Talek; Weşin; Karbegan/Karabegan; Hyêni/Hêni/Hani; Nyêrib/Nerib/Kuyular; Kavare; Gowman.',
+    place_links: [
+      place('Sivan', 'Servi', 'Servi, Genç, Bingöl'),
+      place('Kasan/Kassau/Kaschan', 'Günkondu', 'Günkondu, Genç, Bingöl'),
+      place('Fatrakom', 'Yatansöğüt', 'Yatansöğüt, Genç, Bingöl'),
+      place('Hopsor/Hapsor', 'Ericek', 'Ericek, Genç, Bingöl'),
+      place('Tenik/Tinik', 'Doludere', 'Doludere, Genç, Bingöl'),
+      place('Rezuan/Rızvan', 'Harmancık', 'Harmancık, Genç, Bingöl'),
+      place('Zımag/Zimak', 'Bahçebaşı', 'Bahçebaşı, Genç, Bingöl'),
+      place('Horsig/Horsik', 'Saklıca', 'Saklıca, Genç, Bingöl'),
+      place('Bılıkê/Bılıko', 'Yolaçtı', 'Yolaçtı, Genç, Bingöl'),
+      place('Melêkang/Melekan', 'Sarıbudak', 'Sarıbudak, Genç, Bingöl'),
+      place('Mark/Mukriyan', 'Anıl', 'Anıl, Hani, Diyarbakır'),
+      place('Aldun/Aldûn', 'Alaaddin', 'Alaaddin, Genç, Bingöl'),
+      place('Gewel/Gevil', 'Görülü', 'Görülü, Genç, Bingöl'),
+      place('Hoena/Huynu', 'Eskibağ', 'Eskibağ, Genç, Bingöl'),
+      place('Şekara/Şekaron', 'Şekeran Yaylası', 'Şekeran Yaylası, Genç, Bingöl'),
+      place('Hêylang/Heylan', 'Gerçekli', 'Gerçekli, Genç, Bingöl'),
+      place('Bazyang/Bazian', 'Dereköy', 'Dereköy, Genç, Bingöl'),
+      place('Mala İbrahiman', 'Mollaibrahiman', 'Mollaibrahiman, Genç, Bingöl'),
+      place('Avdêlang/Avdelan', 'Sırmalıova', 'Sırmalıova, Genç, Bingöl'),
+      place('Mıstang/Mıstan', 'Bulgurluk', 'Bulgurluk, Genç, Bingöl'),
+      place('Sayêrê/Sayer', 'Yazılı', 'Yazılı, Genç, Bingöl'),
+      place('Abasa/Abason', 'Damlapınar', 'Damlapınar, Palu, Elazığ'),
+      place('Wis’hêyn/Weşin', 'Erimli', 'Erimli, Alacakaya, Elazığ'),
+      place('Haspêg/Hasbeg', 'Hasbey', 'Hasbey, Palu, Elazığ'),
+      place('Sêraçyori/Sêraçur', 'Güllüce', 'Güllüce, Palu, Elazığ'),
+      place('Akêragi/Akerag', 'Burgudere', 'Burgudere, Palu, Elazığ'),
+      place('Letang/Letan', 'Gürpınar', 'Gürpınar, Genç, Bingöl'),
+      place('Ğahar/Gahar', 'Göründü', 'Göründü, Arıcak, Elazığ'),
+      place('Ğoêmang/Gowman', 'Yalnızdamlar', 'Yalnızdamlar, Alacakaya, Elazığ'),
+      place('Kavarê/Kavar', 'Yazkonağı', 'Yazkonağı, Genç, Bingöl'),
+      place('Talek/Tolek', 'Gümeçbağlar', 'Gümeçbağlar, Palu, Elazığ'),
+      place('Karbegan/Karabegan', 'Arıcak', 'Arıcak, Elazığ'),
+      place('Hyêni/Hêni', 'Hani', 'Hani, Diyarbakır'),
+      place('Nyêrib/Nerib', 'Kuyular', 'Kuyular, Hani, Diyarbakır'),
+      place('Hêmek/Hamek', unresolvedModern),
+      place('Sama/Sema', unresolvedModern),
+      place('Emêra/Emera', unresolvedModern),
+    ],
     historical_context_tr: "Bu söyleşi, Lerch'in ana Zaza kaynağı Hassan hakkında en doğrudan bilgiyi veren metindir. Hassan'ın Sivan dediği çerçeve, 1841 Palu nüfus defterinde 42 köylü Sivan nahiyesi olarak görünen ve daha sonra Genç'e bağlanıp Servi adıyla anılan bölgeyle örtüşür. Kasan/Kassau/Kaschan için en güçlü çalışma karşılığı, Sivan köy listesinde Kasan/Kâsan olarak verilen bugünkü Günkondu'dur.",
     editorial_note_tr: "Hassan/Hasan yazımı Lerch'in biçimine göre korunur. Kasan/Günkondu, Horsik/Saklıca, Aldun/Alaaddin ve bazı diğer Sivan köyleri kaynakla desteklenir; Weşin, Talek, Kavare ve Gowman gibi adlar anlatının yerel coğrafyasını belgeleyen diğer adlardır.",
   },
@@ -55,6 +121,14 @@ const publication = {
     content_warning_tr: 'şiddet; ölüm',
     people_tr: 'Xalef Ağa; Daqma Bey; Temir Beg; Mela Haseynê Mûğara; Wesman Ağa; Mêhmêt Ağa; Ziriki ağaları; Bayraktar.',
     places_tr: 'Nyêrib/Nerib/Kuyular; Hyêni/Hêni/Hani/Khini; Dawz; Küçük Nyêrib; Deştê Henzi; Ziriki.',
+    place_links: [
+      place('Nyêrib/Nerib', 'Kuyular', 'Kuyular, Hani, Diyarbakır'),
+      place('Hyêni/Hêni/Khini', 'Hani', 'Hani, Diyarbakır'),
+      place('Dawz/Cauz/Cewzê', 'Gürbüz', 'Gürbüz, Hani, Diyarbakır'),
+      place('Deştê Henzi', 'Henzi Ovası', 'Henzi Ovası, Hani, Diyarbakır'),
+      place('Küçük Nyêrib', unresolvedModern),
+      place('Dûzê Hemyê', unresolvedModern),
+    ],
     historical_context_tr: "Hyêni/Hêni adı dış kaynaklardaki Hani/Khini ile, Nyêrib/Nerib adı da 19. yüzyıl yer adı notlarında Hani ilçesindeki Kuyular/Nerib ile eşleşir. Hikâyede ordunun Temir Beg'in evi önünde toplanması önemlidir: bu kişi büyük olasılıkla kaynaklarda 1819'da Hani ileri geleni, 1835'te Hani emini olarak görünen ve aynı yıl yenilip Edirne'ye sürgün edilen Timur/Temir Bey'dir. Bu bağlantı, olayın muhtemelen 1819-1835 aralığında gerçekleştiğini gösterir.",
     editorial_note_tr: "Nyêrib/Kuyular ve Hyêni/Hani eşleştirmeleri dış kaynakla desteklenir. Dawz, Deştê Henzi, Küçük Nyêrib ve Ziriki adları da anlatının Hani çevresindeki yerel coğrafyaya bağlı olduğunu gösterir.",
   },
@@ -64,6 +138,19 @@ const publication = {
     content_warning_tr: 'şiddet; ölüm',
     people_tr: 'Xalef Ağa; Avdulah Ağa; Mela Ahmed/Qafon; Huseyin; Hayder Ağa; Sele.',
     places_tr: 'Nyêrib/Nerib/Kuyular; Sivan/Servi; Horsig/Horsik/Saklıca; Deştê Henzi; Şeynan; Hêni/Hyêni/Hani; Kelan.',
+    place_links: [
+      place('Nyêrib/Nerib', 'Kuyular', 'Kuyular, Hani, Diyarbakır'),
+      place('Sivan', 'Servi', 'Servi, Genç, Bingöl'),
+      place('Horsig/Horsik', 'Saklıca', 'Saklıca, Genç, Bingöl'),
+      place('Deştê Henzi', 'Henzi Ovası', 'Henzi Ovası, Hani, Diyarbakır'),
+      place('Şeynan/Şeynon', 'Çukurköy', 'Çukurköy, Hani, Diyarbakır'),
+      place('Hyêni/Hêni', 'Hani', 'Hani, Diyarbakır'),
+      place('Dait/Caıt', 'Sergen', 'Sergen, Hani, Diyarbakır'),
+      place('Şelê/Sele deresi', 'Yaydere', 'Yaydere, Genç, Bingöl'),
+      place('Qotwesan/Qotweson', 'Arıcak', 'Arıcak, Elazığ'),
+      place('Kelan', unresolvedModern),
+      place('Tawricyê/Taurıcye', unresolvedModern),
+    ],
     historical_context_tr: "Bu anlatı Sivan/Servi-Palu hattı ile Nyêrib/Hani hattı arasındaki yerel çatışma hafızasını birleştirir. Horsig adı, Sivan köy listesinde Horsik (bugünkü Saklıca) olarak görünen yerle büyük olasılıkla aynıdır. Metindeki Xalef Ağa'ya 'Hyêni'de kavga ettin' uyarısı, bu anlatıyı Nyêrib-Hyêni kavgasından sonra konumlandırır; bu nedenle en uygun tarih aralığı yaklaşık 1820-1853'tür.",
     editorial_note_tr: "Sivan/Servi, Horsig/Horsik/Saklıca ve Nyêrib/Nerib/Kuyular eşleştirmeleri kaynakla desteklenir. Deştê Henzi, Şeynan ve Kelan adları anlatının yerel coğrafyasına ait diğer önemli adlardır.",
   },
