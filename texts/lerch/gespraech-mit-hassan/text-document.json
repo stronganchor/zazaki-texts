@@ -1369,25 +1369,25 @@
     {
       "id": "h01_l05",
       "title": "H01 line 05: Opening questions and Sivan village list",
-      "text": "T̮é̱nde dḗwi ašíreta šṳ́ma é̱sti?",
-      "lerch": "T̮é̱nde dḗwi ašíreta šṳ́ma é̱sti?",
-      "ipa": "ˈt͡ʃɛnde ˈdeːwi aˈʃireta ˈʃyma ˈɛsti",
-      "zazaki": "Çendê dêwi aşirêta şüma esti?",
+      "text": "T̮é̱nde dé̱wi ašíreta šṳ́ma é̱sti?",
+      "lerch": "T̮é̱nde dé̱wi ašíreta šṳ́ma é̱sti?",
+      "ipa": "ˈt͡ʃɛnde ˈdɛwi aˈʃireta ˈʃyma ˈɛsti",
+      "zazaki": "Çendê dewi aşirêta şüma esti?",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "T̮é̱nde dḗwi ašíreta šṳ́ma é̱sti?"
+          "value": "T̮é̱nde dé̱wi ašíreta šṳ́ma é̱sti?"
         },
         {
           "label": "IPA",
-          "value": "ˈt͡ʃɛnde ˈdeːwi aˈʃireta ˈʃyma ˈɛsti"
+          "value": "ˈt͡ʃɛnde ˈdɛwi aˈʃireta ˈʃyma ˈɛsti"
         },
         {
           "label": "ZAZAKI",
-          "value": "Çendê dêwi aşirêta şüma esti?"
+          "value": "Çendê dewi aşirêta şüma esti?"
         },
         {
           "label": "ENGLISH",
@@ -1435,9 +1435,9 @@
           ]
         },
         {
-          "form": "dḗwi",
-          "ipa": "ˈdeːwi",
-          "zazaki": "dêwi",
+          "form": "dé̱wi",
+          "ipa": "ˈdɛwi",
+          "zazaki": "dewi",
           "lemma": "dewi",
           "display_gloss": "villages",
           "gloss_tr": "köyler",
@@ -1445,8 +1445,8 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "dḗwi",
-              "normalized": "dêwi",
+              "form": "dé̱wi",
+              "normalized": "dewi",
               "lemma": "dewi",
               "gloss": "villages",
               "pos": "",
@@ -2102,9 +2102,9 @@
     {
       "id": "h01_l09",
       "title": "H01 line 09: Opening questions and Sivan village list",
-      "text": "mék, Bi̥lí̥ke, Me̱lekā́ṅ, Marḱ, Aldū́n, Ge̱wél, Kasán, Hʿóena, Sā́-",
-      "lerch": "mék, Bi̥lí̥ke, Me̱lekā́ṅ, Marḱ, Aldū́n, Ge̱wél, Kasán, Hʿóena, Sā́-",
-      "ipa": "ˈmek bɨˈlɨke mɛleˈkaːŋ marc alˈduːn gɛˈwel kaˈsan ˈħoena ˈsaː",
+      "text": "méḱ, Bi̥lí̥ke, Me̱lekā́ṅ, Marḱ, Aldū́n, Ge̱wél, Kasán, Hʿóena, Sā́-",
+      "lerch": "méḱ, Bi̥lí̥ke, Me̱lekā́ṅ, Marḱ, Aldū́n, Ge̱wél, Kasán, Hʿóena, Sā́-",
+      "ipa": "ˈmec bɨˈlɨke mɛleˈkaːŋ marc alˈduːn gɛˈwel kaˈsan ˈħoena ˈsaː",
       "zazaki": "mêk, Bılıkê, Melêkang, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sa-",
       "source_note": "",
       "russian_print_page": 96,
@@ -2112,11 +2112,11 @@
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "mék, Bi̥lí̥ke, Me̱lekā́ṅ, Marḱ, Aldū́n, Ge̱wél, Kasán, Hʿóena, Sā́-"
+          "value": "méḱ, Bi̥lí̥ke, Me̱lekā́ṅ, Marḱ, Aldū́n, Ge̱wél, Kasán, Hʿóena, Sā́-"
         },
         {
           "label": "IPA",
-          "value": "ˈmek bɨˈlɨke mɛleˈkaːŋ marc alˈduːn gɛˈwel kaˈsan ˈħoena ˈsaː"
+          "value": "ˈmec bɨˈlɨke mɛleˈkaːŋ marc alˈduːn gɛˈwel kaˈsan ˈħoena ˈsaː"
         },
         {
           "label": "ZAZAKI",
@@ -2145,8 +2145,8 @@
       ],
       "tokens": [
         {
-          "form": "mék,",
-          "ipa": "ˈmek",
+          "form": "méḱ,",
+          "ipa": "ˈmec",
           "zazaki": "mêk,",
           "lemma": "mek",
           "display_gloss": "Hemık",
@@ -2155,7 +2155,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "mék",
+              "form": "méḱ",
               "normalized": "mêk",
               "lemma": "mek",
               "gloss": "Hemık",
@@ -2360,25 +2360,25 @@
     {
       "id": "h01_l10",
       "title": "H01 line 10: Opening questions and Sivan village list",
-      "text": "ma, É̱merā, Šékera, Hʿeílāṅ, Báziāṅ, Mála-Ibrahimā́n, Ávdelāṅ,",
-      "lerch": "ma, É̱merā, Šékera, Hʿeílāṅ, Báziāṅ, Mála-Ibrahimā́n, Ávdelāṅ,",
-      "ipa": "ma ˈɛmeraː ˈʃekera ˈħejlaːŋ ˈbazjaːŋ ˈmala-ibrahiˈmaːn ˈavdelaːŋ",
-      "zazaki": "ma, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahiman, Avdêlang,",
+      "text": "ma, É̱merā, Šékera, Hʿeílāṅ, Báziāṅ, Mála-Ibrahimā́ṅ, Ávdelāṅ,",
+      "lerch": "ma, É̱merā, Šékera, Hʿeílāṅ, Báziāṅ, Mála-Ibrahimā́ṅ, Ávdelāṅ,",
+      "ipa": "ma ˈɛmeraː ˈʃekera ˈħejlaːŋ ˈbazjaːŋ ˈmala-ibrahiˈmaːŋ ˈavdelaːŋ",
+      "zazaki": "ma, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahimang, Avdêlang,",
       "source_note": "",
       "russian_print_page": 96,
       "russian_scan_page": 110,
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "ma, É̱merā, Šékera, Hʿeílāṅ, Báziāṅ, Mála-Ibrahimā́n, Ávdelāṅ,"
+          "value": "ma, É̱merā, Šékera, Hʿeílāṅ, Báziāṅ, Mála-Ibrahimā́ṅ, Ávdelāṅ,"
         },
         {
           "label": "IPA",
-          "value": "ma ˈɛmeraː ˈʃekera ˈħejlaːŋ ˈbazjaːŋ ˈmala-ibrahiˈmaːn ˈavdelaːŋ"
+          "value": "ma ˈɛmeraː ˈʃekera ˈħejlaːŋ ˈbazjaːŋ ˈmala-ibrahiˈmaːŋ ˈavdelaːŋ"
         },
         {
           "label": "ZAZAKI",
-          "value": "ma, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahiman, Avdêlang,"
+          "value": "ma, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahimang, Avdêlang,"
         },
         {
           "label": "ENGLISH",
@@ -2518,9 +2518,9 @@
           ]
         },
         {
-          "form": "Mála-Ibrahimā́n,",
-          "ipa": "ˈmala-ibrahiˈmaːn",
-          "zazaki": "Mala-İbrahiman,",
+          "form": "Mála-Ibrahimā́ṅ,",
+          "ipa": "ˈmala-ibrahiˈmaːŋ",
+          "zazaki": "Mala-İbrahimang,",
           "lemma": "malaibrahiman",
           "display_gloss": "Mala Ibrahim",
           "gloss_tr": "Mala İbrahim",
@@ -2528,8 +2528,8 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "Mála-Ibrahimā́n",
-              "normalized": "Mala-İbrahiman",
+              "form": "Mála-Ibrahimā́ṅ",
+              "normalized": "Mala-İbrahimang",
               "lemma": "malaibrahiman",
               "gloss": "Mala Ibrahim",
               "pos": "",
@@ -2950,9 +2950,9 @@
     {
       "id": "h01_l13",
       "title": "H01 line 13: Opening questions and Sivan village list",
-      "text": "Si̥pye̱rdí̥ši dé̱we̱ Aldúni qā́mu?",
-      "lerch": "Si̥pye̱rdí̥ši dé̱we̱ Aldúni qā́mu?",
-      "ipa": "sɨpjɛrˈdɨʃi ˈdɛwɛ alˈduni ˈqaːmu",
+      "text": "Si̥pye̱rdí̥ši dé̱we̱ Aldū́ni qā́mu?",
+      "lerch": "Si̥pye̱rdí̥ši dé̱we̱ Aldū́ni qā́mu?",
+      "ipa": "sɨpjɛrˈdɨʃi ˈdɛwɛ alˈduːni ˈqaːmu",
       "zazaki": "Sıpyerdışi dewe Aldûni qamû?",
       "source_note": "",
       "russian_print_page": 96,
@@ -2960,11 +2960,11 @@
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "Si̥pye̱rdí̥ši dé̱we̱ Aldúni qā́mu?"
+          "value": "Si̥pye̱rdí̥ši dé̱we̱ Aldū́ni qā́mu?"
         },
         {
           "label": "IPA",
-          "value": "sɨpjɛrˈdɨʃi ˈdɛwɛ alˈduni ˈqaːmu"
+          "value": "sɨpjɛrˈdɨʃi ˈdɛwɛ alˈduːni ˈqaːmu"
         },
         {
           "label": "ZAZAKI",
@@ -3039,8 +3039,8 @@
           ]
         },
         {
-          "form": "Aldúni",
-          "ipa": "alˈduni",
+          "form": "Aldū́ni",
+          "ipa": "alˈduːni",
           "zazaki": "Aldûni",
           "lemma": "alduni",
           "display_gloss": "Aldun",
@@ -3049,7 +3049,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "Aldúni",
+              "form": "Aldū́ni",
               "normalized": "Aldûni",
               "lemma": "alduni",
               "gloss": "Aldun",
@@ -4545,9 +4545,9 @@
     {
       "id": "h02_l11",
       "title": "H02 line 11: Village elders, Kasan, garden, and household",
-      "text": "Dā́re tṳ́yera é̱stu, sayér é̱stu, mišmišyḗr é̱stu, χauχir, he̱-",
-      "lerch": "Dā́re tṳ́yera é̱stu, sayér é̱stu, mišmišyḗr é̱stu, χauχir, he̱-",
-      "ipa": "ˈdaːre ˈtyjera ˈɛstu saˈjer ˈɛstu miʃmiʃˈjeːr ˈɛstu χawχir hɛ",
+      "text": "Dā́re tṳ́yera é̱stu, sayér é̱stu, mišmišyẹ̄́r é̱stu, χauχir, he̱-",
+      "lerch": "Dā́re tṳ́yera é̱stu, sayér é̱stu, mišmišyẹ̄́r é̱stu, χauχir, he̱-",
+      "ipa": "ˈdaːre ˈtyjera ˈɛstu saˈjer ˈɛstu miʃmiʃˈje̝ːr ˈɛstu χawχir hɛ",
       "zazaki": "Darê tüyêra estû, sayêr estû, mişmişyêr estû, xawxir, he-",
       "source_note": "",
       "russian_print_page": 97,
@@ -4555,11 +4555,11 @@
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "Dā́re tṳ́yera é̱stu, sayér é̱stu, mišmišyḗr é̱stu, χauχir, he̱-"
+          "value": "Dā́re tṳ́yera é̱stu, sayér é̱stu, mišmišyẹ̄́r é̱stu, χauχir, he̱-"
         },
         {
           "label": "IPA",
-          "value": "ˈdaːre ˈtyjera ˈɛstu saˈjer ˈɛstu miʃmiʃˈjeːr ˈɛstu χawχir hɛ"
+          "value": "ˈdaːre ˈtyjera ˈɛstu saˈjer ˈɛstu miʃmiʃˈje̝ːr ˈɛstu χawχir hɛ"
         },
         {
           "label": "ZAZAKI",
@@ -4714,8 +4714,8 @@
           ]
         },
         {
-          "form": "mišmišyḗr",
-          "ipa": "miʃmiʃˈjeːr",
+          "form": "mišmišyẹ̄́r",
+          "ipa": "miʃmiʃˈje̝ːr",
           "zazaki": "mişmişyêr",
           "lemma": "mismisyer",
           "display_gloss": "apricot trees",
@@ -4724,7 +4724,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "mišmišyḗr",
+              "form": "mišmišyẹ̄́r",
               "normalized": "mişmişyêr",
               "lemma": "mismisyer",
               "gloss": "apricot trees",
@@ -6295,25 +6295,25 @@
     {
       "id": "h03_l05",
       "title": "H03 line 05: Summer pasture and feud experience",
-      "text": "Mā karat̮ad̮írid̮e rōšén’i, bā́ni ésti mā bā́nide rōšén’i.",
-      "lerch": "Mā karat̮ad̮írid̮e rōšén’i, bā́ni ésti mā bā́nide rōšén’i.",
-      "ipa": "maː karat͡ʃaˈd͡ʒirid͡ʒe roːˈʃen.i ˈbaːni ˈesti maː ˈbaːnide roːˈʃen.i",
-      "zazaki": "Ma karaçaciricê roşêni, bani êsti ma banidê roşêni.",
+      "text": "Mā karat̮ad̮írid̮e rōšén’i, bā́ni é̱sti mā bā́nide rōšén’i.",
+      "lerch": "Mā karat̮ad̮írid̮e rōšén’i, bā́ni é̱sti mā bā́nide rōšén’i.",
+      "ipa": "maː karat͡ʃaˈd͡ʒirid͡ʒe roːˈʃen.i ˈbaːni ˈɛsti maː ˈbaːnide roːˈʃen.i",
+      "zazaki": "Ma karaçaciricê roşêni, bani esti ma banidê roşêni.",
       "source_note": "",
       "russian_print_page": 98,
       "russian_scan_page": 112,
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "Mā karat̮ad̮írid̮e rōšén’i, bā́ni ésti mā bā́nide rōšén’i."
+          "value": "Mā karat̮ad̮írid̮e rōšén’i, bā́ni é̱sti mā bā́nide rōšén’i."
         },
         {
           "label": "IPA",
-          "value": "maː karat͡ʃaˈd͡ʒirid͡ʒe roːˈʃen.i ˈbaːni ˈesti maː ˈbaːnide roːˈʃen.i"
+          "value": "maː karat͡ʃaˈd͡ʒirid͡ʒe roːˈʃen.i ˈbaːni ˈɛsti maː ˈbaːnide roːˈʃen.i"
         },
         {
           "label": "ZAZAKI",
-          "value": "Ma karaçaciricê roşêni, bani êsti ma banidê roşêni."
+          "value": "Ma karaçaciricê roşêni, bani esti ma banidê roşêni."
         },
         {
           "label": "ENGLISH",
@@ -6441,9 +6441,9 @@
           ]
         },
         {
-          "form": "ésti",
-          "ipa": "ˈesti",
-          "zazaki": "êsti",
+          "form": "é̱sti",
+          "ipa": "ˈɛsti",
+          "zazaki": "esti",
           "lemma": "esti",
           "display_gloss": "there are",
           "gloss_tr": "var",
@@ -6451,8 +6451,8 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "ésti",
-              "normalized": "êsti",
+              "form": "é̱sti",
+              "normalized": "esti",
               "lemma": "esti",
               "gloss": "there are",
               "pos": "",
@@ -8119,9 +8119,9 @@
     {
       "id": "h03_l12",
       "title": "H03 line 12: Summer pasture and feud experience",
-      "text": "kauγé̱’i Karbe̱gā́ni u Sivā́ni me dī, e̱z té̱de bía, kauγé̱’i We̱šini",
-      "lerch": "kauγé̱’i Karbe̱gā́ni u Sivā́ni me dī, e̱z té̱de bía, kauγé̱’i We̱šini",
-      "ipa": "kawˈʁɛ.i karbɛˈgaːni u siˈvaːni me diː ɛz ˈtɛde ˈbja kawˈʁɛ.i wɛʃini",
+      "text": "kauγé̱’i Karbe̱gā́ni u Sivā́ni me dī, e̱z té̱de bía, kauγé̱’i We̱šíni",
+      "lerch": "kauγé̱’i Karbe̱gā́ni u Sivā́ni me dī, e̱z té̱de bía, kauγé̱’i We̱šíni",
+      "ipa": "kawˈʁɛ.i karbɛˈgaːni u siˈvaːni me diː ɛz ˈtɛde ˈbja kawˈʁɛ.i wɛˈʃini",
       "zazaki": "kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini",
       "source_note": "",
       "russian_print_page": 98,
@@ -8129,11 +8129,11 @@
       "display_rows": [
         {
           "label": "LERCH",
-          "value": "kauγé̱’i Karbe̱gā́ni u Sivā́ni me dī, e̱z té̱de bía, kauγé̱’i We̱šini"
+          "value": "kauγé̱’i Karbe̱gā́ni u Sivā́ni me dī, e̱z té̱de bía, kauγé̱’i We̱šíni"
         },
         {
           "label": "IPA",
-          "value": "kawˈʁɛ.i karbɛˈgaːni u siˈvaːni me diː ɛz ˈtɛde ˈbja kawˈʁɛ.i wɛʃini"
+          "value": "kawˈʁɛ.i karbɛˈgaːni u siˈvaːni me diː ɛz ˈtɛde ˈbja kawˈʁɛ.i wɛˈʃini"
         },
         {
           "label": "ZAZAKI",
@@ -8425,8 +8425,8 @@
           ]
         },
         {
-          "form": "We̱šini",
-          "ipa": "wɛʃini",
+          "form": "We̱šíni",
+          "ipa": "wɛˈʃini",
           "zazaki": "Weşini",
           "lemma": "wesini",
           "display_gloss": "Weşin",
@@ -8435,7 +8435,7 @@
           "pos": "",
           "morphemes": [
             {
-              "form": "We̱šini",
+              "form": "We̱šíni",
               "normalized": "Weşini",
               "lemma": "wesini",
               "gloss": "Weşin",
