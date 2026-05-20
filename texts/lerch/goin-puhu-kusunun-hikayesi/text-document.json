@@ -26,7 +26,7 @@
     "working_status": "reviewed working edition; not final critical edition",
     "created_from": "Lerch Goin review bundle in Language/Z/Dictionaries/Lerch",
     "exported_at": "2026-05-19",
-    "reviewed_transcription_synced_at": "2026-05-19",
+    "reviewed_transcription_synced_at": "2026-05-20",
     "reader_unit": "sentence_or_short_section",
     "publication": {
       "public_summary_tr": "Üvey annesinin öldürdüğü kardeşini rüyasında gören bir kız, aile içi çatışmanın ardından Allah'tan kendisini go'in/puhu kuşuna çevirmesini ister.",
@@ -155,7 +155,7 @@
     },
     {
       "id": "u006",
-      "source": "Kêynêk rocêki yerêy golikana yêna, ek bêray xoê çınu pêrsêna cênyay bawki xoê, vana kê: bêray mê çaw?",
+      "source": "Kêynêk rocêki yerêy golikana yêna, ek bêray xoê çınû pêrsêna cênyay bawki xoê, vana kê: bêray mê çaw?",
       "translations": {
         "tr": "Bir gün akşam sığırlardan eve geldiğinde erkek kardeşinin olmadığını görmüş ve üvey annesine, \"Benim kardeşim nerede?\" diye sormuş.",
         "en": "One day, when she came back from the cattle and saw that her brother was missing, she asked her father's wife, \"Where is my brother?\"",
@@ -169,7 +169,7 @@
     },
     {
       "id": "u007",
-      "source": "Cenyêkê kêynêkra vana kê: bêray twê şyu kêy 'halanê xoê.",
+      "source": "Cenyêkê kêynêkra vana kê: bêray twê şyû kêy 'halanê xoê.",
       "translations": {
         "tr": "Kadın kıza, \"Kardeşin dayılarının evine gitti,\" demiş.",
         "en": "The woman said to the girl, \"Your brother went to his uncles' house.\"",
@@ -181,7 +181,7 @@
     },
     {
       "id": "u008",
-      "source": "Kêynêk aya şu ra kwêna, 'haw vyênêna, ek bêray xoê kiştu, êyştu zêyndang.",
+      "source": "Kêynêk aya şû ra kwêna, 'haw vyênêna, ek bêray xoê kiştû, êyştû zêyndang.",
       "translations": {
         "tr": "O gece kız yatmış ve rüyasında kardeşinin öldürülüp çukura atıldığını görmüş.",
         "en": "The girl lay down that night and dreamed that her brother had been killed and thrown into the pit.",
@@ -194,7 +194,7 @@
     },
     {
       "id": "u009",
-      "source": "Sêbah wardêna, bawki xoêra vana: baw, mê emşoê yaw 'haw di, ekê cênyay twê bêray mê kiştu, êyştu zêyndang.",
+      "source": "Sêbah wardêna, bawki xoêra vana: baw, mê emşoê yaw 'haw di, ekê cênyay twê bêray mê kiştû, êyştû zêyndang.",
       "translations": {
         "tr": "Sabah kalkıp babasına, \"Baba, dün gece bir rüya gördüm: karın kardeşimi öldürüp çukura attı,\" demiş.",
         "en": "In the morning she got up and said to her father, \"Father, last night I had a dream: your wife killed my brother and threw him into the pit.\"",
@@ -207,7 +207,7 @@
     },
     {
       "id": "u010",
-      "source": "Bawki kêynêkê xoêra va kê: 'hêyr bu, senyê bêray twê kişênu?",
+      "source": "Bawki kêynêkê xoêra va kê: 'hêyr bû, senyê bêray twê kişênû?",
       "translations": {
         "tr": "Babası kıza, \"Hayır, o niye kardeşini öldürsün?\" demiş.",
         "en": "Her father said to the girl, \"No, why would she kill your brother?\"",
@@ -219,7 +219,7 @@
     },
     {
       "id": "u011_01",
-      "source": "Kêynêk va kê: baw, mê 'hawni xoêdê dyi, bêray mê kiştu, êyştu zêyndang, ez 'ha warzêna, şwêna golêkangdê, yêrêy yêna kêyê, ekê bêray mê amaw, ez zana weşu, 'hêyrkê bêray mê nyamaw ez 'hêni twêri golêkangdê nyêşwêna, ez etya nyêvêndêna.",
+      "source": "Kêynêk va kê: baw, mê 'hawni xoêdê dyi, bêray mê kiştû, êyştû zêyndang, ez 'ha warzêna, şwêna golêkangdê, yêrêy yêna kêyê, ekê bêray mê amaw, ez zana weşû, 'hêyrkê bêray mê nyamaw ez 'hêni twêri golêkangdê nyêşwêna, ez etya nyêvêndêna.",
       "translations": {
         "tr": "Kız, \"Baba, rüyamda kardeşimin öldürülüp çukura atıldığını gördüm. Şimdi kalkıp sığırların yanına gidiyorum; akşam eve geleceğim. Kardeşim gelirse onun iyi olduğunu bileceğim, ama kardeşim gelmezse artık senin için sığırların yanına gitmeyeceğim ve burada kalmayacağım,\" demiş.",
         "en": "The girl said, \"Father, in my dream I saw that my brother had been killed and thrown into the pit. I am getting up now and going among the cattle; in the evening I will come home. If my brother comes, I will know he is well, but if my brother does not come, I will no longer go among the cattle for you, and I will not remain here.\"",
@@ -260,7 +260,7 @@
     },
     {
       "id": "u014",
-      "source": "Bawki kêynêkê ame, gêyra bêray kêynêkê, eki kistu, êyştu zêyndang, cordê zıbil wêlê kêrda lacêki ser.",
+      "source": "Bawki kêynêkê ame, gêyra bêray kêynêkê, eki kistû, êyştû zêyndang, cordê zıbil wêlê kêrda lacêki ser.",
       "translations": {
         "tr": "Babası kızın ardından gelmiş, kızın kardeşini aramış ve onun öldürülüp çukura atıldığını, oğlanın üstüne de büyük bir taş konduğunu görmüş.",
         "en": "Her father came after the girl, searched for the girl's brother, and found that he had been killed and thrown into the pit, with a large stone placed over the boy.",
@@ -274,7 +274,7 @@
     },
     {
       "id": "u015_01",
-      "source": "Bawki kêynêk amêy kêyê, cênyay xoêra va kê: twê qawi laci mê kiştu, way cêy bi şewi 'hawni xoêdê di bê, ek bêray xoê kiştu, amêy, bermayê, mêra va kê: baw, bêray mê kiştu, êyştu zêyndang.",
+      "source": "Bawki kêynêk amêy kêyê, cênyay xoêra va kê: twê qawi laci mê kiştû, way cêy bi şewi 'hawni xoêdê di bê, ek bêray xoê kiştû, amêy, bermayê, mêra va kê: baw, bêray mê kiştû, êyştû zêyndang.",
       "translations": {
         "tr": "Kızın babası eve gelmiş ve karısına şöyle demiş: \"Kesinlikle oğlumu sen öldürdün. Kız kardeşi bunu gece rüyasında gördü; kardeşinin öldürüldüğünü gördü. Ağlayarak geldi ve bana, 'Baba, kardeşim öldürülmüş ve çukura atılmış,' dedi.",
         "en": "The girl's father came home and said to his wife, \"Surely you killed my son. His sister saw it in her dream last night, that her brother had been killed. She came crying and said to me, 'Father, my brother has been killed and thrown into the pit.'",
@@ -289,7 +289,7 @@
     },
     {
       "id": "u016",
-      "source": "Mê va kê: kêynaym, 'hêyr bu, metêrsê, bêray twê weşu.",
+      "source": "Mê va kê: kêynaym, 'hêyr bû, metêrsê, bêray twê weşû.",
       "translations": {
         "tr": "Ben de, 'Kızım, hayır, korkma; kardeşin iyidir,' dedim.",
         "en": "I said, 'My daughter, no, do not be afraid; your brother is well.'",
@@ -302,7 +302,7 @@
     },
     {
       "id": "u017",
-      "source": "Kêynêk mêra va kê: ez 'ha êyrwê şwêna golikangdê, yêrêy yêna kêye, ek bêray mê amaw, ez zana weşu, ek nyamaw, ez nyêvêndana etya.",
+      "source": "Kêynêk mêra va kê: ez 'ha êyrwê şwêna golikangdê, yêrêy yêna kêye, ek bêray mê amaw, ez zana weşû, ek nyamaw, ez nyêvêndana etya.",
       "translations": {
         "tr": "Kız bana, 'Bugün yine sığırların yanına gidiyorum; akşam eve geleceğim. Kardeşim gelirse onun iyi olduğunu bileceğim; eğer gelmezse burada kalmayacağım,' dedi.\"",
         "en": "The girl said to me, 'Today I am still going among the cattle; in the evening I will come home. If my brother comes, I will know he is well; if he does not come, I will not remain here.'\"",
@@ -316,7 +316,7 @@
     },
     {
       "id": "u018",
-      "source": "Cêni va myêrdê xoêra: werzê têra şwê, tê pisi, tê vatışi kêynêkê, tê amêy mı ser, tı mêra vani kê: qawi twê laci kiştu, ez çitaw lacêki kişêna.",
+      "source": "Cêni va myêrdê xoêra: werzê têra şwê, tê pisi, tê vatışi kêynêkê, tê amêy mı ser, tı mêra vani kê: qawi twê laci kiştû, ez çitaw lacêki kişêna.",
       "translations": {
         "tr": "Kadın kocasına, \"Kalk buradan git, pis adam! Kızının sözünü dinliyorsun. Bana gelip, 'Kesinlikle oğlumu sen öldürdün,' diyorsun. Ben niye o oğlanı öldüreyim?\" demiş.",
         "en": "The woman said to her husband, \"Get up and go away from here, you filthy man! You listen to the girl; you came to me, and you say to me, 'Surely you killed my son.' Why would I kill that boy?\"",
@@ -330,7 +330,7 @@
     },
     {
       "id": "u019",
-      "source": "Myêrdêk 'hêrs bê, şê leşê lacêki zêyndana vetê ardi cêni 'het, va kê cênira, kêynay kopeki, la qami kiştu ênoê lacêk?",
+      "source": "Myêrdêk 'hêrs bê, şê leşê lacêki zêyndana vetê ardi cêni 'het, va kê cênira, kêynay kopeki, la qami kiştû ênoê lacêk?",
       "translations": {
         "tr": "Adam öfkelenmiş, gitmiş, oğlanın cesedini çukurdan çıkarmış ve kadının yanına getirmiş. Kadına, \"Köpek kızı, bu oğlanı kim öldürdü?\" demiş.",
         "en": "The man became angry, went, pulled the boy's body out of the pit, and brought it to the woman. He said to the woman, \"Daughter of a dog, who killed this boy?\"",
@@ -343,7 +343,7 @@
     },
     {
       "id": "u020",
-      "source": "Zwani cêynêki qafêlya, cêyni têrsayê, 'hêni nyawtaray veng bıkêru.",
+      "source": "Zwani cêynêki qafêlya, cêyni têrsayê, 'hêni nyawtaray veng bıkêrû.",
       "translations": {
         "tr": "Kadının dili tutulmuş, korkmuş ve hiçbir ses çıkaramamış.",
         "en": "The woman's tongue was tied, she was frightened, and she could not make any sound.",
@@ -381,7 +381,7 @@
     },
     {
       "id": "u023",
-      "source": "Ek bêray xoê çınu, cênyay bawki xoê çına, şi, lawki xoêra va: baw, cênyay twê çaya?",
+      "source": "Ek bêray xoê çınû, cênyay bawki xoê çına, şi, lawki xoêra va: baw, cênyay twê çaya?",
       "translations": {
         "tr": "Ne kardeşini ne de babasının karısını görünce babasına gidip, \"Baba, karın nerede?\" demiş.",
         "en": "When she saw that neither her brother nor her father's wife was there, she went and said to her father, \"Father, where is your wife?\"",
@@ -394,7 +394,7 @@
     },
     {
       "id": "u024",
-      "source": "Bawki kêynêkra va: ez nyêzana sera şay, bêray twê merdu.",
+      "source": "Bawki kêynêkra va: ez nyêzana sera şay, bêray twê merdû.",
       "translations": {
         "tr": "Babası kıza, \"Bilmiyorum, nereye gitti. Kardeşin öldü,\" demiş.",
         "en": "The father said to the girl, \"I do not know where she has gone. Your brother has died.\"",
@@ -468,12 +468,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g01_russian_l01.webp",
+          "image_url": "assets/g01_russian_l01.jpg",
           "source": "Lerch line crop; Russian printed page 116, scan page 130"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l01.webp",
+          "image_url": "assets/goin_german_l01.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -783,12 +783,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g01_russian_l02.webp",
+          "image_url": "assets/g01_russian_l02.jpg",
           "source": "Lerch line crop; Russian printed page 116, scan page 130"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l02.webp",
+          "image_url": "assets/goin_german_l02.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -1098,12 +1098,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g02_russian_l01.webp",
+          "image_url": "assets/g02_russian_l01.jpg",
           "source": "Lerch line crop; Russian printed page 117, scan page 131"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l03.webp",
+          "image_url": "assets/goin_german_l03.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -1413,12 +1413,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g02_russian_l02.webp",
+          "image_url": "assets/g02_russian_l02.jpg",
           "source": "Lerch line crop; Russian printed page 117, scan page 131"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l04.webp",
+          "image_url": "assets/goin_german_l04.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -1556,12 +1556,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g02_russian_l03.webp",
+          "image_url": "assets/g02_russian_l03.jpg",
           "source": "Lerch line crop; Russian printed page 117, scan page 131"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l05.webp",
+          "image_url": "assets/goin_german_l05.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -1762,7 +1762,7 @@
       "text": "e̱k beraí χoe t̮í̥nu persén’a d̮éniai baúki χóe, vā́na ke: beraí me",
       "lerch": "e̱k beraí χoe t̮í̥nu persén’a d̮éniai baúki χóe, vā́na ke: beraí me",
       "ipa": "ɛk beˈraj χoe ˈt͡ʃɨnu perˈsen.a ˈd͡ʒenjaj ˈbawki ˈχoe ˈvaːna ke beˈraj me",
-      "zazaki": "ek bêray xoê çınu pêrsêna cênyay bawki xoê, vana kê: bêray mê",
+      "zazaki": "ek bêray xoê çınû pêrsêna cênyay bawki xoê, vana kê: bêray mê",
       "source_note": "",
       "russian_print_page": 117,
       "russian_scan_page": 131,
@@ -1777,7 +1777,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ek bêray xoê çınu pêrsêna cênyay bawki xoê, vana kê: bêray mê"
+          "value": "ek bêray xoê çınû pêrsêna cênyay bawki xoê, vana kê: bêray mê"
         },
         {
           "label": "ENGLISH",
@@ -1791,12 +1791,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g02_russian_l04.webp",
+          "image_url": "assets/g02_russian_l04.jpg",
           "source": "Lerch line crop; Russian printed page 117, scan page 131"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l06.webp",
+          "image_url": "assets/goin_german_l06.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -1873,7 +1873,7 @@
         {
           "form": "t̮í̥nu",
           "ipa": "ˈt͡ʃɨnu",
-          "zazaki": "çınu",
+          "zazaki": "çınû",
           "lemma": "tinu",
           "display_gloss": "is not",
           "gloss_tr": "yoktur",
@@ -1882,7 +1882,7 @@
           "morphemes": [
             {
               "form": "t̮í̥nu",
-              "normalized": "çınu",
+              "normalized": "çınû",
               "lemma": "tinu",
               "gloss": "is not",
               "pos": "",
@@ -2089,7 +2089,7 @@
       "text": "t̮au? D̮é̱ńeke keínekra vā́na ke: beraí túe šyu kei h̔ā́lāne χóe.",
       "lerch": "t̮au? D̮é̱ńeke keínekra vā́na ke: beraí túe šyu kei h̔ā́lāne χóe.",
       "ipa": "t͡ʃaw ˈd͡ʒɛɲeke ˈkejnekra ˈvaːna ke beˈraj ˈtwe ʃju kej ˈħaːlaːne ˈχoe",
-      "zazaki": "çaw? Cenyêkê kêynêkra vana kê: bêray twê şyu kêy 'halanê xoê.",
+      "zazaki": "çaw? Cenyêkê kêynêkra vana kê: bêray twê şyû kêy 'halanê xoê.",
       "source_note": "",
       "russian_print_page": 117,
       "russian_scan_page": 131,
@@ -2104,7 +2104,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "çaw? Cenyêkê kêynêkra vana kê: bêray twê şyu kêy 'halanê xoê."
+          "value": "çaw? Cenyêkê kêynêkra vana kê: bêray twê şyû kêy 'halanê xoê."
         },
         {
           "label": "ENGLISH",
@@ -2118,12 +2118,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g02_russian_l05.webp",
+          "image_url": "assets/g02_russian_l05.jpg",
           "source": "Lerch line crop; Russian printed page 117, scan page 131"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l07.webp",
+          "image_url": "assets/goin_german_l07.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -2303,7 +2303,7 @@
         {
           "form": "šyu",
           "ipa": "ʃju",
-          "zazaki": "şyu",
+          "zazaki": "şyû",
           "lemma": "syu",
           "display_gloss": "went",
           "gloss_tr": "gitti",
@@ -2312,7 +2312,7 @@
           "morphemes": [
             {
               "form": "šyu",
-              "normalized": "şyu",
+              "normalized": "şyû",
               "lemma": "syu",
               "gloss": "went",
               "pos": "",
@@ -2404,7 +2404,7 @@
       "text": "Keínek aya šu rā kuén’a, h̔āu vyenén’a, e̱k beraí χóe kíštu,",
       "lerch": "Keínek aya šu rā kuén’a, h̔āu vyenén’a, e̱k beraí χóe kíštu,",
       "ipa": "ˈkejnek aja ʃu raː ˈkwen.a ħaːw vjeˈnen.a ɛk beˈraj ˈχoe ˈkiʃtu",
-      "zazaki": "Kêynêk aya şu ra kwêna, 'haw vyênêna, ek bêray xoê kiştu,",
+      "zazaki": "Kêynêk aya şû ra kwêna, 'haw vyênêna, ek bêray xoê kiştû,",
       "source_note": "",
       "russian_print_page": 117,
       "russian_scan_page": 131,
@@ -2419,7 +2419,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Kêynêk aya şu ra kwêna, 'haw vyênêna, ek bêray xoê kiştu,"
+          "value": "Kêynêk aya şû ra kwêna, 'haw vyênêna, ek bêray xoê kiştû,"
         },
         {
           "label": "ENGLISH",
@@ -2433,12 +2433,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g02_russian_l06.webp",
+          "image_url": "assets/g02_russian_l06.jpg",
           "source": "Lerch line crop; Russian printed page 117, scan page 131"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l08.webp",
+          "image_url": "assets/goin_german_l08.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -2492,7 +2492,7 @@
         {
           "form": "šu",
           "ipa": "ʃu",
-          "zazaki": "şu",
+          "zazaki": "şû",
           "lemma": "su",
           "display_gloss": "went",
           "gloss_tr": "gitti",
@@ -2501,7 +2501,7 @@
           "morphemes": [
             {
               "form": "šu",
-              "normalized": "şu",
+              "normalized": "şû",
               "lemma": "su",
               "gloss": "went",
               "pos": "",
@@ -2676,7 +2676,7 @@
         {
           "form": "kíštu,",
           "ipa": "ˈkiʃtu",
-          "zazaki": "kiştu,",
+          "zazaki": "kiştû,",
           "lemma": "kistu",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -2685,7 +2685,7 @@
           "morphemes": [
             {
               "form": "kíštu",
-              "normalized": "kiştu",
+              "normalized": "kiştû",
               "lemma": "kistu",
               "gloss": "killed",
               "pos": "",
@@ -2708,7 +2708,7 @@
       "text": "eíštu zeindā́ṅ. Sebáh wardén’a, bāúki χóera vā́na: bau, me é̱m-",
       "lerch": "eíštu zeindā́ṅ. Sebáh wardén’a, bāúki χóera vā́na: bau, me é̱m-",
       "ipa": "ˈejʃtu zejnˈdaːŋ seˈbah warˈden.a ˈbaːwki ˈχoera ˈvaːna baw me ˈɛm",
-      "zazaki": "êyştu zêyndang. Sêbah wardêna, bawki xoêra vana: baw, mê em-",
+      "zazaki": "êyştû zêyndang. Sêbah wardêna, bawki xoêra vana: baw, mê em-",
       "source_note": "",
       "russian_print_page": 117,
       "russian_scan_page": 131,
@@ -2723,7 +2723,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "êyştu zêyndang. Sêbah wardêna, bawki xoêra vana: baw, mê em-"
+          "value": "êyştû zêyndang. Sêbah wardêna, bawki xoêra vana: baw, mê em-"
         },
         {
           "label": "ENGLISH",
@@ -2737,12 +2737,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g02_russian_l07.webp",
+          "image_url": "assets/g02_russian_l07.jpg",
           "source": "Lerch line crop; Russian printed page 117, scan page 131"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l09.webp",
+          "image_url": "assets/goin_german_l09.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -2750,7 +2750,7 @@
         {
           "form": "eíštu",
           "ipa": "ˈejʃtu",
-          "zazaki": "êyştu",
+          "zazaki": "êyştû",
           "lemma": "eistu",
           "display_gloss": "threw",
           "gloss_tr": "attı",
@@ -2759,7 +2759,7 @@
           "morphemes": [
             {
               "form": "eíštu",
-              "normalized": "êyştu",
+              "normalized": "êyştû",
               "lemma": "eistu",
               "gloss": "threw",
               "pos": "",
@@ -3000,7 +3000,7 @@
       "text": "šoe yau h̔au dī, é̱k’e d̮éniai túe beraí me kíštu, eíštu zeindā́ṅ.",
       "lerch": "šoe yau h̔au dī, é̱k’e d̮éniai túe beraí me kíštu, eíštu zeindā́ṅ.",
       "ipa": "ʃoe jaw ħaw diː ˈɛk.e ˈd͡ʒenjaj ˈtwe beˈraj me ˈkiʃtu ˈejʃtu zejnˈdaːŋ",
-      "zazaki": "şoê yaw 'haw di, ekê cênyay twê bêray mê kiştu, êyştu zêyndang.",
+      "zazaki": "şoê yaw 'haw di, ekê cênyay twê bêray mê kiştû, êyştû zêyndang.",
       "source_note": "",
       "russian_print_page": 117,
       "russian_scan_page": 131,
@@ -3015,7 +3015,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "şoê yaw 'haw di, ekê cênyay twê bêray mê kiştu, êyştu zêyndang."
+          "value": "şoê yaw 'haw di, ekê cênyay twê bêray mê kiştû, êyştû zêyndang."
         },
         {
           "label": "ENGLISH",
@@ -3029,12 +3029,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g02_russian_l08.webp",
+          "image_url": "assets/g02_russian_l08.jpg",
           "source": "Lerch line crop; Russian printed page 117, scan page 131"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l10.webp",
+          "image_url": "assets/goin_german_l10.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -3249,7 +3249,7 @@
         {
           "form": "kíštu,",
           "ipa": "ˈkiʃtu",
-          "zazaki": "kiştu,",
+          "zazaki": "kiştû,",
           "lemma": "kistu",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -3258,7 +3258,7 @@
           "morphemes": [
             {
               "form": "kíštu",
-              "normalized": "kiştu",
+              "normalized": "kiştû",
               "lemma": "kistu",
               "gloss": "killed",
               "pos": "",
@@ -3272,7 +3272,7 @@
         {
           "form": "eíštu",
           "ipa": "ˈejʃtu",
-          "zazaki": "êyştu",
+          "zazaki": "êyştû",
           "lemma": "eistu",
           "display_gloss": "threw",
           "gloss_tr": "attı",
@@ -3281,7 +3281,7 @@
           "morphemes": [
             {
               "form": "eíštu",
-              "normalized": "êyştu",
+              "normalized": "êyştû",
               "lemma": "eistu",
               "gloss": "threw",
               "pos": "",
@@ -3327,7 +3327,7 @@
       "text": "Baúki keíneke χóera vā ke: h̔eir bu, sḗ̱n’ie berāí túe kīšén’u?",
       "lerch": "Baúki keíneke χóera vā ke: h̔eir bu, sḗ̱n’ie berāí túe kīšén’u?",
       "ipa": "ˈbawki ˈkejneke ˈχoera vaː ke ħejr bu ˈsɛːn.je beˈraːj ˈtwe kiːˈʃen.u",
-      "zazaki": "Bawki kêynêkê xoêra va kê: 'hêyr bu, senyê bêray twê kişênu?",
+      "zazaki": "Bawki kêynêkê xoêra va kê: 'hêyr bû, senyê bêray twê kişênû?",
       "source_note": "",
       "russian_print_page": 117,
       "russian_scan_page": 131,
@@ -3342,7 +3342,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Bawki kêynêkê xoêra va kê: 'hêyr bu, senyê bêray twê kişênu?"
+          "value": "Bawki kêynêkê xoêra va kê: 'hêyr bû, senyê bêray twê kişênû?"
         },
         {
           "label": "ENGLISH",
@@ -3356,12 +3356,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g02_russian_l09.webp",
+          "image_url": "assets/g02_russian_l09.jpg",
           "source": "Lerch line crop; Russian printed page 117, scan page 131"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l11.webp",
+          "image_url": "assets/goin_german_l11.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -3518,7 +3518,7 @@
         {
           "form": "bu,",
           "ipa": "bu",
-          "zazaki": "bu,",
+          "zazaki": "bû,",
           "lemma": "bu",
           "display_gloss": "be",
           "gloss_tr": "ol",
@@ -3527,7 +3527,7 @@
           "morphemes": [
             {
               "form": "bu",
-              "normalized": "bu",
+              "normalized": "bû",
               "lemma": "bu",
               "gloss": "be",
               "pos": "",
@@ -3610,7 +3610,7 @@
         {
           "form": "kīšén’u?",
           "ipa": "kiːˈʃen.u",
-          "zazaki": "kişênu?",
+          "zazaki": "kişênû?",
           "lemma": "kist",
           "display_gloss": "kills",
           "gloss_tr": "öldürür",
@@ -3653,7 +3653,7 @@
       "text": "Keínek vā ke: bau, me h̔āúni χóede d́ī, beraí me kíštu, eíštu",
       "lerch": "Keínek vā ke: bau, me h̔āúni χóede d́ī, beraí me kíštu, eíštu",
       "ipa": "ˈkejnek vaː ke baw me ˈħaːwni ˈχoede dʲiː beˈraj me ˈkiʃtu ˈejʃtu",
-      "zazaki": "Kêynêk va kê: baw, mê 'hawni xoêdê dyi, bêray mê kiştu, êyştu",
+      "zazaki": "Kêynêk va kê: baw, mê 'hawni xoêdê dyi, bêray mê kiştû, êyştû",
       "source_note": "",
       "russian_print_page": 117,
       "russian_scan_page": 131,
@@ -3668,7 +3668,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Kêynêk va kê: baw, mê 'hawni xoêdê dyi, bêray mê kiştu, êyştu"
+          "value": "Kêynêk va kê: baw, mê 'hawni xoêdê dyi, bêray mê kiştû, êyştû"
         },
         {
           "label": "ENGLISH",
@@ -3682,12 +3682,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g02_russian_l10.webp",
+          "image_url": "assets/g02_russian_l10.jpg",
           "source": "Lerch line crop; Russian printed page 117, scan page 131"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l12.webp",
+          "image_url": "assets/goin_german_l12.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -3936,7 +3936,7 @@
         {
           "form": "kíštu,",
           "ipa": "ˈkiʃtu",
-          "zazaki": "kiştu,",
+          "zazaki": "kiştû,",
           "lemma": "kistu",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -3945,7 +3945,7 @@
           "morphemes": [
             {
               "form": "kíštu",
-              "normalized": "kiştu",
+              "normalized": "kiştû",
               "lemma": "kistu",
               "gloss": "killed",
               "pos": "",
@@ -3959,7 +3959,7 @@
         {
           "form": "eíštu",
           "ipa": "ˈejʃtu",
-          "zazaki": "êyştu",
+          "zazaki": "êyştû",
           "lemma": "eistu",
           "display_gloss": "threw",
           "gloss_tr": "attı",
@@ -3968,7 +3968,7 @@
           "morphemes": [
             {
               "form": "eíštu",
-              "normalized": "êyştu",
+              "normalized": "êyştû",
               "lemma": "eistu",
               "gloss": "threw",
               "pos": "",
@@ -4020,12 +4020,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g02_russian_l11.webp",
+          "image_url": "assets/g02_russian_l11.jpg",
           "source": "Lerch line crop; Russian printed page 117, scan page 131"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l13.webp",
+          "image_url": "assets/goin_german_l13.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -4249,7 +4249,7 @@
       "text": "é̱k’e beraí me āmaú, e̱z zā́na wé̱šu, h̔eirke beraí me ńāmaú e̱z",
       "lerch": "é̱k’e beraí me āmaú, e̱z zā́na wé̱šu, h̔eirke beraí me ńāmaú e̱z",
       "ipa": "ˈɛk.e beˈraj me aːˈmaw ɛz ˈzaːna ˈwɛʃu ħejrke beˈraj me ɲaːˈmaw ɛz",
-      "zazaki": "ekê bêray mê amaw, ez zana weşu, 'hêyrkê bêray mê nyamaw ez",
+      "zazaki": "ekê bêray mê amaw, ez zana weşû, 'hêyrkê bêray mê nyamaw ez",
       "source_note": "",
       "russian_print_page": 117,
       "russian_scan_page": 131,
@@ -4264,7 +4264,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ekê bêray mê amaw, ez zana weşu, 'hêyrkê bêray mê nyamaw ez"
+          "value": "ekê bêray mê amaw, ez zana weşû, 'hêyrkê bêray mê nyamaw ez"
         },
         {
           "label": "ENGLISH",
@@ -4278,12 +4278,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g02_russian_l12.webp",
+          "image_url": "assets/g02_russian_l12.jpg",
           "source": "Lerch line crop; Russian printed page 117, scan page 131"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l14.webp",
+          "image_url": "assets/goin_german_l14.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -4429,7 +4429,7 @@
         {
           "form": "wé̱šu,",
           "ipa": "ˈwɛʃu",
-          "zazaki": "weşu,",
+          "zazaki": "weşû,",
           "lemma": "wesu",
           "display_gloss": "well",
           "gloss_tr": "iyi",
@@ -4438,7 +4438,7 @@
           "morphemes": [
             {
               "form": "wé̱šu",
-              "normalized": "weşu",
+              "normalized": "weşû",
               "lemma": "wesu",
               "gloss": "well",
               "pos": "",
@@ -4605,12 +4605,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g02_russian_l13.webp",
+          "image_url": "assets/g02_russian_l13.jpg",
           "source": "Lerch line crop; Russian printed page 117, scan page 131"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l15.webp",
+          "image_url": "assets/goin_german_l15.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -4828,12 +4828,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g02_russian_l14.webp",
+          "image_url": "assets/g02_russian_l14.jpg",
           "source": "Lerch line crop; Russian printed page 117, scan page 131"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l16.webp",
+          "image_url": "assets/goin_german_l16.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -5143,12 +5143,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l01.webp",
+          "image_url": "assets/g03_russian_l01.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l17.webp",
+          "image_url": "assets/goin_german_l17.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -5470,12 +5470,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l02.webp",
+          "image_url": "assets/g03_russian_l02.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l18.webp",
+          "image_url": "assets/goin_german_l18.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -5820,12 +5820,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l03.webp",
+          "image_url": "assets/g03_russian_l03.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l19.webp",
+          "image_url": "assets/goin_german_l19.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -6072,7 +6072,7 @@
       "text": "keíneke āmé̱, geíra beraí keíneke, é̱ki kístu, eíštu zeindā́ṅ, d̮ṓrde",
       "lerch": "keíneke āmé̱, geíra beraí keíneke, é̱ki kístu, eíštu zeindā́ṅ, d̮ṓrde",
       "ipa": "ˈkejneke aːˈmɛ ˈgejra beˈraj ˈkejneke ˈɛki ˈkistu ˈejʃtu zejnˈdaːŋ ˈd͡ʒoːrde",
-      "zazaki": "kêynêkê ame, gêyra bêray kêynêkê, eki kistu, êyştu zêyndang, cordê",
+      "zazaki": "kêynêkê ame, gêyra bêray kêynêkê, eki kistû, êyştû zêyndang, cordê",
       "source_note": "",
       "russian_print_page": 118,
       "russian_scan_page": 132,
@@ -6087,7 +6087,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kêynêkê ame, gêyra bêray kêynêkê, eki kistu, êyştu zêyndang, cordê"
+          "value": "kêynêkê ame, gêyra bêray kêynêkê, eki kistû, êyştû zêyndang, cordê"
         },
         {
           "label": "ENGLISH",
@@ -6101,12 +6101,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l04.webp",
+          "image_url": "assets/g03_russian_l04.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l20.webp",
+          "image_url": "assets/goin_german_l20.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -6252,7 +6252,7 @@
         {
           "form": "kístu,",
           "ipa": "ˈkistu",
-          "zazaki": "kistu,",
+          "zazaki": "kistû,",
           "lemma": "kistu",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -6261,7 +6261,7 @@
           "morphemes": [
             {
               "form": "kístu",
-              "normalized": "kistu",
+              "normalized": "kistû",
               "lemma": "kistu",
               "gloss": "killed",
               "pos": "",
@@ -6275,7 +6275,7 @@
         {
           "form": "eíštu",
           "ipa": "ˈejʃtu",
-          "zazaki": "êyştu",
+          "zazaki": "êyştû",
           "lemma": "eistu",
           "display_gloss": "threw",
           "gloss_tr": "attı",
@@ -6284,7 +6284,7 @@
           "morphemes": [
             {
               "form": "eíštu",
-              "normalized": "êyştu",
+              "normalized": "êyştû",
               "lemma": "eistu",
               "gloss": "threw",
               "pos": "",
@@ -6382,12 +6382,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l05.webp",
+          "image_url": "assets/g03_russian_l05.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l21.webp",
+          "image_url": "assets/goin_german_l21.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -6634,7 +6634,7 @@
       "text": "χóera vā ke: túe qaúwi lā́d̮i me kíštu, wai d̮ei bi še̱wi h̔aúni χóe-",
       "lerch": "χóera vā ke: túe qaúwi lā́d̮i me kíštu, wai d̮ei bi še̱wi h̔aúni χóe-",
       "ipa": "ˈχoera vaː ke ˈtwe ˈqawi ˈlaːd͡ʒi me ˈkiʃtu waj d͡ʒej bi ʃɛwi ˈħawni ˈχoe",
-      "zazaki": "xoêra va kê: twê qawi laci mê kiştu, way cêy bi şewi 'hawni xoê-",
+      "zazaki": "xoêra va kê: twê qawi laci mê kiştû, way cêy bi şewi 'hawni xoê-",
       "source_note": "",
       "russian_print_page": 118,
       "russian_scan_page": 132,
@@ -6649,7 +6649,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "xoêra va kê: twê qawi laci mê kiştu, way cêy bi şewi 'hawni xoê-"
+          "value": "xoêra va kê: twê qawi laci mê kiştû, way cêy bi şewi 'hawni xoê-"
         },
         {
           "label": "ENGLISH",
@@ -6663,12 +6663,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l06.webp",
+          "image_url": "assets/g03_russian_l06.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l22.webp",
+          "image_url": "assets/goin_german_l22.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -6859,7 +6859,7 @@
         {
           "form": "kíštu,",
           "ipa": "ˈkiʃtu",
-          "zazaki": "kiştu,",
+          "zazaki": "kiştû,",
           "lemma": "kistu",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -6868,7 +6868,7 @@
           "morphemes": [
             {
               "form": "kíštu",
-              "normalized": "kiştu",
+              "normalized": "kiştû",
               "lemma": "kistu",
               "gloss": "killed",
               "pos": "",
@@ -7029,7 +7029,7 @@
       "text": "de dī be, e̱k beraí χóe kíštu, āmeí, be̱rmáye, méra vā ke: bau,",
       "lerch": "de dī be, e̱k beraí χóe kíštu, āmeí, be̱rmáye, méra vā ke: bau,",
       "ipa": "de diː be ɛk beˈraj ˈχoe ˈkiʃtu aːˈmej bɛrˈmaje ˈmera vaː ke baw",
-      "zazaki": "dê di bê, ek bêray xoê kiştu, amêy, bermayê, mêra va kê: baw,",
+      "zazaki": "dê di bê, ek bêray xoê kiştû, amêy, bermayê, mêra va kê: baw,",
       "source_note": "",
       "russian_print_page": 118,
       "russian_scan_page": 132,
@@ -7044,7 +7044,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dê di bê, ek bêray xoê kiştu, amêy, bermayê, mêra va kê: baw,"
+          "value": "dê di bê, ek bêray xoê kiştû, amêy, bermayê, mêra va kê: baw,"
         },
         {
           "label": "ENGLISH",
@@ -7058,12 +7058,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l07.webp",
+          "image_url": "assets/g03_russian_l07.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l23.webp",
+          "image_url": "assets/goin_german_l23.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -7209,7 +7209,7 @@
         {
           "form": "kíštu,",
           "ipa": "ˈkiʃtu",
-          "zazaki": "kiştu,",
+          "zazaki": "kiştû,",
           "lemma": "kistu",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -7218,7 +7218,7 @@
           "morphemes": [
             {
               "form": "kíštu",
-              "normalized": "kiştu",
+              "normalized": "kiştû",
               "lemma": "kistu",
               "gloss": "killed",
               "pos": "",
@@ -7390,7 +7390,7 @@
       "text": "beraí me kíštu, eíštu zeindā́ṅ. Me vā ke: keínaim, h̔eir bu, mé̱-",
       "lerch": "beraí me kíštu, eíštu zeindā́ṅ. Me vā ke: keínaim, h̔eir bu, mé̱-",
       "ipa": "beˈraj me ˈkiʃtu ˈejʃtu zejnˈdaːŋ me vaː ke ˈkejnajm ħejr bu ˈmɛ",
-      "zazaki": "bêray mê kiştu, êyştu zêyndang. Mê va kê: kêynaym, 'hêyr bu, me-",
+      "zazaki": "bêray mê kiştû, êyştû zêyndang. Mê va kê: kêynaym, 'hêyr bû, me-",
       "source_note": "",
       "russian_print_page": 118,
       "russian_scan_page": 132,
@@ -7405,7 +7405,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "bêray mê kiştu, êyştu zêyndang. Mê va kê: kêynaym, 'hêyr bu, me-"
+          "value": "bêray mê kiştû, êyştû zêyndang. Mê va kê: kêynaym, 'hêyr bû, me-"
         },
         {
           "label": "ENGLISH",
@@ -7419,12 +7419,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l08.webp",
+          "image_url": "assets/g03_russian_l08.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l24.webp",
+          "image_url": "assets/goin_german_l24.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -7478,7 +7478,7 @@
         {
           "form": "kíštu,",
           "ipa": "ˈkiʃtu",
-          "zazaki": "kiştu,",
+          "zazaki": "kiştû,",
           "lemma": "kistu",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -7487,7 +7487,7 @@
           "morphemes": [
             {
               "form": "kíštu",
-              "normalized": "kiştu",
+              "normalized": "kiştû",
               "lemma": "kistu",
               "gloss": "killed",
               "pos": "",
@@ -7501,7 +7501,7 @@
         {
           "form": "eíštu",
           "ipa": "ˈejʃtu",
-          "zazaki": "êyştu",
+          "zazaki": "êyştû",
           "lemma": "eistu",
           "display_gloss": "threw",
           "gloss_tr": "attı",
@@ -7510,7 +7510,7 @@
           "morphemes": [
             {
               "form": "eíštu",
-              "normalized": "êyştu",
+              "normalized": "êyştû",
               "lemma": "eistu",
               "gloss": "threw",
               "pos": "",
@@ -7662,7 +7662,7 @@
         {
           "form": "bu,",
           "ipa": "bu",
-          "zazaki": "bu,",
+          "zazaki": "bû,",
           "lemma": "bu",
           "display_gloss": "be",
           "gloss_tr": "ol",
@@ -7671,7 +7671,7 @@
           "morphemes": [
             {
               "form": "bu",
-              "normalized": "bu",
+              "normalized": "bû",
               "lemma": "bu",
               "gloss": "be",
               "pos": "",
@@ -7717,7 +7717,7 @@
       "text": "terse, beraí túe wé̱šu. Keínek méra vā ke: e̱z h̔ā eírue šuén’a",
       "lerch": "terse, beraí túe wé̱šu. Keínek méra vā ke: e̱z h̔ā eírue šuén’a",
       "ipa": "terse beˈraj ˈtwe ˈwɛʃu ˈkejnek ˈmera vaː ke ɛz ħaː ˈejrwe ˈʃwen.a",
-      "zazaki": "têrsê, bêray twê weşu. Kêynêk mêra va kê: ez 'ha êyrwê şwêna",
+      "zazaki": "têrsê, bêray twê weşû. Kêynêk mêra va kê: ez 'ha êyrwê şwêna",
       "source_note": "",
       "russian_print_page": 118,
       "russian_scan_page": 132,
@@ -7732,7 +7732,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "têrsê, bêray twê weşu. Kêynêk mêra va kê: ez 'ha êyrwê şwêna"
+          "value": "têrsê, bêray twê weşû. Kêynêk mêra va kê: ez 'ha êyrwê şwêna"
         },
         {
           "label": "ENGLISH",
@@ -7746,12 +7746,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l09.webp",
+          "image_url": "assets/g03_russian_l09.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l25.webp",
+          "image_url": "assets/goin_german_l25.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -7828,7 +7828,7 @@
         {
           "form": "wé̱šu.",
           "ipa": "ˈwɛʃu",
-          "zazaki": "weşu.",
+          "zazaki": "weşû.",
           "lemma": "wesu",
           "display_gloss": "well",
           "gloss_tr": "iyi",
@@ -7837,7 +7837,7 @@
           "morphemes": [
             {
               "form": "wé̱šu",
-              "normalized": "weşu",
+              "normalized": "weşû",
               "lemma": "wesu",
               "gloss": "well",
               "pos": "",
@@ -8055,7 +8055,7 @@
       "text": "gōlikā́ṅde, yérei yén’a keíye̱, e̱k beraí me āmaú, e̱z zā́na wé̱šu,",
       "lerch": "gōlikā́ṅde, yérei yén’a keíye̱, e̱k beraí me āmaú, e̱z zā́na wé̱šu,",
       "ipa": "goːliˈkaːŋde ˈjerej ˈjen.a ˈkejɛ ɛk beˈraj me aːˈmaw ɛz ˈzaːna ˈwɛʃu",
-      "zazaki": "golikangdê, yêrêy yêna kêye, ek bêray mê amaw, ez zana weşu,",
+      "zazaki": "golikangdê, yêrêy yêna kêye, ek bêray mê amaw, ez zana weşû,",
       "source_note": "",
       "russian_print_page": 118,
       "russian_scan_page": 132,
@@ -8070,7 +8070,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "golikangdê, yêrêy yêna kêye, ek bêray mê amaw, ez zana weşu,"
+          "value": "golikangdê, yêrêy yêna kêye, ek bêray mê amaw, ez zana weşû,"
         },
         {
           "label": "ENGLISH",
@@ -8084,12 +8084,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l10.webp",
+          "image_url": "assets/g03_russian_l10.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l26.webp",
+          "image_url": "assets/goin_german_l26.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -8327,7 +8327,7 @@
         {
           "form": "wé̱šu,",
           "ipa": "ˈwɛʃu",
-          "zazaki": "weşu,",
+          "zazaki": "weşû,",
           "lemma": "wesu",
           "display_gloss": "well",
           "gloss_tr": "iyi",
@@ -8336,7 +8336,7 @@
           "morphemes": [
             {
               "form": "wé̱šu",
-              "normalized": "weşu",
+              "normalized": "weşû",
               "lemma": "wesu",
               "gloss": "well",
               "pos": "",
@@ -8388,12 +8388,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l11.webp",
+          "image_url": "assets/g03_russian_l11.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l27.webp",
+          "image_url": "assets/goin_german_l27.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -8554,12 +8554,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l12.webp",
+          "image_url": "assets/g03_russian_l12.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l28.webp",
+          "image_url": "assets/goin_german_l28.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -8863,7 +8863,7 @@
       "text": "neke, te āmeí mi̥ se̱r, ti̥ méra vā́ni ke: qaúwi túe lā́d̮i kíštu, e̱z",
       "lerch": "neke, te āmeí mi̥ se̱r, ti̥ méra vā́ni ke: qaúwi túe lā́d̮i kíštu, e̱z",
       "ipa": "neke te aːˈmej mɨ sɛr tɨ ˈmera ˈvaːni ke ˈqawi ˈtwe ˈlaːd͡ʒi ˈkiʃtu ɛz",
-      "zazaki": "nêkê, tê amêy mı ser, tı mêra vani kê: qawi twê laci kiştu, ez",
+      "zazaki": "nêkê, tê amêy mı ser, tı mêra vani kê: qawi twê laci kiştû, ez",
       "source_note": "",
       "russian_print_page": 118,
       "russian_scan_page": 132,
@@ -8878,7 +8878,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "nêkê, tê amêy mı ser, tı mêra vani kê: qawi twê laci kiştu, ez"
+          "value": "nêkê, tê amêy mı ser, tı mêra vani kê: qawi twê laci kiştû, ez"
         },
         {
           "label": "ENGLISH",
@@ -8892,12 +8892,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l13.webp",
+          "image_url": "assets/g03_russian_l13.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l29.webp",
+          "image_url": "assets/goin_german_l29.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -9203,7 +9203,7 @@
         {
           "form": "kíštu,",
           "ipa": "ˈkiʃtu",
-          "zazaki": "kiştu,",
+          "zazaki": "kiştû,",
           "lemma": "kistu",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -9212,7 +9212,7 @@
           "morphemes": [
             {
               "form": "kíštu",
-              "normalized": "kiştu",
+              "normalized": "kiştû",
               "lemma": "kistu",
               "gloss": "killed",
               "pos": "",
@@ -9287,12 +9287,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l14.webp",
+          "image_url": "assets/g03_russian_l14.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l30.webp",
+          "image_url": "assets/goin_german_l30.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -9418,12 +9418,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g03_russian_l15.webp",
+          "image_url": "assets/g03_russian_l15.jpg",
           "source": "Lerch line crop; Russian printed page 118, scan page 132"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l31.webp",
+          "image_url": "assets/goin_german_l31.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -9693,7 +9693,7 @@
       "text": "vā ke d̮énira, keínai kōpé̱ki, la qā́mi kíštu ẹ̄́n’oe lā́d̮ek? Zuā́ni",
       "lerch": "vā ke d̮énira, keínai kōpé̱ki, la qā́mi kíštu ẹ̄́n’oe lā́d̮ek? Zuā́ni",
       "ipa": "vaː ke ˈd͡ʒenira ˈkejnaj koːˈpɛki la ˈqaːmi ˈkiʃtu ˈe̝ːn.oe ˈlaːd͡ʒek ˈzwaːni",
-      "zazaki": "va kê cênira, kêynay kopeki, la qami kiştu ênoê lacêk? Zwani",
+      "zazaki": "va kê cênira, kêynay kopeki, la qami kiştû ênoê lacêk? Zwani",
       "source_note": "",
       "russian_print_page": 119,
       "russian_scan_page": 133,
@@ -9708,7 +9708,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "va kê cênira, kêynay kopeki, la qami kiştu ênoê lacêk? Zwani"
+          "value": "va kê cênira, kêynay kopeki, la qami kiştû ênoê lacêk? Zwani"
         },
         {
           "label": "ENGLISH",
@@ -9722,12 +9722,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g04_russian_l01.webp",
+          "image_url": "assets/g04_russian_l01.jpg",
           "source": "Lerch line crop; Russian printed page 119, scan page 133"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l32.webp",
+          "image_url": "assets/goin_german_l32.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -9907,7 +9907,7 @@
         {
           "form": "kíštu",
           "ipa": "ˈkiʃtu",
-          "zazaki": "kiştu",
+          "zazaki": "kiştû",
           "lemma": "kistu",
           "display_gloss": "killed",
           "gloss_tr": "öldürdü",
@@ -9916,7 +9916,7 @@
           "morphemes": [
             {
               "form": "kíštu",
-              "normalized": "kiştu",
+              "normalized": "kiştû",
               "lemma": "kistu",
               "gloss": "killed",
               "pos": "",
@@ -10008,7 +10008,7 @@
       "text": "d̮éineki qáfelya, d̮éini tersáye, h̔én’i ńaútarai ve̱ṅg bi̥kéru.",
       "lerch": "d̮éineki qáfelya, d̮éini tersáye, h̔én’i ńaútarai ve̱ṅg bi̥kéru.",
       "ipa": "ˈd͡ʒejneki ˈqafelja ˈd͡ʒejni terˈsaje ˈħen.i ˈɲawtaraj vɛŋg bɨˈkeru",
-      "zazaki": "cêynêki qafêlya, cêyni têrsayê, 'hêni nyawtaray veng bıkêru.",
+      "zazaki": "cêynêki qafêlya, cêyni têrsayê, 'hêni nyawtaray veng bıkêrû.",
       "source_note": "",
       "russian_print_page": 119,
       "russian_scan_page": 133,
@@ -10023,7 +10023,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "cêynêki qafêlya, cêyni têrsayê, 'hêni nyawtaray veng bıkêru."
+          "value": "cêynêki qafêlya, cêyni têrsayê, 'hêni nyawtaray veng bıkêrû."
         },
         {
           "label": "ENGLISH",
@@ -10037,12 +10037,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g04_russian_l02.webp",
+          "image_url": "assets/g04_russian_l02.jpg",
           "source": "Lerch line crop; Russian printed page 119, scan page 133"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l33.webp",
+          "image_url": "assets/goin_german_l33.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -10211,7 +10211,7 @@
         {
           "form": "bi̥kéru.",
           "ipa": "bɨˈkeru",
-          "zazaki": "bıkêru.",
+          "zazaki": "bıkêrû.",
           "lemma": "bikeru",
           "display_gloss": "make",
           "gloss_tr": "yapmak",
@@ -10220,7 +10220,7 @@
           "morphemes": [
             {
               "form": "bi̥kéru",
-              "normalized": "bıkêru",
+              "normalized": "bıkêrû",
               "lemma": "bikeru",
               "gloss": "make",
               "pos": "",
@@ -10272,12 +10272,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g04_russian_l03.webp",
+          "image_url": "assets/g04_russian_l03.jpg",
           "source": "Lerch line crop; Russian printed page 119, scan page 133"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l34.webp",
+          "image_url": "assets/goin_german_l34.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -10553,12 +10553,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g04_russian_l04.webp",
+          "image_url": "assets/g04_russian_l04.jpg",
           "source": "Lerch line crop; Russian printed page 119, scan page 133"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l35.webp",
+          "image_url": "assets/goin_german_l35.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -10805,7 +10805,7 @@
       "text": "āmeí keíye. E̱k beraí χóe t̮í̥nu, d̮éniai baúki χóe t̮í̥na, šī, laúki",
       "lerch": "āmeí keíye. E̱k beraí χóe t̮í̥nu, d̮éniai baúki χóe t̮í̥na, šī, laúki",
       "ipa": "aːˈmej ˈkeje ɛk beˈraj ˈχoe ˈt͡ʃɨnu ˈd͡ʒenjaj ˈbawki ˈχoe ˈt͡ʃɨna ʃiː ˈlawki",
-      "zazaki": "amêy kêyê. Ek bêray xoê çınu, cênyay bawki xoê çına, şi, lawki",
+      "zazaki": "amêy kêyê. Ek bêray xoê çınû, cênyay bawki xoê çına, şi, lawki",
       "source_note": "",
       "russian_print_page": 119,
       "russian_scan_page": 133,
@@ -10820,7 +10820,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "amêy kêyê. Ek bêray xoê çınu, cênyay bawki xoê çına, şi, lawki"
+          "value": "amêy kêyê. Ek bêray xoê çınû, cênyay bawki xoê çına, şi, lawki"
         },
         {
           "label": "ENGLISH",
@@ -10834,12 +10834,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g04_russian_l05.webp",
+          "image_url": "assets/g04_russian_l05.jpg",
           "source": "Lerch line crop; Russian printed page 119, scan page 133"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l36.webp",
+          "image_url": "assets/goin_german_l36.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -10962,7 +10962,7 @@
         {
           "form": "t̮í̥nu,",
           "ipa": "ˈt͡ʃɨnu",
-          "zazaki": "çınu,",
+          "zazaki": "çınû,",
           "lemma": "tinu",
           "display_gloss": "is not",
           "gloss_tr": "yoktur",
@@ -10971,7 +10971,7 @@
           "morphemes": [
             {
               "form": "t̮í̥nu",
-              "normalized": "çınu",
+              "normalized": "çınû",
               "lemma": "tinu",
               "gloss": "is not",
               "pos": "",
@@ -11161,12 +11161,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g04_russian_l06.webp",
+          "image_url": "assets/g04_russian_l06.jpg",
           "source": "Lerch line crop; Russian printed page 119, scan page 133"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l37.webp",
+          "image_url": "assets/goin_german_l37.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -11458,7 +11458,7 @@
       "text": "sé̱ra šai, beraí túe mé̱rdu. Keínek be̱rmáye, āmeí, ši aúki ver,",
       "lerch": "sé̱ra šai, beraí túe mé̱rdu. Keínek be̱rmáye, āmeí, ši aúki ver,",
       "ipa": "ˈsɛra ʃaj beˈraj ˈtwe ˈmɛrdu ˈkejnek bɛrˈmaje aːˈmej ʃi ˈawki ver",
-      "zazaki": "sera şay, bêray twê merdu. Kêynêk bermayê, amêy, şi awki vêr,",
+      "zazaki": "sera şay, bêray twê merdû. Kêynêk bermayê, amêy, şi awki vêr,",
       "source_note": "",
       "russian_print_page": 119,
       "russian_scan_page": 133,
@@ -11473,7 +11473,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "sera şay, bêray twê merdu. Kêynêk bermayê, amêy, şi awki vêr,"
+          "value": "sera şay, bêray twê merdû. Kêynêk bermayê, amêy, şi awki vêr,"
         },
         {
           "label": "ENGLISH",
@@ -11487,12 +11487,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g04_russian_l07.webp",
+          "image_url": "assets/g04_russian_l07.jpg",
           "source": "Lerch line crop; Russian printed page 119, scan page 133"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l38.webp",
+          "image_url": "assets/goin_german_l38.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -11592,7 +11592,7 @@
         {
           "form": "mé̱rdu.",
           "ipa": "ˈmɛrdu",
-          "zazaki": "merdu.",
+          "zazaki": "merdû.",
           "lemma": "merdu",
           "display_gloss": "died",
           "gloss_tr": "öldü",
@@ -11601,7 +11601,7 @@
           "morphemes": [
             {
               "form": "mé̱rdu",
-              "normalized": "merdu",
+              "normalized": "merdû",
               "lemma": "merdu",
               "gloss": "died",
               "pos": "",
@@ -11791,12 +11791,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g04_russian_l08.webp",
+          "image_url": "assets/g04_russian_l08.jpg",
           "source": "Lerch line crop; Russian printed page 119, scan page 133"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l39.webp",
+          "image_url": "assets/goin_german_l39.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -12141,12 +12141,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/g04_russian_l09.webp",
+          "image_url": "assets/g04_russian_l09.jpg",
           "source": "Lerch line crop; Russian printed page 119, scan page 133"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/goin_german_l40.webp",
+          "image_url": "assets/goin_german_l40.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],

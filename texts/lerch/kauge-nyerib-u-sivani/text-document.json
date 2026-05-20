@@ -27,7 +27,7 @@
     "created_from": "Lerch feud review bundle in Language/Z/Dictionaries/Lerch",
     "exported_at": "2026-05-13",
     "reader_unit": "sentence_or_short_section",
-    "reviewed_transcription_synced_at": "2026-05-19",
+    "reviewed_transcription_synced_at": "2026-05-20",
     "publication": {
       "title": "Nyêrib ve Sivan'ın Kavgası",
       "public_summary_tr": "Nyêrib'den bir gencin Horsig'de hırsızlık yapması ve öldürülmesiyle başlayan anlatı, Xalef Ağa ile Avdulah Ağa arasında tehditler, çatışma ve sonunda barışa uzanan bir kan davasını anlatır.",
@@ -163,7 +163,7 @@
     },
     {
       "id": "u01",
-      "source": "Veri coan yaw lacêku Nyêrbic şê Sivang, 'Horsigê dızdêyê, bani Mêla A'hmêdi Qafan akêrd, purti Mêla A'hmêdi Qafan gêrawt bêru.",
+      "source": "Veri coan yaw lacêkû Nyêrbic şê Sivang, 'Horsigê dızdêyê, bani Mêla A'hmêdi Qafan akêrd, pûrti Mêla A'hmêdi Qafan gêrawt bêrû.",
       "translations": {
         "tr": "Eskiden Nyêrib'den bir genç Sivan aşiretine, Horsig'e hırsızlığa gitti; Mela Ahmedi Qafon'un evini açtı ve Mela Ahmedi Qafon'un kürkünü aldı ve götürdü.",
         "en": "Once a young man from Nerib went to the Sivan tribe, to Horsig, to steal; he opened Mel'a Ahmed Qafan's house and took Mel'a Ahmed Qafan's fur coat and carried it off.",
@@ -172,7 +172,7 @@
     },
     {
       "id": "u02_01",
-      "source": "Laci Mêla A'hmêdi 'Husêyni di enoê dızd, tepişt va kê dızdê ra: tê qangcaray.",
+      "source": "Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd, tepişt va kê dızdê ra: tê qangcaray.",
       "translations": {
         "tr": "Mela Ahmed'in oğlu Huseyin o hırsızı gördü, yakaladı ve hırsıza dedi ki: 'Sen nerelisin?'",
         "en": "Mel'a Ahmed's son Husein saw that thief, seized him, and said to the thief: 'Where are you from?'",
@@ -244,7 +244,7 @@
     },
     {
       "id": "u06",
-      "source": "Laci Mêla A'hmêdi wica serêy dızdi têra kêrd, 'habêrê êrşawutê Nyêrib Xalef ağayri va kê: we Xyeni nêbê, twê têdê kawğê kêrdini, tu 'Hyênici pyêru kişti ardi emani ser.",
+      "source": "Laci Mêla A'hmêdi wica serêy dızdi têra kêrd, 'habêrê êrşawûtê Nyêrib Xalef ağayri va kê: we Xyeni nêbê, twê têdê kawğê kêrdini, tû 'Hyênici pyêrû kişti ardi emani ser.",
       "translations": {
         "tr": "Mela Ahmed'in oğlu hemen hırsızı öldürdü ve Nyêrib'e, Xalef Ağa'ya haber gönderdi, dedi ki: 'Hêni'ye gelme; sen orada kavga ettin; Hêni'de herkesi öldürüp emana getirdin.",
         "en": "Mel'a Ahmed's son immediately killed the thief and sent a messenger to Nerib, to Xalef Agha, saying: 'Do not come to Hyeni; you fought there; you killed everyone in Hyeni and brought them under safe-conduct.",
@@ -253,7 +253,7 @@
     },
     {
       "id": "u07_01",
-      "source": "Xalef ağay 'habêrê erşawutê Avdulah ağay Kêlang va kê: mê Nyêribdê kawğê kêrd, lakimkê wexti xoêdê 'hadre bê, twê merdümi mê kişt, bızani kê: ez vist merdümi twê yaw merdümi xoê vera kişênya.",
+      "source": "Xalef ağay 'habêrê erşawûtê Avdûlah ağay Kêlang va kê: mê Nyêribdê kawğê kêrd, lakimkê wexti xoêdê 'hadre bê, twê merdümi mê kişt, bızani kê: ez vist merdümi twê yaw merdümi xoê vera kişênya.",
       "translations": {
         "tr": "Xalef Ağa, Kelanlı Avdulah Ağa'ya haber gönderip dedi ki: 'Nyêrib'le kavga ettim, fakat kendi vaktinde hazır ol; adamlarımdan birini öldürdün; bil ki ben, benim bir adamıma karşı senin yirmi adamını öldüreceğim.",
         "en": "Xalef Agha sent a message to Avdulah Agha of Kelan, saying: 'I fought with Nerib, but be ready at your own time; you killed one of my men; know that I will kill twenty of yours for one of mine.",
@@ -262,7 +262,7 @@
     },
     {
       "id": "u08_01",
-      "source": "Avdulah ağay 'habêrê êrşawutê Xalef ağayri va kê: waxtê xoêdê 'hadre bê, ez mêyştê eskêri xoê gêna, yêna awkay Şêlê ver, tızi wicara eskêri xoê bıgi, byê Cayt ver, ma kawğê bıki, nyavawkê tê serêy mê wêni, nyavawkê ez serêy twê wêna.",
+      "source": "Avdûlah ağay 'habêrê êrşawûtê Xalef ağayri va kê: waxtê xoêdê 'hadre bê, ez mêyştê eskêri xoê gêna, yêna awkay Şêlê ver, tızi wicara eskêri xoê bıgi, byê Cayt ver, ma kawğê bıki, nyavawkê tê serêy mê wêni, nyavawkê ez serêy twê wêna.",
       "translations": {
         "tr": "Avdulah Ağa Xalef Ağa'ya haber gönderdi: 'Kendi vaktinde hazır ol; ben yarın ordumu götürüp Sele deresine geleceğim; sen de ordunu götürüp Dait tarafına gel; ya sen benim başımı kesinceye kadar ya da ben senin başını kesinceye kadar kavga edeceğiz.",
         "en": "Avdulah Agha sent a message to Xalef Agha: 'Be ready at your own time; I will lead my army tomorrow and come to the stream Sele; you too bring your army and come toward Dait; we will fight until you cut off my head, or until I cut off yours.",
@@ -271,7 +271,7 @@
     },
     {
       "id": "u09",
-      "source": "Xalef ağay 'habêr erşawutê Avdulah ağayri va kê: eskêri mê 'hadraw, enkay ez amêya Dêyştêdê tızi warzê eskêri xoê bıgi, byê awkay Şêlê ver, ma kawğe bıki.",
+      "source": "Xalef ağay 'habêr erşawûtê Avdûlah ağayri va kê: eskêri mê 'hadraw, enkay ez amêya Dêyştêdê tızi warzê eskêri xoê bıgi, byê awkay Şêlê ver, ma kawğe bıki.",
       "translations": {
         "tr": "Xalef Ağa Avdulah Ağa'ya haber gönderdi: 'Ordum hazır; Deştê'ye varır varmaz sen de kalk, ordunu götür ve Sele deresine gel; kavga edeceğiz.",
         "en": "Xalef Agha sent a message to Avdulah Agha: 'My army is ready; as soon as I come to Deste you too rise, lead your army, and come to the stream Sele; we will fight.",
@@ -280,7 +280,7 @@
     },
     {
       "id": "u10",
-      "source": "Enoê kawğe Tırkan nyu, enoê kawğê aşiranu, tı byê xoêri vyênê.",
+      "source": "Enoê kawğe Tırkan nyû, enoê kawğê aşiranû, tı byê xoêri vyênê.",
       "translations": {
         "tr": "Bu Türklerle bir savaş değil; bu bir aşiret kavgası; gelmeye bak.",
         "en": "This is not a fight with Turks; this is a tribal feud; see that you come.",
@@ -289,7 +289,7 @@
     },
     {
       "id": "u11",
-      "source": "Avdulah ağay 'habêr erşawutê dawang va kê: çaw mevindi, mêyştê awkay Şêlê verdê kawğê maw, Nyêrbicanu.",
+      "source": "Avdûlah ağay 'habêr erşawûtê dawang va kê: çaw mevindi, mêyştê awkay Şêlê verdê kawğê maw, Nyêrbicanû.",
       "translations": {
         "tr": "Avdulah Ağa köylülere haber gönderdi: 'Kimse gecikmesin; yarın Sele deresinde Nyêriblilerle kavgamız var.",
         "en": "Avdulah Agha sent a message to the villagers: 'Let no one delay; tomorrow we have a fight at the stream Sele with the Nerib people.",
@@ -298,7 +298,7 @@
     },
     {
       "id": "u12",
-      "source": "Dawang 'habêr erşawutê Avdulah ağayri va kê: mevindê, çikas mali Nyêribi estu bıdê ma, ma pêynyay dawani Nyêribi veşnêni.",
+      "source": "Dawang 'habêr erşawûtê Avdûlah ağayri va kê: mevindê, çikas mali Nyêribi estû bıdê ma, ma pêynyay dawani Nyêribi veşnêni.",
       "translations": {
         "tr": "Köylüler haber gönderdi Avdulah Ağa'ya: 'Gecikme; Nyêrib'deki bütün malı bize ver, biz de Nyêrib köylerinin hepsini yakacağız.",
         "en": "The villagers sent a message to Avdulah Agha: 'Do not delay; give us all the property in Nerib, and we will burn all the Nerib villages.",
@@ -307,7 +307,7 @@
     },
     {
       "id": "u13",
-      "source": "Avdulah ağay 'habêr erşawutê dawani va ke: metêrsi, seri mıri, mal şımari.",
+      "source": "Avdûlah ağay 'habêr erşawûtê dawani va ke: metêrsi, seri mıri, mal şımari.",
       "translations": {
         "tr": "Avdulah Ağa haber gönderdi köylülere: 'Korkmayın; başlar benim, mal sizin.",
         "en": "Avdulah Agha sent a message to the villagers: 'Do not fear; the heads are mine, the property is yours.",
@@ -325,7 +325,7 @@
     },
     {
       "id": "u15",
-      "source": "Sêbah Avdulah ağa werişt bê êspar, eskêri xoê top kêrd, va kê eskêri xoêra: oğil, mevindi, ma şyêri kawğe, metêrsi, Nyêrbici çani, kawğe aşiranu, serê mıri, mal şı-mari.",
+      "source": "Sêbah Avdûlah ağa werişt bê êspar, eskêri xoê top kêrd, va kê eskêri xoêra: oğil, mevindi, ma şyêri kawğe, metêrsi, Nyêrbici çani, kawğe aşiranû, serê mıri, mal şı-mari.",
       "translations": {
         "tr": "Sabah Avdulah Ağa ata bindi, ordusunu topladı ve ordusuna dedi ki: 'Oğullar, gecikmeyin; kavgaya gidiyoruz. Korkmayın; Nyêribliler azdır; bu aşiret kavgası; başlar benim, mal sizin.'",
         "en": "In the morning Avdulah Agha mounted his horse, gathered his army and said to it: 'Sons, do not delay; we are going to battle. Do not fear; the Nerib people are few; this is a tribal feud; heads are mine, property yours.'",
@@ -334,7 +334,7 @@
     },
     {
       "id": "u16",
-      "source": "Dumilbazi day püroê, Avdulah ağa kawt eskêri ver, şê awkay Şêlê ver, eskêri Xalef ağay nyamaw, erş kêrd, va kê eskêri xoêra: serê mıri, mal şımari, dawang veşni.",
+      "source": "Dûmilbazi day püroê, Avdûlah ağa kawt eskêri ver, şê awkay Şêlê ver, eskêri Xalef ağay nyamaw, erş kêrd, va kê eskêri xoêra: serê mıri, mal şımari, dawang veşni.",
       "translations": {
         "tr": "Davul vuruldu; Avdulah Ağa orduyu götürüp Sele deresine gitti, ama Xalef Ağa'nın ordusu gelmemişti; yürümeyi emretti ve ordusuna dedi ki: 'Başlar benim, mal sizin; köyleri yakın.",
         "en": "The drum was struck; Avdulah Agha led the army and went to the stream Sele, but Xalef Agha's army had not come; he ordered movement and said to his army: 'The heads are mine, the property yours; burn the villages.",
@@ -343,7 +343,7 @@
     },
     {
       "id": "u17",
-      "source": "Eskêrê Avdulah ağay şê dewi Xalef ağay, gêrawti şêş dewi, veşnay, ağêray, amêy kêyê, Avdulah ağa da mal eskêri xoê.",
+      "source": "Eskêrê Avdûlah ağay şê dewi Xalef ağay, gêrawti şêş dewi, veşnay, ağêray, amêy kêyê, Avdûlah ağa da mal eskêri xoê.",
       "translations": {
         "tr": "Avdulah Ağa'nın ordusu Xalef Ağa'nın köylerine gitti, altı köyü aldı, yaktı, geri dönüp eve geldi; Avdulah Ağa malı ordusuna verdi.",
         "en": "Avdulah Agha's army went to Xalef Agha's villages, took six villages, burned them, returned, and came home; Avdulah Agha gave the property to his army.",
@@ -361,7 +361,7 @@
     },
     {
       "id": "u19_01",
-      "source": "Xalef ağay 'habêrê erşawutê Avdulah ağayri va kê: twe ehêndê eskêri mê kişt, twê şeş dawê mê veşnay, taalan kêrdi, waxtê xoêdê 'hadre bê, ez ena gêlankê yêna, qancawkê dewi twê mê di ez veşnêna, taalan kêna heta yaw şewê, çoacu'hi nyêvêrdana, heminê serê bırmêna.",
+      "source": "Xalef ağay 'habêrê erşawûtê Avdûlah ağayri va kê: twe ehêndê eskêri mê kişt, twê şeş dawê mê veşnay, taalan kêrdi, waxtê xoêdê 'hadre bê, ez ena gêlankê yêna, qancawkê dewi twê mê di ez veşnêna, taalan kêna heta yaw şewê, çoacû'hi nyêvêrdana, heminê serê bırmêna.",
       "translations": {
         "tr": "Xalef Ağa Avdulah Ağa'ya haber gönderdi dedi ki: 'Ordumdan bazılarını öldürdün, altı köyümü yaktın ve talan ettin; kendi vaktinde hazır ol; bu sefer ben geleceğim ve her nerede senin bir köyünü görürsem, geceye kadar yakıp talan edeceğim; çocuk bile bağışlamayacağım; herkesin başını keseceğim.",
         "en": "Xalef Agha sent a message to Avdulah Agha saying: 'You killed some of my army, burned six of my villages, and plundered; be ready at your own time; this time I will come, and wherever I see one of your villages, I will burn and plunder until night; no child will I spare; I will cut off everyone's heads.",
@@ -370,7 +370,7 @@
     },
     {
       "id": "u20",
-      "source": "Avdulah ağay 'habêr erşawutê Xalef ağayri va kê: cay xoêdê rê'hat vındê, ekê ena gêlankê ez amêya twêra yaw kêrga koêrê nyêvêrdanu.",
+      "source": "Avdûlah ağay 'habêr erşawûtê Xalef ağayri va kê: cay xoêdê rê'hat vındê, ekê ena gêlankê ez amêya twêra yaw kêrga koêrê nyêvêrdanû.",
       "translations": {
         "tr": "Avdulah Ağa Xalef Ağa'ya haber gönderdi: 'Olduğun yerde rahat dur; bu sefer sana gelirsem bir kör tavuğu bile bağışlamayacağım.",
         "en": "Avdulah Agha sent a message to Xalef Agha: 'Stay calmly where you are; if this time I come to you, I will not spare even one blind hen.",
@@ -379,7 +379,7 @@
     },
     {
       "id": "u21",
-      "source": "Xalef ağay 'habêr erşawutê Avdulah ağayri va kê: tê byê xoêri, vyênê.",
+      "source": "Xalef ağay 'habêr erşawûtê Avdûlah ağayri va kê: tê byê xoêri, vyênê.",
       "translations": {
         "tr": "Xalef Ağa Avdulah Ağa'ya haber gönderdi: 'Gelmeye bak.",
         "en": "Xalef Agha sent a message to Avdulah Agha: 'See that you come.",
@@ -388,7 +388,7 @@
     },
     {
       "id": "u22",
-      "source": "Avdulah ağa werişt bê êspar, dümilbazi da püroê, eskêri xoê ame pyêser.",
+      "source": "Avdûlah ağa werişt bê êspar, dümilbazi da püroê, eskêri xoê ame pyêser.",
       "translations": {
         "tr": "Avdulah Ağa ata bindi, davulu çaldırdı ve ordusu toplandı.",
         "en": "Avdulah Agha mounted his horse, had the drum struck, and his army gathered.",
@@ -397,7 +397,7 @@
     },
     {
       "id": "u23",
-      "source": "Avdulah ağa va kê eskêri xoêra: çoacu'hi ma 'ha şwêni kawğe, metêrsi, ena gêlankê çewi meverdi, heminê bıksi, serê mıri mal sımari.",
+      "source": "Avdûlah ağa va kê eskêri xoêra: çoacû'hi ma 'ha şwêni kawğe, metêrsi, ena gêlankê çewi meverdi, heminê bıksi, serê mıri mal sımari.",
       "translations": {
         "tr": "Avdulah Ağa ordusuna dedi ki: 'Çocuklar, kavgaya gidiyoruz; korkmayın; bu sefer kimseyi bağışlamayın; herkesi öldürün; başlar benim, mal sizin.",
         "en": "Avdulah Agha said to his army: 'Children, we are going to fight; do not fear; this time spare no one; kill everyone; the heads are mine, the property yours.",
@@ -406,7 +406,7 @@
     },
     {
       "id": "u24",
-      "source": "Eskêri va kê Avdulah ağayra: peki, êfêndim, Alah cani twê sağ bêdu, hetakê pêynyay ma nyêmêru, twêri çi çinyu.",
+      "source": "Eskêri va kê Avdûlah ağayra: peki, êfêndim, Alah cani twê sağ bêdû, hetakê pêynyay ma nyêmêrû, twêri çi çinyû.",
       "translations": {
         "tr": "Ordu Avdulah Ağa'ya dedi ki: 'Peki efendim, Allah canını korusun; biz ölmedikçe sana bir şey olmaz.",
         "en": "The army said to Avdulah Agha: 'Very well, my lord, may God preserve your life; as long as none of us dies, there is nothing for you to fear.",
@@ -415,7 +415,7 @@
     },
     {
       "id": "u25",
-      "source": "Avdulah ağay va kê: afêrêm oğil.",
+      "source": "Avdûlah ağay va kê: afêrêm oğil.",
       "translations": {
         "tr": "Avdulah Ağa dedi ki: 'Aferin, oğullar.'",
         "en": "Avdulah Agha said: 'Thanks, sons.'",
@@ -424,7 +424,7 @@
     },
     {
       "id": "u26",
-      "source": "Avdulah ağay dümilbazi day püroê, eskêri xoê erş kêrd, şê dyari Mêlêkani, awnya kê eskêri Xalef ağay taburê bêsta.",
+      "source": "Avdûlah ağay dümilbazi day püroê, eskêri xoê erş kêrd, şê dyari Mêlêkani, awnya kê eskêri Xalef ağay tabûrê bêsta.",
       "translations": {
         "tr": "Avdulah Ağa davulu çaldırdı, ordusuna ilerlemeyi emretti ve Melekani bölgesine gitti ve Xalef Ağa'nın ordusunun fişek hazırladığını gördü.",
         "en": "Avdulah Agha had the drum struck, ordered his army forward, and went into the Melekani district, and saw Xalef Agha's army preparing cartridges.",
@@ -433,7 +433,7 @@
     },
     {
       "id": "u27",
-      "source": "Avdulah ağay eskêri xoê erş kêrd va kê: seri mıri mal şımari, metêrsi, şyêri bıksi heminê.",
+      "source": "Avdûlah ağay eskêri xoê erş kêrd va kê: seri mıri mal şımari, metêrsi, şyêri bıksi heminê.",
       "translations": {
         "tr": "Avdulah Ağa ordusuna ilerlemeyi emretti: 'Başlar benim, mal sizin; korkmayın, gidip herkesi öldürün.",
         "en": "Avdulah Agha ordered his army forward, saying: 'The heads are mine, property yours; do not fear, go and kill everyone.",
@@ -442,7 +442,7 @@
     },
     {
       "id": "u28_01",
-      "source": "Eskêri Avdulah ağay şê eskêri Xalef ağay weta amê bı Tawricyê, kawğe kerd, eskêri Xalef ağay rema, eskêri Adulah ağay pêyra kawt, bana dewi pyêru taalan kerdi, suanêy Nyêrbican pyêru kişti, pesi cinê pyêru ard.",
+      "source": "Eskêri Avdûlah ağay şê eskêri Xalef ağay weta amê bı Tawricyê, kawğe kerd, eskêri Xalef ağay rema, eskêri Adûlah ağay pêyra kawt, bana dewi pyêrû taalan kerdi, sûanêy Nyêrbican pyêrû kişti, pesi cinê pyêrû ard.",
       "translations": {
         "tr": "Avdulah Ağa'nın ordusu Xalef Ağa'nın ordusuna karşı gitti ve Tauridye'ye kadar gelip kavga etti; Xalef Ağa'nın ordusu kaçtı ve Avdulah Ağa'nın ordusu peşinden gitti, köy evlerinin hepsini talan etti, Nyêrib çobanlarının hepsini öldürdü ve bütün sürüleri götürdü.",
         "en": "Avdulah Agha's army went against Xalef Agha's army and came as far as Tauridye, where they fought; Xalef Agha's army fled, and the army of Avdulah Agha pursued, plundered all the village houses, killed all the Nerib shepherds, and carried off all the herds.",
@@ -451,7 +451,7 @@
     },
     {
       "id": "u29",
-      "source": "Mênd vist roc, Xalef ağay şê kawt kêy Qotwesan, 'Haydêr ağara va: ez kawta bê'hti twê, Avdulah ağay Kelang eskêri mê pyêru kişt, dewi mê pyêru veşnay, taalan kerdi.",
+      "source": "Mênd vist roc, Xalef ağay şê kawt kêy Qotwesan, 'Haydêr ağara va: ez kawta bê'hti twê, Avdûlah ağay Kelang eskêri mê pyêrû kişt, dewi mê pyêrû veşnay, taalan kerdi.",
       "translations": {
         "tr": "Yirmi gün sonra Xalef Ağa Qotwesan'a, Hayder Ağa'ya gidip dedi ki: 'Senin himayene geldim; Kelanlı Avdulah Ağa bütün ordumu öldürdü, bütün köylerimi yaktı ve talan etti.",
         "en": "After twenty days Xalef Agha went to Qotwesan, to Haider Agha, and said: 'I came under your protection; Avdulah Agha of Kelan killed my whole army, burned all my villages and plundered them.",
@@ -469,7 +469,7 @@
     },
     {
       "id": "u31",
-      "source": "Xalef ağay va kê: ez kawta be'hti twê, byê mê berê kêy Avdulah ağay, ma pya weşi kê, çıkaskê kêyfi twê wazênu ez mal dana twê.",
+      "source": "Xalef ağay va kê: ez kawta be'hti twê, byê mê berê kêy Avdûlah ağay, ma pya weşi kê, çıkaskê kêyfi twê wazênû ez mal dana twê.",
       "translations": {
         "tr": "Xalef Ağa dedi ki: 'Ben senin himayene geldim; benimle Avdulah Ağa'nın evine gel; bizi barıştır; her ne gönlün isterse sana mal vereceğim.",
         "en": "Xalef Agha said: 'I came under your protection; come with me to Avdulah Agha's house; reconcile us; whatever your heart wants, I will give you property.",
@@ -478,7 +478,7 @@
     },
     {
       "id": "u32",
-      "source": "'Haydêr ağa werişt bê êspar, kawt Xalef ağay ver, amêy şi Sivan, kawti kêy Avdulah ağay.",
+      "source": "'Haydêr ağa werişt bê êspar, kawt Xalef ağay ver, amêy şi Sivan, kawti kêy Avdûlah ağay.",
       "translations": {
         "tr": "Hayder Ağa ata bindi, Xalef Ağa'yı yanına aldı, Sivan'a geldi ve Avdulah Ağa'nın evine girdi.",
         "en": "Haider Agha mounted his horse, took Xalef Agha along, came to Sivan, and went into Avdulah Agha's house.",
@@ -487,7 +487,7 @@
     },
     {
       "id": "u33",
-      "source": "Haydêr ağa hiryê gêlankê şê lawna Avdulah ağa lingêru va kê: tê ağay ena gêlankê bıdi ricay mê Xalef ağay.",
+      "source": "Haydêr ağa hiryê gêlankê şê lawna Avdûlah ağa lingêrû va kê: tê ağay ena gêlankê bıdi ricay mê Xalef ağay.",
       "translations": {
         "tr": "Hayder Ağa üç kez gidip Avdulah Ağa'nın ayaklarını öptü ve dedi ki: 'Ağa, bu sefer benim hatırım için Xalef Ağa'yı bağışla.",
         "en": "Haider Agha went three times and kissed Avdulah Agha's feet, saying: 'Agha, this time spare Xalef Agha for my sake.",
@@ -496,7 +496,7 @@
     },
     {
       "id": "u34_01",
-      "source": "Avdulah ağa va kê Xaydêr ağara: ekê tê nyamêyni mê Xalef ağayra yaw zirot vera nyêdani, ez ka pêynyay dawani Nyêribi veşna, heminê taalan ka, çımkê tê amêy mê Xalef ağa kerd baxşi twê.",
+      "source": "Avdûlah ağa va kê Xaydêr ağara: ekê tê nyamêyni mê Xalef ağayra yaw zirot vera nyêdani, ez ka pêynyay dawani Nyêribi veşna, heminê taalan ka, çımkê tê amêy mê Xalef ağa kerd baxşi twê.",
       "translations": {
         "tr": "Avdulah Ağa dedi Hayder Ağa'ya: 'Sen gelmemiş olsaydın, Xalef Ağa'ya bir oğlan bile geri vermezdim; Nyêrib köylerinin hepsini yakar ve her şeyi talan ederdim; fakat sen geldiğin için Xalef Ağa'yı sana bağışladım.",
         "en": "Avdulah Agha said to Haider Agha: 'If you had not come, I would not have given Xalef Agha one boy back; I would have burned all the Nerib villages and plundered everything, but because you came, I grant Xalef Agha to you.",
@@ -505,7 +505,7 @@
     },
     {
       "id": "u35",
-      "source": "'Haydêr ağay lawna Avdula ağa serêru şê Xalef ağa ard, lawna Avdulah ağa lingêru, Avdulah ağa lawna Xalef ağa destru, pya bê weşi, xalay day pyêra.",
+      "source": "'Haydêr ağay lawna Avdûla ağa serêrû şê Xalef ağa ard, lawna Avdûlah ağa lingêrû, Avdûlah ağa lawna Xalef ağa destrû, pya bê weşi, xalay day pyêra.",
       "translations": {
         "tr": "Hayder Ağa Avdulah Ağa'yı başından öptü, gidip Xalef Ağa'yı getirdi ve Avdulah Ağa'nın ayaklarını öptü. Avdulah Ağa Xalef Ağa'nın elini öptü; barıştılar ve karşılıklı hilat verdiler.",
         "en": "Haider Agha kissed Avdulah Agha on the head, went and brought Xalef Agha, and kissed Avdulah Agha's feet. Avdulah Agha kissed Xalef Agha's hand; they reconciled and exchanged robes of honor.",
@@ -514,7 +514,7 @@
     },
     {
       "id": "u36",
-      "source": "Xaydêr ağa werışt, xatır wayşt Avdulah ağayra, Xalef ağa gêrawt, şi kêyê.",
+      "source": "Xaydêr ağa werışt, xatır wayşt Avdûlah ağayra, Xalef ağa gêrawt, şi kêyê.",
       "translations": {
         "tr": "Hayder Ağa ata bindi, Avdulah Ağa'dan izin istedi, Xalef Ağa'yı aldı ve eve gitti.",
         "en": "Haider Agha mounted, took leave of Avdulah Agha, took Xalef Agha and went home.",
@@ -567,12 +567,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s01_russian_l01.webp",
+          "image_url": "assets/s01_russian_l01.jpg",
           "source": "Lerch line crop; Russian printed page 103, scan page 117"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s01_german_l01.webp",
+          "image_url": "assets/s01_german_l01.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -681,7 +681,7 @@
       "text": "Vé̱ri d̮ṓan yau lā́d̮eku Ńerbíd̮ šẹ̄ Sivā́ṅ, Hʿōrsíge di̥zdeíe, bā́ni",
       "lerch": "Vé̱ri d̮ṓan yau lā́d̮eku Ńerbíd̮ šẹ̄ Sivā́ṅ, Hʿōrsíge di̥zdeíe, bā́ni",
       "ipa": "ˈvɛri ˈd͡ʒoːan jaw ˈlaːd͡ʒeku ɲerˈbid͡ʒ ʃe̝ː siˈvaːŋ ħoːrˈsige dɨzˈdeje ˈbaːni",
-      "zazaki": "Veri coan yaw lacêku Nyêrbic şê Sivang, 'Horsigê dızdêyê, bani",
+      "zazaki": "Veri coan yaw lacêkû Nyêrbic şê Sivang, 'Horsigê dızdêyê, bani",
       "source_note": "Russian and German both translate this as a young man from Nerib going to Sivan/Horsig to steal. Russian explicitly says 'to the Sivan tribe'.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -696,7 +696,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Veri coan yaw lacêku Nyêrbic şê Sivang, 'Horsigê dızdêyê, bani"
+          "value": "Veri coan yaw lacêkû Nyêrbic şê Sivang, 'Horsigê dızdêyê, bani"
         },
         {
           "label": "ENGLISH",
@@ -710,12 +710,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s01_russian_l02.webp",
+          "image_url": "assets/s01_russian_l02.jpg",
           "source": "Lerch line crop; Russian printed page 103, scan page 117"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s01_german_l02.webp",
+          "image_url": "assets/s01_german_l02.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -792,7 +792,7 @@
         {
           "form": "lā́d̮eku",
           "ipa": "ˈlaːd͡ʒeku",
-          "zazaki": "lacêku",
+          "zazaki": "lacêkû",
           "lemma": "lad",
           "display_gloss": "young man",
           "gloss_tr": "genç erkek",
@@ -999,7 +999,7 @@
           "start": 2,
           "end": 5,
           "lerch": "yau lā́d̮eku Ńerbíd̮",
-          "zazaki": "yaw lacêku Nyêrbic",
+          "zazaki": "yaw lacêkû Nyêrbic",
           "english": "one young man from Nerib",
           "turkish": "Nyêrib'den bir genç",
           "german": "ein junger Mann aus Nerib",
@@ -1036,7 +1036,7 @@
       "text": "Mél’a Ah̔médi Qafán ākérd, púrti Mél’a Ah̔médi Qafán geraút",
       "lerch": "Mél’a Ah̔médi Qafán ākérd, púrti Mél’a Ah̔médi Qafán geraút",
       "ipa": "ˈmel.a aħˈmedi qaˈfan aːˈkerd ˈpurti ˈmel.a aħˈmedi qaˈfan geˈrawt",
-      "zazaki": "Mêla A'hmêdi Qafan akêrd, purti Mêla A'hmêdi Qafan gêrawt",
+      "zazaki": "Mêla A'hmêdi Qafan akêrd, pûrti Mêla A'hmêdi Qafan gêrawt",
       "source_note": "Russian шубу and German Pelz support 'fur coat', not plain wool.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -1051,7 +1051,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Mêla A'hmêdi Qafan akêrd, purti Mêla A'hmêdi Qafan gêrawt"
+          "value": "Mêla A'hmêdi Qafan akêrd, pûrti Mêla A'hmêdi Qafan gêrawt"
         },
         {
           "label": "ENGLISH",
@@ -1065,12 +1065,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s01_russian_l03.webp",
+          "image_url": "assets/s01_russian_l03.jpg",
           "source": "Lerch line crop; Russian printed page 103, scan page 117"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s01_german_l03.webp",
+          "image_url": "assets/s01_german_l03.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -1170,7 +1170,7 @@
         {
           "form": "púrti",
           "ipa": "ˈpurti",
-          "zazaki": "purti",
+          "zazaki": "pûrti",
           "lemma": "purti",
           "display_gloss": "fur coat",
           "gloss_tr": "kürk",
@@ -1179,7 +1179,7 @@
           "morphemes": [
             {
               "form": "púrti",
-              "normalized": "purti",
+              "normalized": "pûrti",
               "lemma": "purti",
               "gloss": "fur coat",
               "pos": "",
@@ -1294,7 +1294,7 @@
       "text": "bér’u. Lā́d̮i Mél’a Ah̔médi Hʿuseíni dī é̱n’oe di̥zd, te̱píšt vā ke",
       "lerch": "bér’u. Lā́d̮i Mél’a Ah̔médi Hʿuseíni dī é̱n’oe di̥zd, te̱píšt vā ke",
       "ipa": "ˈber.u ˈlaːd͡ʒi ˈmel.a aħˈmedi ħuˈsejni di ˈɛn.oe dɨzd tɛˈpiʃt vaː ke",
-      "zazaki": "bêru. Laci Mêla A'hmêdi 'Husêyni di enoê dızd, tepişt va kê",
+      "zazaki": "bêrû. Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd, tepişt va kê",
       "source_note": "Russian: the son of Mela Ahmed, Husein, saw the thief, seized him, and spoke.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -1309,7 +1309,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "bêru. Laci Mêla A'hmêdi 'Husêyni di enoê dızd, tepişt va kê"
+          "value": "bêrû. Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd, tepişt va kê"
         },
         {
           "label": "ENGLISH",
@@ -1323,12 +1323,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s01_russian_l04.webp",
+          "image_url": "assets/s01_russian_l04.jpg",
           "source": "Lerch line crop; Russian printed page 103, scan page 117"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s01_german_l04.webp",
+          "image_url": "assets/s01_german_l04.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -1336,7 +1336,7 @@
         {
           "form": "bér’u.",
           "ipa": "ˈber.u",
-          "zazaki": "bêru.",
+          "zazaki": "bêrû.",
           "lemma": "beru",
           "display_gloss": "carried off",
           "gloss_tr": "götürdü",
@@ -1345,7 +1345,7 @@
           "morphemes": [
             {
               "form": "bér’u",
-              "normalized": "bêru",
+              "normalized": "bêrû",
               "lemma": "beru",
               "gloss": "carried off",
               "pos": "",
@@ -1439,7 +1439,7 @@
         {
           "form": "Hʿuseíni",
           "ipa": "ħuˈsejni",
-          "zazaki": "'Husêyni",
+          "zazaki": "'Hûsêyni",
           "lemma": "huseini",
           "display_gloss": "Husein, personal name",
           "gloss_tr": "Huseyin, kişi adı",
@@ -1448,7 +1448,7 @@
           "morphemes": [
             {
               "form": "Hʿuseíni",
-              "normalized": "'Husêyni",
+              "normalized": "'Hûsêyni",
               "lemma": "huseini",
               "gloss": "Husein, personal name",
               "pos": "",
@@ -1638,12 +1638,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s01_russian_l05.webp",
+          "image_url": "assets/s01_russian_l05.jpg",
           "source": "Lerch line crop; Russian printed page 103, scan page 117"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s01_german_l05.webp",
+          "image_url": "assets/s01_german_l05.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -1986,12 +1986,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s01_russian_l06.webp",
+          "image_url": "assets/s01_russian_l06.jpg",
           "source": "Lerch line crop; Russian printed page 103, scan page 117"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s01_german_l06.webp",
+          "image_url": "assets/s01_german_l06.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -2324,12 +2324,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s01_russian_l07.webp",
+          "image_url": "assets/s01_russian_l07.jpg",
           "source": "Lerch line crop; Russian printed page 103, scan page 117"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s01_german_l07.webp",
+          "image_url": "assets/s01_german_l07.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -2650,12 +2650,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s01_russian_l08.webp",
+          "image_url": "assets/s01_russian_l08.jpg",
           "source": "Lerch line crop; Russian printed page 103, scan page 117"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s01_german_l08.webp",
+          "image_url": "assets/s01_german_l08.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -2960,7 +2960,7 @@
       "lerch": "mā́le me bén’i. Dí̥zdi vā ke: e̱z Ńerbída āmeía mā́le tue, dí̥zdeí",
       "ipa": "ˈmaːle me ˈben.i ˈdɨzdi vaː ke ɛz ɲerˈbida aːˈmeja ˈmaːle twe ˈdɨzˈdej",
       "zazaki": "malê mê bêni. Dızdi va kê: ez Nyêrbida amêya malê twê, dızdêy",
-      "source_note": "Russian has 'into my house' and 'into your house'; German OCR alternates Haus/Hause. Probable Lerch/printing typo: `dí̥zdeí` has two accented vowel nuclei. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
+      "source_note": "Russian has 'into my house' and 'into your house'; German OCR alternates Haus/Hause.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
       "display_rows": [
@@ -2983,21 +2983,17 @@
         {
           "label": "TURKISH",
           "value": "benim evime?' Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim,"
-        },
-        {
-          "label": "EDITORIAL NOTE",
-          "value": "Probable Lerch/printing typo: `dí̥zdeí` has two accented vowel nuclei. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed."
         }
       ],
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s01_russian_l09.webp",
+          "image_url": "assets/s01_russian_l09.jpg",
           "source": "Lerch line crop; Russian printed page 103, scan page 117"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s01_german_l09.webp",
+          "image_url": "assets/s01_german_l09.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -3293,15 +3289,7 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "mali mı bêni?\" Dızdi va ki: \"Ez Nêribıc a, ameya mali tu, dızdey"
-      },
-      "editorial_notes": [
-        {
-          "type": "suspected_lerch_typo",
-          "line_id": "s01_l09",
-          "note": "Probable Lerch/printing typo: `dí̥zdeí` has two accented vowel nuclei. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
-          "confidence": "probable"
-        }
-      ]
+      }
     },
     {
       "id": "s01_l10",
@@ -3338,12 +3326,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s01_russian_l10.webp",
+          "image_url": "assets/s01_russian_l10.jpg",
           "source": "Lerch line crop; Russian printed page 103, scan page 117"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s01_german_l10.webp",
+          "image_url": "assets/s01_german_l10.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -3679,7 +3667,7 @@
       "text": "Mél’a Ah̔médi wid̮á sé̱rei dí̥zdi terá kerd, h̔abér’e eršau’úte Ńe-",
       "lerch": "Mél’a Ah̔médi wid̮á sé̱rei dí̥zdi terá kerd, h̔abér’e eršau’úte Ńe-",
       "ipa": "ˈmel.a aħˈmedi wiˈd͡ʒa ˈsɛrej ˈdɨzdi teˈra kerd ħaˈber.e erʃaw.ˈute ɲe",
-      "zazaki": "Mêla A'hmêdi wica serêy dızdi têra kêrd, 'habêrê êrşawutê Nyê-",
+      "zazaki": "Mêla A'hmêdi wica serêy dızdi têra kêrd, 'habêrê êrşawûtê Nyê-",
       "source_note": "Russian and German both say he killed the thief immediately and sent a messenger.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -3694,7 +3682,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Mêla A'hmêdi wica serêy dızdi têra kêrd, 'habêrê êrşawutê Nyê-"
+          "value": "Mêla A'hmêdi wica serêy dızdi têra kêrd, 'habêrê êrşawûtê Nyê-"
         },
         {
           "label": "ENGLISH",
@@ -3708,12 +3696,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s01_russian_l11.webp",
+          "image_url": "assets/s01_russian_l11.jpg",
           "source": "Lerch line crop; Russian printed page 103, scan page 117"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s01_german_l11.webp",
+          "image_url": "assets/s01_german_l11.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -3905,7 +3893,7 @@
         {
           "form": "eršau’úte",
           "ipa": "erʃaw.ˈute",
-          "zazaki": "êrşawutê",
+          "zazaki": "êrşawûtê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -3914,7 +3902,7 @@
           "morphemes": [
             {
               "form": "eršau’úte",
-              "normalized": "êrşawutê",
+              "normalized": "êrşawûtê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -3954,7 +3942,7 @@
           "start": 7,
           "end": 9,
           "lerch": "h̔abér’e eršau’úte",
-          "zazaki": "'habêrê êrşawutê",
+          "zazaki": "'habêrê êrşawûtê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -4000,12 +3988,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s01_russian_l12.webp",
+          "image_url": "assets/s01_russian_l12.jpg",
           "source": "Lerch line crop; Russian printed page 103, scan page 117"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s01_german_l12.webp",
+          "image_url": "assets/s01_german_l12.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -4320,7 +4308,7 @@
       "text": "tu Hʿyẹ̄níd̮i pyéru kíšti ā́rdi e̱mā́ni se̱r. Χalé̱f aγaí h̔abér’e e̱ršau’-",
       "lerch": "tu Hʿyẹ̄níd̮i pyéru kíšti ā́rdi e̱mā́ni se̱r. Χalé̱f aγaí h̔abér’e e̱ršau’-",
       "ipa": "tu ħje̝ːˈnid͡ʒi ˈpjeru ˈkiʃti ˈaːrdi ɛˈmaːni sɛr χaˈlɛf aˈʁaj ħaˈber.e ɛrʃaw",
-      "zazaki": "tu 'Hyênici pyêru kişti ardi emani ser. Xalef ağay 'habêrê erşaw-",
+      "zazaki": "tû 'Hyênici pyêrû kişti ardi emani ser. Xalef ağay 'habêrê erşaw-",
       "source_note": "Continuation of the passage Lerch marks unclear; emāni ser is kept tentative as safe-conduct.",
       "russian_print_page": 103,
       "russian_scan_page": 117,
@@ -4335,7 +4323,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "tu 'Hyênici pyêru kişti ardi emani ser. Xalef ağay 'habêrê erşaw-"
+          "value": "tû 'Hyênici pyêrû kişti ardi emani ser. Xalef ağay 'habêrê erşaw-"
         },
         {
           "label": "ENGLISH",
@@ -4349,12 +4337,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s01_russian_l13.webp",
+          "image_url": "assets/s01_russian_l13.jpg",
           "source": "Lerch line crop; Russian printed page 103, scan page 117"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s01_german_l13.webp",
+          "image_url": "assets/s01_german_l13.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -4362,7 +4350,7 @@
         {
           "form": "tu",
           "ipa": "tu",
-          "zazaki": "tu",
+          "zazaki": "tû",
           "lemma": "tu",
           "display_gloss": "you",
           "gloss_tr": "sen",
@@ -4371,7 +4359,7 @@
           "morphemes": [
             {
               "form": "tu",
-              "normalized": "tu",
+              "normalized": "tû",
               "lemma": "tu",
               "gloss": "you",
               "pos": "",
@@ -4408,7 +4396,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêru",
+          "zazaki": "pyêrû",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -4417,7 +4405,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêru",
+              "normalized": "pyêrû",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -4624,7 +4612,7 @@
       "text": "úte Avdúl’ah aγaí Kelā́ṅ vā ke: me Ńeríbde kauγé kerd, la-",
       "lerch": "úte Avdúl’ah aγaí Kelā́ṅ vā ke: me Ńeríbde kauγé kerd, la-",
       "ipa": "ˈute avˈdul.ah aˈʁaj keˈlaːŋ vaː ke me ɲeˈribde kawˈʁe kerd la",
-      "zazaki": "utê Avdulah ağay Kêlang va kê: mê Nyêribdê kawğê kêrd, la-",
+      "zazaki": "ûtê Avdûlah ağay Kêlang va kê: mê Nyêribdê kawğê kêrd, la-",
       "source_note": "German/Russian continue the message after Lerch's unclear Hyeni note.",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -4639,7 +4627,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "utê Avdulah ağay Kêlang va kê: mê Nyêribdê kawğê kêrd, la-"
+          "value": "ûtê Avdûlah ağay Kêlang va kê: mê Nyêribdê kawğê kêrd, la-"
         },
         {
           "label": "ENGLISH",
@@ -4653,12 +4641,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l01.webp",
+          "image_url": "assets/s02_russian_l01.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l01.webp",
+          "image_url": "assets/s02_german_l01.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -4666,7 +4654,7 @@
         {
           "form": "úte",
           "ipa": "ˈute",
-          "zazaki": "utê",
+          "zazaki": "ûtê",
           "lemma": "ute",
           "display_gloss": "-sent",
           "gloss_tr": "-gönderdi",
@@ -4675,7 +4663,7 @@
           "morphemes": [
             {
               "form": "úte",
-              "normalized": "utê",
+              "normalized": "ûtê",
               "lemma": "ute",
               "gloss": "-sent",
               "pos": "",
@@ -4689,7 +4677,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -4698,7 +4686,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -4979,12 +4967,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l02.webp",
+          "image_url": "assets/s02_russian_l02.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l02.webp",
+          "image_url": "assets/s02_german_l02.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -5321,7 +5309,7 @@
       "text": "vīst mē̱rdṳ́mi túe yau mē̱rdṳ́mi χóe vé̱ra kišeń’a. Avdúl’ah aγáí",
       "lerch": "vīst mē̱rdṳ́mi túe yau mē̱rdṳ́mi χóe vé̱ra kišeń’a. Avdúl’ah aγáí",
       "ipa": "viːst mɛːrˈdymi ˈtwe jaw mɛːrˈdymi ˈχoe ˈvɛra kiʃeɲa avˈdul.ah aˈʁaj",
-      "zazaki": "vist merdümi twê yaw merdümi xoê vera kişênya. Avdulah ağay",
+      "zazaki": "vist merdümi twê yaw merdümi xoê vera kişênya. Avdûlah ağay",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -5336,7 +5324,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "vist merdümi twê yaw merdümi xoê vera kişênya. Avdulah ağay"
+          "value": "vist merdümi twê yaw merdümi xoê vera kişênya. Avdûlah ağay"
         },
         {
           "label": "ENGLISH",
@@ -5350,12 +5338,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l03.webp",
+          "image_url": "assets/s02_russian_l03.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l03.webp",
+          "image_url": "assets/s02_german_l03.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -5580,7 +5568,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -5589,7 +5577,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -5635,7 +5623,7 @@
       "text": "h̔abér’e eršau’úte Χalé̱f aγāíri vā ke: waχte χóede h̔ādré̱ be, e̱z",
       "lerch": "h̔abér’e eršau’úte Χalé̱f aγāíri vā ke: waχte χóede h̔ādré̱ be, e̱z",
       "ipa": "ħaˈber.e erʃaw.ˈute χaˈlɛf aˈʁaːjri vaː ke waχte ˈχoede ħaːdˈrɛ be ɛz",
-      "zazaki": "'habêrê êrşawutê Xalef ağayri va kê: waxtê xoêdê 'hadre bê, ez",
+      "zazaki": "'habêrê êrşawûtê Xalef ağayri va kê: waxtê xoêdê 'hadre bê, ez",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -5650,7 +5638,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "'habêrê êrşawutê Xalef ağayri va kê: waxtê xoêdê 'hadre bê, ez"
+          "value": "'habêrê êrşawûtê Xalef ağayri va kê: waxtê xoêdê 'hadre bê, ez"
         },
         {
           "label": "ENGLISH",
@@ -5664,12 +5652,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l04.webp",
+          "image_url": "assets/s02_russian_l04.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l04.webp",
+          "image_url": "assets/s02_german_l04.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -5700,7 +5688,7 @@
         {
           "form": "eršau’úte",
           "ipa": "erʃaw.ˈute",
-          "zazaki": "êrşawutê",
+          "zazaki": "êrşawûtê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -5709,7 +5697,7 @@
           "morphemes": [
             {
               "form": "eršau’úte",
-              "normalized": "êrşawutê",
+              "normalized": "êrşawûtê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -5965,7 +5953,7 @@
           "start": 0,
           "end": 2,
           "lerch": "h̔abér’e eršau’úte",
-          "zazaki": "'habêrê êrşawutê",
+          "zazaki": "'habêrê êrşawûtê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -6011,12 +5999,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l05.webp",
+          "image_url": "assets/s02_russian_l05.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l05.webp",
+          "image_url": "assets/s02_german_l05.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -6315,12 +6303,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l06.webp",
+          "image_url": "assets/s02_russian_l06.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l06.webp",
+          "image_url": "assets/s02_german_l06.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -6679,7 +6667,7 @@
       "text": "ńavaúke e̱z sé̱rei túe wén’a. Χalé̱f aγái h̔abér e̱ršau’úte Av-",
       "lerch": "ńavaúke e̱z sé̱rei túe wén’a. Χalé̱f aγái h̔abér e̱ršau’úte Av-",
       "ipa": "ɲaˈvawke ɛz ˈsɛrej ˈtwe ˈwen.a χaˈlɛf aˈʁaj ħaˈber ɛrʃaw.ˈute av",
-      "zazaki": "nyavawkê ez serêy twê wêna. Xalef ağay 'habêr erşawutê Av-",
+      "zazaki": "nyavawkê ez serêy twê wêna. Xalef ağay 'habêr erşawûtê Av-",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -6694,7 +6682,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "nyavawkê ez serêy twê wêna. Xalef ağay 'habêr erşawutê Av-"
+          "value": "nyavawkê ez serêy twê wêna. Xalef ağay 'habêr erşawûtê Av-"
         },
         {
           "label": "ENGLISH",
@@ -6708,12 +6696,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l07.webp",
+          "image_url": "assets/s02_russian_l07.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l07.webp",
+          "image_url": "assets/s02_german_l07.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -6916,7 +6904,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawutê",
+          "zazaki": "erşawûtê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -6925,7 +6913,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawutê",
+              "normalized": "erşawûtê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -6965,7 +6953,7 @@
           "start": 7,
           "end": 9,
           "lerch": "h̔abér e̱ršau’úte",
-          "zazaki": "'habêr erşawutê",
+          "zazaki": "'habêr erşawûtê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -6992,7 +6980,7 @@
       "text": "dúl’ah aγaíri vā ke: e̱skéri me h̔adraú, ē̱nkaí e̱z āmeía Deíštede",
       "lerch": "dúl’ah aγaíri vā ke: e̱skéri me h̔adraú, ē̱nkaí e̱z āmeía Deíštede",
       "ipa": "ˈdul.ah aˈʁajri vaː ke ɛsˈkeri me ħadˈraw ɛːnˈkaj ɛz aːˈmeja ˈdejʃtede",
-      "zazaki": "dulah ağayri va kê: eskêri mê 'hadraw, enkay ez amêya Dêyştêdê",
+      "zazaki": "dûlah ağayri va kê: eskêri mê 'hadraw, enkay ez amêya Dêyştêdê",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -7007,7 +6995,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dulah ağayri va kê: eskêri mê 'hadraw, enkay ez amêya Dêyştêdê"
+          "value": "dûlah ağayri va kê: eskêri mê 'hadraw, enkay ez amêya Dêyştêdê"
         },
         {
           "label": "ENGLISH",
@@ -7021,12 +7009,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l08.webp",
+          "image_url": "assets/s02_russian_l08.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l08.webp",
+          "image_url": "assets/s02_german_l08.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -7034,7 +7022,7 @@
         {
           "form": "dúl’ah",
           "ipa": "ˈdul.ah",
-          "zazaki": "dulah",
+          "zazaki": "dûlah",
           "lemma": "dulah",
           "display_gloss": "-Avdulah",
           "gloss_tr": "-Avdulah",
@@ -7043,7 +7031,7 @@
           "morphemes": [
             {
               "form": "dúl’ah",
-              "normalized": "dulah",
+              "normalized": "dûlah",
               "lemma": "dulah",
               "gloss": "-Avdulah",
               "pos": "",
@@ -7347,12 +7335,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l09.webp",
+          "image_url": "assets/s02_russian_l09.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l09.webp",
+          "image_url": "assets/s02_german_l09.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -7678,7 +7666,7 @@
       "text": "Ḗ̱n’oe kauγé̱ Ti̥rkā́n ńu, ḗ̱n’oe kauγé aširā́nu, ti̥ bye χóeri vyén’e.",
       "lerch": "Ḗ̱n’oe kauγé̱ Ti̥rkā́n ńu, ḗ̱n’oe kauγé aširā́nu, ti̥ bye χóeri vyén’e.",
       "ipa": "ˈɛːn.oe kawˈʁɛ tɨrˈkaːn ɲu ˈɛːn.oe kawˈʁe aʃiˈraːnu tɨ bje ˈχoeri ˈvjen.e",
-      "zazaki": "Enoê kawğe Tırkan nyu, enoê kawğê aşiranu, tı byê xoêri vyênê.",
+      "zazaki": "Enoê kawğe Tırkan nyû, enoê kawğê aşiranû, tı byê xoêri vyênê.",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -7693,7 +7681,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Enoê kawğe Tırkan nyu, enoê kawğê aşiranu, tı byê xoêri vyênê."
+          "value": "Enoê kawğe Tırkan nyû, enoê kawğê aşiranû, tı byê xoêri vyênê."
         },
         {
           "label": "ENGLISH",
@@ -7707,12 +7695,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l10.webp",
+          "image_url": "assets/s02_russian_l10.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l10.webp",
+          "image_url": "assets/s02_german_l10.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -7789,7 +7777,7 @@
         {
           "form": "ńu,",
           "ipa": "ɲu",
-          "zazaki": "nyu,",
+          "zazaki": "nyû,",
           "lemma": "nu",
           "display_gloss": "not",
           "gloss_tr": "değil",
@@ -7798,7 +7786,7 @@
           "morphemes": [
             {
               "form": "ńu",
-              "normalized": "nyu",
+              "normalized": "nyû",
               "lemma": "nu",
               "gloss": "not",
               "pos": "",
@@ -7858,7 +7846,7 @@
         {
           "form": "aširā́nu,",
           "ipa": "aʃiˈraːnu",
-          "zazaki": "aşiranu,",
+          "zazaki": "aşiranû,",
           "lemma": "asiranu",
           "display_gloss": "tribal",
           "gloss_tr": "aşirete ait",
@@ -7867,7 +7855,7 @@
           "morphemes": [
             {
               "form": "aširā́nu",
-              "normalized": "aşiranu",
+              "normalized": "aşiranû",
               "lemma": "asiranu",
               "gloss": "tribal",
               "pos": "",
@@ -7993,7 +7981,7 @@
       "text": "Avdúl’ah aγái h̔abér e̱ršau’úte dauā́ṅ vā ke: t̮au me̱víndi, meíšte",
       "lerch": "Avdúl’ah aγái h̔abér e̱ršau’úte dauā́ṅ vā ke: t̮au me̱víndi, meíšte",
       "ipa": "avˈdul.ah aˈʁaj ħaˈber ɛrʃaw.ˈute daˈwaːŋ vaː ke t͡ʃaw mɛˈvindi ˈmejʃte",
-      "zazaki": "Avdulah ağay 'habêr erşawutê dawang va kê: çaw mevindi, mêyştê",
+      "zazaki": "Avdûlah ağay 'habêr erşawûtê dawang va kê: çaw mevindi, mêyştê",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -8008,7 +7996,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Avdulah ağay 'habêr erşawutê dawang va kê: çaw mevindi, mêyştê"
+          "value": "Avdûlah ağay 'habêr erşawûtê dawang va kê: çaw mevindi, mêyştê"
         },
         {
           "label": "ENGLISH",
@@ -8022,12 +8010,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l11.webp",
+          "image_url": "assets/s02_russian_l11.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l11.webp",
+          "image_url": "assets/s02_german_l11.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -8035,7 +8023,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -8044,7 +8032,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -8104,7 +8092,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawutê",
+          "zazaki": "erşawûtê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -8113,7 +8101,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawutê",
+              "normalized": "erşawûtê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -8290,7 +8278,7 @@
           "start": 2,
           "end": 4,
           "lerch": "h̔abér e̱ršau’úte",
-          "zazaki": "'habêr erşawutê",
+          "zazaki": "'habêr erşawûtê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -8307,7 +8295,7 @@
       "text": "aúkai Šél’e vé̱rde kauγé mau, Ńerbid̮ā́nu. Dauā́ṅ h̔abér e̱ršau’úte",
       "lerch": "aúkai Šél’e vé̱rde kauγé mau, Ńerbid̮ā́nu. Dauā́ṅ h̔abér e̱ršau’úte",
       "ipa": "ˈawkaj ˈʃel.e ˈvɛrde kawˈʁe maw ɲerbiˈd͡ʒaːnu daˈwaːŋ ħaˈber ɛrʃaw.ˈute",
-      "zazaki": "awkay Şêlê verdê kawğê maw, Nyêrbicanu. Dawang 'habêr erşawutê",
+      "zazaki": "awkay Şêlê verdê kawğê maw, Nyêrbicanû. Dawang 'habêr erşawûtê",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -8322,7 +8310,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "awkay Şêlê verdê kawğê maw, Nyêrbicanu. Dawang 'habêr erşawutê"
+          "value": "awkay Şêlê verdê kawğê maw, Nyêrbicanû. Dawang 'habêr erşawûtê"
         },
         {
           "label": "ENGLISH",
@@ -8336,12 +8324,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l12.webp",
+          "image_url": "assets/s02_russian_l12.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l12.webp",
+          "image_url": "assets/s02_german_l12.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -8475,7 +8463,7 @@
         {
           "form": "Ńerbid̮ā́nu.",
           "ipa": "ɲerbiˈd͡ʒaːnu",
-          "zazaki": "Nyêrbicanu.",
+          "zazaki": "Nyêrbicanû.",
           "lemma": "nerbid",
           "display_gloss": "Nerib people",
           "gloss_tr": "Nyêribliler",
@@ -8577,7 +8565,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawutê",
+          "zazaki": "erşawûtê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -8586,7 +8574,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawutê",
+              "normalized": "erşawûtê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -8603,7 +8591,7 @@
           "start": 7,
           "end": 9,
           "lerch": "h̔abér e̱ršau’úte",
-          "zazaki": "'habêr erşawutê",
+          "zazaki": "'habêr erşawûtê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -8620,7 +8608,7 @@
       "text": "Avdúl’ah aγaíri vā ke: mé̱vinde, t̮ikás mā́li Ńeríbi é̱stu bi̥de mā,",
       "lerch": "Avdúl’ah aγaíri vā ke: mé̱vinde, t̮ikás mā́li Ńeríbi é̱stu bi̥de mā,",
       "ipa": "avˈdul.ah aˈʁajri vaː ke ˈmɛvinde t͡ʃiˈkas ˈmaːli ɲeˈribi ˈɛstu bɨde maː",
-      "zazaki": "Avdulah ağayri va kê: mevindê, çikas mali Nyêribi estu bıdê ma,",
+      "zazaki": "Avdûlah ağayri va kê: mevindê, çikas mali Nyêribi estû bıdê ma,",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -8635,7 +8623,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Avdulah ağayri va kê: mevindê, çikas mali Nyêribi estu bıdê ma,"
+          "value": "Avdûlah ağayri va kê: mevindê, çikas mali Nyêribi estû bıdê ma,"
         },
         {
           "label": "ENGLISH",
@@ -8649,12 +8637,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l13.webp",
+          "image_url": "assets/s02_russian_l13.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l13.webp",
+          "image_url": "assets/s02_german_l13.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -8662,7 +8650,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -8671,7 +8659,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -8868,7 +8856,7 @@
         {
           "form": "é̱stu",
           "ipa": "ˈɛstu",
-          "zazaki": "estu",
+          "zazaki": "estû",
           "lemma": "estu",
           "display_gloss": "exists",
           "gloss_tr": "var",
@@ -8877,7 +8865,7 @@
           "morphemes": [
             {
               "form": "é̱stu",
-              "normalized": "estu",
+              "normalized": "estû",
               "lemma": "estu",
               "gloss": "exists",
               "pos": "",
@@ -8957,7 +8945,7 @@
       "text": "mā peíńai dauā́ni Ńeríbi ve̱šnén’i. Avdúl’ah aγái h̔abér e̱ršau’úte",
       "lerch": "mā peíńai dauā́ni Ńeríbi ve̱šnén’i. Avdúl’ah aγái h̔abér e̱ršau’úte",
       "ipa": "maː ˈpejɲaj daˈwaːni ɲeˈribi vɛʃˈnen.i avˈdul.ah aˈʁaj ħaˈber ɛrʃaw.ˈute",
-      "zazaki": "ma pêynyay dawani Nyêribi veşnêni. Avdulah ağay 'habêr erşawutê",
+      "zazaki": "ma pêynyay dawani Nyêribi veşnêni. Avdûlah ağay 'habêr erşawûtê",
       "source_note": "",
       "russian_print_page": 104,
       "russian_scan_page": 118,
@@ -8972,7 +8960,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ma pêynyay dawani Nyêribi veşnêni. Avdulah ağay 'habêr erşawutê"
+          "value": "ma pêynyay dawani Nyêribi veşnêni. Avdûlah ağay 'habêr erşawûtê"
         },
         {
           "label": "ENGLISH",
@@ -8986,12 +8974,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l14.webp",
+          "image_url": "assets/s02_russian_l14.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l14.webp",
+          "image_url": "assets/s02_german_l14.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -9136,7 +9124,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -9145,7 +9133,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -9205,7 +9193,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawutê",
+          "zazaki": "erşawûtê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -9214,7 +9202,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawutê",
+              "normalized": "erşawûtê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -9231,7 +9219,7 @@
           "start": 7,
           "end": 9,
           "lerch": "h̔abér e̱ršau’úte",
-          "zazaki": "'habêr erşawutê",
+          "zazaki": "'habêr erşawûtê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -9277,12 +9265,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s02_russian_l15.webp",
+          "image_url": "assets/s02_russian_l15.jpg",
           "source": "Lerch line crop; Russian printed page 104, scan page 118"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s02_german_l15.webp",
+          "image_url": "assets/s02_german_l15.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -9670,12 +9658,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s03_russian_l01.webp",
+          "image_url": "assets/s03_russian_l01.jpg",
           "source": "Lerch line crop; Russian printed page 105, scan page 119"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s03_german_l01.webp",
+          "image_url": "assets/s03_german_l01.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -9933,7 +9921,7 @@
       "text": "kén’i, mé̱vinde, tí̥zi bye. Sebáh Avdúl’ah aγá we̱ríšt be espā́r,",
       "lerch": "kén’i, mé̱vinde, tí̥zi bye. Sebáh Avdúl’ah aγá we̱ríšt be espā́r,",
       "ipa": "ˈken.i ˈmɛvinde ˈtɨzi bje seˈbah avˈdul.ah aˈʁa wɛˈriʃt be esˈpaːr",
-      "zazaki": "kêni, mevindê, tızi byê. Sêbah Avdulah ağa werişt bê êspar,",
+      "zazaki": "kêni, mevindê, tızi byê. Sêbah Avdûlah ağa werişt bê êspar,",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -9948,7 +9936,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kêni, mevindê, tızi byê. Sêbah Avdulah ağa werişt bê êspar,"
+          "value": "kêni, mevindê, tızi byê. Sêbah Avdûlah ağa werişt bê êspar,"
         },
         {
           "label": "ENGLISH",
@@ -9962,12 +9950,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s03_russian_l02.webp",
+          "image_url": "assets/s03_russian_l02.jpg",
           "source": "Lerch line crop; Russian printed page 105, scan page 119"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s03_german_l02.webp",
+          "image_url": "assets/s03_german_l02.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -10112,7 +10100,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -10121,7 +10109,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -10265,12 +10253,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s03_russian_l03.webp",
+          "image_url": "assets/s03_russian_l03.jpg",
           "source": "Lerch line crop; Russian printed page 105, scan page 119"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s03_german_l03.webp",
+          "image_url": "assets/s03_german_l03.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -10585,7 +10573,7 @@
       "text": "kauγé̱, mé̱tersi, Ńerbíd̮i t̮ā́ni, kauγé̱ aširā́nu, sé̱re mí̥ri, māl ši̥-māri.",
       "lerch": "kauγé̱, mé̱tersi, Ńerbíd̮i t̮ā́ni, kauγé̱ aširā́nu, sé̱re mí̥ri, māl ši̥-māri.",
       "ipa": "kawˈʁɛ ˈmɛtersi ɲerˈbid͡ʒi ˈt͡ʃaːni kawˈʁɛ aʃiˈraːnu ˈsɛre ˈmɨri maːl ʃɨ-maːri",
-      "zazaki": "kawğe, metêrsi, Nyêrbici çani, kawğe aşiranu, serê mıri, mal şı-mari.",
+      "zazaki": "kawğe, metêrsi, Nyêrbici çani, kawğe aşiranû, serê mıri, mal şı-mari.",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -10600,7 +10588,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kawğe, metêrsi, Nyêrbici çani, kawğe aşiranu, serê mıri, mal şı-mari."
+          "value": "kawğe, metêrsi, Nyêrbici çani, kawğe aşiranû, serê mıri, mal şı-mari."
         },
         {
           "label": "ENGLISH",
@@ -10614,12 +10602,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s03_russian_l04.webp",
+          "image_url": "assets/s03_russian_l04.jpg",
           "source": "Lerch line crop; Russian printed page 105, scan page 119"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s03_german_l04.webp",
+          "image_url": "assets/s03_german_l04.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -10775,7 +10763,7 @@
         {
           "form": "aširā́nu,",
           "ipa": "aʃiˈraːnu",
-          "zazaki": "aşiranu,",
+          "zazaki": "aşiranû,",
           "lemma": "asiranu",
           "display_gloss": "tribal",
           "gloss_tr": "aşirete ait",
@@ -10784,7 +10772,7 @@
           "morphemes": [
             {
               "form": "aširā́nu",
-              "normalized": "aşiranu",
+              "normalized": "aşiranû",
               "lemma": "asiranu",
               "gloss": "tribal",
               "pos": "",
@@ -10921,7 +10909,7 @@
       "text": "Dúmilbāzi dai pṳ́roe, Avdúl’ah aγá kaut e̱skéri ve̱r, šẹ̄ aúkai",
       "lerch": "Dúmilbāzi dai pṳ́roe, Avdúl’ah aγá kaut e̱skéri ve̱r, šẹ̄ aúkai",
       "ipa": "ˈdumilbaːzi daj ˈpyroe avˈdul.ah aˈʁa kawt ɛsˈkeri vɛr ʃe̝ː ˈawkaj",
-      "zazaki": "Dumilbazi day püroê, Avdulah ağa kawt eskêri ver, şê awkay",
+      "zazaki": "Dûmilbazi day püroê, Avdûlah ağa kawt eskêri ver, şê awkay",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -10936,7 +10924,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Dumilbazi day püroê, Avdulah ağa kawt eskêri ver, şê awkay"
+          "value": "Dûmilbazi day püroê, Avdûlah ağa kawt eskêri ver, şê awkay"
         },
         {
           "label": "ENGLISH",
@@ -10950,12 +10938,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s03_russian_l05.webp",
+          "image_url": "assets/s03_russian_l05.jpg",
           "source": "Lerch line crop; Russian printed page 105, scan page 119"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s03_german_l05.webp",
+          "image_url": "assets/s03_german_l05.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -10963,7 +10951,7 @@
         {
           "form": "Dúmilbāzi",
           "ipa": "ˈdumilbaːzi",
-          "zazaki": "Dumilbazi",
+          "zazaki": "Dûmilbazi",
           "lemma": "dumilbazi",
           "display_gloss": "drum",
           "gloss_tr": "davul",
@@ -10972,7 +10960,7 @@
           "morphemes": [
             {
               "form": "Dúmilbāzi",
-              "normalized": "Dumilbazi",
+              "normalized": "Dûmilbazi",
               "lemma": "dumilbazi",
               "gloss": "drum",
               "pos": "",
@@ -11032,7 +11020,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -11041,7 +11029,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -11231,12 +11219,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s03_russian_l06.webp",
+          "image_url": "assets/s03_russian_l06.jpg",
           "source": "Lerch line crop; Russian printed page 105, scan page 119"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s03_german_l06.webp",
+          "image_url": "assets/s03_german_l06.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -11540,7 +11528,7 @@
       "text": "sé̱re mi̥ri, māl ši̥mā́ri, dau’ā́ṅ vé̱šni. E̱skére Avdúl’ah aγái šẹ̄",
       "lerch": "sé̱re mi̥ri, māl ši̥mā́ri, dau’ā́ṅ vé̱šni. E̱skére Avdúl’ah aγái šẹ̄",
       "ipa": "ˈsɛre mɨri maːl ʃɨˈmaːri daw.ˈaːŋ ˈvɛʃni ɛsˈkere avˈdul.ah aˈʁaj ʃe̝ː",
-      "zazaki": "serê mıri, mal şımari, dawang veşni. Eskêrê Avdulah ağay şê",
+      "zazaki": "serê mıri, mal şımari, dawang veşni. Eskêrê Avdûlah ağay şê",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -11555,7 +11543,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "serê mıri, mal şımari, dawang veşni. Eskêrê Avdulah ağay şê"
+          "value": "serê mıri, mal şımari, dawang veşni. Eskêrê Avdûlah ağay şê"
         },
         {
           "label": "ENGLISH",
@@ -11569,12 +11557,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s03_russian_l07.webp",
+          "image_url": "assets/s03_russian_l07.jpg",
           "source": "Lerch line crop; Russian printed page 105, scan page 119"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s03_german_l07.webp",
+          "image_url": "assets/s03_german_l07.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -11765,7 +11753,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -11774,7 +11762,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -11883,12 +11871,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s03_russian_l08.webp",
+          "image_url": "assets/s03_russian_l08.jpg",
           "source": "Lerch line crop; Russian printed page 105, scan page 119"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s03_german_l08.webp",
+          "image_url": "assets/s03_german_l08.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -12135,7 +12123,7 @@
       "text": "Avdúl’ah aγá dā māl e̱skéri χoé.",
       "lerch": "Avdúl’ah aγá dā māl e̱skéri χoé.",
       "ipa": "avˈdul.ah aˈʁa daː maːl ɛsˈkeri χˈoe",
-      "zazaki": "Avdulah ağa da mal eskêri xoê.",
+      "zazaki": "Avdûlah ağa da mal eskêri xoê.",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -12150,7 +12138,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Avdulah ağa da mal eskêri xoê."
+          "value": "Avdûlah ağa da mal eskêri xoê."
         },
         {
           "label": "ENGLISH",
@@ -12164,12 +12152,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s03_russian_l09.webp",
+          "image_url": "assets/s03_russian_l09.jpg",
           "source": "Lerch line crop; Russian printed page 105, scan page 119"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s03_german_l09.webp",
+          "image_url": "assets/s03_german_l09.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -12177,7 +12165,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -12186,7 +12174,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -12324,7 +12312,7 @@
       "text": "Yau ā́šme mend. Χalé̱f aγái h̔abére e̱ršau’úte Avdúl’ah aγáiri",
       "lerch": "Yau ā́šme mend. Χalé̱f aγái h̔abére e̱ršau’úte Avdúl’ah aγáiri",
       "ipa": "jaw ˈaːʃme mend χaˈlɛf aˈʁaj ħaˈbere ɛrʃaw.ˈute avˈdul.ah aˈʁajri",
-      "zazaki": "Yaw aşmê mênd. Xalef ağay 'habêrê erşawutê Avdulah ağayri",
+      "zazaki": "Yaw aşmê mênd. Xalef ağay 'habêrê erşawûtê Avdûlah ağayri",
       "source_note": "",
       "russian_print_page": 105,
       "russian_scan_page": 119,
@@ -12339,7 +12327,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Yaw aşmê mênd. Xalef ağay 'habêrê erşawutê Avdulah ağayri"
+          "value": "Yaw aşmê mênd. Xalef ağay 'habêrê erşawûtê Avdûlah ağayri"
         },
         {
           "label": "ENGLISH",
@@ -12353,12 +12341,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s03_russian_l10.webp",
+          "image_url": "assets/s03_russian_l10.jpg",
           "source": "Lerch line crop; Russian printed page 105, scan page 119"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s03_german_l10.webp",
+          "image_url": "assets/s03_german_l10.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -12504,7 +12492,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawutê",
+          "zazaki": "erşawûtê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -12513,7 +12501,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawutê",
+              "normalized": "erşawûtê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -12527,7 +12515,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -12536,7 +12524,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -12587,7 +12575,7 @@
           "start": 5,
           "end": 7,
           "lerch": "h̔abére e̱ršau’úte",
-          "zazaki": "'habêrê erşawutê",
+          "zazaki": "'habêrê erşawûtê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -12633,12 +12621,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s03_russian_l11.webp",
+          "image_url": "assets/s03_russian_l11.jpg",
           "source": "Lerch line crop; Russian printed page 105, scan page 119"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s03_german_l11.webp",
+          "image_url": "assets/s03_german_l11.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -12983,12 +12971,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s03_russian_l12.webp",
+          "image_url": "assets/s03_russian_l12.jpg",
           "source": "Lerch line crop; Russian printed page 105, scan page 119"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s03_german_l12.webp",
+          "image_url": "assets/s03_german_l12.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -13286,12 +13274,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s03_russian_l13.webp",
+          "image_url": "assets/s03_russian_l13.jpg",
           "source": "Lerch line crop; Russian printed page 105, scan page 119"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s03_german_l13.webp",
+          "image_url": "assets/s03_german_l13.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -13595,7 +13583,7 @@
       "text": "d̮úh̔i ńeverdā́na, hé̱mine sé̱re bi̥rmén’a. Avdúl’ah aγái h̔abér e̱r-",
       "lerch": "d̮úh̔i ńeverdā́na, hé̱mine sé̱re bi̥rmén’a. Avdúl’ah aγái h̔abér e̱r-",
       "ipa": "ˈd͡ʒuħi ɲeverˈdaːna ˈhɛmine ˈsɛre bɨrˈmen.a avˈdul.ah aˈʁaj ħaˈber ɛr",
-      "zazaki": "cu'hi nyêvêrdana, heminê serê bırmêna. Avdulah ağay 'habêr er-",
+      "zazaki": "cû'hi nyêvêrdana, heminê serê bırmêna. Avdûlah ağay 'habêr er-",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -13610,7 +13598,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "cu'hi nyêvêrdana, heminê serê bırmêna. Avdulah ağay 'habêr er-"
+          "value": "cû'hi nyêvêrdana, heminê serê bırmêna. Avdûlah ağay 'habêr er-"
         },
         {
           "label": "ENGLISH",
@@ -13624,12 +13612,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l01.webp",
+          "image_url": "assets/s04_russian_l01.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l01.webp",
+          "image_url": "assets/s04_german_l01.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -13637,7 +13625,7 @@
         {
           "form": "d̮úh̔i",
           "ipa": "ˈd͡ʒuħi",
-          "zazaki": "cu'hi",
+          "zazaki": "cû'hi",
           "lemma": "duhi",
           "display_gloss": "child",
           "gloss_tr": "çocuk",
@@ -13646,7 +13634,7 @@
           "morphemes": [
             {
               "form": "d̮úh̔i",
-              "normalized": "cu'hi",
+              "normalized": "cû'hi",
               "lemma": "duhi",
               "gloss": "child",
               "pos": "",
@@ -13763,7 +13751,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -13772,7 +13760,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -13864,7 +13852,7 @@
       "text": "šau’úte Χalé̱f aγāiri vā ke: d̮ai χóede reh̔át ví̥nde, é̱ke ḗ̱n’a ge-",
       "lerch": "šau’úte Χalé̱f aγāiri vā ke: d̮ai χóede reh̔át ví̥nde, é̱ke ḗ̱n’a ge-",
       "ipa": "ʃaw.ˈute χaˈlɛf aʁaːjri vaː ke d͡ʒaj ˈχoede reˈħat ˈvɨnde ˈɛke ˈɛːn.a ge",
-      "zazaki": "şawutê Xalef ağayri va kê: cay xoêdê rê'hat vındê, ekê ena gê-",
+      "zazaki": "şawûtê Xalef ağayri va kê: cay xoêdê rê'hat vındê, ekê ena gê-",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -13879,7 +13867,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "şawutê Xalef ağayri va kê: cay xoêdê rê'hat vındê, ekê ena gê-"
+          "value": "şawûtê Xalef ağayri va kê: cay xoêdê rê'hat vındê, ekê ena gê-"
         },
         {
           "label": "ENGLISH",
@@ -13893,12 +13881,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l02.webp",
+          "image_url": "assets/s04_russian_l02.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l02.webp",
+          "image_url": "assets/s04_german_l02.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -13906,7 +13894,7 @@
         {
           "form": "šau’úte",
           "ipa": "ʃaw.ˈute",
-          "zazaki": "şawutê",
+          "zazaki": "şawûtê",
           "lemma": "sauute",
           "display_gloss": "-sent",
           "gloss_tr": "-gönderdi",
@@ -13915,7 +13903,7 @@
           "morphemes": [
             {
               "form": "šau’úte",
-              "normalized": "şawutê",
+              "normalized": "şawûtê",
               "lemma": "sauute",
               "gloss": "-sent",
               "pos": "",
@@ -14213,7 +14201,7 @@
       "text": "lāṅke e̱z ameía túera yāu kérgā kóere ńeverdā́nu. Χalé̱f aγái",
       "lerch": "lāṅke e̱z ameía túera yāu kérgā kóere ńeverdā́nu. Χalé̱f aγái",
       "ipa": "laːŋke ɛz aˈmeja ˈtwera jaːw ˈkergaː ˈkoere ɲeverˈdaːnu χaˈlɛf aˈʁaj",
-      "zazaki": "lankê ez amêya twêra yaw kêrga koêrê nyêvêrdanu. Xalef ağay",
+      "zazaki": "lankê ez amêya twêra yaw kêrga koêrê nyêvêrdanû. Xalef ağay",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -14228,7 +14216,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "lankê ez amêya twêra yaw kêrga koêrê nyêvêrdanu. Xalef ağay"
+          "value": "lankê ez amêya twêra yaw kêrga koêrê nyêvêrdanû. Xalef ağay"
         },
         {
           "label": "ENGLISH",
@@ -14242,12 +14230,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l03.webp",
+          "image_url": "assets/s04_russian_l03.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l03.webp",
+          "image_url": "assets/s04_german_l03.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -14427,7 +14415,7 @@
         {
           "form": "ńeverdā́nu.",
           "ipa": "ɲeverˈdaːnu",
-          "zazaki": "nyêvêrdanu.",
+          "zazaki": "nyêvêrdanû.",
           "lemma": "ne-",
           "display_gloss": "I will not spare",
           "gloss_tr": "bağışlamayacağım",
@@ -14447,7 +14435,7 @@
             },
             {
               "form": "verdā́nu",
-              "normalized": "vêrdanu",
+              "normalized": "vêrdanû",
               "lemma": "verdanu",
               "gloss": "spare/leave",
               "pos": "",
@@ -14516,7 +14504,7 @@
       "text": "h̔abér e̱ršau’úte Avdúl’ah aγāiri vā ke: te bye χóeri, vién’e. Av-",
       "lerch": "h̔abér e̱ršau’úte Avdúl’ah aγāiri vā ke: te bye χóeri, vién’e. Av-",
       "ipa": "ħaˈber ɛrʃaw.ˈute avˈdul.ah aʁaːjri vaː ke te bje ˈχoeri ˈvjen.e av",
-      "zazaki": "'habêr erşawutê Avdulah ağayri va kê: tê byê xoêri, vyênê. Av-",
+      "zazaki": "'habêr erşawûtê Avdûlah ağayri va kê: tê byê xoêri, vyênê. Av-",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -14531,7 +14519,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "'habêr erşawutê Avdulah ağayri va kê: tê byê xoêri, vyênê. Av-"
+          "value": "'habêr erşawûtê Avdûlah ağayri va kê: tê byê xoêri, vyênê. Av-"
         },
         {
           "label": "ENGLISH",
@@ -14545,12 +14533,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l04.webp",
+          "image_url": "assets/s04_russian_l04.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l04.webp",
+          "image_url": "assets/s04_german_l04.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -14581,7 +14569,7 @@
         {
           "form": "e̱ršau’úte",
           "ipa": "ɛrʃaw.ˈute",
-          "zazaki": "erşawutê",
+          "zazaki": "erşawûtê",
           "lemma": "ersauute",
           "display_gloss": "sent",
           "gloss_tr": "gönderdi",
@@ -14590,7 +14578,7 @@
           "morphemes": [
             {
               "form": "e̱ršau’úte",
-              "normalized": "erşawutê",
+              "normalized": "erşawûtê",
               "lemma": "ersauute",
               "gloss": "sent",
               "pos": "",
@@ -14604,7 +14592,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -14613,7 +14601,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -14836,7 +14824,7 @@
           "start": 0,
           "end": 2,
           "lerch": "h̔abér e̱ršau’úte",
-          "zazaki": "'habêr erşawutê",
+          "zazaki": "'habêr erşawûtê",
           "english": "sent word",
           "turkish": "haber gönderdi",
           "german": "sandte Nachricht",
@@ -14853,7 +14841,7 @@
       "text": "dúl’ah aγá we̱ríšt be espā́r, dṳ́milbā́zi dā pṳ́roe, e̱skéri χóe āmé̱",
       "lerch": "dúl’ah aγá we̱ríšt be espā́r, dṳ́milbā́zi dā pṳ́roe, e̱skéri χóe āmé̱",
       "ipa": "ˈdul.ah aˈʁa wɛˈriʃt be esˈpaːr ˈdymilˈbaːzi daː ˈpyroe ɛsˈkeri ˈχoe aːˈmɛ",
-      "zazaki": "dulah ağa werişt bê êspar, dümilbazi da püroê, eskêri xoê ame",
+      "zazaki": "dûlah ağa werişt bê êspar, dümilbazi da püroê, eskêri xoê ame",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -14868,7 +14856,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dulah ağa werişt bê êspar, dümilbazi da püroê, eskêri xoê ame"
+          "value": "dûlah ağa werişt bê êspar, dümilbazi da püroê, eskêri xoê ame"
         },
         {
           "label": "ENGLISH",
@@ -14882,12 +14870,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l05.webp",
+          "image_url": "assets/s04_russian_l05.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l05.webp",
+          "image_url": "assets/s04_german_l05.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -14895,7 +14883,7 @@
         {
           "form": "dúl’ah",
           "ipa": "ˈdul.ah",
-          "zazaki": "dulah",
+          "zazaki": "dûlah",
           "lemma": "dulah",
           "display_gloss": "-Avdulah",
           "gloss_tr": "-Avdulah",
@@ -14904,7 +14892,7 @@
           "morphemes": [
             {
               "form": "dúl’ah",
-              "normalized": "dulah",
+              "normalized": "dûlah",
               "lemma": "dulah",
               "gloss": "-Avdulah",
               "pos": "",
@@ -15157,7 +15145,7 @@
       "text": "pyesé̱r. Avdúl’ah aγá vā ke e̱skéri χóera: t̮oad̮úh̔i mā h̔ā šuén’i",
       "lerch": "pyesé̱r. Avdúl’ah aγá vā ke e̱skéri χóera: t̮oad̮úh̔i mā h̔ā šuén’i",
       "ipa": "pjeˈsɛr avˈdul.ah aˈʁa vaː ke ɛsˈkeri ˈχoera t͡ʃoaˈd͡ʒuħi maː ħaː ˈʃwen.i",
-      "zazaki": "pyêser. Avdulah ağa va kê eskêri xoêra: çoacu'hi ma 'ha şwêni",
+      "zazaki": "pyêser. Avdûlah ağa va kê eskêri xoêra: çoacû'hi ma 'ha şwêni",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -15172,7 +15160,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "pyêser. Avdulah ağa va kê eskêri xoêra: çoacu'hi ma 'ha şwêni"
+          "value": "pyêser. Avdûlah ağa va kê eskêri xoêra: çoacû'hi ma 'ha şwêni"
         },
         {
           "label": "ENGLISH",
@@ -15186,12 +15174,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l06.webp",
+          "image_url": "assets/s04_russian_l06.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l06.webp",
+          "image_url": "assets/s04_german_l06.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -15222,7 +15210,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -15231,7 +15219,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -15371,7 +15359,7 @@
         {
           "form": "t̮oad̮úh̔i",
           "ipa": "t͡ʃoaˈd͡ʒuħi",
-          "zazaki": "çoacu'hi",
+          "zazaki": "çoacû'hi",
           "lemma": "toaduhi",
           "display_gloss": "children",
           "gloss_tr": "çocuklar",
@@ -15380,7 +15368,7 @@
           "morphemes": [
             {
               "form": "t̮oad̮úh̔i",
-              "normalized": "çoacu'hi",
+              "normalized": "çoacû'hi",
               "lemma": "toaduhi",
               "gloss": "children",
               "pos": "",
@@ -15501,12 +15489,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l07.webp",
+          "image_url": "assets/s04_russian_l07.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l07.webp",
+          "image_url": "assets/s04_german_l07.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -15763,8 +15751,8 @@
       "text": "mí̥ri māl sí̥mā́ri. E̱skéri vā ke Avdúl’ah aγaíra: pé̱ki, eféndim,",
       "lerch": "mí̥ri māl sí̥mā́ri. E̱skéri vā ke Avdúl’ah aγaíra: pé̱ki, eféndim,",
       "ipa": "ˈmɨri maːl ˈsɨˈmaːri ɛsˈkeri vaː ke avˈdul.ah aˈʁajra ˈpɛki eˈfendim",
-      "zazaki": "mıri mal sımari. Eskêri va kê Avdulah ağayra: peki, êfêndim,",
-      "source_note": "Probable Lerch/printing typo: `sí̥mā́ri` is expected to be `ší̥mā́ri`. The reader text shows the likely correction as `sımari (şımari?)`.",
+      "zazaki": "mıri mal sımari. Eskêri va kê Avdûlah ağayra: peki, êfêndim,",
+      "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
       "display_rows": [
@@ -15778,7 +15766,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "mıri mal sımari. Eskêri va kê Avdulah ağayra: peki, êfêndim,"
+          "value": "mıri mal sımari. Eskêri va kê Avdûlah ağayra: peki, êfêndim,"
         },
         {
           "label": "ENGLISH",
@@ -15787,21 +15775,17 @@
         {
           "label": "TURKISH",
           "value": "benim, mal sizin.' Ordu Avdulah Ağa'ya dedi ki: 'Peki efendim,"
-        },
-        {
-          "label": "EDITORIAL NOTE",
-          "value": "Probable Lerch/printing typo: `sí̥mā́ri` is expected to be `ší̥mā́ri`. The reader text shows the likely correction as `sımari (şımari?)`."
         }
       ],
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l08.webp",
+          "image_url": "assets/s04_russian_l08.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l08.webp",
+          "image_url": "assets/s04_german_l08.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -15958,7 +15942,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -15967,7 +15951,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -16062,15 +16046,7 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "\"Peki, efendım, Allah coni tu sağ bıdu, heta ki peynay ma nêmeru, tu ri çi çiniyu.\""
-      },
-      "editorial_notes": [
-        {
-          "type": "suspected_lerch_typo",
-          "line_id": "s04_l08",
-          "note": "Probable Lerch/printing typo: `sí̥mā́ri` is expected to be `ší̥mā́ri`. The reader text shows the likely correction as `sımari (şımari?)`.",
-          "confidence": "probable"
-        }
-      ]
+      }
     },
     {
       "id": "s04_l09",
@@ -16078,7 +16054,7 @@
       "text": "Aláh d̮ā́ni túe saγ bedú, he̱táke peíńai mā ńémeru, túeri t̮i t̮íńu.",
       "lerch": "Aláh d̮ā́ni túe saγ bedú, he̱táke peíńai mā ńémeru, túeri t̮i t̮íńu.",
       "ipa": "aˈlah ˈd͡ʒaːni ˈtwe saʁ beˈdu hɛˈtake ˈpejɲaj maː ˈɲemeru ˈtweri t͡ʃi ˈt͡ʃiɲu",
-      "zazaki": "Alah cani twê sağ bêdu, hetakê pêynyay ma nyêmêru, twêri çi çinyu.",
+      "zazaki": "Alah cani twê sağ bêdû, hetakê pêynyay ma nyêmêrû, twêri çi çinyû.",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -16093,7 +16069,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Alah cani twê sağ bêdu, hetakê pêynyay ma nyêmêru, twêri çi çinyu."
+          "value": "Alah cani twê sağ bêdû, hetakê pêynyay ma nyêmêrû, twêri çi çinyû."
         },
         {
           "label": "ENGLISH",
@@ -16107,12 +16083,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l09.webp",
+          "image_url": "assets/s04_russian_l09.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l09.webp",
+          "image_url": "assets/s04_german_l09.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -16212,7 +16188,7 @@
         {
           "form": "bedú,",
           "ipa": "beˈdu",
-          "zazaki": "bêdu,",
+          "zazaki": "bêdû,",
           "lemma": "bedu",
           "display_gloss": "may be",
           "gloss_tr": "olsun",
@@ -16221,7 +16197,7 @@
           "morphemes": [
             {
               "form": "bedú",
-              "normalized": "bêdu",
+              "normalized": "bêdû",
               "lemma": "bedu",
               "gloss": "may be",
               "pos": "",
@@ -16304,7 +16280,7 @@
         {
           "form": "ńémeru,",
           "ipa": "ˈɲemeru",
-          "zazaki": "nyêmêru,",
+          "zazaki": "nyêmêrû,",
           "lemma": "ne-",
           "display_gloss": "do not die",
           "gloss_tr": "ölmeyiz",
@@ -16324,7 +16300,7 @@
             },
             {
               "form": "meru",
-              "normalized": "mêru",
+              "normalized": "mêrû",
               "lemma": "meru",
               "gloss": "die",
               "pos": "",
@@ -16395,7 +16371,7 @@
         {
           "form": "t̮íńu.",
           "ipa": "ˈt͡ʃiɲu",
-          "zazaki": "çinyu.",
+          "zazaki": "çinyû.",
           "lemma": "tinu",
           "display_gloss": "is not",
           "gloss_tr": "yoktur",
@@ -16404,7 +16380,7 @@
           "morphemes": [
             {
               "form": "t̮íńu",
-              "normalized": "çinyu",
+              "normalized": "çinyû",
               "lemma": "tinu",
               "gloss": "is not",
               "pos": "",
@@ -16427,7 +16403,7 @@
       "text": "Avdúl’ah aγái vā ke: ā́ferem ōγíl.",
       "lerch": "Avdúl’ah aγái vā ke: ā́ferem ōγíl.",
       "ipa": "avˈdul.ah aˈʁaj vaː ke ˈaːferem oːˈʁil",
-      "zazaki": "Avdulah ağay va kê: afêrêm oğil.",
+      "zazaki": "Avdûlah ağay va kê: afêrêm oğil.",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -16442,7 +16418,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Avdulah ağay va kê: afêrêm oğil."
+          "value": "Avdûlah ağay va kê: afêrêm oğil."
         },
         {
           "label": "ENGLISH",
@@ -16456,12 +16432,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l10.webp",
+          "image_url": "assets/s04_russian_l10.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l10.webp",
+          "image_url": "assets/s04_german_l10.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -16469,7 +16445,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -16478,7 +16454,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -16616,7 +16592,7 @@
       "text": "Avdúl’ah aγái dṳ́milbā́zi dai pṳ́roe, e̱skéri χóe e̱rš kérd, šẹ̄",
       "lerch": "Avdúl’ah aγái dṳ́milbā́zi dai pṳ́roe, e̱skéri χóe e̱rš kérd, šẹ̄",
       "ipa": "avˈdul.ah aˈʁaj ˈdymilˈbaːzi daj ˈpyroe ɛsˈkeri ˈχoe ɛrʃ ˈkerd ʃe̝ː",
-      "zazaki": "Avdulah ağay dümilbazi day püroê, eskêri xoê erş kêrd, şê",
+      "zazaki": "Avdûlah ağay dümilbazi day püroê, eskêri xoê erş kêrd, şê",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -16631,7 +16607,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Avdulah ağay dümilbazi day püroê, eskêri xoê erş kêrd, şê"
+          "value": "Avdûlah ağay dümilbazi day püroê, eskêri xoê erş kêrd, şê"
         },
         {
           "label": "ENGLISH",
@@ -16645,12 +16621,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l11.webp",
+          "image_url": "assets/s04_russian_l11.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l11.webp",
+          "image_url": "assets/s04_german_l11.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -16658,7 +16634,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -16667,7 +16643,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -16897,7 +16873,7 @@
       "text": "diā́ri Mél’ekāni, auńā́ ke e̱skéri Χalé̱f aγái tā́bure bestā́. Avdúl’ah",
       "lerch": "diā́ri Mél’ekāni, auńā́ ke e̱skéri Χalé̱f aγái tā́bure bestā́. Avdúl’ah",
       "ipa": "ˈdjaːri ˈmel.ekaːni awˈɲaː ke ɛsˈkeri χaˈlɛf aˈʁaj ˈtaːbure besˈtaː avˈdul.ah",
-      "zazaki": "dyari Mêlêkani, awnya kê eskêri Xalef ağay taburê bêsta. Avdulah",
+      "zazaki": "dyari Mêlêkani, awnya kê eskêri Xalef ağay tabûrê bêsta. Avdûlah",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -16912,7 +16888,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dyari Mêlêkani, awnya kê eskêri Xalef ağay taburê bêsta. Avdulah"
+          "value": "dyari Mêlêkani, awnya kê eskêri Xalef ağay tabûrê bêsta. Avdûlah"
         },
         {
           "label": "ENGLISH",
@@ -16926,12 +16902,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l12.webp",
+          "image_url": "assets/s04_russian_l12.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l12.webp",
+          "image_url": "assets/s04_german_l12.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -17100,7 +17076,7 @@
         {
           "form": "tā́bure",
           "ipa": "ˈtaːbure",
-          "zazaki": "taburê",
+          "zazaki": "tabûrê",
           "lemma": "tabure",
           "display_gloss": "cartridges",
           "gloss_tr": "fişekler",
@@ -17109,7 +17085,7 @@
           "morphemes": [
             {
               "form": "tā́bure",
-              "normalized": "taburê",
+              "normalized": "tabûrê",
               "lemma": "tabure",
               "gloss": "cartridges",
               "pos": "",
@@ -17146,7 +17122,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -17155,7 +17131,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -17207,12 +17183,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l13.webp",
+          "image_url": "assets/s04_russian_l13.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l13.webp",
+          "image_url": "assets/s04_german_l13.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -17538,7 +17514,7 @@
       "text": "šyẹ̄́ri bí̥ksi hé̱mine. E̱skéri Avdúl’ah aγái šẹ̄ e̱skéri Χalé̱f aγái",
       "lerch": "šyẹ̄́ri bí̥ksi hé̱mine. E̱skéri Avdúl’ah aγái šẹ̄ e̱skéri Χalé̱f aγái",
       "ipa": "ˈʃje̝ːri ˈbɨksi ˈhɛmine ɛsˈkeri avˈdul.ah aˈʁaj ʃe̝ː ɛsˈkeri χaˈlɛf aˈʁaj",
-      "zazaki": "şyêri bıksi heminê. Eskêri Avdulah ağay şê eskêri Xalef ağay",
+      "zazaki": "şyêri bıksi heminê. Eskêri Avdûlah ağay şê eskêri Xalef ağay",
       "source_note": "",
       "russian_print_page": 106,
       "russian_scan_page": 120,
@@ -17553,7 +17529,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "şyêri bıksi heminê. Eskêri Avdulah ağay şê eskêri Xalef ağay"
+          "value": "şyêri bıksi heminê. Eskêri Avdûlah ağay şê eskêri Xalef ağay"
         },
         {
           "label": "ENGLISH",
@@ -17567,12 +17543,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l14.webp",
+          "image_url": "assets/s04_russian_l14.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l14.webp",
+          "image_url": "assets/s04_german_l14.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -17683,7 +17659,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -17692,7 +17668,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -17859,12 +17835,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s04_russian_l15.webp",
+          "image_url": "assets/s04_russian_l15.jpg",
           "source": "Lerch line crop; Russian printed page 106, scan page 120"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s04_german_l15.webp",
+          "image_url": "assets/s04_german_l15.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -18145,7 +18121,7 @@
       "text": "kéri Adúl’ah aγái peíra kaut, bā́na dé̱wi pyéru tá’alan ké̱rdi, su-",
       "lerch": "kéri Adúl’ah aγái peíra kaut, bā́na dé̱wi pyéru tá’alan ké̱rdi, su-",
       "ipa": "ˈkeri aˈdul.ah aˈʁaj ˈpejra kawt ˈbaːna ˈdɛwi ˈpjeru ˈta.alan ˈkɛrdi su",
-      "zazaki": "kêri Adulah ağay pêyra kawt, bana dewi pyêru taalan kerdi, su-",
+      "zazaki": "kêri Adûlah ağay pêyra kawt, bana dewi pyêrû taalan kerdi, sû-",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -18160,7 +18136,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kêri Adulah ağay pêyra kawt, bana dewi pyêru taalan kerdi, su-"
+          "value": "kêri Adûlah ağay pêyra kawt, bana dewi pyêrû taalan kerdi, sû-"
         },
         {
           "label": "ENGLISH",
@@ -18174,12 +18150,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l01.webp",
+          "image_url": "assets/s05_russian_l01.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l01.webp",
+          "image_url": "assets/s05_german_l01.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -18210,7 +18186,7 @@
         {
           "form": "Adúl’ah",
           "ipa": "aˈdul.ah",
-          "zazaki": "Adulah",
+          "zazaki": "Adûlah",
           "lemma": "adulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -18219,7 +18195,7 @@
           "morphemes": [
             {
               "form": "Adúl’ah",
-              "normalized": "Adulah",
+              "normalized": "Adûlah",
               "lemma": "adulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -18348,7 +18324,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêru",
+          "zazaki": "pyêrû",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -18357,7 +18333,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêru",
+              "normalized": "pyêrû",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -18417,7 +18393,7 @@
         {
           "form": "su-",
           "ipa": "su",
-          "zazaki": "su-",
+          "zazaki": "sû-",
           "lemma": "su",
           "display_gloss": "shepherds-",
           "gloss_tr": "çobanlar-",
@@ -18426,7 +18402,7 @@
           "morphemes": [
             {
               "form": "su",
-              "normalized": "su",
+              "normalized": "sû",
               "lemma": "su",
               "gloss": "shepherds-",
               "pos": "",
@@ -18449,7 +18425,7 @@
       "text": "aneí Ńerbid̮ān pyéru kíšti, pé̱si d̮īne pyéru ārd.",
       "lerch": "aneí Ńerbid̮ān pyéru kíšti, pé̱si d̮īne pyéru ārd.",
       "ipa": "aˈnej ɲerbid͡ʒaːn ˈpjeru ˈkiʃti ˈpɛsi d͡ʒiːne ˈpjeru aːrd",
-      "zazaki": "anêy Nyêrbican pyêru kişti, pesi cinê pyêru ard.",
+      "zazaki": "anêy Nyêrbican pyêrû kişti, pesi cinê pyêrû ard.",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -18464,7 +18440,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "anêy Nyêrbican pyêru kişti, pesi cinê pyêru ard."
+          "value": "anêy Nyêrbican pyêrû kişti, pesi cinê pyêrû ard."
         },
         {
           "label": "ENGLISH",
@@ -18478,12 +18454,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l02.webp",
+          "image_url": "assets/s05_russian_l02.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l02.webp",
+          "image_url": "assets/s05_german_l02.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -18548,7 +18524,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêru",
+          "zazaki": "pyêrû",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -18557,7 +18533,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêru",
+              "normalized": "pyêrû",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -18619,20 +18595,20 @@
           "ipa": "d͡ʒiːne",
           "zazaki": "cinê",
           "lemma": "dine",
-          "display_gloss": "women",
-          "gloss_tr": "kadınlar",
-          "gloss_de": "Frauen",
+          "display_gloss": "herds",
+          "gloss_tr": "sürüler",
+          "gloss_de": "Herden",
           "pos": "",
           "morphemes": [
             {
               "form": "d̮īne",
               "normalized": "cinê",
               "lemma": "dine",
-              "gloss": "women",
+              "gloss": "herds",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
-              "evidence": "Bingöl has pes û ceni here, confirming cinê/ceni means women, not herds.",
+              "evidence": "Current word-level token gloss; no confident internal split applied.",
               "notes": ""
             }
           ]
@@ -18640,7 +18616,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêru",
+          "zazaki": "pyêrû",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -18649,7 +18625,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêru",
+              "normalized": "pyêrû",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -18724,12 +18700,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l03.webp",
+          "image_url": "assets/s05_russian_l03.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l03.webp",
+          "image_url": "assets/s05_german_l03.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -18976,8 +18952,8 @@
       "text": "aγára vā: e̱z kaúta beh̔ti túe, Avdúl’ah aγái Ké̱lāṅ é̱skéri me pyéru",
       "lerch": "aγára vā: e̱z kaúta beh̔ti túe, Avdúl’ah aγái Ké̱lāṅ é̱skéri me pyéru",
       "ipa": "aˈʁara vaː ɛz ˈkawta beħti ˈtwe avˈdul.ah aˈʁaj ˈkɛlaːŋ ˈɛsˈkeri me ˈpjeru",
-      "zazaki": "ağara va: ez kawta bê'hti twê, Avdulah ağay Kelang eskêri mê pyêru",
-      "source_note": "Probable Lerch/printing typo: `é̱skéri` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
+      "zazaki": "ağara va: ez kawta bê'hti twê, Avdûlah ağay Kelang eskêri mê pyêrû",
+      "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
       "display_rows": [
@@ -18991,7 +18967,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ağara va: ez kawta bê'hti twê, Avdulah ağay Kelang eskêri mê pyêru"
+          "value": "ağara va: ez kawta bê'hti twê, Avdûlah ağay Kelang eskêri mê pyêrû"
         },
         {
           "label": "ENGLISH",
@@ -19000,21 +18976,17 @@
         {
           "label": "TURKISH",
           "value": "Ağa'ya gidip dedi ki: 'Senin himayene geldim; Kelanlı Avdulah Ağa bütün ordumu öldürdü,"
-        },
-        {
-          "label": "EDITORIAL NOTE",
-          "value": "Probable Lerch/printing typo: `é̱skéri` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed."
         }
       ],
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l04.webp",
+          "image_url": "assets/s05_russian_l04.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l04.webp",
+          "image_url": "assets/s05_german_l04.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -19171,7 +19143,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -19180,7 +19152,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -19286,7 +19258,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêru",
+          "zazaki": "pyêrû",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -19295,7 +19267,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêru",
+              "normalized": "pyêrû",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -19310,15 +19282,7 @@
       "phrase_matches": [],
       "hidden_rows": {
         "bingol_transcription": "Heyder ağa va ki Xelef ağay ra:"
-      },
-      "editorial_notes": [
-        {
-          "type": "suspected_lerch_typo",
-          "line_id": "s05_l04",
-          "note": "Probable Lerch/printing typo: `é̱skéri` has two vowel accent marks. Preserved in the Lerch row; no reader correction because the modern Zazaki spelling is not changed.",
-          "confidence": "probable"
-        }
-      ]
+      }
     },
     {
       "id": "s05_l05",
@@ -19326,7 +19290,7 @@
       "text": "kišt, dé̱wi me pyéru ve̱šnaí, tá’alan ké̱rdi. Hʿaidér aγá vā ke Χa-",
       "lerch": "kišt, dé̱wi me pyéru ve̱šnaí, tá’alan ké̱rdi. Hʿaidér aγá vā ke Χa-",
       "ipa": "kiʃt ˈdɛwi me ˈpjeru vɛʃˈnaj ˈta.alan ˈkɛrdi ħajˈder aˈʁa vaː ke χa",
-      "zazaki": "kişt, dewi mê pyêru veşnay, taalan kerdi. 'Haydêr ağa va kê Xa-",
+      "zazaki": "kişt, dewi mê pyêrû veşnay, taalan kerdi. 'Haydêr ağa va kê Xa-",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -19341,7 +19305,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kişt, dewi mê pyêru veşnay, taalan kerdi. 'Haydêr ağa va kê Xa-"
+          "value": "kişt, dewi mê pyêrû veşnay, taalan kerdi. 'Haydêr ağa va kê Xa-"
         },
         {
           "label": "ENGLISH",
@@ -19355,12 +19319,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l05.webp",
+          "image_url": "assets/s05_russian_l05.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l05.webp",
+          "image_url": "assets/s05_german_l05.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -19437,7 +19401,7 @@
         {
           "form": "pyéru",
           "ipa": "ˈpjeru",
-          "zazaki": "pyêru",
+          "zazaki": "pyêrû",
           "lemma": "pyeru",
           "display_gloss": "all",
           "gloss_tr": "hepsi",
@@ -19446,7 +19410,7 @@
           "morphemes": [
             {
               "form": "pyéru",
-              "normalized": "pyêru",
+              "normalized": "pyêrû",
               "lemma": "pyeru",
               "gloss": "all",
               "pos": "",
@@ -19682,12 +19646,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l06.webp",
+          "image_url": "assets/s05_russian_l06.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l06.webp",
+          "image_url": "assets/s05_german_l06.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -20030,12 +19994,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l07.webp",
+          "image_url": "assets/s05_russian_l07.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l07.webp",
+          "image_url": "assets/s05_german_l07.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -20316,7 +20280,7 @@
       "text": "bé̱h̔ti túe, bye me bé̱re kei Avdúl’ah aγái, mā pya wé̱ši ke, t̮i̥káske",
       "lerch": "bé̱h̔ti túe, bye me bé̱re kei Avdúl’ah aγái, mā pya wé̱ši ke, t̮i̥káske",
       "ipa": "ˈbɛħti ˈtwe bje me ˈbɛre kej avˈdul.ah aˈʁaj maː pja ˈwɛʃi ke t͡ʃɨˈkaske",
-      "zazaki": "be'hti twê, byê mê berê kêy Avdulah ağay, ma pya weşi kê, çıkaskê",
+      "zazaki": "be'hti twê, byê mê berê kêy Avdûlah ağay, ma pya weşi kê, çıkaskê",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -20331,7 +20295,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "be'hti twê, byê mê berê kêy Avdulah ağay, ma pya weşi kê, çıkaskê"
+          "value": "be'hti twê, byê mê berê kêy Avdûlah ağay, ma pya weşi kê, çıkaskê"
         },
         {
           "label": "ENGLISH",
@@ -20345,12 +20309,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l08.webp",
+          "image_url": "assets/s05_russian_l08.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l08.webp",
+          "image_url": "assets/s05_german_l08.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -20496,7 +20460,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -20505,7 +20469,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -20677,7 +20641,7 @@
       "text": "keífi túe wazén’u e̱z māl dā́na túe. Hʿaidér aγá we̱ríšt be espā́r,",
       "lerch": "keífi túe wazén’u e̱z māl dā́na túe. Hʿaidér aγá we̱ríšt be espā́r,",
       "ipa": "ˈkejfi ˈtwe waˈzen.u ɛz maːl ˈdaːna ˈtwe ħajˈder aˈʁa wɛˈriʃt be esˈpaːr",
-      "zazaki": "kêyfi twê wazênu ez mal dana twê. 'Haydêr ağa werişt bê êspar,",
+      "zazaki": "kêyfi twê wazênû ez mal dana twê. 'Haydêr ağa werişt bê êspar,",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -20692,7 +20656,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kêyfi twê wazênu ez mal dana twê. 'Haydêr ağa werişt bê êspar,"
+          "value": "kêyfi twê wazênû ez mal dana twê. 'Haydêr ağa werişt bê êspar,"
         },
         {
           "label": "ENGLISH",
@@ -20706,12 +20670,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l09.webp",
+          "image_url": "assets/s05_russian_l09.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l09.webp",
+          "image_url": "assets/s05_german_l09.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -20765,7 +20729,7 @@
         {
           "form": "wazén’u",
           "ipa": "waˈzen.u",
-          "zazaki": "wazênu",
+          "zazaki": "wazênû",
           "lemma": "wastene",
           "display_gloss": "you want",
           "gloss_tr": "istersin",
@@ -21015,7 +20979,7 @@
       "text": "kaut Χalé̱f aγái ve̱r, āmeí ši Sivā́n, kaúti kei Avdúl’ah aγái.",
       "lerch": "kaut Χalé̱f aγái ve̱r, āmeí ši Sivā́n, kaúti kei Avdúl’ah aγái.",
       "ipa": "kawt χaˈlɛf aˈʁaj vɛr aːˈmej ʃi siˈvaːn ˈkawti kej avˈdul.ah aˈʁaj",
-      "zazaki": "kawt Xalef ağay ver, amêy şi Sivan, kawti kêy Avdulah ağay.",
+      "zazaki": "kawt Xalef ağay ver, amêy şi Sivan, kawti kêy Avdûlah ağay.",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -21030,7 +20994,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kawt Xalef ağay ver, amêy şi Sivan, kawti kêy Avdulah ağay."
+          "value": "kawt Xalef ağay ver, amêy şi Sivan, kawti kêy Avdûlah ağay."
         },
         {
           "label": "ENGLISH",
@@ -21044,12 +21008,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l10.webp",
+          "image_url": "assets/s05_russian_l10.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l10.webp",
+          "image_url": "assets/s05_german_l10.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -21264,7 +21228,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -21273,7 +21237,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -21319,7 +21283,7 @@
       "text": "Haidér aγá hī́rye gelā́ṅke šẹ̄ launā́ Avdúl’ah aγá líṅgeru vā ke:",
       "lerch": "Haidér aγá hī́rye gelā́ṅke šẹ̄ launā́ Avdúl’ah aγá líṅgeru vā ke:",
       "ipa": "hajˈder aˈʁa ˈhiːrje geˈlaːŋke ʃe̝ː lawˈnaː avˈdul.ah aˈʁa ˈliŋgeru vaː ke",
-      "zazaki": "Haydêr ağa hiryê gêlankê şê lawna Avdulah ağa lingêru va kê:",
+      "zazaki": "Haydêr ağa hiryê gêlankê şê lawna Avdûlah ağa lingêrû va kê:",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -21334,7 +21298,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Haydêr ağa hiryê gêlankê şê lawna Avdulah ağa lingêru va kê:"
+          "value": "Haydêr ağa hiryê gêlankê şê lawna Avdûlah ağa lingêrû va kê:"
         },
         {
           "label": "ENGLISH",
@@ -21348,12 +21312,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l11.webp",
+          "image_url": "assets/s05_russian_l11.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l11.webp",
+          "image_url": "assets/s05_german_l11.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -21499,7 +21463,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -21508,7 +21472,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -21545,7 +21509,7 @@
         {
           "form": "líṅgeru",
           "ipa": "ˈliŋgeru",
-          "zazaki": "lingêru",
+          "zazaki": "lingêrû",
           "lemma": "lingeru",
           "display_gloss": "feet",
           "gloss_tr": "ayaklar",
@@ -21554,7 +21518,7 @@
           "morphemes": [
             {
               "form": "líṅgeru",
-              "normalized": "lingêru",
+              "normalized": "lingêrû",
               "lemma": "lingeru",
               "gloss": "feet",
               "pos": "",
@@ -21623,7 +21587,7 @@
       "text": "te aγái ḗ̱n’a gelā́ṅke bi̥dí rid̮aī me Χalé̱f aγái. Avdúl’ah aγá vā",
       "lerch": "te aγái ḗ̱n’a gelā́ṅke bi̥dí rid̮aī me Χalé̱f aγái. Avdúl’ah aγá vā",
       "ipa": "te aˈʁaj ˈɛːn.a geˈlaːŋke bɨˈdi rid͡ʒaj me χaˈlɛf aˈʁaj avˈdul.ah aˈʁa vaː",
-      "zazaki": "tê ağay ena gêlankê bıdi ricay mê Xalef ağay. Avdulah ağa va",
+      "zazaki": "tê ağay ena gêlankê bıdi ricay mê Xalef ağay. Avdûlah ağa va",
       "source_note": "",
       "russian_print_page": 107,
       "russian_scan_page": 121,
@@ -21638,7 +21602,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "tê ağay ena gêlankê bıdi ricay mê Xalef ağay. Avdulah ağa va"
+          "value": "tê ağay ena gêlankê bıdi ricay mê Xalef ağay. Avdûlah ağa va"
         },
         {
           "label": "ENGLISH",
@@ -21652,12 +21616,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l12.webp",
+          "image_url": "assets/s05_russian_l12.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l12.webp",
+          "image_url": "assets/s05_german_l12.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -21872,7 +21836,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -21881,7 +21845,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -21979,12 +21943,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l13.webp",
+          "image_url": "assets/s05_russian_l13.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l13.webp",
+          "image_url": "assets/s05_german_l13.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -22328,12 +22292,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l14.webp",
+          "image_url": "assets/s05_russian_l14.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l14.webp",
+          "image_url": "assets/s05_german_l14.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -22654,12 +22618,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s05_russian_l15.webp",
+          "image_url": "assets/s05_russian_l15.jpg",
           "source": "Lerch line crop; Russian printed page 107, scan page 121"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s05_german_l15.webp",
+          "image_url": "assets/s05_german_l15.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -22975,7 +22939,7 @@
       "text": "dúl’a aγá sé̱reru šẹ̄ Χalé̱f aγá ārd, launā́ Avdúl’ah aγá líṅgeru,",
       "lerch": "dúl’a aγá sé̱reru šẹ̄ Χalé̱f aγá ārd, launā́ Avdúl’ah aγá líṅgeru,",
       "ipa": "ˈdul.a aˈʁa ˈsɛreru ʃe̝ː χaˈlɛf aˈʁa aːrd lawˈnaː avˈdul.ah aˈʁa ˈliŋgeru",
-      "zazaki": "dula ağa serêru şê Xalef ağa ard, lawna Avdulah ağa lingêru,",
+      "zazaki": "dûla ağa serêrû şê Xalef ağa ard, lawna Avdûlah ağa lingêrû,",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -22990,7 +22954,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dula ağa serêru şê Xalef ağa ard, lawna Avdulah ağa lingêru,"
+          "value": "dûla ağa serêrû şê Xalef ağa ard, lawna Avdûlah ağa lingêrû,"
         },
         {
           "label": "ENGLISH",
@@ -23004,12 +22968,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s06_russian_l01.webp",
+          "image_url": "assets/s06_russian_l01.jpg",
           "source": "Lerch line crop; Russian printed page 108, scan page 122"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s06_german_l01.webp",
+          "image_url": "assets/s06_german_l01.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -23017,7 +22981,7 @@
         {
           "form": "dúl’a",
           "ipa": "ˈdul.a",
-          "zazaki": "dula",
+          "zazaki": "dûla",
           "lemma": "dula",
           "display_gloss": "-Avdulah",
           "gloss_tr": "-Avdulah",
@@ -23026,7 +22990,7 @@
           "morphemes": [
             {
               "form": "dúl’a",
-              "normalized": "dula",
+              "normalized": "dûla",
               "lemma": "dula",
               "gloss": "-Avdulah",
               "pos": "",
@@ -23063,7 +23027,7 @@
         {
           "form": "sé̱reru",
           "ipa": "ˈsɛreru",
-          "zazaki": "serêru",
+          "zazaki": "serêrû",
           "lemma": "sereru",
           "display_gloss": "on the head",
           "gloss_tr": "başından",
@@ -23072,7 +23036,7 @@
           "morphemes": [
             {
               "form": "sé̱reru",
-              "normalized": "serêru",
+              "normalized": "serêrû",
               "lemma": "sereru",
               "gloss": "on the head",
               "pos": "",
@@ -23201,7 +23165,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -23210,7 +23174,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -23247,7 +23211,7 @@
         {
           "form": "líṅgeru,",
           "ipa": "ˈliŋgeru",
-          "zazaki": "lingêru,",
+          "zazaki": "lingêrû,",
           "lemma": "lingeru",
           "display_gloss": "feet",
           "gloss_tr": "ayaklar",
@@ -23256,7 +23220,7 @@
           "morphemes": [
             {
               "form": "líṅgeru",
-              "normalized": "lingêru",
+              "normalized": "lingêrû",
               "lemma": "lingeru",
               "gloss": "feet",
               "pos": "",
@@ -23279,7 +23243,7 @@
       "text": "Avdúl’ah aγá launā́ Χalé̱f aγá dé̱stru, pya be wé̱ši, χalaí dai pyéra.",
       "lerch": "Avdúl’ah aγá launā́ Χalé̱f aγá dé̱stru, pya be wé̱ši, χalaí dai pyéra.",
       "ipa": "avˈdul.ah aˈʁa lawˈnaː χaˈlɛf aˈʁa ˈdɛstru pja be ˈwɛʃi χaˈlaj daj ˈpjera",
-      "zazaki": "Avdulah ağa lawna Xalef ağa destru, pya bê weşi, xalay day pyêra.",
+      "zazaki": "Avdûlah ağa lawna Xalef ağa destrû, pya bê weşi, xalay day pyêra.",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -23294,7 +23258,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Avdulah ağa lawna Xalef ağa destru, pya bê weşi, xalay day pyêra."
+          "value": "Avdûlah ağa lawna Xalef ağa destrû, pya bê weşi, xalay day pyêra."
         },
         {
           "label": "ENGLISH",
@@ -23308,12 +23272,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s06_russian_l02.webp",
+          "image_url": "assets/s06_russian_l02.jpg",
           "source": "Lerch line crop; Russian printed page 108, scan page 122"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s06_german_l02.webp",
+          "image_url": "assets/s06_german_l02.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -23321,7 +23285,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -23330,7 +23294,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -23436,7 +23400,7 @@
         {
           "form": "dé̱stru,",
           "ipa": "ˈdɛstru",
-          "zazaki": "destru,",
+          "zazaki": "destrû,",
           "lemma": "destru",
           "display_gloss": "hand",
           "gloss_tr": "el",
@@ -23445,7 +23409,7 @@
           "morphemes": [
             {
               "form": "dé̱stru",
-              "normalized": "destru",
+              "normalized": "destrû",
               "lemma": "destru",
               "gloss": "hand",
               "pos": "",
@@ -23628,7 +23592,7 @@
       "text": "Χaidér aγá we̱rí̥št, χati̥r waišt Avdúl’ah aγāira, Χalé̱f aγá ge-",
       "lerch": "Χaidér aγá we̱rí̥št, χati̥r waišt Avdúl’ah aγāira, Χalé̱f aγá ge-",
       "ipa": "χajˈder aˈʁa wɛˈrɨʃt χatɨr wajʃt avˈdul.ah aʁaːjra χaˈlɛf aˈʁa ge",
-      "zazaki": "Xaydêr ağa werışt, xatır wayşt Avdulah ağayra, Xalef ağa gê-",
+      "zazaki": "Xaydêr ağa werışt, xatır wayşt Avdûlah ağayra, Xalef ağa gê-",
       "source_note": "",
       "russian_print_page": 108,
       "russian_scan_page": 122,
@@ -23643,7 +23607,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Xaydêr ağa werışt, xatır wayşt Avdulah ağayra, Xalef ağa gê-"
+          "value": "Xaydêr ağa werışt, xatır wayşt Avdûlah ağayra, Xalef ağa gê-"
         },
         {
           "label": "ENGLISH",
@@ -23657,12 +23621,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s06_russian_l03.webp",
+          "image_url": "assets/s06_russian_l03.jpg",
           "source": "Lerch line crop; Russian printed page 108, scan page 122"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s06_german_l03.webp",
+          "image_url": "assets/s06_german_l03.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -23785,7 +23749,7 @@
         {
           "form": "Avdúl’ah",
           "ipa": "avˈdul.ah",
-          "zazaki": "Avdulah",
+          "zazaki": "Avdûlah",
           "lemma": "avdulah",
           "display_gloss": "Avdulah, personal name",
           "gloss_tr": "Avdulah, kişi adı",
@@ -23794,7 +23758,7 @@
           "morphemes": [
             {
               "form": "Avdúl’ah",
-              "normalized": "Avdulah",
+              "normalized": "Avdûlah",
               "lemma": "avdulah",
               "gloss": "Avdulah, personal name",
               "pos": "",
@@ -23949,12 +23913,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/s06_russian_l04.webp",
+          "image_url": "assets/s06_russian_l04.jpg",
           "source": "Lerch line crop; Russian printed page 108, scan page 122"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/s06_german_l04.webp",
+          "image_url": "assets/s06_german_l04.jpg",
           "source": "Müller 1865 German line crop"
         }
       ],
