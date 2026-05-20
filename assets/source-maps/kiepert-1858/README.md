@@ -12,6 +12,6 @@ The crops here come from the local full-resolution sheet at:
 ## Crops
 
 - `kiepert-1858-palu-sivan-hani-region.webp`: wider Palu-Sivan-Hani crop, showing Palu, Tschewlü/Bingöl, Sivan Maaden, Kaschan, Melken, Hini/Hani, and nearby labels.
-- `kiepert-1858-kaschan-sivan-maaden.webp`: close crop showing `Kaschan` north of `Sivan Maaden`; this is the strongest map witness for Lerch's note that Hassan's village Kassau appears as Kaschan in Kiepert. The exact modern match is ambiguous, with both Günkondu/Kasan and the Doğanlı-area Kaşan/Qaşan name kept as working possibilities.
+- `kiepert-1858-kaschan-sivan-maaden.webp`: close crop showing `Kaschan` north of `Sivan Maaden`; keep as a map witness for the similar-sounding local names, but not as stronger evidence than the common `Kasan/Kasun = Günkondu` identification for Hassan's village.
 - `kiepert-1858-schel-gjaurkoei-hini.webp`: close crop around Gjaurköi and Hini/Hani, preserving the Schel/Schel-like label relevant to the Şelê/Sele place-name discussion.
 - `kiepert-1858-melken-sivan-hini.webp`: close crop showing `Melken` south of Sivan Maaden and northwest of Hini/Hani; this strengthens the `Melêkang/Melekan = Sarıbudak` working match.

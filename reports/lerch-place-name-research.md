@@ -26,7 +26,7 @@ The local Kiepert sheet at `C:\Users\messy\OneDrive\Documents\Language\Z\map-ove
 - `kiepert-1858-schel-gjaurkoei-hini.webp`: close crop around Gjaurköi and Hini/Hani, including the Schel/Schel-like map label relevant to the Şelê/Sele discussion.
 - `kiepert-1858-melken-sivan-hini.webp`: close crop showing Melken south of Sivan Maaden and northwest of Hini/Hani.
 
-This map strengthens Lerch's own cross-reference because Lerch says Hassan was from Kassau, "in Kiepert: Kaschan." The modern identification is now best kept as two alternatives. One is the common published match `Kasan/Kasun = Günkondu`. The other is a separate `Kaşan/Qaşan` name around Doğanlı/Kelahsı: Köse's 1841 Sivan table lists `Kaşan` as row 3 and `Kasan/Günkondu` as row 13, while Atan's Genç thesis and Cewlik's local place-name list both preserve `Kaşan/Qaşan` with Doğanlı/Kelahsı. Because Kiepert's `Kaschan` sits closer to the Murat-side line than Günkondu seems to, the Doğanlı-area Kaşan/Qaşan candidate should be shown explicitly rather than hidden under Günkondu.
+For Hassan's village, keep the common published identification `Kasan/Kasun = Günkondu`. Köse's 1841 Sivan table lists `Kaşan` as row 3 and `Kasan/Günkondu` as row 13, while Atan's Genç thesis and Cewlik's local place-name list both preserve `Kaşan/Qaşan` with Doğanlı/Kelahsı. Since Hassan's own village name is written as Kasan/Kassau, not with an š sound, the Doğanlı-area `Kaşan/Qaşan` is best treated as a separate, similar-sounding place. Kiepert's `Kaschan` may refer to that separate place; Kasan/Günkondu may simply have been too small to appear on the map.
 
 The same map also shows `Melken` south of Sivan Maaden and northwest of Hini/Hani. That placement strengthens the source-supported `Melêkang/Melekan = Sarıbudak` match, since Samuk/Köse/Cewlik already preserve Melekan/Melikan in the Servi/Sivan village lists.
 
@@ -39,8 +39,7 @@ For the Sivan-Nyêrib story, the map's Schel/Schel-like label near Gjaurköi nor
 | Lerch / working name | Modern Turkish name | Google Maps |
 |---|---|---|
 | Sivan | Servi, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=Servi%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
-| Kasan / Kasun, one working match for Kassau/Kaschan | Günkondu, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=G%C3%BCnkondu%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
-| Kaşan / Qaşan, alternate working match for Kiepert Kaschan | Doğanlı/Kelahsı çevresi, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=Do%C4%9Fanl%C4%B1%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
+| Kasan / Kassau / Kaschan | Günkondu, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=G%C3%BCnkondu%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
 | Fatrakom | Yatansöğüt, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=Yatans%C3%B6%C4%9F%C3%BCt%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
 | Hopsor / Hapsor | Ericek, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=Ericek%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
 | Tenik / Tinik | Doludere, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=Doludere%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
