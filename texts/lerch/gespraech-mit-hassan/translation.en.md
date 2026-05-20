@@ -64,13 +64,11 @@ Have you seen many feuds?
 
 I saw many feuds.
 
-By my father, I saw the feud between Nerib and Hyeni; I went to the feud between Nerib and Hyeni, and to the feud between Ahmed Beg and Sivan;
+By my father, I saw the feud between Nyêrib and Hyêni; I went to the feud between Nyêrib and Hyêni and to the feud between Ahmed Beg and Sivan; I was there. I saw the feud between Sivan and Avdula Beg; I was there; I saw the feud between Karbegan and Sivan; I was there, and the feud between Weshin and Sivan, I saw; I was there.
 
-I was there. I saw the feud between Sivan and Avdula Beg; I was there.
+Those were tribal feuds.
 
-I saw the feud between Karbegan and Sivan; I was there, and the feud between Weshin and Sivan, I saw; I was there.
-
-Those were tribal feuds. I do not fear feuds.
+I do not fear feuds.
 
 Can you not tell the feud between Sivan and Avdula Beg?
 

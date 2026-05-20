@@ -64,13 +64,11 @@ Sonbaharın başında aşağı geliriz.
 
 Çok kavga gördüm.
 
-Babamın hakkı için, Nyêrib ile Hyêni'nin kavgasını gördüm; Nyêrib ile Hyêni'nin kavgasına, Ahmed Beg ile Sivan'ın kavgasına gittim;
+Babamın hakkı için, Nyêrib ile Hyêni'nin kavgasını gördüm; Nyêrib ile Hyêni'nin kavgasına, Ahmed Beg ile Sivan'ın kavgasına gittim; oradaydım. Sivan ile Avdula Beg'in kavgasını gördüm; oradaydım; Karbegan ile Sivan'ın kavgasını gördüm; oradaydım, Weşin ile Sivan'ın kavgasını gördüm; oradaydım.
 
-Oradaydım. Sivan ile Avdula Beg'in kavgasını gördüm; oradaydım.
+Onlar aşiret kavgalarıydı.
 
-Karbegan ile Sivan'ın kavgasını gördüm; oradaydım, Weşin ile Sivan'ın kavgasını gördüm; oradaydım.
-
-Onlar aşiret kavgalarıydı. Ben kavgadan korkmam.
+Kavgadan korkmam.
 
 Sivan ile Avdula Beg'in kavgasını anlatamaz mısın?
 

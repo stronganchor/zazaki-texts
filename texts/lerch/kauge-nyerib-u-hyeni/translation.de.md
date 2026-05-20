@@ -74,15 +74,17 @@ Vier und dreissig Mann aus Daqma Baeg's Heer wurden getödtet (und) dasselbe flo
 
 Xalef Agha's Heer verfolgte es, drang in die Stadt, brannte einen Mahal nieder, schlug den Kopf des Xalil efendi ab, brachte ihn dem Xalef Agha.
 
-Daqma Baeg sagte: Verzeihung, mein Herr!
+Daqma Bey sagte: 'Gnade, mein Herr. Ich werde nicht mehr kämpfen; mir fehlt ein Heer.'
 
-ich werde nicht mehr schlagen, mir fehlt es an Truppen.
+Xalef Agha sandte Daqma Bey Nachricht: 'Komm aus der Stadt heraus; ich komme, um die Stadt zu verbrennen.'
 
-Xalef Agha sandte einen Boten dem Daqma Baeg und liess ihm sagen: verlasse die Stadt, ich komme die Stadt verbrennen.
+Daqma Bey sandte Xalef Agha sofort einen Pelz und sagte: 'Gnade, mein Herr. Ich habe niemanden; ich kann nicht kämpfen. Warum willst du mit mir kämpfen?'
 
-Daqma Baeg sandte sogleich einen Pelz dem Xalef Agha und liess sagen: Verzeihung (Gnade), mein Herr, ich habe Niemand, kann mich nicht schlagen, warum willst du dich mit mir schlagen? ich gehe nicht gegen dich.
+'Ich komme nicht gegen dich.'
 
-Xalef Agha sagte: ohne Heer will ich dich besiegen, komme mit mir kämpfen, in drei Tagen werden wir uns schlagen, ich werde Niemanden weder aus deinem Heere, noch aus deiner Stadt verschonen, werde Alle, werde dich tödten (und) dein Weib wegführen.
+Xalef Agha sagte: 'Komm; ich gebe dir Soldaten, geh und kämpfe mit mir. Bis zu drei Tage werden wir kämpfen; ich werde niemanden aus deinem Heer und deiner Stadt verschonen, alle werde ich töten, und dich werde ich töten.'
+
+'Auch deine Frau werde ich nehmen.'
 
 Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: gieb mir zehn Tage Frist.
 

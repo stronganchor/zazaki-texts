@@ -64,7 +64,9 @@ Ahmed seslenip dedi ki: 'Allah bana izin versin, önce ben seni kendi elimle öl
 
 Dayısı Ahmed'i öldürmeye gitti.
 
-Ahmed duvarda bir açıklık gördü; duvarda bir kafes vardı. Elini kafesin içine soktu, kafesin içinde bir hançer bulup çıkardı ve dayısını göğsünün sağ altından vurdu. Dayısı düştü.
+Ahmed duvarda bir açıklık gördü; duvarda bir kafes vardı. Elini kafesin içine soktu, kafesin içinde bir hançer bulup çıkardı ve dayısını göğsünün sağ altından vurdu.
+
+Dayısı düştü.
 
 Ahmed hançeri dayısından çıkardı; Ahmed Êysan'ı öldürdü, Hasan Kalan'ı öldürdü.
 

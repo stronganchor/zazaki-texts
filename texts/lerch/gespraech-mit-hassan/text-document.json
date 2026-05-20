@@ -222,7 +222,7 @@
   "summary": {
     "lines": 45,
     "source_lines": 45,
-    "reading_units": 38,
+    "reading_units": 37,
     "tokens": 260
   },
   "witnesses": [
@@ -710,25 +710,10 @@
         "h03_l09",
         "h03_l10"
       ],
-      "source": "Bawki mêra, kawğei Nyêribi û 'Hyêni mê di, ez şya kawğei Nyêribi û 'Hyêni, kawğei E'hmêd begi û Sivani",
+      "source": "Bawki mêra, kawğei Nyêribi û 'Hyêni mê di, ez şya kawğei Nyêribi û 'Hyêni, kawğei E'hmêd begi û Sivani ez tedê bya; kawğei Sivani û Avdula begi mê di, ez tedê bya; kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini û Sivani mê di, ez tedê bya.",
       "translations": {
-        "tr": "Babamın hakkı için, Nyêrib ile Hyêni'nin kavgasını gördüm; Nyêrib ile Hyêni'nin kavgasına, Ahmed Beg ile Sivan'ın kavgasına gittim;",
-        "en": "By my father, I saw the feud between Nerib and Hyeni; I went to the feud between Nerib and Hyeni, and to the feud between Ahmed Beg and Sivan;"
-      }
-    },
-    {
-      "id": "u17_01",
-      "source_unit_id": "u17",
-      "source_line_ids": [
-        "h03_l11",
-        "h03_l12",
-        "h03_l13",
-        "h03_l14"
-      ],
-      "source": "ez tedê bya; kawğei Sivani û Avdula begi mê di, ez tedê bya; kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini û Sivani mê di, ez tedê bya.",
-      "translations": {
-        "tr": "Oradaydım. Sivan ile Avdula Beg'in kavgasını gördüm; oradaydım.",
-        "en": "I was there. I saw the feud between Sivan and Avdula Beg; I was there."
+        "tr": "Babamın hakkı için, Nyêrib ile Hyêni'nin kavgasını gördüm; Nyêrib ile Hyêni'nin kavgasına, Ahmed Beg ile Sivan'ın kavgasına gittim; oradaydım. Sivan ile Avdula Beg'in kavgasını gördüm; oradaydım; Karbegan ile Sivan'ın kavgasını gördüm; oradaydım, Weşin ile Sivan'ın kavgasını gördüm; oradaydım.",
+        "en": "By my father, I saw the feud between Nyêrib and Hyêni; I went to the feud between Nyêrib and Hyêni and to the feud between Ahmed Beg and Sivan; I was there. I saw the feud between Sivan and Avdula Beg; I was there; I saw the feud between Karbegan and Sivan; I was there, and the feud between Weshin and Sivan, I saw; I was there."
       }
     },
     {
@@ -742,8 +727,8 @@
       ],
       "source": "Awê kawğei aşiranu.",
       "translations": {
-        "tr": "Karbegan ile Sivan'ın kavgasını gördüm; oradaydım, Weşin ile Sivan'ın kavgasını gördüm; oradaydım.",
-        "en": "I saw the feud between Karbegan and Sivan; I was there, and the feud between Weshin and Sivan, I saw; I was there."
+        "tr": "Onlar aşiret kavgalarıydı.",
+        "en": "Those were tribal feuds."
       }
     },
     {
@@ -757,8 +742,8 @@
       ],
       "source": "Ez kawğe nyêtêrsêna.",
       "translations": {
-        "tr": "Onlar aşiret kavgalarıydı. Ben kavgadan korkmam.",
-        "en": "Those were tribal feuds. I do not fear feuds."
+        "tr": "Kavgadan korkmam.",
+        "en": "I do not fear feuds."
       }
     },
     {

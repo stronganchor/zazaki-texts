@@ -72,7 +72,7 @@
   "summary": {
     "lines": 122,
     "source_lines": 122,
-    "reading_units": 71,
+    "reading_units": 72,
     "tokens": 1239
   },
   "witnesses": [
@@ -470,7 +470,7 @@
       "translations": {
         "tr": "Daqma Bey dedi ki: 'Aman efendim, artık savaşmayacağım; ordum kalmadı.'",
         "en": "Daqma Bey said: 'Mercy, my lord. I will not fight anymore; I have no army left.'",
-        "de": "Daqma Baeg sagte: Verzeihung, mein Herr!"
+        "de": "Daqma Bey sagte: 'Gnade, mein Herr. Ich werde nicht mehr kämpfen; mir fehlt ein Heer.'"
       }
     },
     {
@@ -479,7 +479,7 @@
       "translations": {
         "tr": "Xalef Ağa Daqma Bey'e haber gönderdi: 'Şehirden dışarı çık; şehri yakmaya geliyorum.'",
         "en": "Xalef Agha sent word to Daqma Bey: 'Come out of the city; I am coming to burn the city.'",
-        "de": "ich werde nicht mehr schlagen, mir fehlt es an Truppen."
+        "de": "Xalef Agha sandte Daqma Bey Nachricht: 'Komm aus der Stadt heraus; ich komme, um die Stadt zu verbrennen.'"
       }
     },
     {
@@ -488,16 +488,25 @@
       "translations": {
         "tr": "Daqma Bey hemen Xalef Ağa'ya bir kürk gönderip dedi ki: 'Aman efendim, kimsem yok; savaşamam. Benimle neden savaşacaksın?'",
         "en": "Daqma Bey immediately sent a fur coat to Xalef Agha and said: 'Mercy, my lord. I have no one; I cannot fight. Why will you fight me?'",
-        "de": "Xalef Agha sandte einen Boten dem Daqma Baeg und liess ihm sagen: verlasse die Stadt, ich komme die Stadt verbrennen."
+        "de": "Daqma Bey sandte Xalef Agha sofort einen Pelz und sagte: 'Gnade, mein Herr. Ich habe niemanden; ich kann nicht kämpfen. Warum willst du mit mir kämpfen?'"
       }
     },
     {
-      "id": "u021",
-      "source": "ez tê nyêya. Xalef ağay va kê: byê eskêri ez dana twê, şwê byê mıdê kawğe dıkê, hêta hiryê roci kawğe mê kawğaw, ez eskêri twêra we şahrêstani twêra çewi nyêvêrdana, heminê kışêna, twê kışêna.",
+      "id": "u021_01",
+      "source": "ez tê nyêya.",
       "translations": {
-        "tr": "'Ben senin üzerine gelmiyorum.' Xalef Ağa dedi ki: 'Gel; sana asker vereceğim, git benimle savaş. Üç güne kadar savaşacağız; ordun ve şehrinden kimseyi bırakmayacağım, hepsini öldüreceğim, seni de öldüreceğim.'",
-        "en": "'I am not coming against you.' Xalef Agha said: 'Come; I will give you soldiers, go and fight me. Within three days we will fight; I will not spare anyone from your army or your city. I will kill them all, and I will kill you too.'",
-        "de": "Daqma Baeg sandte sogleich einen Pelz dem Xalef Agha und liess sagen: Verzeihung (Gnade), mein Herr, ich habe Niemand, kann mich nicht schlagen, warum willst du dich mit mir schlagen? ich gehe nicht gegen dich."
+        "tr": "'Ben senin üzerine gelmiyorum.'",
+        "en": "'I am not coming against you.'",
+        "de": "'Ich komme nicht gegen dich.'"
+      }
+    },
+    {
+      "id": "u021_02",
+      "source": "Xalef ağay va kê: byê eskêri ez dana twê, şwê byê mıdê kawğe dıkê, hêta hiryê roci kawğe mê kawğaw, ez eskêri twêra we şahrêstani twêra çewi nyêvêrdana, heminê kışêna, twê kışêna.",
+      "translations": {
+        "tr": "Xalef Ağa dedi ki: 'Gel; sana asker vereceğim, git benimle savaş. Üç güne kadar savaşacağız; ordun ve şehrinden kimseyi bırakmayacağım, hepsini öldüreceğim, seni de öldüreceğim.'",
+        "en": "Xalef Agha said: 'Come; I will give you soldiers, go and fight me. Within three days we will fight; I will not spare anyone from your army or your city. I will kill them all, and I will kill you too.'",
+        "de": "Xalef Agha sagte: 'Komm; ich gebe dir Soldaten, geh und kämpfe mit mir. Bis zu drei Tage werden wir kämpfen; ich werde niemanden aus deinem Heer und deiner Stadt verschonen, alle werde ich töten, und dich werde ich töten.'"
       }
     },
     {
@@ -506,7 +515,7 @@
       "translations": {
         "tr": "'Karını da götüreceğim.'",
         "en": "'I will take your wife too.'",
-        "de": "Xalef Agha sagte: ohne Heer will ich dich besiegen, komme mit mir kämpfen, in drei Tagen werden wir uns schlagen, ich werde Niemanden weder aus deinem Heere, noch aus deiner Stadt verschonen, werde Alle, werde dich tödten (und) dein Weib wegführen."
+        "de": "'Auch deine Frau werde ich nehmen.'"
       }
     },
     {
@@ -6660,16 +6669,16 @@
           "ipa": "ˈdejʃtej",
           "zazaki": "Dêyştêy",
           "lemma": "deistei",
-          "display_gloss": "De?t?, place name",
-          "gloss_tr": "De?t?, yer ad?",
-          "gloss_de": "De?t?, Ortsname",
+          "display_gloss": "Deştê, place name",
+          "gloss_tr": "Deştê, yer adı",
+          "gloss_de": "Deştê, Ortsname",
           "pos": "",
           "morphemes": [
             {
               "form": "Deíštei",
               "normalized": "Dêyştêy",
               "lemma": "deistei",
-              "gloss": "De?t?, place name",
+              "gloss": "Deştê, place name",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
@@ -7718,16 +7727,16 @@
           "ipa": "ˈdejʃtej",
           "zazaki": "Dêyştêy",
           "lemma": "deistei",
-          "display_gloss": "De?t?, place name",
-          "gloss_tr": "De?t?, yer ad?",
-          "gloss_de": "De?t?, Ortsname",
+          "display_gloss": "Deştê, place name",
+          "gloss_tr": "Deştê, yer adı",
+          "gloss_de": "Deştê, Ortsname",
           "pos": "",
           "morphemes": [
             {
               "form": "Deíštei",
               "normalized": "Dêyştêy",
               "lemma": "deistei",
-              "gloss": "De?t?, place name",
+              "gloss": "Deştê, place name",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
@@ -7960,16 +7969,16 @@
           "ipa": "ˈdejʃtej",
           "zazaki": "Dêyştêy",
           "lemma": "deistei",
-          "display_gloss": "De?t?, place name",
-          "gloss_tr": "De?t?, yer ad?",
-          "gloss_de": "De?t?, Ortsname",
+          "display_gloss": "Deştê, place name",
+          "gloss_tr": "Deştê, yer adı",
+          "gloss_de": "Deştê, Ortsname",
           "pos": "",
           "morphemes": [
             {
               "form": "Deíštei",
               "normalized": "Dêyştêy",
               "lemma": "deistei",
-              "gloss": "De?t?, place name",
+              "gloss": "Deştê, place name",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
@@ -9411,7 +9420,7 @@
           "lemma": "kaugau",
           "display_gloss": "fought",
           "gloss_tr": "kavga etti",
-          "gloss_de": "k?mpfte",
+          "gloss_de": "kämpfte",
           "pos": "",
           "morphemes": [
             {
@@ -10217,7 +10226,7 @@
           "lemma": "kaugau",
           "display_gloss": "fought",
           "gloss_tr": "kavga etti",
-          "gloss_de": "k?mpfte",
+          "gloss_de": "kämpfte",
           "pos": "",
           "morphemes": [
             {
@@ -11932,7 +11941,7 @@
           "lemma": "kaugau",
           "display_gloss": "fought",
           "gloss_tr": "kavga etti",
-          "gloss_de": "k?mpfte",
+          "gloss_de": "kämpfte",
           "pos": "",
           "morphemes": [
             {
@@ -22688,7 +22697,7 @@
           "lemma": "kaugau",
           "display_gloss": "fought",
           "gloss_tr": "kavga etti",
-          "gloss_de": "k?mpfte",
+          "gloss_de": "kämpfte",
           "pos": "",
           "morphemes": [
             {
@@ -26485,7 +26494,7 @@
           "lemma": "kaugau",
           "display_gloss": "fought",
           "gloss_tr": "kavga etti",
-          "gloss_de": "k?mpfte",
+          "gloss_de": "kämpfte",
           "pos": "",
           "morphemes": [
             {

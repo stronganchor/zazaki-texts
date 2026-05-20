@@ -64,9 +64,7 @@ Tu zaf kawğe di?
 
 Mê zaf kawğe di.
 
-Bawki mêra, kawğei Nyêribi û 'Hyêni mê di, ez şya kawğei Nyêribi û 'Hyêni, kawğei E'hmêd begi û Sivani
-
-ez tedê bya; kawğei Sivani û Avdula begi mê di, ez tedê bya; kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini û Sivani mê di, ez tedê bya.
+Bawki mêra, kawğei Nyêribi û 'Hyêni mê di, ez şya kawğei Nyêribi û 'Hyêni, kawğei E'hmêd begi û Sivani ez tedê bya; kawğei Sivani û Avdula begi mê di, ez tedê bya; kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini û Sivani mê di, ez tedê bya.
 
 Awê kawğei aşiranu.
 

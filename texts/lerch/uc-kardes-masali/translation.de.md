@@ -20,6 +20,8 @@ d.
 
 Kurden.
 
+Sie schnitten den Weizen. Als sie sahen, dass der Dev gekommen war, sagte der Dev: "Was macht ihr? Ihr kennt meinen Namen nicht. Ich bin ein Dev, und ich werde jetzt die Köpfe von euch allen dreien fressen."
+
 Abtb. I.
 
 7 Hasanek bemerkte eine Hoble.
@@ -58,6 +60,8 @@ Hasanek gab (diesen) Brief dem Weibe des Dev.
 
 Die Frau des Dev nahm den Brief, öffnete ihn, las, dass der Dev darin geschrieben: sie solle einen Pilav von dem braunen Stiere niacheD (und) dem Hasanek geben, Hasanek solle diese Nacht bei der ältesten Tochter schlafen, des andern Morgens jenen Pilav (ihm) bringen.
 
+Der Dev stand auf, schrieb den Brief und gab ihn Hasanek.
+
 Das Weib des Dev schlachtete den braunen Stier, machte aus dem Fleische des braunen Stiers einen Pilav, gab (ihn) dem Hasanek. Hasanek nahm diesen Pilav, ging, trug (ihn) zum Dev.
 
 Der Dev sah, dass Hasanek kommt.
@@ -68,7 +72,7 @@ Der Dev nahm (und) sagte zu Hasanek: einen solchen Brief habe ich nicht geschrie
 
 Solches habe ich im Briefe nicht geschrieben, (sondern vielmehr, dass) sie mir den Hasanek schlachten, aus dem Fleische des Hasanek mir einen Pilav machen (und duoseiben) mir schicken solle.
 
-Hasanek sagte zum Dev: willst du dieses Mal gehen, gebe, willst du nicht gehen, will ich gehen, dieses Mal soll sie mich schlachten, dir einen Pilav machen, korheD (und) schicken. Der Dev sagte dem Hasanek: mein Sohn, schweige still, ich will noch einmal schreiben, dir (den Brief) geben, nimm (ihn), geh zu meinem W'eibe, wenn du dieses Mal kommst, dann will ich gehen.
+Die Frau des Dev schlachtete den roten Stier und machte Kebab aus dem Fleisch des roten Stiers.
 
 Hasanek sagle: schön, mein Herr.
 
@@ -98,7 +102,9 @@ Die Brüder des Hasanek erhoben sieb, Hasanek führte die Brüder weg, sie ginge
 
 Dieser begab sich in eine Stadt, brachte seine Brüder auf einen Markt (und) sagte zu seinen Brüdern: yeht wohin es euch beliebt. Hasaneks Bruder Qasim sagte zu Hasanek: warum hast du uns hierher geführt?
 
-Hasaneks Bruder Schaban weinte. Hasanek sagte: Bruder, warum weinst du? Gott ist gnädig (gross).
+'Gott ist barmherzig.'
+
+Hasaneks Bruder Qasim sagte zu Hasanek: 'Warum lässt du uns hier? Was sollen wir tun? Der Ort ist fremd, wir haben keinen Platz zum Bleiben, niemand nimmt uns auf, und wir haben kein Haus, zu dem wir gehen können.'
 
 Hasaneks Bruder Qasim sagte dem Hasanek: warum hast du uns hierher geführt, was machst du mit uns?
 
@@ -128,7 +134,9 @@ Der Dev kam, Hasanek nahm das Schwert in seine Hand, der Dev schritt vor im Zimm
 
 Kurden.
 
-Ahth. I. 8 Der Dev fiel zu Boden.
+Der Dev kam. Hasanek nahm das Schwert in die Hand. Der Dev steckte den Kopf in das Zimmer; Hasanek schlug einmal mit dem Schwert zu und schlug dem Dev den Kopf ab.
+
+Der Dev fiel zu Boden.
 
 Er sagte dem Hasanek: gicb einen zweiten Streich.
 

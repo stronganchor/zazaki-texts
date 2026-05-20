@@ -64,7 +64,9 @@ A'hmêdi veng da va kê: Alah izmê mê bıdu, ez twê veri êyxoê kışêna.
 
 'Hal şi kê A'hmêdi bıkşu.
 
-A'hmêd awnya dyêsi wedi, yaw şıbakê 'ha dyêsê wedidê, desti xoê berd zerêy şibakê, yaw xancêri zerêy şıbakêdê di gêrawtê vera, day 'hali bınê çici raştiru. 'Hal kawt.
+A'hmêd awnya dyêsi wedi, yaw şıbakê 'ha dyêsê wedidê, desti xoê berd zerêy şibakê, yaw xancêri zerêy şıbakêdê di gêrawtê vera, day 'hali bınê çici raştiru.
+
+'Hal kawt.
 
 A'hmêdi xancêri 'halira vetê, A'hmêdi Êysan kişt, 'Hasani Kalan kişt.
 

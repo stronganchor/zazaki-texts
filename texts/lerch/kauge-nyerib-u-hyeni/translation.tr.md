@@ -80,7 +80,9 @@ Xalef Ağa Daqma Bey'e haber gönderdi: 'Şehirden dışarı çık; şehri yakma
 
 Daqma Bey hemen Xalef Ağa'ya bir kürk gönderip dedi ki: 'Aman efendim, kimsem yok; savaşamam. Benimle neden savaşacaksın?'
 
-'Ben senin üzerine gelmiyorum.' Xalef Ağa dedi ki: 'Gel; sana asker vereceğim, git benimle savaş. Üç güne kadar savaşacağız; ordun ve şehrinden kimseyi bırakmayacağım, hepsini öldüreceğim, seni de öldüreceğim.'
+'Ben senin üzerine gelmiyorum.'
+
+Xalef Ağa dedi ki: 'Gel; sana asker vereceğim, git benimle savaş. Üç güne kadar savaşacağız; ordun ve şehrinden kimseyi bırakmayacağım, hepsini öldüreceğim, seni de öldüreceğim.'
 
 'Karını da götüreceğim.'
 

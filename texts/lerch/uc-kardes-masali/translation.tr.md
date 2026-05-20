@@ -72,7 +72,7 @@ Hasanek mektubu götürüp devin karısına vermiş.
 
 Devin karısı mektubu okumuş; dev orada, "Benim için kızıl öküzü kes, kızıl öküzün etinden kebap yap, pişir ve gönder. Bu gece Hasanek benim küçük kızımın yanında yatsın; sabah bana bu pilavı ve kebabı getirsin," diye yazmış.
 
-Devin karısı kızıl öküzü kesmiş, kızıl öküzün etinden kebap yapmış, pişirmiş ve göndermiş.
+Devin karısı kızıl öküzü kesmiş ve kızıl öküzün etinden kebap yapmış.
 
 Hasanek o gece küçük kızın yanında yatmış, sabaha kadar keyif ve sefa sürmüş.
 
@@ -102,7 +102,9 @@ Hasanek'in kardeşi Şaban ağlamış.
 
 Hasanek, "Kardeş, niye ağlıyorsun?" demiş.
 
-"Allah kerimdir." Hasanek'in kardeşi Qasim, Hasanek'e, "Bizi niye burada bırakıyorsun? Biz ne yapacağız? Burası yabancı bir yer, kalacak yerimiz yok, kimse bizi içeri almaz, gidecek evimiz de yok," demiş.
+'Allah kerimdir.'
+
+Hasanek'in kardeşi Qasim, Hasanek'e, 'Bizi niye burada bırakıyorsun? Biz ne yapacağız? Burası yabancı bir yer, kalacak yerimiz yok, kimse bizi içeri almaz, gidecek evimiz de yok,' demiş.
 
 Hasanek, "Gidin, bir ağanın yanında hizmet edin," demiş.
 
@@ -132,7 +134,9 @@ Muhafızbaşı Hasanek'e, "Git yiğit. Ben dev bağlayan biriyim. Devin altın k
 
 Hasanek kalkmış, devin konağına gitmiş, aramış, devin yerini bulmuş, devin yastığının altından kılıcını almış, kapının önüne gelmiş, sağ tarafta bir kafes görmüş ve gidip o kafesin önünde durmuş.
 
-Dev gelmiş. Hasanek kılıcı eline almış. Dev başını odaya sokmuş; Hasanek kılıçla bir darbe vurup devin başını kesmiş. Dev yere düşmüş.
+Dev gelmiş. Hasanek kılıcı eline almış. Dev başını odaya sokmuş; Hasanek kılıçla bir darbe vurup devin başını kesmiş.
+
+Dev yere düşmüş.
 
 Dev Hasanek'e, "Bir darbe daha vur," demiş. Hasanek deve, "Yiğidin sözü birdir," demiş. Dev ölmüş. Hasanek kalkmış, devin leşini götürüp zindana atmış, dolaşıp devin evine gitmiş.
 

@@ -80,7 +80,9 @@ Xalef Agha sent word to Daqma Bey: 'Come out of the city; I am coming to burn th
 
 Daqma Bey immediately sent a fur coat to Xalef Agha and said: 'Mercy, my lord. I have no one; I cannot fight. Why will you fight me?'
 
-'I am not coming against you.' Xalef Agha said: 'Come; I will give you soldiers, go and fight me. Within three days we will fight; I will not spare anyone from your army or your city. I will kill them all, and I will kill you too.'
+'I am not coming against you.'
+
+Xalef Agha said: 'Come; I will give you soldiers, go and fight me. Within three days we will fight; I will not spare anyone from your army or your city. I will kill them all, and I will kill you too.'
 
 'I will take your wife too.'
 

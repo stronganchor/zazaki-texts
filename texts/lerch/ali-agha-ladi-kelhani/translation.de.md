@@ -64,7 +64,9 @@ Ahmed rief und sagte: 'Möge Gott mir die Erlaubnis geben; zuerst werde ich dich
 
 Sein Onkel ging, um Ahmed zu töten.
 
-Ahmed sah eine Öffnung in der Wand; in der Wand war ein Gitter. Er steckte seine Hand in das Gitter, fand im Gitter einen Dolch und zog ihn heraus, und er stieß seinem Onkel unter die rechte Seite der Brust. Sein Onkel fiel.
+Ahmed sah eine Öffnung in der Wand; in der Wand war ein Gitter. Er steckte seine Hand in das Gitter, fand im Gitter einen Dolch und zog ihn heraus, und er stieß seinem Onkel unter die rechte Seite der Brust.
+
+Sein Onkel fiel.
 
 Ahmed zog den Dolch aus seinem Onkel heraus; Ahmed tötete Eysan und tötete Hasan Kalan.
 

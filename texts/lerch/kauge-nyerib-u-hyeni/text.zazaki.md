@@ -80,7 +80,9 @@ Xalef ağay 'haber erşawutê Daqma begiri va kê: şahrêstanda byê tebêr, ez
 
 Daqma begi wida yaw koêle erşawut Xalef ağayri va kê: eman êfêndim, çawdi ma çinu, nyêşyêna kawğe bıka, tê mıdê çitaw kawğe kêni?
 
-ez tê nyêya. Xalef ağay va kê: byê eskêri ez dana twê, şwê byê mıdê kawğe dıkê, hêta hiryê roci kawğe mê kawğaw, ez eskêri twêra we şahrêstani twêra çewi nyêvêrdana, heminê kışêna, twê kışêna.
+ez tê nyêya.
+
+Xalef ağay va kê: byê eskêri ez dana twê, şwê byê mıdê kawğe dıkê, hêta hiryê roci kawğe mê kawğaw, ez eskêri twêra we şahrêstani twêra çewi nyêvêrdana, heminê kışêna, twê kışêna.
 
 cênyay twê ez ana.
 

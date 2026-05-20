@@ -84,7 +84,7 @@
   "summary": {
     "lines": 51,
     "source_lines": 51,
-    "reading_units": 43,
+    "reading_units": 44,
     "tokens": 575
   },
   "witnesses": [
@@ -423,12 +423,21 @@
       }
     },
     {
-      "id": "u017",
-      "source": "A'hmêd awnya dyêsi wedi, yaw şıbakê 'ha dyêsê wedidê, desti xoê berd zerêy şibakê, yaw xancêri zerêy şıbakêdê di gêrawtê vera, day 'hali bınê çici raştiru. 'Hal kawt.",
+      "id": "u017_01",
+      "source": "A'hmêd awnya dyêsi wedi, yaw şıbakê 'ha dyêsê wedidê, desti xoê berd zerêy şibakê, yaw xancêri zerêy şıbakêdê di gêrawtê vera, day 'hali bınê çici raştiru.",
       "translations": {
-        "tr": "Ahmed duvarda bir açıklık gördü; duvarda bir kafes vardı. Elini kafesin içine soktu, kafesin içinde bir hançer bulup çıkardı ve dayısını göğsünün sağ altından vurdu. Dayısı düştü.",
-        "en": "Ahmed saw an opening in the wall; there was a lattice in the wall. He put his hand inside the lattice, found a dagger inside the lattice and pulled it out, and struck his uncle under the right side of the chest. His uncle fell.",
-        "de": "Ahmed sah eine Öffnung in der Wand; in der Wand war ein Gitter. Er steckte seine Hand in das Gitter, fand im Gitter einen Dolch und zog ihn heraus, und er stieß seinem Onkel unter die rechte Seite der Brust. Sein Onkel fiel."
+        "tr": "Ahmed duvarda bir açıklık gördü; duvarda bir kafes vardı. Elini kafesin içine soktu, kafesin içinde bir hançer bulup çıkardı ve dayısını göğsünün sağ altından vurdu.",
+        "en": "Ahmed saw an opening in the wall; there was a lattice in the wall. He put his hand inside the lattice, found a dagger inside the lattice and pulled it out, and struck his uncle under the right side of the chest.",
+        "de": "Ahmed sah eine Öffnung in der Wand; in der Wand war ein Gitter. Er steckte seine Hand in das Gitter, fand im Gitter einen Dolch und zog ihn heraus, und er stieß seinem Onkel unter die rechte Seite der Brust."
+      }
+    },
+    {
+      "id": "u017_02",
+      "source": "'Hal kawt.",
+      "translations": {
+        "tr": "Dayısı düştü.",
+        "en": "His uncle fell.",
+        "de": "Sein Onkel fiel."
       }
     },
     {

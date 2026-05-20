@@ -72,7 +72,7 @@ Hasanek took the letter and gave it to the dev's wife.
 
 The dev's wife read the letter, where the dev had written: "Slaughter the red bull for me, make kebab from the red bull's meat, roast it, and send it. Tonight let Hasanek sleep beside my youngest daughter, and tomorrow let him bring me this pilaf and kebab."
 
-The dev's wife slaughtered the red bull, made kebab from the red bull's meat, roasted it, and sent it.
+The dev's wife slaughtered the red bull and made kebab from the red bull's meat.
 
 That night Hasanek lay beside the youngest daughter and enjoyed himself comfortably until morning.
 
@@ -102,7 +102,9 @@ Hasanek's brother Shaban cried.
 
 Hasanek said, "Brother, why are you crying?"
 
-"God is merciful." Hasanek's brother Qasim said to Hasanek, "Why are you leaving us here? What are we to do? The place is foreign, we have nowhere to stay, no one will take us in, and we have no place to go home to."
+'God is merciful.'
+
+Hasanek's brother Qasim said to Hasanek, 'Why are you leaving us here? What are we to do? The place is foreign, we have nowhere to stay, no one will take us in, and we have no place to go home to.'
 
 Hasanek said, "Go and serve in the household of some agha."
 
@@ -132,7 +134,9 @@ The chief of the guards said to Hasanek, "Go, hero. I am a dev-binder. The dev h
 
 Hasanek got up, went to the dev's dwelling, searched, found the dev's place, took the dev's sword from under the dev's pillow, came to the front of the door, saw a lattice on the right side, and went and stood at that lattice.
 
-The dev came. Hasanek took the sword in his hand. The dev brought his head into the room, and Hasanek struck one blow with the sword and cut off the dev's head. The dev fell to the ground.
+The dev came. Hasanek took the sword in his hand. The dev brought his head into the room, and Hasanek struck one blow with the sword and cut off the dev's head.
+
+The dev fell to the ground.
 
 The dev said to Hasanek, "Strike once more." Hasanek said to the dev, "A hero's word is one." The dev died. Hasanek got up, carried away the dev's body, threw it into the prison, wandered around, and went to the dev's house.
 

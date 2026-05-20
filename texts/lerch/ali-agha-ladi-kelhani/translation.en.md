@@ -64,7 +64,9 @@ Ahmed called out and said: 'May God give me permission; first I will kill you wi
 
 His uncle went to kill Ahmed.
 
-Ahmed saw an opening in the wall; there was a lattice in the wall. He put his hand inside the lattice, found a dagger inside the lattice and pulled it out, and struck his uncle under the right side of the chest. His uncle fell.
+Ahmed saw an opening in the wall; there was a lattice in the wall. He put his hand inside the lattice, found a dagger inside the lattice and pulled it out, and struck his uncle under the right side of the chest.
+
+His uncle fell.
 
 Ahmed pulled the dagger out of his uncle; Ahmed killed Eysan and killed Hasan Kalan.
 
