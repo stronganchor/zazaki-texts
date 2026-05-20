@@ -6,9 +6,12 @@ Working status: researched publication metadata, not a final gazetteer. Google M
 
 - Hidayet Samuk, "Servi Bölgesi ve Köyleri," *Bingöl Araştırmaları Dergisi* 4/1 (2017), 9-40. https://dergipark.org.tr/tr/pub/bad/article/596656
 - Muhammed Köse, "2688 Numaralı Palu Nüfus Defterine Göre 1841 Yılında Sivan Nahiyesinin Demografik ve Sosyal Yapısı," *Bingöl Araştırmaları Dergisi* 2/2 (2016), 87-128. https://dergipark.org.tr/tr/pub/bad/article/468213
+- Hidayet Samuk, "Servi Bölgesi ve Köyleri," PDF copy. https://dergipark.org.tr/en/download/article-file/770199
 - Mehmet Aslanoğulları, *Lerch'in Zazaki Derlemelerinin Çevrimyazımı ve Türlerine Göre Sözcüklerin Tahlili*, MA thesis, Bingöl Üniversitesi, 2014. https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=XSxuloAAz12quT5oHaDwnA&no=lqmlps2zRpavNQmdt0OGGQ
 - Jelle Verheij, "Place names in 19th century travel reports - Diyarbakır province." https://www.jelleverheij.net/research-tools/place-name-index/diyarbakir.html
 - Jelle Verheij, geographical annotations to Taylor 1865 p. 38. https://www.jelleverheij.net/sources/1861---1870/Taylor-1865/Taylor-1865-038.html
+- Hêvî, Paris Kurdish Institute reprint/scan, including Malmîsanij's notes to the Lerch texts. https://portal.arsivakurd.org/wp-content/uploads/2021/08/hevi_estitu_ya_paris_3.pdf
+- "Tarîxê Xonamekerdişê Kirdan," Zazaki.net PDF, for the list of Nêrib villages. https://www.zazaki.net/d/file/tar%C3%AEx%C3%AA-xonamekerdis%C3%AA-kirdan.pdf
 
 ## Linked Publication Entries
 
@@ -50,8 +53,9 @@ Working status: researched publication metadata, not a final gazetteer. Google M
 | Karbegan / Karabegan | Arıcak, Elazığ | https://www.google.com/maps/search/?api=1&query=Ar%C4%B1cak%2C%20Elaz%C4%B1%C4%9F |
 | Hyêni / Hêni | Hani, Diyarbakır | https://www.google.com/maps/search/?api=1&query=Hani%2C%20Diyarbak%C4%B1r |
 | Nyêrib / Nerib | Kuyular, Hani, Diyarbakır | https://www.google.com/maps/search/?api=1&query=Kuyular%2C%20Hani%2C%20Diyarbak%C4%B1r |
+| Hêmek / Hamek | Yeniler, Güzeldere, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=Yeniler%2C%20G%C3%BCzeldere%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
 
-Unresolved in Hassan's list: Hêmek/Hamek, Sama/Sema, Emêra/Emera. Aslanoğulları says Sema was not identified and describes Emera only as a large village attached to Servi, without a modern official name.
+Second-pass update: Hêmek/Hamek is no longer treated as unresolved. Samuk and Köse both preserve Hemek/Hamek/Hamik in the Sivan/Servi context, and Samuk localizes it to Yeniler, a mezra of Güzeldere/Gaz. Sama/Sema remains unresolved; Aslanoğulları explicitly says no village with that name was identified. Emêra/Emera is described by Aslanoğulları only as a large village attached to Servi, and I did not find a defensible modern official name. Because the Hassan list already has Heylan/Haliyan/Gerçekli as a separate item, I have not merged Emera with Gerçekli even though Gerçekli/Haliyan-ı Kebir is the largest 1841 Sivan village in Köse's table.
 
 ### Kelhan'ın Oğlu Ali Ağa
 
@@ -75,7 +79,7 @@ Unresolved in Hassan's list: Hêmek/Hamek, Sama/Sema, Emêra/Emera. Aslanoğulla
 | Dawz / Cauz / Cewzê | Gürbüz, Hani, Diyarbakır | https://www.google.com/maps/search/?api=1&query=G%C3%BCrb%C3%BCz%2C%20Hani%2C%20Diyarbak%C4%B1r |
 | Deştê Henzi | Henzi Ovası | https://www.google.com/maps/search/?api=1&query=Henzi%20Ovas%C4%B1%2C%20Hani%2C%20Diyarbak%C4%B1r |
 
-Unresolved: Küçük Nyêrib and Dûzê Hemyê/Hemyer. Verheij supports Nerib = Kuyular; Aslanoğulları's note for Nêrib is less precise and gives Hani generally.
+Second-pass update: Küçük Nyêrib/Nêribu Qıc is probably one of the small villages in the Nêrib cluster rather than a separate modern official name. The Hêvî/Malmîsanij note and the Zazaki.net historical article list the Nêrib villages as Nêribê Axan/Kuyular, Nêribê Cimsaqî/Eşkin, Nêribê Çulagan/Abacılar, Nêribê Topalan/Topçular, Nêribê Şeynan or Nêribê Wisifan/Çukur, Nêribê Elîyan/Atıcı, and Nêribê Melîkan/Bozok. I did not find enough evidence to choose one of these as "Küçük Nyêrib." Dûzê Hemyê/Hemyer still looks like a local plain/mevki name near Hani/Nêrib rather than an official village name.
 
 ### Nyêrib ve Sivan'ın Kavgası
 
@@ -88,10 +92,11 @@ Unresolved: Küçük Nyêrib and Dûzê Hemyê/Hemyer. Verheij supports Nerib = 
 | Şeynan / Şeynon | Çukurköy, Hani, Diyarbakır | https://www.google.com/maps/search/?api=1&query=%C3%87ukurk%C3%B6y%2C%20Hani%2C%20Diyarbak%C4%B1r |
 | Hyêni / Hêni | Hani, Diyarbakır | https://www.google.com/maps/search/?api=1&query=Hani%2C%20Diyarbak%C4%B1r |
 | Dait / Caıt | Sergen, Hani, Diyarbakır | https://www.google.com/maps/search/?api=1&query=Sergen%2C%20Hani%2C%20Diyarbak%C4%B1r |
-| Şelê / Sele deresi | Yaydere, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=Yaydere%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
+| Şelê / Sele deresi | Yukarı Turalı / Aşağı Turalı, Hani, Diyarbakır | https://www.google.com/maps/search/?api=1&query=Yukar%C4%B1%20Tural%C4%B1%20A%C5%9Fa%C4%9F%C4%B1%20Tural%C4%B1%20Hani%20Diyarbak%C4%B1r |
 | Qotwesan / Qotweson | Arıcak, Elazığ | https://www.google.com/maps/search/?api=1&query=Ar%C4%B1cak%2C%20Elaz%C4%B1%C4%9F |
+| Kelan | Doğanlı? (Kelahsı / Kelaxsi), Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=Do%C4%9Fanl%C4%B1%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
 
-Unresolved: Kelan and Tawricyê/Taurıcye. No secure modern official village identification was found in the sources checked in this pass.
+Second-pass update: Şelê/Sele is changed here from Yaydere/Şelê Heydan to the Hani Şelli villages, because the Hêvî/Malmîsanij note to this exact story says Şeli corresponds to Şelli/Yukarı Turalı and Şellî Sufla/Aşağı Turalı. Aslanoğulları's glossary-level Şelê Heydan = Yaydere remains correct for the Sivan village name, but it fits this line less well than the text-specific Hani note. Kelan is still tentative. The best candidate found is Kelahsı/Kelaxsi = Doğanlı, because the form is close, it is in the Sivan lists, and the story uses Kelan in Avdulah Ağa's Sivan-side movement. Tawricyê/Taurıcye remains unresolved; the Hêvî text preserves the name in the battle scene but does not identify a modern official village.
 
 ### Değirmenci ve Tilki
 
@@ -104,3 +109,12 @@ This is a folktale setting rather than a historical local-place reference.
 ### Üç Kardeş Masalı
 
 Pawjê/Pauz is marked as a place name in the interlinear/glossary material, but no secure modern official identification was found in this pass. It has not been added to the public place section.
+
+## Remaining Open Items
+
+- Sama/Sema: no secure modern official village; Aslanoğulları did not identify it.
+- Emêra/Emera: described as a large Servi-area village, but no safe modern name found. Do not merge with Gerçekli unless new evidence explains why Hassan would list Heylan and Emera separately.
+- Küçük Nyêrib/Nêribu Qıc: likely part of the Nêrib village cluster around Hani, but the exact modern village remains uncertain.
+- Dûzê Hemyê/Hemyer: likely a local plain/mevki near Hani/Nêrib, not yet mapped.
+- Tawricyê/Taurıcye: attested in the story and Hêvî reprint, but no defensible modern identification found.
+- Pawjê/Pauz: kept out of public place metadata because it occurs in a folktale and no secure modern place identification was found.

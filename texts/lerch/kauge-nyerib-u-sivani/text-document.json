@@ -72,8 +72,8 @@
         },
         {
           "name": "Şelê/Sele deresi",
-          "modern": "Yaydere",
-          "url": "https://www.google.com/maps/search/?api=1&query=Yaydere%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
+          "modern": "Yukarı Turalı / Aşağı Turalı",
+          "url": "https://www.google.com/maps/search/?api=1&query=Yukar%C4%B1%20Tural%C4%B1%20A%C5%9Fa%C4%9F%C4%B1%20Tural%C4%B1%20Hani%20Diyarbak%C4%B1r"
         },
         {
           "name": "Qotwesan/Qotweson",
@@ -82,7 +82,8 @@
         },
         {
           "name": "Kelan",
-          "modern": "modern adı kesinleşmedi"
+          "modern": "Doğanlı? (Kelahsı/Kelaxsi)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Do%C4%9Fanl%C4%B1%2C%20Gen%C3%A7%2C%20Bing%C3%B6l"
         },
         {
           "name": "Tawricyê/Taurıcye",
@@ -90,7 +91,7 @@
         }
       ],
       "historical_context_tr": "Bu anlatı Sivan/Servi-Palu hattı ile Nyêrib/Hani hattı arasındaki yerel çatışma hafızasını birleştirir. Horsig adı, Sivan köy listesinde Horsik (bugünkü Saklıca) olarak görünen yerle büyük olasılıkla aynıdır. Metindeki Xalef Ağa'ya 'Hyêni'de kavga ettin' uyarısı, bu anlatıyı Nyêrib-Hyêni kavgasından sonra konumlandırır; bu nedenle en uygun tarih aralığı yaklaşık 1820-1853'tür.",
-      "editorial_note_tr": "Sivan/Servi, Horsig/Horsik/Saklıca ve Nyêrib/Nerib/Kuyular eşleştirmeleri kaynakla desteklenir. Deştê Henzi, Şeynan ve Kelan adları anlatının yerel coğrafyasına ait diğer önemli adlardır."
+      "editorial_note_tr": "Sivan/Servi, Horsig/Horsik/Saklıca ve Nyêrib/Nerib/Kuyular eşleştirmeleri kaynakla desteklenir. Şelê adı bu anlatıda Hani tarafındaki Şelli/Turalı köyleriyle daha iyi örtüşür. Kelan için en güçlü aday, Sivan köy listelerindeki Kelahsı/Kelaxsi, bugünkü Doğanlı'dır; Tawricyê için modern karşılık henüz kesinleşmemiştir."
     },
     "title_tr": "Nyêrib ve Sivan'ın Kavgası"
   },
