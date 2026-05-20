@@ -9334,12 +9334,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb01_russian_l01.jpg",
+          "image_url": "assets/tb01_russian_l01.webp",
           "source": "Lerch line crop; Russian printed page 87, scan page 101"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l01.jpg",
+          "image_url": "assets/three_brothers_german_l01.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -9651,12 +9651,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb01_russian_l02.jpg",
+          "image_url": "assets/tb01_russian_l02.webp",
           "source": "Lerch line crop; Russian printed page 87, scan page 101"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l02.jpg",
+          "image_url": "assets/three_brothers_german_l02.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -9924,12 +9924,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb01_russian_l03.jpg",
+          "image_url": "assets/tb01_russian_l03.webp",
           "source": "Lerch line crop; Russian printed page 87, scan page 101"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l03.jpg",
+          "image_url": "assets/three_brothers_german_l03.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -10254,12 +10254,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb01_russian_l04.jpg",
+          "image_url": "assets/tb01_russian_l04.webp",
           "source": "Lerch line crop; Russian printed page 87, scan page 101"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l04.jpg",
+          "image_url": "assets/three_brothers_german_l04.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -10560,12 +10560,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb01_russian_l05.jpg",
+          "image_url": "assets/tb01_russian_l05.webp",
           "source": "Lerch line crop; Russian printed page 87, scan page 101"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l05.jpg",
+          "image_url": "assets/three_brothers_german_l05.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -10890,12 +10890,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb01_russian_l06.jpg",
+          "image_url": "assets/tb01_russian_l06.webp",
           "source": "Lerch line crop; Russian printed page 87, scan page 101"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l06.jpg",
+          "image_url": "assets/three_brothers_german_l06.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -11186,12 +11186,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb01_russian_l07.jpg",
+          "image_url": "assets/tb01_russian_l07.webp",
           "source": "Lerch line crop; Russian printed page 87, scan page 101"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l07.jpg",
+          "image_url": "assets/three_brothers_german_l07.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -11482,12 +11482,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb01_russian_l08.jpg",
+          "image_url": "assets/tb01_russian_l08.webp",
           "source": "Lerch line crop; Russian printed page 87, scan page 101"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l08.jpg",
+          "image_url": "assets/three_brothers_german_l08.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -11778,12 +11778,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb01_russian_l09.jpg",
+          "image_url": "assets/tb01_russian_l09.webp",
           "source": "Lerch line crop; Russian printed page 87, scan page 101"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l09.jpg",
+          "image_url": "assets/three_brothers_german_l09.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -12005,12 +12005,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l01.jpg",
+          "image_url": "assets/tb02_russian_l01.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l10.jpg",
+          "image_url": "assets/three_brothers_german_l10.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -12278,12 +12278,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l02.jpg",
+          "image_url": "assets/tb02_russian_l02.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l11.jpg",
+          "image_url": "assets/three_brothers_german_l11.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -12620,12 +12620,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l03.jpg",
+          "image_url": "assets/tb02_russian_l03.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l12.jpg",
+          "image_url": "assets/three_brothers_german_l12.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -12904,12 +12904,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l04.jpg",
+          "image_url": "assets/tb02_russian_l04.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l13.jpg",
+          "image_url": "assets/three_brothers_german_l13.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -13245,12 +13245,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l05.jpg",
+          "image_url": "assets/tb02_russian_l05.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l14.jpg",
+          "image_url": "assets/three_brothers_german_l14.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -13541,12 +13541,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l06.jpg",
+          "image_url": "assets/tb02_russian_l06.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l15.jpg",
+          "image_url": "assets/three_brothers_german_l15.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -13883,12 +13883,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l07.jpg",
+          "image_url": "assets/tb02_russian_l07.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l16a.jpg",
+          "image_url": "assets/three_brothers_german_l16a.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -14225,12 +14225,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l08.jpg",
+          "image_url": "assets/tb02_russian_l08.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l16b.jpg",
+          "image_url": "assets/three_brothers_german_l16b.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -14509,12 +14509,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l09.jpg",
+          "image_url": "assets/tb02_russian_l09.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l17.jpg",
+          "image_url": "assets/three_brothers_german_l17.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -14850,12 +14850,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l10.jpg",
+          "image_url": "assets/tb02_russian_l10.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l18.jpg",
+          "image_url": "assets/three_brothers_german_l18.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -15146,12 +15146,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l11.jpg",
+          "image_url": "assets/tb02_russian_l11.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l19.jpg",
+          "image_url": "assets/three_brothers_german_l19.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -15488,12 +15488,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l12.jpg",
+          "image_url": "assets/tb02_russian_l12.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l20.jpg",
+          "image_url": "assets/three_brothers_german_l20.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -15806,12 +15806,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l13.jpg",
+          "image_url": "assets/tb02_russian_l13.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l21.jpg",
+          "image_url": "assets/three_brothers_german_l21.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -16101,12 +16101,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l14.jpg",
+          "image_url": "assets/tb02_russian_l14.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l22.jpg",
+          "image_url": "assets/three_brothers_german_l22.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -16431,12 +16431,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l15.jpg",
+          "image_url": "assets/tb02_russian_l15.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l23.jpg",
+          "image_url": "assets/three_brothers_german_l23.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -16520,12 +16520,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb02_russian_l16.jpg",
+          "image_url": "assets/tb02_russian_l16.webp",
           "source": "Lerch line crop; Russian printed page 88, scan page 102"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l24.jpg",
+          "image_url": "assets/three_brothers_german_l24.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -16816,12 +16816,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb03_russian_l01.jpg",
+          "image_url": "assets/tb03_russian_l01.webp",
           "source": "Lerch line crop; Russian printed page 89, scan page 103"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l25.jpg",
+          "image_url": "assets/three_brothers_german_l25.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -17123,12 +17123,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb03_russian_l02.jpg",
+          "image_url": "assets/tb03_russian_l02.webp",
           "source": "Lerch line crop; Russian printed page 89, scan page 103"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l26.jpg",
+          "image_url": "assets/three_brothers_german_l26.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -17476,12 +17476,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb03_russian_l03.jpg",
+          "image_url": "assets/tb03_russian_l03.webp",
           "source": "Lerch line crop; Russian printed page 89, scan page 103"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l27.jpg",
+          "image_url": "assets/three_brothers_german_l27.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -17772,12 +17772,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb03_russian_l04.jpg",
+          "image_url": "assets/tb03_russian_l04.webp",
           "source": "Lerch line crop; Russian printed page 89, scan page 103"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l28.jpg",
+          "image_url": "assets/three_brothers_german_l28.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -18068,12 +18068,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb03_russian_l05.jpg",
+          "image_url": "assets/tb03_russian_l05.webp",
           "source": "Lerch line crop; Russian printed page 89, scan page 103"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l29.jpg",
+          "image_url": "assets/three_brothers_german_l29.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -18387,12 +18387,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb03_russian_l06.jpg",
+          "image_url": "assets/tb03_russian_l06.webp",
           "source": "Lerch line crop; Russian printed page 89, scan page 103"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l30.jpg",
+          "image_url": "assets/three_brothers_german_l30.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -18660,12 +18660,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb03_russian_l07.jpg",
+          "image_url": "assets/tb03_russian_l07.webp",
           "source": "Lerch line crop; Russian printed page 89, scan page 103"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l31a.jpg",
+          "image_url": "assets/three_brothers_german_l31a.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -18967,12 +18967,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb03_russian_l08.jpg",
+          "image_url": "assets/tb03_russian_l08.webp",
           "source": "Lerch line crop; Russian printed page 89, scan page 103"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l31b.jpg",
+          "image_url": "assets/three_brothers_german_l31b.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -19251,12 +19251,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb03_russian_l09.jpg",
+          "image_url": "assets/tb03_russian_l09.webp",
           "source": "Lerch line crop; Russian printed page 89, scan page 103"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l32.jpg",
+          "image_url": "assets/three_brothers_german_l32.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -19547,12 +19547,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb03_russian_l10.jpg",
+          "image_url": "assets/tb03_russian_l10.webp",
           "source": "Lerch line crop; Russian printed page 89, scan page 103"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l33.jpg",
+          "image_url": "assets/three_brothers_german_l33.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -19889,12 +19889,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb03_russian_l11.jpg",
+          "image_url": "assets/tb03_russian_l11.webp",
           "source": "Lerch line crop; Russian printed page 89, scan page 103"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l34.jpg",
+          "image_url": "assets/three_brothers_german_l34.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -20185,12 +20185,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb03_russian_l12.jpg",
+          "image_url": "assets/tb03_russian_l12.webp",
           "source": "Lerch line crop; Russian printed page 89, scan page 103"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l35.jpg",
+          "image_url": "assets/three_brothers_german_l35.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -20515,12 +20515,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb03_russian_l13.jpg",
+          "image_url": "assets/tb03_russian_l13.webp",
           "source": "Lerch line crop; Russian printed page 89, scan page 103"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l36.jpg",
+          "image_url": "assets/three_brothers_german_l36.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -20822,12 +20822,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb03_russian_l14.jpg",
+          "image_url": "assets/tb03_russian_l14.webp",
           "source": "Lerch line crop; Russian printed page 89, scan page 103"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l37.jpg",
+          "image_url": "assets/three_brothers_german_l37.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -21141,12 +21141,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l01.jpg",
+          "image_url": "assets/tb04_russian_l01.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l38.jpg",
+          "image_url": "assets/three_brothers_german_l38.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -21448,12 +21448,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l02.jpg",
+          "image_url": "assets/tb04_russian_l02.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l39.jpg",
+          "image_url": "assets/three_brothers_german_l39.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -21583,12 +21583,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l03.jpg",
+          "image_url": "assets/tb04_russian_l03.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l40.jpg",
+          "image_url": "assets/three_brothers_german_l40.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -21856,12 +21856,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l04.jpg",
+          "image_url": "assets/tb04_russian_l04.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l41.jpg",
+          "image_url": "assets/three_brothers_german_l41.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -22163,12 +22163,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l05.jpg",
+          "image_url": "assets/tb04_russian_l05.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l42.jpg",
+          "image_url": "assets/three_brothers_german_l42.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -22459,12 +22459,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l06.jpg",
+          "image_url": "assets/tb04_russian_l06.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l43.jpg",
+          "image_url": "assets/three_brothers_german_l43.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -22778,12 +22778,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l07.jpg",
+          "image_url": "assets/tb04_russian_l07.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l44.jpg",
+          "image_url": "assets/three_brothers_german_l44.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -23051,12 +23051,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l08.jpg",
+          "image_url": "assets/tb04_russian_l08.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l45.jpg",
+          "image_url": "assets/three_brothers_german_l45.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -23381,12 +23381,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l09.jpg",
+          "image_url": "assets/tb04_russian_l09.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l46.jpg",
+          "image_url": "assets/three_brothers_german_l46.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -23710,12 +23710,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l10.jpg",
+          "image_url": "assets/tb04_russian_l10.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l47.jpg",
+          "image_url": "assets/three_brothers_german_l47.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -24017,12 +24017,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l11.jpg",
+          "image_url": "assets/tb04_russian_l11.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l48.jpg",
+          "image_url": "assets/three_brothers_german_l48.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -24347,12 +24347,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l12.jpg",
+          "image_url": "assets/tb04_russian_l12.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l49.jpg",
+          "image_url": "assets/three_brothers_german_l49.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -24677,12 +24677,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l13.jpg",
+          "image_url": "assets/tb04_russian_l13.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l50.jpg",
+          "image_url": "assets/three_brothers_german_l50.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -24950,12 +24950,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l14.jpg",
+          "image_url": "assets/tb04_russian_l14.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l51.jpg",
+          "image_url": "assets/three_brothers_german_l51.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -25246,12 +25246,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb04_russian_l15_expanded.jpg",
+          "image_url": "assets/tb04_russian_l15_expanded.webp",
           "source": "Lerch line crop; Russian printed page 90, scan page 104"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l52.jpg",
+          "image_url": "assets/three_brothers_german_l52.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -25542,12 +25542,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l01.jpg",
+          "image_url": "assets/tb05_russian_l01.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l53.jpg",
+          "image_url": "assets/three_brothers_german_l53.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -25860,12 +25860,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l02.jpg",
+          "image_url": "assets/tb05_russian_l02.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l54.jpg",
+          "image_url": "assets/three_brothers_german_l54.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -26144,12 +26144,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l03.jpg",
+          "image_url": "assets/tb05_russian_l03.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l55.jpg",
+          "image_url": "assets/three_brothers_german_l55.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -26463,12 +26463,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l04.jpg",
+          "image_url": "assets/tb05_russian_l04.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l56.jpg",
+          "image_url": "assets/three_brothers_german_l56.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -26736,12 +26736,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l05.jpg",
+          "image_url": "assets/tb05_russian_l05.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l57.jpg",
+          "image_url": "assets/three_brothers_german_l57.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -27055,12 +27055,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l06.jpg",
+          "image_url": "assets/tb05_russian_l06.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l58.jpg",
+          "image_url": "assets/three_brothers_german_l58.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -27374,12 +27374,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l07.jpg",
+          "image_url": "assets/tb05_russian_l07.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l59.jpg",
+          "image_url": "assets/three_brothers_german_l59.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -27715,12 +27715,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l08.jpg",
+          "image_url": "assets/tb05_russian_l08.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l60.jpg",
+          "image_url": "assets/three_brothers_german_l60.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -27999,12 +27999,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l09.jpg",
+          "image_url": "assets/tb05_russian_l09.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l61.jpg",
+          "image_url": "assets/three_brothers_german_l61.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -28306,12 +28306,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l10.jpg",
+          "image_url": "assets/tb05_russian_l10.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l62a.jpg",
+          "image_url": "assets/three_brothers_german_l62a.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -28625,12 +28625,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l11.jpg",
+          "image_url": "assets/tb05_russian_l11.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l62b.jpg",
+          "image_url": "assets/three_brothers_german_l62b.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -28898,12 +28898,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l12.jpg",
+          "image_url": "assets/tb05_russian_l12.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l63.jpg",
+          "image_url": "assets/three_brothers_german_l63.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -29217,12 +29217,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l13.jpg",
+          "image_url": "assets/tb05_russian_l13.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l64.jpg",
+          "image_url": "assets/three_brothers_german_l64.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -29524,12 +29524,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l14.jpg",
+          "image_url": "assets/tb05_russian_l14.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l65.jpg",
+          "image_url": "assets/three_brothers_german_l65.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -29843,12 +29843,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb05_russian_l15.jpg",
+          "image_url": "assets/tb05_russian_l15.webp",
           "source": "Lerch line crop; Russian printed page 91, scan page 105"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l66.jpg",
+          "image_url": "assets/three_brothers_german_l66.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -30162,12 +30162,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb06_russian_l01.jpg",
+          "image_url": "assets/tb06_russian_l01.webp",
           "source": "Lerch line crop; Russian printed page 92, scan page 106"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l67.jpg",
+          "image_url": "assets/three_brothers_german_l67.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -30481,12 +30481,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb06_russian_l02.jpg",
+          "image_url": "assets/tb06_russian_l02.webp",
           "source": "Lerch line crop; Russian printed page 92, scan page 106"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l68.jpg",
+          "image_url": "assets/three_brothers_german_l68.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -30754,12 +30754,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb06_russian_l03.jpg",
+          "image_url": "assets/tb06_russian_l03.webp",
           "source": "Lerch line crop; Russian printed page 92, scan page 106"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l69.jpg",
+          "image_url": "assets/three_brothers_german_l69.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -31096,12 +31096,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb06_russian_l05.jpg",
+          "image_url": "assets/tb06_russian_l05.webp",
           "source": "Lerch line crop; Russian printed page 92, scan page 106"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l70_71.jpg",
+          "image_url": "assets/three_brothers_german_l70_71.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -31576,12 +31576,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb06_russian_l06.jpg",
+          "image_url": "assets/tb06_russian_l06.webp",
           "source": "Lerch line crop; Russian printed page 92, scan page 106"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l72.jpg",
+          "image_url": "assets/three_brothers_german_l72.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -31917,12 +31917,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb06_russian_l07.jpg",
+          "image_url": "assets/tb06_russian_l07.webp",
           "source": "Lerch line crop; Russian printed page 92, scan page 106"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l73.jpg",
+          "image_url": "assets/three_brothers_german_l73.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -32247,12 +32247,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb06_russian_l08.jpg",
+          "image_url": "assets/tb06_russian_l08.webp",
           "source": "Lerch line crop; Russian printed page 92, scan page 106"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l74.jpg",
+          "image_url": "assets/three_brothers_german_l74.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -32589,12 +32589,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb06_russian_l09.jpg",
+          "image_url": "assets/tb06_russian_l09.webp",
           "source": "Lerch line crop; Russian printed page 92, scan page 106"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l75.jpg",
+          "image_url": "assets/three_brothers_german_l75.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -32942,12 +32942,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb06_russian_l10.jpg",
+          "image_url": "assets/tb06_russian_l10.webp",
           "source": "Lerch line crop; Russian printed page 92, scan page 106"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l76.jpg",
+          "image_url": "assets/three_brothers_german_l76.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -33272,12 +33272,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb06_russian_l11.jpg",
+          "image_url": "assets/tb06_russian_l11.webp",
           "source": "Lerch line crop; Russian printed page 92, scan page 106"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l77.jpg",
+          "image_url": "assets/three_brothers_german_l77.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -33625,12 +33625,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb06_russian_l12.jpg",
+          "image_url": "assets/tb06_russian_l12.webp",
           "source": "Lerch line crop; Russian printed page 92, scan page 106"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l78.jpg",
+          "image_url": "assets/three_brothers_german_l78.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -33944,12 +33944,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb06_russian_l13.jpg",
+          "image_url": "assets/tb06_russian_l13.webp",
           "source": "Lerch line crop; Russian printed page 92, scan page 106"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l79.jpg",
+          "image_url": "assets/three_brothers_german_l79.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -34263,12 +34263,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb06_russian_l14.jpg",
+          "image_url": "assets/tb06_russian_l14.webp",
           "source": "Lerch line crop; Russian printed page 92, scan page 106"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l80.jpg",
+          "image_url": "assets/three_brothers_german_l80.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -34397,12 +34397,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb07_russian_l01.jpg",
+          "image_url": "assets/tb07_russian_l01.webp",
           "source": "Lerch line crop; Russian printed page 93, scan page 107"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l81.jpg",
+          "image_url": "assets/three_brothers_german_l81.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -34647,12 +34647,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb07_russian_l02.jpg",
+          "image_url": "assets/tb07_russian_l02.webp",
           "source": "Lerch line crop; Russian printed page 93, scan page 107"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l82.jpg",
+          "image_url": "assets/three_brothers_german_l82.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -34954,12 +34954,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb07_russian_l03.jpg",
+          "image_url": "assets/tb07_russian_l03.webp",
           "source": "Lerch line crop; Russian printed page 93, scan page 107"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l83.jpg",
+          "image_url": "assets/three_brothers_german_l83.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -35272,12 +35272,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb07_russian_l04.jpg",
+          "image_url": "assets/tb07_russian_l04.webp",
           "source": "Lerch line crop; Russian printed page 93, scan page 107"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l84.jpg",
+          "image_url": "assets/three_brothers_german_l84.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -35521,12 +35521,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb07_russian_l05.jpg",
+          "image_url": "assets/tb07_russian_l05.webp",
           "source": "Lerch line crop; Russian printed page 93, scan page 107"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l85.jpg",
+          "image_url": "assets/three_brothers_german_l85.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -35840,12 +35840,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb07_russian_l06.jpg",
+          "image_url": "assets/tb07_russian_l06.webp",
           "source": "Lerch line crop; Russian printed page 93, scan page 107"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l86.jpg",
+          "image_url": "assets/three_brothers_german_l86.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -36113,12 +36113,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb07_russian_l07.jpg",
+          "image_url": "assets/tb07_russian_l07.webp",
           "source": "Lerch line crop; Russian printed page 93, scan page 107"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l87.jpg",
+          "image_url": "assets/three_brothers_german_l87.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -36420,12 +36420,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb07_russian_l08.jpg",
+          "image_url": "assets/tb07_russian_l08.webp",
           "source": "Lerch line crop; Russian printed page 93, scan page 107"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l88.jpg",
+          "image_url": "assets/three_brothers_german_l88.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -36796,12 +36796,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb07_russian_l09.jpg",
+          "image_url": "assets/tb07_russian_l09.webp",
           "source": "Lerch line crop; Russian printed page 93, scan page 107"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l89.jpg",
+          "image_url": "assets/three_brothers_german_l89.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -37103,12 +37103,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb07_russian_l10.jpg",
+          "image_url": "assets/tb07_russian_l10.webp",
           "source": "Lerch line crop; Russian printed page 93, scan page 107"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l90.jpg",
+          "image_url": "assets/three_brothers_german_l90.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -37398,12 +37398,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb07_russian_l11.jpg",
+          "image_url": "assets/tb07_russian_l11.webp",
           "source": "Lerch line crop; Russian printed page 93, scan page 107"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l91.jpg",
+          "image_url": "assets/three_brothers_german_l91.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -37705,12 +37705,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb07_russian_l12.jpg",
+          "image_url": "assets/tb07_russian_l12.webp",
           "source": "Lerch line crop; Russian printed page 93, scan page 107"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l92.jpg",
+          "image_url": "assets/three_brothers_german_l92.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -37989,12 +37989,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb07_russian_l13.jpg",
+          "image_url": "assets/tb07_russian_l13.webp",
           "source": "Lerch line crop; Russian printed page 93, scan page 107"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l93.jpg",
+          "image_url": "assets/three_brothers_german_l93.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -38296,12 +38296,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb07_russian_l14.jpg",
+          "image_url": "assets/tb07_russian_l14.webp",
           "source": "Lerch line crop; Russian printed page 93, scan page 107"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l94.jpg",
+          "image_url": "assets/three_brothers_german_l94.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -38626,12 +38626,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb08_russian_l01.jpg",
+          "image_url": "assets/tb08_russian_l01.webp",
           "source": "Lerch line crop; Russian printed page 94, scan page 108"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l95.jpg",
+          "image_url": "assets/three_brothers_german_l95.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -38922,12 +38922,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb08_russian_l02.jpg",
+          "image_url": "assets/tb08_russian_l02.webp",
           "source": "Lerch line crop; Russian printed page 94, scan page 108"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l96.jpg",
+          "image_url": "assets/three_brothers_german_l96.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -39126,12 +39126,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb08_russian_l03.jpg",
+          "image_url": "assets/tb08_russian_l03.webp",
           "source": "Lerch line crop; Russian printed page 94, scan page 108"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l97.jpg",
+          "image_url": "assets/three_brothers_german_l97.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -39410,12 +39410,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb08_russian_l04.jpg",
+          "image_url": "assets/tb08_russian_l04.webp",
           "source": "Lerch line crop; Russian printed page 94, scan page 108"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l98.jpg",
+          "image_url": "assets/three_brothers_german_l98.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -39740,12 +39740,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb08_russian_l05.jpg",
+          "image_url": "assets/tb08_russian_l05.webp",
           "source": "Lerch line crop; Russian printed page 94, scan page 108"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l99.jpg",
+          "image_url": "assets/three_brothers_german_l99.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -40069,12 +40069,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb08_russian_l06.jpg",
+          "image_url": "assets/tb08_russian_l06.webp",
           "source": "Lerch line crop; Russian printed page 94, scan page 108"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l100.jpg",
+          "image_url": "assets/three_brothers_german_l100.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -40342,12 +40342,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb08_russian_l07.jpg",
+          "image_url": "assets/tb08_russian_l07.webp",
           "source": "Lerch line crop; Russian printed page 94, scan page 108"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l101.jpg",
+          "image_url": "assets/three_brothers_german_l101.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -40661,12 +40661,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb08_russian_l08.jpg",
+          "image_url": "assets/tb08_russian_l08.webp",
           "source": "Lerch line crop; Russian printed page 94, scan page 108"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l102.jpg",
+          "image_url": "assets/three_brothers_german_l102.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -40957,12 +40957,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb08_russian_l09.jpg",
+          "image_url": "assets/tb08_russian_l09.webp",
           "source": "Lerch line crop; Russian printed page 94, scan page 108"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l103.jpg",
+          "image_url": "assets/three_brothers_german_l103.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -41275,12 +41275,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb08_russian_l10.jpg",
+          "image_url": "assets/tb08_russian_l10.webp",
           "source": "Lerch line crop; Russian printed page 94, scan page 108"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l104.jpg",
+          "image_url": "assets/three_brothers_german_l104.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -41605,12 +41605,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb08_russian_l11.jpg",
+          "image_url": "assets/tb08_russian_l11.webp",
           "source": "Lerch line crop; Russian printed page 94, scan page 108"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l105.jpg",
+          "image_url": "assets/three_brothers_german_l105.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -41923,12 +41923,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb08_russian_l12.jpg",
+          "image_url": "assets/tb08_russian_l12.webp",
           "source": "Lerch line crop; Russian printed page 94, scan page 108"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l106.jpg",
+          "image_url": "assets/three_brothers_german_l106.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -42230,12 +42230,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb08_russian_l13.jpg",
+          "image_url": "assets/tb08_russian_l13.webp",
           "source": "Lerch line crop; Russian printed page 94, scan page 108"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l107.jpg",
+          "image_url": "assets/three_brothers_german_l107.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -42525,12 +42525,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb08_russian_l14.jpg",
+          "image_url": "assets/tb08_russian_l14.webp",
           "source": "Lerch line crop; Russian printed page 94, scan page 108"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l108.jpg",
+          "image_url": "assets/three_brothers_german_l108.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -42855,12 +42855,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb09_russian_l01.jpg",
+          "image_url": "assets/tb09_russian_l01.webp",
           "source": "Lerch line crop; Russian printed page 95, scan page 109"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l109.jpg",
+          "image_url": "assets/three_brothers_german_l109.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -43185,12 +43185,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb09_russian_l02.jpg",
+          "image_url": "assets/tb09_russian_l02.webp",
           "source": "Lerch line crop; Russian printed page 95, scan page 109"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l110.jpg",
+          "image_url": "assets/three_brothers_german_l110.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -43515,12 +43515,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb09_russian_l03.jpg",
+          "image_url": "assets/tb09_russian_l03.webp",
           "source": "Lerch line crop; Russian printed page 95, scan page 109"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l111.jpg",
+          "image_url": "assets/three_brothers_german_l111.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -43857,12 +43857,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb09_russian_l04.jpg",
+          "image_url": "assets/tb09_russian_l04.webp",
           "source": "Lerch line crop; Russian printed page 95, scan page 109"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l112.jpg",
+          "image_url": "assets/three_brothers_german_l112.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -44164,12 +44164,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb09_russian_l05.jpg",
+          "image_url": "assets/tb09_russian_l05.webp",
           "source": "Lerch line crop; Russian printed page 95, scan page 109"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l113.jpg",
+          "image_url": "assets/three_brothers_german_l113.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -44506,12 +44506,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb09_russian_l06.jpg",
+          "image_url": "assets/tb09_russian_l06.webp",
           "source": "Lerch line crop; Russian printed page 95, scan page 109"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l114.jpg",
+          "image_url": "assets/three_brothers_german_l114.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -44802,12 +44802,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb09_russian_l07.jpg",
+          "image_url": "assets/tb09_russian_l07.webp",
           "source": "Lerch line crop; Russian printed page 95, scan page 109"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l115.jpg",
+          "image_url": "assets/three_brothers_german_l115.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -45109,12 +45109,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb09_russian_l08.jpg",
+          "image_url": "assets/tb09_russian_l08.webp",
           "source": "Lerch line crop; Russian printed page 95, scan page 109"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l116.jpg",
+          "image_url": "assets/three_brothers_german_l116.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -45416,12 +45416,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb09_russian_l09.jpg",
+          "image_url": "assets/tb09_russian_l09.webp",
           "source": "Lerch line crop; Russian printed page 95, scan page 109"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l117.jpg",
+          "image_url": "assets/three_brothers_german_l117.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -45735,12 +45735,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb09_russian_l10.jpg",
+          "image_url": "assets/tb09_russian_l10.webp",
           "source": "Lerch line crop; Russian printed page 95, scan page 109"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l118.jpg",
+          "image_url": "assets/three_brothers_german_l118.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -46031,12 +46031,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb09_russian_l11.jpg",
+          "image_url": "assets/tb09_russian_l11.webp",
           "source": "Lerch line crop; Russian printed page 95, scan page 109"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l119.jpg",
+          "image_url": "assets/three_brothers_german_l119.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -46338,12 +46338,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb09_russian_l12.jpg",
+          "image_url": "assets/tb09_russian_l12.webp",
           "source": "Lerch line crop; Russian printed page 95, scan page 109"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l120.jpg",
+          "image_url": "assets/three_brothers_german_l120.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -46622,12 +46622,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb09_russian_l13.jpg",
+          "image_url": "assets/tb09_russian_l13.webp",
           "source": "Lerch line crop; Russian printed page 95, scan page 109"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l121.jpg",
+          "image_url": "assets/three_brothers_german_l121.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -46941,12 +46941,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb09_russian_l14.jpg",
+          "image_url": "assets/tb09_russian_l14.webp",
           "source": "Lerch line crop; Russian printed page 95, scan page 109"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l122.jpg",
+          "image_url": "assets/three_brothers_german_l122.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -47259,12 +47259,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb10_russian_l01.jpg",
+          "image_url": "assets/tb10_russian_l01.webp",
           "source": "Lerch line crop; Russian printed page 96, scan page 110"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l123.jpg",
+          "image_url": "assets/three_brothers_german_l123.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
@@ -47555,12 +47555,12 @@
       "witnesses": [
         {
           "label": "Russian scan",
-          "image_url": "assets/tb10_russian_l02.jpg",
+          "image_url": "assets/tb10_russian_l02.webp",
           "source": "Lerch line crop; Russian printed page 96, scan page 110"
         },
         {
           "label": "German reprint scan",
-          "image_url": "assets/three_brothers_german_l124.jpg",
+          "image_url": "assets/three_brothers_german_l124.webp",
           "source": "Müller 1865 German line crop"
         }
       ],
