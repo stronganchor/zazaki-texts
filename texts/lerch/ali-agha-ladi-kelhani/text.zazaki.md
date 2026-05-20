@@ -12,13 +12,9 @@ Ali ağay kêyê xoê bar kêrd, şê Syêraçurê.
 
 Hiris û şêş roci vênert Syêraçurêdê.
 
-Hiris ? ??h?r dewi Karbegani, hiris ? ??h?r dewi Sivani am?y py?ser, m??ore kerd.
+Hiris û çêhêr dewi Karbegani, hiris û çêhêr dewi Sivani amêy pyêser, mêşore kerd, ağalêrani Sivani, Qasim ağa Karbêgani, 'Hasan ağa Weşini amêy pyêser va kê: ma şyêri kêy Ali ağay byari daw.
 
-A?al?rani Sivani, Qasim a?a Karb?gani, 'Hasan a?a We?ini am?y py?ser va k?: ma ?y?ri k?y Ali a?ay byari daw.
-
-Qasim a?a va k?: ma Ali a?ay b?'hap?yni, ma ?aw? venga ?sk?r? xo? di, esk?ri dawang wa py?ru b?ru py?ser.
-
-Ma ?aw? ?y?ri Ali a?ay ??h?r hem? lacana ma b?k?i.
+Qasim ağa va kê: ma Ali ağay bê'hapêyni, ma şawê venga êskêrê xoê di, eskêri dawang wa pyêru bêru pyêser, ma şawê şyêri Ali ağay çêhêr hemê lacana ma bıkşi.
 
 'Hasan ağay Weşini va kê: rınd bênu, ma şyêri Ali ağay byari bıkşi.
 
@@ -48,7 +44,9 @@ Ali ağa va kê: tê xaini, ez çêkani xoê nyêdana twê.
 
 Qasim ağay swend wênd.
 
-Ali ağay çêki xoê çêhêr hemê lacana xoê aryê kerdi, day Qasim ağayra. Qasim ağay gêrawt.
+Ali ağay çêki xoê çêhêr hemê lacana xoê aryê kerdi, day Qasim ağayra.
+
+Qasim ağay gêrawt.
 
 A'hmêd laci Ali ağay va kê: 'halo, çêkani ma mebêrê, tê xaini, bawki mê serêdê aqıl çinyu, rocêy ramazanyu, bawni, xalo, tê çêkani ma bêni, pêynıdê tê xain vêci, ez twê kısêna.
 
@@ -58,11 +56,7 @@ A'hmêdi va kê: 'halo xancêray mê bıdê, ez zana, tê xaini, byê ba'htêdê
 
 'Hali xancêray A'hmêdi nyêday cê.
 
-'Hal ?? teb?r, esk?ri xora va: mevindi, ??ki Ali a?ay ??h?r hem? lacan m? g?rawt, ez ama teb?r.
-
-Mevindi, b?r b??ikni, ?y?ri zer?, Ali a?ay ??h?r hem? lacan b?k?i;
-
-H?ma d?s ? h?y?ti merdwomi ?aribi y?n? 'het? esti, y?n?ra ve meki.
+'Hal şê tebêr, eskêri xora va: mevindi, çêki Ali ağay çêhêr hemê lacan mê gêrawt, ez ama tebêr, mevindi, bêr bışikni, şyêri zerê, Ali ağay çêhêr hemê lacan bıkşi; hêma dês û hêyşti merdwomi ğaribi yênê 'hetê esti, yênêra ve meki.
 
 Eskêri Qasim ağay bêr şêkit, Qasim ağay kawta ver, veng da va kê A'hmêdira: warêza, ez amêya, tı ku sera şyêri, ez serêy twê ena gêlankê wêna.
 
@@ -76,7 +70,9 @@ A'hmêdi xancêri 'halira vetê, A'hmêdi Êysan kişt, 'Hasani Kalan kişt.
 
 Kalme gna A'hmêdi pêy çimyiru, goêni byê A'hmêdi çimi.
 
-A'hmêd hyêrs bê, 'hawt teni pêy aya xancêri kişti. A'hmêd kişya.
+A'hmêd hyêrs bê, 'hawt teni pêy aya xancêri kişti.
+
+A'hmêd kişya.
 
 'Hiryê heme bêrai A'hmêdi bawkê yê kişti.
 
@@ -88,6 +84,4 @@ Cênazay Ali ağay, çêhêr heme lacana, dês û hêyşt merdümi ğaribana py�
 
 Soba Mêlay Rêsa veng da va kê mêla Qasimi Dêsmuncira: byêri cênazay Ali ağay aylana dês û hêyşt teni merdümi ğaribana 'hetya byêri beri wedari.
 
-M?la Qasim weri?t D?smunira, M?m?d a?a weri?t ??yt?ra, Ram?dan a?ay weri?t M?rzy?l?ra.
-
-?i, le?i Ali a?ay lacana d?s ? h?y?t merdumi ?aribana g?rawti ardi berdi wederti.
+Mêla Qasim werişt Dêsmunira, Mêmêd ağa werişt Ğêytêra, Ramêdan ağay werişt Mêrzyêlêra, şi, leşi Ali ağay lacana dês û hêyşt merdumi ğaribana gêrawti ardi berdi wederti.

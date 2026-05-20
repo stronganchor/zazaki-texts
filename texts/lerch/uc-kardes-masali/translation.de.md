@@ -20,9 +20,7 @@ d.
 
 Kurden.
 
-Abtb.
-
-I.
+Abtb. I.
 
 7 Hasanek bemerkte eine Hoble.
 
@@ -32,17 +30,11 @@ Es war die Höhle eines Dev.
 
 ich komme sogleich, um die Köpfe von euch allen Dreien zu verzehren.
 
-Hasanek sagte zu seinen Brüdern: fürchtet euch nicht, das ist ein Dev, er kommt zu uns, sagt uns: warum schneidet ihr diesen meinen Waizen, keiner von euch gebe einen Laut von sich,
+Hasanek sagte zu seinen Brüdern: fürchtet euch nicht, das ist ein Dev, er kommt zu uns, sagt uns: warum schneidet ihr diesen meinen Waizen, keiner von euch gebe einen Laut von sich, ich werde dem Dev antworten.
 
-ich werde dem Dev antworten.
+Er schnitt den W'aizen, sah den Dev kommen; der Dev sprach: was schafft ihr?
 
-Er schnitt den W'aizen,
-
-sah den Dev kommen; der Dev sprach: was schafft ihr?
-
-ihr kennt meinen Namen nicht,
-
-ich bin ein Dev, ich esse sogleich die Köpfe von euch allen Dreien auf.
+ihr kennt meinen Namen nicht, ich bin ein Dev, ich esse sogleich die Köpfe von euch allen Dreien auf.
 
 Hasanek sagte: mein Herr, erlaube mir, mit dir zu reden; der Dev sagte: mein Sohn, sprich.
 
@@ -56,9 +48,7 @@ Der Dev schnitt.
 
 Qasim und Schaban, alle drei schnitten den Waizen bis zum Abendgebet.
 
-Der Dev erhob sich, schrieb einen Brief, gab ihn dem Hasanek (und) sprach: schlage diesen Weg ein, geh, — du siehst jenen Berg — auf der Spitze jenes Berges ist mein Haus, mein Weib, meine drei Töchter wohnen in dem Hause,
-
-trage den Brief hin, gieb ihn meinem Weibe, sie weiss (schon).
+Der Dev erhob sich, schrieb einen Brief, gab ihn dem Hasanek (und) sprach: schlage diesen Weg ein, geh, — du siehst jenen Berg — auf der Spitze jenes Berges ist mein Haus, mein Weib, meine drei Töchter wohnen in dem Hause, trage den Brief hin, gieb ihn meinem Weibe, sie weiss (schon).
 
 Hasannek nahm den Brief, machte sich auf den Weg, ging, ging zwei Stunden, (darauf) öffnete er den Brief, sah, dass der Dev schrieb: wenn dieser Mensch diesen Brief ins Haus bringt, schneide mir den Kopf dieses Menschen ab, koche mir einen Pilav, von dem Kopfe dieses Menschen koche mir einen Pilav, schicke ihn mir, ich werde ihn essen.
 
@@ -66,31 +56,19 @@ Hasanek zerriss den Brief, warf ihn weg (und) schrieb einen andern Brief: wenn d
 
 Hasanek gab (diesen) Brief dem Weibe des Dev.
 
-Die Frau des Dev nahm den Brief, öffnete ihn, las, dass der Dev darin geschrieben: sie solle einen Pilav von dem braunen Stiere niacheD (und) dem Hasanek geben,
+Die Frau des Dev nahm den Brief, öffnete ihn, las, dass der Dev darin geschrieben: sie solle einen Pilav von dem braunen Stiere niacheD (und) dem Hasanek geben, Hasanek solle diese Nacht bei der ältesten Tochter schlafen, des andern Morgens jenen Pilav (ihm) bringen.
 
-Hasanek solle diese Nacht bei der ältesten Tochter schlafen, des andern Morgens jenen Pilav (ihm) bringen.
-
-Das Weib des Dev schlachtete den braunen Stier,
-
-machte aus dem Fleische des braunen Stiers einen Pilav, gab (ihn) dem Hasanek.
-
-Hasanek nahm diesen Pilav, ging, trug (ihn) zum Dev.
+Das Weib des Dev schlachtete den braunen Stier, machte aus dem Fleische des braunen Stiers einen Pilav, gab (ihn) dem Hasanek. Hasanek nahm diesen Pilav, ging, trug (ihn) zum Dev.
 
 Der Dev sah, dass Hasanek kommt.
 
-Hasanek brachte den Pilav,
-
-gab (ihn) dem Dev.
+Hasanek brachte den Pilav, gab (ihn) dem Dev.
 
 Der Dev nahm (und) sagte zu Hasanek: einen solchen Brief habe ich nicht geschrieben, dieses schlechte W eib, wozu hat es diese Speise bereitet und dir gegeben, (wozu) hast du diese Speise mir gebracht?
 
-Solches habe ich im Briefe nicht geschrieben, (sondern vielmehr, dass) sie mir den Hasanek schlachten,
+Solches habe ich im Briefe nicht geschrieben, (sondern vielmehr, dass) sie mir den Hasanek schlachten, aus dem Fleische des Hasanek mir einen Pilav machen (und duoseiben) mir schicken solle.
 
-aus dem Fleische des Hasanek mir einen Pilav machen (und duoseiben) mir schicken solle.
-
-Hasanek sagte zum Dev: willst du dieses Mal gehen, gebe, willst du nicht gehen, will ich gehen, dieses Mal soll sie mich schlachten, dir einen Pilav machen, korheD (und) schicken.
-
-Der Dev sagte dem Hasanek: mein Sohn, schweige still, ich will noch einmal schreiben, dir (den Brief) geben, nimm (ihn), geh zu meinem W'eibe, wenn du dieses Mal kommst, dann will ich gehen.
+Hasanek sagte zum Dev: willst du dieses Mal gehen, gebe, willst du nicht gehen, will ich gehen, dieses Mal soll sie mich schlachten, dir einen Pilav machen, korheD (und) schicken. Der Dev sagte dem Hasanek: mein Sohn, schweige still, ich will noch einmal schreiben, dir (den Brief) geben, nimm (ihn), geh zu meinem W'eibe, wenn du dieses Mal kommst, dann will ich gehen.
 
 Hasanek sagle: schön, mein Herr.
 
@@ -120,9 +98,7 @@ Die Brüder des Hasanek erhoben sieb, Hasanek führte die Brüder weg, sie ginge
 
 Dieser begab sich in eine Stadt, brachte seine Brüder auf einen Markt (und) sagte zu seinen Brüdern: yeht wohin es euch beliebt. Hasaneks Bruder Qasim sagte zu Hasanek: warum hast du uns hierher geführt?
 
-Hasaneks Bruder Schaban weinte.
-
-Hasanek sagte: Bruder, warum weinst du? Gott ist gnädig (gross).
+Hasaneks Bruder Schaban weinte. Hasanek sagte: Bruder, warum weinst du? Gott ist gnädig (gross).
 
 Hasaneks Bruder Qasim sagte dem Hasanek: warum hast du uns hierher geführt, was machst du mit uns?
 
@@ -142,19 +118,13 @@ Er sagte zu seinem Bruder Sehaban: Bruder, wer sind die (welche) dich in dieses 
 
 Hasanek führte seinen Bruder Sehaban aus dem Gefängniss zu sich, ruhte vier Tage, brachte (darauf) seinen Bruder Sehaban in ein Bad, seifte, wusch (und) reinigte ihn, nahm ihn aus dem Bade, führte find übergab ihn dem Anführer einer Leibwache.
 
-Hasanek sagte zum Anführer der Leibwache: dieser mein Bruder sei dein Schützling.
-
-Der Anführer der Leibwache sagte zu Hasanek: Held, wohin gehst du?
+Hasanek sagte zum Anführer der Leibwache: dieser mein Bruder sei dein Schützling. Der Anführer der Leibwache sagte zu Hasanek: Held, wohin gehst du?
 
 llasanek sagte zum Anführer der Leibwache: um mich am Dev zu rächen.
 
 Der Anführer der Leibwache sagte zu Hasanek: geh, Held, ich bin ein Devbändiger, der Dev hat ein Schwert in einer goldeneu Scheide, in einem lleberzuge; bei dem Lager, wo der Dev schläft, (dort) nimm über seinem Haupte sein Schwert, begieb dich dann weiter, auf der rechten Seile ist ein Gitter, geh zu diesem Gitter, öffne es; sobald der Dev ins Zimmer tritt, nimm du sein Schwert in die Hand, wenn er im Zimmer vorschreitet, versetze du ihm einen Streich aufs Haupt, schneide es ihm ab (und) wirf es zur Erde, im llauptu des Dev ist eine Zunge, (welche) spricht; spricht sie zu dir: gieli einen zweiten Streich, sage: einen zweiten Streich gebe ich nicht mehr, (denn) die Hede der Helden ist eine. Hasanek erhob sich, ging zur Wohnung des Dev, fand das Lager des Dev, über dem Kissen des Dev nahm er sein Schwert, ging weiter, erblickte auf der rechten Seite ein Gitter, ging und stellte sich vor diesem Gitter hin.
 
-Der Dev kam, Hasanek nahm das Schwert in seine Hand, der Dev schritt vor im Zimmer, Hasanek führte einen Streich mit seinem Schwerte (und) schnitt dem Dev das Haupt Forsch,
-
-iib.
-
-d.
+Der Dev kam, Hasanek nahm das Schwert in seine Hand, der Dev schritt vor im Zimmer, Hasanek führte einen Streich mit seinem Schwerte (und) schnitt dem Dev das Haupt Forsch, iib. d.
 
 Kurden.
 
@@ -162,6 +132,4 @@ Ahth. I. 8 Der Dev fiel zu Boden.
 
 Er sagte dem Hasanek: gicb einen zweiten Streich.
 
-Hasanek sagte dem Dev: die Rede der Helden ist eine; der Dev starb, Hasanek erhob sich, trug die Leiche des Dev weg, warf sie in ein Gefäugniss, ging umher und kam zum Hause des Dev.
-
-Er nahm die jüngste Tochter des Dev und vermählte sich mit ihr, ging, wanderte (und) fand seine Brüder Qasiin und Schaban, nahm (und) brachte (sie) in's Haus des Dev, gab die älteste Tochter seinem Bruder Schaban, die mittlere Tochter seinem Bruder Qasim, (darauf) Hessen sie sich nieder und verblieben in süsser Ruhe.
+Hasanek sagte dem Dev: die Rede der Helden ist eine; der Dev starb, Hasanek erhob sich, trug die Leiche des Dev weg, warf sie in ein Gefäugniss, ging umher und kam zum Hause des Dev. Er nahm die jüngste Tochter des Dev und vermählte sich mit ihr, ging, wanderte (und) fand seine Brüder Qasiin und Schaban, nahm (und) brachte (sie) in's Haus des Dev, gab die älteste Tochter seinem Bruder Schaban, die mittlere Tochter seinem Bruder Qasim, (darauf) Hessen sie sich nieder und verblieben in süsser Ruhe.

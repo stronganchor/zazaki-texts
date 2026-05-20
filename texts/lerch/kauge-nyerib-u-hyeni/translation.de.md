@@ -16,9 +16,7 @@ Der Mann von Nerib sagte: ich tödte dich.
 
 Der Mann von H'yeni ging, um seine Pistolen zu nehmen, steckte sie in den Gürtel, nahm ein Schwert in die Hand (und) ging auf den von Nerib los.
 
-Dieser sprang sogleich auf, ging (und) riss dem Andern die Waffen aus, tödtete ihn, warf (seinen Leichnam) bei Seite,
-
-ging nach Nerib zu Xalef Agha (und) sagte dem: ich habe einen Menschen von H'yeni getödtet.
+Dieser sprang sogleich auf, ging (und) riss dem Andern die Waffen aus, tödtete ihn, warf (seinen Leichnam) bei Seite, ging nach Nerib zu Xalef Agha (und) sagte dem: ich habe einen Menschen von H'yeni getödtet.
 
 Xalef Agha sagte zu jenem Manne: der von Hyeni, den du getödtet hast, was ist das für ein Mensch?
 
@@ -26,9 +24,7 @@ Jener sagte dem Xalef Agha: es ist ein Knecht des Mül'a Hasein Muyara.
 
 Xalef Agha sagte: sei auf deiner Hut, du hast einen fremden Menschen getödtet, ein Fremder wird in dein Haus kommen, wird dich tödten.
 
-Jener sagte dem Xalef Agha: sende einen Boten nach Klein-Nerib (und) Deistei H'enzi, dass sie auf ihrer Hut sein mögen, dass sie ihre Habe nicht ohne Schutz lassen;
-
-(denn) welchen Tag die Nachricht nach H'yeni kommt, werden wir uns schlagen.
+Jener sagte dem Xalef Agha: sende einen Boten nach Klein-Nerib (und) Deistei H'enzi, dass sie auf ihrer Hut sein mögen, dass sie ihre Habe nicht ohne Schutz lassen; (denn) welchen Tag die Nachricht nach H'yeni kommt, werden wir uns schlagen.
 
 Xalef Agha sandte einen Boten nach Klein-Nerib und liess dem Wesman Agha sagen: sende die Nachricht nach Deiste H'enzi dem Mehmud Agha.
 
@@ -48,15 +44,11 @@ Xalef Agha sandte einen Boten zu Daqma Baeg nach H'yeni und liess sagen: sei auf
 
 Daqma Baeg rief sein ganzes Heer zusammen, versammelte es vor dem Hause des Temir Baeg, vertheilte unter dasselbe Pulver und Blei, sass auf und sandte das Fussvolk über die Wiesen, die Reiterei durch die Weingärten.
 
-Mit dem Anbruch der Morgenröthe, als es zu tagen anfing, sandte er einen Boten nach Nerib zu Xalef Agha und liess ihm sagen: Verdammter, diese Nacht habe ich bis zum Morgen nicht geschlafen,
-
-was ist deine Rede gewesen?
+Mit dem Anbruch der Morgenröthe, als es zu tagen anfing, sandte er einen Boten nach Nerib zu Xalef Agha und liess ihm sagen: Verdammter, diese Nacht habe ich bis zum Morgen nicht geschlafen, was ist deine Rede gewesen?
 
 du sagtest, du würdest zum Kampfe kommen mein Heer ist bereit.
 
-Xalef Agha sass auf, liess die Trommel rühren, führte sein Heer weg und sagte zu demselben: fürchtet euch nicht, Jene sind Türken, verstehen nicht sich zu schlagen, wir sind tapfere Stammessöhne, fürchtet euch nicht,
-
-ich bin mit euch, wenn ich auch sterbe, so gehet dennoch in den Kampf.
+Xalef Agha sass auf, liess die Trommel rühren, führte sein Heer weg und sagte zu demselben: fürchtet euch nicht, Jene sind Türken, verstehen nicht sich zu schlagen, wir sind tapfere Stammessöhne, fürchtet euch nicht, ich bin mit euch, wenn ich auch sterbe, so gehet dennoch in den Kampf.
 
 Das Heer Xalef Agha's sagte: gut, Agha, so lange wir nicht sterben, verlassen wir dich nicht, gehen in den Kampf.
 
@@ -104,9 +96,7 @@ Daqma Baeg ging Truppen zu sammeln, in zwanzig Tagen hatte er vier Tausend zusam
 
 Am ein und zwanzigsten Tage war er fertig (und) sandte zu Xalef Agha einen Boten und liess sagen: mein Heer ist fertig, morgen komme ich zum Kampf, wir werden uns schlagen.
 
-Xalef Agha sandte einen Boten zu Daqma Baeg und liess sagen: sei deiner Zeit bereit, morgen mit der Morgenröthe komme ich aufs haemyerische Feld, führe du dein Heer hin, komme durch die Weingärten zur Festung,
-
-wir werden uns schlagen, bis du mir den Kopf abschlägst oder ich dir den Kopf abschlage.
+Xalef Agha sandte einen Boten zu Daqma Baeg und liess sagen: sei deiner Zeit bereit, morgen mit der Morgenröthe komme ich aufs haemyerische Feld, führe du dein Heer hin, komme durch die Weingärten zur Festung, wir werden uns schlagen, bis du mir den Kopf abschlägst oder ich dir den Kopf abschlage.
 
 Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: zögere nicht, mit dem Anbruch des Morgens komme.
 
@@ -134,9 +124,7 @@ trug das Banner gegen das Heer Daqma Baeg's, stiess mit demselben zusammen, käm
 
 Xalef Agha zog sein Heer zurück, kam nach Nerib (und) sah, dass aus seinem Heere sechzig Mann geschieden waren; er schickte einen Boten zu Daqma Baeg und liess sagen: sechzig Mann fehlen in meinem Heere.
 
-Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: in deinem Heere fehlen sechzig Mann, in meinem Heere aber hundert und achtzig Mann, sie sind alle getödtet, komm und nimm deine Todten, ich habe Niemand,
-
-um die meinigen zu bestatten.
+Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: in deinem Heere fehlen sechzig Mann, in meinem Heere aber hundert und achtzig Mann, sie sind alle getödtet, komm und nimm deine Todten, ich habe Niemand, um die meinigen zu bestatten.
 
 Xalef Agha sandte einen Menschen, dem er sagte: geh, um unsere Leichen zu bringen.
 

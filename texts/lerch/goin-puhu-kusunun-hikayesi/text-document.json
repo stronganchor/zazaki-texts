@@ -40,7 +40,7 @@
   "summary": {
     "lines": 40,
     "source_lines": 40,
-    "reading_units": 29,
+    "reading_units": 26,
     "tokens": 419
   },
   "witnesses": [
@@ -219,26 +219,11 @@
     },
     {
       "id": "u011_01",
-      "source": "Kêynêk va kê: baw, mê 'hawni xoêdê dyi, bêray mê kiştu, êyştu zêyndang, ez 'ha warzêna, şwêna golêkangdê, yêrêy yêna kêyê, ekê bêray mê amaw, ez zana weşu,",
+      "source": "Kêynêk va kê: baw, mê 'hawni xoêdê dyi, bêray mê kiştu, êyştu zêyndang, ez 'ha warzêna, şwêna golêkangdê, yêrêy yêna kêyê, ekê bêray mê amaw, ez zana weşu, 'hêyrkê bêray mê nyamaw ez 'hêni twêri golêkangdê nyêşwêna, ez etya nyêvêndêna.",
       "translations": {
-        "tr": "K?z, \"Baba, r?yamda karde?imin ?ld?r?l?p ?ukura at?ld???n? g?rd?m. ?imdi kalk?p s???rlar?n yan?na gidiyorum; ak?am eve gelece?im. Karde?im gelirse onun iyi oldu?unu bilece?im,",
-        "en": "The girl said, \"Father, in my dream I saw that my brother had been killed and thrown into the pit. I am getting up now and going among the cattle; in the evening I will come home. If my brother comes, I will know he is well,",
-        "de": "Das Mädchen sagte: Vater, im Traume sah ich, dass mein Bruder getödtet, in eine Grube geworfen sei; ich will mich jetzt aufmachen, nach den Kühen (sehen) gehen, am Abend komme ich nach Hause; wenn mein Bruder kommt, werde ich wissen,"
-      },
-      "source_line_ids": [
-        "g02_l10",
-        "g02_l11",
-        "g02_l12",
-        "g02_l13"
-      ]
-    },
-    {
-      "id": "u011_02",
-      "source": "'hêyrkê bêray mê nyamaw ez 'hêni twêri golêkangdê nyêşwêna, ez etya nyêvêndêna.",
-      "translations": {
-        "tr": "ama karde?im gelmezse art?k senin i?in s???rlar?n yan?na gitmeyece?im ve burada kalmayaca??m,\" demi?.",
-        "en": "but if my brother does not come, I will no longer go among the cattle for you, and I will not remain here.\"",
-        "de": "dass er gesund; so lange (aber) mein Bruder nicht kommt, gehe ich nicht mehr nach den Kühen sehen, ich bleibe (dann) nicht (mehr) hier."
+        "tr": "K?z, \"Baba, r?yamda karde?imin ?ld?r?l?p ?ukura at?ld???n? g?rd?m. ?imdi kalk?p s???rlar?n yan?na gidiyorum; ak?am eve gelece?im. Karde?im gelirse onun iyi oldu?unu bilece?im, ama karde?im gelmezse art?k senin i?in s???rlar?n yan?na gitmeyece?im ve burada kalmayaca??m,\" demi?.",
+        "en": "The girl said, \"Father, in my dream I saw that my brother had been killed and thrown into the pit. I am getting up now and going among the cattle; in the evening I will come home. If my brother comes, I will know he is well, but if my brother does not come, I will no longer go among the cattle for you, and I will not remain here.\"",
+        "de": "Das Mädchen sagte: Vater, im Traume sah ich, dass mein Bruder getödtet, in eine Grube geworfen sei; ich will mich jetzt aufmachen, nach den Kühen (sehen) gehen, am Abend komme ich nach Hause; wenn mein Bruder kommt, werde ich wissen, dass er gesund; so lange (aber) mein Bruder nicht kommt, gehe ich nicht mehr nach den Kühen sehen, ich bleibe (dann) nicht (mehr) hier."
       },
       "source_line_ids": [
         "g02_l10",
@@ -249,25 +234,11 @@
     },
     {
       "id": "u012_01",
-      "source": "Bawki kêynêkê xoêra va kê: êyrwê tı şwê golikangdê, ez gêrêna, ekê mê bêray twê di, bızanê kê: ek cênyay mê şımadê sağê nya, 'hêyrkê mê bêray twê nyêdi,",
+      "source": "Bawki kêynêkê xoêra va kê: êyrwê tı şwê golikangdê, ez gêrêna, ekê mê bêray twê di, bızanê kê: ek cênyay mê şımadê sağê nya, 'hêyrkê mê bêray twê nyêdi, nyê ez vêndêna, nyê tı vındê.",
       "translations": {
-        "tr": "Babası kıza, \"Bugün sığırların yanına git; ben gidip kardeşini arayacağım.",
-        "en": "Her father said to the girl, \"Today go among the cattle; I will go and look for your brother.",
-        "de": "Der Vater sagte zu seiner Tochter: du gehe heute nach den Kühen (sehen), ich werde mich aufmachen, um deinen Bruder zu suchen, (und) wisse: da meine Frau euch nicht gut ist, so bleibe weder ich, noch bleibst du hier,"
-      },
-      "source_line_ids": [
-        "g02_l14",
-        "g03_l01",
-        "g03_l02"
-      ]
-    },
-    {
-      "id": "u012_02",
-      "source": "nyê ez vêndêna, nyê tı vındê.",
-      "translations": {
-        "tr": "Şunu bil: eğer karım size iyi değilse ve kardeşini bulamazsam, ne ben ne de sen burada kalacağız,\" demiş.",
-        "en": "Know this: if my wife is not good to you, and if I do not find your brother, neither I nor you will remain here.\"",
-        "de": "bis dass ich deinen Bruder gefunden habe."
+        "tr": "Babası kıza, \"Bugün sığırların yanına git; ben gidip kardeşini arayacağım. Şunu bil: eğer karım size iyi değilse ve kardeşini bulamazsam, ne ben ne de sen burada kalacağız,\" demiş.",
+        "en": "Her father said to the girl, \"Today go among the cattle; I will go and look for your brother. Know this: if my wife is not good to you, and if I do not find your brother, neither I nor you will remain here.\"",
+        "de": "Der Vater sagte zu seiner Tochter: du gehe heute nach den Kühen (sehen), ich werde mich aufmachen, um deinen Bruder zu suchen, (und) wisse: da meine Frau euch nicht gut ist, so bleibe weder ich, noch bleibst du hier, bis dass ich deinen Bruder gefunden habe."
       },
       "source_line_ids": [
         "g02_l14",
@@ -303,26 +274,11 @@
     },
     {
       "id": "u015_01",
-      "source": "Bawki kêynêk amêy kêyê, cênyay xoêra va kê: twê qawi laci mê kiştu, way cêy bi şewi 'hawni xoêdê di bê, ek bêray xoê kiştu, amêy, bermayê,",
+      "source": "Bawki kêynêk amêy kêyê, cênyay xoêra va kê: twê qawi laci mê kiştu, way cêy bi şewi 'hawni xoêdê di bê, ek bêray xoê kiştu, amêy, bermayê, mêra va kê: baw, bêray mê kiştu, êyştu zêyndang.",
       "translations": {
-        "tr": "Kızın babası eve gelmiş ve karısına şöyle demiş: \"Kesinlikle oğlumu sen öldürdün.",
-        "en": "The girl's father came home and said to his wife, \"Surely you killed my son.",
-        "de": "Der Vater kam nach Hause (und) sagte zu seiner Frau: weshalb hast du meinen Sohn getödtet?"
-      },
-      "source_line_ids": [
-        "g03_l05",
-        "g03_l06",
-        "g03_l07",
-        "g03_l08"
-      ]
-    },
-    {
-      "id": "u015_02",
-      "source": "mêra va kê: baw, bêray mê kiştu, êyştu zêyndang.",
-      "translations": {
-        "tr": "Kız kardeşi bunu gece rüyasında gördü; kardeşinin öldürüldüğünü gördü. Ağlayarak geldi ve bana, 'Baba, kardeşim öldürülmüş ve çukura atılmış,' dedi.",
-        "en": "His sister saw it in her dream last night, that her brother had been killed. She came crying and said to me, 'Father, my brother has been killed and thrown into the pit.'",
-        "de": "seine Schwester hat während der Nacht im Traume gesehen, dass ihr Bruder getödtet sei, sie kam, weinte und sagte mir: mein Bruder ist getödtet, in eine Grube geworfen."
+        "tr": "Kızın babası eve gelmiş ve karısına şöyle demiş: \"Kesinlikle oğlumu sen öldürdün. Kız kardeşi bunu gece rüyasında gördü; kardeşinin öldürüldüğünü gördü. Ağlayarak geldi ve bana, 'Baba, kardeşim öldürülmüş ve çukura atılmış,' dedi.",
+        "en": "The girl's father came home and said to his wife, \"Surely you killed my son. His sister saw it in her dream last night, that her brother had been killed. She came crying and said to me, 'Father, my brother has been killed and thrown into the pit.'",
+        "de": "Der Vater kam nach Hause (und) sagte zu seiner Frau: weshalb hast du meinen Sohn getödtet? seine Schwester hat während der Nacht im Traume gesehen, dass ihr Bruder getödtet sei, sie kam, weinte und sagte mir: mein Bruder ist getödtet, in eine Grube geworfen."
       },
       "source_line_ids": [
         "g03_l05",

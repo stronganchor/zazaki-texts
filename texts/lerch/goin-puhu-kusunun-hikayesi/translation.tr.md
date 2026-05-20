@@ -20,21 +20,15 @@ Sabah kalkıp babasına, "Baba, dün gece bir rüya gördüm: karın kardeşimi 
 
 Babası kıza, "Hayır, o niye kardeşini öldürsün?" demiş.
 
-K?z, "Baba, r?yamda karde?imin ?ld?r?l?p ?ukura at?ld???n? g?rd?m. ?imdi kalk?p s???rlar?n yan?na gidiyorum; ak?am eve gelece?im. Karde?im gelirse onun iyi oldu?unu bilece?im,
+K?z, "Baba, r?yamda karde?imin ?ld?r?l?p ?ukura at?ld???n? g?rd?m. ?imdi kalk?p s???rlar?n yan?na gidiyorum; ak?am eve gelece?im. Karde?im gelirse onun iyi oldu?unu bilece?im, ama karde?im gelmezse art?k senin i?in s???rlar?n yan?na gitmeyece?im ve burada kalmayaca??m," demi?.
 
-ama karde?im gelmezse art?k senin i?in s???rlar?n yan?na gitmeyece?im ve burada kalmayaca??m," demi?.
-
-Babası kıza, "Bugün sığırların yanına git; ben gidip kardeşini arayacağım.
-
-Şunu bil: eğer karım size iyi değilse ve kardeşini bulamazsam, ne ben ne de sen burada kalacağız," demiş.
+Babası kıza, "Bugün sığırların yanına git; ben gidip kardeşini arayacağım. Şunu bil: eğer karım size iyi değilse ve kardeşini bulamazsam, ne ben ne de sen burada kalacağız," demiş.
 
 Kız kalkmış, gitmiş, sığırlarını dışarı çıkarmış ve sığırların yanına gitmiş.
 
 Babası kızın ardından gelmiş, kızın kardeşini aramış ve onun öldürülüp çukura atıldığını, oğlanın üstüne de büyük bir taş konduğunu görmüş.
 
-Kızın babası eve gelmiş ve karısına şöyle demiş: "Kesinlikle oğlumu sen öldürdün.
-
-Kız kardeşi bunu gece rüyasında gördü; kardeşinin öldürüldüğünü gördü. Ağlayarak geldi ve bana, 'Baba, kardeşim öldürülmüş ve çukura atılmış,' dedi.
+Kızın babası eve gelmiş ve karısına şöyle demiş: "Kesinlikle oğlumu sen öldürdün. Kız kardeşi bunu gece rüyasında gördü; kardeşinin öldürüldüğünü gördü. Ağlayarak geldi ve bana, 'Baba, kardeşim öldürülmüş ve çukura atılmış,' dedi.
 
 Ben de, 'Kızım, hayır, korkma; kardeşin iyidir,' dedim.
 

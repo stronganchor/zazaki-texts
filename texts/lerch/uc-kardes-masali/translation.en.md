@@ -22,9 +22,7 @@ Hasanek said to his brothers, "Do not be afraid. This one is a dev. He is coming
 
 They cut the wheat. When they saw that the dev had come, the dev said, "What are you doing? You do not know my name. I am a dev, and I will eat the heads of all three of you right now."
 
-Hasanek said, "My lord, give me permission; let me say one word to you."
-
-The dev said, "Speak, my son."
+Hasanek said, "My lord, give me permission; let me say one word to you." The dev said, "Speak, my son."
 
 Hasanek said, "All three of us are brothers. We came and found this wheat here. We bent down to cut it, saying, 'Surely this wheat has an owner; surely he will give us some pay.'" The dev said to Hasanek, "Well done, my son.
 
@@ -34,19 +32,13 @@ The dev came near Hasanek and said to him, "My son, give me your sickle. I will 
 
 The dev cut. Qasim, Shaban, and Hasanek, all three of them, cut wheat until evening prayer.
 
-The dev got up, wrote a letter, gave it to Hasanek, and said, "Take this road and go. Look at the top of that mountain; my house is on that mountain. My wife and my three daughters are sitting in the house,
+The dev got up, wrote a letter, gave it to Hasanek, and said, "Take this road and go. Look at the top of that mountain; my house is on that mountain. My wife and my three daughters are sitting in the house.
 
-take the letter and give it to my wife. She knows."
+Take the letter and give it to my wife. She knows." Hasanek took the letter, set out, and walked for two hours. Then he opened the letter, read it, and saw that the dev had written: "When this man brings this letter home, cut off this man's head for me, cook pilaf for me, make pilaf for me from this man's head, send it to me, and I will eat it."
 
-Hasanek took the letter, set out, and walked for two hours. Then he opened the letter, read it, and saw that the dev had written: "When this man brings this letter home, cut off this man's head for me,
+Hasanek tore up the letter, threw it away, and wrote another letter: "When this man brings this letter home, make pilaf from the brown bull.
 
-cook pilaf for me, make pilaf for me from this man's head, send it to me, and I will eat it."
-
-Hasanek tore up the letter, threw it away, and wrote another letter: "When this man brings this letter home, make pilaf from the brown bull; tonight let Hasanek sleep beside my eldest daughter,
-
-tomorrow let him bring this pilaf to me."
-
-Hasanek gave the letter to the dev's wife.
+Tonight let Hasanek sleep beside my eldest daughter, and tomorrow let him bring me that pilaf." Hasanek gave the letter to the dev's wife.
 
 The dev's wife took the letter, opened it, and read that the dev had written that she should make pilaf from the brown bull and give it to Hasanek, and that Hasanek should sleep that night beside the eldest daughter and bring that pilaf in the morning.
 
@@ -58,9 +50,7 @@ The dev saw Hasanek coming.
 
 Hasanek brought the pilaf and gave it to the dev.
 
-The dev took it and said to Hasanek, "I did not write a letter like this. Why has this bad woman prepared this food and given it to you? Why have you brought this food to me?
-
-I did not write this in the letter. I wrote that she should cut off Hasanek's head, make pilaf for me from Hasanek's flesh, and send it to me."
+The dev took it and said to Hasanek, "I did not write a letter like this. Why has this bad woman prepared this food and given it to you? Why have you brought this food to me? I did not write this in the letter. I wrote that she should cut off Hasanek's head, make pilaf for me from Hasanek's flesh, and send it to me."
 
 Hasanek said to the dev, "This time, if you will go, go; if you will not go, I will go. This time she will cut off my head, make pilaf for you, cook it, and bring it." The dev said to Hasanek, "My son, do not raise your voice.
 
@@ -68,33 +58,21 @@ I will write again now and give it to you. Take it, go, and give it to my wife. 
 
 Hasanek said, "Very well, my lord."
 
-The dev wrote a letter: "This time cut out Hasanek's eyes and lips for me, make kebab, roast it, and send it to me.
-
-If this man comes back to me alive this time, I will immediately come to cut off your head, hands, and feet, bad woman, and I will throw you onto seven roads."
+The dev wrote a letter: "This time cut out Hasanek's eyes and lips for me, make kebab, roast it, and send it to me. If this man comes back to me alive this time, I will immediately come to cut off your head, hands, and feet, bad woman, and I will throw you onto seven roads."
 
 The dev got up, wrote the letter, and gave it to Hasanek.
 
-Hasanek took it, went on for two hours, opened the letter, read it, and saw that the dev had written: "This time cut out Hasanek's eyes and lips for me, make kebab for me, and send it.
-
-If this man comes back to me safe this time, I will come home, cut off your head, feet, and hands, bad woman, and throw you onto seven roads.
-
-No one will protect you."
+Hasanek took it, went on for two hours, opened the letter, read it, and saw that the dev had written: "This time cut out Hasanek's eyes and lips for me, make kebab for me, and send it. If this man comes back to me safe this time, I will come home, cut off your head, feet, and hands, bad woman, and throw you onto seven roads. No one will protect you."
 
 Hasanek read what evil things the dev had written in the letter.
 
-He tore up the letter, threw it away, and wrote another letter: "This time slaughter the red bull for me, make kebab for me, roast it, and send me bread and pilaf.
-
-Tonight let Hasanek sleep beside my youngest daughter; tomorrow let him take this pilaf and bring it."
+He tore up the letter, threw it away, and wrote another letter: "This time slaughter the red bull for me, make kebab for me, roast it, and send me bread and pilaf. Tonight let Hasanek sleep beside my youngest daughter; tomorrow let him take this pilaf and bring it."
 
 Hasanek took the letter and gave it to the dev's wife.
 
-The dev's wife read the letter, where the dev had written: "Slaughter the red bull for me, make kebab from the red bull's meat, roast it, and send it.
+The dev's wife read the letter, where the dev had written: "Slaughter the red bull for me, make kebab from the red bull's meat, roast it, and send it. Tonight let Hasanek sleep beside my youngest daughter, and tomorrow let him bring me this pilaf and kebab."
 
-Tonight let Hasanek sleep beside my youngest daughter, and tomorrow let him bring me this pilaf and kebab."
-
-The dev's wife slaughtered the red bull, made kebab from the red bull's meat, roasted it,
-
-and sent it.
+The dev's wife slaughtered the red bull, made kebab from the red bull's meat, roasted it, and sent it.
 
 That night Hasanek lay beside the youngest daughter and enjoyed himself comfortably until morning.
 
@@ -124,9 +102,7 @@ Hasanek's brother Shaban cried.
 
 Hasanek said, "Brother, why are you crying?"
 
-"God is merciful." Hasanek's brother Qasim said to Hasanek, "Why are you leaving us here? What are we to do?
-
-The place is foreign, we have nowhere to stay, no one will take us in, and we have no place to go home to."
+"God is merciful." Hasanek's brother Qasim said to Hasanek, "Why are you leaving us here? What are we to do? The place is foreign, we have nowhere to stay, no one will take us in, and we have no place to go home to."
 
 Hasanek said, "Go and serve in the household of some agha."
 
@@ -146,23 +122,13 @@ He said to his brother Shaban, "Brother, who brought you and threw you into this
 
 Shaban said to Hasanek, "I went to the dev to wash myself. The dev saw me, seized me, brought me here, and threw me into this prison."
 
-Hasanek took his brother Shaban out of the prison, brought him to his side, and rested for four days.
-
-Then he took his brother Shaban to the bath, soaped him, washed him, and cleaned him. He took Shaban out of the bath, brought him to the chief of the guards, handed him over, and said, "This brother of mine is entrusted to you."
+Hasanek took his brother Shaban out of the prison, brought him to his side, and rested for four days. Then he took his brother Shaban to the bath, soaped him, washed him, and cleaned him. He took Shaban out of the bath, brought him to the chief of the guards, handed him over, and said, "This brother of mine is entrusted to you."
 
 The chief of the guards said to Hasanek, "Hero, where are you going?"
 
 Hasanek said to the chief of the guards, "I am going to take revenge on the dev."
 
-The chief of the guards said to Hasanek, "Go, hero. I am a dev-binder.
-
-The dev has a sword in a golden scabbard, inside a covering. Wherever the dev lies down, the sword is there under his head.
-
-Take the dev's sword from above his head, come to the front of the door, and on the right side there is a lattice.
-
-Go and stand at that lattice. When the dev comes into the room, take the dev's sword in your hand.
-
-When the dev brings his head inside, strike the dev's head once with the sword and cut it off so that it falls to the ground.
+The chief of the guards said to Hasanek, "Go, hero. I am a dev-binder. The dev has a sword in a golden scabbard, inside a covering. Wherever the dev lies down, the sword is there under his head. Take the dev's sword from above his head, come to the front of the door, and on the right side there is a lattice. Go and stand at that lattice. When the dev comes into the room, take the dev's sword in your hand. When the dev brings his head inside, strike the dev's head once with the sword and cut it off so that it falls to the ground.
 
 There is a tongue in the dev's head; it speaks and says to you, 'Strike once more.' You must say, 'I will not strike again: a hero's word is one.'" Hasanek got up, went to the dev's dwelling, searched, found the dev's place, took the dev's sword from under the dev's pillow, came to the front of the door, saw a lattice on the right side, and went and stood at that lattice.
 
@@ -170,6 +136,4 @@ The dev came. Hasanek took the sword in his hand. The dev brought his head into 
 
 The dev said to Hasanek, "Strike once more." Hasanek said to the dev, "A hero's word is one." The dev died. Hasanek got up, carried away the dev's body, threw it into the prison, wandered around, and went to the dev's house.
 
-He took the dev's youngest daughter and married her. Then he went out, searched, found his brothers Qasim and Shaban, took them, and brought them to the dev's house. He gave the eldest daughter to his brother Shaban and the middle daughter to his brother Qasim.
-
-They settled down and lived in pleasure and comfort.
+He took the dev's youngest daughter and married her. Then he went out, searched, found his brothers Qasim and Shaban, took them, and brought them to the dev's house. He gave the eldest daughter to his brother Shaban and the middle daughter to his brother Qasim. They settled down and lived in pleasure and comfort.

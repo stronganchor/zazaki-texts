@@ -72,7 +72,7 @@
   "summary": {
     "lines": 122,
     "source_lines": 122,
-    "reading_units": 80,
+    "reading_units": 71,
     "tokens": 1239
   },
   "witnesses": [
@@ -205,20 +205,11 @@
     },
     {
       "id": "u005_01_01",
-      "source": "Merdümi Nyêrbici wica vazda, şê çeki merdümi 'Hyênici têra gêrawt, pêy seri merdümi 'Hyênici têra kerd kişt, cadê ver da, şê Nyêrib Xalef ağay 'hêt,",
+      "source": "Merdümi Nyêrbici wica vazda, şê çeki merdümi 'Hyênici têra gêrawt, pêy seri merdümi 'Hyênici têra kerd kişt, cadê ver da, şê Nyêrib Xalef ağay 'hêt, yêra va kê: mê yaw merdümu 'Hyênêyic kişt.",
       "translations": {
-        "tr": "Nyêribli adam hemen sıçradı, Hyêni'linin silahlarını elinden aldı, başını kesti, onu öldürdü, cesedini bir yana attı,",
-        "en": "The Ny?rib man immediately sprang up, took the Hy?ni man's weapons from him, cut off his head, killed him, threw his body aside,",
-        "de": "Dieser sprang sogleich auf, ging (und) riss dem Andern die Waffen aus, tödtete ihn, warf (seinen Leichnam) bei Seite,"
-      }
-    },
-    {
-      "id": "u005_01_02",
-      "source": "yêra va kê: mê yaw merdümu 'Hyênêyic kişt.",
-      "translations": {
-        "tr": "Nyêrib'e Xalef Ağa'nın yanına gitti ve ona dedi ki: 'Hyêni'lilerden bir adam öldürdüm.'",
-        "en": "went to Ny?rib to Xalef Agha, and said to him: 'I killed a man from Hy?ni.'",
-        "de": "ging nach Nerib zu Xalef Agha (und) sagte dem: ich habe einen Menschen von H'yeni getödtet."
+        "tr": "Nyêribli adam hemen sıçradı, Hyêni'linin silahlarını elinden aldı, başını kesti, onu öldürdü, cesedini bir yana attı, Nyêrib'e Xalef Ağa'nın yanına gitti ve ona dedi ki: 'Hyêni'lilerden bir adam öldürdüm.'",
+        "en": "The Ny?rib man immediately sprang up, took the Hy?ni man's weapons from him, cut off his head, killed him, threw his body aside, went to Ny?rib to Xalef Agha, and said to him: 'I killed a man from Hy?ni.'",
+        "de": "Dieser sprang sogleich auf, ging (und) riss dem Andern die Waffen aus, tödtete ihn, warf (seinen Leichnam) bei Seite, ging nach Nerib zu Xalef Agha (und) sagte dem: ich habe einen Menschen von H'yeni getödtet."
       }
     },
     {
@@ -250,20 +241,11 @@
     },
     {
       "id": "u007_01_01",
-      "source": "Yê merdümi va kê Xalef ağayra: ağa, 'haberê berşawê Nyêribu kic, Dêyştêy 'Henzi wa muqaytê xoê bi, wa malê xoê byê, wayêr nyêkêri,",
+      "source": "Yê merdümi va kê Xalef ağayra: ağa, 'haberê berşawê Nyêribu kic, Dêyştêy 'Henzi wa muqaytê xoê bi, wa malê xoê byê, wayêr nyêkêri, qam rocu kê 'habêrê 'Hyênêra amêy wa çaw çêhetya nyêşiru ma kawğe bıkêri.",
       "translations": {
-        "tr": "O adam Xalef Ağa'ya dedi ki: 'Ağa, Küçük Nyêrib'e ve Deştê Henzi'ye haber gönder; dikkatli olsunlar,",
-        "en": "That man said to Xalef Agha: 'Agha, send word to Little Ny?rib and De?t?",
-        "de": "Jener sagte dem Xalef Agha: sende einen Boten nach Klein-Nerib (und) Deistei H'enzi, dass sie auf ihrer Hut sein mögen, dass sie ihre Habe nicht ohne Schutz lassen;"
-      }
-    },
-    {
-      "id": "u007_01_02",
-      "source": "qam rocu kê 'habêrê 'Hyênêra amêy wa çaw çêhetya nyêşiru ma kawğe bıkêri.",
-      "translations": {
-        "tr": "mallarını sahipsiz bırakmasınlar.",
-        "en": "Henzi; let them be careful, and let them not leave their property unguarded. On the day news comes from Hy?ni, let no one be absent; we will fight.'",
-        "de": "(denn) welchen Tag die Nachricht nach H'yeni kommt, werden wir uns schlagen."
+        "tr": "O adam Xalef Ağa'ya dedi ki: 'Ağa, Küçük Nyêrib'e ve Deştê Henzi'ye haber gönder; dikkatli olsunlar, mallarını sahipsiz bırakmasınlar.",
+        "en": "That man said to Xalef Agha: 'Agha, send word to Little Ny?rib and De?t? Henzi; let them be careful, and let them not leave their property unguarded. On the day news comes from Hy?ni, let no one be absent; we will fight.'",
+        "de": "Jener sagte dem Xalef Agha: sende einen Boten nach Klein-Nerib (und) Deistei H'enzi, dass sie auf ihrer Hut sein mögen, dass sie ihre Habe nicht ohne Schutz lassen; (denn) welchen Tag die Nachricht nach H'yeni kommt, werden wir uns schlagen."
       }
     },
     {
@@ -349,20 +331,11 @@
     },
     {
       "id": "u012_01_01",
-      "source": "Daqma begi eskêri xoê hemê top kêrd, eskêr pyêru kêrand pêy kunaği Temir begi, barut, qırqışun da eskêri xoê, êspar vici, pêye pyêru erşawut pêy kuçan,",
+      "source": "Daqma begi eskêri xoê hemê top kêrd, eskêr pyêru kêrand pêy kunaği Temir begi, barut, qırqışun da eskêri xoê, êspar vici, pêye pyêru erşawut pêy kuçan, êspar pyêru erşawut pêy rezan.",
       "translations": {
-        "tr": "Daqma Bey bütün ordusunu topladı, Temir Bey'in evinin önünde bir araya getirdi, askerlerine barut ve kurşun verdi, ata bindi,",
-        "en": "Daqma Bey gathered his whole army, assembled them before Temir Bey's house, gave powder and bullets to his soldiers, mounted his horse,",
-        "de": "Mit dem Anbruch der Morgenröthe, als es zu tagen anfing, sandte er einen Boten nach Nerib zu Xalef Agha und liess ihm sagen: Verdammter, diese Nacht habe ich bis zum Morgen nicht geschlafen,"
-      }
-    },
-    {
-      "id": "u012_01_02",
-      "source": "êspar pyêru erşawut pêy rezan.",
-      "translations": {
-        "tr": "bütün piyadeleri sokaklardan ve bütün atlıları bağların arasından gönderdi.",
-        "en": "and sent all the infantry through the streets and all the horsemen through the vineyards.",
-        "de": "was ist deine Rede gewesen?"
+        "tr": "Daqma Bey bütün ordusunu topladı, Temir Bey'in evinin önünde bir araya getirdi, askerlerine barut ve kurşun verdi, ata bindi, bütün piyadeleri sokaklardan ve bütün atlıları bağların arasından gönderdi.",
+        "en": "Daqma Bey gathered his whole army, assembled them before Temir Bey's house, gave powder and bullets to his soldiers, mounted his horse, and sent all the infantry through the streets and all the horsemen through the vineyards.",
+        "de": "Mit dem Anbruch der Morgenröthe, als es zu tagen anfing, sandte er einen Boten nach Nerib zu Xalef Agha und liess ihm sagen: Verdammter, diese Nacht habe ich bis zum Morgen nicht geschlafen, was ist deine Rede gewesen?"
       }
     },
     {
@@ -376,20 +349,11 @@
     },
     {
       "id": "u013_01_01",
-      "source": "Xalef ağa werişt bê êspar, dumilbazi da püroê, kawt eskêri xoê ver va kê eskêri xoêra: metêrsi, yê Tırki, yê nêşyêni kawğe bıki, ma cang mırdi aşirani, metêrsi,",
+      "source": "Xalef ağa werişt bê êspar, dumilbazi da püroê, kawt eskêri xoê ver va kê eskêri xoêra: metêrsi, yê Tırki, yê nêşyêni kawğe bıki, ma cang mırdi aşirani, metêrsi, ez 'ha şıma ver, kêykê ez merda şıma 'hema şyêri kawğê.",
       "translations": {
-        "tr": "Xalef Ağa ata bindi, davulu çaldırdı, ordusunun önüne geçti ve askerlerine dedi ki: 'Korkmayın; onlar Türk'tür,",
-        "en": "Xalef Agha mounted his horse, had the drum beaten, went in front of his army, and said to his soldiers: 'Do not be afraid; they are Turks and do not know how to fight.",
-        "de": "Xalef Agha sass auf, liess die Trommel rühren, führte sein Heer weg und sagte zu demselben: fürchtet euch nicht, Jene sind Türken, verstehen nicht sich zu schlagen, wir sind tapfere Stammessöhne, fürchtet euch nicht,"
-      }
-    },
-    {
-      "id": "u013_01_02",
-      "source": "ez 'ha şıma ver, kêykê ez merda şıma 'hema şyêri kawğê.",
-      "translations": {
-        "tr": "savaşmayı bilmezler.",
-        "en": "We are brave tribesmen; do not be afraid. I am before you; even if I die, you still go to battle.'",
-        "de": "ich bin mit euch, wenn ich auch sterbe, so gehet dennoch in den Kampf."
+        "tr": "Xalef Ağa ata bindi, davulu çaldırdı, ordusunun önüne geçti ve askerlerine dedi ki: 'Korkmayın; onlar Türk'tür, savaşmayı bilmezler.",
+        "en": "Xalef Agha mounted his horse, had the drum beaten, went in front of his army, and said to his soldiers: 'Do not be afraid; they are Turks and do not know how to fight. We are brave tribesmen; do not be afraid. I am before you; even if I die, you still go to battle.'",
+        "de": "Xalef Agha sass auf, liess die Trommel rühren, führte sein Heer weg und sagte zu demselben: fürchtet euch nicht, Jene sind Türken, verstehen nicht sich zu schlagen, wir sind tapfere Stammessöhne, fürchtet euch nicht, ich bin mit euch, wenn ich auch sterbe, so gehet dennoch in den Kampf."
       }
     },
     {
@@ -574,18 +538,10 @@
     },
     {
       "id": "u024_01",
-      "source": "Xalef ağa va kê: peki, êfêndim, 'haydi twêri izmu;",
+      "source": "Xalef ağa va kê: peki, êfêndim, 'haydi twêri izmu; vist roc mawlêt da Daqma begira.",
       "translations": {
-        "tr": "Xalef Ağa dedi ki: 'Peki efendim, sana izin olsun.'",
-        "en": "Xalef Agha said: 'Very well, my lord, you have permission.'"
-      }
-    },
-    {
-      "id": "u024_02",
-      "source": "vist roc mawlêt da Daqma begira.",
-      "translations": {
-        "tr": "Daqma Bey'e yirmi gün mühlet verdi.",
-        "en": "He gave Daqma Bey twenty days' respite.",
+        "tr": "Xalef Ağa dedi ki: 'Peki efendim, sana izin olsun.' Daqma Bey'e yirmi gün mühlet verdi.",
+        "en": "Xalef Agha said: 'Very well, my lord, you have permission.' He gave Daqma Bey twenty days' respite.",
         "de": "Xalef Agha liess sagen: gut, mein Herr, es sei dir gestattet; er gab dem Daqma Baeg zwanzig Tage Frist."
       }
     },
@@ -609,20 +565,11 @@
     },
     {
       "id": "u025_02_01",
-      "source": "Xalef ağay 'haberê erşawutê Daqma begiri va kê: waxtê xoêdê 'hadrê bê, ez mêyştê şêfaqdê yêna duzi 'Hemyêra, tê eskêri xoê bıgê, byê pêy rezan metırisi, ma kawğe bıki,",
+      "source": "Xalef ağay 'haberê erşawutê Daqma begiri va kê: waxtê xoêdê 'hadrê bê, ez mêyştê şêfaqdê yêna duzi 'Hemyêra, tê eskêri xoê bıgê, byê pêy rezan metırisi, ma kawğe bıki, nya tê serêy mê wêni, nya ez serêy twê wêna.",
       "translations": {
-        "tr": "Xalef Ağa Daqma Bey'e haber gönderdi: 'Kendi vaktinde hazır ol; yarın şafakta Dûzê Hemyê'ye geleceğim.",
-        "en": "Xalef Agha sent word to Daqma Bey: 'Be ready at your own time; tomorrow at dawn I will come to D?z? Hemy?. Take your army, come through the vineyards, do not be afraid.",
-        "de": "Xalef Agha sandte einen Boten zu Daqma Baeg und liess sagen: sei deiner Zeit bereit, morgen mit der Morgenröthe komme ich aufs haemyerische Feld, führe du dein Heer hin, komme durch die Weingärten zur Festung,"
-      }
-    },
-    {
-      "id": "u025_02_02",
-      "source": "nya tê serêy mê wêni, nya ez serêy twê wêna.",
-      "translations": {
-        "tr": "Ordunu al, bağların arasından gel, korkma; savaşalım, ya sen benim başımı kesersin ya da ben senin başını keserim.'",
-        "en": "Let us fight: either you will cut off my head or I will cut off yours.'",
-        "de": "wir werden uns schlagen, bis du mir den Kopf abschlägst oder ich dir den Kopf abschlage."
+        "tr": "Xalef Ağa Daqma Bey'e haber gönderdi: 'Kendi vaktinde hazır ol; yarın şafakta Dûzê Hemyê'ye geleceğim. Ordunu al, bağların arasından gel, korkma; savaşalım, ya sen benim başımı kesersin ya da ben senin başını keserim.'",
+        "en": "Xalef Agha sent word to Daqma Bey: 'Be ready at your own time; tomorrow at dawn I will come to D?z? Hemy?. Take your army, come through the vineyards, do not be afraid. Let us fight: either you will cut off my head or I will cut off yours.'",
+        "de": "Xalef Agha sandte einen Boten zu Daqma Baeg und liess sagen: sei deiner Zeit bereit, morgen mit der Morgenröthe komme ich aufs haemyerische Feld, führe du dein Heer hin, komme durch die Weingärten zur Festung, wir werden uns schlagen, bis du mir den Kopf abschlägst oder ich dir den Kopf abschlage."
       }
     },
     {
@@ -663,26 +610,10 @@
     },
     {
       "id": "u028_01_01",
-      "source": "Êskêri Xalef ağa pyêru ame pyêser, Xalef ağa va kê eskêri xoêra: bawni, ağalêr, ma şwêni kawğe, mêtêrsi, eskêri Daqma begi zavu, hema pyêru Tırki, nyêşêngi madê kawğe bıki,",
+      "source": "Êskêri Xalef ağa pyêru ame pyêser, Xalef ağa va kê eskêri xoêra: bawni, ağalêr, ma şwêni kawğe, mêtêrsi, eskêri Daqma begi zavu, hema pyêru Tırki, nyêşêngi madê kawğe bıki, ma pyêru cang mırdi kırdani, myêrdêy aşirani, metêrsi, ma 'ha şwêni, 'hetakê serêy mê nyêwênu, şım çêywiri çı çinyu.",
       "translations": {
-        "tr": "Xalef A?a'n?n b?t?n ordusu topland?. Xalef A?a ordusuna dedi ki: 'Dinleyin a?alar, sava?a gidiyoruz. Korkmay?n; Daqma Bey'in ordusu ?oktur ama hepsi T?rk't?r, bizimle sava?may? bilmezler.",
-        "en": "Xalef Agha's whole army gathered. Xalef Agha said to his army: 'Listen, aghas, we are going to battle. Do not be afraid; Daqma Bey's army is large, but they are all Turks and do not know how to fight us."
-      }
-    },
-    {
-      "id": "u028_01_02",
-      "source": "ma pyêru cang mırdi kırdani, myêrdêy aşirani, metêrsi, ma 'ha şwêni, 'hetakê serêy mê nyêwênu,",
-      "translations": {
-        "tr": "Biz hepimiz yi?it K?rtleriz, a?iret adamlar?y?z; korkmay?n, gidiyoruz; benim ba??m kesilmedik?e size hi?bir ?ey olmaz.'",
-        "en": "We are all brave Kurds, tribesmen; do not be afraid, we are going. As long as my head is not cut off, nothing will happen to you.'"
-      }
-    },
-    {
-      "id": "u028_02",
-      "source": "şım çêywiri çı çinyu.",
-      "translations": {
-        "tr": "Biz hepimiz yiğit Kürtleriz, aşiret adamlarıyız; korkmayın, gidiyoruz; benim başım kesilmedikçe size hiçbir şey olmaz.'",
-        "en": "'We are all brave Kurds, tribesmen; do not be afraid, we are going. As long as my head is not cut off, nothing will happen to you.'",
+        "tr": "Xalef A?a'n?n b?t?n ordusu topland?. Xalef A?a ordusuna dedi ki: 'Dinleyin a?alar, sava?a gidiyoruz. Korkmay?n; Daqma Bey'in ordusu ?oktur ama hepsi T?rk't?r, bizimle sava?may? bilmezler. Biz hepimiz yi?it K?rtleriz, a?iret adamlar?y?z; korkmay?n, gidiyoruz; benim ba??m kesilmedik?e size hi?bir ?ey olmaz.' Biz hepimiz yiğit Kürtleriz, aşiret adamlarıyız; korkmayın, gidiyoruz; benim başım kesilmedikçe size hiçbir şey olmaz.'",
+        "en": "Xalef Agha's whole army gathered. Xalef Agha said to his army: 'Listen, aghas, we are going to battle. Do not be afraid; Daqma Bey's army is large, but they are all Turks and do not know how to fight us. We are all brave Kurds, tribesmen; do not be afraid, we are going. As long as my head is not cut off, nothing will happen to you.' 'We are all brave Kurds, tribesmen; do not be afraid, we are going. As long as my head is not cut off, nothing will happen to you.'",
         "de": "Nachdem sein ganzes Heer zusammen gekommen war, sagte er zu demselben: hört, Aelteste, wir gehen in den Kampf, fürchtet euch nicht, Daqma Baeg's Heer ist zahlreich, es sind aber Alles Türken, wissen nicht sich mit uns zu schlagen, wir sind alle tapfere Kurdenseelen, Stammesleute, fürchtet euch nicht, wir gehen vorwärts; so lange ich nicht erschlagen werde, habt ihr nichts zu fürchten."
       }
     },
@@ -760,20 +691,11 @@
     },
     {
       "id": "u032_02_01",
-      "source": "Daqma begi 'haber erşawutê Xalef ağayri va kê: eskêri twê şêyşti tên çinu, eskêri mê saw hêyştê tên çinu, pyêru kişyay, byê mêytani xoê berê,",
+      "source": "Daqma begi 'haber erşawutê Xalef ağayri va kê: eskêri twê şêyşti tên çinu, eskêri mê saw hêyştê tên çinu, pyêru kişyay, byê mêytani xoê berê, mêytani mê waderê çawdê mê çinyu.",
       "translations": {
-        "tr": "Daqma Bey Xalef Ağa'ya haber gönderdi: 'Senin ordudan altmış kişi eksik; benim ordudan yüz seksen kişi eksik, hepsi öldürüldü.",
-        "en": "Daqma Bey sent word to Xalef Agha: 'Sixty men are missing from your army; one hundred eighty men are missing from my army, and all of them have been killed.",
-        "de": "Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: in deinem Heere fehlen sechzig Mann, in meinem Heere aber hundert und achtzig Mann, sie sind alle getödtet, komm und nimm deine Todten, ich habe Niemand,"
-      }
-    },
-    {
-      "id": "u032_02_02",
-      "source": "mêytani mê waderê çawdê mê çinyu.",
-      "translations": {
-        "tr": "Gel, ölülerini al; benim ölülerimi gömecek kimsem yok.'",
-        "en": "Come and take your dead; I have no one to bury mine.'",
-        "de": "um die meinigen zu bestatten."
+        "tr": "Daqma Bey Xalef Ağa'ya haber gönderdi: 'Senin ordudan altmış kişi eksik; benim ordudan yüz seksen kişi eksik, hepsi öldürüldü. Gel, ölülerini al; benim ölülerimi gömecek kimsem yok.'",
+        "en": "Daqma Bey sent word to Xalef Agha: 'Sixty men are missing from your army; one hundred eighty men are missing from my army, and all of them have been killed. Come and take your dead; I have no one to bury mine.'",
+        "de": "Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: in deinem Heere fehlen sechzig Mann, in meinem Heere aber hundert und achtzig Mann, sie sind alle getödtet, komm und nimm deine Todten, ich habe Niemand, um die meinigen zu bestatten."
       }
     },
     {

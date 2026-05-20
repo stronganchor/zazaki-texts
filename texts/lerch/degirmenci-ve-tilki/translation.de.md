@@ -1,12 +1,12 @@
 Mährchen von dem Müller und Fuchs
 
-Es gab irgendwo einen Müller. Die Mühle arbeitete.
+Es gab irgendwo einen Müller.
+
+Die Mühle arbeitete.
 
 Eines Tages hielt er den Mühlstein an, ging in's Haus, schlief die Nacht im Hause, stand des Morgens auf, kam in die Mühle und sah, dass im Kasten kein Mehl ist; in dieser (d.
 
-Eines Tages hielt er den Mühlstein an, ging in's Haus, schlief die Nacht im Hause, stand des Morgens auf, kam in die Mühle und sah, dass im Kasten kein Mehl ist; in dieser (d.
-
-i.
+Eines Tages hielt er den Mühlstein an, ging in's Haus, schlief die Nacht im Hause, stand des Morgens auf, kam in die Mühle und sah, dass im Kasten kein Mehl ist; in dieser (d. i.
 
 der nächsten) Nacht stellte er sich auf die Wache, (und) sah, wie um Mitternacht ein Fuchs herein kam, zum Kasten ging (und) das Mehl herausnahm.
 
@@ -26,11 +26,7 @@ Der Fuchs machte sich auf, ging nach Aegypten, ging zum Pascha von Aegypten (und
 
 Der Pascha von Aegypten sagte zum Fuchse: sage mir, was dein Begehren ist.
 
-Der Pascha von Aegypten sagte zum Fuchse: sage mir,
-
-was dein Begehren ist.
-
-Der Fuchs sprach: mein Herr, erlaube mir zu dir zu sprechen.
+Der Pascha von Aegypten sagte zum Fuchse: sage mir, was dein Begehren ist. Der Fuchs sprach: mein Herr, erlaube mir zu dir zu sprechen.
 
 Der Pascha von Aegypten gewährte (es) ihm.
 
@@ -74,9 +70,7 @@ Der Fuchs sagte: fürchte dich nicht, ich verlasse dich nicht, sei vernünftig, 
 
 Der Fuchs sagte: stehe auf, ich werde dir Wasser in der Schale bringen, geh, nimm eine Waschung vor, komm herein (und) bete.
 
-Der Müller sagte: bringe mir Wasser, ich werde zur Waschung gehen.
-
-Der Fuchs erhob sich, ging, brachte Wasser, gab (es) dem Müller; dieser erhob sich, ging zur Waschung, ging durch den Palast, kannte (aber) den Weg nicht (wusste nicht welcher der Weg ist).
+Der Müller sagte: bringe mir Wasser, ich werde zur Waschung gehen. Der Fuchs erhob sich, ging, brachte Wasser, gab (es) dem Müller; dieser erhob sich, ging zur Waschung, ging durch den Palast, kannte (aber) den Weg nicht (wusste nicht welcher der Weg ist).
 
 Der Fuchs wartete, der Müller kam nicht, der Fuchs ging (ihn) suchen, fand den Müller auf die Erde gefallen (und) todt.
 
