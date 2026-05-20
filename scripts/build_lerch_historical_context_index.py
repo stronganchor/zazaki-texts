@@ -47,9 +47,9 @@ CURATED_ENTITIES: list[Entity] = [
         "person",
         "Hassan",
         "Primary Zaza-speaking consultant for the processed Lerch Zazaki texts; says his tribe is Sivan and his village is Kasan/Kassau/Kaschan.",
-        "Hassan interview text; Lerch collection intro notes; Köse 2016 Sivan nahiye article; Kiepert 1850s map",
+        "Hassan interview text; Lerch collection intro notes; Köse 2016 Sivan nahiye article; Atan 2020 Genç thesis; Kiepert 1850s map",
         "text_attested",
-        "Kiepert labels Kaschan east of Palu and just north of Sivan Maaden, matching Lerch's note that Kassau appears as Kaschan in Kiepert.",
+        "Kiepert labels Kaschan east of Palu and just north of Sivan Maaden; the exact modern correspondence is best kept open between Günkondu/Kasan and the separate Kaşan/Qaşan name around Doğanlı/Kelahsı.",
     ),
     Entity(
         "gespraech-mit-hassan",
@@ -97,17 +97,17 @@ CURATED_ENTITIES: list[Entity] = [
         "gespraech-mit-hassan",
         "place",
         "Kasan / Kassau / Kaschan",
-        "Hassan's village; described as having sixty houses in the interview. Best working match is Kasan/Kâsan = Günkondu in the externally published Sivan village list. Kiepert's map independently labels Kaschan between the Murat-side line and Sivan Maaden.",
-        "Hassan interview text; Köse 2016 Sivan nahiye article; Kiepert 1850s map",
+        "Hassan's village; described as having sixty houses in the interview. Keep two working matches: Kasan/Kasun = Günkondu is the common published match, but Köse's 1841 table lists Kaşan separately from Kasan/Günkondu, and Atan's place-name list preserves Kaşan under Doğanlı/Kelahsı. Kiepert's map places Kaschan closer to the Murat-side line than Günkondu appears to be, so the Doğanlı-area Kaşan/Qaşan deserves explicit mention.",
+        "Hassan interview text; Köse 2016 Sivan nahiye article; Atan 2020 Genç thesis; Cewlik local place-name list; Kiepert 1850s map",
         "source_supported",
-        "Use the Kiepert crop as a source witness; descendant/local confirmation would still be useful.",
+        "Use the Kiepert crop as a map witness, but do not collapse the two alternatives without descendant/local confirmation.",
     ),
     Entity(
         "gespraech-mit-hassan",
         "place",
         "Sivan village list",
-        "The interview gives a Sivan village list. Several names now have source-backed matches in the 1841 Sivan nahiye list: Kasan/Kâsan = Günkondu, Horsig/Horsik = Saklıca, Aldun = Alaaddin, Hopsor/Hapsor = Ericek, Tenik/Tinik = Doludere, Rezuan/Rızvan = Harmancık, Zimag/Zimak = Bahçebaşı, Melekan = Sarıbudak. Kiepert also shows Melken south of Sivan Maaden and northwest of Hani, a useful comparison for Melêkang/Melekan.",
-        "Hassan interview text; Köse 2016 Sivan nahiye article; Kiepert 1850s map",
+        "The interview gives a Sivan village list. Several names now have source-backed matches in the 1841 Sivan nahiye list: Kasan/Kasun = Günkondu, a separate Kaşan entry, Horsig/Horsik = Saklıca, Aldun = Alaaddin, Hopsor/Hapsor = Ericek, Tenik/Tinik = Doludere, Rezuan/Rızvan = Harmancık, Zimag/Zimak = Bahçebaşı, Melekan = Sarıbudak. Kiepert also shows Melken south of Sivan Maaden and northwest of Hani, strengthening the Melêkang/Melekan = Sarıbudak comparison.",
+        "Hassan interview text; Köse 2016 Sivan nahiye article; Atan 2020 Genç thesis; Kiepert 1850s map",
         "source_supported",
         "Continue splitting the raw village list into individually researched place rows; verify Gewel, Talek, Kavare, Gowman, Hoena, Sama, Emera, Akeragi, Letan, Gahar, and related forms.",
     ),
@@ -438,13 +438,18 @@ CHRONOLOGY_NOTES = [
 
 EXTERNAL_SOURCE_NOTES = [
     (
-        "Sivan / Servi / Kasan / Horsik",
-        "Muhammed Köse's 2016 Sivan nahiye article says Sivan was a 42-village nahiye of Palu in 1841, later transferred to Genç and renamed Servi; its village list includes Kasan/Kâsan = Günkondu and Horsik = Saklıca.",
+        "Sivan / Servi / Kasan / Kaşan / Horsik",
+        "Muhammed Köse's 2016 Sivan nahiye article says Sivan was a 42-village nahiye of Palu in 1841, later transferred to Genç and renamed Servi; its table lists Kaşan as row 3 and Kasan/Günkondu as row 13, so these should not be merged automatically.",
         "https://dergipark.org.tr/tr/pub/bad/article/468213",
     ),
     (
+        "Doğanlı / Kelahsı / Qaşan and Günkondu / Kasan alternatives",
+        "Fırat Atan's 2020 Genç thesis preserves Doğanlı as Kelahsi/Kelhisi with Heciyun and Kaşan, and separately gives Günkondu as Kasun/Kasan. This independently supports keeping a Doğanlı-area Kaşan/Qaşan candidate next to the common Günkondu/Kasan match.",
+        "https://bnposta.bingol.edu.tr/xmlui%3B/bitstream/handle/20.500.12898/5759/F%C4%B1rat%20ATAN-Y.L.%20Tezi.pdf?isAllowed=y&sequence=1",
+    ),
+    (
         "Kiepert map evidence: Kaschan, Sivan Maaden, Melken, Schel",
-        "Kiepert's 1850s map labels Kaschan east of Palu and just north of Sivan Maaden, matching Lerch's note that Hassan's village Kassau is Kaschan in Kiepert. The same map also shows Melken south of Sivan Maaden and a Schel/Schel-like label near Gjaurköi northeast of Hani.",
+        "Kiepert's 1850s map labels Kaschan east of Palu and just north of Sivan Maaden, matching Lerch's note that Hassan's village Kassau is Kaschan in Kiepert. Its Murat-side placement fits the Doğanlı-area Kaşan/Qaşan alternative at least as well as the common Günkondu/Kasan match. The same map also shows Melken south of Sivan Maaden, strengthening the Melêkang/Melekan = Sarıbudak comparison, and a Schel/Schel-like label near Gjaurköi northeast of Hani.",
         "https://gallica.bnf.fr/ark:/12148/btv1b531026744 ; https://commons.wikimedia.org/wiki/Category:Karte_von_Armenien,_Kurdistan_und_Azerbeidschan_in_vier_Blatt,_im_Anschluss_an_die_IV_westlichen_und_mittleren_Bl%C3%A4tter_der_Karte_von_Klein-Asien_-_entworfen_und_bearbeitet_1852-53_von_Dr_Heinrich_Kiepert_-_btv1b531026744",
     ),
     (

@@ -7,6 +7,9 @@ Working status: researched publication metadata, not a final gazetteer. Google M
 - Hidayet Samuk, "Servi Bölgesi ve Köyleri," *Bingöl Araştırmaları Dergisi* 4/1 (2017), 9-40. https://dergipark.org.tr/tr/pub/bad/article/596656
 - Muhammed Köse, "2688 Numaralı Palu Nüfus Defterine Göre 1841 Yılında Sivan Nahiyesinin Demografik ve Sosyal Yapısı," *Bingöl Araştırmaları Dergisi* 2/2 (2016), 87-128. https://dergipark.org.tr/tr/pub/bad/article/468213
 - Hidayet Samuk, "Servi Bölgesi ve Köyleri," PDF copy. https://dergipark.org.tr/en/download/article-file/770199
+- Fırat Atan, *Osmanlı Devleti İdarî Yapılanmasında Genç Sancağı (XVI.-XIX. Yüzyıl)*, MA thesis, Bingöl Üniversitesi, 2020. https://bnposta.bingol.edu.tr/xmlui%3B/bitstream/handle/20.500.12898/5759/F%C4%B1rat%20ATAN-Y.L.%20Tezi.pdf?isAllowed=y&sequence=1
+- "Bingöl'de Köylerin Zazaki İsimleri," Cewlik.net. https://cewlik.net/bingolde-koylerin-zazaki-isimleri/
+- "Genç ilçesi ve köylerinin isimlerine amatör bir bakış," Genç'in Sesi. https://www.gencinsesi.com/genc-ilcesi-ve-koylerinin-isimlerine-amator-bir-bakis/
 - Mehmet Aslanoğulları, *Lerch'in Zazaki Derlemelerinin Çevrimyazımı ve Türlerine Göre Sözcüklerin Tahlili*, MA thesis, Bingöl Üniversitesi, 2014. https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=XSxuloAAz12quT5oHaDwnA&no=lqmlps2zRpavNQmdt0OGGQ
 - Jelle Verheij, "Place names in 19th century travel reports - Diyarbakır province." https://www.jelleverheij.net/research-tools/place-name-index/diyarbakir.html
 - Jelle Verheij, geographical annotations to Taylor 1865 p. 38. https://www.jelleverheij.net/sources/1861---1870/Taylor-1865/Taylor-1865-038.html
@@ -23,9 +26,9 @@ The local Kiepert sheet at `C:\Users\messy\OneDrive\Documents\Language\Z\map-ove
 - `kiepert-1858-schel-gjaurkoei-hini.webp`: close crop around Gjaurköi and Hini/Hani, including the Schel/Schel-like map label relevant to the Şelê/Sele discussion.
 - `kiepert-1858-melken-sivan-hini.webp`: close crop showing Melken south of Sivan Maaden and northwest of Hini/Hani.
 
-This map strengthens the Hassan/Kasan identification because Lerch himself says Hassan was from Kassau, "in Kiepert: Kaschan." The map label `Kaschan` sits exactly in the expected Sivan-Palu frame, between the Murat-side line and Sivan Maaden. This supports treating Hassan's Kasan/Kassau/Kaschan as the Sivan village later matched in the Servi village lists, while still leaving room for local oral-history confirmation.
+This map strengthens Lerch's own cross-reference because Lerch says Hassan was from Kassau, "in Kiepert: Kaschan." The modern identification is now best kept as two alternatives. One is the common published match `Kasan/Kasun = Günkondu`. The other is a separate `Kaşan/Qaşan` name around Doğanlı/Kelahsı: Köse's 1841 Sivan table lists `Kaşan` as row 3 and `Kasan/Günkondu` as row 13, while Atan's Genç thesis and Cewlik's local place-name list both preserve `Kaşan/Qaşan` with Doğanlı/Kelahsı. Because Kiepert's `Kaschan` sits closer to the Murat-side line than Günkondu seems to, the Doğanlı-area Kaşan/Qaşan candidate should be shown explicitly rather than hidden under Günkondu.
 
-The same map also shows `Melken` south of Sivan Maaden and northwest of Hini/Hani. That is a plausible cartographic witness for Hassan's `Melêkang/Melekan`, but the modern working match should remain the source-supported Sivan-list identification with Sarıbudak unless a stronger map-to-modern chain is found.
+The same map also shows `Melken` south of Sivan Maaden and northwest of Hini/Hani. That placement strengthens the source-supported `Melêkang/Melekan = Sarıbudak` match, since Samuk/Köse/Cewlik already preserve Melekan/Melikan in the Servi/Sivan village lists.
 
 For the Sivan-Nyêrib story, the map's Schel/Schel-like label near Gjaurköi northeast of Hini/Hani supports the existing decision to read `Şelê/Sele` as a Hani-side location or watercourse, not the separate Sivan-side Şelê Heydan/Yaydere entry from the glossary.
 
@@ -36,7 +39,8 @@ For the Sivan-Nyêrib story, the map's Schel/Schel-like label near Gjaurköi nor
 | Lerch / working name | Modern Turkish name | Google Maps |
 |---|---|---|
 | Sivan | Servi, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=Servi%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
-| Kasan / Kassau / Kaschan | Günkondu, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=G%C3%BCnkondu%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
+| Kasan / Kasun, one working match for Kassau/Kaschan | Günkondu, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=G%C3%BCnkondu%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
+| Kaşan / Qaşan, alternate working match for Kiepert Kaschan | Doğanlı/Kelahsı çevresi, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=Do%C4%9Fanl%C4%B1%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
 | Fatrakom | Yatansöğüt, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=Yatans%C3%B6%C4%9F%C3%BCt%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
 | Hopsor / Hapsor | Ericek, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=Ericek%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |
 | Tenik / Tinik | Doludere, Genç, Bingöl | https://www.google.com/maps/search/?api=1&query=Doludere%2C%20Gen%C3%A7%2C%20Bing%C3%B6l |

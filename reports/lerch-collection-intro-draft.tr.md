@@ -10,7 +10,7 @@ Bu sayfada, 1800'lü yıllarda yazıya geçirilmiş bazı eski Zazaca metinleri 
 
 Bu metinler Zazalar için önemlidir, çünkü bugün elimizdeki en eski uzun Zazaca metin örneklerinden bazılarıdır. İçlerinde aşiret kavgaları, yerel kişiler, köy adları, aile hikayeleri ve masallar vardır. Bazı anlatılar, Palu, Hani/Hyêni, Sivan, Nyêrib, Karbegan ve çevresinin eski hafızasına dair ipuçları da verir.
 
-Lerch'in Zazaca için en önemli kaynak kişilerinden biri Hasan'dır. Lerch bu adı kendi yazımıyla Hassan olarak verir. Lerch'e göre Hasan, Palu yakınındaki Kasan/Kassau/Kaschan köyünden ve Sivan aşiretindendi. Kiepert'in 1858 tarihli haritasında Palu'nun doğusunda, Sivan Maaden'in kuzeyinde Kaschan adı da görülür. Hasan hem Zazaca hem Kurmanci biliyordu; türkü, masal ve aşiret kavgaları hakkında anlatılar biliyordu.
+Lerch'in Zazaca için en önemli kaynak kişilerinden biri Hasan'dır. Lerch bu adı kendi yazımıyla Hassan olarak verir. Lerch'e göre Hasan, Palu yakınındaki Kasan/Kassau/Kaschan köyünden ve Sivan aşiretindendi. Bu ad için iki yer eşleştirmesi birlikte düşünülmelidir: yaygın eşleştirme Günkondu'dur; fakat Kiepert'in 1858 haritasındaki Kaschan konumu, Doğanlı çevresinde korunan Kaşan/Qaşan adını da güçlü bir olasılık yapar. Hasan hem Zazaca hem Kurmanci biliyordu; türkü, masal ve aşiret kavgaları hakkında anlatılar biliyordu.
 
 ## Nasıl Okunur?
 
