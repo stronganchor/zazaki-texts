@@ -2,13 +2,21 @@ Die Feindseligkeiten zwischen Nerib und Sivan
 
 Einst ging ein junger Mann aus Nerib nach Horsig in Sivän, um zu stehlen, öffnete das Haus des Mel'a Ahmed Qafan, nahm dessen Pelz (und) ging damit davon (trug ihn davon).
 
-Der Sohn Mel'a Ahmed’s, Husein bemerkte diesen Dieb, packte (ihn und) sagte (ihm): wo bist du her? Der Dieb sagte: ich bin aus Nerib.
+Der Sohn Mel'a Ahmed’s, Husein bemerkte diesen Dieb, packte (ihn und) sagte (ihm): wo bist du her?
 
-Der Sohn Mel’a Ahmed’s sagte: du bist aus Nerib, aus welchem Nerib? Der Dieb sagte: ich bin aus Destei Henzi.
+Der Dieb sagte: ich bin aus Nerib.
 
-Der Sohn Mel'a Ahmed’s fragte: aus welchem Mahal? Der Dieb sagte: aus dem Mahal Seinän.
+Der Sohn Mel’a Ahmed’s sagte: du bist aus Nerib, aus welchem Nerib?
 
-Mel'a Ahmed’s Sohn fragte: warum kamst du? warum bist du in meinem Hause? Der Dieb antwortete ich (Einwohner) von Nerib kam in dein Haus, um Diebstahl zu verüben. Und wurde von dir hier getroffen, darum bin ich hier, (wisse aber,) dass ich stark bin.
+Der Dieb sagte: ich bin aus Destei Henzi.
+
+Der Sohn Mel'a Ahmed’s fragte: aus welchem Mahal?
+
+Der Dieb sagte: aus dem Mahal Seinän.
+
+Mel'a Ahmed’s Sohn fragte: warum kamst du?
+
+warum bist du in meinem Hause? Der Dieb antwortete ich (Einwohner) von Nerib kam in dein Haus, um Diebstahl zu verüben. Und wurde von dir hier getroffen, darum bin ich hier, (wisse aber,) dass ich stark bin.
 
 Mel’a Ahmed's Sohn erschlug sogleich den Dieb, sandte einen Boten zu Xalef Agha und liess sagen: komme nicht nach Hyeni (?).
 

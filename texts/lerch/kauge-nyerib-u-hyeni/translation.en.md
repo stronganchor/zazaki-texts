@@ -1,73 +1,145 @@
 The Feud Between Nerib and Hyeni
 
-Once a man from Nerib set out and went to Dauz; from Dauz he came into the territory of Hyeni. A man from Hyeni was plowing his land.
+Once a man from Ny?rib set out and went to Dawz; from Dawz he came to the land of Hy?ni.
 
-That Nerib man went up to the Hyeni man and said: 'Who are you, that you are plowing here?' The Hyeni man said: 'I am a servant of Mela Hasein Muyara, and I am plowing here.'
+A man from Hy?ni was plowing his own land.
 
-The Nerib man said: 'Mela Hasein Muyara is my enemy; in my grandfather's time he killed one of my grandfather's servants, and today I will take revenge on you.' The man from Hyeni said: 'I am a servant; your grief will find no remedy through me.'
+The Ny?rib man approached the Hy?ni man and said: 'Who are you, that you are plowing here?'
 
-The Nerib man said: 'I will kill you.' The Hyeni man went to fetch his weapons.
+The Hy?ni man said: 'I am a servant of Mela Haseyn? M??ara; I am plowing here.'
 
-He took his pistols, put them in his belt, took his sword in his hand, and went at the Nerib man. The Nerib man sprang up at once, went to the Hyeni man, wrenched the weapons from him, cut off his head, killed him, and threw the body aside.
+The Ny?rib man said: 'Mela Haseyn? M??ara is my enemy; in my grandfather's time he killed one of my grandfather's servants, and today I will take revenge on you.'
 
-Then he went to Nerib, to Xalef Agha, and said to him: 'I killed a man from Hyeni.' Xalef Agha said to that man: 'The Hyeni man whom you killed, what sort of man was he?'
+The Hy?ni man said: 'I am a servant; your grievance has no remedy through me.'
 
-That man said to Xalef Agha: 'He was a servant of Mela Hasein Muyara.' Xalef Agha said: 'Be careful; you have killed a stranger.
+The Ny?rib man said: 'I will kill you.'
 
-A stranger will come into your house, take your property, and kill you.' That man said to Xalef Agha: 'Agha, send word to Little Nerib and Deste Henzi that they should be on guard and keep their property from being left unprotected. On whatever day the news comes from Hyeni, let no one be absent and we will fight.'
+The Hy?ni man went to get his weapons, took his pistols, put them in his belt, took his sword in his hand, and advanced on the Ny?rib man.
 
-Xalef Agha sent word to Little Nerib, to Wesman Agha, saying: 'Send the news to Mehmet Agha of Deste Henzi.' Wesman Agha sent word to Mehmet Agha of Deste Henzi, saying: 'Prepare yourself. The Hyeni people will fight us; take powder, make ready, and when the news comes from Hyeni, we will fight.'
+The Ny?rib man immediately sprang up, took the Hy?ni man's weapons from him, cut off his head, killed him, threw his body aside, went to Ny?rib to Xalef Agha, and said to him: 'I killed a man from Hy?ni.'
 
-Mehmet Agha sent word to Wesman Agha, saying: 'Tell Xalef Agha that we are ready; when the news comes from Hyeni, we will fight.' When a month had passed, Daqma Beg of Hyeni sent word to Great Nerib, to Xalef Agha: 'Why did you kill that man of mine? Be ready at your time; in five days we will fight.'
+Xalef Agha said to that man: 'What kind of man was the Hy?ni man you killed?'
 
-Xalef Agha sent his word to Hyeni, to Daqma Beg, saying: 'In five days, if not tomorrow, we will fight.' Daqma Beg had a herald cry out inside Hyeni: 'Let no stranger enter the town, and let no gathering take place without permission. I, Daqma Beg, say: whoever I see without permission, I will have his head cut off.'
+That man said to Xalef Agha: 'He was Mela Haseyn? M??ara's servant.'
 
-Daqma Beg said: 'News has come from Xalef Agha in Nerib: tomorrow there will be a fight; in every house, anyone who can take a stick in his hand must not stay behind; tomorrow there will be a fight.' Daqma Beg sent word to Nerib, to Xalef Agha, saying: 'My army is ready; tomorrow we will come through the vineyards.' Xalef Agha sent word to Daqma Beg in Hyeni, saying: 'Be on guard tonight; I will burn the town tonight.'
+Xalef Agha said: 'Be careful; you have killed a stranger. A stranger will come, take your property, and kill you.'
 
-Daqma Beg gathered his whole army, assembled it before Temir Beg's house, gave powder and lead to his army, and mounted. He sent all the infantry over the meadows and all the horsemen through the vineyards. At daybreak, as morning was coming on, he sent word to Xalef Agha in Nerib, saying: 'Accursed one, I did not sleep until morning tonight.
+That man said to Xalef Agha: 'Agha, send word to Little Ny?rib and De?t? Henzi; let them be careful, and let them not leave their property unguarded. On the day news comes from Hy?ni, let no one be absent; we will fight.'
 
-What happened to your promise, the promise that you would come to fight? My army is ready.' Xalef Agha rose, mounted his horse, had the drum beaten, and put himself at the head of his army.
+Xalef Agha sent word to Little Ny?rib, to Wesman Agha: 'Send the news to M?hm?t Agha in De?t? Henzi.'
 
-He said to his army: 'Do not be afraid. They are Turks; they do not know how to fight. We are brave tribesmen; do not be afraid.
+Wesman Agha sent word to M?hm?t Agha in De?t? Henzi: 'Prepare yourself; the Hy?ni people will fight us. Get powder and be ready; on the day news comes from Hy?ni, we will fight.'
 
-I am with you, and even if I die, you must still go into battle.' Xalef Agha's army said: 'Very well, Agha; as long as we are not dead, we will not leave you. We will go into battle.'
+M?hm?t Agha sent word to Wesman Agha: 'Tell Xalef Agha: we are ready; on the day news comes from Hy?ni, we will fight.'
 
-Xalef Agha said: 'Well done, my aghas.' Xalef Agha led his army and went into the territory of Hyeni, and saw that all of Daqma Beg's army was sitting there, some riding about, some dismounted, some eating, and some dancing. Xalef Agha called out to Daqma Beg, saying: 'Be ready at your time; I have come.'
+After a month passed, Daqma Bey of Hy?ni sent word to Great Ny?rib, to Xalef Agha: 'Why did you kill this man of mine? Be ready at your own time; within five days we will fight.'
 
-Daqma Beg mounted his horse, called to his army and said: 'Go to your places; Xalef Agha's army has come. Rise, go into the fortress.' Xalef Agha said to his army: 'Let none of Daqma Beg's army escape; kill them all.'
+Xalef Agha sent word to Daqma Bey in Hy?ni: 'Within five days, or else come tomorrow; let us fight.'
 
-Xalef's army said to Xalef Agha: 'Give us permission, and watch.' Xalef Agha said: 'March!' Xalef Agha's army shouted 'wake, wake.'
+Daqma Bey had the town crier call out inside Hy?ni: 'Let no stranger enter the city, and let no one gather without permission. I, Daqma Bey, say: whoever I see without permission, I will have his head cut off.'
 
-Thirty-four men from Daqma Beg's army were killed, and Daqma Beg's army fled. The army of Xalef Agha pursued them, entered the town, and burned one mahalle of Hyeni. They cut off Xalil Efendi's head, brought it, and gave it to Xalef Agha.
+Daqma Bey said: 'News has come from Xalef Agha of Ny?rib: there will be war tomorrow. Let everyone in the houses who can take a stick in his hand come; let no one remain behind. Tomorrow there will be war.'
 
-Daqma Beg said: 'Mercy, my lord, I will not fight; I have no army.' Xalef Agha sent word to Daqma Beg, saying: 'Leave the town; I am coming to burn the town.' Daqma Beg at once sent a fur coat to Xalef Agha, saying: 'Mercy, my lord; I have no one.
+Daqma Bey sent word to Ny?rib, to Xalef Agha: 'My army is ready; tomorrow we will come through the vineyards.'
 
-I cannot fight. Why do you want to fight with me? I am not going against you.'
+Xalef Agha sent word to Daqma Bey in Hy?ni: 'Be careful tonight; tonight I will burn the city.'
 
-Xalef Agha said: 'Even without an army I will defeat you; come and fight me. In three days we will fight; I will spare none of your army nor of your town. I will kill everyone, and I will kill you; I will carry off your wife.'
+Daqma Bey gathered his whole army, assembled them before Temir Bey's house, gave powder and bullets to his soldiers, mounted his horse, and sent all the infantry through the streets and all the horsemen through the vineyards.
 
-Daqma Beg sent word to Xalef Agha, saying: 'Give me ten days of respite.' Xalef Agha said: 'All right; let there be twenty days of respite for you. After that, come at once and we will fight.
+When dawn broke and morning grew light, he sent word to Ny?rib, to Xalef Agha: 'Cursed one, I did not sleep until morning tonight; what happened to your word? Weren't you going to come to battle? My army is ready.'
 
-If you do not come, I will burn the town completely and cut off your head.' Daqma Beg sent word to Xalef Agha, saying: 'There will be no fighting for twenty days; after that I will send you word.' Xalef Agha said: 'Very well, my lord, it is permitted to you'; he gave Daqma Beg twenty days of respite.
+Xalef Agha mounted his horse, had the drum beaten, went in front of his army, and said to his soldiers: 'Do not be afraid; they are Turks and do not know how to fight. We are brave tribesmen; do not be afraid. I am before you; even if I die, you still go to battle.'
 
-Daqma Beg went and gathered troops; within twenty days he gathered four thousand men. When twenty-one days were complete, Daqma Beg sent word to Nerib, to Xalef Agha, saying: 'My army is ready; tomorrow I am coming to battle; we will fight.' Xalef Agha sent word to Daqma Beg, saying: 'Be ready at your time; tomorrow at dawn I will come to the Hemyer field.
+Xalef Agha's soldiers said: 'Very well, Agha; as long as we are not dead, we will not leave you. We will go to battle.'
 
-Bring your army; come through the vineyards to the fortress, and we will fight until either you cut off my head or I cut off yours.' Daqma Beg sent word to Xalef Agha, saying: 'Do not delay; I will come in the morning; be there.' Xalef Agha sent word to Daqma Beg, saying: 'This time I am coming.'
+Xalef Agha said: 'Well done, my aghas.'
 
-Daqma Beg sent word to Xalef Agha saying: 'Rise and come; I will gouge out your eyes.' Xalef Agha rose and had the drums beaten. Xalef Agha's army all came together, and Xalef Agha said to his army: 'Listen, aghas, we are going to battle; do not be afraid.
+Xalef Agha went in front of his army, came out into the land of Hy?ni, and saw that Daqma Bey's whole army was sitting there: some were riding horses, some were on foot, some were eating, and some were dancing the govend.
 
-Daqma Beg's army is numerous, but they are all Turks; they do not know how to fight with us. We are all brave Kurds, tribal men; do not be afraid. We are going forward, and as long as my head is not cut off, nothing will happen to you.'
+Xalef Agha called out.
 
-Xalef Agha's army said: 'We are going forward; as long as we do not die, nothing will happen to you.' Xalef Agha said: 'Well done, my aghas.' Xalef Agha rose, led his army away, and went into the territory of Hyeni.
+He said to Daqma Bey: 'Be ready at your own time; I have come.'
 
-He saw that Daqma Beg's army had gathered many cartridges near the vineyards. Daqma Beg's army was four thousand strong, and Xalef Agha's army two thousand. Xalef Agha's army said to Xalef Agha: 'Forgive us, my lord; give us permission to go into battle.'
+Daqma Bey mounted his horse and called to his army: 'Go to your places; Xalef Agha's army has come. Get up, go, do not be afraid.'
 
-Xalef Agha said: 'March!' The standard-bearer went against Daqma Beg's army, they collided, and they fought for two hours. At the end, Daqma Beg asked for mercy and said to Xalef Agha: 'I cannot fight with you.'
+Xalef Agha said to his army: 'Let no one from Daqma Bey's army escape; kill them all.'
 
-Xalef Agha pulled his army back, came to Nerib, and saw that sixty men were missing from his army. He sent word to Daqma Beg, saying: 'Sixty men are missing from my army.' Daqma Beg sent word to Xalef Agha saying: 'Sixty men are missing from your army; one hundred and eighty are missing from mine, all of them killed.
+Xalef Agha's soldiers said to Xalef Agha: 'Give us permission, and you watch.'
 
-Come and take your dead; I have no one to bury my dead.' Xalef Agha sent a man, saying: 'Go and bring our dead.' The man went, brought the dead, and stayed there.
+Xalef Agha said: 'Charge!'
 
-Daqma Beg sent word to the Ziriki aghas, saying: 'Come and reconcile me with Xalef Agha; all of you come so that we may make peace.' The Ziriki aghas rose, came to Hyeni, took Daqma Beg, and came to Nerib, to Xalef Agha's house. Daqma Beg went and kissed Xalef Agha's feet; Xalef Agha kissed Daqma Beg's hand.
+Xalef Agha's army shouted, 'wake, wake.'
 
-Xalef Agha gave Daqma Beg two hundred sheep. Daqma Beg gave Xalef Agha a vineyard; they made peace, and the feud was no more.
+Thirty-four men from Daqma Bey's army were killed, and Daqma Bey's army fled.
+
+Xalef Agha's army pursued them, entered the city, burned one neighborhood in Hy?ni, cut off Xalil Efendi's head, brought it, and gave it to Xalef Agha.
+
+Daqma Bey said: 'Mercy, my lord. I will not fight anymore; I have no army left.'
+
+Xalef Agha sent word to Daqma Bey: 'Come out of the city; I am coming to burn the city.'
+
+Daqma Bey immediately sent a fur coat to Xalef Agha and said: 'Mercy, my lord. I have no one; I cannot fight. Why will you fight me?'
+
+'I am not coming against you.' Xalef Agha said: 'Come; I will give you soldiers, go and fight me. Within three days we will fight; I will not spare anyone from your army or your city. I will kill them all, and I will kill you too.'
+
+'I will take your wife too.'
+
+Daqma Bey sent word to Xalef Agha: 'Give me ten days' respite.'
+
+Xalef Agha said: 'Very well, let it be twenty days' respite for you; then come at once and let us fight. If you do not come, I will burn the whole city and cut off your head.'
+
+Daqma Bey sent word to Xalef Agha: 'There will be no fight for twenty days; then I will send you word.'
+
+Xalef Agha said: 'Very well, my lord, you have permission.'
+
+He gave Daqma Bey twenty days' respite.
+
+Daqma Bey went and gathered soldiers, and within twenty days he gathered four thousand soldiers.
+
+When twenty-one days were complete, Daqma Bey sent word to Ny?rib, to Xalef Agha: 'My army is ready; tomorrow I am coming to battle, and we will fight.'
+
+Xalef Agha sent word to Daqma Bey: 'Be ready at your own time; tomorrow at dawn I will come to D?z? Hemy?. Take your army, come through the vineyards, do not be afraid. Let us fight: either you will cut off my head or I will cut off yours.'
+
+Daqma Bey sent word to Xalef Agha: 'Do not delay; come in the evening; come when morning comes.'
+
+Xalef Agha sent word to Daqma Bey: 'This time I am coming.'
+
+Daqma Bey sent word to Xalef Agha: 'Get up and come; I will gouge out your eyes.'
+
+Xalef Agha got up and had the drums beaten.
+
+Xalef Agha's whole army gathered. Xalef Agha said to his army: 'Listen, aghas, we are going to battle. Do not be afraid; Daqma Bey's army is large, but they are all Turks and do not know how to fight us.'
+
+'We are all brave Kurds, tribesmen; do not be afraid, we are going. As long as my head is not cut off, nothing will happen to you.'
+
+His soldiers said to Xalef Agha: 'We are going; as long as we are not dead, nothing will happen to you.'
+
+Xalef Agha said: 'Well done, my aghas.'
+
+Xalef Agha got up, went in front of his army, came out into the land of Hy?ni, and saw that Daqma Bey's army had prepared cartridges beside the vineyards.
+
+Daqma Bey's army was four thousand, and Xalef Agha's army was two thousand men.
+
+Xalef Agha's soldiers said to Xalef Agha: 'Mercy, my lord, give us permission to go to battle.'
+
+Xalef Agha said: 'Charge!'
+
+The standard-bearer advanced against Daqma Bey's army, the armies clashed, and they fought for two hours; in the end Daqma Bey asked for mercy and said to Xalef Agha: 'I cannot fight you.'
+
+Xalef Agha withdrew his army, came to Ny?rib, and saw that sixty men were missing from his army. He sent word to Daqma Bey: 'Sixty men are missing from my army.'
+
+Daqma Bey sent word to Xalef Agha: 'Sixty men are missing from your army; one hundred eighty men are missing from my army, and all of them have been killed. Come and take your dead; I have no one to bury mine.'
+
+Xalef Agha sent men and said: 'Go and bring our dead.'
+
+The men went, brought the dead, and stayed there.
+
+Daqma Bey sent word to the Ziriki aghas: 'Come and reconcile me with Xalef Agha; all of you come, and let us make peace.'
+
+The Ziriki aghas got up and came to Hy?ni, took Daqma Bey, and came to Ny?rib, to Xalef Agha's house.
+
+Daqma Bey went and kissed Xalef Agha's feet; Xalef Agha kissed Daqma Bey's hand.
+
+Xalef Agha gave Daqma Bey two hundred sheep.
+
+Daqma Bey gave Xalef Agha a vineyard; they made peace together, and the blood feud was over.

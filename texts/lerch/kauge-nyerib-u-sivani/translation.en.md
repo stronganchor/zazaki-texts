@@ -2,13 +2,21 @@ The hostilities between Nerib and Sivan
 
 Once a young man from Nerib went to the Sivan tribe, to Horsig, to steal; he opened Mel'a Ahmed Qafan's house and took Mel'a Ahmed Qafan's fur coat and carried it off.
 
-Mel'a Ahmed's son Husein saw that thief, seized him, and said to the thief: 'Where are you from?' The thief said: 'I am from Nerib.
+Mel'a Ahmed's son Husein saw that thief, seized him, and said to the thief: 'Where are you from?'
 
-Mel'a Ahmed's son said: 'You are from Nerib; from which Nerib?' The thief said: 'I am from Destei Henzi.
+The thief said: 'I am from Nerib.
 
-Mel'a Ahmed's son said: 'From which mahalle are you?' The thief said that: 'I am from the Seinān mahalle.
+Mel'a Ahmed's son said: 'You are from Nerib; from which Nerib?'
 
-Mel'a Ahmed's son said: 'Why did you come into my house?' The thief said: 'I am Neribian; I came into your house to steal. Since you caught me here, know that I am strong.
+The thief said: 'I am from Destei Henzi.
+
+Mel'a Ahmed's son said: 'From which mahalle are you?'
+
+The thief said that: 'I am from the Seinān mahalle.
+
+Mel'a Ahmed's son said: 'Why did you come into my house?'
+
+The thief said: 'I am Neribian; I came into your house to steal. Since you caught me here, know that I am strong.
 
 Mel'a Ahmed's son immediately killed the thief and sent a messenger to Nerib, to Xalef Agha, saying: 'Do not come to Hyeni; you fought there; you killed everyone in Hyeni and brought them under safe-conduct.
 

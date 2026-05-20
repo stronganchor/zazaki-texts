@@ -2,13 +2,21 @@ Nyêrib ve Sivan'ın kavgası
 
 Eskiden Nyêrib'den bir genç Sivan aşiretine, Horsig'e hırsızlığa gitti; Mela Ahmedi Qafon'un evini açtı ve Mela Ahmedi Qafon'un kürkünü aldı ve götürdü.
 
-Mela Ahmed'in oğlu Huseyin o hırsızı gördü, yakaladı ve hırsıza dedi ki: 'Sen nerelisin?' Hırsız dedi ki: 'Ben Nyêrib'denim.
+Mela Ahmed'in oğlu Huseyin o hırsızı gördü, yakaladı ve hırsıza dedi ki: 'Sen nerelisin?'
 
-Mela Ahmed'in oğlu dedi ki: 'Nyêrib'densin; hangi Nyêrib'densin?' Hırsız dedi ki: 'Ben Deştê Henzi'denim.
+Hırsız dedi ki: 'Ben Nyêrib'denim.
 
-Mela Ahmed'in oğlu dedi ki: 'Hangi mahalledensin?' Hırsız dedi ki: 'Şeynan mahallesindeyim.
+Mela Ahmed'in oğlu dedi ki: 'Nyêrib'densin; hangi Nyêrib'densin?'
 
-Mela Ahmed'in oğlu dedi ki: 'Niçin geldin benim evime?' Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim, hırsızlık etmek için. Sen beni burada yakaladın; fakat bil ki ben güçlüyüm.
+Hırsız dedi ki: 'Ben Deştê Henzi'denim.
+
+Mela Ahmed'in oğlu dedi ki: 'Hangi mahalledensin?'
+
+Hırsız dedi ki: 'Şeynan mahallesindeyim.
+
+Mela Ahmed'in oğlu dedi ki: 'Niçin geldin benim evime?'
+
+Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim, hırsızlık etmek için. Sen beni burada yakaladın; fakat bil ki ben güçlüyüm.
 
 Mela Ahmed'in oğlu hemen hırsızı öldürdü ve Nyêrib'e, Xalef Ağa'ya haber gönderdi, dedi ki: 'Hêni'ye gelme; sen orada kavga ettin; Hêni'de herkesi öldürüp emana getirdin.
 

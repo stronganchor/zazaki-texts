@@ -2,13 +2,21 @@ Kawğê Nyêrib û Sivani
 
 Veri coan yaw lacêku Nyêrbic şê Sivang, 'Horsigê dızdêyê, bani Mêla A'hmêdi Qafan akêrd, purti Mêla A'hmêdi Qafan gêrawt bêru.
 
-Laci Mêla A'hmêdi 'Husêyni di enoê dızd, tepişt va kê dızdê ra: tê qangcaray. Dızdi va kê: ez Nyêribraya.
+Laci Mêla A'hmêdi 'Husêyni di enoê dızd, tepişt va kê dızdê ra: tê qangcaray.
 
-Laci Mêla A'hmêdi va kê: tê Nyêribdê, qam Nyêribdêy. Dızdi va kê: ez Deştêy 'Henzira.
+Dızdi va kê: ez Nyêribraya.
 
-Laci Mêla A'hmêdi va kê: tê qam me'hladi. Dızdi va kê: ez me'hlay Şêynangda.
+Laci Mêla A'hmêdi va kê: tê Nyêribdê, qam Nyêribdêy.
 
-Laci Mêla A'hmêdi va kê: tê qawi amêy malê mê bêni. Dızdi va kê: ez Nyêrbida amêya malê twê, dızdêy bıkêra, bêra twê ez dyang, lakimkê ez ha bêna, zor bêna.
+Dızdi va kê: ez Deştêy 'Henzira.
+
+Laci Mêla A'hmêdi va kê: tê qam me'hladi.
+
+Dızdi va kê: ez me'hlay Şêynangda.
+
+Laci Mêla A'hmêdi va kê: tê qawi amêy malê mê bêni.
+
+Dızdi va kê: ez Nyêrbida amêya malê twê, dızdêy bıkêra, bêra twê ez dyang, lakimkê ez ha bêna, zor bêna.
 
 Laci Mêla A'hmêdi wica serêy dızdi têra kêrd, 'habêrê êrşawutê Nyêrib Xalef ağayri va kê: we Xyeni nêbê, twê têdê kawğê kêrdini, tu 'Hyênici pyêru kişti ardi emani ser.
 

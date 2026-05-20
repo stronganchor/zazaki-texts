@@ -98,7 +98,7 @@
   "summary": {
     "lines": 75,
     "source_lines": 75,
-    "reading_units": 38,
+    "reading_units": 42,
     "tokens": 796
   },
   "witnesses": [
@@ -171,39 +171,75 @@
       }
     },
     {
-      "id": "u02",
-      "source": "Laci Mêla A'hmêdi 'Husêyni di enoê dızd, tepişt va kê dızdê ra: tê qangcaray. Dızdi va kê: ez Nyêribraya.",
+      "id": "u02_01",
+      "source": "Laci Mêla A'hmêdi 'Husêyni di enoê dızd, tepişt va kê dızdê ra: tê qangcaray.",
       "translations": {
-        "tr": "Mela Ahmed'in oğlu Huseyin o hırsızı gördü, yakaladı ve hırsıza dedi ki: 'Sen nerelisin?' Hırsız dedi ki: 'Ben Nyêrib'denim.",
-        "en": "Mel'a Ahmed's son Husein saw that thief, seized him, and said to the thief: 'Where are you from?' The thief said: 'I am from Nerib.",
-        "de": "Der Sohn Mel'a Ahmed’s, Husein bemerkte diesen Dieb, packte (ihn und) sagte (ihm): wo bist du her? Der Dieb sagte: ich bin aus Nerib."
+        "tr": "Mela Ahmed'in oğlu Huseyin o hırsızı gördü, yakaladı ve hırsıza dedi ki: 'Sen nerelisin?'",
+        "en": "Mel'a Ahmed's son Husein saw that thief, seized him, and said to the thief: 'Where are you from?'",
+        "de": "Der Sohn Mel'a Ahmed’s, Husein bemerkte diesen Dieb, packte (ihn und) sagte (ihm): wo bist du her?"
       }
     },
     {
-      "id": "u03",
-      "source": "Laci Mêla A'hmêdi va kê: tê Nyêribdê, qam Nyêribdêy. Dızdi va kê: ez Deştêy 'Henzira.",
+      "id": "u02_02",
+      "source": "Dızdi va kê: ez Nyêribraya.",
       "translations": {
-        "tr": "Mela Ahmed'in oğlu dedi ki: 'Nyêrib'densin; hangi Nyêrib'densin?' Hırsız dedi ki: 'Ben Deştê Henzi'denim.",
-        "en": "Mel'a Ahmed's son said: 'You are from Nerib; from which Nerib?' The thief said: 'I am from Destei Henzi.",
-        "de": "Der Sohn Mel’a Ahmed’s sagte: du bist aus Nerib, aus welchem Nerib? Der Dieb sagte: ich bin aus Destei Henzi."
+        "tr": "Hırsız dedi ki: 'Ben Nyêrib'denim.",
+        "en": "The thief said: 'I am from Nerib.",
+        "de": "Der Dieb sagte: ich bin aus Nerib."
       }
     },
     {
-      "id": "u04",
-      "source": "Laci Mêla A'hmêdi va kê: tê qam me'hladi. Dızdi va kê: ez me'hlay Şêynangda.",
+      "id": "u03_01",
+      "source": "Laci Mêla A'hmêdi va kê: tê Nyêribdê, qam Nyêribdêy.",
       "translations": {
-        "tr": "Mela Ahmed'in oğlu dedi ki: 'Hangi mahalledensin?' Hırsız dedi ki: 'Şeynan mahallesindeyim.",
-        "en": "Mel'a Ahmed's son said: 'From which mahalle are you?' The thief said that: 'I am from the Seinān mahalle.",
-        "de": "Der Sohn Mel'a Ahmed’s fragte: aus welchem Mahal? Der Dieb sagte: aus dem Mahal Seinän."
+        "tr": "Mela Ahmed'in oğlu dedi ki: 'Nyêrib'densin; hangi Nyêrib'densin?'",
+        "en": "Mel'a Ahmed's son said: 'You are from Nerib; from which Nerib?'",
+        "de": "Der Sohn Mel’a Ahmed’s sagte: du bist aus Nerib, aus welchem Nerib?"
       }
     },
     {
-      "id": "u05",
-      "source": "Laci Mêla A'hmêdi va kê: tê qawi amêy malê mê bêni. Dızdi va kê: ez Nyêrbida amêya malê twê, dızdêy bıkêra, bêra twê ez dyang, lakimkê ez ha bêna, zor bêna.",
+      "id": "u03_02",
+      "source": "Dızdi va kê: ez Deştêy 'Henzira.",
       "translations": {
-        "tr": "Mela Ahmed'in oğlu dedi ki: 'Niçin geldin benim evime?' Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim, hırsızlık etmek için. Sen beni burada yakaladın; fakat bil ki ben güçlüyüm.",
-        "en": "Mel'a Ahmed's son said: 'Why did you come into my house?' The thief said: 'I am Neribian; I came into your house to steal. Since you caught me here, know that I am strong.",
-        "de": "Mel'a Ahmed’s Sohn fragte: warum kamst du? warum bist du in meinem Hause? Der Dieb antwortete ich (Einwohner) von Nerib kam in dein Haus, um Diebstahl zu verüben. Und wurde von dir hier getroffen, darum bin ich hier, (wisse aber,) dass ich stark bin."
+        "tr": "Hırsız dedi ki: 'Ben Deştê Henzi'denim.",
+        "en": "The thief said: 'I am from Destei Henzi.",
+        "de": "Der Dieb sagte: ich bin aus Destei Henzi."
+      }
+    },
+    {
+      "id": "u04_01",
+      "source": "Laci Mêla A'hmêdi va kê: tê qam me'hladi.",
+      "translations": {
+        "tr": "Mela Ahmed'in oğlu dedi ki: 'Hangi mahalledensin?'",
+        "en": "Mel'a Ahmed's son said: 'From which mahalle are you?'",
+        "de": "Der Sohn Mel'a Ahmed’s fragte: aus welchem Mahal?"
+      }
+    },
+    {
+      "id": "u04_02",
+      "source": "Dızdi va kê: ez me'hlay Şêynangda.",
+      "translations": {
+        "tr": "Hırsız dedi ki: 'Şeynan mahallesindeyim.",
+        "en": "The thief said that: 'I am from the Seinān mahalle.",
+        "de": "Der Dieb sagte: aus dem Mahal Seinän."
+      }
+    },
+    {
+      "id": "u05_01",
+      "source": "Laci Mêla A'hmêdi va kê: tê qawi amêy malê mê bêni.",
+      "translations": {
+        "tr": "Mela Ahmed'in oğlu dedi ki: 'Niçin geldin benim evime?'",
+        "en": "Mel'a Ahmed's son said: 'Why did you come into my house?'",
+        "de": "Mel'a Ahmed’s Sohn fragte: warum kamst du?"
+      }
+    },
+    {
+      "id": "u05_02",
+      "source": "Dızdi va kê: ez Nyêrbida amêya malê twê, dızdêy bıkêra, bêra twê ez dyang, lakimkê ez ha bêna, zor bêna.",
+      "translations": {
+        "tr": "Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim, hırsızlık etmek için. Sen beni burada yakaladın; fakat bil ki ben güçlüyüm.",
+        "en": "The thief said: 'I am Neribian; I came into your house to steal. Since you caught me here, know that I am strong.",
+        "de": "warum bist du in meinem Hause? Der Dieb antwortete ich (Einwohner) von Nerib kam in dein Haus, um Diebstahl zu verüben. Und wurde von dir hier getroffen, darum bin ich hier, (wisse aber,) dass ich stark bin."
       }
     },
     {
