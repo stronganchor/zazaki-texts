@@ -16,7 +16,9 @@ Merdümi Nyêrbici va kê: ez twê kişêna.
 
 Merdümi 'Hyênêyici şê çeki xoê gêrawti tırsi xoê kêrd, xo dest şımşyêri xoê werand, şê merdümi Nyêrbici sêr.
 
-Merdümi Nyêrbici wica vazda, şê çeki merdümi 'Hyênici têra gêrawt, pêy seri merdümi 'Hyênici têra kerd kişt, cadê ver da, şê Nyêrib Xalef ağay 'hêt, yêra va kê: mê yaw merdümu 'Hyênêyic kişt.
+Merdümi Nyêrbici wica vazda, şê çeki merdümi 'Hyênici têra gêrawt, pêy seri merdümi 'Hyênici têra kerd kişt, cadê ver da, şê Nyêrib Xalef ağay 'hêt,
+
+yêra va kê: mê yaw merdümu 'Hyênêyic kişt.
 
 Xalef ağay yê merdümra va kê: merdümu 'Hyênêyicu tu kiştu, merdümi qamyu.
 
@@ -24,7 +26,9 @@ Yê merdüm Xalef ağayra va kê: ğızmkari Mêla 'Hasêyni Muğeraw.
 
 Xalef ağa va kê: muqaytê xoê bi, şıma merdümi şari kişti, şar yênu, mali şıma bênu, şıma kişênu.
 
-Yê merdümi va kê Xalef ağayra: ağa, 'haberê berşawê Nyêribu kic, Dêyştêy 'Henzi wa muqaytê xoê bi, wa malê xoê byê, wayêr nyêkêri, qam rocu kê 'habêrê 'Hyênêra amêy wa çaw çêhetya nyêşiru ma kawğe bıkêri.
+Yê merdümi va kê Xalef ağayra: ağa, 'haberê berşawê Nyêribu kic, Dêyştêy 'Henzi wa muqaytê xoê bi, wa malê xoê byê, wayêr nyêkêri,
+
+qam rocu kê 'habêrê 'Hyênêra amêy wa çaw çêhetya nyêşiru ma kawğe bıkêri.
 
 Xalef ağay 'habêrê erşawutê Nyêribu kic Wesman ağayri va kê: 'habêrê berşaw Dêyştêy 'Henzi Mê'hmêt ağayri.
 
@@ -44,11 +48,15 @@ Daqma beg 'habêrê erşawutê Nyêrib Xalef ağayri va kê: eskêri mê 'hadraw
 
 Xalef ağa 'haber erşawutê Daqma begiri 'Hyênê va kê: emşoê muqaytê xoê bê, ez emşoê şahrêstan vêşnêna.
 
-Daqma begi eskêri xoê hemê top kêrd, eskêr pyêru kêrand pêy kunaği Temir begi, barut, qırqışun da eskêri xoê, êspar vici, pêye pyêru erşawut pêy kuçan, êspar pyêru erşawut pêy rezan.
+Daqma begi eskêri xoê hemê top kêrd, eskêr pyêru kêrand pêy kunaği Temir begi, barut, qırqışun da eskêri xoê, êspar vici, pêye pyêru erşawut pêy kuçan,
+
+êspar pyêru erşawut pêy rezan.
 
 Şefak bestya bıroşt 'habêr erşawutê Nyêrib Xalef ağayri va kê: têrês, emşoê 'heta soba ez nyê ra kawta, sozi twê sênyênu, sozu tê byê kawğe xoêri vyênê, eskêri mê 'hadraw.
 
-Xalef ağa werişt bê êspar, dumilbazi da püroê, kawt eskêri xoê ver va kê eskêri xoêra: metêrsi, yê Tırki, yê nêşyêni kawğe bıki, ma cang mırdi aşirani, metêrsi, ez 'ha şıma ver, kêykê ez merda şıma 'hema şyêri kawğê.
+Xalef ağa werişt bê êspar, dumilbazi da püroê, kawt eskêri xoê ver va kê eskêri xoêra: metêrsi, yê Tırki, yê nêşyêni kawğe bıki, ma cang mırdi aşirani, metêrsi,
+
+ez 'ha şıma ver, kêykê ez merda şıma 'hema şyêri kawğê.
 
 Eskêri Xalef ağay va kê, peki, ağa, 'hetakê ma nyêmiri ma nyêverdani tê, şyêri kawğe.
 
@@ -98,7 +106,9 @@ Daqma beg şê, eskêr toplê kêrd, 'hêta vist roc çêhêr hênzari eskêr to
 
 Vist û yaw roc bi temami, Daqma begi 'haber erşawutê Nyêrib Xalef ağayri va kê: eskêri mê temamu, mêyştê ez yêna kawğe, kawğe mê kawğaw.
 
-Xalef ağay 'haberê erşawutê Daqma begiri va kê: waxtê xoêdê 'hadrê bê, ez mêyştê şêfaqdê yêna duzi 'Hemyêra, tê eskêri xoê bıgê, byê pêy rezan metırisi, ma kawğe bıki, nya tê serêy mê wêni, nya ez serêy twê wêna.
+Xalef ağay 'haberê erşawutê Daqma begiri va kê: waxtê xoêdê 'hadrê bê, ez mêyştê şêfaqdê yêna duzi 'Hemyêra, tê eskêri xoê bıgê, byê pêy rezan metırisi, ma kawğe bıki,
+
+nya tê serêy mê wêni, nya ez serêy twê wêna.
 
 Daqma begi 'haber erşawutê Xalef ağayri va kê: mêvındê, şandê yêni, sêbah byê.
 
@@ -108,7 +118,9 @@ Daqma begi 'haber erşawutê Xalef ağayri va kê: warzê, byê, ez çimani twê
 
 Xalef ağa werişt, dumilbazê day püroê.
 
-Êskêri Xalef ağa pyêru ame pyêser, Xalef ağa va kê eskêri xoêra: bawni, ağalêr, ma şwêni kawğe, mêtêrsi, eskêri Daqma begi zavu, hema pyêru Tırki, nyêşêngi madê kawğe bıki, ma pyêru cang mırdi kırdani, myêrdêy aşirani, metêrsi, ma 'ha şwêni, 'hetakê serêy mê nyêwênu,
+Êskêri Xalef ağa pyêru ame pyêser, Xalef ağa va kê eskêri xoêra: bawni, ağalêr, ma şwêni kawğe, mêtêrsi, eskêri Daqma begi zavu, hema pyêru Tırki, nyêşêngi madê kawğe bıki,
+
+ma pyêru cang mırdi kırdani, myêrdêy aşirani, metêrsi, ma 'ha şwêni, 'hetakê serêy mê nyêwênu,
 
 şım çêywiri çı çinyu.
 
@@ -128,7 +140,9 @@ bêyrakdar kawt eskêri Daqma begi, kawti temya, dı saati kawğe kerd, pêynıd
 
 Xalef ağay eskêri xoê kêrand, ame Nyêribu, awnay kê: eskêri xoêdê şêyşti tên çinu, 'haber erşawutê Daqma begiri va kê: şêyşti tên eskêri mêra çinu.
 
-Daqma begi 'haber erşawutê Xalef ağayri va kê: eskêri twê şêyşti tên çinu, eskêri mê saw hêyştê tên çinu, pyêru kişyay, byê mêytani xoê berê, mêytani mê waderê çawdê mê çinyu.
+Daqma begi 'haber erşawutê Xalef ağayri va kê: eskêri twê şêyşti tên çinu, eskêri mê saw hêyştê tên çinu, pyêru kişyay, byê mêytani xoê berê,
+
+mêytani mê waderê çawdê mê çinyu.
 
 Xalef ağay merdüm erşawuti va kê: şyêri mêytani ma byari.
 

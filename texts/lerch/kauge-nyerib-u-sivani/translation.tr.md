@@ -20,9 +20,13 @@ Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim, hırsızlık etmek içi
 
 Mela Ahmed'in oğlu hemen hırsızı öldürdü ve Nyêrib'e, Xalef Ağa'ya haber gönderdi, dedi ki: 'Hêni'ye gelme; sen orada kavga ettin; Hêni'de herkesi öldürüp emana getirdin.
 
-Xalef Ağa, Kelanlı Avdulah Ağa'ya haber gönderip dedi ki: 'Nyêrib'le kavga ettim, fakat kendi vaktinde hazır ol; adamlarımdan birini öldürdün; bil ki ben, benim bir adamıma karşı senin yirmi adamını öldüreceğim.
+Xalef Ağa, Kelanlı Avdulah Ağa'ya haber gönderip dedi ki: 'Nyêrib'le kavga ettim, fakat kendi vaktinde hazır ol; adamlarımdan birini öldürdün;
 
-Avdulah Ağa Xalef Ağa'ya haber gönderdi: 'Kendi vaktinde hazır ol; ben yarın ordumu götürüp Sele deresine geleceğim; sen de ordunu götürüp Dait tarafına gel; ya sen benim başımı kesinceye kadar ya da ben senin başını kesinceye kadar kavga edeceğiz.
+bil ki ben, benim bir adamıma karşı senin yirmi adamını öldüreceğim.
+
+Avdulah Ağa Xalef Ağa'ya haber gönderdi: 'Kendi vaktinde hazır ol; ben yarın ordumu götürüp Sele deresine geleceğim; sen de ordunu götürüp Dait tarafına gel;
+
+ya sen benim başımı kesinceye kadar ya da ben senin başını kesinceye kadar kavga edeceğiz.
 
 Xalef Ağa Avdulah Ağa'ya haber gönderdi: 'Ordum hazır; Deştê'ye varır varmaz sen de kalk, ordunu götür ve Sele deresine gel; kavga edeceğiz.
 
@@ -44,7 +48,9 @@ Avdulah Ağa'nın ordusu Xalef Ağa'nın köylerine gitti, altı köyü aldı, y
 
 Bir ay geçti.
 
-Xalef Ağa Avdulah Ağa'ya haber gönderdi dedi ki: 'Ordumdan bazılarını öldürdün, altı köyümü yaktın ve talan ettin; kendi vaktinde hazır ol; bu sefer ben geleceğim ve her nerede senin bir köyünü görürsem, geceye kadar yakıp talan edeceğim; çocuk bile bağışlamayacağım; herkesin başını keseceğim.
+Xalef Ağa Avdulah Ağa'ya haber gönderdi dedi ki: 'Ordumdan bazılarını öldürdün, altı köyümü yaktın ve talan ettin; kendi vaktinde hazır ol; bu sefer ben geleceğim ve her nerede senin bir köyünü görürsem,
+
+geceye kadar yakıp talan edeceğim; çocuk bile bağışlamayacağım; herkesin başını keseceğim.
 
 Avdulah Ağa Xalef Ağa'ya haber gönderdi: 'Olduğun yerde rahat dur; bu sefer sana gelirsem bir kör tavuğu bile bağışlamayacağım.
 
@@ -62,7 +68,9 @@ Avdulah Ağa davulu çaldırdı, ordusuna ilerlemeyi emretti ve Melekani bölges
 
 Avdulah Ağa ordusuna ilerlemeyi emretti: 'Başlar benim, mal sizin; korkmayın, gidip herkesi öldürün.
 
-Avdulah Ağa'nın ordusu Xalef Ağa'nın ordusuna karşı gitti ve Tauridye'ye kadar gelip kavga etti; Xalef Ağa'nın ordusu kaçtı ve Avdulah Ağa'nın ordusu peşinden gitti, köy evlerinin hepsini talan etti, Nyêrib çobanlarının hepsini öldürdü ve bütün sürüleri götürdü.
+Avdulah Ağa'nın ordusu Xalef Ağa'nın ordusuna karşı gitti ve Tauridye'ye kadar gelip kavga etti; Xalef Ağa'nın ordusu kaçtı ve Avdulah Ağa'nın ordusu peşinden gitti, köy evlerinin hepsini talan etti,
+
+Nyêrib çobanlarının hepsini öldürdü ve bütün sürüleri götürdü.
 
 Yirmi gün sonra Xalef Ağa Qotwesan'a, Hayder Ağa'ya gidip dedi ki: 'Senin himayene geldim; Kelanlı Avdulah Ağa bütün ordumu öldürdü, bütün köylerimi yaktı ve talan etti.
 
@@ -74,7 +82,9 @@ Hayder Ağa ata bindi, Xalef Ağa'yı yanına aldı, Sivan'a geldi ve Avdulah A�
 
 Hayder Ağa üç kez gidip Avdulah Ağa'nın ayaklarını öptü ve dedi ki: 'Ağa, bu sefer benim hatırım için Xalef Ağa'yı bağışla.
 
-Avdulah Ağa dedi Hayder Ağa'ya: 'Sen gelmemiş olsaydın, Xalef Ağa'ya bir oğlan bile geri vermezdim; Nyêrib köylerinin hepsini yakar ve her şeyi talan ederdim; fakat sen geldiğin için Xalef Ağa'yı sana bağışladım.
+Avdulah Ağa dedi Hayder Ağa'ya: 'Sen gelmemiş olsaydın, Xalef Ağa'ya bir oğlan bile geri vermezdim; Nyêrib köylerinin hepsini yakar ve her şeyi talan ederdim;
+
+fakat sen geldiğin için Xalef Ağa'yı sana bağışladım.
 
 Hayder Ağa Avdulah Ağa'yı başından öptü, gidip Xalef Ağa'yı getirdi ve Avdulah Ağa'nın ayaklarını öptü. Avdulah Ağa Xalef Ağa'nın elini öptü; barıştılar ve karşılıklı hilat verdiler.
 

@@ -16,7 +16,9 @@ Nyêribli adam dedi ki: 'Seni öldüreceğim.'
 
 Hyêni'li adam silahlarını almaya gitti, tabancalarını aldı, beline soktu, kılıcını eline aldı ve Nyêribli adamın üzerine yürüdü.
 
-Nyêribli adam hemen sıçradı, Hyêni'linin silahlarını elinden aldı, başını kesti, onu öldürdü, cesedini bir yana attı, Nyêrib'e Xalef Ağa'nın yanına gitti ve ona dedi ki: 'Hyêni'lilerden bir adam öldürdüm.'
+Nyêribli adam hemen sıçradı, Hyêni'linin silahlarını elinden aldı, başını kesti, onu öldürdü, cesedini bir yana attı,
+
+Nyêrib'e Xalef Ağa'nın yanına gitti ve ona dedi ki: 'Hyêni'lilerden bir adam öldürdüm.'
 
 Xalef Ağa o adama dedi ki: 'Öldürdüğün Hyêni'li nasıl bir adamdı?'
 
@@ -24,7 +26,9 @@ O adam Xalef Ağa'ya dedi ki: 'Mela Haseynê Mûğara'nın hizmetçisiydi.'
 
 Xalef Ağa dedi ki: 'Dikkatli ol; yabancı bir adam öldürdünüz, yabancı gelir, malınızı alır ve sizi öldürür.'
 
-O adam Xalef Ağa'ya dedi ki: 'Ağa, Küçük Nyêrib'e ve Deştê Henzi'ye haber gönder; dikkatli olsunlar, mallarını sahipsiz bırakmasınlar.
+O adam Xalef Ağa'ya dedi ki: 'Ağa, Küçük Nyêrib'e ve Deştê Henzi'ye haber gönder; dikkatli olsunlar,
+
+mallarını sahipsiz bırakmasınlar.
 
 Hyêni'den haber geldiği gün kimse eksik olmasın, savaşacağız.' Xalef Ağa Küçük Nyêrib'e, Wesman Ağa'ya haber gönderdi: 'Haberi Deştê Henzi'de Mêhmêt Ağa'ya gönder.'
 
@@ -44,11 +48,15 @@ Daqma Bey Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Ordum hazır; yarın bağla
 
 Xalef Ağa Hyêni'deki Daqma Bey'e haber gönderdi: 'Bu gece dikkatli ol; bu gece şehri yakacağım.'
 
-Daqma Bey bütün ordusunu topladı, Temir Bey'in evinin önünde bir araya getirdi, askerlerine barut ve kurşun verdi, ata bindi, bütün piyadeleri sokaklardan ve bütün atlıları bağların arasından gönderdi.
+Daqma Bey bütün ordusunu topladı, Temir Bey'in evinin önünde bir araya getirdi, askerlerine barut ve kurşun verdi, ata bindi,
+
+bütün piyadeleri sokaklardan ve bütün atlıları bağların arasından gönderdi.
 
 Şafak söküp sabah aydınlanırken Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Lanetli, bu gece sabaha kadar uyumadım; sözün ne oldu, hani savaşa gelecektin? Ordum hazır.'
 
-Xalef Ağa ata bindi, davulu çaldırdı, ordusunun önüne geçti ve askerlerine dedi ki: 'Korkmayın; onlar Türk'tür, savaşmayı bilmezler.
+Xalef Ağa ata bindi, davulu çaldırdı, ordusunun önüne geçti ve askerlerine dedi ki: 'Korkmayın; onlar Türk'tür,
+
+savaşmayı bilmezler.
 
 Biz yiğit aşiret adamlarıyız; korkmayın, ben sizin önünüzdeyim; ben ölsem bile siz yine savaşa gidin.' Xalef Ağa'nın askerleri dedi ki: 'Peki Ağa; biz ölmedikçe seni bırakmayız, savaşa gideriz.'
 
@@ -98,7 +106,9 @@ Daqma Bey gitti, asker topladı ve yirmi gün içinde dört bin asker topladı.
 
 Yirmi bir gün tamam olunca Daqma Bey Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Ordum hazır; yarın savaşa geliyorum, savaşacağız.'
 
-Xalef Ağa Daqma Bey'e haber gönderdi: 'Kendi vaktinde hazır ol; yarın şafakta Dûzê Hemyê'ye geleceğim. Ordunu al, bağların arasından gel, korkma; savaşalım, ya sen benim başımı kesersin ya da ben senin başını keserim.'
+Xalef Ağa Daqma Bey'e haber gönderdi: 'Kendi vaktinde hazır ol; yarın şafakta Dûzê Hemyê'ye geleceğim.
+
+Ordunu al, bağların arasından gel, korkma; savaşalım, ya sen benim başımı kesersin ya da ben senin başını keserim.'
 
 Daqma Bey Xalef Ağa'ya haber gönderdi: 'Gecikme, akşam gel; sabah olunca gel.'
 
@@ -108,7 +118,9 @@ Daqma Bey Xalef Ağa'ya haber gönderdi: 'Kalk gel; gözlerini çıkaracağım.'
 
 Xalef Ağa kalktı, davulları çaldırdı.
 
-Xalef Ağa'nın bütün ordusu toplandı. Xalef Ağa ordusuna dedi ki: 'Dinleyin ağalar, savaşa gidiyoruz. Korkmayın; Daqma Bey'in ordusu çoktur ama hepsi Türk'tür, bizimle savaşmayı bilmezler.
+Xalef A?a'n?n b?t?n ordusu topland?. Xalef A?a ordusuna dedi ki: 'Dinleyin a?alar, sava?a gidiyoruz. Korkmay?n; Daqma Bey'in ordusu ?oktur ama hepsi T?rk't?r, bizimle sava?may? bilmezler.
+
+Biz hepimiz yi?it K?rtleriz, a?iret adamlar?y?z; korkmay?n, gidiyoruz; benim ba??m kesilmedik?e size hi?bir ?ey olmaz.'
 
 Biz hepimiz yiğit Kürtleriz, aşiret adamlarıyız; korkmayın, gidiyoruz; benim başım kesilmedikçe size hiçbir şey olmaz.'
 
@@ -128,7 +140,9 @@ Bayraktar Daqma Bey'in ordusuna karşı yürüdü, ordular birbirine girdi, iki 
 
 Xalef Ağa ordusunu geri çekti, Nyêrib'e geldi ve ordusunda altmış kişinin eksik olduğunu gördü. Daqma Bey'e haber gönderdi: 'Ordumdan altmış kişi eksik.'
 
-Daqma Bey Xalef Ağa'ya haber gönderdi: 'Senin ordudan altmış kişi eksik; benim ordudan yüz seksen kişi eksik, hepsi öldürüldü. Gel, ölülerini al; benim ölülerimi gömecek kimsem yok.'
+Daqma Bey Xalef Ağa'ya haber gönderdi: 'Senin ordudan altmış kişi eksik; benim ordudan yüz seksen kişi eksik, hepsi öldürüldü.
+
+Gel, ölülerini al; benim ölülerimi gömecek kimsem yok.'
 
 Xalef Ağa adamlar gönderdi ve dedi ki: 'Gidin, ölülerimizi getirin.'
 

@@ -34,11 +34,17 @@ Dyaw vınert 'Hasanêki 'het, 'Hasanêkira va: laci mê, tê vaysturay xoê bıd
 
 Dêwi çına, Qasim û Şaban, hiryê heminê yalê çına 'hêtê nêmaci yêri.
 
-Dyaw werişt, yaw kağit noşt, da 'Hasanêkira, va kê: enoê rayêr bıgi, şwê, bawni seri ayê koy, kunaği mê 'ha ayê koyu, cênyay mê, hiryê kêynay mê 'ha kunağdê roniştêy, kağit berê, bıdê cênyay mê, ya zana.
+Dyaw werişt, yaw kağit noşt, da 'Hasanêkira, va kê: enoê rayêr bıgi, şwê, bawni seri ayê koy, kunaği mê 'ha ayê koyu, cênyay mê, hiryê kêynay mê 'ha kunağdê roniştêy,
 
-'Hasanêki kağit gêrawt, kawta rayêr, şê, dı saati şê, kağit akerd, wengd, awnya kê, dyewi kağiti noştu ekê enoê merdüm enyê kağiti anu kêyê, mıri serêy enyê merdwomi trakê, mıri pilaw pawjê, serêy enyê merdümi mıri pilaw ver kê, berşaw mıri, ez wêna.
+kağit berê, bıdê cênyay mê, ya zana.
 
-'Hasanêki kağit dırna, êşt, yawna kağit noşt, ekê enoê merdüm enoê kağit anu kêyê, gay bwêri pilaw ver kê, emşoê 'Hasanêk wa kêynay mına pilê 'het ra ku, sêba mıri ena pilaw byaru.
+'Hasanêki kağit gêrawt, kawta rayêr, şê, dı saati şê, kağit akerd, wengd, awnya kê, dyewi kağiti noştu ekê enoê merdüm enyê kağiti anu kêyê, mıri serêy enyê merdwomi trakê,
+
+mıri pilaw pawjê, serêy enyê merdümi mıri pilaw ver kê, berşaw mıri, ez wêna.
+
+'Hasanêki kağit dırna, êşt, yawna kağit noşt, ekê enoê merdüm enoê kağit anu kêyê, gay bwêri pilaw ver kê, emşoê 'Hasanêk wa kêynay mına pilê 'het ra ku,
+
+sêba mıri ena pilaw byaru.
 
 'Hasanêk da kağit dênyay dyewi.
 
@@ -52,7 +58,9 @@ Dyaw awna 'Hasanêk yênu.
 
 'Hasanêki ena pilaw berd, da dyewi.
 
-Dyewi gêrawt, va 'Hasanêkira: mê kağit ana nyênoşt bê, ena kêynay kutıki senyyê enoê nang 'hadre kerdu, daw twê, twê enoê nang miri ardu, mê ena kağit nyênoşt bê, ekê miri 'Hasanêki serê bırnê, goşti 'Hasanêki miri pilaw ver kê, berşaw miri.
+Dyewi gêrawt, va 'Hasanêkira: mê kağit ana nyênoşt bê, ena kêynay kutıki senyyê enoê nang 'hadre kerdu, daw twê, twê enoê nang miri ardu, mê ena kağit nyênoşt bê,
+
+ekê miri 'Hasanêki serê bırnê, goşti 'Hasanêki miri pilaw ver kê, berşaw miri.
 
 'Hasanêki dyewira va kê: ena gêlankê tê şwêni şwê, ekê tê nyêşwêni ez şwêna, ena gêlankê serêy min tra kêna, twêri kêna pilaw ver, pawcêna, ana.
 
@@ -60,23 +68,33 @@ Dyewi 'Hasanêkira va kê: lacim, tê vengi xoê mekê, ez nêkay nusêna, dana 
 
 'Hasanêki va kê: rınyd bênu, êfêndim.
 
-Dyewi yaw kağit noşt: ena gêlankê çimani 'Hasanêki miri, lawwani 'Hasanêki tra kê, kebab kê, pawjê, miri berşaw, ek ena gêlankê enoê merdüm sağ amê mê 'hêt, ez 'hawnya yêna serê destani lingani twê, kêynay kutıki, tra kêna, twê bêna seri hawt rayêrang ver dana.
+Dyewi yaw kağit noşt: ena gêlankê çimani 'Hasanêki miri, lawwani 'Hasanêki tra kê, kebab kê, pawjê, miri berşaw, ek ena gêlankê enoê merdüm sağ amê mê 'hêt,
+
+ez 'hawnya yêna serê destani lingani twê, kêynay kutıki, tra kêna, twê bêna seri hawt rayêrang ver dana.
 
 Daw werişt, kayit noşt, da 'Hasanêkira.
 
-'Hasanêki gêrawt, dı saati ca şê, kağit akêrd, kağit wengd, awnya, ekê dêwi kağiti noştu, ek ena gêlankê miri çimani, lawani 'Hasanêki tra kê, miri kebab kê, berşaw, ena gêlankê enoê merdüm ekê weş amê mê 'hêt, ez ena gêlankê yêna kêyê, serêy, lingani,
+'Hasanêki gêrawt, dı saati ca şê, kağit akêrd, kağit wengd, awnya, ekê dêwi kağiti noştu, ek ena gêlankê miri çimani, lawani 'Hasanêki tra kê, miri kebab kê, berşaw,
+
+ena gêlankê enoê merdüm ekê weş amê mê 'hêt, ez ena gêlankê yêna kêyê, serêy, lingani,
 
 destani twê, kêynay kutıki, tra kêna, twê bêna seri hawt rayêran ver dana, çaw twêri wayêrêy nyêkênu.
 
 'Hasanêki kağit wengd, ekê dewi kağit sa katêy tedê noştu.
 
-'Hasanêki kağit dırna, êşt, yawna kağit noşt, ekê miri ena gêlankê gay şüri serê bırnê, miri kebab kê, pawjê, na pilaw miri berşawê, emşoê 'Hasanêk kêynay mina kıci 'hêtê ra ku, soba na pilaw bigu, byaru.
+'Hasanêki kağit dırna, êşt, yawna kağit noşt, ekê miri ena gêlankê gay şüri serê bırnê, miri kebab kê, pawjê, na pilaw miri berşawê,
+
+emşoê 'Hasanêk kêynay mina kıci 'hêtê ra ku, soba na pilaw bigu, byaru.
 
 'Hasanêki kayit (kağit?) berd, da cênyay dyewi.
 
-Cênyay dyêwi kağit wengd, ekê dyewi tedê noştu: miri gay şüri serê bırnê, goşti gay şüri kebab kê, pawcê, berşaw, emşoê 'Hasanêk wa kêynay mina kıci 'hêtê ra ku, soba miri na pilaw kebab byaru.
+Cênyay dyêwi kağit wengd, ekê dyewi tedê noştu: miri gay şüri serê bırnê, goşti gay şüri kebab kê, pawcê, berşaw, emşoê 'Hasanêk wa kêynay mina kıci 'hêtê ra ku,
 
-Cênyay dyewi gay sür serê bırna, goşti gay şüri kebab kê, pawcê, berşaw, emşoê 'Hasanêk wa kêynay mina kıci 'hêtê ra ku, soba miri na pilaw kebab byaru. Cênyay dyewi gay sür serê bırna, goşti gay şuri kêrd kêbab.
+soba miri na pilaw kebab byaru.
+
+Cênyay dyewi gay sür serê bırna, goşti gay şüri kebab kê, pawcê, berşaw, emşoê 'Hasanêk wa kêynay mina kıci 'hêtê ra ku, soba miri na pilaw kebab byaru.
+
+Cênyay dyewi gay sür serê bırna, goşti gay şuri kêrd kêbab.
 
 'Hasanêk aya şawê kêyna kıci 'hêtê ra kawt, kêyf sêfa kêrd 'he ta soba.
 
@@ -106,7 +124,9 @@ Bêray 'Hasanêki Şaban berma.
 
 'Hasanêki va kê: bêra tu qawvi bermêni?
 
-Alah kêrimu. Bêray 'Hasanêki Qasimi 'Hasanêkira va kê: tı qawvi ma wir dinê etya ver dani, la ma xoêri se ki, caw ğaribu, cay ma çinyu, çaw nyêverdanu, ma şyêri kêye cay ma çinyu.
+Alah kêrimu. Bêray 'Hasanêki Qasimi 'Hasanêkira va kê: tı qawvi ma wir dinê etya ver dani, la ma xoêri se ki, caw ğaribu, cay ma çinyu, çaw nyêverdanu,
+
+ma şyêri kêye cay ma çinyu.
 
 'Hasanêki va kê: şyêri xoêri yaw ağay 'hêtê ğizmêt bıkêri.
 
@@ -126,15 +146,21 @@ Bêrai xoê Şabanira va kê: bêra, qami tê ardi bısti enoê zêyndan.
 
 Şabani va kê 'Hasanêkira: dyewi ez şya xoêri dêsmaç bıkêra, dyewi ez dyan, ez gêrawta arda bısta enoê zêyndan.
 
-'Hasanêki bêrai xoê Şaban zêyndana vet ard xoê 'hêt, çêhêr roci vênert, bêray xoê Şaban berd 'hêmam, sabun kerd, şit, temiz kerd, bêray xoê Şaban 'hêmamra vet gêrawt berd têslimê qabas başira va kê: enoê bêrai mê emanêtay twê bu.
+'Hasanêki bêrai xoê Şaban zêyndana vet ard xoê 'hêt, çêhêr roci vênert, bêray xoê Şaban berd 'hêmam, sabun kerd, şit, temiz kerd,
+
+bêray xoê Şaban 'hêmamra vet gêrawt berd têslimê qabas başira va kê: enoê bêrai mê emanêtay twê bu.
 
 Qabas başi 'Hasanêkira va kê: êgit tê sera şwêni.
 
 'Hasanêki va kê qabas başira: 'hêyfê xoê dyewira gêna.
 
-Qabas başi 'Hasanêkira va kê: êgit tê şwêni ez çira'hêy dyewya, yaw şimşyêri dyewi estu 'ha kalanya altunyênêdê 'ha qulavi myandê, caw kê dyaw ra kwênu, 'ha bini seri dyewidê şimşyêri dyewi bıgê, byê bêri ver dê, kişta raştêdê yaw şêbakê esta,
+Qabas başi 'Hasanêkira va kê: êgit tê şwêni ez çira'hêy dyewya, yaw şimşyêri dyewi estu 'ha kalanya altunyênêdê 'ha qulavi myandê, caw kê dyaw ra kwênu,
 
-şwê aya şêbakêdê vındê, dyaw kêykê amê zerê, şimşyêri dyewi bıgê xoê dest, kê serêy dyewi amê bêra zerê yaw şimşyêr pêro dê serêy dyewi tra kê gnênu eru, serêy dyewidê zwang estu, kali kênu, twêra vanu yawnay pêro dê,
+'ha bini seri dyewidê şimşyêri dyewi bıgê, byê bêri ver dê, kişta raştêdê yaw şêbakê esta,
+
+şwê aya şêbakêdê vındê, dyaw kêykê amê zerê, şimşyêri dyewi bıgê xoê dest, kê serêy dyewi amê bêra zerê yaw şimşyêr pêro dê serêy dyewi tra kê gnênu eru,
+
+serêy dyewidê zwang estu, kali kênu, twêra vanu yawnay pêro dê,
 
 tê vaci kê ez hêni yawnay pêro nyêdana: kawli cang mêrdang yaw.
 
@@ -144,4 +170,6 @@ Daw amê, 'Hasanêki şimşyêr kêrd xoê dest, dyaw amê seri xoê berd ard ze
 
 dyewi va kê 'Hasanêkira: yawnay pêro dê, 'Hasanêki va kê dyewira: kawlê cang mêrdang yaw, dyaw merd, 'Hasanêk werişt, leşay dyewi ber dê êyştê zêyndang, gêyra şê kêy dyewi.
 
-Kêynay dyewya kıci gêrawtê mara kerdê xoêri, şê gêyra bêrai xoê Qasim Şaban di, gêrawtê ardi kêy dyewi, kêyna pilê day bêray xoê Şabani, kêyna myanyênê day bêray xoê Qasimi, rwênişti xoêri kêyf sefa kerdê vênert.
+Kêynay dyewya kıci gêrawtê mara kerdê xoêri, şê gêyra bêrai xoê Qasim Şaban di, gêrawtê ardi kêy dyewi, kêyna pilê day bêray xoê Şabani, kêyna myanyênê day bêray xoê Qasimi,
+
+rwênişti xoêri kêyf sefa kerdê vênert.

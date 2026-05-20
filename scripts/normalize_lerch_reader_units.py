@@ -17,9 +17,10 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 TEXTS_ROOT = REPO_ROOT / "texts" / "lerch"
 SOURCE_BOUNDARY_RE = re.compile(r"(?:[.!?]+|;)(?:[\"'”’»]+)?(?=\s|$)")
 TRANSLATION_BOUNDARY_RE = re.compile(r"(?:[.!?]+)(?:[\"'”’»]+)?(?=\s|$)")
+TRANSLATION_PHRASE_RE = re.compile(r"(?:[.!?]+|[;,])(?:[\"'”’»]+)?(?=\s|$)")
 WORD_RE = re.compile(r"\S+")
 TINY_WORD_LIMIT = 3
-LONG_WORD_LIMIT = 45
+LONG_WORD_LIMIT = 30
 SKIP_SLUGS = {"gespraech-mit-hassan"}
 
 
@@ -44,6 +45,24 @@ def split_sentences(text: str, *, split_semicolons: bool = False) -> list[str]:
     start = 0
     boundary_re = SOURCE_BOUNDARY_RE if split_semicolons else TRANSLATION_BOUNDARY_RE
     for match in boundary_re.finditer(text):
+        end = match.end()
+        parts.append(text[start:end].strip())
+        start = end
+
+    rest = text[start:].strip()
+    if rest:
+        parts.append(rest)
+    return [part for part in parts if part]
+
+
+def split_translation_phrases(text: str) -> list[str]:
+    text = " ".join((text or "").split())
+    if not text:
+        return []
+
+    parts: list[str] = []
+    start = 0
+    for match in TRANSLATION_PHRASE_RE.finditer(text):
         end = match.end()
         parts.append(text[start:end].strip())
         start = end
@@ -119,6 +138,18 @@ def partition_translation(sentences: list[str], source_sections: list[dict]) -> 
         cursor = target_end
 
     return chunks
+
+
+def translation_chunks_for_source(value: str, source_sections: list[dict]) -> list[str]:
+    sentences = split_sentences(value)
+    if len(source_sections) <= len(sentences):
+        return partition_translation(sentences, source_sections)
+
+    phrases = split_translation_phrases(value)
+    if len(phrases) > len(sentences):
+        return partition_translation(phrases, source_sections)
+
+    return partition_translation(sentences, source_sections)
 
 
 def source_sections_from_unit(unit: dict) -> list[dict]:
@@ -256,7 +287,7 @@ def normalize_document(text_dir: Path) -> tuple[str, int, int]:
 
         translations = old_unit.get("translations") or {}
         translation_chunks = {
-            lang: partition_translation(split_sentences(str(value)), source_sections)
+            lang: translation_chunks_for_source(str(value), source_sections)
             for lang, value in translations.items()
             if isinstance(value, str) and value.strip()
         }

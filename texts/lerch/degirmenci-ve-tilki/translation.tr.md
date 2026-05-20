@@ -28,9 +28,13 @@ Tilki, "Efendim, izin ver de sana anlatayım," diye karşılık vermiş.
 
 Paşa tilkiye izin vermiş.
 
-Tilki, "Efendim, Çemçequ Paşa geldi; kızınızı kendisi için istiyor. Bir dolu yağdı, sel geldi. Çemçequ Paşa'nın beş yüz atlısı vardı; sel hepsini alıp götürdü. Sana (söylüyorum), sel bütün kadınları da alıp götürdü.
+Tilki, "Efendim, Çemçequ Paşa geldi; kızınızı kendisi için istiyor. Bir dolu yağdı, sel geldi. Çemçequ Paşa'nın beş yüz atlısı vardı; sel hepsini alıp götürdü.
 
-Bir kayaya tutunup ayağa kalktım. Baktım, bir el geldi bacağıma düştü. O eli tuttum ve onu sudan dışarı çıkardım. Çemçequ Paşa kendini benim üstüme attı; onu orada bıraktım ve geldim," demiş. Mısır Paşası, "Atlılar onu karşılasın, seninle birlikte gelsinler ve Çemçequ Paşa'yı bana getirsinler.
+Sana (söylüyorum), sel bütün kadınları da alıp götürdü.
+
+Bir kayaya tutunup ayağa kalktım. Baktım, bir el geldi bacağıma düştü. O eli tuttum ve onu sudan dışarı çıkardım.
+
+Çemçequ Paşa kendini benim üstüme attı; onu orada bıraktım ve geldim," demiş. Mısır Paşası, "Atlılar onu karşılasın, seninle birlikte gelsinler ve Çemçequ Paşa'yı bana getirsinler.
 
 Orada bir vezir var; ama ben Çemçequ Paşa diye birinin adını bilmiyorum," demiş.
 

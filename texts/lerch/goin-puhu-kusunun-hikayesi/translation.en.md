@@ -20,15 +20,21 @@ In the morning she got up and said to her father, "Father, last night I had a dr
 
 Her father said to the girl, "No, why would she kill your brother?"
 
-The girl said, "Father, in my dream I saw that my brother had been killed and thrown into the pit. I am getting up now and going among the cattle; in the evening I will come home. If my brother comes, I will know he is well; but if my brother does not come, I will no longer go among the cattle for you, and I will not remain here."
+The girl said, "Father, in my dream I saw that my brother had been killed and thrown into the pit. I am getting up now and going among the cattle; in the evening I will come home. If my brother comes, I will know he is well,
 
-Her father said to the girl, "Today go among the cattle; I will go and look for your brother. Know this: if my wife is not good to you, and if I do not find your brother, neither I nor you will remain here."
+but if my brother does not come, I will no longer go among the cattle for you, and I will not remain here."
+
+Her father said to the girl, "Today go among the cattle; I will go and look for your brother.
+
+Know this: if my wife is not good to you, and if I do not find your brother, neither I nor you will remain here."
 
 The girl got up, went, drove out her cattle, and went among the cattle.
 
 Her father came after the girl, searched for the girl's brother, and found that he had been killed and thrown into the pit, with a large stone placed over the boy.
 
-The girl's father came home and said to his wife, "Surely you killed my son. His sister saw it in her dream last night, that her brother had been killed. She came crying and said to me, 'Father, my brother has been killed and thrown into the pit.'
+The girl's father came home and said to his wife, "Surely you killed my son.
+
+His sister saw it in her dream last night, that her brother had been killed. She came crying and said to me, 'Father, my brother has been killed and thrown into the pit.'
 
 I said, 'My daughter, no, do not be afraid; your brother is well.'
 

@@ -20,9 +20,13 @@ Dızdi va kê: ez Nyêrbida amêya malê twê, dızdêy bıkêra, bêra twê ez 
 
 Laci Mêla A'hmêdi wica serêy dızdi têra kêrd, 'habêrê êrşawutê Nyêrib Xalef ağayri va kê: we Xyeni nêbê, twê têdê kawğê kêrdini, tu 'Hyênici pyêru kişti ardi emani ser.
 
-Xalef ağay 'habêrê erşawutê Avdulah ağay Kêlang va kê: mê Nyêribdê kawğê kêrd, lakimkê wexti xoêdê 'hadre bê, twê merdümi mê kişt, bızani kê: ez vist merdümi twê yaw merdümi xoê vera kişênya.
+Xalef ağay 'habêrê erşawutê Avdulah ağay Kêlang va kê: mê Nyêribdê kawğê kêrd, lakimkê wexti xoêdê 'hadre bê, twê merdümi mê kişt,
 
-Avdulah ağay 'habêrê êrşawutê Xalef ağayri va kê: waxtê xoêdê 'hadre bê, ez mêyştê eskêri xoê gêna, yêna awkay Şêlê ver, tızi wicara eskêri xoê bıgi, byê Cayt ver, ma kawğê bıki, nyavawkê tê serêy mê wêni, nyavawkê ez serêy twê wêna.
+bızani kê: ez vist merdümi twê yaw merdümi xoê vera kişênya.
+
+Avdulah ağay 'habêrê êrşawutê Xalef ağayri va kê: waxtê xoêdê 'hadre bê, ez mêyştê eskêri xoê gêna, yêna awkay Şêlê ver, tızi wicara eskêri xoê bıgi, byê Cayt ver,
+
+ma kawğê bıki, nyavawkê tê serêy mê wêni, nyavawkê ez serêy twê wêna.
 
 Xalef ağay 'habêr erşawutê Avdulah ağayri va kê: eskêri mê 'hadraw, enkay ez amêya Dêyştêdê tızi warzê eskêri xoê bıgi, byê awkay Şêlê ver, ma kawğe bıki.
 
@@ -44,7 +48,9 @@ Eskêrê Avdulah ağay şê dewi Xalef ağay, gêrawti şêş dewi, veşnay, ağ
 
 Yaw aşmê mênd.
 
-Xalef ağay 'habêrê erşawutê Avdulah ağayri va kê: twe ehêndê eskêri mê kişt, twê şeş dawê mê veşnay, taalan kêrdi, waxtê xoêdê 'hadre bê, ez ena gêlankê yêna, qancawkê dewi twê mê di ez veşnêna, taalan kêna heta yaw şewê, çoacu'hi nyêvêrdana, heminê serê bırmêna.
+Xalef ağay 'habêrê erşawutê Avdulah ağayri va kê: twe ehêndê eskêri mê kişt, twê şeş dawê mê veşnay, taalan kêrdi, waxtê xoêdê 'hadre bê, ez ena gêlankê yêna,
+
+qancawkê dewi twê mê di ez veşnêna, taalan kêna heta yaw şewê, çoacu'hi nyêvêrdana, heminê serê bırmêna.
 
 Avdulah ağay 'habêr erşawutê Xalef ağayri va kê: cay xoêdê rê'hat vındê, ekê ena gêlankê ez amêya twêra yaw kêrga koêrê nyêvêrdanu.
 
@@ -62,7 +68,9 @@ Avdulah ağay dümilbazi day püroê, eskêri xoê erş kêrd, şê dyari Mêlê
 
 Avdulah ağay eskêri xoê erş kêrd va kê: seri mıri mal şımari, metêrsi, şyêri bıksi heminê.
 
-Eskêri Avdulah ağay şê eskêri Xalef ağay weta amê bı Tawricyê, kawğe kerd, eskêri Xalef ağay rema, eskêri Adulah ağay pêyra kawt, bana dewi pyêru taalan kerdi, suanêy Nyêrbican pyêru kişti, pesi cinê pyêru ard.
+Eskêri Avdulah ağay şê eskêri Xalef ağay weta amê bı Tawricyê, kawğe kerd, eskêri Xalef ağay rema, eskêri Adulah ağay pêyra kawt, bana dewi pyêru taalan kerdi,
+
+suanêy Nyêrbican pyêru kişti, pesi cinê pyêru ard.
 
 Mênd vist roc, Xalef ağay şê kawt kêy Qotwesan, 'Haydêr ağara va: ez kawta bê'hti twê, Avdulah ağay Kelang eskêri mê pyêru kişt, dewi mê pyêru veşnay, taalan kerdi.
 
@@ -74,7 +82,9 @@ Xalef ağay va kê: ez kawta be'hti twê, byê mê berê kêy Avdulah ağay, ma 
 
 Haydêr ağa hiryê gêlankê şê lawna Avdulah ağa lingêru va kê: tê ağay ena gêlankê bıdi ricay mê Xalef ağay.
 
-Avdulah ağa va kê Xaydêr ağara: ekê tê nyamêyni mê Xalef ağayra yaw zirot vera nyêdani, ez ka pêynyay dawani Nyêribi veşna, heminê taalan ka, çımkê tê amêy mê Xalef ağa kerd baxşi twê.
+Avdulah ağa va kê Xaydêr ağara: ekê tê nyamêyni mê Xalef ağayra yaw zirot vera nyêdani, ez ka pêynyay dawani Nyêribi veşna, heminê taalan ka,
+
+çımkê tê amêy mê Xalef ağa kerd baxşi twê.
 
 'Haydêr ağay lawna Avdula ağa serêru şê Xalef ağa ard, lawna Avdulah ağa lingêru, Avdulah ağa lawna Xalef ağa destru, pya bê weşi, xalay day pyêra.
 

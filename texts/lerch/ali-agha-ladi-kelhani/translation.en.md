@@ -12,9 +12,13 @@ Ali Agha packed up his household and went to Syerachur.
 
 He stayed in Syerachur for thirty-six days.
 
-Thirty-four villages of Karbegan and thirty-four villages of Sivan came together and held counsel; the elders of Sivan, Qasim Agha of Karbegan, and Hasan Agha of Weshin came together and said: 'Let us attack Ali Agha's house.'
+Thirty-four villages of Karbegan and thirty-four villages of Sivan came together and held counsel.
 
-Qasim Agha said: 'We will deceive Ali Agha; at night we will call our army, let the village soldiers all gather, and at night we will go kill Ali Agha and all four of his sons.'
+The elders of Sivan, Qasim Agha of Karbegan, and Hasan Agha of Weshin came together and said: 'Let us attack Ali Agha's house.'
+
+Qasim Agha said: 'We will deceive Ali Agha; at night we will call our army, and let the village soldiers all gather.
+
+At night we will go kill Ali Agha and all four of his sons.'
 
 Hasan Agha of Weshin said: 'That will be good; let us go kill Ali Agha.'
 
@@ -56,7 +60,9 @@ His uncle did not give Ahmed his dagger.
 
 His uncle went outside and said to his soldiers: 'Do not wait; I have taken the weapons of Ali Agha and his four sons, and I have come outside.
 
-Do not wait, break down the door, go inside, and kill Ali Agha and all four of his sons; there are also eighteen foreign men there with them, do not touch them.'
+Do not wait, break down the door, go inside, and kill Ali Agha and all four of his sons;
+
+There are also eighteen foreign men here with them; do not touch them.'
 
 Qasim Agha's soldiers broke down the door, Qasim Agha went ahead and called out to Ahmed, saying: 'Nephew, I have come; wherever you go, this time I will cut off your head.'
 
@@ -82,4 +88,6 @@ The bodies of Ali Agha, his four sons, and the eighteen foreign men all remained
 
 In the morning Mela Resa called to Mela Qasim of Desmun and said: 'Bring Ali Agha, his sons, and the eighteen foreign men here; take them outside.'
 
-Mela Qasim rose from Desmun, Memed Agha rose from Gheyte, Ramedan Agha rose from Merzyele; they went, took the bodies of Ali Agha, his sons, and the eighteen foreign men, brought them out, carried them away, and buried them.
+Mela Qasim rose from Desmun, Memed Agha rose from Gheyte, and Ramedan Agha rose from Merzyele.
+
+They went, took the bodies of Ali Agha, his sons, and the eighteen foreign men, brought them out, carried them away, and buried them.

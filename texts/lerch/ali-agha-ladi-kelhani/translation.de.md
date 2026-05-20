@@ -12,9 +12,13 @@ Ali Agha packte sein Haus zusammen und ging nach Syerachur.
 
 In Syerachur blieb er sechsunddreißig Tage.
 
-Vierunddreißig Dörfer von Karbegan und vierunddreißig Dörfer von Sivan kamen zusammen und hielten Rat; die Ältesten von Sivan, Qasim Agha von Karbegan und Hasan Agha von Weshin kamen zusammen und sagten: 'Lasst uns Ali Aghas Haus überfallen.'
+Vierunddrei?ig D?rfer von Karbegan und vierunddrei?ig D?rfer von Sivan kamen zusammen und hielten Rat.
 
-Qasim Agha sagte: 'Wir werden Ali Agha täuschen; in der Nacht rufen wir unser Heer, die Soldaten der Dörfer sollen alle zusammenkommen, und in der Nacht gehen wir und töten Ali Agha und alle seine vier Söhne.'
+Die ?ltesten von Sivan, Qasim Agha von Karbegan und Hasan Agha von Weshin kamen zusammen und sagten: 'Lasst uns Ali Aghas Haus ?berfallen.'
+
+Qasim Agha sagte: 'Wir werden Ali Agha t?uschen; in der Nacht rufen wir unser Heer, und die Soldaten der D?rfer sollen alle zusammenkommen.
+
+In der Nacht gehen wir und t?ten Ali Agha und alle seine vier S?hne.'
 
 Hasan Agha von Weshin sagte: 'Das ist gut; gehen wir und töten Ali Agha.'
 
@@ -54,9 +58,11 @@ Ahmed sagte: 'Onkel, gib mir meinen Dolch; ich weiß, du bist ein Verräter, und
 
 Sein Onkel gab Ahmed seinen Dolch nicht.
 
-Sein Onkel ging hinaus und sagte zu seinen Soldaten: 'Wartet nicht; ich habe die Waffen Ali Aghas und seiner vier Söhne genommen und bin hinausgegangen.
+Sein Onkel ging hinaus und sagte zu seinen Soldaten: 'Wartet nicht; ich habe die Waffen Ali Aghas und seiner vier S?hne genommen und bin hinausgegangen.
 
-Wartet nicht, brecht die Tür auf, geht hinein und tötet Ali Agha und alle seine vier Söhne; dort sind auch achtzehn fremde Männer bei ihnen, die rührt nicht an.'
+Wartet nicht, brecht die T?r auf, geht hinein und t?tet Ali Agha und alle seine vier S?hne;
+
+Hier sind auch achtzehn fremde M?nner bei ihnen; die r?hrt nicht an.'
 
 Qasim Aghas Soldaten brachen die Tür auf, Qasim Agha ging voran und rief Ahmed zu: 'Neffe, ich bin gekommen; wohin du auch gehst, diesmal schlage ich dir den Kopf ab.'
 
@@ -82,4 +88,6 @@ Die Leichen Ali Aghas, seiner vier Söhne und der achtzehn fremden Männer blieb
 
 Am Morgen rief Mela Resa dem Mela Qasim von Desmun zu und sagte: 'Bringt Ali Agha, seine Söhne und die achtzehn fremden Männer hierher; bringt sie hinaus.'
 
-Mela Qasim machte sich von Desmun auf, Memed Agha machte sich von Gheyte auf, Ramedan Agha machte sich von Merzyele auf; sie gingen, nahmen die Leichen Ali Aghas, seiner Söhne und der achtzehn fremden Männer, brachten sie heraus, trugen sie weg und begruben sie.
+Mela Qasim machte sich von Desmun auf, Memed Agha machte sich von Gheyte auf, und Ramedan Agha machte sich von Merzyele auf.
+
+Sie gingen, nahmen die Leichen Ali Aghas, seiner S?hne und der achtzehn fremden M?nner, brachten sie heraus, trugen sie weg und begruben sie.

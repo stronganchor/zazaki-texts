@@ -20,9 +20,13 @@ The thief said: 'I am Neribian; I came into your house to steal. Since you caugh
 
 Mel'a Ahmed's son immediately killed the thief and sent a messenger to Nerib, to Xalef Agha, saying: 'Do not come to Hyeni; you fought there; you killed everyone in Hyeni and brought them under safe-conduct.
 
-Xalef Agha sent a message to Avdulah Agha of Kelan, saying: 'I fought with Nerib, but be ready at your own time; you killed one of my men; know that I will kill twenty of yours for one of mine.
+Xalef Agha sent a message to Avdulah Agha of Kelan, saying: 'I fought with Nerib, but be ready at your own time;
 
-Avdulah Agha sent a message to Xalef Agha: 'Be ready at your own time; I will lead my army tomorrow and come to the stream Sele; you too bring your army and come toward Dait; we will fight until you cut off my head, or until I cut off yours.
+you killed one of my men; know that I will kill twenty of yours for one of mine.
+
+Avdulah Agha sent a message to Xalef Agha: 'Be ready at your own time; I will lead my army tomorrow and come to the stream Sele; you too bring your army and come toward Dait;
+
+we will fight until you cut off my head, or until I cut off yours.
 
 Xalef Agha sent a message to Avdulah Agha: 'My army is ready; as soon as I come to Deste you too rise, lead your army, and come to the stream Sele; we will fight.
 
@@ -44,7 +48,9 @@ Avdulah Agha's army went to Xalef Agha's villages, took six villages, burned the
 
 A month passed.
 
-Xalef Agha sent a message to Avdulah Agha saying: 'You killed some of my army, burned six of my villages, and plundered; be ready at your own time; this time I will come, and wherever I see one of your villages, I will burn and plunder until night; no child will I spare; I will cut off everyone's heads.
+Xalef Agha sent a message to Avdulah Agha saying: 'You killed some of my army, burned six of my villages, and plundered; be ready at your own time; this time I will come, and wherever I see one of your villages,
+
+I will burn and plunder until night; no child will I spare; I will cut off everyone's heads.
 
 Avdulah Agha sent a message to Xalef Agha: 'Stay calmly where you are; if this time I come to you, I will not spare even one blind hen.
 
@@ -62,7 +68,9 @@ Avdulah Agha had the drum struck, ordered his army forward, and went into the Me
 
 Avdulah Agha ordered his army forward, saying: 'The heads are mine, property yours; do not fear, go and kill everyone.
 
-Avdulah Agha's army went against Xalef Agha's army and came as far as Tauridye, where they fought; Xalef Agha's army fled, and the army of Avdulah Agha pursued, plundered all the village houses, killed all the Nerib shepherds, and carried off all the herds.
+Avdulah Agha's army went against Xalef Agha's army and came as far as Tauridye, where they fought; Xalef Agha's army fled, and the army of Avdulah Agha pursued, plundered all the village houses,
+
+killed all the Nerib shepherds, and carried off all the herds.
 
 After twenty days Xalef Agha went to Qotwesan, to Haider Agha, and said: 'I came under your protection; Avdulah Agha of Kelan killed my whole army, burned all my villages and plundered them.
 
@@ -74,7 +82,9 @@ Haider Agha mounted his horse, took Xalef Agha along, came to Sivan, and went in
 
 Haider Agha went three times and kissed Avdulah Agha's feet, saying: 'Agha, this time spare Xalef Agha for my sake.
 
-Avdulah Agha said to Haider Agha: 'If you had not come, I would not have given Xalef Agha one boy back; I would have burned all the Nerib villages and plundered everything, but because you came, I grant Xalef Agha to you.
+Avdulah Agha said to Haider Agha: 'If you had not come, I would not have given Xalef Agha one boy back; I would have burned all the Nerib villages and plundered everything, but because you came,
+
+I grant Xalef Agha to you.
 
 Haider Agha kissed Avdulah Agha on the head, went and brought Xalef Agha, and kissed Avdulah Agha's feet. Avdulah Agha kissed Xalef Agha's hand; they reconciled and exchanged robes of honor.
 

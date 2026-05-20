@@ -20,15 +20,21 @@ Des Morgens stand sie auf und sagte zu ihrem Vater: Vater, mir träumte diese Na
 
 Der Vater sagte seiner Tochter: sei sorglos, warum sollte sie deinen Bruder tödten?
 
-Das Mädchen sagte: Vater, im Traume sah ich, dass mein Bruder getödtet, in eine Grube geworfen sei; ich will mich jetzt aufmachen, nach den Kühen (sehen) gehen, am Abend komme ich nach Hause; wenn mein Bruder kommt, werde ich wissen, dass er gesund; so lange (aber) mein Bruder nicht kommt, gehe ich nicht mehr nach den Kühen sehen, ich bleibe (dann) nicht (mehr) hier.
+Das Mädchen sagte: Vater, im Traume sah ich, dass mein Bruder getödtet, in eine Grube geworfen sei; ich will mich jetzt aufmachen, nach den Kühen (sehen) gehen, am Abend komme ich nach Hause; wenn mein Bruder kommt, werde ich wissen,
 
-Der Vater sagte zu seiner Tochter: du gehe heute nach den Kühen (sehen), ich werde mich aufmachen, um deinen Bruder zu suchen, (und) wisse: da meine Frau euch nicht gut ist, so bleibe weder ich, noch bleibst du hier, bis dass ich deinen Bruder gefunden habe.
+dass er gesund; so lange (aber) mein Bruder nicht kommt, gehe ich nicht mehr nach den Kühen sehen, ich bleibe (dann) nicht (mehr) hier.
+
+Der Vater sagte zu seiner Tochter: du gehe heute nach den Kühen (sehen), ich werde mich aufmachen, um deinen Bruder zu suchen, (und) wisse: da meine Frau euch nicht gut ist, so bleibe weder ich, noch bleibst du hier,
+
+bis dass ich deinen Bruder gefunden habe.
 
 Die Tochter erhob sich, ging, trieb ihre Kühe aus, ging die Kühe weiden.
 
 Der Vater der Tochter ging, fand den Bruder der Tochter getödtet, in eine Grube geworfen und mit einem Steine bedeckt.
 
-Der Vater kam nach Hause (und) sagte zu seiner Frau: weshalb hast du meinen Sohn getödtet? seine Schwester hat während der Nacht im Traume gesehen, dass ihr Bruder getödtet sei, sie kam, weinte und sagte mir: mein Bruder ist getödtet, in eine Grube geworfen.
+Der Vater kam nach Hause (und) sagte zu seiner Frau: weshalb hast du meinen Sohn getödtet?
+
+seine Schwester hat während der Nacht im Traume gesehen, dass ihr Bruder getödtet sei, sie kam, weinte und sagte mir: mein Bruder ist getödtet, in eine Grube geworfen.
 
 Ich sagte: meine Tochter, sei ruhig, fürchte nichts, dein Bruder ist wohl.
 

@@ -16,7 +16,9 @@ The Ny?rib man said: 'I will kill you.'
 
 The Hy?ni man went to get his weapons, took his pistols, put them in his belt, took his sword in his hand, and advanced on the Ny?rib man.
 
-The Ny?rib man immediately sprang up, took the Hy?ni man's weapons from him, cut off his head, killed him, threw his body aside, went to Ny?rib to Xalef Agha, and said to him: 'I killed a man from Hy?ni.'
+The Ny?rib man immediately sprang up, took the Hy?ni man's weapons from him, cut off his head, killed him, threw his body aside,
+
+went to Ny?rib to Xalef Agha, and said to him: 'I killed a man from Hy?ni.'
 
 Xalef Agha said to that man: 'What kind of man was the Hy?ni man you killed?'
 
@@ -24,7 +26,9 @@ That man said to Xalef Agha: 'He was Mela Haseyn? M??ara's servant.'
 
 Xalef Agha said: 'Be careful; you have killed a stranger. A stranger will come, take your property, and kill you.'
 
-That man said to Xalef Agha: 'Agha, send word to Little Ny?rib and De?t? Henzi; let them be careful, and let them not leave their property unguarded. On the day news comes from Hy?ni, let no one be absent; we will fight.'
+That man said to Xalef Agha: 'Agha, send word to Little Ny?rib and De?t?
+
+Henzi; let them be careful, and let them not leave their property unguarded. On the day news comes from Hy?ni, let no one be absent; we will fight.'
 
 Xalef Agha sent word to Little Ny?rib, to Wesman Agha: 'Send the news to M?hm?t Agha in De?t? Henzi.'
 
@@ -44,11 +48,15 @@ Daqma Bey sent word to Ny?rib, to Xalef Agha: 'My army is ready; tomorrow we wil
 
 Xalef Agha sent word to Daqma Bey in Hy?ni: 'Be careful tonight; tonight I will burn the city.'
 
-Daqma Bey gathered his whole army, assembled them before Temir Bey's house, gave powder and bullets to his soldiers, mounted his horse, and sent all the infantry through the streets and all the horsemen through the vineyards.
+Daqma Bey gathered his whole army, assembled them before Temir Bey's house, gave powder and bullets to his soldiers, mounted his horse,
+
+and sent all the infantry through the streets and all the horsemen through the vineyards.
 
 When dawn broke and morning grew light, he sent word to Ny?rib, to Xalef Agha: 'Cursed one, I did not sleep until morning tonight; what happened to your word? Weren't you going to come to battle? My army is ready.'
 
-Xalef Agha mounted his horse, had the drum beaten, went in front of his army, and said to his soldiers: 'Do not be afraid; they are Turks and do not know how to fight. We are brave tribesmen; do not be afraid. I am before you; even if I die, you still go to battle.'
+Xalef Agha mounted his horse, had the drum beaten, went in front of his army, and said to his soldiers: 'Do not be afraid; they are Turks and do not know how to fight.
+
+We are brave tribesmen; do not be afraid. I am before you; even if I die, you still go to battle.'
 
 Xalef Agha's soldiers said: 'Very well, Agha; as long as we are not dead, we will not leave you. We will go to battle.'
 
@@ -98,7 +106,9 @@ Daqma Bey went and gathered soldiers, and within twenty days he gathered four th
 
 When twenty-one days were complete, Daqma Bey sent word to Ny?rib, to Xalef Agha: 'My army is ready; tomorrow I am coming to battle, and we will fight.'
 
-Xalef Agha sent word to Daqma Bey: 'Be ready at your own time; tomorrow at dawn I will come to D?z? Hemy?. Take your army, come through the vineyards, do not be afraid. Let us fight: either you will cut off my head or I will cut off yours.'
+Xalef Agha sent word to Daqma Bey: 'Be ready at your own time; tomorrow at dawn I will come to D?z? Hemy?. Take your army, come through the vineyards, do not be afraid.
+
+Let us fight: either you will cut off my head or I will cut off yours.'
 
 Daqma Bey sent word to Xalef Agha: 'Do not delay; come in the evening; come when morning comes.'
 
@@ -108,7 +118,9 @@ Daqma Bey sent word to Xalef Agha: 'Get up and come; I will gouge out your eyes.
 
 Xalef Agha got up and had the drums beaten.
 
-Xalef Agha's whole army gathered. Xalef Agha said to his army: 'Listen, aghas, we are going to battle. Do not be afraid; Daqma Bey's army is large, but they are all Turks and do not know how to fight us.'
+Xalef Agha's whole army gathered. Xalef Agha said to his army: 'Listen, aghas, we are going to battle. Do not be afraid; Daqma Bey's army is large, but they are all Turks and do not know how to fight us.
+
+We are all brave Kurds, tribesmen; do not be afraid, we are going. As long as my head is not cut off, nothing will happen to you.'
 
 'We are all brave Kurds, tribesmen; do not be afraid, we are going. As long as my head is not cut off, nothing will happen to you.'
 
@@ -128,7 +140,9 @@ The standard-bearer advanced against Daqma Bey's army, the armies clashed, and t
 
 Xalef Agha withdrew his army, came to Ny?rib, and saw that sixty men were missing from his army. He sent word to Daqma Bey: 'Sixty men are missing from my army.'
 
-Daqma Bey sent word to Xalef Agha: 'Sixty men are missing from your army; one hundred eighty men are missing from my army, and all of them have been killed. Come and take your dead; I have no one to bury mine.'
+Daqma Bey sent word to Xalef Agha: 'Sixty men are missing from your army; one hundred eighty men are missing from my army, and all of them have been killed.
+
+Come and take your dead; I have no one to bury mine.'
 
 Xalef Agha sent men and said: 'Go and bring our dead.'
 

@@ -26,7 +26,9 @@ Der Fuchs machte sich auf, ging nach Aegypten, ging zum Pascha von Aegypten (und
 
 Der Pascha von Aegypten sagte zum Fuchse: sage mir, was dein Begehren ist.
 
-Der Pascha von Aegypten sagte zum Fuchse: sage mir, was dein Begehren ist.
+Der Pascha von Aegypten sagte zum Fuchse: sage mir,
+
+was dein Begehren ist.
 
 Der Fuchs sprach: mein Herr, erlaube mir zu dir zu sprechen.
 

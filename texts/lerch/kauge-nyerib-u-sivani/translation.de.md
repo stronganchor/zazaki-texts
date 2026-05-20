@@ -20,9 +20,13 @@ warum bist du in meinem Hause? Der Dieb antwortete ich (Einwohner) von Nerib kam
 
 Mel’a Ahmed's Sohn erschlug sogleich den Dieb, sandte einen Boten zu Xalef Agha und liess sagen: komme nicht nach Hyeni (?).
 
-Xalef Agha sandte einen Boten zu Avdül’ah Agha nach Kelan und liess sagen: ich habe mit (denen von) Nerib gekämpft (?), darum sei zu deiner Zeit bereit, du hast einen der Meinigen erschlagen, (so) wisse (denn), dass ich für einen der Meinigen zwanzig der Deinigen tödten werde.
+Xalef Agha sandte einen Boten zu Avdül’ah Agha nach Kelan und liess sagen: ich habe mit (denen von) Nerib gekämpft (?), darum sei zu deiner Zeit bereit, du hast einen der Meinigen erschlagen,
 
-Avdül’ah Agha sandte einen Boten zu Xalef Agha und liess sagen: sei deiner Zeit bereit, morgen führe ich mein Heer, komme zum Bache Sel’e, führe auch du dein Heer dorthin, komme gen Dait, wir werden uns lange schlagen, bis du mich oder ich dich getödtet habe.
+(so) wisse (denn), dass ich für einen der Meinigen zwanzig der Deinigen tödten werde.
+
+Avdül’ah Agha sandte einen Boten zu Xalef Agha und liess sagen: sei deiner Zeit bereit, morgen führe ich mein Heer, komme zum Bache Sel’e, führe auch du dein Heer dorthin, komme gen Dait,
+
+wir werden uns lange schlagen, bis du mich oder ich dich getödtet habe.
 
 Xalef Agha sandte, einen Boten zu Avdül’ah Agha und liess sagen: mein Heer ist bereit, sobald ich nach Dait komme breche du auch auf, führe dein Heer (und) komme zum Bache Sel’e, wir wollen uns schlagen.
 
@@ -62,7 +66,9 @@ Avdül’ah Agha liess sein Heer vorschreiten und sagte: die Köpfe (gehören) m
 
 Das Heer Avdül’ah Agha’s ging gegen Xalef Agha's Heer, kam bis Tauridye und schlug sich; Xalef Agha’s Heer floh, das von Avdül’ah Agha verfolgte es, plünderte sämmtliche Häuser in den Dörfern, tödtete alle Hirten von Nerib (und) führte alle Heerden weg.
 
-Es verstrichen zwanzig Tage, da zog Xalef Agha gen Qotwesan zu H'aider Agha und sagte ihm: ich begebe mich unter deinen Schutz, Avdül ah Agha Kelan hat mein ganzes Heer getödtet, hat alle meine Dörfer niedergebrannt (und) geplündert.
+Es verstrichen zwanzig Tage, da zog Xalef Agha gen Qotwesan zu H'aider Agha und sagte ihm: ich begebe mich unter deinen Schutz, Avdül ah Agha Kelan hat mein ganzes Heer getödtet,
+
+hat alle meine Dörfer niedergebrannt (und) geplündert.
 
 Haider Agha sagte zu Xalef Agha: was sagst du mir?
 
@@ -74,7 +80,9 @@ Haider Agha sass auf, nahm Xalef Agha mit, kam nach Sivän und ging in s Haus de
 
 Drei Mal küsste er dem Avdül ah Agha die Füsse (und) sagte: Agha, verschone um meinetwegen den Xalef Agha.
 
-Avdülah Agha antwortete dem H'aidür Agha: wärest du nicht gekommen, hätte ich dem Xalef Agha nicht einen Buben zurückgegeben, ich hätte seine Dörfer niedergebrannt, alle geplündert, (doch) da du gekommen bist, schenke ich dir den Xalef Agha.
+Avdülah Agha antwortete dem H'aidür Agha: wärest du nicht gekommen, hätte ich dem Xalef Agha nicht einen Buben zurückgegeben, ich hätte seine Dörfer niedergebrannt, alle geplündert,
+
+(doch) da du gekommen bist, schenke ich dir den Xalef Agha.
 
 Haidör Agha küsste den Avdül’ah Agha auf den Kopf, ging (und) brachte den Xalef Agha herein; dieser küsste dem Avdülah Agha die Füsse. Avdülah Agha küsste ihm die Hand, darauf versöhnten sie sich (und) tauschten gegen einander Chalate aus.
 

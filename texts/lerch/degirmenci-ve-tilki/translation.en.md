@@ -28,9 +28,13 @@ Tell me." The fox replied, "My lord, allow me to speak to you."
 
 The Pasha gave the fox permission.
 
-The fox said, "My lord, Çemçequ Pasha has come; he is asking for your daughter for himself. A hailstorm came down, and a flood came. Çemçequ Pasha had five hundred horsemen; the flood carried them all away. I (say) to you, the flood carried all the women away too.
+The fox said, "My lord, Çemçequ Pasha has come; he is asking for your daughter for himself. A hailstorm came down, and a flood came. Çemçequ Pasha had five hundred horsemen; the flood carried them all away.
 
-I grabbed onto a rock and stood up. I looked, and a hand came and fell on my leg. I grabbed that hand and pulled him out of the water. Çemçequ Pasha threw himself onto me; I left him there and came." The Pasha of Egypt said, "Let the horsemen meet him; let them come with you and bring Çemçequ Pasha to me.
+I (say) to you, the flood carried all the women away too.
+
+I grabbed onto a rock and stood up. I looked, and a hand came and fell on my leg. I grabbed that hand and pulled him out of the water.
+
+Çemçequ Pasha threw himself onto me; I left him there and came." The Pasha of Egypt said, "Let the horsemen meet him; let them come with you and bring Çemçequ Pasha to me.
 
 There is a vizier there, but I do not know the name of any Çemçequ Pasha."
 
