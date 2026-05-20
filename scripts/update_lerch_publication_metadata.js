@@ -104,8 +104,8 @@ const publication = {
       place('Sama/Sema', unresolvedModern),
       place('Emêra/Emera', 'Servi bölgesinde büyük köy; modern adı kesinleşmedi'),
     ],
-    historical_context_tr: "Bu söyleşi, Lerch'in ana Zaza kaynağı Hassan hakkında en doğrudan bilgiyi veren metindir. Hassan'ın Sivan dediği çerçeve, 1841 Palu nüfus defterinde 42 köylü Sivan nahiyesi olarak görünen ve daha sonra Genç'e bağlanıp Servi adıyla anılan bölgeyle örtüşür. Kasan/Kassau/Kaschan için en güçlü çalışma karşılığı, Sivan köy listesinde Kasan/Kâsan olarak verilen bugünkü Günkondu'dur.",
-    editorial_note_tr: "Hassan/Hasan yazımı Lerch'in biçimine göre korunur. Kasan/Günkondu, Horsik/Saklıca, Aldun/Alaaddin ve Hêmek/Hamek/Yeniler gibi Sivan köyleri kaynakla desteklenir; Weşin, Talek, Kavare ve Gowman gibi adlar anlatının yerel coğrafyasını belgeleyen diğer adlardır.",
+    historical_context_tr: "Bu söyleşi, Lerch'in ana Zaza kaynağı Hassan hakkında en doğrudan bilgiyi veren metindir. Hassan'ın Sivan dediği çerçeve, 1841 Palu nüfus defterinde 42 köylü Sivan nahiyesi olarak görünen ve daha sonra Genç'e bağlanıp Servi adıyla anılan bölgeyle örtüşür. Kasan/Kassau/Kaschan için en güçlü çalışma karşılığı, Sivan köy listesinde Kasan/Kâsan olarak verilen bugünkü Günkondu'dur. Kiepert'in 1850'lerde hazırladığı haritada Palu'nun doğusunda, Sivan Maaden'in kuzeyinde Kaschan adı da görünür; bu da Lerch'in Kassau/Kaschan notuyla uyumludur.",
+    editorial_note_tr: "Hassan/Hasan yazımı Lerch'in biçimine göre korunur. Kasan/Günkondu, Horsik/Saklıca, Aldun/Alaaddin ve Hêmek/Hamek/Yeniler gibi Sivan köyleri kaynakla desteklenir; Weşin, Talek, Kavare ve Gowman gibi adlar anlatının yerel coğrafyasını belgeleyen diğer adlardır. Kiepert haritasındaki Melken adı, Hassan'ın Melêkang/Melekan adıyla karşılaştırılabilir; modern karşılık için çalışma eşleştirmesi şimdilik Sarıbudak olarak tutulur.",
   },
   'goin-puhu-kusunun-hikayesi': {
     public_summary_tr: "Üvey annesinin öldürdüğü kardeşini rüyasında gören bir kız, aile içi çatışmanın ardından Allah'tan kendisini go'in/puhu kuşuna çevirmesini ister.",
@@ -152,7 +152,7 @@ const publication = {
       place('Tawricyê/Taurıcye', unresolvedModern),
     ],
     historical_context_tr: "Bu anlatı Sivan/Servi-Palu hattı ile Nyêrib/Hani hattı arasındaki yerel çatışma hafızasını birleştirir. Horsig adı, Sivan köy listesinde Horsik (bugünkü Saklıca) olarak görünen yerle büyük olasılıkla aynıdır. Metindeki Xalef Ağa'ya 'Hyêni'de kavga ettin' uyarısı, bu anlatıyı Nyêrib-Hyêni kavgasından sonra konumlandırır; bu nedenle en uygun tarih aralığı yaklaşık 1820-1853'tür.",
-    editorial_note_tr: "Sivan/Servi, Horsig/Horsik/Saklıca ve Nyêrib/Nerib/Kuyular eşleştirmeleri kaynakla desteklenir. Şelê adı bu anlatıda Hani tarafındaki Şelli/Turalı köyleriyle daha iyi örtüşür. Kelan için en güçlü aday, Sivan köy listelerindeki Kelahsı/Kelaxsi, bugünkü Doğanlı'dır; Tawricyê için modern karşılık henüz kesinleşmemiştir.",
+    editorial_note_tr: "Sivan/Servi, Horsig/Horsik/Saklıca ve Nyêrib/Nerib/Kuyular eşleştirmeleri kaynakla desteklenir. Şelê adı bu anlatıda Hani tarafındaki Şelli/Turalı köyleriyle daha iyi örtüşür; Kiepert haritasında da Hani'nin kuzeydoğusunda, Gjaurköi çevresinde Schel/Schel'e benzeyen bir ad görünür. Kelan için en güçlü aday, Sivan köy listelerindeki Kelahsı/Kelaxsi, bugünkü Doğanlı'dır; Tawricyê için modern karşılık henüz kesinleşmemiştir.",
   },
   'uc-kardes-masali': {
     public_summary_tr: "Hasanek, Qasım ve Şaban adlı üç kardeşin bir devle karşılaşmasını, Hasanek'in mektupları değiştirerek devi kandırmasını ve sonunda devi öldürmesini anlatan masal.",

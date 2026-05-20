@@ -10,8 +10,24 @@ Working status: researched publication metadata, not a final gazetteer. Google M
 - Mehmet Aslanoğulları, *Lerch'in Zazaki Derlemelerinin Çevrimyazımı ve Türlerine Göre Sözcüklerin Tahlili*, MA thesis, Bingöl Üniversitesi, 2014. https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=XSxuloAAz12quT5oHaDwnA&no=lqmlps2zRpavNQmdt0OGGQ
 - Jelle Verheij, "Place names in 19th century travel reports - Diyarbakır province." https://www.jelleverheij.net/research-tools/place-name-index/diyarbakir.html
 - Jelle Verheij, geographical annotations to Taylor 1865 p. 38. https://www.jelleverheij.net/sources/1861---1870/Taylor-1865/Taylor-1865-038.html
+- Heinrich Kiepert, *Karte von Armenien, Kurdistan und Azerbeidschan in vier Blatt*, designed/edited 1852-53, published 1858. Gallica record: https://gallica.bnf.fr/ark:/12148/btv1b531026744 ; Wikimedia Commons category: https://commons.wikimedia.org/wiki/Category:Karte_von_Armenien,_Kurdistan_und_Azerbeidschan_in_vier_Blatt,_im_Anschluss_an_die_IV_westlichen_und_mittleren_Bl%C3%A4tter_der_Karte_von_Klein-Asien_-_entworfen_und_bearbeitet_1852-53_von_Dr_Heinrich_Kiepert_-_btv1b531026744
 - Hêvî, Paris Kurdish Institute reprint/scan, including Malmîsanij's notes to the Lerch texts. https://portal.arsivakurd.org/wp-content/uploads/2021/08/hevi_estitu_ya_paris_3.pdf
 - "Tarîxê Xonamekerdişê Kirdan," Zazaki.net PDF, for the list of Nêrib villages. https://www.zazaki.net/d/file/tar%C3%AEx%C3%AA-xonamekerdis%C3%AA-kirdan.pdf
+
+## Kiepert Map Evidence
+
+The local Kiepert sheet at `C:\Users\messy\OneDrive\Documents\Language\Z\map-overlay\assets\kiepert-armenia-kurdistan-azerbaijan-1852-53.jpg` contains the Palu-Sivan-Hani region. I created four web-ready crops in `assets/source-maps/kiepert-1858/`:
+
+- `kiepert-1858-palu-sivan-hani-region.webp`: wider region showing Palu, Tschewlü/Bingöl, Sivan Maaden, Kaschan, Melken, Hini/Hani, and nearby labels.
+- `kiepert-1858-kaschan-sivan-maaden.webp`: close crop of Kaschan north of Sivan Maaden and east of Palu.
+- `kiepert-1858-schel-gjaurkoei-hini.webp`: close crop around Gjaurköi and Hini/Hani, including the Schel/Schel-like map label relevant to the Şelê/Sele discussion.
+- `kiepert-1858-melken-sivan-hini.webp`: close crop showing Melken south of Sivan Maaden and northwest of Hini/Hani.
+
+This map strengthens the Hassan/Kasan identification because Lerch himself says Hassan was from Kassau, "in Kiepert: Kaschan." The map label `Kaschan` sits exactly in the expected Sivan-Palu frame, between the Murat-side line and Sivan Maaden. This supports treating Hassan's Kasan/Kassau/Kaschan as the Sivan village later matched in the Servi village lists, while still leaving room for local oral-history confirmation.
+
+The same map also shows `Melken` south of Sivan Maaden and northwest of Hini/Hani. That is a plausible cartographic witness for Hassan's `Melêkang/Melekan`, but the modern working match should remain the source-supported Sivan-list identification with Sarıbudak unless a stronger map-to-modern chain is found.
+
+For the Sivan-Nyêrib story, the map's Schel/Schel-like label near Gjaurköi northeast of Hini/Hani supports the existing decision to read `Şelê/Sele` as a Hani-side location or watercourse, not the separate Sivan-side Şelê Heydan/Yaydere entry from the glossary.
 
 ## Linked Publication Entries
 

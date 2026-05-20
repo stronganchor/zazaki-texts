@@ -10,7 +10,7 @@ Bu sayfada, 1800'lü yıllarda yazıya geçirilmiş bazı eski Zazaca metinleri 
 
 Bu metinler Zazalar için önemlidir, çünkü bugün elimizdeki en eski uzun Zazaca metin örneklerinden bazılarıdır. İçlerinde aşiret kavgaları, yerel kişiler, köy adları, aile hikayeleri ve masallar vardır. Bazı anlatılar, Palu, Hani/Hyêni, Sivan, Nyêrib, Karbegan ve çevresinin eski hafızasına dair ipuçları da verir.
 
-Lerch'in Zazaca için en önemli kaynak kişilerinden biri Hasan'dır. Lerch bu adı kendi yazımıyla Hassan olarak verir. Lerch'e göre Hasan, Palu yakınındaki Kasan/Kassau/Kaschan köyünden ve Sivan aşiretindendi. Hem Zazaca hem Kurmanci biliyordu; türkü, masal ve aşiret kavgaları hakkında anlatılar biliyordu.
+Lerch'in Zazaca için en önemli kaynak kişilerinden biri Hasan'dır. Lerch bu adı kendi yazımıyla Hassan olarak verir. Lerch'e göre Hasan, Palu yakınındaki Kasan/Kassau/Kaschan köyünden ve Sivan aşiretindendi. Kiepert'in 1858 tarihli haritasında Palu'nun doğusunda, Sivan Maaden'in kuzeyinde Kaschan adı da görülür. Hasan hem Zazaca hem Kurmanci biliyordu; türkü, masal ve aşiret kavgaları hakkında anlatılar biliyordu.
 
 ## Nasıl Okunur?
 
@@ -27,5 +27,6 @@ Bazı metinlerde şiddet, ölüm, kan davası veya yetişkinlere uygun temalar b
 ## Kaynak Notları
 
 - Portre: `Peter von Lerch.jpg`, Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Peter_von_Lerch.jpg
+- Kiepert haritası: Heinrich Kiepert, *Karte von Armenien, Kurdistan und Azerbeidschan in vier Blatt*, 1858. Gallica: https://gallica.bnf.fr/ark:/12148/btv1b531026744
 - Genel yöntem ve Hassan bilgisi için yerel çeviri taslağı: `C:\Users\messy\OneDrive\Documents\Language\Z\Dictionaries\Lerch\translation_project\lerch\post2_method_hassan\post2_tr_draft.md`
 - Fonetik alfabe ve transkripsiyon kararları için yerel çalışma notu: `C:\Users\messy\OneDrive\Documents\Language\Z\Dictionaries\Lerch\lerch_1857_phonetic_alphabet_ipa_targets.md`
