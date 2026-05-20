@@ -12,17 +12,17 @@ Hasanek sagte zu seinen Brüdern macht Euch zurecht, wir gehen um den Waizen die
 
 Diese drei erhoben sich, gingen, neigten sieb zum Waizen, schnitten den Waizen zwei Tage.
 
-Foricb.
+Hasanek bemerkte eine Höhle.
 
-ub.
+Es war die Höhle eines Dev.
 
 d.
 
-Kurden.
+Hasanek sagte zu seinen Brüdern: "Fürchtet euch nicht. Das ist ein Dev. Er kommt zu uns und sagt: 'Warum schneidet ihr diesen Weizen von mir?' Keiner von euch soll etwas sagen; ich werde dem Dev antworten."
 
 Sie schnitten den Weizen. Als sie sahen, dass der Dev gekommen war, sagte der Dev: "Was macht ihr? Ihr kennt meinen Namen nicht. Ich bin ein Dev, und ich werde jetzt die Köpfe von euch allen dreien fressen."
 
-Abtb. I.
+Hasanek sagte: "Mein Herr, gib mir Erlaubnis; lass mich ein Wort zu dir sagen." Der Dev sagte: "Sprich, mein Sohn."
 
 7 Hasanek bemerkte eine Hoble.
 
@@ -68,15 +68,15 @@ Der Dev sah, dass Hasanek kommt.
 
 Hasanek brachte den Pilav, gab (ihn) dem Dev.
 
-Der Dev nahm (und) sagte zu Hasanek: einen solchen Brief habe ich nicht geschrieben, dieses schlechte W eib, wozu hat es diese Speise bereitet und dir gegeben, (wozu) hast du diese Speise mir gebracht?
+Hasanek nahm den Brief und gab ihn der Frau des Dev.
 
 Solches habe ich im Briefe nicht geschrieben, (sondern vielmehr, dass) sie mir den Hasanek schlachten, aus dem Fleische des Hasanek mir einen Pilav machen (und duoseiben) mir schicken solle.
 
 Die Frau des Dev schlachtete den roten Stier und machte Kebab aus dem Fleisch des roten Stiers.
 
-Hasanek sagle: schön, mein Herr.
+In jener Nacht legte sich Hasanek neben die jüngste Tochter und genoss es bequem bis zum Morgen.
 
-Der Dev sehrieb einen Brief: dieses Mal schneide mir die Augen, die Lippen des Hasanek aus, mache einen Braten, brate (sie), schicke (sie) mir; wenn dieses Mal dieser Mensch gesund zu mir kommt, komme ich sogleich, um dir, schlechtes Weib, Kopf, Hände (und) Beine ahzuschneiden, komme und werfe dich aufsieben Wege. Der Dev stand auf, nachdem der Brief geschrieben war, (und) gab (ihn) dem Hasanek.
+Am Morgen stand er auf, ging in die Gemächer des Dev und sagte zur Frau des Dev: "Gib mir das Essen; ich gehe zurück zum Dev."
 
 Hasanek nahm (ihn, und) nachdem er zwei Stunden gegangen war, öffnete er den Brief, las ihn (und) sah, dass der Dev im Briefe geschrieben: schneide mir dieses Mal die Augen, die Lippen Hasaneks aus, bereite mir (daraus) einen Braten, schicke (ihn); wenn dieses Mal dieser Mensch gesund zu mir kommt, dann gehe ich nach Hause, schneide dir, schlechtes Weib, den Kopf, die Beine, die Hände ab, komme zu dir, werfe dich auf (alle) sieben Wege, (denn) Niemand übt über dich Herrschaft.
 
@@ -126,18 +126,18 @@ Hasanek führte seinen Bruder Sehaban aus dem Gefängniss zu sich, ruhte vier Ta
 
 Hasanek sagte zum Anführer der Leibwache: dieser mein Bruder sei dein Schützling. Der Anführer der Leibwache sagte zu Hasanek: Held, wohin gehst du?
 
-llasanek sagte zum Anführer der Leibwache: um mich am Dev zu rächen.
+Der Anführer der Wachen sagte zu Hasanek: "Held, wohin gehst du?"
 
-Der Anführer der Leibwache sagte zu Hasanek: geh, Held, ich bin ein Devbändiger, der Dev hat ein Schwert in einer goldeneu Scheide, in einem lleberzuge; bei dem Lager, wo der Dev schläft, (dort) nimm über seinem Haupte sein Schwert, begieb dich dann weiter, auf der rechten Seile ist ein Gitter, geh zu diesem Gitter, öffne es; sobald der Dev ins Zimmer tritt, nimm du sein Schwert in die Hand, wenn er im Zimmer vorschreitet, versetze du ihm einen Streich aufs Haupt, schneide es ihm ab (und) wirf es zur Erde, im llauptu des Dev ist eine Zunge, (welche) spricht; spricht sie zu dir: gieli einen zweiten Streich, sage: einen zweiten Streich gebe ich nicht mehr, (denn) die Hede der Helden ist eine. Hasanek erhob sich, ging zur Wohnung des Dev, fand das Lager des Dev, über dem Kissen des Dev nahm er sein Schwert, ging weiter, erblickte auf der rechten Seite ein Gitter, ging und stellte sich vor diesem Gitter hin.
+Hasanek sagte zum Anführer der Wachen: "Ich gehe, um mich am Dev zu rächen."
 
-Der Dev kam, Hasanek nahm das Schwert in seine Hand, der Dev schritt vor im Zimmer, Hasanek führte einen Streich mit seinem Schwerte (und) schnitt dem Dev das Haupt Forsch, iib. d.
+Der Anführer der Wachen sagte zu Hasanek: "Geh, Held. Ich bin einer, der Devs bindet. Der Dev hat ein Schwert in einer goldenen Scheide, in einer Hülle. Wo immer der Dev schläft, liegt das Schwert unter seinem Kopf. Nimm das Schwert des Dev von über seinem Kopf, komm vor die Tür; auf der rechten Seite ist ein Gitter. Geh und stell dich vor dieses Gitter. Wenn der Dev ins Zimmer kommt, nimm das Schwert des Dev in deine Hand. Wenn der Dev seinen Kopf hereinbringt, schlag dem Dev einmal mit dem Schwert auf den Kopf und schneide ihn ab, sodass er zu Boden fällt. Im Kopf des Dev ist eine Zunge; sie spricht und sagt zu dir: 'Schlag noch einmal.' Du musst sagen: 'Ich schlage nicht noch einmal; das Wort eines Helden ist eins.'"
 
-Kurden.
+Hasanek stand auf, ging zur Behausung des Dev, suchte, fand den Ort des Dev, nahm das Schwert des Dev unter dem Kissen des Dev hervor, kam vor die Tür, sah auf der rechten Seite ein Gitter und ging hin und stellte sich vor dieses Gitter.
 
 Der Dev kam. Hasanek nahm das Schwert in die Hand. Der Dev steckte den Kopf in das Zimmer; Hasanek schlug einmal mit dem Schwert zu und schlug dem Dev den Kopf ab.
 
 Der Dev fiel zu Boden.
 
-Er sagte dem Hasanek: gicb einen zweiten Streich.
+Der Dev sagte zu Hasanek: "Schlag noch einmal." Hasanek sagte zum Dev: "Das Wort eines Helden ist eins." Der Dev starb. Hasanek stand auf, trug den Leichnam des Dev weg, warf ihn ins Gefängnis, ging umher und ging zum Haus des Dev.
 
 Hasanek sagte dem Dev: die Rede der Helden ist eine; der Dev starb, Hasanek erhob sich, trug die Leiche des Dev weg, warf sie in ein Gefäugniss, ging umher und kam zum Hause des Dev. Er nahm die jüngste Tochter des Dev und vermählte sich mit ihr, ging, wanderte (und) fand seine Brüder Qasiin und Schaban, nahm (und) brachte (sie) in's Haus des Dev, gab die älteste Tochter seinem Bruder Schaban, die mittlere Tochter seinem Bruder Qasim, (darauf) Hessen sie sich nieder und verblieben in süsser Ruhe.
