@@ -32,13 +32,13 @@ The dev came near Hasanek and said to him, "My son, give me your sickle. I will 
 
 The dev cut. Qasim, Shaban, and Hasanek, all three of them, cut wheat until evening prayer.
 
-The dev got up, wrote a letter, gave it to Hasanek, and said, "Take this road and go. Look at the top of that mountain; my house is on that mountain. My wife and my three daughters are sitting in the house.
+The dev got up, wrote a letter, gave it to Hasanek, and said, "Take this road and go. Look at the top of that mountain; my house is on that mountain. My wife and my three daughters are sitting in the house. Take the letter and give it to my wife. She knows."
 
-Take the letter and give it to my wife. She knows." Hasanek took the letter, set out, and walked for two hours. Then he opened the letter, read it, and saw that the dev had written: "When this man brings this letter home, cut off this man's head for me, cook pilaf for me, make pilaf for me from this man's head, send it to me, and I will eat it."
+Hasanek took the letter, set out, and walked for two hours. Then he opened the letter, read it, and saw that the dev had written: "When this man brings this letter home, cut off this man's head for me, cook pilaf for me, make pilaf for me from this man's head, send it to me, and I will eat it."
 
-Hasanek tore up the letter, threw it away, and wrote another letter: "When this man brings this letter home, make pilaf from the brown bull.
+Hasanek tore up the letter, threw it away, and wrote another letter: "When this man brings this letter home, make pilaf from the brown bull. Tonight let Hasanek sleep beside my eldest daughter, and tomorrow let him bring me that pilaf."
 
-Tonight let Hasanek sleep beside my eldest daughter, and tomorrow let him bring me that pilaf." Hasanek gave the letter to the dev's wife.
+Hasanek gave the letter to the dev's wife.
 
 The dev's wife took the letter, opened it, and read that the dev had written that she should make pilaf from the brown bull and give it to Hasanek, and that Hasanek should sleep that night beside the eldest daughter and bring that pilaf in the morning.
 
@@ -52,9 +52,9 @@ Hasanek brought the pilaf and gave it to the dev.
 
 The dev took it and said to Hasanek, "I did not write a letter like this. Why has this bad woman prepared this food and given it to you? Why have you brought this food to me? I did not write this in the letter. I wrote that she should cut off Hasanek's head, make pilaf for me from Hasanek's flesh, and send it to me."
 
-Hasanek said to the dev, "This time, if you will go, go; if you will not go, I will go. This time she will cut off my head, make pilaf for you, cook it, and bring it." The dev said to Hasanek, "My son, do not raise your voice.
+Hasanek said to the dev, "This time, if you will go, go; if you will not go, I will go. This time she will cut off my head, make pilaf for you, cook it, and bring it."
 
-I will write again now and give it to you. Take it, go, and give it to my wife. This time, when you come back, I will go."
+The dev said to Hasanek, "My son, do not raise your voice. I will write again now and give it to you. Take it, go, and give it to my wife. This time, when you come back, I will go."
 
 Hasanek said, "Very well, my lord."
 
@@ -128,9 +128,9 @@ The chief of the guards said to Hasanek, "Hero, where are you going?"
 
 Hasanek said to the chief of the guards, "I am going to take revenge on the dev."
 
-The chief of the guards said to Hasanek, "Go, hero. I am a dev-binder. The dev has a sword in a golden scabbard, inside a covering. Wherever the dev lies down, the sword is there under his head. Take the dev's sword from above his head, come to the front of the door, and on the right side there is a lattice. Go and stand at that lattice. When the dev comes into the room, take the dev's sword in your hand. When the dev brings his head inside, strike the dev's head once with the sword and cut it off so that it falls to the ground.
+The chief of the guards said to Hasanek, "Go, hero. I am a dev-binder. The dev has a sword in a golden scabbard, inside a covering. Wherever the dev lies down, the sword is there under his head. Take the dev's sword from above his head, come to the front of the door, and on the right side there is a lattice. Go and stand at that lattice. When the dev comes into the room, take the dev's sword in your hand. When the dev brings his head inside, strike the dev's head once with the sword and cut it off so that it falls to the ground. There is a tongue in the dev's head; it speaks and says to you, 'Strike once more.' You must say, 'I will not strike again: a hero's word is one.'"
 
-There is a tongue in the dev's head; it speaks and says to you, 'Strike once more.' You must say, 'I will not strike again: a hero's word is one.'" Hasanek got up, went to the dev's dwelling, searched, found the dev's place, took the dev's sword from under the dev's pillow, came to the front of the door, saw a lattice on the right side, and went and stood at that lattice.
+Hasanek got up, went to the dev's dwelling, searched, found the dev's place, took the dev's sword from under the dev's pillow, came to the front of the door, saw a lattice on the right side, and went and stood at that lattice.
 
 The dev came. Hasanek took the sword in his hand. The dev brought his head into the room, and Hasanek struck one blow with the sword and cut off the dev's head. The dev fell to the ground.
 

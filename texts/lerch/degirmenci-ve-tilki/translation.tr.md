@@ -60,9 +60,9 @@ Tilki Çemçequ Paşa'yı odaya götürüp yatağa yatırmış.
 
 Çemçequ Paşa titremeye başlamış; tilki de, "Korkuyorsun, korkma; git yat," demiş.
 
-Değirmenci tilkiye, "Mısır Paşası şimdi buraya gelecek ve başımı kesecek," demiş. Tilki, "Korkma, seni bırakmam.
+Değirmenci tilkiye, "Mısır Paşası şimdi buraya gelecek ve başımı kesecek," demiş.
 
-Aklını başına topla. Mısır Paşası şimdi odaya girerse kalkıp ayaklarını öp," demiş.
+Tilki, "Korkma, seni bırakmam. Aklını başına topla. Mısır Paşası şimdi odaya girerse kalkıp ayaklarını öp," demiş.
 
 Çemçequ Paşa tilkiye, "Mısır Paşası şimdi gelirse beni öldürür," demiş.
 

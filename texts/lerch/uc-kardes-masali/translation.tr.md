@@ -32,13 +32,13 @@ Dev Hasanek'in yanına yaklaşmış ve ona, "Oğlum, orağını bana ver. Biraz 
 
 Qasim, Şaban ve Hasanek, üçü birlikte akşam namazına kadar buğday biçmişler.
 
-Dev kalkmış, bir mektup yazmış, Hasanek'e vermiş ve, "Bu yoldan git. Şu dağın tepesine bak; evim o dağdadır. Karım ve üç kızım evde oturuyorlar.
+Dev kalkmış, bir mektup yazmış, Hasanek'e vermiş ve, "Bu yoldan git. Şu dağın tepesine bak; evim o dağdadır. Karım ve üç kızım evde oturuyorlar. Mektubu götür, karıma ver; o bilir," demiş.
 
-Mektubu götür, karıma ver; o bilir," demiş. Hasanek mektubu almış, yola düşmüş ve iki saat yürümüş. Sonra mektubu açıp okumuş ve devin şöyle yazdığını görmüş: "Bu adam bu mektubu eve getirince bu adamın başını benim için kes, bana pilav pişir, bu adamın başından bana pilav yap, bana gönder; ben de yiyeyim."
+Hasanek mektubu almış, yola düşmüş ve iki saat yürümüş. Sonra mektubu açıp okumuş ve devin şöyle yazdığını görmüş: "Bu adam bu mektubu eve getirince bu adamın başını benim için kes, bana pilav pişir, bu adamın başından bana pilav yap, bana gönder; ben de yiyeyim."
 
-Hasanek mektubu yırtıp atmış ve başka bir mektup yazmış: "Bu adam bu mektubu eve getirince boz öküzden pilav yap.
+Hasanek mektubu yırtıp atmış ve başka bir mektup yazmış: "Bu adam bu mektubu eve getirince boz öküzden pilav yap. Bu gece Hasanek benim büyük kızımın yanında yatsın; yarın da bu pilavı bana getirsin."
 
-Bu gece Hasanek benim büyük kızımın yanında yatsın; yarın da bu pilavı bana getirsin." Hasanek mektubu devin karısına vermiş.
+Hasanek mektubu devin karısına vermiş.
 
 Devin karısı mektubu almış, açmış ve devin, boz öküzden pilav yapıp Hasanek'e vermesini, Hasanek'in o gece büyük kızın yanında yatmasını ve sabahleyin o pilavı getirmesini yazdığını okumuş.
 
@@ -52,9 +52,9 @@ Hasanek pilavı getirmiş, deve vermiş.
 
 Dev pilavı almış ve Hasanek'e, "Ben böyle bir mektup yazmadım. Bu kötü kadın niye bu yemeği hazırlayıp sana verdi? Sen bu yemeği niye bana getirdin? Ben mektupta bunu yazmadım. Hasanek'in başını kessin, Hasanek'in etinden bana pilav yapsın ve bana göndersin diye yazdım," demiş.
 
-Hasanek deve, "Bu defa sen gideceksen git; gitmeyeceksen ben giderim. Bu defa benim başımı keser, sana pilav yapar, pişirir ve getirir," demiş. Dev Hasanek'e, "Oğlum, sesini çıkarma.
+Hasanek deve, "Bu defa sen gideceksen git; gitmeyeceksen ben giderim. Bu defa benim başımı keser, sana pilav yapar, pişirir ve getirir," demiş.
 
-Şimdi bir daha yazıp sana vereceğim. Al, git, karıma ver. Bu defa sen gelince ben giderim," demiş.
+Dev Hasanek'e, "Oğlum, sesini çıkarma. Şimdi bir daha yazıp sana vereceğim. Al, git, karıma ver. Bu defa sen gelince ben giderim," demiş.
 
 Hasanek, "Peki efendim," demiş.
 
@@ -108,9 +108,9 @@ Hasanek, "Gidin, bir ağanın yanında hizmet edin," demiş.
 
 Hasanek kardeşi Qasim'i alıp bir kahveciye teslim etmiş.
 
-Hasanek kahveciye, "Ağa, bu benim kardeşimdir. Adı Qasim'dir. Sana hizmet etsin," demiş. Kahveci Hasanek'e, "Oğlum, kardeşinin elinden ne iş gelir?"
+Hasanek kahveciye, "Ağa, bu benim kardeşimdir. Adı Qasim'dir. Sana hizmet etsin," demiş.
 
-demiş. Hasanek kahveciye, "Ağa, sen ne iş buyurursan kardeşim yapar," demiş.
+Kahveci Hasanek'e, "Oğlum, kardeşinin elinden ne iş gelir?" demiş. Hasanek kahveciye, "Ağa, sen ne iş buyurursan kardeşim yapar," demiş.
 
 Kahveci, "Peki oğlum," demiş.
 
@@ -124,13 +124,13 @@ Kardeşi Şaban'a, "Kardeş, seni kim getirip bu zindana attı?" demiş.
 
 Hasanek kardeşi Şaban'ı zindandan çıkarmış, yanına almış ve dört gün dinlenmiş. Sonra kardeşi Şaban'ı hamama götürmüş, sabunlamış, yıkamış ve temizlemiş. Şaban'ı hamamdan çıkarıp muhafızbaşına götürmüş, teslim etmiş ve, "Bu kardeşim sana emanettir," demiş.
 
-Muhafızbaşı Hasanek'e, "Yiğit, nereye gidiyorsun?"
+Muhafızbaşı Hasanek'e, "Yiğit, nereye gidiyorsun?" demiş.
 
-demiş. Hasanek muhafızbaşına, "Devden intikam almaya gidiyorum," demiş.
+Hasanek muhafızbaşına, "Devden intikam almaya gidiyorum," demiş.
 
-Muhafızbaşı Hasanek'e, "Git yiğit. Ben dev bağlayan biriyim. Devin altın kın içinde, bir kılıfın içinde bir kılıcı vardır. Dev nerede yatarsa kılıç başının altında durur. Devin kılıcını başının üstünden al, kapının önüne gel; sağ tarafta bir kafes vardır. Git, o kafesin önünde dur. Dev odaya girince kılıcı eline al. Dev başını içeri sokunca kılıçla başına bir darbe vur, başını kesip yere düşür.
+Muhafızbaşı Hasanek'e, "Git yiğit. Ben dev bağlayan biriyim. Devin altın kın içinde, bir kılıfın içinde bir kılıcı vardır. Dev nerede yatarsa kılıç başının altında durur. Devin kılıcını başının üstünden al, kapının önüne gel; sağ tarafta bir kafes vardır. Git, o kafesin önünde dur. Dev odaya girince kılıcı eline al. Dev başını içeri sokunca kılıçla başına bir darbe vur, başını kesip yere düşür. Devin başının içinde bir dil vardır; konuşur ve sana, 'Bir darbe daha vur,' der. Sen, 'Bir daha vurmam; yiğidin sözü birdir,' de," demiş.
 
-Devin başının içinde bir dil vardır; konuşur ve sana, 'Bir darbe daha vur,' der. Sen, 'Bir daha vurmam; yiğidin sözü birdir,' de," demiş. Hasanek kalkmış, devin konağına gitmiş, aramış, devin yerini bulmuş, devin yastığının altından kılıcını almış, kapının önüne gelmiş, sağ tarafta bir kafes görmüş ve gidip o kafesin önünde durmuş.
+Hasanek kalkmış, devin konağına gitmiş, aramış, devin yerini bulmuş, devin yastığının altından kılıcını almış, kapının önüne gelmiş, sağ tarafta bir kafes görmüş ve gidip o kafesin önünde durmuş.
 
 Dev gelmiş. Hasanek kılıcı eline almış. Dev başını odaya sokmuş; Hasanek kılıçla bir darbe vurup devin başını kesmiş. Dev yere düşmüş.
 

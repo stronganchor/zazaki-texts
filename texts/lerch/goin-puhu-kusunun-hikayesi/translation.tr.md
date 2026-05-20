@@ -20,7 +20,7 @@ Sabah kalkıp babasına, "Baba, dün gece bir rüya gördüm: karın kardeşimi 
 
 Babası kıza, "Hayır, o niye kardeşini öldürsün?" demiş.
 
-K?z, "Baba, r?yamda karde?imin ?ld?r?l?p ?ukura at?ld???n? g?rd?m. ?imdi kalk?p s???rlar?n yan?na gidiyorum; ak?am eve gelece?im. Karde?im gelirse onun iyi oldu?unu bilece?im, ama karde?im gelmezse art?k senin i?in s???rlar?n yan?na gitmeyece?im ve burada kalmayaca??m," demi?.
+Kız, "Baba, rüyamda kardeşimin öldürülüp çukura atıldığını gördüm. Şimdi kalkıp sığırların yanına gidiyorum; akşam eve geleceğim. Kardeşim gelirse onun iyi olduğunu bileceğim, ama kardeşim gelmezse artık senin için sığırların yanına gitmeyeceğim ve burada kalmayacağım," demiş.
 
 Babası kıza, "Bugün sığırların yanına git; ben gidip kardeşini arayacağım. Şunu bil: eğer karım size iyi değilse ve kardeşini bulamazsam, ne ben ne de sen burada kalacağız," demiş.
 

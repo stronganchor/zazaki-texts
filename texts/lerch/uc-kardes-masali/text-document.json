@@ -2285,8 +2285,8 @@
       "id": "u009_01",
       "source": "Dyaw werişt, yaw kağit noşt, da 'Hasanêkira, va kê: enoê rayêr bıgi, şwê, bawni seri ayê koy, kunaği mê 'ha ayê koyu, cênyay mê, hiryê kêynay mê 'ha kunağdê roniştêy, kağit berê, bıdê cênyay mê, ya zana.",
       "translations": {
-        "tr": "Dev kalkmış, bir mektup yazmış, Hasanek'e vermiş ve, \"Bu yoldan git. Şu dağın tepesine bak; evim o dağdadır. Karım ve üç kızım evde oturuyorlar.",
-        "en": "The dev got up, wrote a letter, gave it to Hasanek, and said, \"Take this road and go. Look at the top of that mountain; my house is on that mountain. My wife and my three daughters are sitting in the house.",
+        "tr": "Dev kalkmış, bir mektup yazmış, Hasanek'e vermiş ve, \"Bu yoldan git. Şu dağın tepesine bak; evim o dağdadır. Karım ve üç kızım evde oturuyorlar. Mektubu götür, karıma ver; o bilir,\" demiş.",
+        "en": "The dev got up, wrote a letter, gave it to Hasanek, and said, \"Take this road and go. Look at the top of that mountain; my house is on that mountain. My wife and my three daughters are sitting in the house. Take the letter and give it to my wife. She knows.\"",
         "de": "Hasanek sagte zu seinen Brüdern: fürchtet euch nicht, das ist ein Dev, er kommt zu uns, sagt uns: warum schneidet ihr diesen meinen Waizen, keiner von euch gebe einen Laut von sich, ich werde dem Dev antworten."
       },
       "source_line_ids": [
@@ -2422,8 +2422,8 @@
       "id": "u009_02",
       "source": "'Hasanêki kağit gêrawt, kawta rayêr, şê, dı saati şê, kağit akerd, wengd, awnya kê, dyewi kağiti noştu ekê enoê merdüm enyê kağiti anu kêyê, mıri serêy enyê merdwomi trakê, mıri pilaw pawjê, serêy enyê merdümi mıri pilaw ver kê, berşaw mıri, ez wêna.",
       "translations": {
-        "tr": "Mektubu götür, karıma ver; o bilir,\" demiş. Hasanek mektubu almış, yola düşmüş ve iki saat yürümüş. Sonra mektubu açıp okumuş ve devin şöyle yazdığını görmüş: \"Bu adam bu mektubu eve getirince bu adamın başını benim için kes, bana pilav pişir, bu adamın başından bana pilav yap, bana gönder; ben de yiyeyim.\"",
-        "en": "Take the letter and give it to my wife. She knows.\" Hasanek took the letter, set out, and walked for two hours. Then he opened the letter, read it, and saw that the dev had written: \"When this man brings this letter home, cut off this man's head for me, cook pilaf for me, make pilaf for me from this man's head, send it to me, and I will eat it.\"",
+        "tr": "Hasanek mektubu almış, yola düşmüş ve iki saat yürümüş. Sonra mektubu açıp okumuş ve devin şöyle yazdığını görmüş: \"Bu adam bu mektubu eve getirince bu adamın başını benim için kes, bana pilav pişir, bu adamın başından bana pilav yap, bana gönder; ben de yiyeyim.\"",
+        "en": "Hasanek took the letter, set out, and walked for two hours. Then he opened the letter, read it, and saw that the dev had written: \"When this man brings this letter home, cut off this man's head for me, cook pilaf for me, make pilaf for me from this man's head, send it to me, and I will eat it.\"",
         "de": "Er schnitt den W'aizen, sah den Dev kommen; der Dev sprach: was schafft ihr?"
       },
       "source_line_ids": [
@@ -2559,8 +2559,8 @@
       "id": "u010_01",
       "source": "'Hasanêki kağit dırna, êşt, yawna kağit noşt, ekê enoê merdüm enoê kağit anu kêyê, gay bwêri pilaw ver kê, emşoê 'Hasanêk wa kêynay mına pilê 'het ra ku, sêba mıri ena pilaw byaru.",
       "translations": {
-        "tr": "Hasanek mektubu yırtıp atmış ve başka bir mektup yazmış: \"Bu adam bu mektubu eve getirince boz öküzden pilav yap.",
-        "en": "Hasanek tore up the letter, threw it away, and wrote another letter: \"When this man brings this letter home, make pilaf from the brown bull.",
+        "tr": "Hasanek mektubu yırtıp atmış ve başka bir mektup yazmış: \"Bu adam bu mektubu eve getirince boz öküzden pilav yap. Bu gece Hasanek benim büyük kızımın yanında yatsın; yarın da bu pilavı bana getirsin.\"",
+        "en": "Hasanek tore up the letter, threw it away, and wrote another letter: \"When this man brings this letter home, make pilaf from the brown bull. Tonight let Hasanek sleep beside my eldest daughter, and tomorrow let him bring me that pilaf.\"",
         "de": "ihr kennt meinen Namen nicht, ich bin ein Dev, ich esse sogleich die Köpfe von euch allen Dreien auf."
       },
       "source_line_ids": [
@@ -2696,8 +2696,8 @@
       "id": "u010_02",
       "source": "'Hasanêk da kağit dênyay dyewi.",
       "translations": {
-        "tr": "Bu gece Hasanek benim büyük kızımın yanında yatsın; yarın da bu pilavı bana getirsin.\" Hasanek mektubu devin karısına vermiş.",
-        "en": "Tonight let Hasanek sleep beside my eldest daughter, and tomorrow let him bring me that pilaf.\" Hasanek gave the letter to the dev's wife.",
+        "tr": "Hasanek mektubu devin karısına vermiş.",
+        "en": "Hasanek gave the letter to the dev's wife.",
         "de": "Hasanek sagte: mein Herr, erlaube mir, mit dir zu reden; der Dev sagte: mein Sohn, sprich."
       },
       "source_line_ids": [
@@ -3655,8 +3655,8 @@
       "id": "u014_01",
       "source": "'Hasanêki dyewira va kê: ena gêlankê tê şwêni şwê, ekê tê nyêşwêni ez şwêna, ena gêlankê serêy min tra kêna, twêri kêna pilaw ver, pawcêna, ana.",
       "translations": {
-        "tr": "Hasanek deve, \"Bu defa sen gideceksen git; gitmeyeceksen ben giderim. Bu defa benim başımı keser, sana pilav yapar, pişirir ve getirir,\" demiş. Dev Hasanek'e, \"Oğlum, sesini çıkarma.",
-        "en": "Hasanek said to the dev, \"This time, if you will go, go; if you will not go, I will go. This time she will cut off my head, make pilaf for you, cook it, and bring it.\" The dev said to Hasanek, \"My son, do not raise your voice.",
+        "tr": "Hasanek deve, \"Bu defa sen gideceksen git; gitmeyeceksen ben giderim. Bu defa benim başımı keser, sana pilav yapar, pişirir ve getirir,\" demiş.",
+        "en": "Hasanek said to the dev, \"This time, if you will go, go; if you will not go, I will go. This time she will cut off my head, make pilaf for you, cook it, and bring it.\"",
         "de": "Hasannek nahm den Brief, machte sich auf den Weg, ging, ging zwei Stunden, (darauf) öffnete er den Brief, sah, dass der Dev schrieb: wenn dieser Mensch diesen Brief ins Haus bringt, schneide mir den Kopf dieses Menschen ab, koche mir einen Pilav, von dem Kopfe dieses Menschen koche mir einen Pilav, schicke ihn mir, ich werde ihn essen."
       },
       "source_line_ids": [
@@ -3792,8 +3792,8 @@
       "id": "u014_02",
       "source": "Dyewi 'Hasanêkira va kê: lacim, tê vengi xoê mekê, ez nêkay nusêna, dana twê, bigu, şwê, bıdê cênyay mê, ena gêlankê ek tê amêy ez hema şwêna.",
       "translations": {
-        "tr": "Şimdi bir daha yazıp sana vereceğim. Al, git, karıma ver. Bu defa sen gelince ben giderim,\" demiş.",
-        "en": "I will write again now and give it to you. Take it, go, and give it to my wife. This time, when you come back, I will go.\"",
+        "tr": "Dev Hasanek'e, \"Oğlum, sesini çıkarma. Şimdi bir daha yazıp sana vereceğim. Al, git, karıma ver. Bu defa sen gelince ben giderim,\" demiş.",
+        "en": "The dev said to Hasanek, \"My son, do not raise your voice. I will write again now and give it to you. Take it, go, and give it to my wife. This time, when you come back, I will go.\"",
         "de": "Hasanek zerriss den Brief, warf ihn weg (und) schrieb einen andern Brief: wenn dieser Mensch diesen Brief in's Haus bringt, bereite von dem braunen Stier einen Pilav; diese Nacht möge Hasanek mit meiner ältesten Tochter schlafen (und) morgen mir den Pilav bringen."
       },
       "source_line_ids": [
@@ -7490,7 +7490,7 @@
       "id": "u029_01",
       "source": "'Hasanêki va kê qayfêçira: ağa, enoê bêray minu, namêy cay Qasimu, wa twêri ğızmêt bıkêru, Qayfeçi 'Hasanêkira va kê: lacim, bêray twê destra tê gure yênu.",
       "translations": {
-        "tr": "Hasanek kahveciye, \"Ağa, bu benim kardeşimdir. Adı Qasim'dir. Sana hizmet etsin,\" demiş. Kahveci Hasanek'e, \"Oğlum, kardeşinin elinden ne iş gelir?\"",
+        "tr": "Hasanek kahveciye, \"Ağa, bu benim kardeşimdir. Adı Qasim'dir. Sana hizmet etsin,\" demiş.",
         "en": "Hasanek said to the coffeehouse keeper, \"Agha, this is my brother. His name is Qasim. Let him serve you.\"",
         "de": "Hasanek nahm seinen Bruder Qasim, führte ihn zu dem Wirthe eines Kaffeehauses."
       },
@@ -7627,7 +7627,7 @@
       "id": "u029_02",
       "source": "'Hasanêki qayfetira go kê: ağa, tê çê gurawkê vaci bêrai mê destra yênu.",
       "translations": {
-        "tr": "demiş. Hasanek kahveciye, \"Ağa, sen ne iş buyurursan kardeşim yapar,\" demiş.",
+        "tr": "Kahveci Hasanek'e, \"Oğlum, kardeşinin elinden ne iş gelir?\" demiş. Hasanek kahveciye, \"Ağa, sen ne iş buyurursan kardeşim yapar,\" demiş.",
         "en": "The coffeehouse keeper said to Hasanek, \"My son, what kind of work can your brother do?\" Hasanek said to the coffeehouse keeper, \"Agha, whatever work you order, my brother can do.\"",
         "de": "Er sagte zu diesem: Herr, das ist mein Bruder, sein Marne ist Qasim, er wird dir dienen. Der Kaifeewirth sagte zu Hasanek: mein Sohn, in welcher Arbeit ist dein Bruder bewandert?"
       },
@@ -8586,7 +8586,7 @@
       "id": "u033_01",
       "source": "Qabas başi 'Hasanêkira va kê: êgit tê sera şwêni.",
       "translations": {
-        "tr": "Muhafızbaşı Hasanek'e, \"Yiğit, nereye gidiyorsun?\"",
+        "tr": "Muhafızbaşı Hasanek'e, \"Yiğit, nereye gidiyorsun?\" demiş.",
         "en": "The chief of the guards said to Hasanek, \"Hero, where are you going?\"",
         "de": "llasanek sagte zum Anführer der Leibwache: um mich am Dev zu rächen."
       },
@@ -8723,7 +8723,7 @@
       "id": "u033_02",
       "source": "'Hasanêki va kê qabas başira: 'hêyfê xoê dyewira gêna.",
       "translations": {
-        "tr": "demiş. Hasanek muhafızbaşına, \"Devden intikam almaya gidiyorum,\" demiş.",
+        "tr": "Hasanek muhafızbaşına, \"Devden intikam almaya gidiyorum,\" demiş.",
         "en": "Hasanek said to the chief of the guards, \"I am going to take revenge on the dev.\"",
         "de": "Der Anführer der Leibwache sagte zu Hasanek: geh, Held, ich bin ein Devbändiger, der Dev hat ein Schwert in einer goldeneu Scheide, in einem lleberzuge; bei dem Lager, wo der Dev schläft, (dort) nimm über seinem Haupte sein Schwert, begieb dich dann weiter, auf der rechten Seile ist ein Gitter, geh zu diesem Gitter, öffne es; sobald der Dev ins Zimmer tritt, nimm du sein Schwert in die Hand, wenn er im Zimmer vorschreitet, versetze du ihm einen Streich aufs Haupt, schneide es ihm ab (und) wirf es zur Erde, im llauptu des Dev ist eine Zunge, (welche) spricht; spricht sie zu dir: gieli einen zweiten Streich, sage: einen zweiten Streich gebe ich nicht mehr, (denn) die Hede der Helden ist eine. Hasanek erhob sich, ging zur Wohnung des Dev, fand das Lager des Dev, über dem Kissen des Dev nahm er sein Schwert, ging weiter, erblickte auf der rechten Seite ein Gitter, ging und stellte sich vor diesem Gitter hin."
       },
@@ -8860,8 +8860,8 @@
       "id": "u034_01",
       "source": "Qabas başi 'Hasanêkira va kê: êgit tê şwêni ez çira'hêy dyewya, yaw şimşyêri dyewi estu 'ha kalanya altunyênêdê 'ha qulavi myandê, caw kê dyaw ra kwênu, 'ha bini seri dyewidê şimşyêri dyewi bıgê, byê bêri ver dê, kişta raştêdê yaw şêbakê esta, şwê aya şêbakêdê vındê, dyaw kêykê amê zerê, şimşyêri dyewi bıgê xoê dest, kê serêy dyewi amê bêra zerê yaw şimşyêr pêro dê serêy dyewi tra kê gnênu eru, serêy dyewidê zwang estu, kali kênu, twêra vanu yawnay pêro dê, tê vaci kê ez hêni yawnay pêro nyêdana: kawli cang mêrdang yaw.",
       "translations": {
-        "tr": "Muhafızbaşı Hasanek'e, \"Git yiğit. Ben dev bağlayan biriyim. Devin altın kın içinde, bir kılıfın içinde bir kılıcı vardır. Dev nerede yatarsa kılıç başının altında durur. Devin kılıcını başının üstünden al, kapının önüne gel; sağ tarafta bir kafes vardır. Git, o kafesin önünde dur. Dev odaya girince kılıcı eline al. Dev başını içeri sokunca kılıçla başına bir darbe vur, başını kesip yere düşür.",
-        "en": "The chief of the guards said to Hasanek, \"Go, hero. I am a dev-binder. The dev has a sword in a golden scabbard, inside a covering. Wherever the dev lies down, the sword is there under his head. Take the dev's sword from above his head, come to the front of the door, and on the right side there is a lattice. Go and stand at that lattice. When the dev comes into the room, take the dev's sword in your hand. When the dev brings his head inside, strike the dev's head once with the sword and cut it off so that it falls to the ground.",
+        "tr": "Muhafızbaşı Hasanek'e, \"Git yiğit. Ben dev bağlayan biriyim. Devin altın kın içinde, bir kılıfın içinde bir kılıcı vardır. Dev nerede yatarsa kılıç başının altında durur. Devin kılıcını başının üstünden al, kapının önüne gel; sağ tarafta bir kafes vardır. Git, o kafesin önünde dur. Dev odaya girince kılıcı eline al. Dev başını içeri sokunca kılıçla başına bir darbe vur, başını kesip yere düşür. Devin başının içinde bir dil vardır; konuşur ve sana, 'Bir darbe daha vur,' der. Sen, 'Bir daha vurmam; yiğidin sözü birdir,' de,\" demiş.",
+        "en": "The chief of the guards said to Hasanek, \"Go, hero. I am a dev-binder. The dev has a sword in a golden scabbard, inside a covering. Wherever the dev lies down, the sword is there under his head. Take the dev's sword from above his head, come to the front of the door, and on the right side there is a lattice. Go and stand at that lattice. When the dev comes into the room, take the dev's sword in your hand. When the dev brings his head inside, strike the dev's head once with the sword and cut it off so that it falls to the ground. There is a tongue in the dev's head; it speaks and says to you, 'Strike once more.' You must say, 'I will not strike again: a hero's word is one.'\"",
         "de": "Der Dev kam, Hasanek nahm das Schwert in seine Hand, der Dev schritt vor im Zimmer, Hasanek führte einen Streich mit seinem Schwerte (und) schnitt dem Dev das Haupt Forsch, iib. d."
       },
       "source_line_ids": [
@@ -8997,8 +8997,8 @@
       "id": "u034_04",
       "source": "'Hasanêk werişt şê qunaği dyewi gêyra, cay dyewi di, bıni balışnay dyewira şimşyêri dyewi vêt gêrawt, amê veri bêri, awnya kişta raştêdê yaw şêbakê esta, şê ena şêbakêdê vênert.",
       "translations": {
-        "tr": "Devin başının içinde bir dil vardır; konuşur ve sana, 'Bir darbe daha vur,' der. Sen, 'Bir daha vurmam; yiğidin sözü birdir,' de,\" demiş. Hasanek kalkmış, devin konağına gitmiş, aramış, devin yerini bulmuş, devin yastığının altından kılıcını almış, kapının önüne gelmiş, sağ tarafta bir kafes görmüş ve gidip o kafesin önünde durmuş.",
-        "en": "There is a tongue in the dev's head; it speaks and says to you, 'Strike once more.' You must say, 'I will not strike again: a hero's word is one.'\" Hasanek got up, went to the dev's dwelling, searched, found the dev's place, took the dev's sword from under the dev's pillow, came to the front of the door, saw a lattice on the right side, and went and stood at that lattice.",
+        "tr": "Hasanek kalkmış, devin konağına gitmiş, aramış, devin yerini bulmuş, devin yastığının altından kılıcını almış, kapının önüne gelmiş, sağ tarafta bir kafes görmüş ve gidip o kafesin önünde durmuş.",
+        "en": "Hasanek got up, went to the dev's dwelling, searched, found the dev's place, took the dev's sword from under the dev's pillow, came to the front of the door, saw a lattice on the right side, and went and stood at that lattice.",
         "de": "Kurden."
       },
       "source_line_ids": [

@@ -60,9 +60,9 @@ The fox took Çemçequ Pasha to the room and laid him on the bed.
 
 Çemçequ Pasha began to tremble; the fox said, "You are afraid. Do not be afraid; go lie down."
 
-The miller said to the fox, "The Pasha of Egypt will come here now and cut off my head." The fox said, "Do not be afraid.
+The miller said to the fox, "The Pasha of Egypt will come here now and cut off my head."
 
-I will not leave you. Keep your senses. If the Pasha of Egypt now enters the room, get up and kiss his feet."
+The fox said, "Do not be afraid. I will not leave you. Keep your senses. If the Pasha of Egypt now enters the room, get up and kiss his feet."
 
 Çemçequ Pasha said to the fox, "If the Pasha of Egypt comes now, he will kill me."
 

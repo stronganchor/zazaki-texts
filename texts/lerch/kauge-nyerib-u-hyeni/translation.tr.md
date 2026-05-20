@@ -24,9 +24,9 @@ O adam Xalef Ağa'ya dedi ki: 'Mela Haseynê Mûğara'nın hizmetçisiydi.'
 
 Xalef Ağa dedi ki: 'Dikkatli ol; yabancı bir adam öldürdünüz, yabancı gelir, malınızı alır ve sizi öldürür.'
 
-O adam Xalef Ağa'ya dedi ki: 'Ağa, Küçük Nyêrib'e ve Deştê Henzi'ye haber gönder; dikkatli olsunlar, mallarını sahipsiz bırakmasınlar.
+O adam Xalef Ağa'ya dedi ki: 'Ağa, Küçük Nyêrib'e ve Deştê Henzi'ye haber gönder; dikkatli olsunlar, mallarını sahipsiz bırakmasınlar. Hyêni'den haber geldiği gün kimse eksik olmasın, savaşacağız.'
 
-Hyêni'den haber geldiği gün kimse eksik olmasın, savaşacağız.' Xalef Ağa Küçük Nyêrib'e, Wesman Ağa'ya haber gönderdi: 'Haberi Deştê Henzi'de Mêhmêt Ağa'ya gönder.'
+Xalef Ağa Küçük Nyêrib'e, Wesman Ağa'ya haber gönderdi: 'Haberi Deştê Henzi'de Mêhmêt Ağa'ya gönder.'
 
 Wesman Ağa Deştê Henzi'de Mêhmêt Ağa'ya haber gönderdi: 'Hazırlan; Hyêni'liler bizimle savaşacak.
 
@@ -48,9 +48,9 @@ Daqma Bey bütün ordusunu topladı, Temir Bey'in evinin önünde bir araya geti
 
 Şafak söküp sabah aydınlanırken Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Lanetli, bu gece sabaha kadar uyumadım; sözün ne oldu, hani savaşa gelecektin? Ordum hazır.'
 
-Xalef Ağa ata bindi, davulu çaldırdı, ordusunun önüne geçti ve askerlerine dedi ki: 'Korkmayın; onlar Türk'tür, savaşmayı bilmezler.
+Xalef Ağa ata bindi, davulu çaldırdı, ordusunun önüne geçti ve askerlerine dedi ki: 'Korkmayın; onlar Türk'tür, savaşmayı bilmezler. Biz yiğit aşiret adamlarıyız; korkmayın, ben sizin önünüzdeyim; ben ölsem bile siz yine savaşa gidin.'
 
-Biz yiğit aşiret adamlarıyız; korkmayın, ben sizin önünüzdeyim; ben ölsem bile siz yine savaşa gidin.' Xalef Ağa'nın askerleri dedi ki: 'Peki Ağa; biz ölmedikçe seni bırakmayız, savaşa gideriz.'
+Xalef Ağa'nın askerleri dedi ki: 'Peki Ağa; biz ölmedikçe seni bırakmayız, savaşa gideriz.'
 
 Xalef Ağa dedi ki: 'Aferin ağalarım.'
 
@@ -60,9 +60,9 @@ Xalef Ağa seslendi.
 
 Daqma Bey'e dedi ki: 'Kendi vaktinde hazır ol; geldim.'
 
-Daqma Bey ata bindi, ordusuna seslenip dedi ki: 'Yerlerinize geçin; Xalef Ağa'nın ordusu geldi.
+Daqma Bey ata bindi, ordusuna seslenip dedi ki: 'Yerlerinize geçin; Xalef Ağa'nın ordusu geldi. Kalkın, gidin, korkmayın.'
 
-Kalkın, gidin, korkmayın.' Xalef Ağa ordusuna dedi ki: 'Daqma Bey'in ordusundan kimse kaçmasın; hepsini öldürün.'
+Xalef Ağa ordusuna dedi ki: 'Daqma Bey'in ordusundan kimse kaçmasın; hepsini öldürün.'
 
 Xalef Ağa'nın askerleri Xalef Ağa'ya dedi ki: 'Bize izin ver, sen de seyret.'
 
@@ -86,9 +86,9 @@ Daqma Bey hemen Xalef Ağa'ya bir kürk gönderip dedi ki: 'Aman efendim, kimsem
 
 Daqma Bey Xalef Ağa'ya haber gönderdi: 'Bana on gün mühlet ver.'
 
-Xalef Ağa dedi ki: 'Peki, sana yirmi gün mühlet olsun; sonra hemen gel, savaşalım.
+Xalef Ağa dedi ki: 'Peki, sana yirmi gün mühlet olsun; sonra hemen gel, savaşalım. Gelmezsen bütün şehri yakarım, başını keserim.'
 
-Gelmezsen bütün şehri yakarım, başını keserim.' Daqma Bey Xalef Ağa'ya haber gönderdi: 'Yirmi güne kadar savaşım yok; sonra sana haber göndereceğim.'
+Daqma Bey Xalef Ağa'ya haber gönderdi: 'Yirmi güne kadar savaşım yok; sonra sana haber göndereceğim.'
 
 Xalef Ağa dedi ki: 'Peki efendim, sana izin olsun.' Daqma Bey'e yirmi gün mühlet verdi.
 
@@ -106,7 +106,7 @@ Daqma Bey Xalef Ağa'ya haber gönderdi: 'Kalk gel; gözlerini çıkaracağım.'
 
 Xalef Ağa kalktı, davulları çaldırdı.
 
-Xalef A?a'n?n b?t?n ordusu topland?. Xalef A?a ordusuna dedi ki: 'Dinleyin a?alar, sava?a gidiyoruz. Korkmay?n; Daqma Bey'in ordusu ?oktur ama hepsi T?rk't?r, bizimle sava?may? bilmezler. Biz hepimiz yi?it K?rtleriz, a?iret adamlar?y?z; korkmay?n, gidiyoruz; benim ba??m kesilmedik?e size hi?bir ?ey olmaz.' Biz hepimiz yiğit Kürtleriz, aşiret adamlarıyız; korkmayın, gidiyoruz; benim başım kesilmedikçe size hiçbir şey olmaz.'
+Xalef Ağa'nın bütün ordusu toplandı. Xalef Ağa ordusuna dedi ki: 'Dinleyin ağalar, savaşa gidiyoruz. Korkmayın; Daqma Bey'in ordusu çoktur ama hepsi Türk'tür, bizimle savaşmayı bilmezler. Biz hepimiz yiğit Kürtleriz, aşiret adamlarıyız; korkmayın, gidiyoruz; benim başım kesilmedikçe size hiçbir şey olmaz.'
 
 Askerleri Xalef Ağa'ya dedi ki: 'Gidiyoruz; biz ölmedikçe sana bir şey olmaz.'
 
