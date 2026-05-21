@@ -1,5 +1,5 @@
 window.LERCH_GLOSSARY_CANDIDATES = {
-  "generated": "2026-05-19",
+  "generated": "2026-05-21",
   "source_report": "reports/lerch-glossary-text-form-comparison.md",
   "source_tsv": "reports/lerch-glossary-text-form-comparison.tsv",
   "candidate_count": 198,
@@ -2041,7 +2041,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "bu",
+          "value": "bû",
           "count": 6
         },
         {
@@ -2078,7 +2078,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "goin-puhu-kusunun-hikayesi",
           "segment_id": "g02_l09",
           "token_index": 6,
-          "token_zazaki": "bu",
+          "token_zazaki": "bû",
           "token_lerch": "bu,",
           "lemma": "bu",
           "glosses": [
@@ -2089,7 +2089,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "goin-puhu-kusunun-hikayesi",
           "segment_id": "g03_l08",
           "token_index": 10,
-          "token_zazaki": "bu",
+          "token_zazaki": "bû",
           "token_lerch": "bu,",
           "lemma": "bu",
           "glosses": [
@@ -2100,7 +2100,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "uc-kardes-masali",
           "segment_id": "tb02_l01",
           "token_index": 7,
-          "token_zazaki": "bu",
+          "token_zazaki": "bû",
           "token_lerch": "bū.",
           "lemma": "bu",
           "glosses": [
@@ -2676,11 +2676,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       "lemmas": [
         {
           "value": "la",
-          "count": 3
-        },
-        {
-          "value": "laser",
-          "count": 2
+          "count": 5
         }
       ],
       "gloss_hints": [
@@ -2700,7 +2696,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "token_index": 3,
           "token_zazaki": "la",
           "token_lerch": "la",
-          "lemma": "laser",
+          "lemma": "la",
           "glosses": [
             "flood"
           ]
@@ -2711,7 +2707,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "token_index": 10,
           "token_zazaki": "la",
           "token_lerch": "la",
-          "lemma": "laser",
+          "lemma": "la",
           "glosses": [
             "flood"
           ]
@@ -3432,7 +3428,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "byaru",
+          "value": "byarû",
           "count": 5
         },
         {
@@ -3457,7 +3453,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "uc-kardes-masali",
           "segment_id": "tb03_l11",
           "token_index": 2,
-          "token_zazaki": "byaru",
+          "token_zazaki": "byarû",
           "token_lerch": "biáru.",
           "lemma": "biaru",
           "glosses": [
@@ -3468,7 +3464,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "uc-kardes-masali",
           "segment_id": "tb03_l14",
           "token_index": 4,
-          "token_zazaki": "byaru",
+          "token_zazaki": "byarû",
           "token_lerch": "biáru.",
           "lemma": "biaru",
           "glosses": [
@@ -3479,7 +3475,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "uc-kardes-masali",
           "segment_id": "tb05_l13",
           "token_index": 8,
-          "token_zazaki": "byaru",
+          "token_zazaki": "byarû",
           "token_lerch": "biáru.",
           "lemma": "biaru",
           "glosses": [
@@ -3500,7 +3496,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "êyştu",
+          "value": "êyştû",
           "count": 5
         },
         {
@@ -3525,7 +3521,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "goin-puhu-kusunun-hikayesi",
           "segment_id": "g02_l07",
           "token_index": 0,
-          "token_zazaki": "êyştu",
+          "token_zazaki": "êyştû",
           "token_lerch": "eíštu",
           "lemma": "eistu",
           "glosses": [
@@ -3536,7 +3532,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "goin-puhu-kusunun-hikayesi",
           "segment_id": "g02_l08",
           "token_index": 10,
-          "token_zazaki": "êyştu",
+          "token_zazaki": "êyştû",
           "token_lerch": "eíštu",
           "lemma": "eistu",
           "glosses": [
@@ -3547,7 +3543,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "goin-puhu-kusunun-hikayesi",
           "segment_id": "g02_l10",
           "token_index": 11,
-          "token_zazaki": "êyştu",
+          "token_zazaki": "êyştû",
           "token_lerch": "eíštu",
           "lemma": "eistu",
           "glosses": [
@@ -3792,7 +3788,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "noştu",
+          "value": "noştû",
           "count": 5
         },
         {
@@ -3833,7 +3829,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "uc-kardes-masali",
           "segment_id": "tb03_l05",
           "token_index": 10,
-          "token_zazaki": "noştu",
+          "token_zazaki": "noştû",
           "token_lerch": "nó̤štu",
           "lemma": "nostu",
           "glosses": [
@@ -3844,7 +3840,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "uc-kardes-masali",
           "segment_id": "tb03_l12",
           "token_index": 7,
-          "token_zazaki": "noştu",
+          "token_zazaki": "noştû",
           "token_lerch": "no̤štu",
           "lemma": "nostu",
           "glosses": [
@@ -3855,7 +3851,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "uc-kardes-masali",
           "segment_id": "tb05_l05",
           "token_index": 2,
-          "token_zazaki": "noştu",
+          "token_zazaki": "noştû",
           "token_lerch": "no̤štu,",
           "lemma": "nostu",
           "glosses": [
@@ -4052,7 +4048,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "şu",
+          "value": "şû",
           "count": 2
         },
         {
@@ -4064,7 +4060,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "count": 1
         },
         {
-          "value": "su",
+          "value": "sû",
           "count": 1
         },
         {
@@ -4101,7 +4097,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "degirmenci-ve-tilki",
           "segment_id": "mf05_l08",
           "token_index": 5,
-          "token_zazaki": "şu",
+          "token_zazaki": "şû",
           "token_lerch": "šu",
           "lemma": "su",
           "glosses": [
@@ -4112,7 +4108,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "goin-puhu-kusunun-hikayesi",
           "segment_id": "g02_l06",
           "token_index": 2,
-          "token_zazaki": "şu",
+          "token_zazaki": "şû",
           "token_lerch": "šu",
           "lemma": "su",
           "glosses": [
@@ -4123,7 +4119,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-sivani",
           "segment_id": "s05_l01",
           "token_index": 10,
-          "token_zazaki": "su",
+          "token_zazaki": "sû",
           "token_lerch": "su-",
           "lemma": "su",
           "glosses": [
@@ -4511,7 +4507,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "lingêru",
+          "value": "lingêrû",
           "count": 4
         },
         {
@@ -4548,7 +4544,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "degirmenci-ve-tilki",
           "segment_id": "mf05_l01",
           "token_index": 2,
-          "token_zazaki": "lingêru",
+          "token_zazaki": "lingêrû",
           "token_lerch": "língeru.",
           "lemma": "lingeru",
           "glosses": [
@@ -4559,7 +4555,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h09_l08",
           "token_index": 6,
-          "token_zazaki": "lingêru",
+          "token_zazaki": "lingêrû",
           "token_lerch": "língeru,",
           "lemma": "lingeru",
           "glosses": [
@@ -4570,7 +4566,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-sivani",
           "segment_id": "s05_l11",
           "token_index": 8,
-          "token_zazaki": "lingêru",
+          "token_zazaki": "lingêrû",
           "token_lerch": "líṅgeru",
           "lemma": "lingeru",
           "glosses": [
@@ -4771,7 +4767,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "count": 2
         },
         {
-          "value": "dumilbazi",
+          "value": "dûmilbazi",
           "count": 1
         },
         {
@@ -4779,7 +4775,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "count": 1
         },
         {
-          "value": "Dumilbazi",
+          "value": "Dûmilbazi",
           "count": 1
         },
         {
@@ -4804,7 +4800,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h04_l11",
           "token_index": 5,
-          "token_zazaki": "dumilbazi",
+          "token_zazaki": "dûmilbazi",
           "token_lerch": "dúmilbā́zi",
           "lemma": "dumilbazi",
           "glosses": [
@@ -4815,7 +4811,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-sivani",
           "segment_id": "s03_l05",
           "token_index": 0,
-          "token_zazaki": "Dumilbazi",
+          "token_zazaki": "Dûmilbazi",
           "token_lerch": "Dúmilbāzi",
           "lemma": "dumilbazi",
           "glosses": [
@@ -4851,7 +4847,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "eru",
+          "value": "erû",
           "count": 4
         },
         {
@@ -4880,7 +4876,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "degirmenci-ve-tilki",
           "segment_id": "mf05_l07",
           "token_index": 6,
-          "token_zazaki": "eru",
+          "token_zazaki": "erû",
           "token_lerch": "é̱ru,",
           "lemma": "eru",
           "glosses": [
@@ -4891,7 +4887,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "degirmenci-ve-tilki",
           "segment_id": "mf05_l08",
           "token_index": 11,
-          "token_zazaki": "eru",
+          "token_zazaki": "erû",
           "token_lerch": "é̱ru,",
           "lemma": "eru",
           "glosses": [
@@ -4902,7 +4898,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "uc-kardes-masali",
           "segment_id": "tb09_l04",
           "token_index": 0,
-          "token_zazaki": "eru",
+          "token_zazaki": "erû",
           "token_lerch": "é̱ru,",
           "lemma": "eru",
           "glosses": [
@@ -6823,7 +6819,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "kunaği",
+          "value": "kûnaği",
           "count": 3
         },
         {
@@ -6848,7 +6844,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "degirmenci-ve-tilki",
           "segment_id": "mf04_l08",
           "token_index": 2,
-          "token_zazaki": "kunaği",
+          "token_zazaki": "kûnaği",
           "token_lerch": "kunáγi",
           "lemma": "kunagi",
           "glosses": []
@@ -6857,7 +6853,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h04_l06",
           "token_index": 1,
-          "token_zazaki": "kunaği",
+          "token_zazaki": "kûnaği",
           "token_lerch": "kunáγi",
           "lemma": "kunagi",
           "glosses": [
@@ -6868,7 +6864,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "uc-kardes-masali",
           "segment_id": "tb03_l02",
           "token_index": 8,
-          "token_zazaki": "kunaği",
+          "token_zazaki": "kûnaği",
           "token_lerch": "kunáγi",
           "lemma": "kunagi",
           "glosses": []
@@ -7401,7 +7397,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "bıkêru",
+          "value": "bıkêrû",
           "count": 2
         },
         {
@@ -7409,7 +7405,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "count": 1
         },
         {
-          "value": "bikêru",
+          "value": "bikêrû",
           "count": 1
         },
         {
@@ -7442,7 +7438,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "goin-puhu-kusunun-hikayesi",
           "segment_id": "g04_l02",
           "token_index": 7,
-          "token_zazaki": "bıkêru",
+          "token_zazaki": "bıkêrû",
           "token_lerch": "bi̥kéru.",
           "lemma": "bikeru",
           "glosses": [
@@ -7453,7 +7449,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "uc-kardes-masali",
           "segment_id": "tb01_l08",
           "token_index": 7,
-          "token_zazaki": "bikêru",
+          "token_zazaki": "bikêrû",
           "token_lerch": "bikeru.",
           "lemma": "bikeru",
           "glosses": [
@@ -7464,7 +7460,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "uc-kardes-masali",
           "segment_id": "tb07_l12",
           "token_index": 9,
-          "token_zazaki": "bıkêru",
+          "token_zazaki": "bıkêrû",
           "token_lerch": "bi̥kéru,",
           "lemma": "bikeru",
           "glosses": [
@@ -8049,7 +8045,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "merdu",
+          "value": "merdû",
           "count": 3
         },
         {
@@ -8078,7 +8074,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "degirmenci-ve-tilki",
           "segment_id": "mf05_l07",
           "token_index": 7,
-          "token_zazaki": "merdu",
+          "token_zazaki": "merdû",
           "token_lerch": "mé̱rdu.",
           "lemma": "merdu",
           "glosses": [
@@ -8089,7 +8085,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "degirmenci-ve-tilki",
           "segment_id": "mf05_l09",
           "token_index": 0,
-          "token_zazaki": "merdu",
+          "token_zazaki": "merdû",
           "token_lerch": "mé̱rdu.",
           "lemma": "merdu",
           "glosses": [
@@ -8100,7 +8096,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "goin-puhu-kusunun-hikayesi",
           "segment_id": "g04_l07",
           "token_index": 4,
-          "token_zazaki": "merdu",
+          "token_zazaki": "merdû",
           "token_lerch": "mé̱rdu.",
           "lemma": "merdu",
           "glosses": [
@@ -9716,7 +9712,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "erşawut",
+          "value": "erşawût",
           "count": 3
         },
         {
@@ -9741,7 +9737,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h04_l07",
           "token_index": 2,
-          "token_zazaki": "erşawut",
+          "token_zazaki": "erşawût",
           "token_lerch": "e̱ršau’út",
           "lemma": "ersauut",
           "glosses": [
@@ -9752,7 +9748,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h04_l07",
           "token_index": 7,
-          "token_zazaki": "erşawut",
+          "token_zazaki": "erşawût",
           "token_lerch": "e̱ršau’út",
           "lemma": "ersauut",
           "glosses": [
@@ -9763,7 +9759,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h06_l02",
           "token_index": 3,
-          "token_zazaki": "erşawut",
+          "token_zazaki": "erşawût",
           "token_lerch": "e̱ršau’út",
           "lemma": "ersauut",
           "glosses": [
@@ -10763,7 +10759,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "muqaytê",
+          "value": "mûqaytê",
           "count": 3
         },
         {
@@ -10788,7 +10784,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h02_l07",
           "token_index": 9,
-          "token_zazaki": "muqaytê",
+          "token_zazaki": "mûqaytê",
           "token_lerch": "muqaíte",
           "lemma": "muqaite",
           "glosses": [
@@ -10799,7 +10795,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h02_l10",
           "token_index": 5,
-          "token_zazaki": "muqaytê",
+          "token_zazaki": "mûqaytê",
           "token_lerch": "muqaíte",
           "lemma": "muqaite",
           "glosses": [
@@ -10810,7 +10806,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h04_l03",
           "token_index": 6,
-          "token_zazaki": "muqaytê",
+          "token_zazaki": "mûqaytê",
           "token_lerch": "muqaíte",
           "lemma": "muqaite",
           "glosses": [
@@ -10975,7 +10971,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "qamuk",
+          "value": "qamûk",
           "count": 3
         },
         {
@@ -11000,7 +10996,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h05_l03",
           "token_index": 3,
-          "token_zazaki": "qamuk",
+          "token_zazaki": "qamûk",
           "token_lerch": "qā́muk",
           "lemma": "qamuk",
           "glosses": [
@@ -11011,7 +11007,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h05_l03",
           "token_index": 6,
-          "token_zazaki": "qamuk",
+          "token_zazaki": "qamûk",
           "token_lerch": "qā́muk",
           "lemma": "qamuk",
           "glosses": [
@@ -11022,7 +11018,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h05_l03",
           "token_index": 9,
-          "token_zazaki": "qamuk",
+          "token_zazaki": "qamûk",
           "token_lerch": "qā́muk",
           "lemma": "qamuk",
           "glosses": [
@@ -11406,7 +11402,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "sıpyerdışu",
+          "value": "sıpyerdışû",
           "count": 2
         },
         {
@@ -11414,7 +11410,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "count": 1
         },
         {
-          "value": "Sıpyerdışu",
+          "value": "Sıpyerdışû",
           "count": 1
         },
         {
@@ -11443,7 +11439,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "gespraech-mit-hassan",
           "segment_id": "h02_l01",
           "token_index": 2,
-          "token_zazaki": "sıpyerdışu",
+          "token_zazaki": "sıpyerdışû",
           "token_lerch": "si̥pye̱rdí̥šu",
           "lemma": "sipyerdisu",
           "glosses": [
@@ -11454,7 +11450,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "gespraech-mit-hassan",
           "segment_id": "h02_l02",
           "token_index": 0,
-          "token_zazaki": "Sıpyerdışu",
+          "token_zazaki": "Sıpyerdışû",
           "token_lerch": "Si̥pye̱rdí̥šu",
           "lemma": "sipyerdisu",
           "glosses": [
@@ -11465,7 +11461,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "gespraech-mit-hassan",
           "segment_id": "h02_l03",
           "token_index": 2,
-          "token_zazaki": "sıpyerdışu",
+          "token_zazaki": "sıpyerdışû",
           "token_lerch": "si̥pye̱rdí̥šu.",
           "lemma": "sipyerdisu",
           "glosses": [
@@ -11702,7 +11698,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "weşu",
+          "value": "weşû",
           "count": 3
         },
         {
@@ -11731,7 +11727,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "goin-puhu-kusunun-hikayesi",
           "segment_id": "g02_l12",
           "token_index": 6,
-          "token_zazaki": "weşu",
+          "token_zazaki": "weşû",
           "token_lerch": "wé̱šu,",
           "lemma": "wesu",
           "glosses": [
@@ -11742,7 +11738,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "goin-puhu-kusunun-hikayesi",
           "segment_id": "g03_l09",
           "token_index": 3,
-          "token_zazaki": "weşu",
+          "token_zazaki": "weşû",
           "token_lerch": "wé̱šu.",
           "lemma": "wesu",
           "glosses": [
@@ -11753,7 +11749,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "goin-puhu-kusunun-hikayesi",
           "segment_id": "g03_l10",
           "token_index": 10,
-          "token_zazaki": "weşu",
+          "token_zazaki": "weşû",
           "token_lerch": "wé̱šu,",
           "lemma": "wesu",
           "glosses": [
@@ -12192,7 +12188,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "bêdu",
+          "value": "bêdû",
           "count": 2
         },
         {
@@ -12221,7 +12217,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "degirmenci-ve-tilki",
           "segment_id": "mf04_l05",
           "token_index": 1,
-          "token_zazaki": "bêdu",
+          "token_zazaki": "bêdû",
           "token_lerch": "bedú.",
           "lemma": "bedu",
           "glosses": []
@@ -12230,7 +12226,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-sivani",
           "segment_id": "s04_l09",
           "token_index": 4,
-          "token_zazaki": "bêdu",
+          "token_zazaki": "bêdû",
           "token_lerch": "bedú,",
           "lemma": "bedu",
           "glosses": [
@@ -12325,10 +12321,14 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       "variants": [
         {
           "value": "bêru",
-          "count": 2
+          "count": 1
         },
         {
           "value": "béru",
+          "count": 1
+        },
+        {
+          "value": "bêrû",
           "count": 1
         },
         {
@@ -12368,7 +12368,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-sivani",
           "segment_id": "s01_l04",
           "token_index": 0,
-          "token_zazaki": "bêru",
+          "token_zazaki": "bêrû",
           "token_lerch": "bér’u.",
           "lemma": "beru",
           "glosses": [
@@ -12458,11 +12458,15 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "byu",
+          "value": "byû",
           "count": 2
         },
         {
           "value": "byu,",
+          "count": 1
+        },
+        {
+          "value": "byu",
           "count": 1
         }
       ],
@@ -12487,7 +12491,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "degirmenci-ve-tilki",
           "segment_id": "mf05_l08",
           "token_index": 9,
-          "token_zazaki": "byu",
+          "token_zazaki": "byû",
           "token_lerch": "byu,",
           "lemma": "byu",
           "glosses": [
@@ -12498,7 +12502,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h05_l03",
           "token_index": 4,
-          "token_zazaki": "byu",
+          "token_zazaki": "byû",
           "token_lerch": "byu",
           "lemma": "byu",
           "glosses": [
@@ -12686,7 +12690,11 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       "gloss_hints": [
         {
           "value": "women",
-          "count": 2
+          "count": 1
+        },
+        {
+          "value": "herds",
+          "count": 1
         }
       ],
       "examples": [
@@ -12709,7 +12717,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "token_lerch": "d̮īne",
           "lemma": "dine",
           "glosses": [
-            "women"
+            "herds"
           ]
         }
       ]
@@ -12931,7 +12939,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "destru",
+          "value": "destrû",
           "count": 2
         },
         {
@@ -12960,7 +12968,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h09_l09",
           "token_index": 1,
-          "token_zazaki": "destru",
+          "token_zazaki": "destrû",
           "token_lerch": "dé̱stru.",
           "lemma": "destru",
           "glosses": [
@@ -12971,7 +12979,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-sivani",
           "segment_id": "s06_l02",
           "token_index": 5,
-          "token_zazaki": "destru",
+          "token_zazaki": "destrû",
           "token_lerch": "dé̱stru,",
           "lemma": "destru",
           "glosses": [
@@ -13656,7 +13664,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "nyêvêrdanu",
+          "value": "nyêvêrdanû",
           "count": 1
         },
         {
@@ -13664,7 +13672,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "count": 1
         },
         {
-          "value": "nyêverdanu",
+          "value": "nyêverdanû",
           "count": 1
         },
         {
@@ -13693,7 +13701,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-sivani",
           "segment_id": "s04_l03",
           "token_index": 7,
-          "token_zazaki": "nyêvêrdanu",
+          "token_zazaki": "nyêvêrdanû",
           "token_lerch": "ńeverdā́nu.",
           "lemma": "ne-",
           "glosses": [
@@ -13705,7 +13713,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "uc-kardes-masali",
           "segment_id": "tb07_l09",
           "token_index": 0,
-          "token_zazaki": "nyêverdanu",
+          "token_zazaki": "nyêverdanû",
           "token_lerch": "ńeve̱rdā́nu,",
           "lemma": "ne-",
           "glosses": [
@@ -14257,7 +14265,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "sênyênu",
+          "value": "sênyênû",
           "count": 2
         },
         {
@@ -14290,7 +14298,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "gespraech-mit-hassan",
           "segment_id": "h01_l01",
           "token_index": 2,
-          "token_zazaki": "sênyênu",
+          "token_zazaki": "sênyênû",
           "token_lerch": "seńén’u?",
           "lemma": "senenu",
           "glosses": [
@@ -14301,7 +14309,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h04_l09",
           "token_index": 9,
-          "token_zazaki": "sênyênu",
+          "token_zazaki": "sênyênû",
           "token_lerch": "seńén’u,",
           "lemma": "senenu",
           "glosses": [
@@ -14326,7 +14334,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "taburê",
+          "value": "tabûrê",
           "count": 2
         },
         {
@@ -14355,7 +14363,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-hyeni",
           "segment_id": "h08_l05",
           "token_index": 6,
-          "token_zazaki": "taburê",
+          "token_zazaki": "tabûrê",
           "token_lerch": "tā́bure",
           "lemma": "tabure",
           "glosses": [
@@ -14366,7 +14374,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-sivani",
           "segment_id": "s04_l12",
           "token_index": 7,
-          "token_zazaki": "taburê",
+          "token_zazaki": "tabûrê",
           "token_lerch": "tā́bure",
           "lemma": "tabure",
           "glosses": [
@@ -14793,7 +14801,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
       ],
       "variants": [
         {
-          "value": "wazênu",
+          "value": "wazênû",
           "count": 2
         },
         {
@@ -14826,7 +14834,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "kauge-nyerib-u-sivani",
           "segment_id": "s05_l09",
           "token_index": 2,
-          "token_zazaki": "wazênu",
+          "token_zazaki": "wazênû",
           "token_lerch": "wazén’u",
           "lemma": "wastene",
           "glosses": [
@@ -14838,7 +14846,7 @@ window.LERCH_GLOSSARY_CANDIDATES = {
           "text_slug": "uc-kardes-masali",
           "segment_id": "tb07_l04",
           "token_index": 2,
-          "token_zazaki": "wazênu",
+          "token_zazaki": "wazênû",
           "token_lerch": "wazén’u",
           "lemma": "wastene",
           "glosses": [

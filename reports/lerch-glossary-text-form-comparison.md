@@ -1,6 +1,6 @@
 # Lerch Text Forms vs Local Glossary Comparison
 
-Generated: 2026-05-19
+Generated: 2026-05-21
 
 ## Scope
 
@@ -73,7 +73,7 @@ These are good candidates for glossary review/addition because they are frequent
 | beg | 7 | 2 | beg; be̱g; Beg; Be̱g | Beg, title; Beg | gespraech-mit-hassan:h02_l01:1 Beg = Beg |
 | vist | 7 | 2 | vist; vīst; vīst; Vist | twenty | kauge-nyerib-u-hyeni:h06_l09:10 vist = twenty |
 | begiri | 7 | 1 | begiri; bé̱giri; bé̱giri. | Beg; GOAL/RECIP | kauge-nyerib-u-hyeni:h03_l08:3 begiri = Beg; GOAL/RECIP |
-| bu | 6 | 2 | bu; bu,; bu.; bū. | be | goin-puhu-kusunun-hikayesi:g02_l09:6 bu = be |
+| bu | 6 | 2 | bû; bu,; bu.; bū. | be | goin-puhu-kusunun-hikayesi:g02_l09:6 bû = be |
 | cina | 6 | 2 | çına; t̮í̥na; çina; t̮ína, | cuts; is not there | goin-puhu-kusunun-hikayesi:g04_l05:9 çına = is not there |
 | lawna | 6 | 2 | lawna; launā́; launā | kissed | kauge-nyerib-u-hyeni:h09_l08:3 lawna = kissed |
 | kici | 6 | 1 | kıci; ki̥d̮i; kí̥d̮i | small | uc-kardes-masali:tb01_l01:9 kıci = small |
@@ -89,24 +89,24 @@ These are good candidates for glossary review/addition because they are frequent
 | bikeri | 5 | 2 | bıkêri; bi̥kéri.; bi̥kéri,; bi̥kérí, | CONJ/FUT; fight/do | kauge-nyerib-u-hyeni:h02_l12:3 bıkêri = CONJ/FUT; fight/do |
 | esker | 5 | 2 | eskêr; e̱skér; e̱skér; Eskêr | army; soldier | ali-agha-ladi-kelhani:a02_l07:8 eskêr = soldier |
 | simsyeri | 5 | 2 | şimşyêri; šimšyẹ̄́ri; şımşyêri; ši̥mšyẹ̄́ri | sword | kauge-nyerib-u-hyeni:h02_l01:7 şımşyêri = sword |
-| byaru | 5 | 1 | byaru; biáru. | bring | uc-kardes-masali:tb03_l11:2 byaru = bring |
-| eystu | 5 | 1 | êyştu; eíštu | threw | goin-puhu-kusunun-hikayesi:g02_l07:0 êyştu = threw |
+| byaru | 5 | 1 | byarû; biáru. | bring | uc-kardes-masali:tb03_l11:2 byarû = bring |
+| eystu | 5 | 1 | êyştû; eíštu | threw | goin-puhu-kusunun-hikayesi:g02_l07:0 êyştû = threw |
 | kawgaw | 5 | 1 | kawğaw; kauγaú.; kauγaú, | fought | kauge-nyerib-u-hyeni:h03_l04:2 kawğaw = fought |
 | laceki | 5 | 1 | lacêki; lā́d̮eki; lā́d̮eki | of the boy | goin-puhu-kusunun-hikayesi:g03_l05:3 lacêki = of the boy |
 | nost | 5 | 1 | noşt; no̤št,; no̤št:; nošt, | wrote | uc-kardes-masali:tb03_l01:6 noşt = wrote |
-| nostu | 5 | 1 | noştu; nó̤štu; no̤štu; no̤štu, | wrote | uc-kardes-masali:tb03_l05:10 noştu = wrote |
+| nostu | 5 | 1 | noştû; nó̤štu; no̤štu; no̤štu, | wrote | uc-kardes-masali:tb03_l05:10 noştû = wrote |
 | taalan | 5 | 1 | taalan; tá’alan | plunder | kauge-nyerib-u-sivani:s03_l11:12 taalan = plunder |
 | sebah | 4 | 4 | sêbah; Sêbah; sebáh; Sebáh | morning | degirmenci-ve-tilki:mf01_l03:0 sêbah = morning |
-| su | 4 | 4 | şu; šu; šu; su | went; shepherds- | degirmenci-ve-tilki:mf05_l08:5 şu = went |
+| su | 4 | 4 | şû; šu; šu; sû | went; shepherds- | degirmenci-ve-tilki:mf05_l08:5 şû = went |
 | vinde | 4 | 4 | vındê; vindê; vínde,; ví̥nde. | stay | degirmenci-ve-tilki:mf04_l14:4 vindê = stay |
 | bigi | 4 | 3 | bıgi; bi̥ǵí,; bigi; bigí, | CONJ/FUT; lead/take | degirmenci-ve-tilki:mf05_l03:3 bigi = CONJ/FUT; lead/take |
 | cewi | 4 | 3 | çewi; t̮é̱wi; t̮é̱wi; t̮é̱wi | no one | ali-agha-ladi-kelhani:a01_l03:6 çewi = no one |
 | gerawte | 4 | 3 | gêrawtê; geraúte; geraúte; geraúte, | took | ali-agha-ladi-kelhani:a04_l01:9 gêrawtê = took |
-| lingeru | 4 | 3 | lingêru; língeru.; língeru,; líṅgeru | feet | degirmenci-ve-tilki:mf05_l01:2 lingêru = feet |
+| lingeru | 4 | 3 | lingêrû; língeru.; língeru,; líṅgeru | feet | degirmenci-ve-tilki:mf05_l01:2 lingêrû = feet |
 | teber | 4 | 3 | tebêr; te̱bér,; te̱bér, | outside | ali-agha-ladi-kelhani:a03_l06:8 tebêr = outside |
 | akerd | 4 | 2 | akêrd; akerd; ākérd,; āké̱rd, | opened | kauge-nyerib-u-sivani:s01_l03:3 akêrd = opened |
-| dumilbazi | 4 | 2 | dümilbazi; dṳ́milbā́zi; dumilbazi; dúmilbā́zi | drum | kauge-nyerib-u-hyeni:h04_l11:5 dumilbazi = drum |
-| eru | 4 | 2 | eru; é̱ru,; é̱ru. | earth | degirmenci-ve-tilki:mf05_l07:6 eru = earth |
+| dumilbazi | 4 | 2 | dümilbazi; dṳ́milbā́zi; dûmilbazi; dúmilbā́zi | drum | kauge-nyerib-u-hyeni:h04_l11:5 dûmilbazi = drum |
+| eru | 4 | 2 | erû; é̱ru,; é̱ru. | earth | degirmenci-ve-tilki:mf05_l07:6 erû = earth |
 | ka | 4 | 2 | ka; ka-; ka, | would | kauge-nyerib-u-sivani:s05_l14:2 ka = would |
 | qamek | 4 | 2 | qamêk; qā́mek; qāmek; qā́meḱ | some; whoever | degirmenci-ve-tilki:mf04_l05:3 qamêk = some |
 | teni | 4 | 2 | teni; té̱ni; têni; tén’i | persons | ali-agha-ladi-kelhani:a04_l04:9 teni = persons |

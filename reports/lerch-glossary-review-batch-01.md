@@ -1,6 +1,6 @@
 # Lerch Glossary Review Batch 01
 
-Generated: 2026-05-19
+Generated: 2026-05-21
 
 ## Scope
 
@@ -13,8 +13,8 @@ Generated: 2026-05-19
 ## Batch Counts
 
 - Rows in batch: 90
-- review_lower_priority: 25
-- likely_add_or_merge: 22
+- review_lower_priority: 26
+- likely_add_or_merge: 21
 - review_high_value: 13
 - review_against_existing: 13
 - likely_merge_existing: 9
@@ -54,15 +54,14 @@ Generated: 2026-05-19
 | rez | likely_add_or_merge | rez | 5 | 2 | vineyard, vine |  | gespraech-mit-hassan:h02_l12:1 |
 | simsyeri | likely_merge_existing | simsyeri | 5 | 2 | sword | SimSyßr [lerch_glossary_p210_r0367:entry]: Schwert. Vgl. Krm. sür, syür. | kauge-nyerib-u-hyeni:h02_l01:7 |
 | deni | likely_add_or_merge | deni | 5 | 1 | woman |  | goin-puhu-kusunun-hikayesi:g01_l02:8 |
-| laser | likely_add_or_merge | laser | 5 | 1 | flood |  | degirmenci-ve-tilki:mf02_l14:5 |
 | bi | merge_or_function_entry | bi | 72 | 6 | CONJ/FUT; give; bring |  | ali-agha-ladi-kelhani:a01_l08:2 |
 | ne | merge_or_function_entry | ne | 40 | 7 | NEG; spare/leave; not |  | ali-agha-ladi-kelhani:a01_l03:5 |
 | de | merge_or_function_entry | de | 12 | 4 | in; to him |  | ali-agha-ladi-kelhani:a03_l06:5 |
 | na | merge_or_function_entry | na | 12 | 4 | ended; not |  | goin-puhu-kusunun-hikayesi:g03_l02:1 |
 | we | merge_or_function_entry | we | 5 | 5 | out-; let; and |  | ali-agha-ladi-kelhani:a04_l10:10 |
 | ge | merge_or_function_entry | ge | 5 | 4 | put on; go; occasion- |  | degirmenci-ve-tilki:mf03_l13:4 |
+| la | merge_or_function_entry | la | 5 | 4 | but-; flood |  | degirmenci-ve-tilki:mf03_l01:3 |
 | ka | merge_or_function_entry | ka | 4 | 2 | would |  | kauge-nyerib-u-sivani:s05_l14:2 |
-| la | merge_or_function_entry | la | 3 | 3 | but- |  | goin-puhu-kusunun-hikayesi:g04_l01:5 |
 | begi | review_lower_priority | begi | 37 | 2 | Beg, title; Beg; GOAL/RECIP |  | gespraech-mit-hassan:h03_l10:9 |
 | lad | review_high_value | lad | 21 | 4 | son; EZ/GEN; PL |  | ali-agha-ladi-kelhani:a01_l01:2 |
 | tera | review_high_value | tera | 10 | 5 | from; with; off |  | degirmenci-ve-tilki:mf04_l13:7 |
@@ -74,6 +73,7 @@ Generated: 2026-05-19
 | suena | review_high_value | suena | 7 | 3 | I go; goes |  | degirmenci-ve-tilki:mf05_l04:5 |
 | beg | review_lower_priority | beg | 7 | 2 | Beg, title; Beg |  | gespraech-mit-hassan:h02_l01:1 |
 | wida | review_high_value | wida | 6 | 4 | there; at once; immediately |  | degirmenci-ve-tilki:mf03_l04:3 |
+| ameia | review_high_value | ameia | 6 | 3 | I came; came |  | degirmenci-ve-tilki:mf03_l04:7 |
 
 ## Files
 

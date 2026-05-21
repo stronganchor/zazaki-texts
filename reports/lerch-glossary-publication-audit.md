@@ -1,6 +1,6 @@
 # Lerch Glossary Publication Audit
 
-Generated: 2026-05-19
+Generated: 2026-05-21
 
 ## Scope
 
