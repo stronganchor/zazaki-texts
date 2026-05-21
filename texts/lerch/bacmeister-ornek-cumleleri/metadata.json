@@ -1,0 +1,21 @@
+{
+  "id": "lerch-bacmeister-ornek-cumleleri",
+  "title": "Bacmeister Örnek Cümleleri",
+  "title_lerch": "Uebersetzung der \"Sprachproben\" Bacmeisters in die kurdischen Mundarten Kurmandi und Zaza",
+  "author_collector": "Peter Lerch",
+  "language": "Zazaki",
+  "dialect_region_note": "Short elicited Zaza sentence samples from Lerch's Roslavl materials.",
+  "status": "reviewed working edition",
+  "line_count": 44,
+  "token_count": 0,
+  "lltools_payload": "text-document.json",
+  "reviewed_transcription_synced_at": "2026-05-21",
+  "publication": {
+    "public_summary_tr": "Lerch'in Bacmeister'in dil örneklerinden hareketle Kurmanci ve Zaza için yazdığı 44 kısa örnek cümle. Zaza sütunu Lerch'in tarihî ses yazımıyla korunmuştur.",
+    "content_warning_tr": "",
+    "people_tr": "",
+    "places_tr": "",
+    "historical_context_tr": "Bu bölüm anlatı metni değil, kısa örnek cümlelerden oluşan bir dil malzemesidir. Lerch, Bacmeister'in örneklerini önce Türkçeye çevirip sonra Kürt konuşurlara Kurmanci ve Zaza karşılıklarını söylettiğini açıklar.",
+    "editorial_note_tr": "Zaza cümleleri modern yazıma çevrilmeden, Lerch'in tarihî fonetik yazımıyla verilir. Not satırları, tanık farklarını veya kaynakta görünen muhtemel yazım/transkripsiyon hatalarını belirtir."
+  }
+}

@@ -1,0 +1,2543 @@
+{
+  "schema": "ll_tools_text_document.v1",
+  "kind": "corpus_text",
+  "lesson_id": "lerch-bacmeister-ornek-cumleleri",
+  "title": "Bacmeister Örnek Cümleleri",
+  "source_label": "Zaza (Lerch yazımı)",
+  "translations": {
+    "tr": {
+      "label": "Turkish"
+    },
+    "en": {
+      "label": "English"
+    },
+    "de": {
+      "label": "German"
+    }
+  },
+  "metadata": {
+    "collection": "lerch",
+    "collection_label": "Peter Lerch Metinleri",
+    "excerpt": "Lerch'in Bacmeister'in dil örneklerinden hareketle Kurmanci ve Zaza için yazdığı 44 kısa örnek cümle. Zaza sütunu Lerch'in tarihî ses yazımıyla korunmuştur.",
+    "source_author": "Peter Lerch",
+    "source_work": "Forschungen über die Kurden und die iranischen Nordchaldäer / Russian original Zazaki transcriptions",
+    "story_title_lerch": "Uebersetzung der \"Sprachproben\" Bacmeisters in die kurdischen Mundarten Kurmandi und Zaza",
+    "story_title_modern_zazaki": "Bacmeister Örnek Cümleleri",
+    "working_status": "reviewed working edition; not final critical edition",
+    "created_from": "C:\\Users\\messy\\OneDrive\\Documents\\Language\\Z\\Dictionaries\\Lerch\\translation_project\\lerch\\appendix_bacmeister_sentence_samples\\bacmeister_sentence_samples_transcription_translation_draft.md",
+    "exported_at": "2026-05-21",
+    "reader_unit": "sample_sentence",
+    "publication": {
+      "public_summary_tr": "Lerch'in Bacmeister'in dil örneklerinden hareketle Kurmanci ve Zaza için yazdığı 44 kısa örnek cümle. Zaza sütunu Lerch'in tarihî ses yazımıyla korunmuştur.",
+      "content_warning_tr": "",
+      "people_tr": "",
+      "places_tr": "",
+      "historical_context_tr": "Bu bölüm anlatı metni değil, kısa örnek cümlelerden oluşan bir dil malzemesidir. Lerch, Bacmeister'in örneklerini önce Türkçeye çevirip sonra Kürt konuşurlara Kurmanci ve Zaza karşılıklarını söylettiğini açıklar.",
+      "editorial_note_tr": "Zaza cümleleri modern yazıma çevrilmeden, Lerch'in tarihî fonetik yazımıyla verilir. Not satırları, tanık farklarını veya kaynakta görünen muhtemel yazım/transkripsiyon hatalarını belirtir."
+    }
+  },
+  "summary": {
+    "lines": 44,
+    "source_lines": 44,
+    "reading_units": 44,
+    "tokens": 0
+  },
+  "witnesses": [
+    {
+      "label": "Russian original edition",
+      "citation": "Lerch, Peter Ivanovich. Izsledovaniia ob iranskikh kurdakh i ikh predkakh, severnykh khaldeiakh. Vol. 2. St. Petersburg: Imperial Academy of Sciences, 1856. Bacmeister sentence samples, printed pp. 41-44.",
+      "pages": "Russian Book II viewer pages 55-58; printed pp. 41-44.",
+      "note": "Primary scan witness for the Zaza column in Lerch's historical orthography.",
+      "urls": [
+        {
+          "label": "RGO catalog record",
+          "url": "https://elib.rgo.ru/handle/123456789/218398"
+        }
+      ]
+    },
+    {
+      "label": "German edition / reprint scan",
+      "citation": "Lerch, Peter. Forschungen über die Kurden und die iranischen Nordchaldäer. Abth. 1. St. Petersburg: Kaiserliche Akademie der Wissenschaften, 1857. Bacmeister sentence samples, pp. 1-4 of the text section.",
+      "pages": "German reprint pages 45-48 in the local rendered scan set.",
+      "note": "Used as a second scan witness and for Lerch's German glosses.",
+      "urls": [
+        {
+          "label": "Internet Archive item",
+          "url": "https://archive.org/details/bub_gb_WlGVYoEkr7sC"
+        }
+      ]
+    }
+  ],
+  "reading_units": [
+    {
+      "id": "u01",
+      "source": "Aláh ńe merén’u.",
+      "translations": {
+        "tr": "Tanrı ölmez.",
+        "en": "God does not die.",
+        "de": "Gott stirbt nicht."
+      },
+      "source_line_ids": [
+        "bacmeister_row_01"
+      ]
+    },
+    {
+      "id": "u02",
+      "source": "Mē̱rdṳ́m é̱meri yai qílmu.",
+      "translations": {
+        "tr": "İnsan uzun yaşamaz.",
+        "en": "A human being does not live long.",
+        "de": "Der Mensch lebt nicht lange."
+      },
+      "source_line_ids": [
+        "bacmeister_row_02"
+      ]
+    },
+    {
+      "id": "u03",
+      "source": "Daíke eílāne (eílekāni) χóe zāf sinén’a.",
+      "translations": {
+        "tr": "Anne çocuklarını sever.",
+        "en": "The mother loves her children.",
+        "de": "Die Mutter liebt ihre Kinder."
+      },
+      "source_line_ids": [
+        "bacmeister_row_03"
+      ]
+    },
+    {
+      "id": "u04",
+      "source": "T̮íd̮e̱ yai zāf šid é̱stu.",
+      "translations": {
+        "tr": "Göğüslerinde çok süt vardır.",
+        "en": "She has much milk in her breasts.",
+        "de": "Sie hat viel Milch in den Brüsten."
+      },
+      "source_line_ids": [
+        "bacmeister_row_04"
+      ]
+    },
+    {
+      "id": "u05",
+      "source": "Myẹ̄́rde yai h̔as kén’u.",
+      "translations": {
+        "tr": "Kocası onu sever.",
+        "en": "Her husband loves her.",
+        "de": "Ihr Mann liebt sie."
+      },
+      "source_line_ids": [
+        "bacmeister_row_05"
+      ]
+    },
+    {
+      "id": "u06",
+      "source": "Ā́ya d̮éni hé̱mle̱ya.",
+      "translations": {
+        "tr": "Bu kadın hamileydi (çeviride: \"hamiledir\").",
+        "en": "This woman was pregnant (in the translation: \"is pregnant\").",
+        "de": "Diese Frau war schwanger (in der Uebers.: \"ist schw.\")."
+      },
+      "source_line_ids": [
+        "bacmeister_row_06"
+      ]
+    },
+    {
+      "id": "u07",
+      "source": "Še̱š rṓd̮e yau lād̮ ārd.",
+      "translations": {
+        "tr": "Altı gün önce bir oğul doğurdu.",
+        "en": "Six days ago she gave birth to a son.",
+        "de": "Vor sechs Tagen hat sie einen Sohn geboren."
+      },
+      "source_line_ids": [
+        "bacmeister_row_07"
+      ]
+    },
+    {
+      "id": "u08",
+      "source": "Dáh̔a ńe wé̱ša.",
+      "translations": {
+        "tr": "Hâlâ hastadır.",
+        "en": "She is still sick.",
+        "de": "Sie ist noch krank."
+      },
+      "source_line_ids": [
+        "bacmeister_row_08"
+      ]
+    },
+    {
+      "id": "u09",
+      "source": "Keína yai h̔e̱t rúeništa bermén’a.",
+      "translations": {
+        "tr": "Kızı yanında oturur ve ağlar.",
+        "en": "Her daughter sits beside her and cries.",
+        "de": "Ihre Tochter sitzt bei ihr und weint."
+      },
+      "source_line_ids": [
+        "bacmeister_row_09"
+      ]
+    },
+    {
+      "id": "u10",
+      "source": "Lā́d̮e t̮íd̮e ńe wén’u.",
+      "translations": {
+        "tr": "Çocuk emmek istemez.",
+        "en": "The child does not want to suckle.",
+        "de": "Das Kind will nicht saugen."
+      },
+      "source_line_ids": [
+        "bacmeister_row_10"
+      ]
+    },
+    {
+      "id": "u11",
+      "source": "Keína hé̱m’a pai ńe šuén’a.",
+      "translations": {
+        "tr": "Kız henüz yürüyemez.",
+        "en": "The girl cannot yet walk.",
+        "de": "Das Mädchen kann noch nicht gehen."
+      },
+      "source_line_ids": [
+        "bacmeister_row_11"
+      ]
+    },
+    {
+      "id": "u12",
+      "source": "Yau sé̱re di̥ ā́šme bía.",
+      "translations": {
+        "tr": "Bir yıl iki ay önce doğdu.",
+        "en": "She was born one year and two months ago.",
+        "de": "Sie ist vor einem Jahre und zwei Monaten geboren."
+      },
+      "source_line_ids": [
+        "bacmeister_row_12"
+      ]
+    },
+    {
+      "id": "u13",
+      "source": "Ḗ̱n’ie t̮ehér hé̱m’e lā́d̮i wé̱ši.",
+      "translations": {
+        "tr": "Bu dört oğlanın hepsi sağlıklıdır.",
+        "en": "These four boys are all healthy.",
+        "de": "Diese vier Knaben sind alle gesund."
+      },
+      "source_line_ids": [
+        "bacmeister_row_13"
+      ]
+    },
+    {
+      "id": "u14",
+      "source": "Yau ve̱rī́e vāz dāmu, aúe díene perén’u (kai kén’u), aúe h̔irī́ne lauk vā́nu, aúe t̮eherī́ne h̔o̤wén’u.",
+      "translations": {
+        "tr": "Birincisi koşar, ikincisi zıplar, üçüncüsü şarkı söyler, dördüncüsü güler.",
+        "en": "The first runs, the second jumps, the third sings, the fourth laughs.",
+        "de": "Der erste läuft, der zweite springt, der dritte singt, der vierte lacht."
+      },
+      "source_line_ids": [
+        "bacmeister_row_14"
+      ]
+    },
+    {
+      "id": "u15",
+      "source": "Ḗ̱n’oe me̱rdúm t̮i̥mi yai (d̮ai) kṓri.",
+      "translations": {
+        "tr": "Bu adam kördür.",
+        "en": "This man is blind.",
+        "de": "Dieser Mann ist blind."
+      },
+      "source_line_ids": [
+        "bacmeister_row_15"
+      ]
+    },
+    {
+      "id": "u16",
+      "source": "D̮éniai yai (d̮ai) ké̱ra.",
+      "translations": {
+        "tr": "Karısı sağırdır.",
+        "en": "His wife is deaf.",
+        "de": "Seine Frau ist taub."
+      },
+      "source_line_ids": [
+        "bacmeister_row_16"
+      ]
+    },
+    {
+      "id": "u17",
+      "source": "Vé̱ngi me̱ (Sé̱ki ma vā́d̮i) ńéšna wén’a.",
+      "translations": {
+        "tr": "Konuştuğumuzu duymaz.",
+        "en": "She does not hear that we are speaking.",
+        "de": "Sie hört nicht, dass wir reden."
+      },
+      "source_line_ids": [
+        "bacmeister_row_17"
+      ]
+    },
+    {
+      "id": "u18",
+      "source": "Beraí tú’e pṳ́reš neiyén’u.",
+      "translations": {
+        "tr": "Erkek kardeşin hapşırıyor.",
+        "en": "Your brother sneezes.",
+        "de": "Dein Bruder niest."
+      },
+      "source_line_ids": [
+        "bacmeister_row_18"
+      ]
+    },
+    {
+      "id": "u19",
+      "source": "Wai tú’e rā kaúta.",
+      "translations": {
+        "tr": "Kız kardeşin uyuyor (çeviride: \"uyuyordu\").",
+        "en": "Your sister is sleeping (in the translation: \"slept\").",
+        "de": "Deine Schwester schläft (in d. Uebers. \"schlief.\")."
+      },
+      "source_line_ids": [
+        "bacmeister_row_19"
+      ]
+    },
+    {
+      "id": "u20",
+      "source": "Baúki ši̥má h̔ayaú rú’eništu.",
+      "translations": {
+        "tr": "Babanız uyanıktır.",
+        "en": "Your father is awake.",
+        "de": "Euer Vater ist wach."
+      },
+      "source_line_ids": [
+        "bacmeister_row_20"
+      ]
+    },
+    {
+      "id": "u21",
+      "source": "Tā́neki wén’u.",
+      "translations": {
+        "tr": "Çok az yer ve içer.",
+        "en": "He eats and drinks very little.",
+        "de": "Er isst und trinkt (sehr) wenig."
+      },
+      "source_line_ids": [
+        "bacmeister_row_21"
+      ]
+    },
+    {
+      "id": "u22",
+      "source": "Ziṅd̮ h̔a myā́ne súrotide.",
+      "translations": {
+        "tr": "Burun yüzün ortasındadır.",
+        "en": "The nose is in the middle of the face.",
+        "de": "Die Nase ist in der Mitte des Gesichts."
+      },
+      "source_line_ids": [
+        "bacmeister_row_22"
+      ]
+    },
+    {
+      "id": "u23",
+      "source": "Di̥ língi mā é̱sti, hérgu dé̱sti mā́de pāṅd̮ ingíšti é̱sti.",
+      "translations": {
+        "tr": "İki ayağımız ve her elde beş parmağımız vardır.",
+        "en": "We have two feet and five fingers on each hand.",
+        "de": "Wir haben zwei Füsse und an jeder Hand fünf Finger."
+      },
+      "source_line_ids": [
+        "bacmeister_row_23"
+      ]
+    },
+    {
+      "id": "u24",
+      "source": "Γí̥ži̥k sé̱rede yén’u.",
+      "translations": {
+        "tr": "Saç başta çıkar.",
+        "en": "Hair grows on the head.",
+        "de": "Die Haare wachsen auf dem Kopfe."
+      },
+      "source_line_ids": [
+        "bacmeister_row_24"
+      ]
+    },
+    {
+      "id": "u25",
+      "source": "Dendā́ni zuā́ṅ h̔a fé̱kde.",
+      "translations": {
+        "tr": "Dil ve dişler ağızdadır.",
+        "en": "The tongue and the teeth are in the mouth.",
+        "de": "Die Zunge und die Zähne sind in dem Munde."
+      },
+      "source_line_ids": [
+        "bacmeister_row_25"
+      ]
+    },
+    {
+      "id": "u26",
+      "source": "Dé̱stu rā́št qóatu sei dé̱sti t̮é̱pi.",
+      "translations": {
+        "tr": "Sağ kol soldan daha güçlüdür.",
+        "en": "The right arm is stronger than the left.",
+        "de": "Der rechte Arm ist stärker als der linke."
+      },
+      "source_line_ids": [
+        "bacmeister_row_26"
+      ]
+    },
+    {
+      "id": "u27",
+      "source": "Yau múye dé̱rga bāryéka.",
+      "translations": {
+        "tr": "Bir kıl uzun ve incedir.",
+        "en": "A hair is long and thin.",
+        "de": "Ein Haar ist lang und dünn."
+      },
+      "source_line_ids": [
+        "bacmeister_row_27"
+      ]
+    },
+    {
+      "id": "u28",
+      "source": "Gṓ’eni sū́ra.",
+      "translations": {
+        "tr": "Kan kırmızıdır.",
+        "en": "Blood is red.",
+        "de": "Das Blut ist roth."
+      },
+      "source_line_ids": [
+        "bacmeister_row_28"
+      ]
+    },
+    {
+      "id": "u29",
+      "source": "Éstei sei ké̱ri sā́γí.",
+      "translations": {
+        "tr": "Kemikler taş gibi serttir.",
+        "en": "Bones are hard like stone.",
+        "de": "Die Knochen sind hart wie Stein."
+      },
+      "source_line_ids": [
+        "bacmeister_row_29"
+      ]
+    },
+    {
+      "id": "u30",
+      "source": "Māsé̱de t̮ími é̱sti, gṓšye t̮íni.",
+      "translations": {
+        "tr": "Balığın gözleri vardır ama kulakları yoktur.",
+        "en": "The fish has eyes, but no ears.",
+        "de": "Der Fisch hat Augen, aber keine Ohren."
+      },
+      "source_line_ids": [
+        "bacmeister_row_30"
+      ]
+    },
+    {
+      "id": "u31",
+      "source": "Ḗ̱n’oe teir hyedíki ferén’u.",
+      "translations": {
+        "tr": "Bu kuş yavaş uçar.",
+        "en": "This bird flies slowly.",
+        "de": "Dieser Vogel fliegt langsam."
+      },
+      "source_line_ids": [
+        "bacmeister_row_31"
+      ]
+    },
+    {
+      "id": "u32",
+      "source": "Nišén’u ā́rdda.",
+      "translations": {
+        "tr": "Yere iner.",
+        "en": "It comes down to the ground.",
+        "de": "Er lässt sich zur Erde nieder."
+      },
+      "source_line_ids": [
+        "bacmeister_row_32"
+      ]
+    },
+    {
+      "id": "u33",
+      "source": "Pé̱li teíride mú’i siaí é̱sti.",
+      "translations": {
+        "tr": "Kanatlarında siyah tüyler vardır.",
+        "en": "It has black feathers in its wings.",
+        "de": "Er hat schwarze Federn in den Flügeln."
+      },
+      "source_line_ids": [
+        "bacmeister_row_33"
+      ]
+    },
+    {
+      "id": "u34",
+      "source": "Dā́rede vé̱lgō té̱ze, gíli hi̥šni é̱sti.",
+      "translations": {
+        "tr": "Ağacın yeşil yaprakları ve kalın dalları vardır.",
+        "en": "The tree has green leaves and thick branches.",
+        "de": "Der Baum hat grüne Blätter und dicke Aeste."
+      },
+      "source_line_ids": [
+        "bacmeister_row_34"
+      ]
+    },
+    {
+      "id": "u35",
+      "source": "Ē̱no’e teir nā́kure bāryék é̱sta, bṓ’et̮e qí̥lma é̱sta.",
+      "translations": {
+        "tr": "Bu kuşun sivri gagası ve kısa kuyruğu vardır.",
+        "en": "This bird has a pointed beak and a short tail.",
+        "de": "Dieser Vogel hat einen spitzen Schnabel und kurzen Schwanz."
+      },
+      "source_line_ids": [
+        "bacmeister_row_35"
+      ]
+    },
+    {
+      "id": "u36",
+      "source": "Halyẹ̄́ne wẹ̄́da h̔áki sepī́ é̱sti.",
+      "translations": {
+        "tr": "Yuvasında beyaz yumurtaları vardır.",
+        "en": "In its nest it has white eggs.",
+        "de": "In seinem Neste hat er weisse Eier."
+      },
+      "source_line_ids": [
+        "bacmeister_row_36"
+      ]
+    },
+    {
+      "id": "u37",
+      "source": "Adí̥r ve̱šén’u, du, qí̥le, ko̤mṳ́r me̱ vién’i.",
+      "translations": {
+        "tr": "Ateş yanar: dumanı, alevi ve kömürleri görürüz.",
+        "en": "The fire burns: we see the smoke, the flame, and the coals.",
+        "de": "Das Feuer brennt: wir sehen den Rauch, die Flamme und die Kohlen."
+      },
+      "source_line_ids": [
+        "bacmeister_row_37"
+      ]
+    },
+    {
+      "id": "u38",
+      "source": "É̱n’a lā́de aúke lé̱ze šuén’a.",
+      "translations": {
+        "tr": "Nehirdeki su hızlı akar.",
+        "en": "The water in the river flows quickly.",
+        "de": "Das Wasser in dem Flusse fliesst geschwinde."
+      },
+      "source_line_ids": [
+        "bacmeister_row_38"
+      ]
+    },
+    {
+      "id": "u39",
+      "source": "Āšme e̱stárera pī́la, rṓd̮era qí̮d̮a.",
+      "translations": {
+        "tr": "Ay yıldızlardan büyüktür ve güneşten küçüktür.",
+        "en": "The moon is larger than the stars and smaller than the sun.",
+        "de": "Der Mond ist grösser als die Sterne und kleiner als die Sonne."
+      },
+      "source_line_ids": [
+        "bacmeister_row_39"
+      ]
+    },
+    {
+      "id": "u40",
+      "source": "Vizyẹ̄́ri šā́nde varán varā́.",
+      "translations": {
+        "tr": "Dün akşam yağmur yağdı.",
+        "en": "Yesterday evening rain fell.",
+        "de": "Gestern Abend fiel Regen."
+      },
+      "source_line_ids": [
+        "bacmeister_row_40"
+      ]
+    },
+    {
+      "id": "u41",
+      "source": "Eíru sebá me múndiai aíšma fátma día.",
+      "translations": {
+        "tr": "Bu sabah gökkuşağını gördüm.",
+        "en": "This morning I saw the rainbow.",
+        "de": "Heute Morgen sah ich den Regenbogen."
+      },
+      "source_line_ids": [
+        "bacmeister_row_41"
+      ]
+    },
+    {
+      "id": "u42",
+      "source": "Šau tārī́u, rōd̮ rṓštu.",
+      "translations": {
+        "tr": "Gece karanlıktır, gündüz aydınlıktır.",
+        "en": "At night it is dark and by day bright.",
+        "de": "Des Nachts ist es finster und am Tage hell."
+      },
+      "source_line_ids": [
+        "bacmeister_row_42"
+      ]
+    },
+    {
+      "id": "u43",
+      "source": "Mā kā́li bekí zazád̮e.",
+      "translations": {
+        "tr": "Kürtçe (Kurmanci-Zaza) konuşuyoruz.",
+        "en": "We speak Kurdish (Kurmanji-Zaza).",
+        "de": "Wir reden kurdisch (Kurmändi-Zazä)."
+      },
+      "source_line_ids": [
+        "bacmeister_row_43"
+      ]
+    },
+    {
+      "id": "u44",
+      "source": "Ši̥mā zazád̮a záni?",
+      "translations": {
+        "tr": "Kürtçe (Kurmanci-Zaza) konuşmayı biliyor musunuz?",
+        "en": "Do you know how to speak Kurdish (Kurmanji-Zaza)?",
+        "de": "Versteht ihr kurdisch (Kurmändi-Zazä) zu sprechen?"
+      },
+      "source_line_ids": [
+        "bacmeister_row_44"
+      ]
+    }
+  ],
+  "source_lines": [
+    {
+      "id": "bacmeister_row_01",
+      "title": "Örnek cümle 1",
+      "text": "Aláh ńe merén’u.",
+      "lerch": "Aláh ńe merén’u.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Aláh ńe merén’u."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Xodê nämire."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Gott stirbt nicht."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "God does not die."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Tanrı ölmez."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row01_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row01_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_02",
+      "title": "Örnek cümle 2",
+      "text": "Mē̱rdṳ́m é̱meri yai qílmu.",
+      "lerch": "Mē̱rdṳ́m é̱meri yai qílmu.",
+      "source_note": "Zaza phrasing appears literally to use \"his life is short.\"",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Mē̱rdṳ́m é̱meri yai qílmu."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Merü sal pur tenâre."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Der Mensch lebt nicht lange."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "A human being does not live long."
+        },
+        {
+          "label": "TURKISH",
+          "value": "İnsan uzun yaşamaz."
+        },
+        {
+          "label": "NOTE",
+          "value": "Zaza phrasing appears literally to use \"his life is short.\""
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row02_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row02_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_03",
+      "title": "Örnek cümle 3",
+      "text": "Daíke eílāne (eílekāni) χóe zāf sinén’a.",
+      "lerch": "Daíke eílāne (eílekāni) χóe zāf sinén’a.",
+      "source_note": "Russian and German witnesses read χóe, not gamma.",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Daíke eílāne (eílekāni) χóe zāf sinén’a."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Diâ külfetân ž wan haz dikê."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Die Mutter liebt ihre Kinder."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "The mother loves her children."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Anne çocuklarını sever."
+        },
+        {
+          "label": "NOTE",
+          "value": "Russian and German witnesses read χóe, not gamma."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row03_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row03_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_04",
+      "title": "Örnek cümle 4",
+      "text": "T̮íd̮e̱ yai zāf šid é̱stu.",
+      "lerch": "T̮íd̮e̱ yai zāf šid é̱stu.",
+      "source_note": "User review note confirmed zāf; é̱stu has acute plus line below.",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "T̮íd̮e̱ yai zāf šid é̱stu."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "De memkî wêda šîr pur heiye."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Sie hat viel Milch in den Brüsten."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "She has much milk in her breasts."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Göğüslerinde çok süt vardır."
+        },
+        {
+          "label": "NOTE",
+          "value": "User review note confirmed zāf; é̱stu has acute plus line below."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row04_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row04_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_05",
+      "title": "Örnek cümle 5",
+      "text": "Myẹ̄́rde yai h̔as kén’u.",
+      "lerch": "Myẹ̄́rde yai h̔as kén’u.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Myẹ̄́rde yai h̔as kén’u."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Mêrî wi že haz dikê."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Ihr Mann liebt sie."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "Her husband loves her."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Kocası onu sever."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row05_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row05_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_06",
+      "title": "Örnek cümle 6",
+      "text": "Ā́ya d̮éni hé̱mle̱ya.",
+      "lerch": "Ā́ya d̮éni hé̱mle̱ya.",
+      "source_note": "Russian has a typo fixed in german: Ā́ja -> Ā́ya",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Ā́ya d̮éni hé̱mle̱ya."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Va žinka be hâmile."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Diese Frau war schwanger (in der Uebers.: \"ist schw.\")."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "This woman was pregnant (in the translation: \"is pregnant\")."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Bu kadın hamileydi (çeviride: \"hamiledir\")."
+        },
+        {
+          "label": "NOTE",
+          "value": "Russian has a typo fixed in german: Ā́ja -> Ā́ya"
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row06_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row06_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_07",
+      "title": "Örnek cümle 7",
+      "text": "Še̱š rṓd̮e yau lād̮ ārd.",
+      "lerch": "Še̱š rṓd̮e yau lād̮ ārd.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Še̱š rṓd̮e yau lād̮ ārd."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "De şeş ruânda laukik weledând."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Vor sechs Tagen hat sie einen Sohn geboren."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "Six days ago she gave birth to a son."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Altı gün önce bir oğul doğurdu."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row07_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row07_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_08",
+      "title": "Örnek cümle 8",
+      "text": "Dáh̔a ńe wé̱ša.",
+      "lerch": "Dáh̔a ńe wé̱ša.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Dáh̔a ńe wé̱ša."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Dâha nexôše."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Sie ist noch krank."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "She is still sick."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Hâlâ hastadır."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row08_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row08_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_09",
+      "title": "Örnek cümle 9",
+      "text": "Keína yai h̔e̱t rúeništa bermén’a.",
+      "lerch": "Keína yai h̔e̱t rúeništa bermén’a.",
+      "source_note": "Marked h follows the Lerch h̔ review-bucket convention rather than ḫ.",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Keína yai h̔e̱t rúeništa bermén’a."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Qiza wi ledern rüništie digrî."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Ihre Tochter sitzt bei ihr und weint."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "Her daughter sits beside her and cries."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Kızı yanında oturur ve ağlar."
+        },
+        {
+          "label": "NOTE",
+          "value": "Marked h follows the Lerch h̔ review-bucket convention rather than ḫ."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row09_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row09_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_10",
+      "title": "Örnek cümle 10",
+      "text": "Lā́d̮e t̮íd̮e ńe wén’u.",
+      "lerch": "Lā́d̮e t̮íd̮e ńe wén’u.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Lā́d̮e t̮íd̮e ńe wén’u."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Külfet ṭṭikân nägre."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Das Kind will nicht saugen."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "The child does not want to suckle."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Çocuk emmek istemez."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row10_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row10_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_11",
+      "title": "Örnek cümle 11",
+      "text": "Keína hé̱m’a pai ńe šuén’a.",
+      "lerch": "Keína hé̱m’a pai ńe šuén’a.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Keína hé̱m’a pai ńe šuén’a."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Ketik dâha nägere."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Das Mädchen kann noch nicht gehen."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "The girl cannot yet walk."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Kız henüz yürüyemez."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row11_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row11_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_12",
+      "title": "Örnek cümle 12",
+      "text": "Yau sé̱re di̥ ā́šme bía.",
+      "lerch": "Yau sé̱re di̥ ā́šme bía.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Yau sé̱re di̥ ā́šme bía."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Sâlik u du mêhin weledâüde."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Sie ist vor einem Jahre und zwei Monaten geboren."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "She was born one year and two months ago."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Bir yıl iki ay önce doğdu."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row12_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row12_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_13",
+      "title": "Örnek cümle 13",
+      "text": "Ḗ̱n’ie t̮ehér hé̱m’e lā́d̮i wé̱ši.",
+      "lerch": "Ḗ̱n’ie t̮ehér hé̱m’e lā́d̮i wé̱ši.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Ḗ̱n’ie t̮ehér hé̱m’e lā́d̮i wé̱ši."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Va her ṭâr laukana yöšin."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Diese vier Knaben sind alle gesund."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "These four boys are all healthy."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Bu dört oğlanın hepsi sağlıklıdır."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row13_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row13_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_14",
+      "title": "Örnek cümle 14",
+      "text": "Yau ve̱rī́e vāz dāmu, aúe díene perén’u (kai kén’u), aúe h̔irī́ne lauk vā́nu, aúe t̮eherī́ne h̔o̤wén’u.",
+      "lerch": "Yau ve̱rī́e vāz dāmu, aúe díene perén’u (kai kén’u), aúe h̔irī́ne lauk vā́nu, aúe t̮eherī́ne h̔o̤wén’u.",
+      "source_note": "Printed line break divides t̮e-heríne; joined here as one word.",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Yau ve̱rī́e vāz dāmu, aúe díene perén’u (kai kén’u), aúe h̔irī́ne lauk vā́nu, aúe t̮eherī́ne h̔o̤wén’u."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Eyêk debêze, edudûân röe xöl dikê, esêsiân dîstere, eṭârân deckên'e."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Der erste läuft, der zweite springt, der dritte singt, der vierte lacht."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "The first runs, the second jumps, the third sings, the fourth laughs."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Birincisi koşar, ikincisi zıplar, üçüncüsü şarkı söyler, dördüncüsü güler."
+        },
+        {
+          "label": "NOTE",
+          "value": "Printed line break divides t̮e-heríne; joined here as one word."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row14_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row14_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_15",
+      "title": "Örnek cümle 15",
+      "text": "Ḗ̱n’oe me̱rdúm t̮i̥mi yai (d̮ai) kṓri.",
+      "lerch": "Ḗ̱n’oe me̱rdúm t̮i̥mi yai (d̮ai) kṓri.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Ḗ̱n’oe me̱rdúm t̮i̥mi yai (d̮ai) kṓri."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Va merüa kü'ire."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Dieser Mann ist blind."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "This man is blind."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Bu adam kördür."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row15_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row15_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_16",
+      "title": "Örnek cümle 16",
+      "text": "D̮éniai yai (d̮ai) ké̱ra.",
+      "lerch": "D̮éniai yai (d̮ai) ké̱ra.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "D̮éniai yai (d̮ai) ké̱ra."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Žina wi kêre."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Seine Frau ist taub."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "His wife is deaf."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Karısı sağırdır."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row16_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row16_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_17",
+      "title": "Örnek cümle 17",
+      "text": "Vé̱ngi me̱ (Sé̱ki ma vā́d̮i) ńéšna wén’a.",
+      "lerch": "Vé̱ngi me̱ (Sé̱ki ma vā́d̮i) ńéšna wén’a.",
+      "source_note": "Likely error in the original transcription: ???na w?n?a probably represents one word, ???naw?n?a (?-??naw-?n-a = neg-hear-IPFV-3SG.F).",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Vé̱ngi me̱ (Sé̱ki ma vā́d̮i) ńéšna wén’a."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Ek em debêžin näbiste."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Sie hört nicht, dass wir reden."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "She does not hear that we are speaking."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Konuştuğumuzu duymaz."
+        },
+        {
+          "label": "NOTE",
+          "value": "Likely error in the original transcription: ???na w?n?a probably represents one word, ???naw?n?a (?-??naw-?n-a = neg-hear-IPFV-3SG.F)."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row17_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row17_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_18",
+      "title": "Örnek cümle 18",
+      "text": "Beraí tú’e pṳ́reš neiyén’u.",
+      "lerch": "Beraí tú’e pṳ́reš neiyén’u.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Beraí tú’e pṳ́reš neiyén’u."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Berâ'i te deckûl'e."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Dein Bruder niest."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "Your brother sneezes."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Erkek kardeşin hapşırıyor."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row18_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row18_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_19",
+      "title": "Örnek cümle 19",
+      "text": "Wai tú’e rā kaúta.",
+      "lerch": "Wai tú’e rā kaúta.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Wai tú’e rā kaúta."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "H'o'ênga te rä ket."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Deine Schwester schläft (in d. Uebers. \"schlief.\")."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "Your sister is sleeping (in the translation: \"slept\")."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Kız kardeşin uyuyor (çeviride: \"uyuyordu\")."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row19_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row19_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_20",
+      "title": "Örnek cümle 20",
+      "text": "Baúki ši̥má h̔ayaú rú’eništu.",
+      "lerch": "Baúki ši̥má h̔ayaú rú’eništu.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Baúki ši̥má h̔ayaú rú’eništu."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Bâve wan ipâye."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Euer Vater ist wach."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "Your father is awake."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Babanız uyanıktır."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row20_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row20_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_21",
+      "title": "Örnek cümle 21",
+      "text": "Tā́neki wén’u.",
+      "lerch": "Tā́neki wén’u.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Tā́neki wén’u."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Hindîk doxû'e vedoxû'e."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Er isst und trinkt (sehr) wenig."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "He eats and drinks very little."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Çok az yer ve içer."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row21_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row21_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_22",
+      "title": "Örnek cümle 22",
+      "text": "Ziṅd̮ h̔a myā́ne súrotide.",
+      "lerch": "Ziṅd̮ h̔a myā́ne súrotide.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Ziṅd̮ h̔a myā́ne súrotide."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Bivîl de nâv rüdaye."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Die Nase ist in der Mitte des Gesichts."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "The nose is in the middle of the face."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Burun yüzün ortasındadır."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row22_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row22_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_23",
+      "title": "Örnek cümle 23",
+      "text": "Di̥ língi mā é̱sti, hérgu dé̱sti mā́de pāṅd̮ ingíšti é̱sti.",
+      "lerch": "Di̥ língi mā é̱sti, hérgu dé̱sti mā́de pāṅd̮ ingíšti é̱sti.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Di̥ língi mā é̱sti, hérgu dé̱sti mā́de pāṅd̮ ingíšti é̱sti."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Her merüki du lingi (ningî) wi hênin, her destki pend bêṭi wi hênin."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Wir haben zwei Füsse und an jeder Hand fünf Finger."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "We have two feet and five fingers on each hand."
+        },
+        {
+          "label": "TURKISH",
+          "value": "İki ayağımız ve her elde beş parmağımız vardır."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row23_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row23_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_24",
+      "title": "Örnek cümle 24",
+      "text": "Γí̥ži̥k sé̱rede yén’u.",
+      "lerch": "Γí̥ži̥k sé̱rede yén’u.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Γí̥ži̥k sé̱rede yén’u."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Pör lešer seri hefsîn debê."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Die Haare wachsen auf dem Kopfe."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "Hair grows on the head."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Saç başta çıkar."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row24_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row24_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_25",
+      "title": "Örnek cümle 25",
+      "text": "Dendā́ni zuā́ṅ h̔a fé̱kde.",
+      "lerch": "Dendā́ni zuā́ṅ h̔a fé̱kde.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Dendā́ni zuā́ṅ h̔a fé̱kde."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Zemân dedân de dêvdanin."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Die Zunge und die Zähne sind in dem Munde."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "The tongue and the teeth are in the mouth."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Dil ve dişler ağızdadır."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row25_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row25_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_26",
+      "title": "Örnek cümle 26",
+      "text": "Dé̱stu rā́št qóatu sei dé̱sti t̮é̱pi.",
+      "lerch": "Dé̱stu rā́št qóatu sei dé̱sti t̮é̱pi.",
+      "source_note": "Dest is literally \"hand\" but it may have also been used for arm, hence the German gloss.",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Dé̱stu rā́št qóatu sei dé̱sti t̮é̱pi."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Pie râste ž pie ṭepe xûrtere."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Der rechte Arm ist stärker als der linke."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "The right arm is stronger than the left."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Sağ kol soldan daha güçlüdür."
+        },
+        {
+          "label": "NOTE",
+          "value": "Dest is literally \"hand\" but it may have also been used for arm, hence the German gloss."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row26_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row26_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_27",
+      "title": "Örnek cümle 27",
+      "text": "Yau múye dé̱rga bāryéka.",
+      "lerch": "Yau múye dé̱rga bāryéka.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Yau múye dé̱rga bāryéka."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Pürtik derêže zerâve."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Ein Haar ist lang und dünn."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "A hair is long and thin."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Bir kıl uzun ve incedir."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row27_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row27_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_28",
+      "title": "Örnek cümle 28",
+      "text": "Gṓ’eni sū́ra.",
+      "lerch": "Gṓ’eni sū́ra.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Gṓ’eni sū́ra."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Xu'în sôre."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Das Blut ist roth."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "Blood is red."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Kan kırmızıdır."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row28_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row28_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_29",
+      "title": "Örnek cümle 29",
+      "text": "Éstei sei ké̱ri sā́γí.",
+      "lerch": "Éstei sei ké̱ri sā́γí.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Éstei sei ké̱ri sā́γí."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Hästîân fêni kêvrân hẹškin."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Die Knochen sind hart wie Stein."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "Bones are hard like stone."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Kemikler taş gibi serttir."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row29_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row29_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_30",
+      "title": "Örnek cümle 30",
+      "text": "Māsé̱de t̮ími é̱sti, gṓšye t̮íni.",
+      "lerch": "Māsé̱de t̮ími é̱sti, gṓšye t̮íni.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Māsé̱de t̮ími é̱sti, gṓšye t̮íni."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "De mâsida ṭav heiye, gôh tun'e."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Der Fisch hat Augen, aber keine Ohren."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "The fish has eyes, but no ears."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Balığın gözleri vardır ama kulakları yoktur."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row30_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row30_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_31",
+      "title": "Örnek cümle 31",
+      "text": "Ḗ̱n’oe teir hyedíki ferén’u.",
+      "lerch": "Ḗ̱n’oe teir hyedíki ferén’u.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Ḗ̱n’oe teir hyedíki ferén’u."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Va teira defer'e."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Dieser Vogel fliegt langsam."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "This bird flies slowly."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Bu kuş yavaş uçar."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row31_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row31_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_32",
+      "title": "Örnek cümle 32",
+      "text": "Nišén’u ā́rdda.",
+      "lerch": "Nišén’u ā́rdda.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Nišén’u ā́rdda."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Lešer ârdeda ṭe."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Er lässt sich zur Erde nieder."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "It comes down to the ground."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Yere iner."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row32_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row32_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_33",
+      "title": "Örnek cümle 33",
+      "text": "Pé̱li teíride mú’i siaí é̱sti.",
+      "lerch": "Pé̱li teíride mú’i siaí é̱sti.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Pé̱li teíride mú’i siaí é̱sti."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Lepêre wêda pêre reš hênin."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Er hat schwarze Federn in den Flügeln."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "It has black feathers in its wings."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Kanatlarında siyah tüyler vardır."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row33_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row33_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_34",
+      "title": "Örnek cümle 34",
+      "text": "Dā́rede vé̱lgō té̱ze, gíli hi̥šni é̱sti.",
+      "lerch": "Dā́rede vé̱lgō té̱ze, gíli hi̥šni é̱sti.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Dā́rede vé̱lgō té̱ze, gíli hi̥šni é̱sti."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Dâre pêre hêšin hênin, gilî gir hênin."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Der Baum hat grüne Blätter und dicke Aeste."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "The tree has green leaves and thick branches."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Ağacın yeşil yaprakları ve kalın dalları vardır."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row34_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row34_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_35",
+      "title": "Örnek cümle 35",
+      "text": "Ē̱no’e teir nā́kure bāryék é̱sta, bṓ’et̮e qí̥lma é̱sta.",
+      "lerch": "Ē̱no’e teir nā́kure bāryék é̱sta, bṓ’et̮e qí̥lma é̱sta.",
+      "source_note": "Final review reads bo???et?e; earlier crops made this word difficult to confirm.",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Ē̱no’e teir nā́kure bāryék é̱sta, bṓ’et̮e qí̥lma é̱sta."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Va teira nekûlki wi derêž heiye, bôṭa wi qîme."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Dieser Vogel hat einen spitzen Schnabel und kurzen Schwanz."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "This bird has a pointed beak and a short tail."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Bu kuşun sivri gagası ve kısa kuyruğu vardır."
+        },
+        {
+          "label": "NOTE",
+          "value": "Final review reads bo???et?e; earlier crops made this word difficult to confirm."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row35_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row35_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_36",
+      "title": "Örnek cümle 36",
+      "text": "Halyẹ̄́ne wẹ̄́da h̔áki sepī́ é̱sti.",
+      "lerch": "Halyẹ̄́ne wẹ̄́da h̔áki sepī́ é̱sti.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Halyẹ̄́ne wẹ̄́da h̔áki sepī́ é̱sti."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Hêlîna wida hêki sepî hênin."
+        },
+        {
+          "label": "GERMAN",
+          "value": "In seinem Neste hat er weisse Eier."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "In its nest it has white eggs."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Yuvasında beyaz yumurtaları vardır."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row36_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row36_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_37",
+      "title": "Örnek cümle 37",
+      "text": "Adí̥r ve̱šén’u, du, qí̥le, ko̤mṳ́r me̱ vién’i.",
+      "lerch": "Adí̥r ve̱šén’u, du, qí̥le, ko̤mṳ́r me̱ vién’i.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Adí̥r ve̱šén’u, du, qí̥le, ko̤mṳ́r me̱ vién’i."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Âr dešâü'te, em tutüne, gôri, rêšu debînin."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Das Feuer brennt: wir sehen den Rauch, die Flamme und die Kohlen."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "The fire burns: we see the smoke, the flame, and the coals."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Ateş yanar: dumanı, alevi ve kömürleri görürüz."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row37_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row37_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_38",
+      "title": "Örnek cümle 38",
+      "text": "É̱n’a lā́de aúke lé̱ze šuén’a.",
+      "lerch": "É̱n’a lā́de aúke lé̱ze šuén’a.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "É̱n’a lā́de aúke lé̱ze šuén’a."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "De ṭaida av zü derê."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Das Wasser in dem Flusse fliesst geschwinde."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "The water in the river flows quickly."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Nehirdeki su hızlı akar."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row38_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row38_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_39",
+      "title": "Örnek cümle 39",
+      "text": "Āšme e̱stárera pī́la, rṓd̮era qí̮d̮a.",
+      "lerch": "Āšme e̱stárera pī́la, rṓd̮era qí̮d̮a.",
+      "source_note": "Russian scan is partly clipped at the bottom; German witness appears to read q??d?a, though q??d?a may be expected.",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Āšme e̱stárera pī́la, rṓd̮era qí̮d̮a."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Hîv že istîrkân girtere, ž röe putüktere."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Der Mond ist grösser als die Sterne und kleiner als die Sonne."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "The moon is larger than the stars and smaller than the sun."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Ay yıldızlardan büyüktür ve güneşten küçüktür."
+        },
+        {
+          "label": "NOTE",
+          "value": "Russian scan is partly clipped at the bottom; German witness appears to read q??d?a, though q??d?a may be expected."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row39_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row39_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_40",
+      "title": "Örnek cümle 40",
+      "text": "Vizyẹ̄́ri šā́nde varán varā́.",
+      "lerch": "Vizyẹ̄́ri šā́nde varán varā́.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Vizyẹ̄́ri šā́nde varán varā́."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Dö evârî barân bârî."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Gestern Abend fiel Regen."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "Yesterday evening rain fell."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Dün akşam yağmur yağdı."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row40_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row40_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_41",
+      "title": "Örnek cümle 41",
+      "text": "Eíru sebá me múndiai aíšma fátma día.",
+      "lerch": "Eíru sebá me múndiai aíšma fátma día.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Eíru sebá me múndiai aíšma fátma día."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Irö sebeda pista fâtinân nêbia me dî."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Heute Morgen sah ich den Regenbogen."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "This morning I saw the rainbow."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Bu sabah gökkuşağını gördüm."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row41_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row41_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_42",
+      "title": "Örnek cümle 42",
+      "text": "Šau tārī́u, rōd̮ rṓštu.",
+      "lerch": "Šau tārī́u, rōd̮ rṓštu.",
+      "source_note": "",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Šau tārī́u, rōd̮ rṓštu."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Be şev târîe, be rö roanîke."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Des Nachts ist es finster und am Tage hell."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "At night it is dark and by day bright."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Gece karanlıktır, gündüz aydınlıktır."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row42_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row42_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_43",
+      "title": "Örnek cümle 43",
+      "text": "Mā kā́li bekí zazád̮e.",
+      "lerch": "Mā kā́li bekí zazád̮e.",
+      "source_note": "Zaza line specifically says \"in Zaza.\"",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Mā kā́li bekí zazád̮e."
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Em be kurmândî debin (debêžin)."
+        },
+        {
+          "label": "GERMAN",
+          "value": "Wir reden kurdisch (Kurmändi-Zazä)."
+        },
+        {
+          "label": "ENGLISH",
+          "value": "We speak Kurdish (Kurmanji-Zaza)."
+        },
+        {
+          "label": "TURKISH",
+          "value": "Kürtçe (Kurmanci-Zaza) konuşuyoruz."
+        },
+        {
+          "label": "NOTE",
+          "value": "Zaza line specifically says \"in Zaza.\""
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row43_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row43_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    },
+    {
+      "id": "bacmeister_row_44",
+      "title": "Örnek cümle 44",
+      "text": "Ši̥mā zazád̮a záni?",
+      "lerch": "Ši̥mā zazád̮a záni?",
+      "source_note": "Zaza line specifically asks about knowing Zaza.",
+      "display_rows": [
+        {
+          "label": "ZAZA IN LERCH",
+          "value": "Ši̥mā zazád̮a záni?"
+        },
+        {
+          "label": "KURMANJI IN LERCH",
+          "value": "Hun be kurmândî zânin?"
+        },
+        {
+          "label": "GERMAN",
+          "value": "Versteht ihr kurdisch (Kurmändi-Zazä) zu sprechen?"
+        },
+        {
+          "label": "ENGLISH",
+          "value": "Do you know how to speak Kurdish (Kurmanji-Zaza)?"
+        },
+        {
+          "label": "TURKISH",
+          "value": "Kürtçe (Kurmanci-Zaza) konuşmayı biliyor musunuz?"
+        },
+        {
+          "label": "NOTE",
+          "value": "Zaza line specifically asks about knowing Zaza."
+        }
+      ],
+      "witnesses": [
+        {
+          "label": "Russian scan",
+          "image_url": "assets/row44_russian.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        },
+        {
+          "label": "German reprint scan",
+          "image_url": "assets/row44_german.webp",
+          "source": "Lerch Bacmeister sentence-sample line crop"
+        }
+      ],
+      "tokens": [],
+      "phrase_matches": []
+    }
+  ]
+}

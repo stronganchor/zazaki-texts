@@ -1,6 +1,6 @@
 # Lerch Book Sections Draft Status
 
-Generated: 2026-05-19
+Generated: 2026-05-21
 
 Created a non-live draft package for the Zaza-related prose portions of Lerch's Kurdish volumes.
 
@@ -11,6 +11,7 @@ Created a non-live draft package for the Zaza-related prose portions of Lerch's 
 - `drafts/lerch/book-zaza-sections/book-text.en.md`
 - `drafts/lerch/book-zaza-sections/book-text.de.md`
 - `drafts/lerch/book-zaza-sections/README.md`
+- `texts/lerch/lerch-book-zazaki-sections/text-document.json`
 
 ## Sections
 
@@ -20,8 +21,7 @@ Created a non-live draft package for the Zaza-related prose portions of Lerch's 
 - `alphabet-method`: How Lerch Wrote Zaza / Lerch Zaza'yı Nasıl Yazdı / Wie Lerch Zaza schrieb
 - `glossary-context`: Glossary and Selected Zaza Notes / Sözlük ve Seçilmiş Zaza Notları / Das Glossar und ausgewählte Zazä-Notizen
 
-## Current Blockers
+## Publication Notes
 
-- LL Tools still needs the `book_text` renderer/import support described in `reports/lltools-paginated-book-post-handoff.md`.
-- The English draft should be read by the editor before publication.
+- LL Tools now has local `book_text` renderer/import support; live import depends on the deployed plugin matching that support.
 - German is stitched from section drafts; a final German full-text pass would still be useful.

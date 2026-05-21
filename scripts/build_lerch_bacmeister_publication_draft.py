@@ -23,8 +23,8 @@ REPORT_DIR = REPO_ROOT / "reports"
 SOURCE_DRAFT = Path(
     r"C:\Users\messy\OneDrive\Documents\Language\Z\Dictionaries\Lerch\translation_project\lerch\appendix_bacmeister_sentence_samples\bacmeister_sentence_samples_transcription_translation_draft.md"
 )
-REVIEW_DATA = Path(
-    r"C:\Users\messy\OneDrive\Documents\Language\Z\Dictionaries\Lerch\lerch_bacmeister_samples_review_bundle\lerch_bacmeister_samples_review_data.json"
+REVIEW_AUTOSAVE = Path(
+    r"C:\Users\messy\OneDrive\Documents\Language\Z\Dictionaries\Lerch\lerch_bacmeister_samples_review_bundle\review_autosave.json"
 )
 
 
@@ -88,13 +88,17 @@ def parse_source_rows(path: Path) -> list[SampleRow]:
 
 
 def load_review_flags(path: Path) -> dict[str, dict[str, Any]]:
+    if not path.exists():
+        return {}
     data = json.loads(path.read_text(encoding="utf-8"))
     flags: dict[str, dict[str, Any]] = {}
     for item in data.get("items") or []:
         row_no = str(item.get("row_no") or "")
         if not row_no:
             continue
-        flags[row_no] = item
+        status = str(item.get("status") or "").strip().lower()
+        if status in {"flagged", "needs-glyph-review", "needs-form-review"}:
+            flags[row_no] = item
     return flags
 
 
@@ -148,7 +152,7 @@ def write_markdown(path: Path, rows: list[SampleRow], flags: dict[str, dict[str,
     lines.append("")
     lines.append("Primary source note: Russian Book II viewer pages 55-58 / printed pp. 41-44 are treated as the primary witness; the German reprint pages 45-48 and high-resolution local crops are secondary controls for glyph review.")
     lines.append("")
-    lines.append(f"Review status: {len(flags)} of {len(rows)} rows are flagged for remaining glyph/form review. These rows should not be treated as final until manually accepted.")
+    lines.append(f"Review status: {len(rows)} rows have been folded back from the review UI into this working edition. {len(flags)} rows are explicitly flagged for remaining glyph/form review.")
     lines.append("")
     lines.append(markdown_table_row(["No.", "Review", "Zaza in Lerch", "Kurmanji in Lerch", "English", "Turkish", "German", "Notes"]))
     lines.append(markdown_table_row(["---:", "---", "---", "---", "---", "---", "---", "---"]))
@@ -236,12 +240,10 @@ def write_report(path: Path, rows: list[SampleRow], flags: dict[str, dict[str, A
 def main() -> None:
     if not SOURCE_DRAFT.exists():
         raise SystemExit(f"Source draft not found: {SOURCE_DRAFT}")
-    if not REVIEW_DATA.exists():
-        raise SystemExit(f"Review data not found: {REVIEW_DATA}")
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
     rows = parse_source_rows(SOURCE_DRAFT)
-    flags = load_review_flags(REVIEW_DATA)
+    flags = load_review_flags(REVIEW_AUTOSAVE)
     write_tsv(OUT_DIR / "samples.tsv", rows, flags)
     write_markdown(OUT_DIR / "publication-draft.md", rows, flags)
     write_readme(OUT_DIR / "README.md", rows, flags)

@@ -1,0 +1,17 @@
+{
+  "id": "lerch-book-zazaki-sections",
+  "title": "Peter Lerch'in Zazaca Bölümleri",
+  "title_lerch": "Zaza-related passages from Lerch's Kurdish volumes",
+  "author_collector": "Peter Lerch",
+  "language": "Turkish, English, German",
+  "status": "reviewed working edition",
+  "lltools_payload": "text-document.json",
+  "publication": {
+    "public_summary_tr": "Lerch'in Zazaca metinleri, kaynak kişileri, kullandığı yazı sistemi ve sözlüğü hakkında kendi kitabındaki ilgili bölümlerden hazırlanmış çok dilli seçki.",
+    "content_warning_tr": "",
+    "people_tr": "Peter Lerch; Hassan; B. von Dorn; Hussein.",
+    "places_tr": "Roslavl; Palu; Sivan; Kasan/Kassau/Kaschan; Muş; Tujik/Tuzik; Dúmbeli.",
+    "historical_context_tr": "Bu metin, Lerch'in Zazaca malzemeyi nasıl topladığını ve Zazaca metinleri neden bilimsel açıdan önemli gördüğünü açıklayan bölümleri bir araya getirir.",
+    "editorial_note_tr": "Bu bölüm anlatı ya da interlinear metin değil, kaynak kitabın Zazaca ile ilgili açıklamalarından yapılmış çok dilli bir okuma metnidir."
+  }
+}

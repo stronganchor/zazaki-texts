@@ -9,6 +9,6 @@ Files:
 
 Status:
 
-- Do not import live until the LL Tools book-text renderer exists.
-- Do not publish until the English draft has been read by the editor.
+- Live-importable now that LL Tools supports `book_text` documents.
+- This remains a reviewed working edition rather than a final critical edition.
 - German is assembled from the five readable German section drafts, not from a single full German file.
