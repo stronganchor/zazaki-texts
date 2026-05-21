@@ -7,9 +7,9 @@ Created a non-live draft package for the Zaza-related prose portions of Lerch's 
 ## Output
 
 - `drafts/lerch/book-zaza-sections/book-text-draft.json`
-- `drafts/lerch/book-zaza-sections/book-text.tr.md`
-- `drafts/lerch/book-zaza-sections/book-text.en.md`
-- `drafts/lerch/book-zaza-sections/book-text.de.md`
+- `drafts/lerch/book-zaza-sections/book-text.tr.html`
+- `drafts/lerch/book-zaza-sections/book-text.en.html`
+- `drafts/lerch/book-zaza-sections/book-text.de.html`
 - `drafts/lerch/book-zaza-sections/README.md`
 - `texts/lerch/lerch-book-zazaki-sections/text-document.json`
 
@@ -23,5 +23,5 @@ Created a non-live draft package for the Zaza-related prose portions of Lerch's 
 
 ## Publication Notes
 
-- LL Tools now has local `book_text` renderer/import support; live import depends on the deployed plugin matching that support.
+- LL Tools now has local `book_text` renderer/import support, including explicit sanitized HTML bodies; live import depends on the deployed plugin matching that support.
 - German is stitched from section drafts; a final German full-text pass would still be useful.

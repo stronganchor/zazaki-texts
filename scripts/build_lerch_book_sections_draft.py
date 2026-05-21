@@ -4,6 +4,8 @@
 from __future__ import annotations
 
 import json
+import html
+import re
 from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
@@ -91,6 +93,211 @@ def read_text(path: Path) -> str:
     return path.read_text(encoding="utf-8").strip()
 
 
+def extract_footnote_definitions(markdown: str) -> tuple[str, dict[str, str]]:
+    lines = markdown.splitlines()
+    body: list[str] = []
+    definitions: dict[str, str] = {}
+    index = 0
+    while index < len(lines):
+        line = lines[index]
+        match = re.match(r"^\[\^([A-Za-z0-9_-]+)\]:\s*(.*)$", line)
+        if not match:
+            body.append(line)
+            index += 1
+            continue
+
+        footnote_id = match.group(1)
+        parts = [match.group(2).strip()]
+        index += 1
+        while index < len(lines) and (lines[index].startswith("    ") or lines[index].startswith("\t")):
+            parts.append(lines[index].strip())
+            index += 1
+        definitions[footnote_id] = " ".join(part for part in parts if part)
+
+    return "\n".join(body).strip(), definitions
+
+
+def split_table_row(line: str) -> list[str]:
+    row = line.strip()
+    if row.startswith("|"):
+        row = row[1:]
+    if row.endswith("|"):
+        row = row[:-1]
+    return [cell.strip() for cell in row.split("|")]
+
+
+def is_table_separator(line: str) -> bool:
+    cells = split_table_row(line)
+    return bool(cells) and all(re.fullmatch(r":?-{3,}:?", cell.strip()) for cell in cells)
+
+
+def is_markdown_block_start(line: str, next_line: str = "") -> bool:
+    stripped = line.strip()
+    if stripped == "":
+        return True
+    if re.match(r"^#{1,6}\s+", stripped):
+        return True
+    if stripped.startswith(">"):
+        return True
+    if re.match(r"^\d+\.\s+", stripped) or re.match(r"^[-*+]\s+", stripped):
+        return True
+    if stripped.startswith("|") and next_line.strip().startswith("|") and is_table_separator(next_line):
+        return True
+    return False
+
+
+def render_inline_markdown(text: str, footnotes: dict[str, str], seen_footnotes: dict[str, int], language: str = "en") -> str:
+    placeholders: dict[str, str] = {}
+
+    def placeholder(rendered: str) -> str:
+        key = f"@@LLBOOK{len(placeholders)}@@"
+        placeholders[key] = rendered
+        return key
+
+    def code_repl(match: re.Match[str]) -> str:
+        return placeholder(f'<span class="ll-book-text__term">{html.escape(match.group(1))}</span>')
+
+    def link_repl(match: re.Match[str]) -> str:
+        label = render_inline_markdown(match.group(1), {}, {}, language)
+        url = match.group(2).strip()
+        if not re.match(r"^https?://", url, re.I):
+            return html.escape(match.group(0))
+        safe_url = html.escape(url, quote=True)
+        return placeholder(f'<a href="{safe_url}" target="_blank" rel="noopener noreferrer">{label}</a>')
+
+    def footnote_repl(match: re.Match[str]) -> str:
+        footnote_id = match.group(1)
+        if footnote_id not in footnotes:
+            return match.group(0)
+        if footnote_id not in seen_footnotes:
+            seen_footnotes[footnote_id] = len(seen_footnotes) + 1
+        number = seen_footnotes[footnote_id]
+        safe_id = re.sub(r"[^A-Za-z0-9_-]", "", footnote_id)
+        note_word = {"tr": "Dipnot", "de": "Anmerkung", "en": "Note"}.get(language, "Note")
+        return placeholder(
+            f'<sup class="ll-book-text__footnote-ref" id="ll-book-fnref-{safe_id}">'
+            f'<a href="#ll-book-fn-{safe_id}" aria-label="{note_word} {number}">{number}</a>'
+            f'</sup>'
+        )
+
+    text = re.sub(r"`([^`]+)`", code_repl, text)
+    text = re.sub(r"\[([^\]]+)\]\((https?://[^)\s]+)\)", link_repl, text)
+    text = re.sub(r"\[\^([A-Za-z0-9_-]+)\]", footnote_repl, text)
+
+    rendered = html.escape(text, quote=False)
+    rendered = re.sub(r"\*\*([^*\n]+)\*\*", r"<strong>\1</strong>", rendered)
+    rendered = re.sub(r"(?<!\*)\*([^*\n]+)\*(?!\*)", r"<em>\1</em>", rendered)
+    for key, value in placeholders.items():
+        rendered = rendered.replace(key, value)
+    return rendered
+
+
+def render_markdown_table(lines: list[str], footnotes: dict[str, str], seen_footnotes: dict[str, int], language: str) -> str:
+    header = split_table_row(lines[0])
+    body_rows = [split_table_row(line) for line in lines[2:]]
+    header_html = "".join(
+        f'<th scope="col">{render_inline_markdown(cell, footnotes, seen_footnotes, language)}</th>'
+        for cell in header
+    )
+    rows_html = []
+    for row in body_rows:
+        cells = list(row)
+        if len(cells) < len(header):
+            cells.extend([""] * (len(header) - len(cells)))
+        row_html = "".join(
+            f"<td>{render_inline_markdown(cell, footnotes, seen_footnotes, language)}</td>"
+            for cell in cells[: len(header)]
+        )
+        rows_html.append(f"<tr>{row_html}</tr>")
+    return (
+        '<div class="ll-book-text__table-wrap"><table class="ll-book-text__table">'
+        f"<thead><tr>{header_html}</tr></thead>"
+        f"<tbody>{''.join(rows_html)}</tbody>"
+        "</table></div>"
+    )
+
+
+def render_book_markdown(markdown: str, footnotes: dict[str, str] | None = None, language: str = "en") -> str:
+    footnotes = footnotes or {}
+    lines = markdown.strip().splitlines()
+    output: list[str] = []
+    seen_footnotes: dict[str, int] = {}
+    index = 0
+    while index < len(lines):
+        line = lines[index]
+        stripped = line.strip()
+        next_line = lines[index + 1] if index + 1 < len(lines) else ""
+
+        if stripped == "":
+            index += 1
+            continue
+
+        heading = re.match(r"^(#{1,6})\s+(.*)$", stripped)
+        if heading:
+            level = max(3, min(6, len(heading.group(1))))
+            output.append(f"<h{level}>{render_inline_markdown(heading.group(2), footnotes, seen_footnotes, language)}</h{level}>")
+            index += 1
+            continue
+
+        if stripped.startswith("|") and next_line.strip().startswith("|") and is_table_separator(next_line):
+            table_lines = [line, next_line]
+            index += 2
+            while index < len(lines) and lines[index].strip().startswith("|"):
+                table_lines.append(lines[index])
+                index += 1
+            output.append(render_markdown_table(table_lines, footnotes, seen_footnotes, language))
+            continue
+
+        if stripped.startswith(">"):
+            quote_lines: list[str] = []
+            while index < len(lines) and lines[index].strip().startswith(">"):
+                quote_lines.append(re.sub(r"^>\s?", "", lines[index].strip()))
+                index += 1
+            quote = " ".join(line.strip() for line in quote_lines if line.strip())
+            output.append(f"<blockquote><p>{render_inline_markdown(quote, footnotes, seen_footnotes, language)}</p></blockquote>")
+            continue
+
+        if re.match(r"^\d+\.\s+", stripped) or re.match(r"^[-*+]\s+", stripped):
+            ordered = bool(re.match(r"^\d+\.\s+", stripped))
+            tag = "ol" if ordered else "ul"
+            items: list[str] = []
+            pattern = r"^\d+\.\s+" if ordered else r"^[-*+]\s+"
+            while index < len(lines) and re.match(pattern, lines[index].strip()):
+                item = re.sub(pattern, "", lines[index].strip())
+                items.append(f"<li>{render_inline_markdown(item, footnotes, seen_footnotes, language)}</li>")
+                index += 1
+            output.append(f"<{tag}>{''.join(items)}</{tag}>")
+            continue
+
+        paragraph_lines = [stripped]
+        index += 1
+        while index < len(lines):
+            upcoming = lines[index + 1] if index + 1 < len(lines) else ""
+            if is_markdown_block_start(lines[index], upcoming):
+                break
+            paragraph_lines.append(lines[index].strip())
+            index += 1
+        paragraph = " ".join(line for line in paragraph_lines if line)
+        output.append(f"<p>{render_inline_markdown(paragraph, footnotes, seen_footnotes, language)}</p>")
+
+    if seen_footnotes:
+        note_labels = {"tr": "Dipnotlar", "de": "Anmerkungen", "en": "Notes"}
+        label = note_labels.get(language, "Notes")
+        notes = []
+        for footnote_id, number in sorted(seen_footnotes.items(), key=lambda item: item[1]):
+            safe_id = re.sub(r"[^A-Za-z0-9_-]", "", footnote_id)
+            note = render_inline_markdown(footnotes.get(footnote_id, ""), {}, {}, language)
+            back_label = {"tr": "Metne dön", "de": "Zurück zum Text", "en": "Back to text"}.get(language, "Back to text")
+            notes.append(
+                f'<li id="ll-book-fn-{safe_id}">{note} '
+                f'<a class="ll-book-text__footnote-back" href="#ll-book-fnref-{safe_id}" aria-label="{back_label}">↩</a>'
+                "</li>"
+            )
+        output.append(f'<section class="ll-book-text__footnotes"><h3>{label}</h3><ol>{"".join(notes)}</ol></section>')
+
+    return "\n".join(output)
+
+
 def split_h2_sections(markdown: str) -> tuple[str, dict[str, str]]:
     lines = markdown.splitlines()
     preface: list[str] = []
@@ -135,9 +342,20 @@ def combine_markdown(language: str, sections: list[dict]) -> str:
     return "\n".join(chunks).strip() + "\n"
 
 
+def combine_html(language: str, sections: list[dict]) -> str:
+    chunks: list[str] = []
+    for section in sections:
+        label = html.escape(str(section["labels"][language]))
+        chunks.append(f"<h2>{label}</h2>")
+        chunks.append(section["texts"][language].strip())
+    return "\n\n".join(chunks).strip() + "\n"
+
+
 def build_payload() -> dict:
-    en_preface, en_sections = split_h2_sections(read_text(EN_FULL))
-    tr_preface, tr_sections = split_h2_sections(read_text(TR_FULL))
+    en_markdown, en_footnotes = extract_footnote_definitions(read_text(EN_FULL))
+    tr_markdown, tr_footnotes = extract_footnote_definitions(read_text(TR_FULL))
+    en_preface, en_sections = split_h2_sections(en_markdown)
+    tr_preface, tr_sections = split_h2_sections(tr_markdown)
     book_sections: list[dict] = []
     for spec in SECTIONS:
         if spec.en_heading not in en_sections:
@@ -148,6 +366,7 @@ def build_payload() -> dict:
         book_sections.append(
             {
                 "id": spec.section_id,
+                "text_format": "html",
                 "label": spec.label_tr,
                 "labels": {
                     "tr": spec.label_tr,
@@ -156,9 +375,9 @@ def build_payload() -> dict:
                 },
                 "source_note": spec.source_note,
                 "texts": {
-                    "tr": tr_sections[spec.tr_heading],
-                    "en": en_sections[spec.en_heading],
-                    "de": de_text,
+                    "tr": render_book_markdown(tr_sections[spec.tr_heading], tr_footnotes, "tr"),
+                    "en": render_book_markdown(en_sections[spec.en_heading], en_footnotes, "en"),
+                    "de": render_book_markdown(de_text, {}, "de"),
                 },
             }
         )
@@ -166,6 +385,7 @@ def build_payload() -> dict:
     return {
         "schema": "ll_tools_text_document.v1",
         "kind": "book_text",
+        "text_format": "html",
         "lesson_id": "lerch-book-zazaki-sections",
         "title": "Peter Lerch'in Zazaca Bölümleri",
         "metadata": {
@@ -228,9 +448,12 @@ def write_outputs(payload: dict) -> None:
         encoding="utf-8",
     )
     for language in ("tr", "en", "de"):
-        rendered = combine_markdown(language, sections)
-        (OUT_DIR / f"book-text.{language}.md").write_text(rendered, encoding="utf-8")
-        (TEXT_DIR / f"book-text.{language}.md").write_text(rendered, encoding="utf-8")
+        rendered = combine_html(language, sections)
+        for directory in (OUT_DIR, TEXT_DIR):
+            old_markdown = directory / f"book-text.{language}.md"
+            if old_markdown.exists():
+                old_markdown.unlink()
+            (directory / f"book-text.{language}.html").write_text(rendered, encoding="utf-8")
     (TEXT_DIR / "metadata.json").write_text(
         json.dumps(
             {
@@ -257,7 +480,7 @@ def write_outputs(payload: dict) -> None:
         "Files:",
         "",
         "- `book-text-draft.json`: draft payload matching the proposed LL Tools book-text shape.",
-        "- `book-text.tr.md`, `book-text.en.md`, `book-text.de.md`: language-specific Markdown exports for review.",
+        "- `book-text.tr.html`, `book-text.en.html`, `book-text.de.html`: language-specific HTML exports for review.",
         "",
         "Status:",
         "",
@@ -278,9 +501,9 @@ def write_outputs(payload: dict) -> None:
         "## Output",
         "",
         "- `drafts/lerch/book-zaza-sections/book-text-draft.json`",
-        "- `drafts/lerch/book-zaza-sections/book-text.tr.md`",
-        "- `drafts/lerch/book-zaza-sections/book-text.en.md`",
-        "- `drafts/lerch/book-zaza-sections/book-text.de.md`",
+        "- `drafts/lerch/book-zaza-sections/book-text.tr.html`",
+        "- `drafts/lerch/book-zaza-sections/book-text.en.html`",
+        "- `drafts/lerch/book-zaza-sections/book-text.de.html`",
         "- `drafts/lerch/book-zaza-sections/README.md`",
         "- `texts/lerch/lerch-book-zazaki-sections/text-document.json`",
         "",
@@ -294,7 +517,7 @@ def write_outputs(payload: dict) -> None:
             "",
             "## Publication Notes",
             "",
-            "- LL Tools now has local `book_text` renderer/import support; live import depends on the deployed plugin matching that support.",
+            "- LL Tools now has local `book_text` renderer/import support, including explicit sanitized HTML bodies; live import depends on the deployed plugin matching that support.",
             "- German is stitched from section drafts; a final German full-text pass would still be useful.",
             "",
         ]

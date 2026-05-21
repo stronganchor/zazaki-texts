@@ -5,7 +5,7 @@ Non-live draft package for a future LL Tools `book_text` post.
 Files:
 
 - `book-text-draft.json`: draft payload matching the proposed LL Tools book-text shape.
-- `book-text.tr.md`, `book-text.en.md`, `book-text.de.md`: language-specific Markdown exports for review.
+- `book-text.tr.html`, `book-text.en.html`, `book-text.de.html`: language-specific HTML exports for review.
 
 Status:
 
