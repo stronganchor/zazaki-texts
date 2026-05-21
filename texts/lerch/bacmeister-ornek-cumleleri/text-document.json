@@ -723,7 +723,7 @@
       "id": "bacmeister_row_02",
       "title": "Örnek cümle 2",
       "text": "Mē̱rdṳ́m é̱meri yai qílmu.",
-      "source_note": "Zaza phrasing appears literally to use \"his life is short.\"",
+      "source_note": "",
       "display_rows": [
         {
           "label": "LERCH",
@@ -752,10 +752,6 @@
         {
           "label": "TURKISH",
           "value": "İnsanın ömrü kısadır."
-        },
-        {
-          "label": "NOTE",
-          "value": "Zaza phrasing appears literally to use \"his life is short.\""
         }
       ],
       "witnesses": [
@@ -855,7 +851,7 @@
       "id": "bacmeister_row_03",
       "title": "Örnek cümle 3",
       "text": "Daíke eílāne (eílekāni) χóe zāf sinén’a.",
-      "source_note": "Russian and German witnesses read χóe, not gamma.",
+      "source_note": "",
       "display_rows": [
         {
           "label": "LERCH",
@@ -884,10 +880,6 @@
         {
           "label": "TURKISH",
           "value": "Anne çocuklarını sever."
-        },
-        {
-          "label": "NOTE",
-          "value": "Russian and German witnesses read χóe, not gamma."
         }
       ],
       "witnesses": [
@@ -1029,7 +1021,7 @@
       "id": "bacmeister_row_04",
       "title": "Örnek cümle 4",
       "text": "T̮íd̮e̱ yai zāf šid é̱stu.",
-      "source_note": "User review note confirmed zāf; é̱stu has acute plus line below.",
+      "source_note": "",
       "display_rows": [
         {
           "label": "LERCH",
@@ -1058,10 +1050,6 @@
         {
           "label": "TURKISH",
           "value": "Göğüslerinde çok süt vardır."
-        },
-        {
-          "label": "NOTE",
-          "value": "User review note confirmed zāf; é̱stu has acute plus line below."
         }
       ],
       "witnesses": [
@@ -1685,7 +1673,7 @@
       "id": "bacmeister_row_09",
       "title": "Örnek cümle 9",
       "text": "Keína yai h̔e̱t rúeništa bermén’a.",
-      "source_note": "Marked h follows the Lerch h̔ review-bucket convention rather than ḫ.",
+      "source_note": "",
       "display_rows": [
         {
           "label": "LERCH",
@@ -1714,10 +1702,6 @@
         {
           "label": "TURKISH",
           "value": "Kızı yanında oturur ve ağlar."
-        },
-        {
-          "label": "NOTE",
-          "value": "Marked h follows the Lerch h̔ review-bucket convention rather than ḫ."
         }
       ],
       "witnesses": [
@@ -2425,7 +2409,7 @@
       "id": "bacmeister_row_14",
       "title": "Örnek cümle 14",
       "text": "Yau ve̱rī́e vāz dāmu, aúe díene perén’u (kai kén’u), aúe h̔irī́ne lauk vā́nu, aúe t̮eherī́ne h̔o̤wén’u.",
-      "source_note": "Printed line break divides t̮e-heríne; joined here as one word.",
+      "source_note": "",
       "display_rows": [
         {
           "label": "LERCH",
@@ -2454,10 +2438,6 @@
         {
           "label": "TURKISH",
           "value": "Birincisi koşar, ikincisi zıplar, üçüncüsü şarkı söyler, dördüncüsü güler."
-        },
-        {
-          "label": "NOTE",
-          "value": "Printed line break divides t̮e-heríne; joined here as one word."
         }
       ],
       "witnesses": [
@@ -3109,7 +3089,7 @@
       "id": "bacmeister_row_17",
       "title": "Örnek cümle 17",
       "text": "Vé̱ngi me̱ (Sé̱ki ma vā́d̮i) ńéšna wén’a.",
-      "source_note": "Likely error in the original transcription: ???na w?n?a probably represents one word, ???naw?n?a (?-??naw-?n-a = neg-hear-IPFV-3SG.F).",
+      "source_note": "Likely error in the original transcription: ńéšna wén’a probably represents one word, ńéšnawén’a (nyê-şnaw-ên-a = NEG-hear-IPFV-3SG.F).",
       "display_rows": [
         {
           "label": "LERCH",
@@ -3141,7 +3121,7 @@
         },
         {
           "label": "NOTE",
-          "value": "Likely error in the original transcription: ???na w?n?a probably represents one word, ???naw?n?a (?-??naw-?n-a = neg-hear-IPFV-3SG.F)."
+          "value": "Likely error in the original transcription: ńéšna wén’a probably represents one word, ńéšnawén’a (nyê-şnaw-ên-a = NEG-hear-IPFV-3SG.F)."
         }
       ],
       "witnesses": [
@@ -3252,14 +3232,6 @@
               "display_gloss": "NEG",
               "confidence": "working",
               "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
-            },
-            {
-              "form": "şna",
-              "normalized": "şna",
-              "gloss": "can/know?",
-              "display_gloss": "can/know?",
-              "confidence": "working",
-              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3270,8 +3242,8 @@
           "display_gloss": "hear",
           "morphemes": [
             {
-              "form": "w",
-              "normalized": "w",
+              "form": "şnaw",
+              "normalized": "şnaw",
               "gloss": "hear",
               "display_gloss": "hear",
               "confidence": "working",
@@ -5714,7 +5686,7 @@
       "id": "bacmeister_row_35",
       "title": "Örnek cümle 35",
       "text": "Ē̱no’e teir nā́kure bāryék é̱sta, bṓ’et̮e qí̥lma é̱sta.",
-      "source_note": "Final review reads bo???et?e; earlier crops made this word difficult to confirm.",
+      "source_note": "",
       "display_rows": [
         {
           "label": "LERCH",
@@ -5743,10 +5715,6 @@
         {
           "label": "TURKISH",
           "value": "Bu kuşun sivri gagası ve kısa kuyruğu vardır."
-        },
-        {
-          "label": "NOTE",
-          "value": "Final review reads bo???et?e; earlier crops made this word difficult to confirm."
         }
       ],
       "witnesses": [
@@ -6442,7 +6410,7 @@
       "id": "bacmeister_row_39",
       "title": "Örnek cümle 39",
       "text": "Āšme e̱stárera pī́la, rṓd̮era qí̮d̮a.",
-      "source_note": "Russian scan is partly clipped at the bottom; German witness appears to read q??d?a, though q??d?a may be expected.",
+      "source_note": "Likely error in the original transcription: the final word appears to have under-crescent on í, though qí̥d̮a may be expected.",
       "display_rows": [
         {
           "label": "LERCH",
@@ -6474,7 +6442,7 @@
         },
         {
           "label": "NOTE",
-          "value": "Russian scan is partly clipped at the bottom; German witness appears to read q??d?a, though q??d?a may be expected."
+          "value": "Likely error in the original transcription: the final word appears to have under-crescent on í, though qí̥d̮a may be expected."
         }
       ],
       "witnesses": [
@@ -7064,7 +7032,7 @@
       "id": "bacmeister_row_43",
       "title": "Örnek cümle 43",
       "text": "Mā kā́li bekí zazád̮e.",
-      "source_note": "Zaza line specifically says \"in Zaza.\"",
+      "source_note": "",
       "display_rows": [
         {
           "label": "LERCH",
@@ -7093,10 +7061,6 @@
         {
           "label": "TURKISH",
           "value": "Zazaca konuşuyoruz."
-        },
-        {
-          "label": "NOTE",
-          "value": "Zaza line specifically says \"in Zaza.\""
         }
       ],
       "witnesses": [
@@ -7204,7 +7168,7 @@
       "id": "bacmeister_row_44",
       "title": "Örnek cümle 44",
       "text": "Ši̥mā zazád̮a záni?",
-      "source_note": "Zaza line specifically asks about knowing Zaza.",
+      "source_note": "",
       "display_rows": [
         {
           "label": "LERCH",
@@ -7233,10 +7197,6 @@
         {
           "label": "TURKISH",
           "value": "Zazaca konuşmayı biliyor musunuz?"
-        },
-        {
-          "label": "NOTE",
-          "value": "Zaza line specifically asks about knowing Zaza."
         }
       ],
       "witnesses": [
