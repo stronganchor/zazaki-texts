@@ -1,0 +1,601 @@
+row_id	entry_id	source_page	entry_lerch	entry_modern_zazaki_guess	parent_headword	definition_de	definition_en	definition_tr	entry_review_status	conversion_confidence	conversion_notes
+1	lerch_glossary_p197_r0001:entry	197	ainü	aynü		(türk. aJLjJ ), Spiegel,			ocr_extracted	low	source row is still OCR-level
+2	lerch_glossary_p197_r0002:entry	197	aüka	awka		Wasser, Quelle, Bach. Vgl. Krm. av. aüka devi, Bier,			ocr_extracted	low	source row is still OCR-level
+3	lerch_glossary_p197_r0003:entry	197	aüdara	awdara		sogleich, 50.i.			ocr_extracted	low	source row is still OCR-level
+4	lerch_glossary_p197_r0004:entry	197	äunün’a	awnüna		(ich) sehe. aund, aunä, sah, 50.i; 51.8; 64.8. aunal, sahen, 49.6. baüni, sieh, schau zu, seht, 63.9; 78.1.			ocr_extracted	low	source row is still OCR-level
+5	lerch_glossary_p197_r0005:entry	197	aunaürike	awnawrikê		Schakal.			ocr_extracted	low	source row is still OCR-level
+6	lerch_glossary_p197_r0006:entry	197	Ahmed	Ahmêd		Personenname,			ocr_extracted	low	source row is still OCR-level
+7	lerch_glossary_p197_r0007:entry	197	dqjl	dqjl		Verstand. Vgl. Krm. äqjl.			ocr_extracted	low	source row is still OCR-level
+8	lerch_glossary_p197_r0008:entry	197	akün’a	aküna		(ich) ölTne; s. ken’a. akerd, akürd, öffnete, 51.8; 65.10. akürdau, ist offen,			ocr_extracted	low	source row is still OCR-level
+9	lerch_glossary_p197_r0009:entry	197	ageira	agêyra		ageral, ging, war im Ge- hen begriffen, 71.8. agerai digerai, ging hin und her, 85.13.			ocr_extracted	low	source row is still OCR-level
+10	lerch_glossary_p197_r0010:entry	197	ayä	aya	ağa, axa	Agha	agha; notable; lord	ağa	headword_parented	medium	
+11	lerch_glossary_p197_r0011:entry	197	andün’a	andüna		(ich) ziehe heraus. and, zog heraus,			ocr_extracted	low	source row is still OCR-level
+12	lerch_glossary_p197_r0012:entry	197	dya	dya		jener, e, es, 64.13.			ocr_extracted	low	source row is still OCR-level
+13	lerch_glossary_p197_r0013:entry	197	Adär	Adar	adar	Monatsname; s. Abth. S. xv.		mart, yılın üçüncü ayı adar helnena, nisun naseinena,	headword_parented	medium	
+14	lerch_glossary_p197_r0014:entry	197	adjr	adjr		Feuer. Vgl. Krm. ayjr.			ocr_extracted	low	source row is still OCR-level
+15	lerch_glossary_p197_r0015:entry	197	äna	ana	ana	diese(r) hier, die hier, der hier	this; this is	bu, -dır, -dir, -dur, -dür	headword_parented	medium	
+16	lerch_glossary_p197_r0016:entry	197	äna	ana	ardene	(ich) bringe, 84.16. änu, (er) bringe, 51.9. Vgl. Krm. ani.	bring, bring here	getirmek	headword_parented	medium	
+17	lerch_glossary_p197_r0017:entry	197	asirän	asiran		vom Stamme (Tribus), zum Stamme gehörig; s. aäirüt.			ocr_extracted	low	source row is still OCR-level
+18	lerch_glossary_p197_r0018:entry	197	asiret	asirêt	aşiret, 'eşiret	(arab. ^ic), Stamm, Tri- bus.		aşiret	headword_parented	medium	
+19	lerch_glossary_p197_r0019:entry	197	äsma	asma	Aşme	äsme, Monat, Mond; s. Abth. I, S. xv, xxv, Anm. 12 .	1) moon 2) month 3) girl name	1) ay (gökyüzü), 2) ay (takvim ayı) 3) bir kız ismi	headword_parented	medium	
+20	lerch_glossary_p197_r0020:entry	197	asän be	asan bê		ruhe aus, erhole dich, .1-2 . Vgl. npers: jL), jjL l_1.			ocr_extracted	low	source row is still OCR-level
+21	lerch_glossary_p198_r0021:entry	198	asfin’a	asfina		(ich) sehe. asdn’i, (sie) scheu, 49 . ö.			ocr_extracted	low	source row is still OCR-level
+22	lerch_glossary_p198_r0022:entry	198	dsmye	dsmyê		Himmel. Vgl. Krm. azmdn; cf. Pott Et. F. I, 194.			ocr_extracted	low	source row is still OCR-level
+23	lerch_glossary_p198_r0023:entry	198	azdd kdn’a	azdd kdna		(ich) befreie. Vgl. Krm. az&d kir.			ocr_extracted	low	source row is still OCR-level
+24	lerch_glossary_p198_r0024:entry	198	ar	ar	ard	Mehl. Gld: ar.	flour	un	headword_parented	medium	
+25	lerch_glossary_p198_r0025:entry	198	arewantf	arêwantf		Müller, 83.3 sq.			ocr_extracted	low	source row is still OCR-level
+26	lerch_glossary_p198_r0026:entry	198	aris	aris	arış	Mühle, 83.3.		ekmeklik tahıl; | öğütmek için değirmene götürülen tahıl,un	headword_parented	medium	
+27	lerch_glossary_p198_r0027:entry	198	argös	argos		Hase. Vgl. Krm. kerosk, kergü.			ocr_extracted	low	source row is still OCR-level
+28	lerch_glossary_p198_r0028:entry	198	ard	ard	hard	Erde. Vgl. Krm. ard.	earth, soil, earth’s surface	toprak, yer, yeryüzü	headword_parented	medium	
+29	lerch_glossary_p198_r0029:entry	198	ard	ard	ardene	brachte. ärdu, (dass du) brachtest, 52.8. Ärdi, brachten, 56.8; 65.7. bidri, biari, werden bringen, 62.8; 79.7; 84.12.	bring, bring here	getirmek	headword_parented	medium	
+30	lerch_glossary_p198_r0030:entry	198	arbüzy	arbüzy		Blutigel.			ocr_extracted	low	source row is still OCR-level
+31	lerch_glossary_p198_r0031:entry	198	Ali	Ali	Ali	Personenname.			headword_parented	medium	
+32	lerch_glossary_p198_r0032:entry	198	Aldh	Aldh		Gott,			ocr_extracted	low	source row is still OCR-level
+33	lerch_glossary_p198_r0033:entry	198	alüsk	alüsk		Wange,			ocr_extracted	low	source row is still OCR-level
+34	lerch_glossary_p198_r0034:entry	198	altün	altün	altun, altın	(türk. ,jyJl), Gold,		altın	headword_parented	medium	
+35	lerch_glossary_p198_r0035:entry	198	altunin	altûnin	altunın	golden.		altınlı	headword_parented	medium	
+36	lerch_glossary_p198_r0036:entry	198	el'itidr	êlitidr		Greis,			ocr_extracted	low	source row is still OCR-level
+37	lerch_glossary_p198_r0037:entry	198	ehende	êhêndê		einige, 68.9.			ocr_extracted	low	source row is still OCR-level
+38	lerch_glossary_p198_r0038:entry	198	ek’e	êkê	eke	wenn. Vgl. Krm. ek.		diğinde	headword_parented	medium	
+39	lerch_glossary_p198_r0039:entry	198	enkai	ênkay		sobald, 67.2.			ocr_extracted	low	source row is still OCR-level
+40	lerch_glossary_p198_r0040:entry	198	äbéra	abêra		ich lasse fallen	to let fall / drop	bırakmak / düşürmek	qa_reviewed	high	
+41	lerch_glossary_p198_r0041:entry	198	amá	ama	amayene	ich komme	to come / I come	gelmek / geliyorum	qa_reviewed	high	
+42	lerch_glossary_p198_r0042:entry	198	amdneta	amdnêta		Schützling; s. emdneta.			ocr_extracted	low	source row is still OCR-level
+43	lerch_glossary_p198_r0043:entry	198	ammini	ammini		im Sommer. Vgl. Krm. havin.			ocr_extracted	low	source row is still OCR-level
+44	lerch_glossary_p198_r0044:entry	198	Avdul’ah	Avdûlah		Personenname,			ocr_extracted	low	source row is still OCR-level
+45	lerch_glossary_p198_r0045:entry	198	awe	awê		dieser, e, es; 50.4. auch aü’e.			ocr_extracted	low	source row is still OCR-level
+46	lerch_glossary_p198_r0046:entry	198	engeld	êngêld		Oberarm,			ocr_extracted	low	source row is still OCR-level
+47	lerch_glossary_p198_r0047:entry	198	engimye	êngimyê		Honig. Vgl. Krm. hinglv.			ocr_extracted	low	source row is still OCR-level
+48	lerch_glossary_p198_r0048:entry	198	engist	êngist		Finger. Vgl. allb: angusta; hzv: e-rp. . pärs^ npers: *. „;.r.l S. Polt Zählmethode, 283. engisti lingän, Fusszehe. engistere, Hing am Finger, eiigi'ir, Weintraube. Vgl. Ir. bei Kich: engheer, npers: jfi>\			ocr_extracted	low	source row is still OCR-level
+49	lerch_glossary_p199_r0049:entry	199	gtia	gtya		hier. etira, hierher, von hier, en’a = äna. Sn’oe = fn’a. Sn’ie, plur.			ocr_extracted	low	source row is still OCR-level
+50	lerch_glossary_p199_r0050:entry	199	estdr	êstdr		Stern. Vgl. Krm. istörik, histSr, hu- stSr, sterik.			ocr_extracted	low	source row is still OCR-level
+51	lerch_glossary_p199_r0051:entry	199	eiäte	êyatê		warf, 58.3; 82. ii.			ocr_extracted	low	source row is still OCR-level
+52	lerch_glossary_p199_r0052:entry	199	eizjmi	êyzjmi		Holz. Vgl. Krm. hezjng.			ocr_extracted	low	source row is still OCR-level
+53	lerch_glossary_p199_r0053:entry	199	eiroe	êyroê		heute. Vgl. Krm. Irö. eiru = eiroe.			ocr_extracted	low	source row is still OCR-level
+54	lerch_glossary_p199_r0054:entry	199	eil	êyl		eilek, Kind,			ocr_extracted	low	source row is still OCR-level
+55	lerch_glossary_p199_r0055:entry	199	egit	êgit	eğit	(türk. vlX), Held, 56, «4. ingist = engiät.		yiğit	headword_parented	medium	
+56	lerch_glossary_p199_r0056:entry	199	oyjr	oyjr		(türk.			ocr_extracted	low	source row is still OCR-level
+57	lerch_glossary_p199_r0057:entry	199	Jkji	Jkji		1), Glück, 54.14. . 109 V			ocr_extracted	low	source row is still OCR-level
+58	lerch_glossary_p199_r0058:entry	199	estdr	êstdr		Pferd,			ocr_extracted	low	source row is still OCR-level
+59	lerch_glossary_p199_r0059:entry	199	estii	êstyy		ist.			ocr_extracted	low	source row is still OCR-level
+60	lerch_glossary_p199_r0060:entry	199	esnau kdn’a	êsnaw kdna		bade mich,			ocr_extracted	low	source row is still OCR-level
+61	lerch_glossary_p199_r0061:entry	199	ez	êz	ez	ich. erd = ard.	I	ben	headword_parented	medium	
+62	lerch_glossary_p199_r0062:entry	199	erdjsi	êrdjsi		Bart.			ocr_extracted	low	source row is still OCR-level
+63	lerch_glossary_p199_r0063:entry	199	Sre’u	Srêû		spät.			ocr_extracted	low	source row is still OCR-level
+64	lerch_glossary_p199_r0064:entry	199	ers kerd	êrs kêrd		komniandirte: marsch!			ocr_extracted	low	source row is still OCR-level
+65	lerch_glossary_p199_r0065:entry	199	eräau’üte	êraawütê		schickte. ersauwen’a, (ich) schicke. Vgl. oss: apB&ryu.			ocr_extracted	low	source row is still OCR-level
+66	lerch_glossary_p199_r0066:entry	199	ernte	êrntê		Schulter,			ocr_extracted	low	source row is still OCR-level
+67	lerch_glossary_p199_r0067:entry	199	em’a	êma	am, aem	Vaterschwester.		hala, bibi	headword_parented	medium	
+68	lerch_glossary_p199_r0068:entry	199	emSr	êmSr		(arab.^^c), Leben.			ocr_extracted	low	source row is still OCR-level
+69	lerch_glossary_p199_r0069:entry	199	(mäoe	(maoê		diese Nacht. Vgl. Krm. läev. • _			ocr_extracted	low	source row is still OCR-level
+70	lerch_glossary_p199_r0070:entry	199	Sstere	Sstêrê		Horn: s. Krm. stüru. espär. weristbeespdr, stieg zu Pferde, 67.il.			ocr_extracted	low	source row is still OCR-level
+71	lerch_glossary_p199_r0071:entry	199	efendim	êfêndim		(tiirk.^jJil), mein Herr,			ocr_extracted	low	source row is still OCR-level
+72	lerch_glossary_p199_r0072:entry	199	evära	êvara		Abend.			ocr_extracted	low	source row is still OCR-level
+73	lerch_glossary_p200_r0073:entry	200	umi'id	ûmiid		Hoffnung. Vgl. Krm. f vi.			ocr_extracted	low	source row is still OCR-level
+74	lerch_glossary_p200_r0074:entry	200	ha in	ha in		hier; 64.8; 66.».			ocr_extracted	low	source row is still OCR-level
+75	lerch_glossary_p200_r0075:entry	200	H'aidür	Haydür		Personenname,			ocr_extracted	low	source row is still OCR-level
+76	lerch_glossary_p200_r0076:entry	200	hii’idi	hyyidi		76. to.			ocr_extracted	low	source row is still OCR-level
+77	lerch_glossary_p200_r0077:entry	200	hau	haw		Schlaf. Vgl. Krm. liäv.			ocr_extracted	low	source row is still OCR-level
+78	lerch_glossary_p200_r0078:entry	200	haüna	hawna		sogleich,			ocr_extracted	low	source row is still OCR-level
+79	lerch_glossary_p200_r0079:entry	200	haul	hawl		Lohn (?)	reward / pay	ödül / ücret	qa_reviewed	high	
+80	lerch_glossary_p200_r0080:entry	200	hak	hak	hak	Ei. Vgl. Krm. hek.	egg	yumurta	headword_parented	medium	
+81	lerch_glossary_p200_r0081:entry	200	h&tia	h&tya		hier.			ocr_extracted	low	source row is still OCR-level
+82	lerch_glossary_p200_r0082:entry	200	hadrü	hadrü		hadre, bereit, fertig, hadraü, ist fertig, hadre kerdu, bereite, 52.7.			ocr_extracted	low	source row is still OCR-level
+83	lerch_glossary_p200_r0083:entry	200	häl	hal	hâl	(arab. jU), Zustand. ön’a Mle, dieses Mal, 77.12. Ml, Onkel von mütterlicher Seite. Vocat. hälö, 63.7. Mia, Tante von mütterlicher Seite, habür, (arab._^i), Nachricht, Bot- schaft. habür ersau’üte, benachrich- tigte, 62.12-13. ;		hâl 1) durum 2) tutum, tavır 3) şimdiki zaman, içinde yaşanılan zaman 4) takat 5) kötü durum, sıkıntı, dert	headword_parented	medium	
+84	lerch_glossary_p200_r0084:entry	200	üda	üda		nieder. üda ru£n’a, fallt nieder, 55.2.			ocr_extracted	low	source row is still OCR-level
+85	lerch_glossary_p200_r0085:entry	200	liet	lyêt		Postposition: zu, bei, 50.4: 62.is. Vgl. JC: hadä (Opp.			ocr_extracted	low	source row is still OCR-level
+86	lerch_glossary_p200_r0086:entry	200	XVII	XVYY		4 ' 1 s. Bnf. Gl. s. v.)			ocr_extracted	low	source row is still OCR-level
+87	lerch_glossary_p200_r0087:entry	200	hetakü	hêtakü		bis.			ocr_extracted	low	source row is still OCR-level
+88	lerch_glossary_p200_r0088:entry	200	lienek	lyênêk		Kinn, hetia = h&tia.			ocr_extracted	low	source row is still OCR-level
+89	lerch_glossary_p200_r0089:entry	200	H'enzi	Hênzi		s. Deistei H'enzi.			ocr_extracted	low	source row is still OCR-level
+90	lerch_glossary_p200_r0090:entry	200	lies	lyês		Bär. Vgl. Krm. hirt.			ocr_extracted	low	source row is still OCR-level
+91	lerch_glossary_p200_r0091:entry	200	her	hêr	her	Esel	donkey	eşek	qa_reviewed	high	
+92	lerch_glossary_p200_r0092:entry	200	herein	hêrêyn		Harem,			ocr_extracted	low	source row is still OCR-level
+93	lerch_glossary_p200_r0093:entry	200	hera’am	hêraam		Bad.			ocr_extracted	low	source row is still OCR-level
+94	lerch_glossary_p200_r0094:entry	200	hendür	hêndür		Dolch. Vgl. Krm. yantür.			ocr_extracted	low	source row is still OCR-level
+95	lerch_glossary_p200_r0095:entry	200	hers	hêrs	hêrs	böse. Vgl. Krm. hirs.	anger, rage, fury	öfke, sinir, kızgınlık,, şiddetli istek	headword_parented	medium	
+96	lerch_glossary_p200_r0096:entry	200	hišin	hişin	xişn	dick?	thick / strong	kalın / güçlü	qa_reviewed	high	
+97	lerch_glossary_p201_r0097:entry	201	haut	hawt		sieben.			ocr_extracted	low	source row is still OCR-level
+98	lerch_glossary_p201_r0098:entry	201	Iiautai	Yyawtay		siebzig,			ocr_extracted	low	source row is still OCR-level
+99	lerch_glossary_p201_r0099:entry	201	hautaviu	hawtavyw		siebzigste,			ocr_extracted	low	source row is still OCR-level
+100	lerch_glossary_p201_r0100:entry	201	hautes	hawtês		siebzebu.			ocr_extracted	low	source row is still OCR-level
+101	lerch_glossary_p201_r0101:entry	201	hautesin	hawtêsin		siebzehnte.			ocr_extracted	low	source row is still OCR-level
+102	lerch_glossary_p201_r0102:entry	201	hautSn	hawtSn		siebente, hak = hak.			ocr_extracted	low	source row is still OCR-level
+103	lerch_glossary_p201_r0103:entry	201	halyen	halyên		Nest. Vgl. Krm. helin.			ocr_extracted	low	source row is still OCR-level
+104	lerch_glossary_p201_r0104:entry	201	hengi	hêngi	hıng, heng	Biene. Vgl. Krm. hingtV, Honig,		arı, bal arısı	headword_parented	medium	
+105	lerch_glossary_p201_r0105:entry	201	hergu	hêrgû		Jeder. hergu kes, ein Jeder, welcher,			ocr_extracted	low	source row is still OCR-level
+106	lerch_glossary_p201_r0106:entry	201	helye	hêlyê		ein wenig,			ocr_extracted	low	source row is still OCR-level
+107	lerch_glossary_p201_r0107:entry	201	hema	hêma	hema	aber	however; only	ancak	headword_parented	medium	
+108	lerch_glossary_p201_r0108:entry	201	heme	hêmê	heme	hennue, alle,		1) hep(si), genel, herkes 2) mama, yemek, yiyecek (çocuk dilinde)	headword_parented	medium	
+109	lerch_glossary_p201_r0109:entry	201	hewd	hêwd		Luft, Wind. hewd yen’u, der Wind gehl, bläst. Vgl. Krm. hdva.			ocr_extracted	low	source row is still OCR-level
+110	lerch_glossary_p201_r0110:entry	201	qaüvi	qawvi		qaüwi, warum, 50.2, 55.9; 8!.u.			ocr_extracted	low	source row is still OCR-level
+111	lerch_glossary_p201_r0111:entry	201	qanz	qanz		Gans. Vgl. Krm. qaz.			ocr_extracted	low	source row is still OCR-level
+112	lerch_glossary_p201_r0112:entry	201	qandard	qandard		woher, 65.12.			ocr_extracted	low	source row is still OCR-level
+113	lerch_glossary_p201_r0113:entry	201	qandiiü	qandyyw		wohiu, an welchen Ort, 87. 1; s. qam. H. heist, acht, heistai, achtzig, heistayin, achtzigste, liciätes, achtzehn. heiStesfn, achtzehule. heistin, achte, henzär, tausend, herd, breit, hergu = hergu. hiris, dreissig. hirfne, dritte, hirue, allen. Vgl. Krm. hlrö. hirye, drei, hlryes, dreizehn, hlryesiü, dreizehnte, hlryin, dritte; s. hirfne. hyegä, Feld. hyedf, hyedike, langsam, hyedi hyedl, bei Wenigem.			ocr_extracted	low	source row is still OCR-level
+114	lerch_glossary_p201_r0114:entry	201	qandaüke	qandawkê		wo nur, an welchem Orte	wherever / at which place	her nerede / hangi yerde	qa_reviewed	high	
+115	lerch_glossary_p202_r0115:entry	202	qaländik = tiirk. acJ>	qalandik = tyyrk. acJ>		Rabe,			ocr_extracted	low	source row is still OCR-level; multiword or collapsed row
+116	lerch_glossary_p202_r0116:entry	202	qam	qam		welcher, wer, 59.8. pl. qänii. qäinek, derjenige welcher, wer nur, 73.13. qämek — qämek, qämuk — qäniuk, wer — wer, 75.4; 85 . 12-13 .			ocr_extracted	low	source row is still OCR-level
+117	lerch_glossary_p202_r0117:entry	202	qdfelya	qdfêlya		schloss sich, 82.9.			ocr_extracted	low	source row is still OCR-level
+118	lerch_glossary_p202_r0118:entry	202	kai kün'a	kay küna		(ich) springe,			ocr_extracted	low	source row is still OCR-level
+119	lerch_glossary_p202_r0119:entry	202	kauyä	kawya		kauye, Kampf, Streit, Schlacht. Vgl. Krin. qauyd, kauyä.			ocr_extracted	low	source row is still OCR-level
+120	lerch_glossary_p202_r0120:entry	202	kaut	kawt		fiel, 64.io; s. ra kaüta. kaüta rayer, auf den Weg fal- lend, d. h. sich auf den Weg machend, 51.7. kaut ver, zog hin (zu Jeman- dem), 55.». kaüta ver, partic., 62 is,64.4 3. 0- kaul, (ar. Jy), Rede, 57.9; 58.2.			ocr_extracted	low	source row is still OCR-level
+121	lerch_glossary_p202_r0121:entry	202	kahdn	kahdn		alt; cf. Krm. s. ead. v.			ocr_extracted	low	source row is still OCR-level
+122	lerch_glossary_p202_r0122:entry	202	kayit	kayit		Brief; cf. Krm. s. v. kayid.			ocr_extracted	low	source row is still OCR-level
+123	lerch_glossary_p202_r0123:entry	202	katjr	katjr		(türk.			ocr_extracted	low	source row is still OCR-level
+124	lerch_glossary_p202_r0124:entry	202	Li	Li		Maul- thier.			ocr_extracted	low	source row is still OCR-level
+125	lerch_glossary_p202_r0125:entry	202	kar	kar	kar	Arbeit; cf. Krm. s. ead. v. kar kena, (ich)arbeite; s. kün’a.	1) work, activity 2) profit	1) çalışma, iş, eylem 2) kâr, kazanç	headword_parented	medium	
+126	lerch_glossary_p202_r0126:entry	202	karaküs	karaküs		(türk, Habicht,			ocr_extracted	low	source row is still OCR-level
+127	lerch_glossary_p202_r0127:entry	202	k.irdi	k.irdi		Messer. Vgl. Krm. ker.			ocr_extracted	low	source row is still OCR-level
+128	lerch_glossary_p202_r0128:entry	202	qdfelna	qdfêlna		geschlossen habend, 83.4.			ocr_extracted	low	source row is still OCR-level
+129	lerch_glossary_p202_r0129:entry	202	qirqiSün	qirqiSün		Blei, Kugel; vgl. türk. ClAj}*- I			ocr_extracted	low	source row is still OCR-level
+130	lerch_glossary_p202_r0130:entry	202	qjle	qjlê		Flamme, 4.37.			ocr_extracted	low	source row is still OCR-level
+131	lerch_glossary_p202_r0131:entry	202	qilrn	qilrn		kurz, qodt. kurz.			ocr_extracted	low	source row is still OCR-level
+132	lerch_glossary_p202_r0132:entry	202	qund	qûnd		ein Vogel von ’/* ^uss Grösse. Sein Schrei hat iihle Bedeutung bei den Kurden, quze = türk.			ocr_extracted	low	source row is still OCR-level
+133	lerch_glossary_p202_r0133:entry	202	Karbegtini	Karbêgtini		n. pr. 61.7.			ocr_extracted	low	source row is still OCR-level
+134	lerch_glossary_p202_r0134:entry	202	kaläni	kalani		Schwerlscheide.			ocr_extracted	low	source row is still OCR-level
+135	lerch_glossary_p202_r0135:entry	202	käli kün’a	kali küna		(ich) spreche,			ocr_extracted	low	source row is still OCR-level
+136	lerch_glossary_p202_r0136:entry	202	kälma	kalma		kälme, Schwert, 64.it.			ocr_extracted	low	source row is still OCR-level
+137	lerch_glossary_p202_r0137:entry	202	kekü	kêkü		Kuckuk. Vgl. Krm. kekö.			ocr_extracted	low	source row is still OCR-level
+138	lerch_glossary_p202_r0138:entry	202	kerlng	kêrlng		Kranich. Vgl. Krm. kolüig.			ocr_extracted	low	source row is still OCR-level
+139	lerch_glossary_p202_r0139:entry	202	kerge	kêrgê	kerge	Huhn. G: kurka yallina che cova; s. PZ. IV 26, 27. kergai mjsri, Truthenne,	chicken	tavuk	headword_parented	medium	
+140	lerch_glossary_p202_r0140:entry	202	kebäb	kêbab	kebab	Braten,		kebap	headword_parented	medium	
+141	lerch_glossary_p202_r0141:entry	202	ke	kê	ke	dass.	1) so that, that, after, when 2) do, make	1) ki, eğer, şayet, ise, -diğini/-diğine, -eceğini/-eceğine, -dikten sonra 2) et	headword_parented	medium	
+142	lerch_glossary_p202_r0142:entry	202	kei	kêy		Haus, Wohnung. Vgl. npers: (s. Ilaug in d. Zeitschr. d. d. m. G.			ocr_extracted	low	source row is still OCR-level
+143	lerch_glossary_p202_r0143:entry	202	VII	VYY		323). keiye, ins Haus, nach Hause, 51 .9; 53.9.			ocr_extracted	low	source row is still OCR-level
+144	lerch_glossary_p202_r0144:entry	202	keike	kêykê		sobald als, 57.«.			ocr_extracted	low	source row is still OCR-level
+145	lerch_glossary_p203_r0145:entry	203	kcina	kcina		Tochter, Mädchen. Ygl.altb: ka'\n\n, Jüngling, Jung- frau , kainü puella ( Itrrkli. Gl.); pärs: (Sp. PGr. 49); cf. Kuhn in Webers Ind. Stud. I, 329; Bopp Vgl. Gr. N. A. 1, 141 ; Hofers Zeitschrift I, 61, 133. yau kcinau yau lad, ein Mäd- chen und ein Knabe, 80.1.			ocr_extracted	low	source row is still OCR-level
+146	lerch_glossary_p203_r0146:entry	203	keincka	kêyncka		keineke, Diminutiv von keina, 80.4, s.			ocr_extracted	low	source row is still OCR-level
+147	lerch_glossary_p203_r0147:entry	203	keif = Krm. keif	kêyf = Krm. kêyf					ocr_extracted	low	source row is still OCR-level; multiword or collapsed row
+148	lerch_glossary_p203_r0148:entry	203	kenär	kênar	kınar	Seile, Gegend. Vgl. npers: jbf.	edge	kenar	headword_parented	medium	
+149	lerch_glossary_p203_r0149:entry	203	ken'a	kêna	kerdene	(ich) mache	to do; to make	yapmak, etmek	headword_parented	medium	
+150	lerch_glossary_p203_r0150:entry	203	ki	ki	kerdene	(du) machst	to do; to make	yapmak, etmek	headword_parented	medium	
+151	lerch_glossary_p203_r0151:entry	203	kjd	kjd		klein. kinga*= Krm. kinga.			ocr_extracted	low	source row is still OCR-level
+152	lerch_glossary_p203_r0152:entry	203	kjj'ik	kjjik		llais.			ocr_extracted	low	source row is still OCR-level
+153	lerch_glossary_p203_r0153:entry	203	kisen’a	kisêna		(ich) tödte, 63.o-io. kisün'i, (du) lödtest. 63.12. kist, tödtele, getödtet. kisti , siud getödtet worden, 6 1 .y; 64.13, 14. kiSya. wurde getödtet, 64.13.			ocr_extracted	low	source row is still OCR-level
+154	lerch_glossary_p203_r0154:entry	203	kiüst	kywst		Seite des menschlichen Kör- pers, 57.8 li.			ocr_extracted	low	source row is still OCR-level
+155	lerch_glossary_p203_r0155:entry	203	Kird	Kird	Kırd	Kurde,		bazışafi zazaların (Bingöl, Palu, Lice) kırdki dil tanımının yanında kullandıklarıkimlik tanımı	headword_parented	medium	
+156	lerch_glossary_p203_r0156:entry	203	kirindele	kirindêlê		Frosch,			ocr_extracted	low	source row is still OCR-level
+157	lerch_glossary_p203_r0157:entry	203	kirj’e	kirjê		Sonntag,			ocr_extracted	low	source row is still OCR-level
+158	lerch_glossary_p203_r0158:entry	203	kildr	kildr		(türk._^T), Eidechse,			ocr_extracted	low	source row is still OCR-level
+159	lerch_glossary_p203_r0159:entry	203	kift	kift	kıft	Schulter.		omuz	headword_parented	medium	
+160	lerch_glossary_p203_r0160:entry	203	koen’a	koêna		ruhe, schlafe; s. kaut,			ocr_extracted	low	source row is still OCR-level
+161	lerch_glossary_p203_r0161:entry	203	koi	koy		Berg. Cu. 306: ihjf koueke herz une montagne haute. Vgl. JC: kauf(Opp.			ocr_extracted	low	source row is still OCR-level
+162	lerch_glossary_p203_r0162:entry	203	XVII	XVYY		381); huzv: ao; pärs: (Sp. llzv.Gr. §21 Anm. 5); npers: i afgli: (H.); oss: xox, xoqx.			ocr_extracted	low	source row is still OCR-level
+163	lerch_glossary_p203_r0163:entry	203	kotdr	kotdr		Taube. Vgl. npers: J»yS, krm. kevük.			ocr_extracted	low	source row is still OCR-level
+164	lerch_glossary_p203_r0164:entry	203	kör	kor	kor	blind	blind	kör	qa_reviewed	high	
+165	lerch_glossary_p203_r0165:entry	203	korbcld	korbcld		ein Vogel, = tiirk.ac^j.			ocr_extracted	low	source row is still OCR-level
+166	lerch_glossary_p203_r0166:entry	203	kolikei zindi	kolikêy zindi		Nasenlöcher,			ocr_extracted	low	source row is still OCR-level
+167	lerch_glossary_p203_r0167:entry	203	köpeki	kopêki		abschenlich, 82.8.			ocr_extracted	low	source row is still OCR-level
+168	lerch_glossary_p203_r0168:entry	203	komur	komûr		(türk.^y ), Kohle,			ocr_extracted	low	source row is still OCR-level
+169	lerch_glossary_p203_r0169:entry	203	ku. (er) macht	kû. (êr) macht		mache, 52. i.			ocr_extracted	low	source row is still OCR-level; multiword or collapsed row
+170	lerch_glossary_p203_r0170:entry	203	kuen a	kwên a		(ich) klopfe,			ocr_extracted	low	source row is still OCR-level
+171	lerch_glossary_p203_r0171:entry	203	kusera	kûsêra		wohin,			ocr_extracted	low	source row is still OCR-level
+172	lerch_glossary_p203_r0172:entry	203	kut	kût		Feld, Acker,			ocr_extracted	low	source row is still OCR-level
+173	lerch_glossary_p203_r0173:entry	203	kütik	kütik	kutık	Hund. Vgl. Krm. kütik, kuti.	dog	köpek	headword_parented	medium	
+174	lerch_glossary_p203_r0174:entry	203	kurq	kûrq		Fell, Pelz. Vgl. Krm. kurq. r ^^oogk			ocr_extracted	low	source row is still OCR-level
+175	lerch_glossary_p204_r0175:entry	204	kuterän	kûtêran		lleerd. ii 1			ocr_extracted	low	source row is still OCR-level
+176	lerch_glossary_p204_r0176:entry	204	ga	ga	ga	Stier. Vgl. Krin. ga, ge. gai büeri, brauner Stier, gai suri, rother Stier,	ox, bullock	öküz (kısırlaştırılmış boğa)	headword_parented	medium	
+177	lerch_glossary_p204_r0177:entry	204	gaz keu'a	gaz kêwa		beisse.			ocr_extracted	low	source row is still OCR-level
+178	lerch_glossary_p204_r0178:entry	204	gämye	gamyê		ein wenig,			ocr_extracted	low	source row is still OCR-level
+179	lerch_glossary_p204_r0179:entry	204	geira	gêyra		ging, 56.7; s. geren’a.			ocr_extracted	low	source row is still OCR-level
+180	lerch_glossary_p204_r0180:entry	204	gcraüt	gcrawt		nahm, griff, s. gdn’a. Vgl. Krm. girt. ez geraüta, ich bin ergrifleu worden, 56.10. liegeraüt, nahm nicht, 61.o.			ocr_extracted	low	source row is still OCR-level
+181	lerch_glossary_p204_r0181:entry	204	geren’a	gêrêna		(ich) gehe. di girlai, gingen davon, 62. io.			ocr_extracted	low	source row is still OCR-level
+182	lerch_glossary_p204_r0182:entry	204	gelähke	gêlahkê		Mal. Ön’a gelähke, dieses Mal.			ocr_extracted	low	source row is still OCR-level
+183	lerch_glossary_p204_r0183:entry	204	gjzik	gjzik		Haar,			ocr_extracted	low	source row is still OCR-level
+184	lerch_glossary_p204_r0184:entry	204	gil	gil	gıl	Ast. gile = g|2ik.		1) dal 2) uç, zirve	headword_parented	medium	
+185	lerch_glossary_p204_r0185:entry	204	gö’en	goên		Blut; s. gö’in.			ocr_extracted	low	source row is still OCR-level
+186	lerch_glossary_p204_r0186:entry	204	gö’elik	goêlik		gölek, Kalb; s. ga.			ocr_extracted	low	source row is still OCR-level
+187	lerch_glossary_p204_r0187:entry	204	gözeke	gozêkê		Knöchel.			ocr_extracted	low	source row is still OCR-level
+188	lerch_glossary_p204_r0188:entry	204	gen’a	gêna		(ich) nehme, 66.13. bigü (imp.), nimm, bigä, (ich) werde nehmen, bjgi, (du) wirst nehmen, 66.14. geraut, nahm. , k. | kutelän = kuteräh.			ocr_extracted	low	source row is still OCR-level
+189	lerch_glossary_p204_r0189:entry	204	göst	gost	goşt	Fleisch. Vgl. Krm. göst.	meat	et	headword_parented	medium	
+190	lerch_glossary_p204_r0190:entry	204	gölek	golêk		gölik = gö’elik.			ocr_extracted	low	source row is still OCR-level
+191	lerch_glossary_p204_r0191:entry	204	gölikäu	golikaw		Kälberweide,			ocr_extracted	low	source row is still OCR-level
+192	lerch_glossary_p204_r0192:entry	204	gövdndi	govdndi		Tanz. Vgl. Krm. gövend.			ocr_extracted	low	source row is still OCR-level
+193	lerch_glossary_p204_r0193:entry	204	gurä	gûra		gure, Arbeit. guraükh, eine Arbeit, ein Ge- schäft. te te guraüke vädi beral me destra yen’u, welche Arbeit du ansagsl (befiehlst), mein Bruder wird sie leisten 56.4-3.			ocr_extracted	low	source row is still OCR-level
+194	lerch_glossary_p204_r0194:entry	204	gnen’a	gnêna		(ich) falle. gnen’u eru, fallt herab, fällt auf die Erde, 57.7-8. gna, fiel. gna Ahniedi pei tlmyiru, Bei dem Achmed zwischen die Augen, 64.11-12.			ocr_extracted	low	source row is still OCR-level
+195	lerch_glossary_p204_r0195:entry	204	gern	gêrn		wann. Vgl. Krm. germ, germ. Xa’in, (arab. ^.li), Verräthcr. Xa'ine ken’a, (ich) verrathe. Vgl. Krm. ka’in. Xazirän, Monatsn.; s. Aktk. I.S.xv. •yarib, (ar. fremd. yal6, YVaizen. Vgl. Krm. genim.			ocr_extracted	low	source row is still OCR-level
+196	lerch_glossary_p205_r0196:entry	205	tau	taw		Jemand. tau tchemia, niemals, taüde, nirgend, tewi desti, keines Menschen Hand.			ocr_extracted	low	source row is still OCR-level
+197	lerch_glossary_p205_r0197:entry	205	taurös	tawros		vierzig,			ocr_extracted	low	source row is still OCR-level
+198	lerch_glossary_p205_r0198:entry	205	tauresin	tawrêsin		vierzigste.			ocr_extracted	low	source row is still OCR-level
+199	lerch_glossary_p205_r0199:entry	205	tÄke	tAkê		Schienbein,			ocr_extracted	low	source row is still OCR-level
+200	lerch_glossary_p205_r0200:entry	205	tankäl	tankal		Fledermaus,			ocr_extracted	low	source row is still OCR-level
+201	lerch_glossary_p205_r0201:entry	205	tare	tarê		Stirn,			ocr_extracted	low	source row is still OCR-level
+202	lerch_glossary_p205_r0202:entry	205	tarös	taros		vierzehn,			ocr_extracted	low	source row is still OCR-level
+203	lerch_glossary_p205_r0203:entry	205	taresin	tarêsin		vierzehnte,			ocr_extracted	low	source row is still OCR-level
+204	lerch_glossary_p205_r0204:entry	205	taräcme	taracmê		Mittwoch. Vgl. Krm. tarsembe.			ocr_extracted	low	source row is still OCR-level
+205	lerch_glossary_p205_r0205:entry	205	tarSQ	tarSQ		Markt; s. Krm. tarsü. tek = tek.			ocr_extracted	low	source row is still OCR-level
+206	lerch_glossary_p205_r0206:entry	205	tend	tênd		wie viel.			ocr_extracted	low	source row is still OCR-level
+207	lerch_glossary_p205_r0207:entry	205	çene	cênê	çene	Kinn	1) corner, edge 2) chin, mentum 3) talkativeness, loquacity	1) köşe 2) çene 3) çok konuşma huyu, gevezelik	headword_parented	medium	
+208	lerch_glossary_p205_r0208:entry	205	IV	İV		20-21. Teite, Ortsname, 63. l. yizmkär = krm.			ocr_extracted	low	source row is still OCR-level
+209	lerch_glossary_p205_r0209:entry	205	Yjzmkär	Yjzmkar		jfizni- kär. Tele = krm. Tirt.			ocr_extracted	low	source row is still OCR-level
+210	lerch_glossary_p205_r0210:entry	205	tehtir	têhtir		vier,			ocr_extracted	low	source row is still OCR-level
+211	lerch_glossary_p205_r0211:entry	205	teherin	têhêrin		vierte,			ocr_extracted	low	source row is still OCR-level
+212	lerch_glossary_p205_r0212:entry	205	tek	têk		Pistole.			ocr_extracted	low	source row is still OCR-level
+213	lerch_glossary_p205_r0213:entry	205	tenitaqü	tênitaqü		temteqü pa§ä, 84 sq.			ocr_extracted	low	source row is still OCR-level
+214	lerch_glossary_p205_r0214:entry	205	tjmke	tjmkê		sobald, 70.i2-t3.			ocr_extracted	low	source row is still OCR-level
+215	lerch_glossary_p205_r0215:entry	205	çı	cı		Speise, 54.10.			ocr_extracted	low	source row is still OCR-level
+216	lerch_glossary_p205_r0216:entry	205	çı	cı	çı	was	what	ne	headword_parented	medium	
+217	lerch_glossary_p205_r0217:entry	205	tiän	tyan		(türk. ^L»), Eidechse,			ocr_extracted	low	source row is still OCR-level
+218	lerch_glossary_p205_r0218:entry	205	tikarei	tikarêy		was treibt ihr, was macht ihr?	what are you doing?	ne yapıyorsunuz?	qa_reviewed	high	
+219	lerch_glossary_p205_r0219:entry	205	tide	tidê		Brust (weibliche). Vgl. P. Boetticher Arica, p. 72 (172).			ocr_extracted	low	source row is still OCR-level
+220	lerch_glossary_p205_r0220:entry	205	tinau	tinaw		wie ist?	how is it?	nasıl?	qa_reviewed	high	
+221	lerch_glossary_p205_r0221:entry	205	tinßn’a	tinßna		(ich) schneide, mähe, tina, schnitt, 49.9; 50.8. bitiua, (ich) werde schneiden, bitini, werden schneiden, 49.7.			ocr_extracted	low	source row is still OCR-level
+222	lerch_glossary_p206_r0222:entry	206	tihü	tihü		ist nicht, 55.12-13. Vgl. Krm. tune,			ocr_extracted	low	source row is still OCR-level
+223	lerch_glossary_p206_r0223:entry	206	tiralic	tiralic		(ar. ^Ij»), Chirurg. [ez tirdhei d'ewya, ich bin der Chirurg des Dev, nicht: ich			ocr_extracted	low	source row is still OCR-level
+224	lerch_glossary_p206_r0224:entry	206	da	da		Ort. Vgl. Krm. dl, di. däde ver da, warf hiD, warf bei Seite, 72.3-4. daiki, an einem Orte, irgendwo.			ocr_extracted	low	source row is still OCR-level
+225	lerch_glossary_p206_r0225:entry	206	<Jau	<Jaw		Gerste. Vgl. Krm. de.			ocr_extracted	low	source row is still OCR-level
+226	lerch_glossary_p206_r0226:entry	206	Pauz	Pawz		Ortsname, 71.5.			ocr_extracted	low	source row is still OCR-level
+227	lerch_glossary_p206_r0227:entry	206	dan mirdi	dan mirdi		Heldenseele,			ocr_extracted	low	source row is still OCR-level
+228	lerch_glossary_p206_r0228:entry	206	dal	dal		bitter. Vgl. Krm. tal.			ocr_extracted	low	source row is still OCR-level
+229	lerch_glossary_p206_r0229:entry	206	debäb	dêbab		(ar. ^Jy»), Au ,wort. debäbe ken’a , debiibc dann, (ich) antworte, 50.8.			ocr_extracted	low	source row is still OCR-level
+230	lerch_glossary_p206_r0230:entry	206	navaüke	navawkê		so lange bis, nicht frü- her als, 66.14; 67. l.			ocr_extracted	low	source row is still OCR-level
+231	lerch_glossary_p206_r0231:entry	206	liebe	lyêbê		hebe, nicht, 49.2; 61.9.			ocr_extracted	low	source row is still OCR-level
+232	lerch_glossary_p206_r0232:entry	206	he	hê		nicht,			ocr_extracted	low	source row is still OCR-level
+233	lerch_glossary_p206_r0233:entry	206	hebl	hêbl		waren nicht,			ocr_extracted	low	source row is still OCR-level
+234	lerch_glossary_p206_r0234:entry	206	nddl	nddl		sah nicht, 55.6. hin ein Devbändiger, trie 57.2 übersetzt ist.]			ocr_extracted	low	source row is still OCR-level
+235	lerch_glossary_p206_r0235:entry	206	tiri	tiri		warum, 73.7.			ocr_extracted	low	source row is still OCR-level
+236	lerch_glossary_p206_r0236:entry	206	tirtele	tirtêlê		Heimchen,			ocr_extracted	low	source row is still OCR-level
+237	lerch_glossary_p206_r0237:entry	206	çım	cım	çım	Auge	eye	göz	headword_parented	medium	
+238	lerch_glossary_p206_r0238:entry	206	tö	to		tü, Stab.			ocr_extracted	low	source row is still OCR-level
+239	lerch_glossary_p206_r0239:entry	206	toadüli	toadüli		Säugling; s. tjde.			ocr_extracted	low	source row is still OCR-level
+240	lerch_glossary_p206_r0240:entry	206	tü	tü		s. tö.			ocr_extracted	low	source row is still OCR-level
+241	lerch_glossary_p206_r0241:entry	206	denazd	dênazd		Leiche, 65. i.			ocr_extracted	low	source row is still OCR-level
+242	lerch_glossary_p206_r0242:entry	206	denen’a	dênêna		ez vizdi denen’a, ich pfeife,			ocr_extracted	low	source row is still OCR-level
+243	lerch_glossary_p206_r0243:entry	206	diei	dyêy		ma hirye hemine berä'i diei, wir alle drei sind Brüder, 50.io.			ocr_extracted	low	source row is still OCR-level
+244	lerch_glossary_p206_r0244:entry	206	dit	dit		Pflug, Pfluggespaun. Vgl. Krm. döt. dit kdn’e, (ich) pflüge,			ocr_extracted	low	source row is still OCR-level
+245	lerch_glossary_p206_r0245:entry	206	dinazd	dinazd		Leiche: s. denazd.			ocr_extracted	low	source row is still OCR-level
+246	lerch_glossary_p206_r0246:entry	206	döan	doan		veri doan, einst, 71.3.			ocr_extracted	low	source row is still OCR-level
+247	lerch_glossary_p206_r0247:entry	206	dör	dor		Grube.			ocr_extracted	low	source row is still OCR-level
+248	lerch_glossary_p206_r0248:entry	206	nennst	nênnst		schrieb nicht,			ocr_extracted	low	source row is still OCR-level
+249	lerch_glossary_p206_r0249:entry	206	nesen’a väda	nêsêna vada		werde nicht spre chen, 61.8.			ocr_extracted	low	source row is still OCR-level
+250	lerch_glossary_p206_r0250:entry	206	neSnawhn'a	nêSnawhna		(ich) höre nicht,			ocr_extracted	low	source row is still OCR-level
+251	lerch_glossary_p206_r0251:entry	206	hesna'ütu	hêsnaütû		hörte nicht, 50.7.			ocr_extracted	low	source row is still OCR-level
+252	lerch_glossary_p206_r0252:entry	206	Nerib	Nêrib		Ortsname.			ocr_extracted	low	source row is still OCR-level
+253	lerch_glossary_p207_r0253:entry	207	f Nerbkl	f Nêrbkl		Appellativ von Nerib.			ocr_extracted	low	source row is still OCR-level
+254	lerch_glossary_p207_r0254:entry	207	iieben’i	yyêbêni		sind nicht, werden nicht			ocr_extracted	low	source row is still OCR-level
+255	lerch_glossary_p207_r0255:entry	207	ya	ya	a	sie (3. pcrs. sing.), 51.7. tide yai (yei), ihre Brust, ihre Brüste, 1.«. niyßrde yai, ihr Mann, bauke ye, ihr Vater (leur pere), 64 . 13-14 .	she	o	headword_parented	medium	
+256	lerch_glossary_p207_r0256:entry	207	yau	yaw		ein, eine, ein.			ocr_extracted	low	source row is still OCR-level
+257	lerch_glossary_p207_r0257:entry	207	yaudds	yawdds		eilf.			ocr_extracted	low	source row is still OCR-level
+258	lerch_glossary_p207_r0258:entry	207	yaudesin	yawdêsin		eilfte.			ocr_extracted	low	source row is still OCR-level
+259	lerch_glossary_p207_r0259:entry	207	yatina	yatina		der, die, das andere, yaundes = yaudes.			ocr_extracted	low	source row is still OCR-level
+260	lerch_glossary_p207_r0260:entry	207	yaüve	yawvê		erste,			ocr_extracted	low	source row is still OCR-level
+261	lerch_glossary_p207_r0261:entry	207	ya rödi	ya rodi		längst,			ocr_extracted	low	source row is still OCR-level
+262	lerch_glossary_p207_r0262:entry	207	yedeg	yêdêg		Ring am Finger.			ocr_extracted	low	source row is still OCR-level
+263	lerch_glossary_p207_r0263:entry	207	teir	têyr		(ar.^rX), Vogel, terä kerd = tra kerd ; s. tra ken’a.			ocr_extracted	low	source row is still OCR-level
+264	lerch_glossary_p207_r0264:entry	207	terd geraut	têrd gêrawt		entriss, riss aus (der Hand).			ocr_extracted	low	source row is still OCR-level
+265	lerch_glossary_p207_r0265:entry	207	terek	têrêk		Fehde,			ocr_extracted	low	source row is still OCR-level
+266	lerch_glossary_p207_r0266:entry	207	tebdr	têbdr		heraus, hinaus. se tebdr, ging hinaus,			ocr_extracted	low	source row is still OCR-level
+267	lerch_glossary_p207_r0267:entry	207	tjzi	tjzi		auch du; s. tu.			ocr_extracted	low	source row is still OCR-level
+268	lerch_glossary_p207_r0268:entry	207	Tjrk	Tjrk		Türke.			ocr_extracted	low	source row is still OCR-level
+269	lerch_glossary_p207_r0269:entry	207	tjrs	tjrs		Schild (nicht Gürtel wie 72. übersetzt ist),			ocr_extracted	low	source row is still OCR-level
+270	lerch_glossary_p207_r0270:entry	207	tia	tya		hier; s. ctia. sein, 62 9.			ocr_extracted	low	source row is still OCR-level
+271	lerch_glossary_p207_r0271:entry	207	nu	nû		ist nicht, 62. i»			ocr_extracted	low	source row is still OCR-level
+272	lerch_glossary_p207_r0272:entry	207	ye	yê	a	s. ya.	she	o	headword_parented	medium	
+273	lerch_glossary_p207_r0273:entry	207	yei	yêy		s. ya.			ocr_extracted	low	source row is still OCR-level
+274	lerch_glossary_p207_r0274:entry	207	yen’a	yêna	amayene	ich komme	to come / I come	gelmek / geliyorum	qa_reviewed	high	
+275	lerch_glossary_p207_r0275:entry	207	ydni	ydni		sein, seine, sein; ihr, ihre, ihr, 49.3. y£ne, 64.3. ydnera, 64.4.			ocr_extracted	low	source row is still OCR-level
+276	lerch_glossary_p207_r0276:entry	207	yere	yêrê	yere	Abend; Nachmittagszeit	afternoon; late afternoon prayer time	ikindi, öğle ile akşam arası vakit	headword_parented	medium	
+277	lerch_glossary_p207_r0277:entry	207	yemiS	yêmiS	yemiş	Frucht.		yemiş	headword_parented	medium	
+278	lerch_glossary_p207_r0278:entry	207	tiii	tyyy		Schein, Glanz.			ocr_extracted	low	source row is still OCR-level
+279	lerch_glossary_p207_r0279:entry	207	tilislm	tilislm		(ar. fJL), Talisman.			ocr_extracted	low	source row is still OCR-level
+280	lerch_glossary_p207_r0280:entry	207	top kerd	top kêrd		sammelte, versammelte. tople kerd, versammelte,			ocr_extracted	low	source row is still OCR-level
+281	lerch_glossary_p207_r0281:entry	207	turge	tûrgê		’ Hagel,			ocr_extracted	low	source row is still OCR-level
+282	lerch_glossary_p207_r0282:entry	207	tu	tû	tı	du.	you	sen, seni	headword_parented	medium	
+283	lerch_glossary_p207_r0283:entry	207	tumäni	tûmani	tumani	Hosen.	underpants	külotlar	headword_parented	medium	
+284	lerch_glossary_p207_r0284:entry	207	tufiiig	tûfyyyg		Flinte; s. Krm. tufeng.			ocr_extracted	low	source row is still OCR-level
+285	lerch_glossary_p207_r0285:entry	207	tuyera	tûyêra		däre tuyera, Maulbeerbaum,			ocr_extracted	low	source row is still OCR-level
+286	lerch_glossary_p207_r0286:entry	207	tra ken’a	tra kêna		reisse aus, schlage ab. tra ke (imp.), schlage ab. tra kerd, riss ab, schlug ab.			ocr_extracted	low	source row is still OCR-level
+287	lerch_glossary_p208_r0287:entry	208	da	da	dayene	gab; s. d;iua.	give	vermek	headword_parented	medium	
+288	lerch_glossary_p208_r0288:entry	208	daike	daykê		Mutter. Vgl. Krm. dl.			ocr_extracted	low	source row is still OCR-level
+289	lerch_glossary_p208_r0289:entry	208	dau	daw		Dorf. Vgl. npers: 0a.			ocr_extracted	low	source row is still OCR-level
+290	lerch_glossary_p208_r0290:entry	208	daiuin	daywyn		Dorfbewohner,			ocr_extracted	low	source row is still OCR-level
+291	lerch_glossary_p208_r0291:entry	208	daiilbe	dayylbê		Trommel.			ocr_extracted	low	source row is still OCR-level
+292	lerch_glossary_p208_r0292:entry	208	daM	daM		(türk, ^ia), noch, dat.			ocr_extracted	low	source row is still OCR-level
+293	lerch_glossary_p208_r0293:entry	208	Onkel	Onkêl		Vatersbruder,			ocr_extracted	low	source row is still OCR-level
+294	lerch_glossary_p208_r0294:entry	208	däna	dana		(ich) gebe. Vgl. Krm. da. dar. Baum. Vgl. Knn. dar.			ocr_extracted	low	source row is still OCR-level
+295	lerch_glossary_p208_r0295:entry	208	DeStei Henzi	DêStêy Hênzi		Ortsname, 66 1 -2 ; s. dei'Ste.			ocr_extracted	low	source row is still OCR-level
+296	lerch_glossary_p208_r0296:entry	208	des	dês	des	zehn,		on	headword_parented	medium	
+297	lerch_glossary_p208_r0297:entry	208	desfn	dêsfn		zehnte,			ocr_extracted	low	source row is still OCR-level
+298	lerch_glossary_p208_r0298:entry	208	dest	dêst	dest	Hand. S. Krm. dest.	hand	el	headword_parented	medium	
+299	lerch_glossary_p208_r0299:entry	208	derg	dêrg	derg	lang. Vgl. Krm. deröü. derg ken’a, verlängere, mache lang.	1) long 2) high	1) yüksek 2) büyük (direk, ağaç)	headword_parented	medium	
+300	lerch_glossary_p208_r0300:entry	208	derd	dêrd	derd	Schmerz. S. Krm. derd.	worry, sorrow	dert	headword_parented	medium	
+301	lerch_glossary_p208_r0301:entry	208	del	dêl	del	Hündin	female dog; bitch	dişi köpek	headword_parented	medium	
+302	lerch_glossary_p208_r0302:entry	208	deve	dêvê	deve	(ar. 0_>a). Kameel.	camel	deve	headword_parented	medium	
+303	lerch_glossary_p208_r0303:entry	208	deyine	dêyinê		geschieht,			ocr_extracted	low	source row is still OCR-level
+304	lerch_glossary_p208_r0304:entry	208	dendän	dêndan		Zahn. Vgl. Krm. dedän. des = des. des u heiät, achtzehn, des u nau, neunzehn.			ocr_extracted	low	source row is still OCR-level
+305	lerch_glossary_p208_r0305:entry	208	desmäl	dêsmal		Waschung.			ocr_extracted	low	source row is still OCR-level
+306	lerch_glossary_p208_r0306:entry	208	deläl	dêlal	dellal	Ausrufer, Herold	town crier; herald	tellal, yüksek sesle bağırıp bir şeyi ilan eden kişi	headword_parented	medium	
+307	lerch_glossary_p208_r0307:entry	208	di	di	dı	zwei.	two, 2	iki, 2	headword_parented	medium	
+308	lerch_glossary_p208_r0308:entry	208	diSeme	diSêmê	dışeme	Montag. Vgl. Krm. duäembü.	monday	pazartesi	headword_parented	medium	
+309	lerch_glossary_p208_r0309:entry	208	dismen	dismên	dışmen	Feind,	enemy	düşman	headword_parented	medium	
+310	lerch_glossary_p208_r0310:entry	208	dizd	dizd	dızd	Dieb. Vgl. Krm. diz.	thief	hırsız	headword_parented	medium	
+311	lerch_glossary_p208_r0311:entry	208	djzdei	djzdêy		verborgen, heimlich,			ocr_extracted	low	source row is still OCR-level
+312	lerch_glossary_p208_r0312:entry	208	dirnä	dirna	dırnayene	zerriss, 5l.n.	to tear up	yırtmak, parça parça etmek	headword_parented	medium	
+313	lerch_glossary_p208_r0313:entry	208	dl	dl		sah. dia, gesehen. ez diän, diau, ich habe gesehen,			ocr_extracted	low	source row is still OCR-level
+314	lerch_glossary_p208_r0314:entry	208	diüne	dywnê		diin, zweite,			ocr_extracted	low	source row is still OCR-level
+315	lerch_glossary_p208_r0315:entry	208	dtk	dtk		llabn. S. Krm. dlk.			ocr_extracted	low	source row is still OCR-level
+316	lerch_glossary_p208_r0316:entry	208	döe	doê		Buttermilch,			ocr_extracted	low	source row is still OCR-level
+317	lerch_glossary_p208_r0317:entry	208	doyän	doyan		(türk,			ocr_extracted	low	source row is still OCR-level
+318	lerch_glossary_p208_r0318:entry	208	dödik	dodik		Flöte,			ocr_extracted	low	source row is still OCR-level
+319	lerch_glossary_p208_r0319:entry	208	dost	dost	dost	Freund, Kamerad	friend	dost, arkadaş, yar	headword_parented	medium	
+320	lerch_glossary_p208_r0320:entry	208	du	dû	dı	zwei, 2	two, 2	iki, 2	headword_parented	medium	
+321	lerch_glossary_p208_r0321:entry	208	duyüs	dûyüs		zwölf,			ocr_extracted	low	source row is still OCR-level
+322	lerch_glossary_p208_r0322:entry	208	duyesin	dûyêsin	dûyesın	zwölfte,		on ikinci, on ikili	headword_parented	medium	
+323	lerch_glossary_p208_r0323:entry	208	dudü	dûdü		ein Vogel, dessen Schrei: dudü.			ocr_extracted	low	source row is still OCR-level
+324	lerch_glossary_p208_r0324:entry	208	dumä	dûma		Höhle. S. Kuhns Zeitschrift, V, 225. dumilbäz, Trommel. dumilbäzi dai püroe, schlug die Trommel.			ocr_extracted	low	source row is still OCR-level
+325	lerch_glossary_p209_r0325:entry	209	d'au	daw		Dev. Vgl. JC: daöva; altb: da6va (s. Brnf. Coinni. s. I. Y. 8, 78; Brckh. Gl. s. v.); npers: krm. dlv. Cf. Spiegel Ave- sta, Uebers, I, 6, i 0, Schlei- cher Lit. Gr. S. 87; Las- »a = nah.			ocr_extracted	low	source row is still OCR-level
+326	lerch_glossary_p209_r0326:entry	209	nai.sta daista	nay.sta daysta		naista yaista , hier und dort,			ocr_extracted	low	source row is still OCR-level
+327	lerch_glossary_p209_r0327:entry	209	nau	naw		neun,			ocr_extracted	low	source row is still OCR-level
+328	lerch_glossary_p209_r0328:entry	209	nauaf	nawaf		neunzig,			ocr_extracted	low	source row is still OCR-level
+329	lerch_glossary_p209_r0329:entry	209	nauayin	nawayin		neunzigste,			ocr_extracted	low	source row is still OCR-level
+330	lerch_glossary_p209_r0330:entry	209	nauwin	nawin		neunte. naM, (ar. iu»U), Landschaft, 61 .7.			ocr_extracted	low	source row is still OCR-level
+331	lerch_glossary_p209_r0331:entry	209	nakür’e	nakürê		Schnabel. Vgl. Krm. nekül’e.			ocr_extracted	low	source row is still OCR-level
+332	lerch_glossary_p209_r0332:entry	209	nah	nah		Brod; s. Krm. nah.			ocr_extracted	low	source row is still OCR-level
+333	lerch_glossary_p209_r0333:entry	209	namh	namh		Name. Vgl. Krm. nav.			ocr_extracted	low	source row is still OCR-level
+334	lerch_glossary_p209_r0334:entry	209	navrotla	navrotla		Mittag. Vgl. Krm. nlvro. neuy6s, neunzehn,			ocr_extracted	low	source row is still OCR-level
+335	lerch_glossary_p209_r0335:entry	209	nehgö	nêhgo		Nagel. sen Ind. Alterthumskunde I, 755. dewi = d'au.			ocr_extracted	low	source row is still OCR-level
+336	lerch_glossary_p209_r0336:entry	209	d'dka	ddka		Grossmutier,			ocr_extracted	low	source row is still OCR-level
+337	lerch_glossary_p209_r0337:entry	209	des	dês	dês	Waud.		duvar	headword_parented	medium	
+338	lerch_glossary_p209_r0338:entry	209	D'esmüni	Dêsmüni		Ortsname, 65.3. lyesmündi, Appellativ von D'es- müni. Vgl. Krm. naniik. newete pau’ftte , wachte , hielt Wache; s. Krm. nöbeti.			ocr_extracted	low	source row is still OCR-level
+339	lerch_glossary_p209_r0339:entry	209	nekai	nêkay		jetzt; s. enkai.			ocr_extracted	low	source row is still OCR-level
+340	lerch_glossary_p209_r0340:entry	209	neyai	nêyay		bückten sich, 83.6.			ocr_extracted	low	source row is still OCR-level
+341	lerch_glossary_p209_r0341:entry	209	nezdr	nêzdr		nah; s. Krm. nizik.			ocr_extracted	low	source row is still OCR-level
+342	lerch_glossary_p209_r0342:entry	209	ncmad	ncmad		Gebet. Vgl. Krm. nemeü.			ocr_extracted	low	source row is still OCR-level
+343	lerch_glossary_p209_r0343:entry	209	nemr	nêmr		zart. Vgl. Krm. nenn, njzdf = nczdi.			ocr_extracted	low	source row is still OCR-level
+344	lerch_glossary_p209_r0344:entry	209	Nisän	Nisan	nisun, nisan	Monatsname, s. Ahth. I, S. xv.		nisan, nisan ayı	headword_parented	medium	
+345	lerch_glossary_p209_r0345:entry	209	nudik	nûdik		Faust,			ocr_extracted	low	source row is still OCR-level
+346	lerch_glossary_p209_r0346:entry	209	nusen’a	nûsêna		(ich) schreibe, ngst, schrieb. binusd, (ich) werde schreiben.			ocr_extracted	low	source row is still OCR-level
+347	lerch_glossary_p210_r0347:entry	210	Sau	Saw		Nacht. V'gl. Krm. Sev. Sau'e, Nachts, (52.6 sq. saüa ksl (= saue ke sl), ver- gangene Nacht.			ocr_extracted	low	source row is still OCR-level
+348	lerch_glossary_p210_r0348:entry	210	SaüSevüke	SawSêvükê		ein Vogel dessen Schrei: vei, vei.			ocr_extracted	low	source row is still OCR-level
+349	lerch_glossary_p210_r0349:entry	210	Sahrestdn	Sahrêstdn		Stadt; vgl. npers			ocr_extracted	low	source row is still OCR-level
+350	lerch_glossary_p210_r0350:entry	210	sändc	sandc		Abends.			ocr_extracted	low	source row is still OCR-level
+351	lerch_glossary_p210_r0351:entry	210	Sanel märi	Sanêl mari		Regenwurm.			ocr_extracted	low	source row is still OCR-level
+352	lerch_glossary_p210_r0352:entry	210	Säri	Sari		fremd.			ocr_extracted	low	source row is still OCR-level
+353	lerch_glossary_p210_r0353:entry	210	SaMn	SaMn		Personenname,			ocr_extracted	low	source row is still OCR-level
+354	lerch_glossary_p210_r0354:entry	210	ses	sês	şeş	sechs.		altı	headword_parented	medium	
+355	lerch_glossary_p210_r0355:entry	210	SeSln	SêSln		sechste.			ocr_extracted	low	source row is still OCR-level
+356	lerch_glossary_p210_r0356:entry	210	Seme	Sêmê	şeme	Sonnabend. Vgl. Krm. Sembß.	saturday	cumartesi	headword_parented	medium	
+357	lerch_glossary_p210_r0357:entry	210	Sc	Sc		ging, 54.10; s. suen’a.			ocr_extracted	low	source row is still OCR-level
+358	lerch_glossary_p210_r0358:entry	210	selsti	sêlsti		sechszig.			ocr_extracted	low	source row is still OCR-level
+359	lerch_glossary_p210_r0359:entry	210	Seistiyin	Sêystiyin		scchszigste.			ocr_extracted	low	source row is still OCR-level
+360	lerch_glossary_p210_r0360:entry	210	sebSkc	sêbSkc		Gitterfenster (arab. ±JLi «feuestrae reticulatac»), Git- terthür.			ocr_extracted	low	source row is still OCR-level
+361	lerch_glossary_p210_r0361:entry	210	Simä	Sima	şıma	ihr.	1) you 2) your 3) you (rarely in polite phrases)	1) siz 2) sizin, size, sizi 3) siz (nadiren kibar ifadelerde)	headword_parented	medium	
+362	lerch_glossary_p210_r0362:entry	210	Sl	Sl		Si, gingen, 59.5; s. suen’a.			ocr_extracted	low	source row is still OCR-level
+363	lerch_glossary_p210_r0363:entry	210	Sia	Sya	şiyayene , şiyene	hin gegangen, (50.16. si6s, sechzehn. s&’at, (ar. *l«cL.), Stunde. di s&’ati, zwei Stunden, 51.8. : . s.	to go	gitmek	headword_parented	medium	
+364	lerch_glossary_p210_r0364:entry	210	Siyeslu	Siyêslû		sechszehute.			ocr_extracted	low	source row is still OCR-level
+365	lerch_glossary_p210_r0365:entry	210	Sit	Sit	şütene	waschen; wusch	wash	yıkamak	headword_parented	medium	
+366	lerch_glossary_p210_r0366:entry	210	sid	sid		Milch.			ocr_extracted	low	source row is still OCR-level
+367	lerch_glossary_p210_r0367:entry	210	SimSyßr	SimSyßr		Schwert. Vgl. Krm. sür, syür.			ocr_extracted	low	source row is still OCR-level
+368	lerch_glossary_p210_r0368:entry	210	Slv	Slv		Weinmoost. S. Krm. sIV.			ocr_extracted	low	source row is still OCR-level
+369	lerch_glossary_p210_r0369:entry	210	sußn’a	sûßna		(ich) gehe. Süe (imp.), geh, 52. io. te sueu’i, du gehst; hesußn’i, du gehst uicht 52.10. Syera, (ich) werde gehen; ma Syßri , wir werden gehen , 49.4; 55.»; 62.7. Se, ging; Sl, Si, gingen. Syeri, geht (imp. 2. pl.), 55.8. Vgl. JC: siyu (imparf. asiyava) = aller (Opp.			ocr_extracted	low	source row is still OCR-level
+370	lerch_glossary_p210_r0370:entry	210	XVII	XVYY		295); pärs; * -sing, praes; 3. sing, praes; Vhj. imp.; inliu. (s. Sp. PGr. §72 Anm.); npers:			ocr_extracted	low	source row is still OCR-level
+371	lerch_glossary_p210_r0371:entry	210	Syer	Syêr		Löwe. Vgl. Krm. slr, syer.			ocr_extracted	low	source row is still OCR-level
+372	lerch_glossary_p210_r0372:entry	210	III	YYY		135: soul Vgl. Kriu. söl.			ocr_extracted	low	source row is still OCR-level
+373	lerch_glossary_p211_r0373:entry	211	sa	sa	sa	was	what	ne	headword_parented	medium	
+374	lerch_glossary_p211_r0374:entry	211	sav	sav		hart, fest (pers. «!-*-).			ocr_extracted	low	source row is still OCR-level
+375	lerch_glossary_p211_r0375:entry	211	sayer	sayêr	sayyer, sayer	däre sayer, Apfelbaum, 60. t.		elma ağacı	headword_parented	medium	
+376	lerch_glossary_p211_r0376:entry	211	sabün	sabün	sabun	Seife. sabün kerd, seifte ein, machte Seife au, 56.12.	soap	sabun	headword_parented	medium	
+377	lerch_glossary_p211_r0377:entry	211	se	sê	se	1) was.		ne, hangi şey	headword_parented	medium	
+378	lerch_glossary_p211_r0378:entry	211	se	sê	se	hundert	hundred	yüz, yüz sayısı	headword_parented	medium	
+379	lerch_glossary_p211_r0379:entry	211	set = se	sêt = sê		hundert,			ocr_extracted	low	source row is still OCR-level; multiword or collapsed row
+380	lerch_glossary_p211_r0380:entry	211	sen’ie	sênyê		warum, 52.7.			ocr_extracted	low	source row is still OCR-level
+381	lerch_glossary_p211_r0381:entry	211	seiie	sêyyê		welcher, e, es, 59.16.			ocr_extracted	low	source row is still OCR-level
+382	lerch_glossary_p211_r0382:entry	211	ser	sêr	ser	sere, Haupt, Kopf. seri yau koi, auf einem Berge, seri bäni, Hausdach, Hauste- rasse.	1) top, upper 2) top(most), uppermost 3) above	1) üst, üzeri 2) en yüksek nokta, baş 3) ... üstünde	headword_parented	medium	
+383	lerch_glossary_p211_r0383:entry	211	ser (postpos.)	sêr (postpos.)		gegeu, zu.			ocr_extracted	low	source row is still OCR-level
+384	lerch_glossary_p211_r0384:entry	211	sera	sêra	serr	Jahr	year; age; lifetime	yıl, sene, yaş; ömür	headword_parented	medium	
+385	lerch_glossary_p211_r0385:entry	211	VH	VH		322. seraksie, in vergangenem Jahre, sera paryin’e, in vergangenem Jahre.			ocr_extracted	low	source row is still OCR-level
+386	lerch_glossary_p211_r0386:entry	211	sera	sêra	sera	wohin, 57. l,		nere, nereye, hangi yere	headword_parented	medium	
+387	lerch_glossary_p211_r0387:entry	211	s§re	s§rê		Kopf,			ocr_extracted	low	source row is still OCR-level; entry contains OCR/noise markers
+388	lerch_glossary_p211_r0388:entry	211	serkalü	sêrkalü		Pfeifenrohr.			ocr_extracted	low	source row is still OCR-level
+389	lerch_glossary_p211_r0389:entry	211	Zazd	Zazd		Zazd. .			ocr_extracted	low	source row is still OCR-level
+390	lerch_glossary_p211_r0390:entry	211	Zazdde	Zazddê		Appellativ von Zazd.			ocr_extracted	low	source row is still OCR-level
+391	lerch_glossary_p211_r0391:entry	211	zadur	zadûr		Weide (sali*). ; sei, wie. seidewän, Jäger. Vgl. Krm. se’idvär. sendn’u, wie ist, 59.i; s. sen’ie. sepf, weiss. S. Krm. sepf. sipyerdjs, Weissbart, Dorfältester, 59.8 sq.; s. erdjs u. sepf. sil, Mist. Vgl. KW.			ocr_extracted	low	source row is still OCR-level
+392	lerch_glossary_p211_r0392:entry	211	II	YY		329: sergu, A'u/i- mislpyramiden. simdr, Stroh; vgl. türk. ^Lo. sid, schwarz. Vgl. altb: npers: 0L sine, Brust. Vgl. Krm. sing, sinen’a, (ich) liebe, sudiid, Schwur. Vgl. Krm. sönd. sudiid wen’a , (ich) schwöre vgl. Krm. sönd Kodr. sudnd wend, schwor, suahd budue, schwöre (imp.)			ocr_extracted	low	source row is still OCR-level
+393	lerch_glossary_p211_r0393:entry	211	sür	sür	sur	Rot	red	kırmızı, al	headword_parented	medium	
+394	lerch_glossary_p211_r0394:entry	211	i suröt	i sûrot		(ar. Oj^o), Gesicht, sur, süri = sür. Syeratnr, Ortsname. syeSeme, Dienstag. Vgl. Krm. sesembe.			ocr_extracted	low	source row is still OCR-level
+395	lerch_glossary_p212_r0395:entry	212	zere	zêrê	zerre	innen; innere; herein	inside; interior	iç; içeri, içerisi	headword_parented	medium	
+396	lerch_glossary_p212_r0396:entry	212	zered	zêrêd		Schneehuhn: - —ff' , zerd, gelb. Vgl. Krm. zer.			ocr_extracted	low	source row is still OCR-level
+397	lerch_glossary_p212_r0397:entry	212	zeindän	zêyndan		Gefängniss, Grube, 57 .8; 80.9. Vgl. npers: (j\jjj-			ocr_extracted	low	source row is still OCR-level
+398	lerch_glossary_p212_r0398:entry	212	zer	zêr	zêrr, zerr	Herz; Gemüt; Inneres	interior; heart; soul; belly	iç; gönül, kalp, yürek; karın; bağır	headword_parented	medium	
+399	lerch_glossary_p212_r0399:entry	212	zemän	zêman	zemun, zeman	Zeit.		zaman	headword_parented	medium	
+400	lerch_glossary_p212_r0400:entry	212	ra kdn’a	ra kdna		(ich) mache Weg, d. i. geleite. ra kdrdi, geleitete, 85. io.			ocr_extracted	low	source row is still OCR-level
+401	lerch_glossary_p212_r0401:entry	212	ra kuen’a	ra kwêna		lege mich nieder, ruhe, schlafe. ra kaüta, schlief, ra ki, (imp.) lege dich nieder, schlafe, 86.3. weraku, er möge ruhen, 86.4. raät, recht. Vgl. Krm. rast, ravdr, Weg. Vgl. Krm. re. rab, (ar. Herr. Vgl. Krui. zeinän 2). zemäne verie, in früherer Zeit, einst, vor Zeiten, 80.«.			ocr_extracted	low	source row is still OCR-level
+402	lerch_glossary_p212_r0402:entry	212	zind	zind		Nase,			ocr_extracted	low	source row is still OCR-level
+403	lerch_glossary_p212_r0403:entry	212	zime	zimê	zıme	Erde; Feld	north; shady slope; earth, ground	kuzey; güneş almayan yamaç; yeryüzü, toprak	headword_parented	medium	
+404	lerch_glossary_p212_r0404:entry	212	zien	zyên		Sattel. Vgl. Krm. zin.			ocr_extracted	low	source row is still OCR-level
+405	lerch_glossary_p212_r0405:entry	212	zirQt	zirQt		Knabe. 70. n.			ocr_extracted	low	source row is still OCR-level
+406	lerch_glossary_p212_r0406:entry	212	zimöli	zimoli		* Schnurrbart. Vgl. Krm. simböl.			ocr_extracted	low	source row is still OCR-level
+407	lerch_glossary_p212_r0407:entry	212	zozän	zozan	zuezun, zozan	Sommerlager. S. Krm. zozän.		yayla	headword_parented	medium	
+408	lerch_glossary_p212_r0408:entry	212	zuän	zwan		Zunge, 57.8. Vgl. Krm. zemäh 1).			ocr_extracted	low	source row is still OCR-level
+409	lerch_glossary_p212_r0409:entry	212	ramai	ramay		ramia, lief, floh. Vgl. Krm. revid.			ocr_extracted	low	source row is still OCR-level
+410	lerch_glossary_p212_r0410:entry	212	reh	rêh		Schenkel, resane. Strick. Vgl. Krm. weris. rez, Weingarten, Weinberg. Vgl. Krm. rezi tri. rind, schön, gut; s. Krm. rind. rim, Speer, Lanze; s. Krm. rim. ri, Barl. S. Krm. ri 2). rö, Bach. rönist, setzte sich, 63.2; s. ruen’a. Vgl. Krni. rüniät. ru6n’a, (ich) setze dich nieder. berü§, (imp.) sitz nieder, ruen^n’a, ich stelle hin. la = rö. lau, Lippe. Vgl. Krm. lev. lau wfin’u, bellt. kütlk lau wen’u bellt. lauk, Gesang, Lied. S. Krm. lauk 2). laukbänu, laukvänu, er singt,			ocr_extracted	low	source row is still OCR-level
+411	lerch_glossary_p213_r0411:entry	213	laqardf	laqardf		Rede; v. Krm. s. cad. v.			ocr_extracted	low	source row is still OCR-level
+412	lerch_glossary_p213_r0412:entry	213	pa	pa	pa	zu.		-e, -a; | ona, onlara	headword_parented	medium	
+413	lerch_glossary_p213_r0413:entry	213	pai	pay		Fuss. Vgl. npers: ,jL.			ocr_extracted	low	source row is still OCR-level
+414	lerch_glossary_p213_r0414:entry	213	paußn’a	pawßna		(ich) warte. Vgl. npers: ma pa’üt, ich wartete, pa’üt, wartete, 87.1. newete pa’üte, hielt Wache, stand auf der Wache, 83.6.			ocr_extracted	low	source row is still OCR-level
+415	lerch_glossary_p213_r0415:entry	213	paudün’a	pawdüna		(ich koche). paü2e, koche (imp.), 51,to. Vgl. Krm. peüänd. pan^, fünf,			ocr_extracted	low	source row is still OCR-level
+416	lerch_glossary_p213_r0416:entry	213	pafidäs	pafidas		fünfzig. ruen’a, stellte hin; auch rona. ruen u teze, frische Butter (unge- salzene). ruün’u bye söl, gesalzene Butter. lad, Sohn, Knabe. Vgl. Krm. lau, lauk, läv, lö. läz, Seele, lapj'k, Handschuh. , der Hund Vgl. Krm. lapj'k. le§d, Leiche; s. Krm. Ieä.			ocr_extracted	low	source row is still OCR-level
+417	lerch_glossary_p213_r0417:entry	213	ling	ling		Bein. Vgl. Krm. ling.			ocr_extracted	low	source row is still OCR-level
+418	lerch_glossary_p213_r0418:entry	213	lu	lû		lyu, Fuchs, 83.« sq.			ocr_extracted	low	source row is still OCR-level
+419	lerch_glossary_p213_r0419:entry	213	lyuli	lyûli		Flöte.			ocr_extracted	low	source row is still OCR-level
+420	lerch_glossary_p213_r0420:entry	213	pandasin	pandasin		fünfzigste,			ocr_extracted	low	source row is still OCR-level
+421	lerch_glossary_p213_r0421:entry	213	pandes	pandês		fünfzehn,			ocr_extracted	low	source row is still OCR-level
+422	lerch_glossary_p213_r0422:entry	213	pandesfn	pandêsfn		fünfzehnte,			ocr_extracted	low	source row is still OCR-level
+423	lerch_glossary_p213_r0423:entry	213	paridin	paridin		fünfte,			ocr_extracted	low	source row is still OCR-level
+424	lerch_glossary_p213_r0424:entry	213	pat	pat		Jacke,			ocr_extracted	low	source row is still OCR-level
+425	lerch_glossary_p213_r0425:entry	213	paşt	past	paşt	Schulter	back; rear	sırt, arka	headword_parented	medium	
+426	lerch_glossary_p213_r0426:entry	213	päsnä	pasna	pasna	Ferse. Vgl. altb: pashna (Sp.	heel	topuk	headword_parented	medium	
+427	lerch_glossary_p213_r0427:entry	213	Avesta	Avêsta	Avesta	Uebers. I, 152, Anm. 2); npers: <UiL.	zoroastrian scriptures	Zerdüştlüğün kutsal kitabı	headword_parented	medium	
+428	lerch_glossary_p213_r0428:entry	213	peki	pêki		(türk, y] 4L), sehr gut, sehr wohl, 72.14.			ocr_extracted	low	source row is still OCR-level
+429	lerch_glossary_p213_r0429:entry	213	penir	pênir	pendir, penir	Käse. Vgl. Krm. pantr, penir.		peynir	headword_parented	medium	
+430	lerch_glossary_p214_r0430:entry	214	peäeme	pêaêmê		Donnerstag. Vgl. Krm. peSembe.			ocr_extracted	low	source row is still OCR-level
+431	lerch_glossary_p214_r0431:entry	214	pes	pês	pes	Vieh,		(koyun, keçi) küçük baş hayvan; | keçi veya koyun sürüsü	headword_parented	medium	
+432	lerch_glossary_p214_r0432:entry	214	pepfing	pêpfing		Kuckuk. Vgl. Krm. paptik, pepfing,			ocr_extracted	low	source row is still OCR-level
+433	lerch_glossary_p214_r0433:entry	214	pei	pêy		mit, 64.12.			ocr_extracted	low	source row is still OCR-level
+434	lerch_glossary_p214_r0434:entry	214	peiye	pêyê		Fussvolk, 74.7; 75.4.			ocr_extracted	low	source row is still OCR-level
+435	lerch_glossary_p214_r0435:entry	214	peinide	pêynidê		darauf, nachher, 03.9.			ocr_extracted	low	source row is still OCR-level
+436	lerch_glossary_p214_r0436:entry	214	peira	pêyra		s. pya. peira kaut, folgte ihnen, ver- folgte sie, 69.13.			ocr_extracted	low	source row is still OCR-level
+437	lerch_glossary_p214_r0437:entry	214	per	pêr		Feder,			ocr_extracted	low	source row is still OCR-level
+438	lerch_glossary_p214_r0438:entry	214	pesiiig	pêsyyyg		Katze. Vgl. Krm. pcsik.			ocr_extracted	low	source row is still OCR-level
+439	lerch_glossary_p214_r0439:entry	214	peren’a	pêrêna		(ich) fliego, springe,			ocr_extracted	low	source row is still OCR-level
+440	lerch_glossary_p214_r0440:entry	214	peri’en	pêriên		Hemd,			ocr_extracted	low	source row is still OCR-level
+441	lerch_glossary_p214_r0441:entry	214	pero däna	pêro dana		gebe einen Schlag	to strike / give a blow	vurmak / darbe vurmak	qa_reviewed	high	
+442	lerch_glossary_p214_r0442:entry	214	persfn’a	pêrsfna		(ich) frage,			ocr_extracted	low	source row is still OCR-level
+443	lerch_glossary_p214_r0443:entry	214	pel	pêl	pel	Flügel,		yaprak; | kanat	headword_parented	medium	
+444	lerch_glossary_p214_r0444:entry	214	pif kdn’a	pif kdna		blase. Vgl. Krm. pif dekim.			ocr_extracted	low	source row is still OCR-level
+445	lerch_glossary_p214_r0445:entry	214	pird	pird	pırd	Brücke. Vgl. Krm. pir.	bridge	köprü	headword_parented	medium	
+446	lerch_glossary_p214_r0446:entry	214	pl	pl		Vater. Vgl. npers: jj .>.			ocr_extracted	low	source row is still OCR-level
+447	lerch_glossary_p214_r0447:entry	214	ptsi	ptsi		schlecht, abscheulich, 82.4.			ocr_extracted	low	source row is still OCR-level
+448	lerch_glossary_p214_r0448:entry	214	plze	plzê		Bauch. pize senik, Unterleib.			ocr_extracted	low	source row is still OCR-level
+449	lerch_glossary_p214_r0449:entry	214	pir	pir	pir	alt. \		1) dini lider 2) yaşlı, koca, ihtiyar kimse 3) adamakıllı, iyice 4) herhangi bir konuda, bir meslekte deneyim kazanmış, eskimiş kimse, guru	headword_parented	medium	
+450	lerch_glossary_p214_r0450:entry	214	bau kdli	baw kdli		Grossvater von mütter- licher Seite. S. Krm. pir. plrik, Grossvaler.			ocr_extracted	low	source row is still OCR-level
+451	lerch_glossary_p214_r0451:entry	214	plrikd	plrikd		Spinne,			ocr_extracted	low	source row is still OCR-level
+452	lerch_glossary_p214_r0452:entry	214	pfru	pfrû		viel. Vgl. Krm. pur.			ocr_extracted	low	source row is still OCR-level
+453	lerch_glossary_p214_r0453:entry	214	pilau	pilaw		Pilav. Vgl. npers; _,*)!j>.			ocr_extracted	low	source row is still OCR-level
+454	lerch_glossary_p214_r0454:entry	214	pili	pili	pil	ältester, gross	oldest / big	en yaşlı / büyük	qa_reviewed	high	
+455	lerch_glossary_p214_r0455:entry	214	purt	pûrt	purt	Pelz, 65.io.	1) feather of birds	1) tüy (kanatlıhayvan tüyü) 2) yün	headword_parented	medium	
+456	lerch_glossary_p214_r0456:entry	214	pures neydn’u	pûrês nêydnû		niest, 2,4«. puroe = pero. dümilbazi dai puroe, schlugen die Trommel, 68.3.			ocr_extracted	low	source row is still OCR-level
+457	lerch_glossary_p214_r0457:entry	214	pya	pya	pia, pıya, pya	der eine und der andere, pya be wesi, jfalai dai pyera, versöhnten sich , tauschten mit einander Ehrenkleider aus, 71.1. pydru mdndi wddede, blieben mit einander ira Hause, 65.2.		birbirine	headword_parented	medium	
+458	lerch_glossary_p214_r0458:entry	214	pyeser	pyêsêr		zusammen. amei pyeser, kamen zusam- men, 62.3.			ocr_extracted	low	source row is still OCR-level
+459	lerch_glossary_p214_r0459:entry	214	pyeru	pyêrû		1) viel, = ptru.			ocr_extracted	low	source row is still OCR-level
+460	lerch_glossary_p214_r0460:entry	214	pyeru	pyêrû		2) Bat. von pya; s. a. peira.			ocr_extracted	low	source row is still OCR-level
+461	lerch_glossary_p214_r0461:entry	214	bauk	bawk		Vater. Vgl. Krm. bav.			ocr_extracted	low	source row is still OCR-level
+462	lerch_glossary_p215_r0462:entry	215	baüni	bawni		sieh, 5 1 63.«; s. auhen’a.			ocr_extracted	low	source row is still OCR-level
+463	lerch_glossary_p215_r0463:entry	215	bäh	bah		Haus, lliitle. bäni tinii, Augenlied,			ocr_extracted	low	source row is still OCR-level
+464	lerch_glossary_p215_r0464:entry	215	bazdr	bazdr		Markt, Markttag,			ocr_extracted	low	source row is still OCR-level
+465	lerch_glossary_p215_r0465:entry	215	bazjn	bazjn		Armband. S. Krm. bazjn.			ocr_extracted	low	source row is still OCR-level
+466	lerch_glossary_p215_r0466:entry	215	bar kdn’a	bar kdna		lasse los, lasse, 62. i. Vgl Krm. ber dim.			ocr_extracted	low	source row is still OCR-level
+467	lerch_glossary_p215_r0467:entry	215	bärut	barût	barut	Schiesspulver, 73.1.	gunpowder	barut	headword_parented	medium	
+468	lerch_glossary_p215_r0468:entry	215	baryek	baryêk		dünn, 3.27.			ocr_extracted	low	source row is still OCR-level
+469	lerch_glossary_p215_r0469:entry	215	baliSrtd	baliSrtd		Kissen,			ocr_extracted	low	source row is still OCR-level
+470	lerch_glossary_p215_r0470:entry	215	ber’e	bêrê	ardene	bringe (imp.); s. ard.	bring, bring here	getirmek	headword_parented	medium	
+471	lerch_glossary_p215_r0471:entry	215	berd	bêrd	berdene	trug, 52.4, s: 54. t: s. ard.	to take away, to move on, to carry away, to take (or accompany) there	götürmek	headword_parented	medium	
+472	lerch_glossary_p215_r0472:entry	215	berdi	bêrdi		getragen; s. ard.			ocr_extracted	low	source row is still OCR-level
+473	lerch_glossary_p215_r0473:entry	215	berSau	bêrSaw		schicke, 5l.ii; s. ersdu- wdn'a.			ocr_extracted	low	source row is still OCR-level
+474	lerch_glossary_p215_r0474:entry	215	bers	bêrs		berz, hoch. Vgl. npers: ez kdna berz. ich erhöhe,			ocr_extracted	low	source row is still OCR-level
+475	lerch_glossary_p215_r0475:entry	215	bermd	bêrmd		weinte, 55. io. bermdn’a, (ich) weine, bermdye, 81. 12.			ocr_extracted	low	source row is still OCR-level
+476	lerch_glossary_p215_r0476:entry	215	beirakdär	bêyrakdar		Standartenträger,			ocr_extracted	low	source row is still OCR-level
+477	lerch_glossary_p215_r0477:entry	215	bdn’a	bdna		1) (ich) bin. 2) (ich) werde tragen, bringen; s. äna.			ocr_extracted	low	source row is still OCR-level
+478	lerch_glossary_p215_r0478:entry	215	ber äekit	bêr aêkit		drang vor, 64 4. ber bidikni, dringet vor, 64.2.			ocr_extracted	low	source row is still OCR-level
+479	lerch_glossary_p215_r0479:entry	215	berd	bêrd		berdr, Bruder ; s. Krm. berd.			ocr_extracted	low	source row is still OCR-level
+480	lerch_glossary_p215_r0480:entry	215	bereiwi	bêrêywi		Augenbrauen,			ocr_extracted	low	source row is still OCR-level
+481	lerch_glossary_p215_r0481:entry	215	bjkera	bjkêra		(ich) werde machen; s. kdn’a.			ocr_extracted	low	source row is still OCR-level
+482	lerch_glossary_p215_r0482:entry	215	biksi	biksi		werden tödten; s. kiädn’a. .			ocr_extracted	low	source row is still OCR-level
+483	lerch_glossary_p215_r0483:entry	215	I bigd	İ bigd		bigd, (imp.) nimm, 52 is; 54.t; 57.4. bitine, (imp.) schneide, 50.13; s. tinena. bjdd, (imp.) gieb, 51.8-7. bidü = bidd, 52. t. bjne, bjni, auf, über, 54. 10; 64.10. biSikni, s. ber sikit. bjst, band, fesselte. Vgl. npers: qätni te bjsti, wer hat dich ge- fesselt, 56. h. ez bjsta, ich bin gefesselt wor- den, 56.10. bizeia, bjzyd, Ziege. Vgl. Krm. bjziu. bizyßk, Zickel, bjrna, schnitt, 52.2; 54-3. bjrndn’a, (ich) schneide, sere birue, schlachte, 52.8-9; 54.3. bi, mit, 63.1. bl, wareu, 49. 1. bid, ist geworden, wurde geboren, 2.12, bin gewesen, G f .1 bidru, bringe, 5 1 .14; 54.1; s.ard. bidri, bringet, 87.4. bie, war, 64.12. bigdri, nehmet, 73.1. bilbil, Nachligal; s. Krm. bilbil. büeri, brauu. bum, eine Kulenart; s. Krm. biim.			ocr_extracted	low	source row is still OCR-level
+484	lerch_glossary_p215_r0484:entry	215	j byäre	j byarê		bringe, 86.11.			ocr_extracted	low	source row is still OCR-level
+485	lerch_glossary_p216_r0485:entry	216	byßri = byäre	byßri = byarê		79.8. «.			ocr_extracted	low	source row is still OCR-level; multiword or collapsed row
+486	lerch_glossary_p216_r0486:entry	216	bye	byê	bie, bye, bê	1 ) ohne, 73. 12.		olmadan, olmaksızın, -sız, -siz, -suz, -süz	headword_parented	medium	
+487	lerch_glossary_p216_r0487:entry	216	rna	rna		wir.			ocr_extracted	low	source row is still OCR-level
+488	lerch_glossary_p216_r0488:entry	216	mahin	mahin		Stute; s. Krm. mehln.			ocr_extracted	low	source row is still OCR-level
+489	lerch_glossary_p216_r0489:entry	216	raangä	raanga		Ruh; s. Krm. mangd.			ocr_extracted	low	source row is still OCR-level
+490	lerch_glossary_p216_r0490:entry	216	manün’u	manünû		es ist gleich,			ocr_extracted	low	source row is still OCR-level
+491	lerch_glossary_p216_r0491:entry	216	masi	masi		Fisch,			ocr_extracted	low	source row is still OCR-level
+492	lerch_glossary_p216_r0492:entry	216	mast	mast	mast	saure Milch,	yog(h)urt	yoğurt	headword_parented	medium	
+493	lerch_glossary_p216_r0493:entry	216	mar	mar	mar	Schlange; s. Krip. mar.	snake	yılan	headword_parented	medium	
+494	lerch_glossary_p216_r0494:entry	216	uiära kerde xüeri	wyara kêrdê xwêri		heirathete, 58.4. Vgl. Krm. mer.			ocr_extracted	low	source row is still OCR-level; multiword or collapsed row
+495	lerch_glossary_p216_r0495:entry	216	mal	mal	mal	(ar. JL), Eigenlhum, Haus.		1) büyükbaş hayvan 2) mal, mülkiyet, eşya 3) büyükbaş hayvan sürüsü 4) aşağılık, bayağıkötü kimse 5) aptal veya saf kimse	headword_parented	medium	
+496	lerch_glossary_p216_r0496:entry	216	meMpine	mêMpinê		zürne nicht, 63.3. Vgl. Krm. fiapäiid.			ocr_extracted	low	source row is still OCR-level
+497	lerch_glossary_p216_r0497:entry	216	mefila	mêfila		(arab. J*- ). Machal.			ocr_extracted	low	source row is still OCR-level
+498	lerch_glossary_p216_r0498:entry	216	mükiri	mükiri		machet nicht; s. kün’a. suma tau vehgi xo mekiri, kei- ner von Euch gebe einen Laut von sich, 50.8.			ocr_extracted	low	source row is still OCR-level
+499	lerch_glossary_p216_r0499:entry	216	mekSe	mêkSê		tödte nicht, 83. lt; s. ki- Sün’a.			ocr_extracted	low	source row is still OCR-level
+500	lerch_glossary_p216_r0500:entry	216	mügiri	mügiri		gehet nicht (imp.), 73.12; s. gerün'a.			ocr_extracted	low	source row is still OCR-level
+501	lerch_glossary_p216_r0501:entry	216	müterse	mütêrsê		fürchte nicht, 63.4. mütersi, furchtet nicht, 50.4.			ocr_extracted	low	source row is still OCR-level
+502	lerch_glossary_p216_r0502:entry	216	mesln	mêsln		Kupferschale, 86.9-10. Vgl. npers:			ocr_extracted	low	source row is still OCR-level
+503	lerch_glossary_p216_r0503:entry	216	merd	mêrd	merdim	Mann	man; person; human; relative	adam; insan; akraba	headword_parented	medium	
+504	lerch_glossary_p216_r0504:entry	216	merda	mêrda		ich bin gestorben, 74.ii. 2) geh (irap. von yüu’a), 57.#; 67.il.			ocr_extracted	low	source row is still OCR-level
+505	lerch_glossary_p216_r0505:entry	216	merdüm	mêrdüm		merdupm, merdüm = merd.			ocr_extracted	low	source row is still OCR-level
+506	lerch_glossary_p216_r0506:entry	216	mebere	mêbêrê	berdene	nimm nicht	to take away; to carry away; to take there	götürmek	headword_parented	medium	
+507	lerch_glossary_p216_r0507:entry	216	mevinde	mêvindê	mevınde!	säume nicht, 67.ii; s. vindün’a. mevindi, säumet nicht, 64.1-2.	do not wait!	bekleme!	headword_parented	medium	
+508	lerch_glossary_p216_r0508:entry	216	meäni saüe	mêani sawê		um Mitternacht,			ocr_extracted	low	source row is still OCR-level
+509	lerch_glossary_p216_r0509:entry	216	meiyüs	mêyüs		Fliege. Vgl. Krm. meS.			ocr_extracted	low	source row is still OCR-level
+510	lerch_glossary_p216_r0510:entry	216	meit	mêyt		Leichnam. S. Krm. meit.			ocr_extracted	low	source row is still OCR-level
+511	lerch_glossary_p216_r0511:entry	216	meläte	mêlatê		morgen, 73.9. meiste yerel, morgen Abend, meiste sebäh, morgen früh, meiste nemädira, morgen um das Frühgebet,			ocr_extracted	low	source row is still OCR-level
+512	lerch_glossary_p216_r0512:entry	216	meimün	mêymün		Affe. S. Krm. meimün.			ocr_extracted	low	source row is still OCR-level
+513	lerch_glossary_p216_r0513:entry	216	medewi timäu	mêdêwi timaw		Augenwimper,			ocr_extracted	low	source row is still OCR-level
+514	lerch_glossary_p216_r0514:entry	216	mend	mênd	mendene	blieb, mündi. blieben. yaudSmemend, ein Monat ver- strich, 68.8. Vgl. Krm. ma, mend.	stay	kalmak	headword_parented	medium	
+515	lerch_glossary_p216_r0515:entry	216	müSore (ar. L») kerd	müSorê (ar. L») kêrd		hielt Rath. Digitized by G01			ocr_extracted	low	source row is still OCR-level; multiword or collapsed row
+516	lerch_glossary_p217_r0516:entry	217	mesäh	mêsah		Kasten, 83. s.			ocr_extracted	low	source row is still OCR-level
+517	lerch_glossary_p217_r0517:entry	217	merdn’a	mêrdna		(ich) sterbe,			ocr_extracted	low	source row is still OCR-level
+518	lerch_glossary_p217_r0518:entry	217	meröe	mêroê		Birne. Vgl. Krm. ftermd.			ocr_extracted	low	source row is still OCR-level
+519	lerch_glossary_p217_r0519:entry	217	möl’a	mola		Mullah,			ocr_extracted	low	source row is still OCR-level
+520	lerch_glossary_p217_r0520:entry	217	migal’e	migalê		?	eyelash?	kirpik?	qa_reviewed	high	
+521	lerch_glossary_p217_r0521:entry	217	mjri	mjri		mir. rnjrd = merd.			ocr_extracted	low	source row is still OCR-level
+522	lerch_glossary_p217_r0522:entry	217	minj'i. mein	minji. mêyn		meine,			ocr_extracted	low	source row is still OCR-level
+523	lerch_glossary_p217_r0523:entry	217	mlre	mlrê		Fürst. S. Krm. mir.			ocr_extracted	low	source row is still OCR-level
+524	lerch_glossary_p217_r0524:entry	217	militik	militik		Sperling,			ocr_extracted	low	source row is still OCR-level
+525	lerch_glossary_p217_r0525:entry	217	mü	mü		Haar, Gefieder; s. Krm. mü. muqaite ( ar. ) jföe bi, (sie) seien auf ihrer Hut, 72.10. müye = mü.			ocr_extracted	low	source row is still OCR-level
+526	lerch_glossary_p217_r0526:entry	217	fek	fêk	fek	feg, Mund. feg veld’i, gähnte,	mouth	ağız	headword_parented	medium	
+527	lerch_glossary_p217_r0527:entry	217	feni	fêni		gleich, s. Krm. feni.			ocr_extracted	low	source row is still OCR-level
+528	lerch_glossary_p217_r0528:entry	217	ferdye	fêrdyê		ist geflogen, s. ferdn’a.			ocr_extracted	low	source row is still OCR-level
+529	lerch_glossary_p217_r0529:entry	217	Ferdtu	Fêrdtû		Euphrat,			ocr_extracted	low	source row is still OCR-level
+530	lerch_glossary_p217_r0530:entry	217	ferdn’a	fêrdna		(ich) fliege.			ocr_extracted	low	source row is still OCR-level
+531	lerch_glossary_p217_r0531:entry	217	vai	vay		Ausrufung.			ocr_extracted	low	source row is still OCR-level
+532	lerch_glossary_p217_r0532:entry	217	vaištüra	vayştüra	vaştüriye	Sichel	sickle	orak	qa_reviewed	high	
+533	lerch_glossary_p217_r0533:entry	217	mündial aisnia fdtiua	mündyal aysnya fdtywa		Regenbo- gen, 4.H.			ocr_extracted	low	source row is still OCR-level; multiword or collapsed row
+534	lerch_glossary_p217_r0534:entry	217	mul	mûl		Maus. Vgl. Krm. m|S.			ocr_extracted	low	source row is still OCR-level
+535	lerch_glossary_p217_r0535:entry	217	müäi ärdi	mway ardi		Maulwurf ( tcürilich : Grdmaus).			ocr_extracted	low	source row is still OCR-level
+536	lerch_glossary_p217_r0536:entry	217	ntüäu kör	ntwaw kor		Blindmaus, = Krm. mjSki tfu’lr.			ocr_extracted	low	source row is still OCR-level
+537	lerch_glossary_p217_r0537:entry	217	myandu’i	myandûi		mittlere, 49.2; 58.8; s. myaui.			ocr_extracted	low	source row is still OCR-level
+538	lerch_glossary_p217_r0538:entry	217	myäni	myani		Mitte. myäne saue, um Mitternacht; s. meäni äaüe. myände, in der Mitte.			ocr_extracted	low	source row is still OCR-level
+539	lerch_glossary_p217_r0539:entry	217	myöSna	myoSna		Schaf; s. Krm. me§.			ocr_extracted	low	source row is still OCR-level
+540	lerch_glossary_p217_r0540:entry	217	rnyörde	rnyordê		Ehemann. Vgl. Krm. mer.			ocr_extracted	low	source row is still OCR-level
+541	lerch_glossary_p217_r0541:entry	217	ferln	fêrln		Ofen,			ocr_extracted	low	source row is still OCR-level
+542	lerch_glossary_p217_r0542:entry	217	ferindi	fêrindi		Bäcker,			ocr_extracted	low	source row is still OCR-level
+543	lerch_glossary_p217_r0543:entry	217	fll	fll		Elephant: s. Krm. fll.			ocr_extracted	low	source row is still OCR-level
+544	lerch_glossary_p217_r0544:entry	217	filfillk	filfillk		Schmetterling, filfilika §au, Nachtfalter.			ocr_extracted	low	source row is still OCR-level
+545	lerch_glossary_p217_r0545:entry	217	vaüre	vawrê		Schnee. Vgl. Krm. berf.			ocr_extracted	low	source row is still OCR-level
+546	lerch_glossary_p217_r0546:entry	217	va	va	vatene	s. väna, väda	to say; to tell; to speak	söylemek, demek	headword_parented	medium	
+547	lerch_glossary_p217_r0547:entry	217	väda	vada	vatene	(ich) spreche, sage	to say; to tell; to speak	söylemek, demek	headword_parented	medium	
+548	lerch_glossary_p218_r0548:entry	218	vdtiä	vdtya		abscheulich, 82.4.			ocr_extracted	low	source row is still OCR-level
+549	lerch_glossary_p218_r0549:entry	218	va$	va$	vaş	Gras. vddi beng = Krm. dari beng, Terpentiubaum.	grass, weed	ot	headword_parented	medium	
+550	lerch_glossary_p218_r0550:entry	218	vaz (Lina	vaz (Lina		(ich) laufe. Vgl. Krm. baz, bezfa. vaz da, lief, 72.7.			ocr_extracted	low	source row is still OCR-level
+551	lerch_glossary_p218_r0551:entry	218	vard	vard		I) Lamm. Vgl. Krm. berli. vard. 2) s. vardn.			ocr_extracted	low	source row is still OCR-level
+552	lerch_glossary_p218_r0552:entry	218	vardn	vardn		Kegen. vardn vard, es regnete. Vgl. Krm. bardn. varük = vard.			ocr_extracted	low	source row is still OCR-level
+553	lerch_glossary_p218_r0553:entry	218	ve ken’a	vê kêna		(ich) berühre (?), thue an	to touch / put onto	dokunmak / üzerine koymak	qa_reviewed	high	
+554	lerch_glossary_p218_r0554:entry	218	veng	vêng	veng	Stimme, Laut, Schrei, vetig ddna, (ich) schreie, rufe, veng kün’a, (ich) gebe einen Laut von mir. venge )föe inekiri, gebet kei- nen Laut von Euch, 50. s.	Sound, Audio, Voice	ses	headword_parented	medium	
+555	lerch_glossary_p218_r0555:entry	218	veden'a	vêdêna		(ich) gehe aus, heraus, ve da, ging aus.			ocr_extracted	low	source row is still OCR-level
+556	lerch_glossary_p218_r0556:entry	218	vesün’a	vêsüna		brenne(inlr.); s. vesnün’a. veSa, brannte.			ocr_extracted	low	source row is still OCR-level
+557	lerch_glossary_p218_r0557:entry	218	veünün’a	vêwnüna		(ich) brenne nieder, vcsud, brannte nieder, veäni , brennet nieder (imp.), 68.8.			ocr_extracted	low	source row is still OCR-level
+558	lerch_glossary_p218_r0558:entry	218	vgt	vgt		weg, aus , zeinddna vet ard, führte aus dem Gefängnisse, 56. n.			ocr_extracted	low	source row is still OCR-level
+559	lerch_glossary_p218_r0559:entry	218	ver	vêr	ver	Potipos. gegen, zu, nach, aus; s. vera. kaut ver, folgte, 70.8.		1) ön 2) dolayı, yüzünden 3) karşı	headword_parented	medium	
+560	lerch_glossary_p218_r0560:entry	218	ver ken’a	vêr kêna		(ich) bereite. ver ke, bereite, 5l.to; 52.«.			ocr_extracted	low	source row is still OCR-level
+561	lerch_glossary_p218_r0561:entry	218	vera	vêra	vera	aus, heraus, entgegen, geraüte vera , nahm heraus 64.». ez vlst nierdumi tüe yau mer- dümi jföe verakiäün’a, zwan- zig der Deinigen tödte ich gegen einen der (Kernigen, 66,10-it.	against, toward, contrary to, compared with, versus, for	karşı, karşısında, önüne, öne doğru, yerine	headword_parented	medium	
+562	lerch_glossary_p218_r0562:entry	218	vera ddna	vêra ddna		s. verddna.			ocr_extracted	low	source row is still OCR-level
+563	lerch_glossary_p218_r0563:entry	218	veri	vêri	vêr, veri	erst, zuerst. ez tüe veri eixöe kiäün’a, ich tödte dich selbst zuerst, 64.7. veri doan, einst, 65.».		ön, önü (bükümlü hali)	headword_parented	medium	
+564	lerch_glossary_p218_r0564:entry	218	verg	vêrg	verg	Wolf. Vgl. altb; vöhrka (vahrka), vb- rbka; cf. PZ.	wolf	kurt	headword_parented	medium	
+565	lerch_glossary_p218_r0565:entry	218	IV	İV		24; Pott Zählmethode , 127. Anm.; Hofers Zeitscbr. I, 137-39; Förstemau n, in Kuhns Zeitschr. I, 494; Bopp. Vgl. Gr. NA. S. 3. S. Krm. gur.			ocr_extracted	low	source row is still OCR-level
+566	lerch_glossary_p218_r0566:entry	218	veryün’e	vêryünê		erste			ocr_extracted	low	source row is still OCR-level
+567	lerch_glossary_p218_r0567:entry	218	verddni	vêrddni		s. verddna.			ocr_extracted	low	source row is still OCR-level
+568	lerch_glossary_p218_r0568:entry	218	verde	vêrdê	verde	s. verddna.	before	evvel	headword_parented	medium	
+569	lerch_glossary_p218_r0569:entry	218	verde	vêrdê	verde	vor. tj verde, vor dir. velk = verg.	before	evvel	headword_parented	medium	
+570	lerch_glossary_p219_r0570:entry	219	velgö	vêlgo		Blätter, Laub. G: belk foglia ; B. III: 63: varak feuille. Vgl. npers: kälL; cf. 1*Z. III, 45. veih = verig.			ocr_extracted	low	source row is still OCR-level
+571	lerch_glossary_p219_r0571:entry	219	venert	vênêrt	vındetene	stand, sass, blieb	stood / sat / remained	durdu / kaldı	qa_reviewed	high	
+572	lerch_glossary_p219_r0572:entry	219	verdana	vêrdana		(ich) werfe weg, lasse los, verschone, vera däna, (ich) verschone, ver dä, warf weg, 72.«. verddnl, du bissest, 55.». v6ra medi , verschonet eicht, 75.9.			ocr_extracted	low	source row is still OCR-level
+573	lerch_glossary_p219_r0573:entry	219	wa	wa		er, sie.			ocr_extracted	low	source row is still OCR-level
+574	lerch_glossary_p219_r0574:entry	219	wai	way		Schwester.			ocr_extracted	low	source row is still OCR-level
+575	lerch_glossary_p219_r0575:entry	219	waiät	wayat		wünschte; s. wazdn’a.			ocr_extracted	low	source row is still OCR-level
+576	lerch_glossary_p219_r0576:entry	219	waift	wayft		(ar. tUj), Zeit.			ocr_extracted	low	source row is still OCR-level
+577	lerch_glossary_p219_r0577:entry	219	wade	wadê		(türk.o^jl), Zimmer, 62.2. waät = waiät.			ocr_extracted	low	source row is still OCR-level
+578	lerch_glossary_p219_r0578:entry	219	wazdn'a	wazdna		(ich) wünsche, will, freie. waiSt, wa$t, wünschte, freite. Vgl. Krm. xöast. verd dai, liess los, 84.2. vera nedäna , ich verschone nicht, 70.11-12. me verdi , verschonet nicht, 69.4.			ocr_extracted	low	source row is still OCR-level
+579	lerch_glossary_p219_r0579:entry	219	vidn’a	vidna		(ich) sehe; s. aunön’a. aünd, sah. vi6n’e, komme; s. yön’a.			ocr_extracted	low	source row is still OCR-level
+580	lerch_glossary_p219_r0580:entry	219	vindßn’a	vindßna		(ich) bleibe, s. venden’a. vjndd, bleibe stehen, 57.6. äqjli vinde, bleibe vernünftig, 86.7. nevinddn’i, bleiben nicht, 67. io. vinert = venert.			ocr_extracted	low	source row is still OCR-level
+581	lerch_glossary_p219_r0581:entry	219	vlst. zwanzig	vlst. zwanzig					ocr_extracted	low	source row is still OCR-level
+582	lerch_glossary_p219_r0582:entry	219	vlstin	vlstin		zwanzigste,			ocr_extracted	low	source row is still OCR-level
+583	lerch_glossary_p219_r0583:entry	219	vizyfri	vizyfri		gestern Abend. Vgl. oss: izar Abtnd (R.)			ocr_extracted	low	source row is still OCR-level
+584	lerch_glossary_p219_r0584:entry	219	vil’e = Krm.gulilik	vilê = Krm.gûlilik		Blümchen,			ocr_extracted	low	source row is still OCR-level; multiword or collapsed row
+585	lerch_glossary_p219_r0585:entry	219	vydn’a = vidn’a	vydna = vidna		s. y6n'a. vydne = vidn’e, komm, 74. io. way6r, Herr. mäle yöe bye way6r ndkeri, (dass) sie ihre Habe nicht ohne Herr (Schutz) lassen, 72.11-12. tau tüeri wdyerei iiekdn’u, Keiner übt über dich Herr- schaft, 53.11.			ocr_extracted	low	source row is still OCR-level; multiword or collapsed row
+586	lerch_glossary_p219_r0586:entry	219	waddre	waddrê		s. weddri.			ocr_extracted	low	source row is still OCR-level
+587	lerch_glossary_p220_r0587:entry	220	war	war		Winterlager, 60.12-13.			ocr_extracted	low	source row is still OCR-level
+588	lerch_glossary_p220_r0588:entry	220	warezä	warêza		Neffe, Schwestersohn. Vgl. Krm. xoärz. ward6n’a = warzdn’a.			ocr_extracted	low	source row is still OCR-level
+589	lerch_glossary_p220_r0589:entry	220	warzdn’a	warzdna		(ich) erhebe mich, stehe auf. wärzi, stehet auf. weriät, erhob sich, stand auf. S. warden’a, werddn’a. we = wa.			ocr_extracted	low	source row is still OCR-level
+590	lerch_glossary_p220_r0590:entry	220	wend	wênd	wendene , wantene	las. Vgl. Krm. yo6nd.	1) read 2) go to school, to study 3) to sing	1) okumak 2) okula gitmek 3) şarkısöylemek	headword_parented	medium	
+591	lerch_glossary_p220_r0591:entry	220	weye kdn’a	wêyê kdna		jage weg. weta = vet.			ocr_extracted	low	source row is still OCR-level
+592	lerch_glossary_p220_r0592:entry	220	weddri	wêddri		bestattet. meitani me wadere taüde me — w tinu, ich habe Niemanden, v 1 um meine Leichen zu be- statten, 79.3-6. weddrti, bestatteten, 65.7.			ocr_extracted	low	source row is still OCR-level
+593	lerch_glossary_p220_r0593:entry	220	weä	wêa		gut, gesund, 81.3. Vgl. Krm. xo§. weäi kdn’a, (ich) versöhne, ma pya weäi ke, versöhne uns mit einander, 70.6.			ocr_extracted	low	source row is still OCR-level
+594	lerch_glossary_p220_r0594:entry	220	Weäin	Wêayn		Ortsname.			ocr_extracted	low	source row is still OCR-level
+595	lerch_glossary_p220_r0595:entry	220	Wesmdn	Wêsmdn		Eigenname,			ocr_extracted	low	source row is still OCR-level
+596	lerch_glossary_p220_r0596:entry	220	weränd	wêrand		dest äjmäyöri yöe werdnd, nahm sein Schwert in die Hand, 72.t.			ocr_extracted	low	source row is still OCR-level
+597	lerch_glossary_p220_r0597:entry	220	weriät	wêryat		stand auf. weriät be espär, sassauf, setzte sich zu Pferde, machte sich zu Pferde auf. werddn’a = warzdn’a. wirdi, standen auf, 62.ii.			ocr_extracted	low	source row is still OCR-level
+598	lerch_glossary_p220_r0598:entry	220	welra	wêlra		dort.			ocr_extracted	low	source row is still OCR-level
+599	lerch_glossary_p220_r0599:entry	220	wdn’iäi	wdnyay		geht entgegen, 84.1».			ocr_extracted	low	source row is still OCR-level
+600	lerch_glossary_p220_r0600:entry	220	widd	widd		wid&ra, sogleich, 66. e.			ocr_extracted	low	source row is still OCR-level
