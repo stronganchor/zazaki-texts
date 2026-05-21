@@ -46,7 +46,7 @@ const publication = {
       place('Merzyelê/Merzil', 'Erbağı', 'Erbağı, Arıcak, Elazığ'),
       place('Ğêytê/Ğeyd', 'Karcı', 'Karcı, Genç, Bingöl'),
     ],
-    historical_context_tr: "Bu metin Karbegan/Karabegan ve Sivan/Servi çevresindeki yerel güç ilişkilerini yansıtan bir kan davası anlatısıdır. 1870-1871 Diyarbakır salnamesinde Karabegan nahiyesinin Sivan'a bağlı köylerle birlikte anılması, Karbegan adını aynı Palu-Genç/Servi tarihî coğrafyası içinde düşünmeyi destekler. Metin, Lerch'in 1856'da Roslavl'da savaş esirlerinden derlediği Zazaca malzemenin parçası olarak yayınlanmaktadır.",
+    historical_context_tr: "Bu metin Karbegan/Karabegan ve Sivan/Servi çevresindeki yerel güç ilişkilerini yansıtan bir kan davası anlatısıdır. 1870-1871 Diyarbakır salnamesinde Karabegan nahiyesinin Sivan'a bağlı köylerle birlikte anılması, Karbegan adını aynı Palu-Genç/Servi tarihî coğrafyası içinde düşünmeyi destekler. Nilay Özok-Gündoğan'ın aktardığı 1849 tarihli bir Osmanlı arşiv belgesinde, Abdullah Beg'in Weşin yangınının Karabegan aşireti tarafından, Karabegan ile Weşin arasındaki eski düşmanlık nedeniyle çıkarıldığını ileri sürdüğü kaydedilir. Bu belge yangını kimin çıkardığını bağımsız olarak kanıtlamaz; ama Karbegan-Weşin düşmanlığının 1849'da resmî bir belgede açıklama olarak kullanıldığını gösterir (Özok-Gündoğan 2022, 162; BOA.İ.MVL 139/3859, belge no. 5, 13 Şubat 1849). Metin, Lerch'in 1856'da Roslavl'da savaş esirlerinden derlediği Zazaca malzemenin parçası olarak yayınlanmaktadır.",
     editorial_note_tr: "Narbêş, Syeraçur, Desmun, Merzyelê ve Ğêytê adları anlatının yerel coğrafyasını gösterir; Karbegan/Karabegan ile Sivan/Servi bağlantısı dış kaynaklarla da desteklenir.",
   },
   'degirmenci-ve-tilki': {
