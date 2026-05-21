@@ -18,7 +18,7 @@
   "metadata": {
     "collection": "lerch",
     "collection_label": "Peter Lerch Zazaki Texts",
-    "excerpt": "Hasanek, Qasım ve Şaban adlı üç kardeşin bir devle karşılaşmasını, Hasanek'in mektupları değiştirerek devi kandırmasını ve sonunda devi öldürmesini anlatan masal. İçerik uyarısı: şiddet; yetişkin tema.",
+    "excerpt": "Hasanek, Qasım ve Şaban adlı üç kardeşin bir devle karşılaşmasını, Hasanek'in mektupları değiştirerek devi kandırmasını ve sonunda devi öldürmesini anlatan masal.",
     "source_author": "Peter Lerch",
     "source_work": "Forschungen über die Kurden und die iranischen Nordchaldäer / Russian original Zazaki transcriptions",
     "story_title_lerch": "Das Märchen von den drei Brüdern",
@@ -34,7 +34,32 @@
       "people_tr": "",
       "places_tr": "",
       "historical_context_tr": "",
-      "editorial_note_tr": ""
+      "editorial_note_tr": "",
+      "title_tr": "Üç Kardeş Masalı",
+      "title_en": "The Tale of the Three Brothers",
+      "title_de": "Märchen von den drei Brüdern",
+      "public_summary_en": "A tale about three brothers named Hasanek, Qasım, and Şaban, their encounter with a dev, Hasanek's trick of changing the letters, and the eventual killing of the dev.",
+      "public_summary_de": "Ein Märchen von drei Brüdern namens Hasanek, Qasım und Şaban, ihrer Begegnung mit einem Dev, Hasaneks List beim Vertauschen der Briefe und der schließlichen Tötung des Devs.",
+      "content_warning_en": "violence; adult theme",
+      "content_warning_de": "Gewalt; erwachsenes Thema",
+      "people_en": "",
+      "people_de": "",
+      "places_en": "",
+      "places_de": "",
+      "historical_context_en": "",
+      "historical_context_de": "",
+      "editorial_note_en": "",
+      "editorial_note_de": ""
+    },
+    "collection_labels": {
+      "tr": "Peter Lerch Metinleri",
+      "en": "Peter Lerch Texts",
+      "de": "Peter-Lerch-Texte"
+    },
+    "excerpts": {
+      "tr": "Hasanek, Qasım ve Şaban adlı üç kardeşin bir devle karşılaşmasını, Hasanek'in mektupları değiştirerek devi kandırmasını ve sonunda devi öldürmesini anlatan masal.",
+      "en": "A tale about three brothers named Hasanek, Qasım, and Şaban, their encounter with a dev, Hasanek's trick of changing the letters, and the eventual killing of the dev.",
+      "de": "Ein Märchen von drei Brüdern namens Hasanek, Qasım und Şaban, ihrer Begegnung mit einem Dev, Hasaneks List beim Vertauschen der Briefe und der schließlichen Tötung des Devs."
     }
   },
   "summary": {
@@ -47835,5 +47860,15 @@
         "bingol_transcription": "miyanıni day bıray xû Qasımi, runışt, xû ri keyf sefa kerd, venert."
       }
     }
-  ]
+  ],
+  "titles": {
+    "tr": "Üç Kardeş Masalı",
+    "en": "The Tale of the Three Brothers",
+    "de": "Märchen von den drei Brüdern"
+  },
+  "excerpts": {
+    "tr": "Hasanek, Qasım ve Şaban adlı üç kardeşin bir devle karşılaşmasını, Hasanek'in mektupları değiştirerek devi kandırmasını ve sonunda devi öldürmesini anlatan masal.",
+    "en": "A tale about three brothers named Hasanek, Qasım, and Şaban, their encounter with a dev, Hasanek's trick of changing the letters, and the eventual killing of the dev.",
+    "de": "Ein Märchen von drei Brüdern namens Hasanek, Qasım und Şaban, ihrer Begegnung mit einem Dev, Hasaneks List beim Vertauschen der Briefe und der schließlichen Tötung des Devs."
+  }
 }

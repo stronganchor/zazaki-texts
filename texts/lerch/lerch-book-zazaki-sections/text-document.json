@@ -7,7 +7,7 @@
   "metadata": {
     "collection": "lerch",
     "collection_label": "Peter Lerch Metinleri",
-    "excerpt": "Lerch'in Zazaca metinleri, sözlüğü ve ilgili açıklamalarından seçilmiş bölümlerin çok dilli seçkisi.",
+    "excerpt": "Lerch'in Zazaca metinleri, kaynak kişileri, kullandığı yazı sistemi ve sözlüğü hakkında kendi kitabındaki ilgili bölümlerden hazırlanmış çok dilli seçki.",
     "default_language": "tr",
     "working_status": "reviewed working edition; not final critical edition",
     "generated_at": "2026-05-21",
@@ -18,12 +18,37 @@
       "people_tr": "Peter Lerch; Hassan; B. von Dorn; Hussein.",
       "places_tr": "Roslavl; Palu; Sivan; Kasan/Kassau/Kaschan; Muş; Tujik/Tuzik; Dúmbeli.",
       "historical_context_tr": "Bu metin, Lerch'in Zazaca malzemeyi nasıl topladığını ve Zazaca metinleri neden bilimsel açıdan önemli gördüğünü açıklayan bölümleri bir araya getirir.",
-      "editorial_note_tr": "Bu bölüm anlatı ya da interlinear metin değil, kaynak kitabın Zazaca ile ilgili açıklamalarından yapılmış çok dilli bir okuma metnidir."
+      "editorial_note_tr": "Bu bölüm anlatı ya da interlinear metin değil, kaynak kitabın Zazaca ile ilgili açıklamalarından yapılmış çok dilli bir okuma metnidir.",
+      "title_tr": "Peter Lerch'in Zazaca Bölümleri",
+      "title_en": "Peter Lerch's Zaza-Related Sections",
+      "title_de": "Peter Lerchs zazabezogene Abschnitte",
+      "public_summary_en": "A multilingual selection from Lerch's own book sections about the Zaza texts, his sources, his transcription system, and his glossary.",
+      "public_summary_de": "Eine mehrsprachige Auswahl aus Lerchs eigenen Buchabschnitten über die Zaza-Texte, seine Gewährsleute, sein Transkriptionssystem und sein Glossar.",
+      "content_warning_en": "",
+      "content_warning_de": "",
+      "people_en": "Peter Lerch; Hassan; B. von Dorn; Hussein.",
+      "people_de": "Peter Lerch; Hassan; B. von Dorn; Hussein.",
+      "places_en": "Roslavl; Palu; Sivan; Kasan/Kassau/Kaschan; Muş; Tujik/Tuzik; Dúmbeli.",
+      "places_de": "Roslavl; Palu; Sivan; Kasan/Kassau/Kaschan; Muş; Tujik/Tuzik; Dúmbeli.",
+      "historical_context_en": "This text brings together passages in which Lerch explains how he collected the Zaza material and why he considered the Zaza texts scientifically important.",
+      "historical_context_de": "Dieser Text stellt Passagen zusammen, in denen Lerch erklärt, wie er das Zaza-Material gesammelt hat und warum er die Zaza-Texte wissenschaftlich für wichtig hielt.",
+      "editorial_note_en": "This is not a narrative or interlinear text, but a multilingual reading text made from the Zaza-related explanations in the source book.",
+      "editorial_note_de": "Dies ist kein Erzähl- oder Interlineartext, sondern ein mehrsprachiger Lesetext aus den zazabezogenen Erläuterungen des Quellenbuches."
     },
     "intro": {
       "tr": "# Peter Lerch: Kürtçe Ciltlerdeki Zaza ile İlgili Bölümler\n\nGüncel Türkçe çeviri, Lerch çeviri projesinde seçilmiş Zaza ile ilgili bölümlere dayanır. Bu bir özet değil, çeviridir. Mevcut proje kapsamını korur: tam hikayeler ve tam sözlük maddeleri burada yinelenmez. Almanca ve Rusça tanıklar, projede daha önce hizalandıkları yerlerde kullanılmıştır; çözülmemiş tanık farkları daha sonraki kaynak kontrolü için notlarda bırakılmıştır.",
       "en": "# Peter Lerch: Zaza-Related Passages from the Kurdish Volumes\n\nEnglish translation from the selected Zaza-relevant passages in the Lerch translation project. This is a translation, not a summary. It keeps the current project scope: no full stories and no full glossary entries. German and Russian witnesses have been used where the project already aligned them; unresolved witness differences remain noted for later source-checking.",
       "de": "Mehrsprachige Auswahl Zazä-bezogener Abschnitte aus Lerchs kurdischen Bänden."
+    },
+    "collection_labels": {
+      "tr": "Peter Lerch Metinleri",
+      "en": "Peter Lerch Texts",
+      "de": "Peter-Lerch-Texte"
+    },
+    "excerpts": {
+      "tr": "Lerch'in Zazaca metinleri, kaynak kişileri, kullandığı yazı sistemi ve sözlüğü hakkında kendi kitabındaki ilgili bölümlerden hazırlanmış çok dilli seçki.",
+      "en": "A multilingual selection from Lerch's own book sections about the Zaza texts, his sources, his transcription system, and his glossary.",
+      "de": "Eine mehrsprachige Auswahl aus Lerchs eigenen Buchabschnitten über die Zaza-Texte, seine Gewährsleute, sein Transkriptionssystem und sein Glossar."
     }
   },
   "translations": {
@@ -133,5 +158,15 @@
       "citation": "Lerch, Peter. Forschungen über die Kurden und die iranischen Nordchaldäer. St. Petersburg: Kaiserliche Akademie der Wissenschaften, 1857-1858.",
       "note": "German readable drafts are used for the current German book-text layer."
     }
-  ]
+  ],
+  "titles": {
+    "tr": "Peter Lerch'in Zazaca Bölümleri",
+    "en": "Peter Lerch's Zaza-Related Sections",
+    "de": "Peter Lerchs zazabezogene Abschnitte"
+  },
+  "excerpts": {
+    "tr": "Lerch'in Zazaca metinleri, kaynak kişileri, kullandığı yazı sistemi ve sözlüğü hakkında kendi kitabındaki ilgili bölümlerden hazırlanmış çok dilli seçki.",
+    "en": "A multilingual selection from Lerch's own book sections about the Zaza texts, his sources, his transcription system, and his glossary.",
+    "de": "Eine mehrsprachige Auswahl aus Lerchs eigenen Buchabschnitten über die Zaza-Texte, seine Gewährsleute, sein Transkriptionssystem und sein Glossar."
+  }
 }

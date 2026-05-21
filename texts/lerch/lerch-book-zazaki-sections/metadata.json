@@ -12,6 +12,26 @@
     "people_tr": "Peter Lerch; Hassan; B. von Dorn; Hussein.",
     "places_tr": "Roslavl; Palu; Sivan; Kasan/Kassau/Kaschan; Muş; Tujik/Tuzik; Dúmbeli.",
     "historical_context_tr": "Bu metin, Lerch'in Zazaca malzemeyi nasıl topladığını ve Zazaca metinleri neden bilimsel açıdan önemli gördüğünü açıklayan bölümleri bir araya getirir.",
-    "editorial_note_tr": "Bu bölüm anlatı ya da interlinear metin değil, kaynak kitabın Zazaca ile ilgili açıklamalarından yapılmış çok dilli bir okuma metnidir."
+    "editorial_note_tr": "Bu bölüm anlatı ya da interlinear metin değil, kaynak kitabın Zazaca ile ilgili açıklamalarından yapılmış çok dilli bir okuma metnidir.",
+    "title_tr": "Peter Lerch'in Zazaca Bölümleri",
+    "title_en": "Peter Lerch's Zaza-Related Sections",
+    "title_de": "Peter Lerchs zazabezogene Abschnitte",
+    "public_summary_en": "A multilingual selection from Lerch's own book sections about the Zaza texts, his sources, his transcription system, and his glossary.",
+    "public_summary_de": "Eine mehrsprachige Auswahl aus Lerchs eigenen Buchabschnitten über die Zaza-Texte, seine Gewährsleute, sein Transkriptionssystem und sein Glossar.",
+    "content_warning_en": "",
+    "content_warning_de": "",
+    "people_en": "Peter Lerch; Hassan; B. von Dorn; Hussein.",
+    "people_de": "Peter Lerch; Hassan; B. von Dorn; Hussein.",
+    "places_en": "Roslavl; Palu; Sivan; Kasan/Kassau/Kaschan; Muş; Tujik/Tuzik; Dúmbeli.",
+    "places_de": "Roslavl; Palu; Sivan; Kasan/Kassau/Kaschan; Muş; Tujik/Tuzik; Dúmbeli.",
+    "historical_context_en": "This text brings together passages in which Lerch explains how he collected the Zaza material and why he considered the Zaza texts scientifically important.",
+    "historical_context_de": "Dieser Text stellt Passagen zusammen, in denen Lerch erklärt, wie er das Zaza-Material gesammelt hat und warum er die Zaza-Texte wissenschaftlich für wichtig hielt.",
+    "editorial_note_en": "This is not a narrative or interlinear text, but a multilingual reading text made from the Zaza-related explanations in the source book.",
+    "editorial_note_de": "Dies ist kein Erzähl- oder Interlineartext, sondern ein mehrsprachiger Lesetext aus den zazabezogenen Erläuterungen des Quellenbuches."
+  },
+  "titles": {
+    "tr": "Peter Lerch'in Zazaca Bölümleri",
+    "en": "Peter Lerch's Zaza-Related Sections",
+    "de": "Peter Lerchs zazabezogene Abschnitte"
   }
 }

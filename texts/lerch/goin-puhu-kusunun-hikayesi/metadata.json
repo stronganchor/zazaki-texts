@@ -16,7 +16,27 @@
     "people_tr": "",
     "places_tr": "",
     "historical_context_tr": "",
-    "editorial_note_tr": ""
+    "editorial_note_tr": "",
+    "title_tr": "Go'in / Puhu Kuşunun Hikayesi",
+    "title_en": "The Story of the Go'in Bird",
+    "title_de": "Die Geschichte vom Go'in-Vogel",
+    "public_summary_en": "A girl dreams of the brother killed by her stepmother; after conflict within the family, she asks God to turn her into the go'in bird.",
+    "public_summary_de": "Ein Mädchen träumt von ihrem Bruder, den ihre Stiefmutter getötet hat; nach einem Konflikt in der Familie bittet sie Gott, sie in den Go'in-Vogel zu verwandeln.",
+    "content_warning_en": "violence; child death",
+    "content_warning_de": "Gewalt; Tod eines Kindes",
+    "people_en": "",
+    "people_de": "",
+    "places_en": "",
+    "places_de": "",
+    "historical_context_en": "",
+    "historical_context_de": "",
+    "editorial_note_en": "",
+    "editorial_note_de": ""
   },
-  "excerpt": "Üvey annesinin öldürdüğü kardeşini rüyasında gören bir kız, aile içi çatışmanın ardından Allah'tan kendisini go'in/puhu kuşuna çevirmesini ister."
+  "excerpt": "Üvey annesinin öldürdüğü kardeşini rüyasında gören bir kız, aile içi çatışmanın ardından Allah'tan kendisini go'in/puhu kuşuna çevirmesini ister.",
+  "titles": {
+    "tr": "Go'in / Puhu Kuşunun Hikayesi",
+    "en": "The Story of the Go'in Bird",
+    "de": "Die Geschichte vom Go'in-Vogel"
+  }
 }

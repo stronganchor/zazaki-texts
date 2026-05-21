@@ -33,7 +33,32 @@
       "people_tr": "",
       "places_tr": "",
       "historical_context_tr": "Bu bölüm anlatı metni değil, kısa örnek cümlelerden oluşan bir dil malzemesidir. Lerch, Bacmeister'in örneklerini önce Türkçeye çevirip sonra Kürt konuşurlara Kurmanci ve Zaza karşılıklarını söylettiğini açıklar.",
-      "editorial_note_tr": "Zaza cümleleri modern yazıma çevrilmeden, Lerch'in tarihî fonetik yazımıyla verilir. Not satırları, tanık farklarını veya kaynakta görünen muhtemel yazım/transkripsiyon hatalarını belirtir."
+      "editorial_note_tr": "Zaza cümleleri modern yazıma çevrilmeden, Lerch'in tarihî fonetik yazımıyla verilir. Not satırları, tanık farklarını veya kaynakta görünen muhtemel yazım/transkripsiyon hatalarını belirtir.",
+      "title_tr": "Bacmeister Örnek Cümleleri",
+      "title_en": "Bacmeister Sample Sentences",
+      "title_de": "Bacmeisters Beispielsätze",
+      "public_summary_en": "Forty-four short Kurmanji and Zaza sample sentences that Lerch produced from Bacmeister's language examples. The Zaza column preserves Lerch's historical phonetic transcription.",
+      "public_summary_de": "Vierundvierzig kurze Kurmandschi- und Zaza-Beispielsätze, die Lerch aus Bacmeisters Sprachbeispielen erstellte. Die Zaza-Spalte bewahrt Lerchs historische phonetische Transkription.",
+      "content_warning_en": "",
+      "content_warning_de": "",
+      "people_en": "",
+      "people_de": "",
+      "places_en": "",
+      "places_de": "",
+      "historical_context_en": "This section is not a narrative text, but a set of short sample sentences. Lerch explains that he first translated Bacmeister's examples into Turkish and then asked Kurdish speakers for the Kurmanji and Zaza equivalents.",
+      "historical_context_de": "Dieser Abschnitt ist kein Erzähltext, sondern eine Sammlung kurzer Beispielsätze. Lerch erklärt, dass er Bacmeisters Beispiele zuerst ins Türkische übersetzte und dann kurdische Sprecher nach den Kurmandschi- und Zaza-Entsprechungen fragte.",
+      "editorial_note_en": "The Zaza sentences are given in Lerch's historical phonetic writing, not normalized to modern Zazaki orthography. Notes mark witness differences or probable spelling/transcription errors visible in the source.",
+      "editorial_note_de": "Die Zaza-Sätze werden in Lerchs historischer phonetischer Schreibung wiedergegeben, nicht in moderne Zazaki-Orthographie normalisiert. Notizen markieren Zeugenunterschiede oder wahrscheinliche Schreib- bzw. Transkriptionsfehler in der Quelle."
+    },
+    "collection_labels": {
+      "tr": "Peter Lerch Metinleri",
+      "en": "Peter Lerch Texts",
+      "de": "Peter-Lerch-Texte"
+    },
+    "excerpts": {
+      "tr": "Lerch'in Bacmeister'in dil örneklerinden hareketle Kurmanci ve Zaza için yazdığı 44 kısa örnek cümle. Zaza sütunu Lerch'in tarihî ses yazımıyla korunmuştur.",
+      "en": "Forty-four short Kurmanji and Zaza sample sentences that Lerch produced from Bacmeister's language examples. The Zaza column preserves Lerch's historical phonetic transcription.",
+      "de": "Vierundvierzig kurze Kurmandschi- und Zaza-Beispielsätze, die Lerch aus Bacmeisters Sprachbeispielen erstellte. Die Zaza-Spalte bewahrt Lerchs historische phonetische Transkription."
     }
   },
   "summary": {
@@ -7276,5 +7301,15 @@
         "POS"
       ]
     }
-  ]
+  ],
+  "titles": {
+    "tr": "Bacmeister Örnek Cümleleri",
+    "en": "Bacmeister Sample Sentences",
+    "de": "Bacmeisters Beispielsätze"
+  },
+  "excerpts": {
+    "tr": "Lerch'in Bacmeister'in dil örneklerinden hareketle Kurmanci ve Zaza için yazdığı 44 kısa örnek cümle. Zaza sütunu Lerch'in tarihî ses yazımıyla korunmuştur.",
+    "en": "Forty-four short Kurmanji and Zaza sample sentences that Lerch produced from Bacmeister's language examples. The Zaza column preserves Lerch's historical phonetic transcription.",
+    "de": "Vierundvierzig kurze Kurmandschi- und Zaza-Beispielsätze, die Lerch aus Bacmeisters Sprachbeispielen erstellte. Die Zaza-Spalte bewahrt Lerchs historische phonetische Transkription."
+  }
 }

@@ -47,7 +47,27 @@
       }
     ],
     "historical_context_tr": "Hyêni/Hêni adı dış kaynaklardaki Hani/Khini ile, Nyêrib/Nerib adı da 19. yüzyıl yer adı notlarında Hani ilçesindeki Kuyular/Nerib ile eşleşir. Hikâyede ordunun Temir Beg'in evi önünde toplanması önemlidir: bu kişi büyük olasılıkla kaynaklarda 1819'da Hani ileri geleni, 1835'te Hani emini olarak görünen ve aynı yıl yenilip Edirne'ye sürgün edilen Timur/Temir Bey'dir. Bu bağlantı, olayın muhtemelen 1819-1835 aralığında gerçekleştiğini gösterir.",
-    "editorial_note_tr": "Nyêrib/Kuyular ve Hyêni/Hani eşleştirmeleri dış kaynakla desteklenir. Küçük Nyêrib adı, Hani çevresindeki Nêrib köyleri kümesine bağlı bir küçük yerleşimi gösteriyor olmalıdır; Dûzê Hemyê ise aynı çevrede bir ova veya mevki adı gibi görünür."
+    "editorial_note_tr": "Nyêrib/Kuyular ve Hyêni/Hani eşleştirmeleri dış kaynakla desteklenir. Küçük Nyêrib adı, Hani çevresindeki Nêrib köyleri kümesine bağlı bir küçük yerleşimi gösteriyor olmalıdır; Dûzê Hemyê ise aynı çevrede bir ova veya mevki adı gibi görünür.",
+    "title_tr": "Nyêrib ile Hyêni'nin Kavgası",
+    "title_en": "The Feud Between Nyêrib and Hyêni",
+    "title_de": "Die Fehde zwischen Nyêrib und Hyêni",
+    "public_summary_en": "A feud story beginning with a man from Nyêrib killing a servant on Hyêni land, escalating into a battle between Xalef Agha and Daqma Bey, and ending through mediation by the Ziriki aghas.",
+    "public_summary_de": "Eine Fehde-Erzählung, die damit beginnt, dass ein Mann aus Nyêrib auf Hyêni-Gebiet einen Diener tötet; daraus entsteht ein Kampf zwischen Xalef Agha und Daqma Bey, der durch Vermittlung der Ziriki-Aghas endet.",
+    "content_warning_en": "violence; death",
+    "content_warning_de": "Gewalt; Tod",
+    "people_en": "Xalef Agha; Daqma Bey; Temir Beg; Mela Haseynê Mûğara; Wesman Agha; Mêhmêt Agha; Ziriki aghas; Bayraktar.",
+    "people_de": "Xalef Agha; Daqma Bey; Temir Beg; Mela Haseynê Mûğara; Wesman Agha; Mêhmêt Agha; Ziriki-Aghas; Bayraktar.",
+    "places_en": "Nyêrib/Nerib/Kuyular; Hyêni/Hêni/Hani/Khini; Dawz; Little Nyêrib; Deştê Henzi; Ziriki.",
+    "places_de": "Nyêrib/Nerib/Kuyular; Hyêni/Hêni/Hani/Khini; Dawz; Klein-Nyêrib; Deştê Henzi; Ziriki.",
+    "historical_context_en": "Hyêni/Hêni corresponds to Hani/Khini in outside sources, and Nyêrib/Nerib corresponds to Kuyular/Nerib in nineteenth-century place-name material for Hani. The army gathering in front of Temir Beg's house is important: this is most likely Timur/Temir Bey, documented as a Hani notable in 1819, as Hani emin in 1835, and exiled after defeat that same year. This points to a likely event window of 1819-1835.",
+    "historical_context_de": "Hyêni/Hêni entspricht in externen Quellen Hani/Khini, und Nyêrib/Nerib entspricht Kuyular/Nerib in Ortsnamenmaterial des 19. Jahrhunderts für Hani. Wichtig ist die Versammlung des Heeres vor Temir Begs Haus: Gemeint ist sehr wahrscheinlich Timur/Temir Bey, der 1819 als Hani-Notable, 1835 als Emin von Hani belegt ist und nach seiner Niederlage im selben Jahr verbannt wurde. Das spricht für einen wahrscheinlichen Zeitraum von 1819-1835.",
+    "editorial_note_en": "The Nyêrib/Kuyular and Hyêni/Hani identifications are externally supported. Little Nyêrib probably refers to a smaller settlement in the Nêrib village cluster around Hani; Dûzê Hemyê appears to be a plain or locality in the same area.",
+    "editorial_note_de": "Die Zuordnungen Nyêrib/Kuyular und Hyêni/Hani sind durch externe Quellen gestützt. Klein-Nyêrib bezeichnet wahrscheinlich eine kleinere Siedlung im Nêrib-Dorfverband um Hani; Dûzê Hemyê wirkt wie eine Ebene oder Flurbezeichnung in derselben Gegend."
   },
-  "excerpt": "Nyêrib'den bir adamın Hyêni toprağında bir hizmetçiyi öldürmesiyle başlayan anlatı, Xalef Ağa ile Daqma Bey arasında savaşa dönüşür ve Ziriki ağalarının arabuluculuğuyla barışla biter."
+  "excerpt": "Nyêrib'den bir adamın Hyêni toprağında bir hizmetçiyi öldürmesiyle başlayan anlatı, Xalef Ağa ile Daqma Bey arasında savaşa dönüşür ve Ziriki ağalarının arabuluculuğuyla barışla biter.",
+  "titles": {
+    "tr": "Nyêrib ile Hyêni'nin Kavgası",
+    "en": "The Feud Between Nyêrib and Hyêni",
+    "de": "Die Fehde zwischen Nyêrib und Hyêni"
+  }
 }

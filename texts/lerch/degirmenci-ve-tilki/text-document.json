@@ -39,7 +39,32 @@
         }
       ],
       "historical_context_tr": "",
-      "editorial_note_tr": "MF03 satırındaki köşeli parantezli bölüm Lerch tarafından çevrilmemiştir; yayındaki anlam, Zazaca metin çözümlemesi ve bağlam üzerinden verilmiştir."
+      "editorial_note_tr": "MF03 satırındaki köşeli parantezli bölüm Lerch tarafından çevrilmemiştir; yayındaki anlam, Zazaca metin çözümlemesi ve bağlam üzerinden verilmiştir.",
+      "title_tr": "Değirmenci ve Tilki",
+      "title_en": "The Miller and the Fox",
+      "title_de": "Der Müller und der Fuchs",
+      "public_summary_en": "A tale in which a fox is caught stealing the miller's flour and tries to save his life by promising to marry the miller to the daughter of the Pasha of Egypt. The story turns on trickery, invented identity, and negotiation.",
+      "public_summary_de": "Ein Märchen, in dem ein Fuchs beim Diebstahl von Mehl beim Müller erwischt wird und sein Leben retten will, indem er verspricht, den Müller mit der Tochter des Paschas von Ägypten zu verheiraten. Die Erzählung dreht sich um List, erfundene Identität und Verhandlung.",
+      "content_warning_en": "",
+      "content_warning_de": "",
+      "people_en": "",
+      "people_de": "",
+      "places_en": "Egypt.",
+      "places_de": "Ägypten.",
+      "historical_context_en": "",
+      "historical_context_de": "",
+      "editorial_note_en": "The bracketed passage on MF03 was left untranslated by Lerch; the published meaning here is inferred from the Zaza text analysis and narrative context.",
+      "editorial_note_de": "Die in MF03 geklammerte Passage blieb bei Lerch unübersetzt; die hier veröffentlichte Bedeutung wird aus der Analyse des Zaza-Textes und aus dem Erzählkontext erschlossen."
+    },
+    "collection_labels": {
+      "tr": "Peter Lerch Metinleri",
+      "en": "Peter Lerch Texts",
+      "de": "Peter-Lerch-Texte"
+    },
+    "excerpts": {
+      "tr": "Bir tilki değirmencinin ununu çalarken yakalanır ve canını kurtarmak için değirmenciyi Mısır Paşası'nın kızıyla evlendireceğini söyler. Kurnazlık, kimlik uydurma ve pazarlık üzerine kurulu bir masaldır.",
+      "en": "A tale in which a fox is caught stealing the miller's flour and tries to save his life by promising to marry the miller to the daughter of the Pasha of Egypt. The story turns on trickery, invented identity, and negotiation.",
+      "de": "Ein Märchen, in dem ein Fuchs beim Diebstahl von Mehl beim Müller erwischt wird und sein Leben retten will, indem er verspricht, den Müller mit der Tochter des Paschas von Ägypten zu verheiraten. Die Erzählung dreht sich um List, erfundene Identität und Verhandlung."
     }
   },
   "summary": {
@@ -19883,5 +19908,15 @@
         "bingol_transcription": "merdu.” Paşay Mısri va ki: “Şiyeri biari.” Şi, ard, şıt, wedert."
       }
     }
-  ]
+  ],
+  "titles": {
+    "tr": "Değirmenci ve Tilki",
+    "en": "The Miller and the Fox",
+    "de": "Der Müller und der Fuchs"
+  },
+  "excerpts": {
+    "tr": "Bir tilki değirmencinin ununu çalarken yakalanır ve canını kurtarmak için değirmenciyi Mısır Paşası'nın kızıyla evlendireceğini söyler. Kurnazlık, kimlik uydurma ve pazarlık üzerine kurulu bir masaldır.",
+    "en": "A tale in which a fox is caught stealing the miller's flour and tries to save his life by promising to marry the miller to the daughter of the Pasha of Egypt. The story turns on trickery, invented identity, and negotiation.",
+    "de": "Ein Märchen, in dem ein Fuchs beim Diebstahl von Mehl beim Müller erwischt wird und sein Leben retten will, indem er verspricht, den Müller mit der Tochter des Paschas von Ägypten zu verheiraten. Die Erzählung dreht sich um List, erfundene Identität und Verhandlung."
+  }
 }
