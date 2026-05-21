@@ -2,7 +2,7 @@ Bacmeister Sentence Samples
 
 God does not die.
 
-A human being does not live long.
+A human being's life is short.
 
 The mother loves her children.
 
@@ -10,7 +10,7 @@ She has much milk in her breasts.
 
 Her husband loves her.
 
-This woman was pregnant (in the translation: "is pregnant").
+This woman is pregnant.
 
 Six days ago she gave birth to a son.
 
@@ -84,6 +84,6 @@ This morning I saw the rainbow.
 
 At night it is dark and by day bright.
 
-We speak Kurdish (Kurmanji-Zaza).
+We speak Zaza.
 
-Do you know how to speak Kurdish (Kurmanji-Zaza)?
+Do you know how to speak Zaza?

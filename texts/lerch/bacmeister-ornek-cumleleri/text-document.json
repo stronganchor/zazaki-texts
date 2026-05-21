@@ -73,7 +73,7 @@
       "id": "u01",
       "source": "Aláh ńe merén’u.",
       "translations": {
-        "tr": "Tanrı ölmez.",
+        "tr": "Allah ölmez.",
         "en": "God does not die.",
         "de": "Gott stirbt nicht."
       },
@@ -85,8 +85,8 @@
       "id": "u02",
       "source": "Mē̱rdṳ́m é̱meri yai qílmu.",
       "translations": {
-        "tr": "İnsan uzun yaşamaz.",
-        "en": "A human being does not live long.",
+        "tr": "İnsanın ömrü kısadır.",
+        "en": "A human being's life is short.",
         "de": "Der Mensch lebt nicht lange."
       },
       "source_line_ids": [
@@ -133,8 +133,8 @@
       "id": "u06",
       "source": "Ā́ya d̮éni hé̱mle̱ya.",
       "translations": {
-        "tr": "Bu kadın hamileydi (çeviride: \"hamiledir\").",
-        "en": "This woman was pregnant (in the translation: \"is pregnant\").",
+        "tr": "Bu kadın hamiledir.",
+        "en": "This woman is pregnant.",
         "de": "Diese Frau war schwanger (in der Uebers.: \"ist schw.\")."
       },
       "source_line_ids": [
@@ -577,8 +577,8 @@
       "id": "u43",
       "source": "Mā kā́li bekí zazád̮e.",
       "translations": {
-        "tr": "Kürtçe (Kurmanci-Zaza) konuşuyoruz.",
-        "en": "We speak Kurdish (Kurmanji-Zaza).",
+        "tr": "Zazaca konuşuyoruz.",
+        "en": "We speak Zaza.",
         "de": "Wir reden kurdisch (Kurmändi-Zazä)."
       },
       "source_line_ids": [
@@ -589,8 +589,8 @@
       "id": "u44",
       "source": "Ši̥mā zazád̮a záni?",
       "translations": {
-        "tr": "Kürtçe (Kurmanci-Zaza) konuşmayı biliyor musunuz?",
-        "en": "Do you know how to speak Kurdish (Kurmanji-Zaza)?",
+        "tr": "Zazaca konuşmayı biliyor musunuz?",
+        "en": "Do you know how to speak Zaza?",
         "de": "Versteht ihr kurdisch (Kurmändi-Zazä) zu sprechen?"
       },
       "source_line_ids": [
@@ -603,12 +603,19 @@
       "id": "bacmeister_row_01",
       "title": "Örnek cümle 1",
       "text": "Aláh ńe merén’u.",
-      "lerch": "Aláh ńe merén’u.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Aláh ńe merén’u."
+        },
+        {
+          "label": "IPA",
+          "value": "aˈlah ɲe meˈren.u"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Alah nyê mêrênû."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -624,7 +631,7 @@
         },
         {
           "label": "TURKISH",
-          "value": "Tanrı ölmez."
+          "value": "Allah ölmez."
         }
       ],
       "witnesses": [
@@ -639,19 +646,77 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Aláh",
+          "ipa": "aˈlah",
+          "zazaki": "Alah",
+          "display_gloss": "God",
+          "morphemes": [
+            {
+              "form": "Aláh",
+              "normalized": "Alah",
+              "gloss": "God",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "ńe",
+          "ipa": "ɲe",
+          "zazaki": "nyê",
+          "display_gloss": "NEG",
+          "morphemes": [
+            {
+              "form": "ńe",
+              "normalized": "nyê",
+              "gloss": "NEG",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "merén’u",
+          "ipa": "meˈren.u",
+          "zazaki": "mêrênû",
+          "display_gloss": "die",
+          "morphemes": [
+            {
+              "form": "merén’u",
+              "normalized": "mêrênû",
+              "gloss": "die",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_02",
       "title": "Örnek cümle 2",
       "text": "Mē̱rdṳ́m é̱meri yai qílmu.",
-      "lerch": "Mē̱rdṳ́m é̱meri yai qílmu.",
       "source_note": "Zaza phrasing appears literally to use \"his life is short.\"",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Mē̱rdṳ́m é̱meri yai qílmu."
+        },
+        {
+          "label": "IPA",
+          "value": "mɛːrˈdym ˈɛmeri jaj ˈqilmu"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Merdüm emêri yay qilmû."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -663,11 +728,11 @@
         },
         {
           "label": "ENGLISH",
-          "value": "A human being does not live long."
+          "value": "A human being's life is short."
         },
         {
           "label": "TURKISH",
-          "value": "İnsan uzun yaşamaz."
+          "value": "İnsanın ömrü kısadır."
         },
         {
           "label": "NOTE",
@@ -686,19 +751,92 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Mē̱rdṳ́m",
+          "ipa": "mɛːrˈdym",
+          "zazaki": "Merdüm",
+          "display_gloss": "person",
+          "morphemes": [
+            {
+              "form": "Mē̱rdṳ́m",
+              "normalized": "Merdüm",
+              "gloss": "person",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "é̱meri",
+          "ipa": "ˈɛmeri",
+          "zazaki": "emêri",
+          "display_gloss": "life",
+          "morphemes": [
+            {
+              "form": "é̱meri",
+              "normalized": "emêri",
+              "gloss": "life",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "yai",
+          "ipa": "jaj",
+          "zazaki": "yay",
+          "display_gloss": "3SG.OBL",
+          "morphemes": [
+            {
+              "form": "yai",
+              "normalized": "yay",
+              "gloss": "3SG.OBL",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "qílmu",
+          "ipa": "ˈqilmu",
+          "zazaki": "qilmû",
+          "display_gloss": "short",
+          "morphemes": [
+            {
+              "form": "qílmu",
+              "normalized": "qilmû",
+              "gloss": "short",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_03",
       "title": "Örnek cümle 3",
       "text": "Daíke eílāne (eílekāni) χóe zāf sinén’a.",
-      "lerch": "Daíke eílāne (eílekāni) χóe zāf sinén’a.",
       "source_note": "Russian and German witnesses read χóe, not gamma.",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Daíke eílāne (eílekāni) χóe zāf sinén’a."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈdajke ˈejlaːne ˈejlekaːni ˈχoe zaːf siˈnen.a"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Daykê êylanê (êylêkani) xoê zaf sinêna."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -733,19 +871,124 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Daíke",
+          "ipa": "ˈdajke",
+          "zazaki": "Daykê",
+          "display_gloss": "mother",
+          "morphemes": [
+            {
+              "form": "Daíke",
+              "normalized": "Daykê",
+              "gloss": "mother",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "eílāne",
+          "ipa": "ˈejlaːne",
+          "zazaki": "êylanê",
+          "display_gloss": "children",
+          "morphemes": [
+            {
+              "form": "eílāne",
+              "normalized": "êylanê",
+              "gloss": "children",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "eílekāni",
+          "ipa": "ˈejlekaːni",
+          "zazaki": "êylêkani",
+          "display_gloss": "children",
+          "morphemes": [
+            {
+              "form": "eílekāni",
+              "normalized": "êylêkani",
+              "gloss": "children",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "prefix_punct": "(",
+          "suffix_punct": ")"
+        },
+        {
+          "form": "χóe",
+          "ipa": "ˈχoe",
+          "zazaki": "xoê",
+          "display_gloss": "self/her",
+          "morphemes": [
+            {
+              "form": "χóe",
+              "normalized": "xoê",
+              "gloss": "self/her",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "zāf",
+          "ipa": "zaːf",
+          "zazaki": "zaf",
+          "display_gloss": "very",
+          "morphemes": [
+            {
+              "form": "zāf",
+              "normalized": "zaf",
+              "gloss": "very",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "sinén’a",
+          "ipa": "siˈnen.a",
+          "zazaki": "sinêna",
+          "display_gloss": "love",
+          "morphemes": [
+            {
+              "form": "sinén’a",
+              "normalized": "sinêna",
+              "gloss": "love",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_04",
       "title": "Örnek cümle 4",
       "text": "T̮íd̮e̱ yai zāf šid é̱stu.",
-      "lerch": "T̮íd̮e̱ yai zāf šid é̱stu.",
       "source_note": "User review note confirmed zāf; é̱stu has acute plus line below.",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "T̮íd̮e̱ yai zāf šid é̱stu."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈt͡ʃid͡ʒɛ jaj zaːf ʃid ˈɛstu"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Çice yay zaf şid estû."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -780,19 +1023,107 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "T̮íd̮e̱",
+          "ipa": "ˈt͡ʃid͡ʒɛ",
+          "zazaki": "Çice",
+          "display_gloss": "breasts",
+          "morphemes": [
+            {
+              "form": "T̮íd̮e̱",
+              "normalized": "Çice",
+              "gloss": "breasts",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "yai",
+          "ipa": "jaj",
+          "zazaki": "yay",
+          "display_gloss": "3SG.OBL",
+          "morphemes": [
+            {
+              "form": "yai",
+              "normalized": "yay",
+              "gloss": "3SG.OBL",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "zāf",
+          "ipa": "zaːf",
+          "zazaki": "zaf",
+          "display_gloss": "very",
+          "morphemes": [
+            {
+              "form": "zāf",
+              "normalized": "zaf",
+              "gloss": "very",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "šid",
+          "ipa": "ʃid",
+          "zazaki": "şid",
+          "display_gloss": "milk",
+          "morphemes": [
+            {
+              "form": "šid",
+              "normalized": "şid",
+              "gloss": "milk",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "é̱stu",
+          "ipa": "ˈɛstu",
+          "zazaki": "estû",
+          "display_gloss": "exist",
+          "morphemes": [
+            {
+              "form": "é̱stu",
+              "normalized": "estû",
+              "gloss": "exist",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_05",
       "title": "Örnek cümle 5",
       "text": "Myẹ̄́rde yai h̔as kén’u.",
-      "lerch": "Myẹ̄́rde yai h̔as kén’u.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Myẹ̄́rde yai h̔as kén’u."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈmje̝ːrde jaj ħas ˈken.u"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Myêrdê yay 'has kênû."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -823,19 +1154,92 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Myẹ̄́rde",
+          "ipa": "ˈmje̝ːrde",
+          "zazaki": "Myêrdê",
+          "display_gloss": "husband",
+          "morphemes": [
+            {
+              "form": "Myẹ̄́rde",
+              "normalized": "Myêrdê",
+              "gloss": "husband",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "yai",
+          "ipa": "jaj",
+          "zazaki": "yay",
+          "display_gloss": "3SG.OBL",
+          "morphemes": [
+            {
+              "form": "yai",
+              "normalized": "yay",
+              "gloss": "3SG.OBL",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "h̔as",
+          "ipa": "ħas",
+          "zazaki": "'has",
+          "display_gloss": "love",
+          "morphemes": [
+            {
+              "form": "h̔as",
+              "normalized": "'has",
+              "gloss": "love",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "kén’u",
+          "ipa": "ˈken.u",
+          "zazaki": "kênû",
+          "display_gloss": "do",
+          "morphemes": [
+            {
+              "form": "kén’u",
+              "normalized": "kênû",
+              "gloss": "do",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_06",
       "title": "Örnek cümle 6",
       "text": "Ā́ya d̮éni hé̱mle̱ya.",
-      "lerch": "Ā́ya d̮éni hé̱mle̱ya.",
-      "source_note": "Russian has a typo fixed in german: Ā́ja -> Ā́ya",
+      "source_note": "German prompt says \"was pregnant,\" but the Zaza sentence corresponds to \"is pregnant\"; Russian has a typo fixed in German: Ā́ja -> Ā́ya.",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Ā́ya d̮éni hé̱mle̱ya."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈaːja ˈd͡ʒeni ˈhɛmlɛja"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Aya cêni hemleya."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -847,15 +1251,15 @@
         },
         {
           "label": "ENGLISH",
-          "value": "This woman was pregnant (in the translation: \"is pregnant\")."
+          "value": "This woman is pregnant."
         },
         {
           "label": "TURKISH",
-          "value": "Bu kadın hamileydi (çeviride: \"hamiledir\")."
+          "value": "Bu kadın hamiledir."
         },
         {
           "label": "NOTE",
-          "value": "Russian has a typo fixed in german: Ā́ja -> Ā́ya"
+          "value": "German prompt says \"was pregnant,\" but the Zaza sentence corresponds to \"is pregnant\"; Russian has a typo fixed in German: Ā́ja -> Ā́ya."
         }
       ],
       "witnesses": [
@@ -870,19 +1274,77 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Ā́ya",
+          "ipa": "ˈaːja",
+          "zazaki": "Aya",
+          "display_gloss": "that",
+          "morphemes": [
+            {
+              "form": "Ā́ya",
+              "normalized": "Aya",
+              "gloss": "that",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "d̮éni",
+          "ipa": "ˈd͡ʒeni",
+          "zazaki": "cêni",
+          "display_gloss": "woman",
+          "morphemes": [
+            {
+              "form": "d̮éni",
+              "normalized": "cêni",
+              "gloss": "woman",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "hé̱mle̱ya",
+          "ipa": "ˈhɛmlɛja",
+          "zazaki": "hemleya",
+          "display_gloss": "pregnant",
+          "morphemes": [
+            {
+              "form": "hé̱mle̱ya",
+              "normalized": "hemleya",
+              "gloss": "pregnant",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_07",
       "title": "Örnek cümle 7",
       "text": "Še̱š rṓd̮e yau lād̮ ārd.",
-      "lerch": "Še̱š rṓd̮e yau lād̮ ārd.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Še̱š rṓd̮e yau lād̮ ārd."
+        },
+        {
+          "label": "IPA",
+          "value": "ʃɛʃ ˈroːd͡ʒe jaw laːd͡ʒ aːrd"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Şeş rocê yaw lac ard."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -913,19 +1375,107 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Še̱š",
+          "ipa": "ʃɛʃ",
+          "zazaki": "Şeş",
+          "display_gloss": "six",
+          "morphemes": [
+            {
+              "form": "Še̱š",
+              "normalized": "Şeş",
+              "gloss": "six",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "rṓd̮e",
+          "ipa": "ˈroːd͡ʒe",
+          "zazaki": "rocê",
+          "display_gloss": "day",
+          "morphemes": [
+            {
+              "form": "rṓd̮e",
+              "normalized": "rocê",
+              "gloss": "day",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "yau",
+          "ipa": "jaw",
+          "zazaki": "yaw",
+          "display_gloss": "one",
+          "morphemes": [
+            {
+              "form": "yau",
+              "normalized": "yaw",
+              "gloss": "one",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "lād̮",
+          "ipa": "laːd͡ʒ",
+          "zazaki": "lac",
+          "display_gloss": "son",
+          "morphemes": [
+            {
+              "form": "lād̮",
+              "normalized": "lac",
+              "gloss": "son",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "ārd",
+          "ipa": "aːrd",
+          "zazaki": "ard",
+          "display_gloss": "bore",
+          "morphemes": [
+            {
+              "form": "ārd",
+              "normalized": "ard",
+              "gloss": "bore",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_08",
       "title": "Örnek cümle 8",
       "text": "Dáh̔a ńe wé̱ša.",
-      "lerch": "Dáh̔a ńe wé̱ša.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Dáh̔a ńe wé̱ša."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈdaħa ɲe ˈwɛʃa"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Da'ha nyê weşa."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -956,19 +1506,77 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Dáh̔a",
+          "ipa": "ˈdaħa",
+          "zazaki": "Da'ha",
+          "display_gloss": "still",
+          "morphemes": [
+            {
+              "form": "Dáh̔a",
+              "normalized": "Da'ha",
+              "gloss": "still",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "ńe",
+          "ipa": "ɲe",
+          "zazaki": "nyê",
+          "display_gloss": "NEG",
+          "morphemes": [
+            {
+              "form": "ńe",
+              "normalized": "nyê",
+              "gloss": "NEG",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "wé̱ša",
+          "ipa": "ˈwɛʃa",
+          "zazaki": "weşa",
+          "display_gloss": "healthy",
+          "morphemes": [
+            {
+              "form": "wé̱ša",
+              "normalized": "weşa",
+              "gloss": "healthy",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_09",
       "title": "Örnek cümle 9",
       "text": "Keína yai h̔e̱t rúeništa bermén’a.",
-      "lerch": "Keína yai h̔e̱t rúeništa bermén’a.",
       "source_note": "Marked h follows the Lerch h̔ review-bucket convention rather than ḫ.",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Keína yai h̔e̱t rúeništa bermén’a."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈkejna jaj ħɛt ˈrweniʃta berˈmen.a"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Kêyna yay 'het rwênişta bêrmêna."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1003,19 +1611,107 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Keína",
+          "ipa": "ˈkejna",
+          "zazaki": "Kêyna",
+          "display_gloss": "daughter",
+          "morphemes": [
+            {
+              "form": "Keína",
+              "normalized": "Kêyna",
+              "gloss": "daughter",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "yai",
+          "ipa": "jaj",
+          "zazaki": "yay",
+          "display_gloss": "3SG.OBL",
+          "morphemes": [
+            {
+              "form": "yai",
+              "normalized": "yay",
+              "gloss": "3SG.OBL",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "h̔e̱t",
+          "ipa": "ħɛt",
+          "zazaki": "'het",
+          "display_gloss": "beside",
+          "morphemes": [
+            {
+              "form": "h̔e̱t",
+              "normalized": "'het",
+              "gloss": "beside",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "rúeništa",
+          "ipa": "ˈrweniʃta",
+          "zazaki": "rwênişta",
+          "display_gloss": "sitting",
+          "morphemes": [
+            {
+              "form": "rúeništa",
+              "normalized": "rwênişta",
+              "gloss": "sitting",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "bermén’a",
+          "ipa": "berˈmen.a",
+          "zazaki": "bêrmêna",
+          "display_gloss": "cry",
+          "morphemes": [
+            {
+              "form": "bermén’a",
+              "normalized": "bêrmêna",
+              "gloss": "cry",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_10",
       "title": "Örnek cümle 10",
       "text": "Lā́d̮e t̮íd̮e ńe wén’u.",
-      "lerch": "Lā́d̮e t̮íd̮e ńe wén’u.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Lā́d̮e t̮íd̮e ńe wén’u."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈlaːd͡ʒe ˈt͡ʃid͡ʒe ɲe ˈwen.u"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Lacê çicê nyê wênû."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1046,19 +1742,92 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Lā́d̮e",
+          "ipa": "ˈlaːd͡ʒe",
+          "zazaki": "Lacê",
+          "display_gloss": "child",
+          "morphemes": [
+            {
+              "form": "Lā́d̮e",
+              "normalized": "Lacê",
+              "gloss": "child",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "t̮íd̮e",
+          "ipa": "ˈt͡ʃid͡ʒe",
+          "zazaki": "çicê",
+          "display_gloss": "breast",
+          "morphemes": [
+            {
+              "form": "t̮íd̮e",
+              "normalized": "çicê",
+              "gloss": "breast",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "ńe",
+          "ipa": "ɲe",
+          "zazaki": "nyê",
+          "display_gloss": "NEG",
+          "morphemes": [
+            {
+              "form": "ńe",
+              "normalized": "nyê",
+              "gloss": "NEG",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "wén’u",
+          "ipa": "ˈwen.u",
+          "zazaki": "wênû",
+          "display_gloss": "want",
+          "morphemes": [
+            {
+              "form": "wén’u",
+              "normalized": "wênû",
+              "gloss": "want",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_11",
       "title": "Örnek cümle 11",
       "text": "Keína hé̱m’a pai ńe šuén’a.",
-      "lerch": "Keína hé̱m’a pai ńe šuén’a.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Keína hé̱m’a pai ńe šuén’a."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈkejna ˈhɛm.a paj ɲe ˈʃwen.a"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Kêyna hema pay nyê şwêna."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1089,19 +1858,107 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Keína",
+          "ipa": "ˈkejna",
+          "zazaki": "Kêyna",
+          "display_gloss": "girl",
+          "morphemes": [
+            {
+              "form": "Keína",
+              "normalized": "Kêyna",
+              "gloss": "girl",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "hé̱m’a",
+          "ipa": "ˈhɛm.a",
+          "zazaki": "hema",
+          "display_gloss": "still",
+          "morphemes": [
+            {
+              "form": "hé̱m’a",
+              "normalized": "hema",
+              "gloss": "still",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "pai",
+          "ipa": "paj",
+          "zazaki": "pay",
+          "display_gloss": "foot",
+          "morphemes": [
+            {
+              "form": "pai",
+              "normalized": "pay",
+              "gloss": "foot",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "ńe",
+          "ipa": "ɲe",
+          "zazaki": "nyê",
+          "display_gloss": "NEG",
+          "morphemes": [
+            {
+              "form": "ńe",
+              "normalized": "nyê",
+              "gloss": "NEG",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "šuén’a",
+          "ipa": "ˈʃwen.a",
+          "zazaki": "şwêna",
+          "display_gloss": "walk",
+          "morphemes": [
+            {
+              "form": "šuén’a",
+              "normalized": "şwêna",
+              "gloss": "walk",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_12",
       "title": "Örnek cümle 12",
       "text": "Yau sé̱re di̥ ā́šme bía.",
-      "lerch": "Yau sé̱re di̥ ā́šme bía.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Yau sé̱re di̥ ā́šme bía."
+        },
+        {
+          "label": "IPA",
+          "value": "jaw ˈsɛre dɨ ˈaːʃme ˈbja"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Yaw serê dı aşmê bya."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1132,19 +1989,107 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Yau",
+          "ipa": "jaw",
+          "zazaki": "Yaw",
+          "display_gloss": "one",
+          "morphemes": [
+            {
+              "form": "Yau",
+              "normalized": "Yaw",
+              "gloss": "one",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "sé̱re",
+          "ipa": "ˈsɛre",
+          "zazaki": "serê",
+          "display_gloss": "year",
+          "morphemes": [
+            {
+              "form": "sé̱re",
+              "normalized": "serê",
+              "gloss": "year",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "di̥",
+          "ipa": "dɨ",
+          "zazaki": "dı",
+          "display_gloss": "two",
+          "morphemes": [
+            {
+              "form": "di̥",
+              "normalized": "dı",
+              "gloss": "two",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "ā́šme",
+          "ipa": "ˈaːʃme",
+          "zazaki": "aşmê",
+          "display_gloss": "month",
+          "morphemes": [
+            {
+              "form": "ā́šme",
+              "normalized": "aşmê",
+              "gloss": "month",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "bía",
+          "ipa": "ˈbja",
+          "zazaki": "bya",
+          "display_gloss": "was born",
+          "morphemes": [
+            {
+              "form": "bía",
+              "normalized": "bya",
+              "gloss": "was born",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_13",
       "title": "Örnek cümle 13",
       "text": "Ḗ̱n’ie t̮ehér hé̱m’e lā́d̮i wé̱ši.",
-      "lerch": "Ḗ̱n’ie t̮ehér hé̱m’e lā́d̮i wé̱ši.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Ḗ̱n’ie t̮ehér hé̱m’e lā́d̮i wé̱ši."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈɛːn.je t͡ʃeˈher ˈhɛm.e ˈlaːd͡ʒi ˈwɛʃi"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Enyê çêhêr hemê laci weşi."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1175,19 +2120,107 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Ḗ̱n’ie",
+          "ipa": "ˈɛːn.je",
+          "zazaki": "Enyê",
+          "display_gloss": "these",
+          "morphemes": [
+            {
+              "form": "Ḗ̱n’ie",
+              "normalized": "Enyê",
+              "gloss": "these",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "t̮ehér",
+          "ipa": "t͡ʃeˈher",
+          "zazaki": "çêhêr",
+          "display_gloss": "four",
+          "morphemes": [
+            {
+              "form": "t̮ehér",
+              "normalized": "çêhêr",
+              "gloss": "four",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "hé̱m’e",
+          "ipa": "ˈhɛm.e",
+          "zazaki": "hemê",
+          "display_gloss": "all",
+          "morphemes": [
+            {
+              "form": "hé̱m’e",
+              "normalized": "hemê",
+              "gloss": "all",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "lā́d̮i",
+          "ipa": "ˈlaːd͡ʒi",
+          "zazaki": "laci",
+          "display_gloss": "boys",
+          "morphemes": [
+            {
+              "form": "lā́d̮i",
+              "normalized": "laci",
+              "gloss": "boys",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "wé̱ši",
+          "ipa": "ˈwɛʃi",
+          "zazaki": "weşi",
+          "display_gloss": "healthy",
+          "morphemes": [
+            {
+              "form": "wé̱ši",
+              "normalized": "weşi",
+              "gloss": "healthy",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_14",
       "title": "Örnek cümle 14",
       "text": "Yau ve̱rī́e vāz dāmu, aúe díene perén’u (kai kén’u), aúe h̔irī́ne lauk vā́nu, aúe t̮eherī́ne h̔o̤wén’u.",
-      "lerch": "Yau ve̱rī́e vāz dāmu, aúe díene perén’u (kai kén’u), aúe h̔irī́ne lauk vā́nu, aúe t̮eherī́ne h̔o̤wén’u.",
       "source_note": "Printed line break divides t̮e-heríne; joined here as one word.",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Yau ve̱rī́e vāz dāmu, aúe díene perén’u (kai kén’u), aúe h̔irī́ne lauk vā́nu, aúe t̮eherī́ne h̔o̤wén’u."
+        },
+        {
+          "label": "IPA",
+          "value": "jaw vɛrˈje vaːz daːmu ˈawe ˈdjene peˈren.u kaj ˈken.u ˈawe ħiˈriːne lawk ˈvaːnu ˈawe t͡ʃeheˈriːne ħøˈwen.u"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Yaw veryê vaz damû, awê dyênê pêrênû (kay kênû), awê 'hirinê lawk vanû, awê çêhêrinê 'howênû."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1222,19 +2255,276 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Yau",
+          "ipa": "jaw",
+          "zazaki": "Yaw",
+          "display_gloss": "one",
+          "morphemes": [
+            {
+              "form": "Yau",
+              "normalized": "Yaw",
+              "gloss": "one",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "ve̱rī́e",
+          "ipa": "vɛrˈje",
+          "zazaki": "veryê",
+          "display_gloss": "first",
+          "morphemes": [
+            {
+              "form": "ve̱rī́e",
+              "normalized": "veryê",
+              "gloss": "first",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "vāz",
+          "ipa": "vaːz",
+          "zazaki": "vaz",
+          "display_gloss": "run",
+          "morphemes": [
+            {
+              "form": "vāz",
+              "normalized": "vaz",
+              "gloss": "run",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "dāmu",
+          "ipa": "daːmu",
+          "zazaki": "damû",
+          "display_gloss": "do",
+          "morphemes": [
+            {
+              "form": "dāmu",
+              "normalized": "damû",
+              "gloss": "do",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": ","
+        },
+        {
+          "form": "aúe",
+          "ipa": "ˈawe",
+          "zazaki": "awê",
+          "display_gloss": "that",
+          "morphemes": [
+            {
+              "form": "aúe",
+              "normalized": "awê",
+              "gloss": "that",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "díene",
+          "ipa": "ˈdjene",
+          "zazaki": "dyênê",
+          "display_gloss": "second",
+          "morphemes": [
+            {
+              "form": "díene",
+              "normalized": "dyênê",
+              "gloss": "second",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "perén’u",
+          "ipa": "peˈren.u",
+          "zazaki": "pêrênû",
+          "display_gloss": "jump",
+          "morphemes": [
+            {
+              "form": "perén’u",
+              "normalized": "pêrênû",
+              "gloss": "jump",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "kai",
+          "ipa": "kaj",
+          "zazaki": "kay",
+          "display_gloss": "dance",
+          "morphemes": [
+            {
+              "form": "kai",
+              "normalized": "kay",
+              "gloss": "dance",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "prefix_punct": "("
+        },
+        {
+          "form": "kén’u",
+          "ipa": "ˈken.u",
+          "zazaki": "kênû",
+          "display_gloss": "do",
+          "morphemes": [
+            {
+              "form": "kén’u",
+              "normalized": "kênû",
+              "gloss": "do",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "),"
+        },
+        {
+          "form": "aúe",
+          "ipa": "ˈawe",
+          "zazaki": "awê",
+          "display_gloss": "that",
+          "morphemes": [
+            {
+              "form": "aúe",
+              "normalized": "awê",
+              "gloss": "that",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "h̔irī́ne",
+          "ipa": "ħiˈriːne",
+          "zazaki": "'hirinê",
+          "display_gloss": "third",
+          "morphemes": [
+            {
+              "form": "h̔irī́ne",
+              "normalized": "'hirinê",
+              "gloss": "third",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "lauk",
+          "ipa": "lawk",
+          "zazaki": "lawk",
+          "display_gloss": "song",
+          "morphemes": [
+            {
+              "form": "lauk",
+              "normalized": "lawk",
+              "gloss": "song",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "vā́nu",
+          "ipa": "ˈvaːnu",
+          "zazaki": "vanû",
+          "display_gloss": "say/sing",
+          "morphemes": [
+            {
+              "form": "vā́nu",
+              "normalized": "vanû",
+              "gloss": "say/sing",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": ","
+        },
+        {
+          "form": "aúe",
+          "ipa": "ˈawe",
+          "zazaki": "awê",
+          "display_gloss": "that",
+          "morphemes": [
+            {
+              "form": "aúe",
+              "normalized": "awê",
+              "gloss": "that",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "t̮eherī́ne",
+          "ipa": "t͡ʃeheˈriːne",
+          "zazaki": "çêhêrinê",
+          "display_gloss": "fourth",
+          "morphemes": [
+            {
+              "form": "t̮eherī́ne",
+              "normalized": "çêhêrinê",
+              "gloss": "fourth",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "h̔o̤wén’u",
+          "ipa": "ħøˈwen.u",
+          "zazaki": "'howênû",
+          "display_gloss": "laugh",
+          "morphemes": [
+            {
+              "form": "h̔o̤wén’u",
+              "normalized": "'howênû",
+              "gloss": "laugh",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_15",
       "title": "Örnek cümle 15",
       "text": "Ḗ̱n’oe me̱rdúm t̮i̥mi yai (d̮ai) kṓri.",
-      "lerch": "Ḗ̱n’oe me̱rdúm t̮i̥mi yai (d̮ai) kṓri.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Ḗ̱n’oe me̱rdúm t̮i̥mi yai (d̮ai) kṓri."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈɛːn.oe mɛrˈdum t͡ʃɨmi jaj d͡ʒaj ˈkoːri"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Enoê merdûm çımi yay (cay) kori."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1265,19 +2555,124 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Ḗ̱n’oe",
+          "ipa": "ˈɛːn.oe",
+          "zazaki": "Enoê",
+          "display_gloss": "this",
+          "morphemes": [
+            {
+              "form": "Ḗ̱n’oe",
+              "normalized": "Enoê",
+              "gloss": "this",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "me̱rdúm",
+          "ipa": "mɛrˈdum",
+          "zazaki": "merdûm",
+          "display_gloss": "person",
+          "morphemes": [
+            {
+              "form": "me̱rdúm",
+              "normalized": "merdûm",
+              "gloss": "person",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "t̮i̥mi",
+          "ipa": "t͡ʃɨmi",
+          "zazaki": "çımi",
+          "display_gloss": "eye",
+          "morphemes": [
+            {
+              "form": "t̮i̥mi",
+              "normalized": "çımi",
+              "gloss": "eye",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "yai",
+          "ipa": "jaj",
+          "zazaki": "yay",
+          "display_gloss": "3SG.OBL",
+          "morphemes": [
+            {
+              "form": "yai",
+              "normalized": "yay",
+              "gloss": "3SG.OBL",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "d̮ai",
+          "ipa": "d͡ʒaj",
+          "zazaki": "cay",
+          "display_gloss": "3SG.OBL",
+          "morphemes": [
+            {
+              "form": "d̮ai",
+              "normalized": "cay",
+              "gloss": "3SG.OBL",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "prefix_punct": "(",
+          "suffix_punct": ")"
+        },
+        {
+          "form": "kṓri",
+          "ipa": "ˈkoːri",
+          "zazaki": "kori",
+          "display_gloss": "blind",
+          "morphemes": [
+            {
+              "form": "kṓri",
+              "normalized": "kori",
+              "gloss": "blind",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_16",
       "title": "Örnek cümle 16",
       "text": "D̮éniai yai (d̮ai) ké̱ra.",
-      "lerch": "D̮éniai yai (d̮ai) ké̱ra.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "D̮éniai yai (d̮ai) ké̱ra."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈd͡ʒenjaj jaj d͡ʒaj ˈkɛra"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Cênyay yay (cay) kera."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1308,19 +2703,94 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "D̮éniai",
+          "ipa": "ˈd͡ʒenjaj",
+          "zazaki": "Cênyay",
+          "display_gloss": "wife",
+          "morphemes": [
+            {
+              "form": "D̮éniai",
+              "normalized": "Cênyay",
+              "gloss": "wife",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "yai",
+          "ipa": "jaj",
+          "zazaki": "yay",
+          "display_gloss": "3SG.OBL",
+          "morphemes": [
+            {
+              "form": "yai",
+              "normalized": "yay",
+              "gloss": "3SG.OBL",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "d̮ai",
+          "ipa": "d͡ʒaj",
+          "zazaki": "cay",
+          "display_gloss": "3SG.OBL",
+          "morphemes": [
+            {
+              "form": "d̮ai",
+              "normalized": "cay",
+              "gloss": "3SG.OBL",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "prefix_punct": "(",
+          "suffix_punct": ")"
+        },
+        {
+          "form": "ké̱ra",
+          "ipa": "ˈkɛra",
+          "zazaki": "kera",
+          "display_gloss": "deaf",
+          "morphemes": [
+            {
+              "form": "ké̱ra",
+              "normalized": "kera",
+              "gloss": "deaf",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_17",
       "title": "Örnek cümle 17",
       "text": "Vé̱ngi me̱ (Sé̱ki ma vā́d̮i) ńéšna wén’a.",
-      "lerch": "Vé̱ngi me̱ (Sé̱ki ma vā́d̮i) ńéšna wén’a.",
       "source_note": "Likely error in the original transcription: ???na w?n?a probably represents one word, ???naw?n?a (?-??naw-?n-a = neg-hear-IPFV-3SG.F).",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Vé̱ngi me̱ (Sé̱ki ma vā́d̮i) ńéšna wén’a."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈvɛngi mɛ ˈsɛki ma ˈvaːd͡ʒi ˈɲeʃna ˈwen.a"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Vengi me (Seki ma vaci) nyêşna wêna."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1355,19 +2825,139 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Vé̱ngi",
+          "ipa": "ˈvɛngi",
+          "zazaki": "Vengi",
+          "display_gloss": "voice",
+          "morphemes": [
+            {
+              "form": "Vé̱ngi",
+              "normalized": "Vengi",
+              "gloss": "voice",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "me̱",
+          "ipa": "mɛ",
+          "zazaki": "me",
+          "display_gloss": "our",
+          "morphemes": [
+            {
+              "form": "me̱",
+              "normalized": "me",
+              "gloss": "our",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "Sé̱ki",
+          "ipa": "ˈsɛki",
+          "zazaki": "Seki",
+          "display_gloss": "that",
+          "morphemes": [
+            {
+              "form": "Sé̱ki",
+              "normalized": "Seki",
+              "gloss": "that",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "prefix_punct": "("
+        },
+        {
+          "form": "ma",
+          "ipa": "ma",
+          "zazaki": "ma",
+          "display_gloss": "we",
+          "morphemes": [
+            {
+              "form": "ma",
+              "normalized": "ma",
+              "gloss": "we",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "vā́d̮i",
+          "ipa": "ˈvaːd͡ʒi",
+          "zazaki": "vaci",
+          "display_gloss": "said",
+          "morphemes": [
+            {
+              "form": "vā́d̮i",
+              "normalized": "vaci",
+              "gloss": "said",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": ")"
+        },
+        {
+          "form": "ńéšna",
+          "ipa": "ˈɲeʃna",
+          "zazaki": "nyêşna",
+          "display_gloss": "NEG",
+          "morphemes": [
+            {
+              "form": "ńéšna",
+              "normalized": "nyêşna",
+              "gloss": "NEG",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "wén’a",
+          "ipa": "ˈwen.a",
+          "zazaki": "wêna",
+          "display_gloss": "hear",
+          "morphemes": [
+            {
+              "form": "wén’a",
+              "normalized": "wêna",
+              "gloss": "hear",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_18",
       "title": "Örnek cümle 18",
       "text": "Beraí tú’e pṳ́reš neiyén’u.",
-      "lerch": "Beraí tú’e pṳ́reš neiyén’u.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Beraí tú’e pṳ́reš neiyén’u."
+        },
+        {
+          "label": "IPA",
+          "value": "beˈraj ˈtu.e ˈpyreʃ neˈjen.u"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Bêray tûê pürêş nêyênû."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1398,19 +2988,92 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Beraí",
+          "ipa": "beˈraj",
+          "zazaki": "Bêray",
+          "display_gloss": "brother",
+          "morphemes": [
+            {
+              "form": "Beraí",
+              "normalized": "Bêray",
+              "gloss": "brother",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "tú’e",
+          "ipa": "ˈtu.e",
+          "zazaki": "tûê",
+          "display_gloss": "2SG.OBL",
+          "morphemes": [
+            {
+              "form": "tú’e",
+              "normalized": "tûê",
+              "gloss": "2SG.OBL",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "pṳ́reš",
+          "ipa": "ˈpyreʃ",
+          "zazaki": "pürêş",
+          "display_gloss": "sneeze",
+          "morphemes": [
+            {
+              "form": "pṳ́reš",
+              "normalized": "pürêş",
+              "gloss": "sneeze",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "neiyén’u",
+          "ipa": "neˈjen.u",
+          "zazaki": "nêyênû",
+          "display_gloss": "come",
+          "morphemes": [
+            {
+              "form": "neiyén’u",
+              "normalized": "nêyênû",
+              "gloss": "come",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_19",
       "title": "Örnek cümle 19",
       "text": "Wai tú’e rā kaúta.",
-      "lerch": "Wai tú’e rā kaúta.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Wai tú’e rā kaúta."
+        },
+        {
+          "label": "IPA",
+          "value": "waj ˈtu.e raː ˈkawta"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Way tûê ra kawta."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1441,19 +3104,92 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Wai",
+          "ipa": "waj",
+          "zazaki": "Way",
+          "display_gloss": "sister",
+          "morphemes": [
+            {
+              "form": "Wai",
+              "normalized": "Way",
+              "gloss": "sister",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "tú’e",
+          "ipa": "ˈtu.e",
+          "zazaki": "tûê",
+          "display_gloss": "2SG.OBL",
+          "morphemes": [
+            {
+              "form": "tú’e",
+              "normalized": "tûê",
+              "gloss": "2SG.OBL",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "rā",
+          "ipa": "raː",
+          "zazaki": "ra",
+          "display_gloss": "sleep",
+          "morphemes": [
+            {
+              "form": "rā",
+              "normalized": "ra",
+              "gloss": "sleep",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "kaúta",
+          "ipa": "ˈkawta",
+          "zazaki": "kawta",
+          "display_gloss": "fell",
+          "morphemes": [
+            {
+              "form": "kaúta",
+              "normalized": "kawta",
+              "gloss": "fell",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_20",
       "title": "Örnek cümle 20",
       "text": "Baúki ši̥má h̔ayaú rú’eništu.",
-      "lerch": "Baúki ši̥má h̔ayaú rú’eništu.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Baúki ši̥má h̔ayaú rú’eništu."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈbawki ʃɨˈma ħaˈjaw ˈru.eniʃtu"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Bawki şıma 'hayaw rûêniştû."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1484,19 +3220,92 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Baúki",
+          "ipa": "ˈbawki",
+          "zazaki": "Bawki",
+          "display_gloss": "father",
+          "morphemes": [
+            {
+              "form": "Baúki",
+              "normalized": "Bawki",
+              "gloss": "father",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "ši̥má",
+          "ipa": "ʃɨˈma",
+          "zazaki": "şıma",
+          "display_gloss": "2PL.OBL",
+          "morphemes": [
+            {
+              "form": "ši̥má",
+              "normalized": "şıma",
+              "gloss": "2PL.OBL",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "h̔ayaú",
+          "ipa": "ħaˈjaw",
+          "zazaki": "'hayaw",
+          "display_gloss": "awake",
+          "morphemes": [
+            {
+              "form": "h̔ayaú",
+              "normalized": "'hayaw",
+              "gloss": "awake",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "rú’eništu",
+          "ipa": "ˈru.eniʃtu",
+          "zazaki": "rûêniştû",
+          "display_gloss": "sitting",
+          "morphemes": [
+            {
+              "form": "rú’eništu",
+              "normalized": "rûêniştû",
+              "gloss": "sitting",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_21",
       "title": "Örnek cümle 21",
       "text": "Tā́neki wén’u.",
-      "lerch": "Tā́neki wén’u.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Tā́neki wén’u."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈtaːneki ˈwen.u"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Tanêki wênû."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1527,19 +3336,62 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Tā́neki",
+          "ipa": "ˈtaːneki",
+          "zazaki": "Tanêki",
+          "display_gloss": "little",
+          "morphemes": [
+            {
+              "form": "Tā́neki",
+              "normalized": "Tanêki",
+              "gloss": "little",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "wén’u",
+          "ipa": "ˈwen.u",
+          "zazaki": "wênû",
+          "display_gloss": "eat/drink",
+          "morphemes": [
+            {
+              "form": "wén’u",
+              "normalized": "wênû",
+              "gloss": "eat/drink",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_22",
       "title": "Örnek cümle 22",
       "text": "Ziṅd̮ h̔a myā́ne súrotide.",
-      "lerch": "Ziṅd̮ h̔a myā́ne súrotide.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Ziṅd̮ h̔a myā́ne súrotide."
+        },
+        {
+          "label": "IPA",
+          "value": "ziŋd͡ʒ ħa ˈmjaːne ˈsurotide"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Zingc 'ha myanê sûrotidê."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1570,19 +3422,92 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Ziṅd̮",
+          "ipa": "ziŋd͡ʒ",
+          "zazaki": "Zingc",
+          "display_gloss": "nose",
+          "morphemes": [
+            {
+              "form": "Ziṅd̮",
+              "normalized": "Zingc",
+              "gloss": "nose",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "h̔a",
+          "ipa": "ħa",
+          "zazaki": "'ha",
+          "display_gloss": "is",
+          "morphemes": [
+            {
+              "form": "h̔a",
+              "normalized": "'ha",
+              "gloss": "is",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "myā́ne",
+          "ipa": "ˈmjaːne",
+          "zazaki": "myanê",
+          "display_gloss": "middle",
+          "morphemes": [
+            {
+              "form": "myā́ne",
+              "normalized": "myanê",
+              "gloss": "middle",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "súrotide",
+          "ipa": "ˈsurotide",
+          "zazaki": "sûrotidê",
+          "display_gloss": "face-in",
+          "morphemes": [
+            {
+              "form": "súrotide",
+              "normalized": "sûrotidê",
+              "gloss": "face-in",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_23",
       "title": "Örnek cümle 23",
       "text": "Di̥ língi mā é̱sti, hérgu dé̱sti mā́de pāṅd̮ ingíšti é̱sti.",
-      "lerch": "Di̥ língi mā é̱sti, hérgu dé̱sti mā́de pāṅd̮ ingíšti é̱sti.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Di̥ língi mā é̱sti, hérgu dé̱sti mā́de pāṅd̮ ingíšti é̱sti."
+        },
+        {
+          "label": "IPA",
+          "value": "dɨ ˈlingi maː ˈɛsti ˈhergu ˈdɛsti ˈmaːde paːŋd͡ʒ inˈgiʃti ˈɛsti"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Dı lingi ma esti, hêrgû desti madê pangc ingişti esti."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1613,19 +3538,183 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Di̥",
+          "ipa": "dɨ",
+          "zazaki": "Dı",
+          "display_gloss": "two",
+          "morphemes": [
+            {
+              "form": "Di̥",
+              "normalized": "Dı",
+              "gloss": "two",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "língi",
+          "ipa": "ˈlingi",
+          "zazaki": "lingi",
+          "display_gloss": "feet",
+          "morphemes": [
+            {
+              "form": "língi",
+              "normalized": "lingi",
+              "gloss": "feet",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "mā",
+          "ipa": "maː",
+          "zazaki": "ma",
+          "display_gloss": "we",
+          "morphemes": [
+            {
+              "form": "mā",
+              "normalized": "ma",
+              "gloss": "we",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "é̱sti",
+          "ipa": "ˈɛsti",
+          "zazaki": "esti",
+          "display_gloss": "exist",
+          "morphemes": [
+            {
+              "form": "é̱sti",
+              "normalized": "esti",
+              "gloss": "exist",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": ","
+        },
+        {
+          "form": "hérgu",
+          "ipa": "ˈhergu",
+          "zazaki": "hêrgû",
+          "display_gloss": "each",
+          "morphemes": [
+            {
+              "form": "hérgu",
+              "normalized": "hêrgû",
+              "gloss": "each",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "dé̱sti",
+          "ipa": "ˈdɛsti",
+          "zazaki": "desti",
+          "display_gloss": "hand",
+          "morphemes": [
+            {
+              "form": "dé̱sti",
+              "normalized": "desti",
+              "gloss": "hand",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "mā́de",
+          "ipa": "ˈmaːde",
+          "zazaki": "madê",
+          "display_gloss": "our-in",
+          "morphemes": [
+            {
+              "form": "mā́de",
+              "normalized": "madê",
+              "gloss": "our-in",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "pāṅd̮",
+          "ipa": "paːŋd͡ʒ",
+          "zazaki": "pangc",
+          "display_gloss": "five",
+          "morphemes": [
+            {
+              "form": "pāṅd̮",
+              "normalized": "pangc",
+              "gloss": "five",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "ingíšti",
+          "ipa": "inˈgiʃti",
+          "zazaki": "ingişti",
+          "display_gloss": "fingers",
+          "morphemes": [
+            {
+              "form": "ingíšti",
+              "normalized": "ingişti",
+              "gloss": "fingers",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "é̱sti",
+          "ipa": "ˈɛsti",
+          "zazaki": "esti",
+          "display_gloss": "exist",
+          "morphemes": [
+            {
+              "form": "é̱sti",
+              "normalized": "esti",
+              "gloss": "exist",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_24",
       "title": "Örnek cümle 24",
       "text": "Γí̥ži̥k sé̱rede yén’u.",
-      "lerch": "Γí̥ži̥k sé̱rede yén’u.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Γí̥ži̥k sé̱rede yén’u."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈʁɨʒɨk ˈsɛrede ˈjen.u"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Ğıjık serêdê yênû."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1656,19 +3745,77 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Γí̥ži̥k",
+          "ipa": "ˈʁɨʒɨk",
+          "zazaki": "Ğıjık",
+          "display_gloss": "hair",
+          "morphemes": [
+            {
+              "form": "Γí̥ži̥k",
+              "normalized": "Ğıjık",
+              "gloss": "hair",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "sé̱rede",
+          "ipa": "ˈsɛrede",
+          "zazaki": "serêdê",
+          "display_gloss": "head-on",
+          "morphemes": [
+            {
+              "form": "sé̱rede",
+              "normalized": "serêdê",
+              "gloss": "head-on",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "yén’u",
+          "ipa": "ˈjen.u",
+          "zazaki": "yênû",
+          "display_gloss": "come/grow",
+          "morphemes": [
+            {
+              "form": "yén’u",
+              "normalized": "yênû",
+              "gloss": "come/grow",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_25",
       "title": "Örnek cümle 25",
       "text": "Dendā́ni zuā́ṅ h̔a fé̱kde.",
-      "lerch": "Dendā́ni zuā́ṅ h̔a fé̱kde.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Dendā́ni zuā́ṅ h̔a fé̱kde."
+        },
+        {
+          "label": "IPA",
+          "value": "denˈdaːni ˈzwaːŋ ħa ˈfɛkde"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Dêndani zwang 'ha fekdê."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1699,19 +3846,92 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Dendā́ni",
+          "ipa": "denˈdaːni",
+          "zazaki": "Dêndani",
+          "display_gloss": "teeth",
+          "morphemes": [
+            {
+              "form": "Dendā́ni",
+              "normalized": "Dêndani",
+              "gloss": "teeth",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "zuā́ṅ",
+          "ipa": "ˈzwaːŋ",
+          "zazaki": "zwang",
+          "display_gloss": "tongue",
+          "morphemes": [
+            {
+              "form": "zuā́ṅ",
+              "normalized": "zwang",
+              "gloss": "tongue",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "h̔a",
+          "ipa": "ħa",
+          "zazaki": "'ha",
+          "display_gloss": "is",
+          "morphemes": [
+            {
+              "form": "h̔a",
+              "normalized": "'ha",
+              "gloss": "is",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "fé̱kde",
+          "ipa": "ˈfɛkde",
+          "zazaki": "fekdê",
+          "display_gloss": "mouth-in",
+          "morphemes": [
+            {
+              "form": "fé̱kde",
+              "normalized": "fekdê",
+              "gloss": "mouth-in",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_26",
       "title": "Örnek cümle 26",
       "text": "Dé̱stu rā́št qóatu sei dé̱sti t̮é̱pi.",
-      "lerch": "Dé̱stu rā́št qóatu sei dé̱sti t̮é̱pi.",
       "source_note": "Dest is literally \"hand\" but it may have also been used for arm, hence the German gloss.",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Dé̱stu rā́št qóatu sei dé̱sti t̮é̱pi."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈdɛstu ˈraːʃt ˈqoatu sej ˈdɛsti ˈt͡ʃɛpi"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Destû raşt qoatû sêy desti çepi."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1746,19 +3966,122 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Dé̱stu",
+          "ipa": "ˈdɛstu",
+          "zazaki": "Destû",
+          "display_gloss": "hand/arm",
+          "morphemes": [
+            {
+              "form": "Dé̱stu",
+              "normalized": "Destû",
+              "gloss": "hand/arm",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "rā́št",
+          "ipa": "ˈraːʃt",
+          "zazaki": "raşt",
+          "display_gloss": "right",
+          "morphemes": [
+            {
+              "form": "rā́št",
+              "normalized": "raşt",
+              "gloss": "right",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "qóatu",
+          "ipa": "ˈqoatu",
+          "zazaki": "qoatû",
+          "display_gloss": "strong",
+          "morphemes": [
+            {
+              "form": "qóatu",
+              "normalized": "qoatû",
+              "gloss": "strong",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "sei",
+          "ipa": "sej",
+          "zazaki": "sêy",
+          "display_gloss": "than",
+          "morphemes": [
+            {
+              "form": "sei",
+              "normalized": "sêy",
+              "gloss": "than",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "dé̱sti",
+          "ipa": "ˈdɛsti",
+          "zazaki": "desti",
+          "display_gloss": "hand",
+          "morphemes": [
+            {
+              "form": "dé̱sti",
+              "normalized": "desti",
+              "gloss": "hand",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "t̮é̱pi",
+          "ipa": "ˈt͡ʃɛpi",
+          "zazaki": "çepi",
+          "display_gloss": "left",
+          "morphemes": [
+            {
+              "form": "t̮é̱pi",
+              "normalized": "çepi",
+              "gloss": "left",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_27",
       "title": "Örnek cümle 27",
       "text": "Yau múye dé̱rga bāryéka.",
-      "lerch": "Yau múye dé̱rga bāryéka.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Yau múye dé̱rga bāryéka."
+        },
+        {
+          "label": "IPA",
+          "value": "jaw ˈmuje ˈdɛrga baːrˈjeka"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Yaw mûyê derga baryêka."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1789,19 +4112,92 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Yau",
+          "ipa": "jaw",
+          "zazaki": "Yaw",
+          "display_gloss": "one",
+          "morphemes": [
+            {
+              "form": "Yau",
+              "normalized": "Yaw",
+              "gloss": "one",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "múye",
+          "ipa": "ˈmuje",
+          "zazaki": "mûyê",
+          "display_gloss": "hair",
+          "morphemes": [
+            {
+              "form": "múye",
+              "normalized": "mûyê",
+              "gloss": "hair",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "dé̱rga",
+          "ipa": "ˈdɛrga",
+          "zazaki": "derga",
+          "display_gloss": "long",
+          "morphemes": [
+            {
+              "form": "dé̱rga",
+              "normalized": "derga",
+              "gloss": "long",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "bāryéka",
+          "ipa": "baːrˈjeka",
+          "zazaki": "baryêka",
+          "display_gloss": "thin",
+          "morphemes": [
+            {
+              "form": "bāryéka",
+              "normalized": "baryêka",
+              "gloss": "thin",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_28",
       "title": "Örnek cümle 28",
       "text": "Gṓ’eni sū́ra.",
-      "lerch": "Gṓ’eni sū́ra.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Gṓ’eni sū́ra."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈgoː.eni ˈsuːra"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Goêni sûra."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1832,19 +4228,62 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Gṓ’eni",
+          "ipa": "ˈgoː.eni",
+          "zazaki": "Goêni",
+          "display_gloss": "blood",
+          "morphemes": [
+            {
+              "form": "Gṓ’eni",
+              "normalized": "Goêni",
+              "gloss": "blood",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "sū́ra",
+          "ipa": "ˈsuːra",
+          "zazaki": "sûra",
+          "display_gloss": "red",
+          "morphemes": [
+            {
+              "form": "sū́ra",
+              "normalized": "sûra",
+              "gloss": "red",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_29",
       "title": "Örnek cümle 29",
       "text": "Éstei sei ké̱ri sā́γí.",
-      "lerch": "Éstei sei ké̱ri sā́γí.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Éstei sei ké̱ri sā́γí."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈestej sej ˈkɛri ˈsaːˈʁi"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Êstêy sêy keri saği."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1875,19 +4314,92 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Éstei",
+          "ipa": "ˈestej",
+          "zazaki": "Êstêy",
+          "display_gloss": "bones",
+          "morphemes": [
+            {
+              "form": "Éstei",
+              "normalized": "Êstêy",
+              "gloss": "bones",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "sei",
+          "ipa": "sej",
+          "zazaki": "sêy",
+          "display_gloss": "like",
+          "morphemes": [
+            {
+              "form": "sei",
+              "normalized": "sêy",
+              "gloss": "like",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "ké̱ri",
+          "ipa": "ˈkɛri",
+          "zazaki": "keri",
+          "display_gloss": "stone",
+          "morphemes": [
+            {
+              "form": "ké̱ri",
+              "normalized": "keri",
+              "gloss": "stone",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "sā́γí",
+          "ipa": "ˈsaːˈʁi",
+          "zazaki": "saği",
+          "display_gloss": "hard",
+          "morphemes": [
+            {
+              "form": "sā́γí",
+              "normalized": "saği",
+              "gloss": "hard",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_30",
       "title": "Örnek cümle 30",
       "text": "Māsé̱de t̮ími é̱sti, gṓšye t̮íni.",
-      "lerch": "Māsé̱de t̮ími é̱sti, gṓšye t̮íni.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Māsé̱de t̮ími é̱sti, gṓšye t̮íni."
+        },
+        {
+          "label": "IPA",
+          "value": "maːˈsɛde ˈt͡ʃimi ˈɛsti ˈgoːʃje ˈt͡ʃini"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Masedê çimi esti, goşyê çini."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1918,19 +4430,108 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Māsé̱de",
+          "ipa": "maːˈsɛde",
+          "zazaki": "Masedê",
+          "display_gloss": "fish-in",
+          "morphemes": [
+            {
+              "form": "Māsé̱de",
+              "normalized": "Masedê",
+              "gloss": "fish-in",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "t̮ími",
+          "ipa": "ˈt͡ʃimi",
+          "zazaki": "çimi",
+          "display_gloss": "eyes",
+          "morphemes": [
+            {
+              "form": "t̮ími",
+              "normalized": "çimi",
+              "gloss": "eyes",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "é̱sti",
+          "ipa": "ˈɛsti",
+          "zazaki": "esti",
+          "display_gloss": "exist",
+          "morphemes": [
+            {
+              "form": "é̱sti",
+              "normalized": "esti",
+              "gloss": "exist",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": ","
+        },
+        {
+          "form": "gṓšye",
+          "ipa": "ˈgoːʃje",
+          "zazaki": "goşyê",
+          "display_gloss": "ears",
+          "morphemes": [
+            {
+              "form": "gṓšye",
+              "normalized": "goşyê",
+              "gloss": "ears",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "t̮íni",
+          "ipa": "ˈt͡ʃini",
+          "zazaki": "çini",
+          "display_gloss": "not-exist",
+          "morphemes": [
+            {
+              "form": "t̮íni",
+              "normalized": "çini",
+              "gloss": "not-exist",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_31",
       "title": "Örnek cümle 31",
       "text": "Ḗ̱n’oe teir hyedíki ferén’u.",
-      "lerch": "Ḗ̱n’oe teir hyedíki ferén’u.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Ḗ̱n’oe teir hyedíki ferén’u."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈɛːn.oe tejr hjeˈdiki feˈren.u"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Enoê têyr hyêdiki fêrênû."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -1961,19 +4562,92 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Ḗ̱n’oe",
+          "ipa": "ˈɛːn.oe",
+          "zazaki": "Enoê",
+          "display_gloss": "this",
+          "morphemes": [
+            {
+              "form": "Ḗ̱n’oe",
+              "normalized": "Enoê",
+              "gloss": "this",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "teir",
+          "ipa": "tejr",
+          "zazaki": "têyr",
+          "display_gloss": "bird",
+          "morphemes": [
+            {
+              "form": "teir",
+              "normalized": "têyr",
+              "gloss": "bird",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "hyedíki",
+          "ipa": "hjeˈdiki",
+          "zazaki": "hyêdiki",
+          "display_gloss": "slowly",
+          "morphemes": [
+            {
+              "form": "hyedíki",
+              "normalized": "hyêdiki",
+              "gloss": "slowly",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "ferén’u",
+          "ipa": "feˈren.u",
+          "zazaki": "fêrênû",
+          "display_gloss": "fly",
+          "morphemes": [
+            {
+              "form": "ferén’u",
+              "normalized": "fêrênû",
+              "gloss": "fly",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_32",
       "title": "Örnek cümle 32",
       "text": "Nišén’u ā́rdda.",
-      "lerch": "Nišén’u ā́rdda.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Nišén’u ā́rdda."
+        },
+        {
+          "label": "IPA",
+          "value": "niˈʃen.u ˈaːrdda"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Nişênû ardda."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -2004,19 +4678,62 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Nišén’u",
+          "ipa": "niˈʃen.u",
+          "zazaki": "Nişênû",
+          "display_gloss": "descend",
+          "morphemes": [
+            {
+              "form": "Nišén’u",
+              "normalized": "Nişênû",
+              "gloss": "descend",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "ā́rdda",
+          "ipa": "ˈaːrdda",
+          "zazaki": "ardda",
+          "display_gloss": "ground-to",
+          "morphemes": [
+            {
+              "form": "ā́rdda",
+              "normalized": "ardda",
+              "gloss": "ground-to",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_33",
       "title": "Örnek cümle 33",
       "text": "Pé̱li teíride mú’i siaí é̱sti.",
-      "lerch": "Pé̱li teíride mú’i siaí é̱sti.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Pé̱li teíride mú’i siaí é̱sti."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈpɛli ˈtejride ˈmu.i ˈsjaj ˈɛsti"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Peli têyridê mûi syay esti."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -2047,19 +4764,107 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Pé̱li",
+          "ipa": "ˈpɛli",
+          "zazaki": "Peli",
+          "display_gloss": "wings",
+          "morphemes": [
+            {
+              "form": "Pé̱li",
+              "normalized": "Peli",
+              "gloss": "wings",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "teíride",
+          "ipa": "ˈtejride",
+          "zazaki": "têyridê",
+          "display_gloss": "bird-in",
+          "morphemes": [
+            {
+              "form": "teíride",
+              "normalized": "têyridê",
+              "gloss": "bird-in",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "mú’i",
+          "ipa": "ˈmu.i",
+          "zazaki": "mûi",
+          "display_gloss": "hairs/feathers",
+          "morphemes": [
+            {
+              "form": "mú’i",
+              "normalized": "mûi",
+              "gloss": "hairs/feathers",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "siaí",
+          "ipa": "ˈsjaj",
+          "zazaki": "syay",
+          "display_gloss": "black",
+          "morphemes": [
+            {
+              "form": "siaí",
+              "normalized": "syay",
+              "gloss": "black",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "é̱sti",
+          "ipa": "ˈɛsti",
+          "zazaki": "esti",
+          "display_gloss": "exist",
+          "morphemes": [
+            {
+              "form": "é̱sti",
+              "normalized": "esti",
+              "gloss": "exist",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_34",
       "title": "Örnek cümle 34",
       "text": "Dā́rede vé̱lgō té̱ze, gíli hi̥šni é̱sti.",
-      "lerch": "Dā́rede vé̱lgō té̱ze, gíli hi̥šni é̱sti.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Dā́rede vé̱lgō té̱ze, gíli hi̥šni é̱sti."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈdaːrede ˈvɛlgoː ˈtɛze ˈgili hɨʃni ˈɛsti"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Darêdê velgo tezê, gili hışni esti."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -2090,19 +4895,123 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Dā́rede",
+          "ipa": "ˈdaːrede",
+          "zazaki": "Darêdê",
+          "display_gloss": "tree-in",
+          "morphemes": [
+            {
+              "form": "Dā́rede",
+              "normalized": "Darêdê",
+              "gloss": "tree-in",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "vé̱lgō",
+          "ipa": "ˈvɛlgoː",
+          "zazaki": "velgo",
+          "display_gloss": "leaves",
+          "morphemes": [
+            {
+              "form": "vé̱lgō",
+              "normalized": "velgo",
+              "gloss": "leaves",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "té̱ze",
+          "ipa": "ˈtɛze",
+          "zazaki": "tezê",
+          "display_gloss": "green",
+          "morphemes": [
+            {
+              "form": "té̱ze",
+              "normalized": "tezê",
+              "gloss": "green",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": ","
+        },
+        {
+          "form": "gíli",
+          "ipa": "ˈgili",
+          "zazaki": "gili",
+          "display_gloss": "branches",
+          "morphemes": [
+            {
+              "form": "gíli",
+              "normalized": "gili",
+              "gloss": "branches",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "hi̥šni",
+          "ipa": "hɨʃni",
+          "zazaki": "hışni",
+          "display_gloss": "thick",
+          "morphemes": [
+            {
+              "form": "hi̥šni",
+              "normalized": "hışni",
+              "gloss": "thick",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "é̱sti",
+          "ipa": "ˈɛsti",
+          "zazaki": "esti",
+          "display_gloss": "exist",
+          "morphemes": [
+            {
+              "form": "é̱sti",
+              "normalized": "esti",
+              "gloss": "exist",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_35",
       "title": "Örnek cümle 35",
       "text": "Ē̱no’e teir nā́kure bāryék é̱sta, bṓ’et̮e qí̥lma é̱sta.",
-      "lerch": "Ē̱no’e teir nā́kure bāryék é̱sta, bṓ’et̮e qí̥lma é̱sta.",
       "source_note": "Final review reads bo???et?e; earlier crops made this word difficult to confirm.",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Ē̱no’e teir nā́kure bāryék é̱sta, bṓ’et̮e qí̥lma é̱sta."
+        },
+        {
+          "label": "IPA",
+          "value": "ɛːno.e tejr ˈnaːkure baːrˈjek ˈɛsta ˈboː.et͡ʃe ˈqɨlma ˈɛsta"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Enoê têyr nakûrê baryêk esta, boêçê qılma esta."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -2137,19 +5046,153 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Ē̱no’e",
+          "ipa": "ɛːno.e",
+          "zazaki": "Enoê",
+          "display_gloss": "this",
+          "morphemes": [
+            {
+              "form": "Ē̱no’e",
+              "normalized": "Enoê",
+              "gloss": "this",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "teir",
+          "ipa": "tejr",
+          "zazaki": "têyr",
+          "display_gloss": "bird",
+          "morphemes": [
+            {
+              "form": "teir",
+              "normalized": "têyr",
+              "gloss": "bird",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "nā́kure",
+          "ipa": "ˈnaːkure",
+          "zazaki": "nakûrê",
+          "display_gloss": "beak",
+          "morphemes": [
+            {
+              "form": "nā́kure",
+              "normalized": "nakûrê",
+              "gloss": "beak",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "bāryék",
+          "ipa": "baːrˈjek",
+          "zazaki": "baryêk",
+          "display_gloss": "pointed",
+          "morphemes": [
+            {
+              "form": "bāryék",
+              "normalized": "baryêk",
+              "gloss": "pointed",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "é̱sta",
+          "ipa": "ˈɛsta",
+          "zazaki": "esta",
+          "display_gloss": "exist",
+          "morphemes": [
+            {
+              "form": "é̱sta",
+              "normalized": "esta",
+              "gloss": "exist",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": ","
+        },
+        {
+          "form": "bṓ’et̮e",
+          "ipa": "ˈboː.et͡ʃe",
+          "zazaki": "boêçê",
+          "display_gloss": "tail",
+          "morphemes": [
+            {
+              "form": "bṓ’et̮e",
+              "normalized": "boêçê",
+              "gloss": "tail",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "qí̥lma",
+          "ipa": "ˈqɨlma",
+          "zazaki": "qılma",
+          "display_gloss": "short",
+          "morphemes": [
+            {
+              "form": "qí̥lma",
+              "normalized": "qılma",
+              "gloss": "short",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "é̱sta",
+          "ipa": "ˈɛsta",
+          "zazaki": "esta",
+          "display_gloss": "exist",
+          "morphemes": [
+            {
+              "form": "é̱sta",
+              "normalized": "esta",
+              "gloss": "exist",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_36",
       "title": "Örnek cümle 36",
       "text": "Halyẹ̄́ne wẹ̄́da h̔áki sepī́ é̱sti.",
-      "lerch": "Halyẹ̄́ne wẹ̄́da h̔áki sepī́ é̱sti.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Halyẹ̄́ne wẹ̄́da h̔áki sepī́ é̱sti."
+        },
+        {
+          "label": "IPA",
+          "value": "halˈje̝ːne ˈwe̝ːda ˈħaki seˈpiː ˈɛsti"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Halyênê wêda 'haki sêpi esti."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -2180,19 +5223,107 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Halyẹ̄́ne",
+          "ipa": "halˈje̝ːne",
+          "zazaki": "Halyênê",
+          "display_gloss": "nest-in",
+          "morphemes": [
+            {
+              "form": "Halyẹ̄́ne",
+              "normalized": "Halyênê",
+              "gloss": "nest-in",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "wẹ̄́da",
+          "ipa": "ˈwe̝ːda",
+          "zazaki": "wêda",
+          "display_gloss": "inside",
+          "morphemes": [
+            {
+              "form": "wẹ̄́da",
+              "normalized": "wêda",
+              "gloss": "inside",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "h̔áki",
+          "ipa": "ˈħaki",
+          "zazaki": "'haki",
+          "display_gloss": "eggs",
+          "morphemes": [
+            {
+              "form": "h̔áki",
+              "normalized": "'haki",
+              "gloss": "eggs",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "sepī́",
+          "ipa": "seˈpiː",
+          "zazaki": "sêpi",
+          "display_gloss": "white",
+          "morphemes": [
+            {
+              "form": "sepī́",
+              "normalized": "sêpi",
+              "gloss": "white",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "é̱sti",
+          "ipa": "ˈɛsti",
+          "zazaki": "esti",
+          "display_gloss": "exist",
+          "morphemes": [
+            {
+              "form": "é̱sti",
+              "normalized": "esti",
+              "gloss": "exist",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_37",
       "title": "Örnek cümle 37",
       "text": "Adí̥r ve̱šén’u, du, qí̥le, ko̤mṳ́r me̱ vién’i.",
-      "lerch": "Adí̥r ve̱šén’u, du, qí̥le, ko̤mṳ́r me̱ vién’i.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Adí̥r ve̱šén’u, du, qí̥le, ko̤mṳ́r me̱ vién’i."
+        },
+        {
+          "label": "IPA",
+          "value": "aˈdɨr vɛˈʃen.u du ˈqɨle køˈmyr mɛ ˈvjen.i"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Adır veşênû, dû, qılê, komür me vyêni."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -2223,19 +5354,140 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Adí̥r",
+          "ipa": "aˈdɨr",
+          "zazaki": "Adır",
+          "display_gloss": "fire",
+          "morphemes": [
+            {
+              "form": "Adí̥r",
+              "normalized": "Adır",
+              "gloss": "fire",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "ve̱šén’u",
+          "ipa": "vɛˈʃen.u",
+          "zazaki": "veşênû",
+          "display_gloss": "burn",
+          "morphemes": [
+            {
+              "form": "ve̱šén’u",
+              "normalized": "veşênû",
+              "gloss": "burn",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": ","
+        },
+        {
+          "form": "du",
+          "ipa": "du",
+          "zazaki": "dû",
+          "display_gloss": "smoke",
+          "morphemes": [
+            {
+              "form": "du",
+              "normalized": "dû",
+              "gloss": "smoke",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": ","
+        },
+        {
+          "form": "qí̥le",
+          "ipa": "ˈqɨle",
+          "zazaki": "qılê",
+          "display_gloss": "flame",
+          "morphemes": [
+            {
+              "form": "qí̥le",
+              "normalized": "qılê",
+              "gloss": "flame",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": ","
+        },
+        {
+          "form": "ko̤mṳ́r",
+          "ipa": "køˈmyr",
+          "zazaki": "komür",
+          "display_gloss": "coal",
+          "morphemes": [
+            {
+              "form": "ko̤mṳ́r",
+              "normalized": "komür",
+              "gloss": "coal",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "me̱",
+          "ipa": "mɛ",
+          "zazaki": "me",
+          "display_gloss": "we",
+          "morphemes": [
+            {
+              "form": "me̱",
+              "normalized": "me",
+              "gloss": "we",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "vién’i",
+          "ipa": "ˈvjen.i",
+          "zazaki": "vyêni",
+          "display_gloss": "see",
+          "morphemes": [
+            {
+              "form": "vién’i",
+              "normalized": "vyêni",
+              "gloss": "see",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_38",
       "title": "Örnek cümle 38",
       "text": "É̱n’a lā́de aúke lé̱ze šuén’a.",
-      "lerch": "É̱n’a lā́de aúke lé̱ze šuén’a.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "É̱n’a lā́de aúke lé̱ze šuén’a."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈɛn.a ˈlaːde ˈawke ˈlɛze ˈʃwen.a"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Ena ladê awkê lezê şwêna."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -2266,19 +5518,107 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "É̱n’a",
+          "ipa": "ˈɛn.a",
+          "zazaki": "Ena",
+          "display_gloss": "this",
+          "morphemes": [
+            {
+              "form": "É̱n’a",
+              "normalized": "Ena",
+              "gloss": "this",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "lā́de",
+          "ipa": "ˈlaːde",
+          "zazaki": "ladê",
+          "display_gloss": "river",
+          "morphemes": [
+            {
+              "form": "lā́de",
+              "normalized": "ladê",
+              "gloss": "river",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "aúke",
+          "ipa": "ˈawke",
+          "zazaki": "awkê",
+          "display_gloss": "water",
+          "morphemes": [
+            {
+              "form": "aúke",
+              "normalized": "awkê",
+              "gloss": "water",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "lé̱ze",
+          "ipa": "ˈlɛze",
+          "zazaki": "lezê",
+          "display_gloss": "quickly",
+          "morphemes": [
+            {
+              "form": "lé̱ze",
+              "normalized": "lezê",
+              "gloss": "quickly",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "šuén’a",
+          "ipa": "ˈʃwen.a",
+          "zazaki": "şwêna",
+          "display_gloss": "go/flow",
+          "morphemes": [
+            {
+              "form": "šuén’a",
+              "normalized": "şwêna",
+              "gloss": "go/flow",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_39",
       "title": "Örnek cümle 39",
       "text": "Āšme e̱stárera pī́la, rṓd̮era qí̮d̮a.",
-      "lerch": "Āšme e̱stárera pī́la, rṓd̮era qí̮d̮a.",
       "source_note": "Russian scan is partly clipped at the bottom; German witness appears to read q??d?a, though q??d?a may be expected.",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Āšme e̱stárera pī́la, rṓd̮era qí̮d̮a."
+        },
+        {
+          "label": "IPA",
+          "value": "aːʃme ɛsˈtarera ˈpiːla ˈroːd͡ʒera ˈqid͡ʒa"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Aşmê estarêra pila, rocêra qica."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -2313,19 +5653,108 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Āšme",
+          "ipa": "aːʃme",
+          "zazaki": "Aşmê",
+          "display_gloss": "moon",
+          "morphemes": [
+            {
+              "form": "Āšme",
+              "normalized": "Aşmê",
+              "gloss": "moon",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "e̱stárera",
+          "ipa": "ɛsˈtarera",
+          "zazaki": "estarêra",
+          "display_gloss": "stars-than",
+          "morphemes": [
+            {
+              "form": "e̱stárera",
+              "normalized": "estarêra",
+              "gloss": "stars-than",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "pī́la",
+          "ipa": "ˈpiːla",
+          "zazaki": "pila",
+          "display_gloss": "big",
+          "morphemes": [
+            {
+              "form": "pī́la",
+              "normalized": "pila",
+              "gloss": "big",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": ","
+        },
+        {
+          "form": "rṓd̮era",
+          "ipa": "ˈroːd͡ʒera",
+          "zazaki": "rocêra",
+          "display_gloss": "sun-than",
+          "morphemes": [
+            {
+              "form": "rṓd̮era",
+              "normalized": "rocêra",
+              "gloss": "sun-than",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "qí̮d̮a",
+          "ipa": "ˈqid͡ʒa",
+          "zazaki": "qica",
+          "display_gloss": "small",
+          "morphemes": [
+            {
+              "form": "qí̮d̮a",
+              "normalized": "qica",
+              "gloss": "small",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_40",
       "title": "Örnek cümle 40",
       "text": "Vizyẹ̄́ri šā́nde varán varā́.",
-      "lerch": "Vizyẹ̄́ri šā́nde varán varā́.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Vizyẹ̄́ri šā́nde varán varā́."
+        },
+        {
+          "label": "IPA",
+          "value": "vizˈje̝ːri ˈʃaːnde vaˈran vaˈraː"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Vizyêri şandê varan vara."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -2356,19 +5785,92 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Vizyẹ̄́ri",
+          "ipa": "vizˈje̝ːri",
+          "zazaki": "Vizyêri",
+          "display_gloss": "yesterday",
+          "morphemes": [
+            {
+              "form": "Vizyẹ̄́ri",
+              "normalized": "Vizyêri",
+              "gloss": "yesterday",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "šā́nde",
+          "ipa": "ˈʃaːnde",
+          "zazaki": "şandê",
+          "display_gloss": "evening",
+          "morphemes": [
+            {
+              "form": "šā́nde",
+              "normalized": "şandê",
+              "gloss": "evening",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "varán",
+          "ipa": "vaˈran",
+          "zazaki": "varan",
+          "display_gloss": "rain",
+          "morphemes": [
+            {
+              "form": "varán",
+              "normalized": "varan",
+              "gloss": "rain",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "varā́",
+          "ipa": "vaˈraː",
+          "zazaki": "vara",
+          "display_gloss": "rained",
+          "morphemes": [
+            {
+              "form": "varā́",
+              "normalized": "vara",
+              "gloss": "rained",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_41",
       "title": "Örnek cümle 41",
       "text": "Eíru sebá me múndiai aíšma fátma día.",
-      "lerch": "Eíru sebá me múndiai aíšma fátma día.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Eíru sebá me múndiai aíšma fátma día."
+        },
+        {
+          "label": "IPA",
+          "value": "ˈejru seˈba me ˈmundjaj ˈajʃma ˈfatma ˈdja"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Êyrû sêba mê mûndyay ayşma fatma dya."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -2399,19 +5901,137 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Eíru",
+          "ipa": "ˈejru",
+          "zazaki": "Êyrû",
+          "display_gloss": "",
+          "morphemes": [
+            {
+              "form": "Eíru",
+              "normalized": "Êyrû",
+              "gloss": "",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "sebá",
+          "ipa": "seˈba",
+          "zazaki": "sêba",
+          "display_gloss": "",
+          "morphemes": [
+            {
+              "form": "sebá",
+              "normalized": "sêba",
+              "gloss": "",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "me",
+          "ipa": "me",
+          "zazaki": "mê",
+          "display_gloss": "",
+          "morphemes": [
+            {
+              "form": "me",
+              "normalized": "mê",
+              "gloss": "",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "múndiai",
+          "ipa": "ˈmundjaj",
+          "zazaki": "mûndyay",
+          "display_gloss": "",
+          "morphemes": [
+            {
+              "form": "múndiai",
+              "normalized": "mûndyay",
+              "gloss": "",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "aíšma",
+          "ipa": "ˈajʃma",
+          "zazaki": "ayşma",
+          "display_gloss": "",
+          "morphemes": [
+            {
+              "form": "aíšma",
+              "normalized": "ayşma",
+              "gloss": "",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "fátma",
+          "ipa": "ˈfatma",
+          "zazaki": "fatma",
+          "display_gloss": "",
+          "morphemes": [
+            {
+              "form": "fátma",
+              "normalized": "fatma",
+              "gloss": "",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "día",
+          "ipa": "ˈdja",
+          "zazaki": "dya",
+          "display_gloss": "",
+          "morphemes": [
+            {
+              "form": "día",
+              "normalized": "dya",
+              "gloss": "",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_42",
       "title": "Örnek cümle 42",
       "text": "Šau tārī́u, rōd̮ rṓštu.",
-      "lerch": "Šau tārī́u, rōd̮ rṓštu.",
       "source_note": "",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Šau tārī́u, rōd̮ rṓštu."
+        },
+        {
+          "label": "IPA",
+          "value": "ʃaw taːrjw roːd͡ʒ ˈroːʃtu"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Şaw taryw, roc roştû."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -2442,19 +6062,93 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Šau",
+          "ipa": "ʃaw",
+          "zazaki": "Şaw",
+          "display_gloss": "night",
+          "morphemes": [
+            {
+              "form": "Šau",
+              "normalized": "Şaw",
+              "gloss": "night",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "tārī́u",
+          "ipa": "taːrjw",
+          "zazaki": "taryw",
+          "display_gloss": "dark",
+          "morphemes": [
+            {
+              "form": "tārī́u",
+              "normalized": "taryw",
+              "gloss": "dark",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": ","
+        },
+        {
+          "form": "rōd̮",
+          "ipa": "roːd͡ʒ",
+          "zazaki": "roc",
+          "display_gloss": "day",
+          "morphemes": [
+            {
+              "form": "rōd̮",
+              "normalized": "roc",
+              "gloss": "day",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "rṓštu",
+          "ipa": "ˈroːʃtu",
+          "zazaki": "roştû",
+          "display_gloss": "bright",
+          "morphemes": [
+            {
+              "form": "rṓštu",
+              "normalized": "roştû",
+              "gloss": "bright",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_43",
       "title": "Örnek cümle 43",
       "text": "Mā kā́li bekí zazád̮e.",
-      "lerch": "Mā kā́li bekí zazád̮e.",
       "source_note": "Zaza line specifically says \"in Zaza.\"",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Mā kā́li bekí zazád̮e."
+        },
+        {
+          "label": "IPA",
+          "value": "maː ˈkaːli beˈki zaˈzad͡ʒe"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Ma kali bêki zazacê."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -2466,11 +6160,11 @@
         },
         {
           "label": "ENGLISH",
-          "value": "We speak Kurdish (Kurmanji-Zaza)."
+          "value": "We speak Zaza."
         },
         {
           "label": "TURKISH",
-          "value": "Kürtçe (Kurmanci-Zaza) konuşuyoruz."
+          "value": "Zazaca konuşuyoruz."
         },
         {
           "label": "NOTE",
@@ -2489,19 +6183,92 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Mā",
+          "ipa": "maː",
+          "zazaki": "Ma",
+          "display_gloss": "we",
+          "morphemes": [
+            {
+              "form": "Mā",
+              "normalized": "Ma",
+              "gloss": "we",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "kā́li",
+          "ipa": "ˈkaːli",
+          "zazaki": "kali",
+          "display_gloss": "speech",
+          "morphemes": [
+            {
+              "form": "kā́li",
+              "normalized": "kali",
+              "gloss": "speech",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "bekí",
+          "ipa": "beˈki",
+          "zazaki": "bêki",
+          "display_gloss": "do/speak",
+          "morphemes": [
+            {
+              "form": "bekí",
+              "normalized": "bêki",
+              "gloss": "do/speak",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "zazád̮e",
+          "ipa": "zaˈzad͡ʒe",
+          "zazaki": "zazacê",
+          "display_gloss": "Zaza-in",
+          "morphemes": [
+            {
+              "form": "zazád̮e",
+              "normalized": "zazacê",
+              "gloss": "Zaza-in",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "."
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     },
     {
       "id": "bacmeister_row_44",
       "title": "Örnek cümle 44",
       "text": "Ši̥mā zazád̮a záni?",
-      "lerch": "Ši̥mā zazád̮a záni?",
       "source_note": "Zaza line specifically asks about knowing Zaza.",
       "display_rows": [
         {
-          "label": "ZAZA IN LERCH",
+          "label": "LERCH",
           "value": "Ši̥mā zazád̮a záni?"
+        },
+        {
+          "label": "IPA",
+          "value": "ʃɨmaː zaˈzad͡ʒa ˈzani"
+        },
+        {
+          "label": "ZAZAKI",
+          "value": "Şıma zazaca zani?"
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -2513,11 +6280,11 @@
         },
         {
           "label": "ENGLISH",
-          "value": "Do you know how to speak Kurdish (Kurmanji-Zaza)?"
+          "value": "Do you know how to speak Zaza?"
         },
         {
           "label": "TURKISH",
-          "value": "Kürtçe (Kurmanci-Zaza) konuşmayı biliyor musunuz?"
+          "value": "Zazaca konuşmayı biliyor musunuz?"
         },
         {
           "label": "NOTE",
@@ -2536,8 +6303,59 @@
           "source": "Lerch Bacmeister sentence-sample line crop"
         }
       ],
-      "tokens": [],
-      "phrase_matches": []
+      "tokens": [
+        {
+          "form": "Ši̥mā",
+          "ipa": "ʃɨmaː",
+          "zazaki": "Şıma",
+          "display_gloss": "you.PL",
+          "morphemes": [
+            {
+              "form": "Ši̥mā",
+              "normalized": "Şıma",
+              "gloss": "you.PL",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "zazád̮a",
+          "ipa": "zaˈzad͡ʒa",
+          "zazaki": "zazaca",
+          "display_gloss": "Zaza-in",
+          "morphemes": [
+            {
+              "form": "zazád̮a",
+              "normalized": "zazaca",
+              "gloss": "Zaza-in",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ]
+        },
+        {
+          "form": "záni",
+          "ipa": "ˈzani",
+          "zazaki": "zani",
+          "display_gloss": "know",
+          "morphemes": [
+            {
+              "form": "záni",
+              "normalized": "zani",
+              "gloss": "know",
+              "confidence": "working",
+              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+            }
+          ],
+          "suffix_punct": "?"
+        }
+      ],
+      "phrase_matches": [],
+      "hidden_rows": [
+        "LEMMA",
+        "POS"
+      ]
     }
   ]
 }

@@ -12,12 +12,12 @@ Review status: 44 rows have been folded back from the review UI into this workin
 
 | No. | Review | Zaza in Lerch | Kurmanji in Lerch | English | Turkish | German | Notes |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
-| 1 |  | `Aláh ńe merén’u.` | `Xodê nämire.` | God does not die. | Tanrı ölmez. | Gott stirbt nicht. |  |
-| 2 |  | `Mē̱rdṳ́m é̱meri yai qílmu.` | `Merü sal pur tenâre.` | A human being does not live long. | İnsan uzun yaşamaz. | Der Mensch lebt nicht lange. | Zaza phrasing appears literally to use "his life is short." |
+| 1 |  | `Aláh ńe merén’u.` | `Xodê nämire.` | God does not die. | Allah ölmez. | Gott stirbt nicht. |  |
+| 2 |  | `Mē̱rdṳ́m é̱meri yai qílmu.` | `Merü sal pur tenâre.` | A human being's life is short. | İnsanın ömrü kısadır. | Der Mensch lebt nicht lange. | Zaza phrasing appears literally to use "his life is short." |
 | 3 |  | `Daíke eílāne (eílekāni) χóe zāf sinén’a.` | `Diâ külfetân ž wan haz dikê.` | The mother loves her children. | Anne çocuklarını sever. | Die Mutter liebt ihre Kinder. | Russian and German witnesses read `χóe`, not gamma. |
 | 4 |  | `T̮íd̮e̱ yai zāf šid é̱stu.` | `De memkî wêda šîr pur heiye.` | She has much milk in her breasts. | Göğüslerinde çok süt vardır. | Sie hat viel Milch in den Brüsten. | User review note confirmed `zāf`; `é̱stu` has acute plus line below. |
 | 5 |  | `Myẹ̄́rde yai h̔as kén’u.` | `Mêrî wi že haz dikê.` | Her husband loves her. | Kocası onu sever. | Ihr Mann liebt sie. |  |
-| 6 |  | `Ā́ya d̮éni hé̱mle̱ya.` | `Va žinka be hâmile.` | This woman was pregnant (in the translation: "is pregnant"). | Bu kadın hamileydi (çeviride: "hamiledir"). | Diese Frau war schwanger (in der Uebers.: "ist schw."). | Russian has a typo fixed in german: Ā́ja -> Ā́ya |
+| 6 |  | `Ā́ya d̮éni hé̱mle̱ya.` | `Va žinka be hâmile.` | This woman is pregnant. | Bu kadın hamiledir. | Diese Frau war schwanger (in der Uebers.: "ist schw."). | German prompt says "was pregnant," but the Zaza sentence corresponds to "is pregnant"; Russian has a typo fixed in German: Ā́ja -> Ā́ya. |
 | 7 |  | `Še̱š rṓd̮e yau lād̮ ārd.` | `De şeş ruânda laukik weledând.` | Six days ago she gave birth to a son. | Altı gün önce bir oğul doğurdu. | Vor sechs Tagen hat sie einen Sohn geboren. |  |
 | 8 |  | `Dáh̔a ńe wé̱ša.` | `Dâha nexôše.` | She is still sick. | Hâlâ hastadır. | Sie ist noch krank. |  |
 | 9 |  | `Keína yai h̔e̱t rúeništa bermén’a.` | `Qiza wi ledern rüništie digrî.` | Her daughter sits beside her and cries. | Kızı yanında oturur ve ağlar. | Ihre Tochter sitzt bei ihr und weint. | Marked `h` follows the Lerch `h̔` review-bucket convention rather than `ḫ`. |
@@ -54,8 +54,8 @@ Review status: 44 rows have been folded back from the review UI into this workin
 | 40 |  | `Vizyẹ̄́ri šā́nde varán varā́.` | `Dö evârî barân bârî.` | Yesterday evening rain fell. | Dün akşam yağmur yağdı. | Gestern Abend fiel Regen. |  |
 | 41 |  | `Eíru sebá me múndiai aíšma fátma día.` | `Irö sebeda pista fâtinân nêbia me dî.` | This morning I saw the rainbow. | Bu sabah gökkuşağını gördüm. | Heute Morgen sah ich den Regenbogen. |  |
 | 42 |  | `Šau tārī́u, rōd̮ rṓštu.` | `Be şev târîe, be rö roanîke.` | At night it is dark and by day bright. | Gece karanlıktır, gündüz aydınlıktır. | Des Nachts ist es finster und am Tage hell. |  |
-| 43 |  | `Mā kā́li bekí zazád̮e.` | `Em be kurmândî debin (debêžin).` | We speak Kurdish (Kurmanji-Zaza). | Kürtçe (Kurmanci-Zaza) konuşuyoruz. | Wir reden kurdisch (Kurmändi-Zazä). | Zaza line specifically says "in Zaza." |
-| 44 |  | `Ši̥mā zazád̮a záni?` | `Hun be kurmândî zânin?` | Do you know how to speak Kurdish (Kurmanji-Zaza)? | Kürtçe (Kurmanci-Zaza) konuşmayı biliyor musunuz? | Versteht ihr kurdisch (Kurmändi-Zazä) zu sprechen? | Zaza line specifically asks about knowing Zaza. |
+| 43 |  | `Mā kā́li bekí zazád̮e.` | `Em be kurmândî debin (debêžin).` | We speak Zaza. | Zazaca konuşuyoruz. | Wir reden kurdisch (Kurmändi-Zazä). | Zaza line specifically says "in Zaza." |
+| 44 |  | `Ši̥mā zazád̮a záni?` | `Hun be kurmândî zânin?` | Do you know how to speak Zaza? | Zazaca konuşmayı biliyor musunuz? | Versteht ihr kurdisch (Kurmändi-Zazä) zu sprechen? | Zaza line specifically asks about knowing Zaza. |
 
 ## Flagged Review Rows
 

@@ -1,10 +1,10 @@
 row_no	review_status	review_focus	review_question	zaza_lerch	kurmanji_lerch	german	english	turkish	notes
-1	not_flagged			Aláh ńe merén’u.	Xodê nämire.	Gott stirbt nicht.	God does not die.	Tanrı ölmez.	
-2	not_flagged			Mē̱rdṳ́m é̱meri yai qílmu.	Merü sal pur tenâre.	Der Mensch lebt nicht lange.	A human being does not live long.	İnsan uzun yaşamaz.	"Zaza phrasing appears literally to use ""his life is short."""
+1	not_flagged			Aláh ńe merén’u.	Xodê nämire.	Gott stirbt nicht.	God does not die.	Allah ölmez.	
+2	not_flagged			Mē̱rdṳ́m é̱meri yai qílmu.	Merü sal pur tenâre.	Der Mensch lebt nicht lange.	A human being's life is short.	İnsanın ömrü kısadır.	"Zaza phrasing appears literally to use ""his life is short."""
 3	not_flagged			Daíke eílāne (eílekāni) χóe zāf sinén’a.	Diâ külfetân ž wan haz dikê.	Die Mutter liebt ihre Kinder.	The mother loves her children.	Anne çocuklarını sever.	Russian and German witnesses read `χóe`, not gamma.
 4	not_flagged			T̮íd̮e̱ yai zāf šid é̱stu.	De memkî wêda šîr pur heiye.	Sie hat viel Milch in den Brüsten.	She has much milk in her breasts.	Göğüslerinde çok süt vardır.	User review note confirmed `zāf`; `é̱stu` has acute plus line below.
 5	not_flagged			Myẹ̄́rde yai h̔as kén’u.	Mêrî wi že haz dikê.	Ihr Mann liebt sie.	Her husband loves her.	Kocası onu sever.	
-6	not_flagged			Ā́ya d̮éni hé̱mle̱ya.	Va žinka be hâmile.	"Diese Frau war schwanger (in der Uebers.: ""ist schw."")."	"This woman was pregnant (in the translation: ""is pregnant"")."	"Bu kadın hamileydi (çeviride: ""hamiledir"")."	Russian has a typo fixed in german: Ā́ja -> Ā́ya
+6	not_flagged			Ā́ya d̮éni hé̱mle̱ya.	Va žinka be hâmile.	"Diese Frau war schwanger (in der Uebers.: ""ist schw."")."	This woman is pregnant.	Bu kadın hamiledir.	"German prompt says ""was pregnant,"" but the Zaza sentence corresponds to ""is pregnant""; Russian has a typo fixed in German: Ā́ja -> Ā́ya."
 7	not_flagged			Še̱š rṓd̮e yau lād̮ ārd.	De şeş ruânda laukik weledând.	Vor sechs Tagen hat sie einen Sohn geboren.	Six days ago she gave birth to a son.	Altı gün önce bir oğul doğurdu.	
 8	not_flagged			Dáh̔a ńe wé̱ša.	Dâha nexôše.	Sie ist noch krank.	She is still sick.	Hâlâ hastadır.	
 9	not_flagged			Keína yai h̔e̱t rúeništa bermén’a.	Qiza wi ledern rüništie digrî.	Ihre Tochter sitzt bei ihr und weint.	Her daughter sits beside her and cries.	Kızı yanında oturur ve ağlar.	Marked `h` follows the Lerch `h̔` review-bucket convention rather than `ḫ`.
@@ -41,5 +41,5 @@ row_no	review_status	review_focus	review_question	zaza_lerch	kurmanji_lerch	germ
 40	not_flagged			Vizyẹ̄́ri šā́nde varán varā́.	Dö evârî barân bârî.	Gestern Abend fiel Regen.	Yesterday evening rain fell.	Dün akşam yağmur yağdı.	
 41	not_flagged			Eíru sebá me múndiai aíšma fátma día.	Irö sebeda pista fâtinân nêbia me dî.	Heute Morgen sah ich den Regenbogen.	This morning I saw the rainbow.	Bu sabah gökkuşağını gördüm.	
 42	not_flagged			Šau tārī́u, rōd̮ rṓštu.	Be şev târîe, be rö roanîke.	Des Nachts ist es finster und am Tage hell.	At night it is dark and by day bright.	Gece karanlıktır, gündüz aydınlıktır.	
-43	not_flagged			Mā kā́li bekí zazád̮e.	Em be kurmândî debin (debêžin).	Wir reden kurdisch (Kurmändi-Zazä).	We speak Kurdish (Kurmanji-Zaza).	Kürtçe (Kurmanci-Zaza) konuşuyoruz.	"Zaza line specifically says ""in Zaza."""
-44	not_flagged			Ši̥mā zazád̮a záni?	Hun be kurmândî zânin?	Versteht ihr kurdisch (Kurmändi-Zazä) zu sprechen?	Do you know how to speak Kurdish (Kurmanji-Zaza)?	Kürtçe (Kurmanci-Zaza) konuşmayı biliyor musunuz?	Zaza line specifically asks about knowing Zaza.
+43	not_flagged			Mā kā́li bekí zazád̮e.	Em be kurmândî debin (debêžin).	Wir reden kurdisch (Kurmändi-Zazä).	We speak Zaza.	Zazaca konuşuyoruz.	"Zaza line specifically says ""in Zaza."""
+44	not_flagged			Ši̥mā zazád̮a záni?	Hun be kurmândî zânin?	Versteht ihr kurdisch (Kurmändi-Zazä) zu sprechen?	Do you know how to speak Zaza?	Zazaca konuşmayı biliyor musunuz?	Zaza line specifically asks about knowing Zaza.

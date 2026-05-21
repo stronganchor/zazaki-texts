@@ -6,6 +6,8 @@ from __future__ import annotations
 import json
 import re
 import shutil
+import importlib.util
+import sys
 from datetime import date
 from pathlib import Path
 
@@ -22,6 +24,56 @@ SOURCE_DRAFT = (
 )
 REVIEW_BUNDLE = LERCH_ROOT / "lerch_bacmeister_samples_review_bundle"
 ASSET_SOURCE = REVIEW_BUNDLE / "assets"
+CONVERTER_SCRIPT = LERCH_ROOT / "build_lerch_feud_interlinear_bundle.py"
+TOKEN_STRIP = " \t\r\n.,;:!?()[]{}\"“”‘’«»—–"
+
+
+BACMEISTER_TOKEN_GLOSSES: dict[int, list[str]] = {
+    1: ["God", "NEG", "die"],
+    2: ["person", "life", "3SG.OBL", "short"],
+    3: ["mother", "children", "children", "self/her", "very", "love"],
+    4: ["breasts", "3SG.OBL", "very", "milk", "exist"],
+    5: ["husband", "3SG.OBL", "love", "do"],
+    6: ["that", "woman", "pregnant"],
+    7: ["six", "day", "one", "son", "bore"],
+    8: ["still", "NEG", "healthy"],
+    9: ["daughter", "3SG.OBL", "beside", "sitting", "cry"],
+    10: ["child", "breast", "NEG", "want"],
+    11: ["girl", "still", "foot", "NEG", "walk"],
+    12: ["one", "year", "two", "month", "was born"],
+    13: ["these", "four", "all", "boys", "healthy"],
+    14: ["one", "first", "run", "do", "that", "second", "jump", "dance", "do", "that", "third", "song", "say/sing", "that", "fourth", "laugh"],
+    15: ["this", "person", "eye", "3SG.OBL", "3SG.OBL", "blind"],
+    16: ["wife", "3SG.OBL", "3SG.OBL", "deaf"],
+    17: ["voice", "our", "that", "we", "said", "NEG", "hear"],
+    18: ["brother", "2SG.OBL", "sneeze", "come"],
+    19: ["sister", "2SG.OBL", "sleep", "fell"],
+    20: ["father", "2PL.OBL", "awake", "sitting"],
+    21: ["little", "eat/drink"],
+    22: ["nose", "is", "middle", "face-in"],
+    23: ["two", "feet", "we", "exist", "each", "hand", "our-in", "five", "fingers", "exist"],
+    24: ["hair", "head-on", "come/grow"],
+    25: ["teeth", "tongue", "is", "mouth-in"],
+    26: ["hand/arm", "right", "strong", "than", "hand", "left"],
+    27: ["one", "hair", "long", "thin"],
+    28: ["blood", "red"],
+    29: ["bones", "like", "stone", "hard"],
+    30: ["fish-in", "eyes", "exist", "ears", "not-exist"],
+    31: ["this", "bird", "slowly", "fly"],
+    32: ["descend", "ground-to"],
+    33: ["wings", "bird-in", "hairs/feathers", "black", "exist"],
+    34: ["tree-in", "leaves", "green", "branches", "thick", "exist"],
+    35: ["this", "bird", "beak", "pointed", "exist", "tail", "short", "exist"],
+    36: ["nest-in", "inside", "eggs", "white", "exist"],
+    37: ["fire", "burn", "smoke", "flame", "coal", "we", "see"],
+    38: ["this", "river", "water", "quickly", "go/flow"],
+    39: ["moon", "stars-than", "big", "sun-than", "small"],
+    40: ["yesterday", "evening", "rain", "rained"],
+    41: ["today", "morning", "I", "rainbow", "arc", "saw"],
+    42: ["night", "dark", "day", "bright"],
+    43: ["we", "speech", "do/speak", "Zaza-in"],
+    44: ["you.PL", "Zaza-in", "know"],
+}
 
 
 def assert_inside_repo(path: Path) -> Path:
@@ -114,6 +166,75 @@ def write_json(path: Path, value: object) -> None:
     write_text(path, json.dumps(value, ensure_ascii=False, indent=2))
 
 
+def load_lerch_converter():
+    if not CONVERTER_SCRIPT.exists():
+        raise RuntimeError(f"Missing Lerch converter script: {CONVERTER_SCRIPT}")
+    spec = importlib.util.spec_from_file_location("lerch_feud_converter", CONVERTER_SCRIPT)
+    if spec is None or spec.loader is None:
+        raise RuntimeError(f"Unable to load Lerch converter from {CONVERTER_SCRIPT}")
+    module = importlib.util.module_from_spec(spec)
+    sys.modules[spec.name] = module
+    spec.loader.exec_module(module)
+    return module
+
+
+LERCH_CONVERTER = load_lerch_converter()
+
+
+def token_core(value: str) -> str:
+    return value.strip(TOKEN_STRIP)
+
+
+def split_token_punctuation(value: str) -> tuple[str, str, str]:
+    prefix_match = re.match(r'^[\s"“”‘’«»(\[\{]+', value)
+    suffix_match = re.search(r'[\s"“”‘’«».,;:!?()\]\}]+$', value)
+    prefix = prefix_match.group(0) if prefix_match else ""
+    suffix = suffix_match.group(0) if suffix_match else ""
+    core_start = len(prefix)
+    core_end = len(value) - len(suffix) if suffix else len(value)
+    core = value[core_start:core_end]
+    return prefix, core, suffix
+
+
+def build_token(raw: str, gloss: str = "") -> dict[str, object]:
+    prefix, core, suffix = split_token_punctuation(raw)
+    if core == "":
+        core = token_core(raw)
+        prefix = ""
+        suffix = raw[len(core):] if core and raw.endswith(core) is False else ""
+    ipa = LERCH_CONVERTER.lerch_to_ipa(core) if core else ""
+    zazaki = LERCH_CONVERTER.lerch_to_zazaki(core) if core else ""
+    token: dict[str, object] = {
+        "form": core or raw,
+        "ipa": ipa,
+        "zazaki": zazaki,
+        "display_gloss": gloss,
+        "morphemes": [
+            {
+                "form": core or raw,
+                "normalized": zazaki,
+                "gloss": gloss,
+                "confidence": "working",
+                "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final.",
+            }
+        ],
+    }
+    if prefix:
+        token["prefix_punct"] = prefix
+    if suffix:
+        token["suffix_punct"] = suffix
+    return token
+
+
+def build_tokens(row: dict[str, str]) -> list[dict[str, object]]:
+    row_no = int(row["row_no"])
+    raw_tokens = re.findall(r"\S+", row["zaza"])
+    glosses = BACMEISTER_TOKEN_GLOSSES.get(row_no, [])
+    if len(glosses) != len(raw_tokens):
+        glosses = [""] * len(raw_tokens)
+    return [build_token(raw, gloss) for raw, gloss in zip(raw_tokens, glosses)]
+
+
 def copy_assets() -> None:
     target = assert_inside_repo(TEXT_DIR / "assets")
     target.mkdir(parents=True, exist_ok=True)
@@ -123,6 +244,17 @@ def copy_assets() -> None:
 
 def source_line(row: dict[str, str]) -> dict:
     row_no = int(row["row_no"])
+    tokens = build_tokens(row)
+    ipa_line = " ".join(str(token.get("ipa") or "") for token in tokens).strip()
+    zazaki_line = "".join(
+        (
+            str(token.get("prefix_punct") or "")
+            + str(token.get("zazaki") or token.get("form") or "")
+            + str(token.get("suffix_punct") or "")
+            + (" " if index < len(tokens) - 1 else "")
+        )
+        for index, token in enumerate(tokens)
+    ).strip()
     witnesses = []
     for label, suffix in (("Russian scan", "russian"), ("German reprint scan", "german")):
         asset = f"assets/row{row_no:02d}_{suffix}.jpg"
@@ -135,7 +267,9 @@ def source_line(row: dict[str, str]) -> dict:
                 }
             )
     display_rows = [
-        {"label": "ZAZA IN LERCH", "value": row["zaza"]},
+        {"label": "LERCH", "value": row["zaza"]},
+        {"label": "IPA", "value": ipa_line},
+        {"label": "ZAZAKI", "value": zazaki_line},
         {"label": "KURMANJI IN LERCH", "value": row["kurmanji"]},
         {"label": "GERMAN", "value": plain(row["german"])},
         {"label": "ENGLISH", "value": plain(row["english"])},
@@ -147,12 +281,12 @@ def source_line(row: dict[str, str]) -> dict:
         "id": f"bacmeister_row_{row_no:02d}",
         "title": f"Örnek cümle {row_no}",
         "text": row["zaza"],
-        "lerch": row["zaza"],
         "source_note": plain(row["notes"]),
         "display_rows": display_rows,
         "witnesses": witnesses,
-        "tokens": [],
+        "tokens": tokens,
         "phrase_matches": [],
+        "hidden_rows": ["LEMMA", "POS"],
     }
 
 

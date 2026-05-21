@@ -1,8 +1,8 @@
 Bacmeister Örnek Cümleleri
 
-Tanrı ölmez.
+Allah ölmez.
 
-İnsan uzun yaşamaz.
+İnsanın ömrü kısadır.
 
 Anne çocuklarını sever.
 
@@ -10,7 +10,7 @@ Göğüslerinde çok süt vardır.
 
 Kocası onu sever.
 
-Bu kadın hamileydi (çeviride: "hamiledir").
+Bu kadın hamiledir.
 
 Altı gün önce bir oğul doğurdu.
 
@@ -84,6 +84,6 @@ Bu sabah gökkuşağını gördüm.
 
 Gece karanlıktır, gündüz aydınlıktır.
 
-Kürtçe (Kurmanci-Zaza) konuşuyoruz.
+Zazaca konuşuyoruz.
 
-Kürtçe (Kurmanci-Zaza) konuşmayı biliyor musunuz?
+Zazaca konuşmayı biliyor musunuz?
