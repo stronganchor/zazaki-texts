@@ -321,9 +321,12 @@ def write_html() -> None:
       status: document.getElementById("statusFilter"),
       confidence: document.getElementById("confidenceFilter"),
     };
+    const autosaveEndpoint = "api/autosave";
     let activeInput = null;
     let activePage = "";
     let saved = {};
+    let saveTimer = null;
+    let diskSaveAvailable = false;
 
     try {
       saved = JSON.parse(localStorage.getItem(storageKey) || "{}");
@@ -355,7 +358,47 @@ def write_html() -> None:
       if (!saved[rowId]) saved[rowId] = {};
       saved[rowId][field] = value;
       localStorage.setItem(storageKey, JSON.stringify(saved));
-      statusLine.textContent = `Saved locally ${new Date().toLocaleTimeString()}`;
+      statusLine.textContent = diskSaveAvailable
+        ? `Saving to disk ${new Date().toLocaleTimeString()}`
+        : `Saved in browser ${new Date().toLocaleTimeString()}`;
+      scheduleDiskSave();
+    }
+
+    async function loadDiskAutosave() {
+      try {
+        const response = await fetch(autosaveEndpoint, {cache: "no-store"});
+        if (!response.ok) throw new Error("autosave endpoint unavailable");
+        const payload = await response.json();
+        if (payload && payload.rows) {
+          saved = {...saved, ...payload.rows};
+          localStorage.setItem(storageKey, JSON.stringify(saved));
+        }
+        diskSaveAvailable = true;
+      } catch (_error) {
+        diskSaveAvailable = false;
+      }
+    }
+
+    function scheduleDiskSave() {
+      if (!diskSaveAvailable) return;
+      clearTimeout(saveTimer);
+      saveTimer = setTimeout(saveDiskAutosave, 450);
+    }
+
+    async function saveDiskAutosave() {
+      if (!diskSaveAvailable) return;
+      try {
+        const response = await fetch(autosaveEndpoint, {
+          method: "POST",
+          headers: {"Content-Type": "application/json"},
+          body: JSON.stringify({saved_at: new Date().toISOString(), rows: saved})
+        });
+        if (!response.ok) throw new Error("autosave failed");
+        statusLine.textContent = `Saved to disk ${new Date().toLocaleTimeString()}`;
+      } catch (_error) {
+        diskSaveAvailable = false;
+        statusLine.textContent = "Disk autosave unavailable; browser backup is still active.";
+      }
     }
 
     function setPage(page) {
@@ -506,7 +549,7 @@ def write_html() -> None:
       rowsEl.innerHTML = "";
       const visible = data.rows.filter(matches);
       visible.forEach(row => rowsEl.append(renderRow(row)));
-      statusLine.textContent = `${visible.length} of ${data.rows.length} rows shown. Edits save in this browser automatically. Use Export JSON for a durable handoff.`;
+      statusLine.textContent = `${visible.length} of ${data.rows.length} rows shown. Edits autosave to disk when opened through the review server; browser backup is also active.`;
       if (visible[0]) setPage(visible[0].source_page);
     }
 
@@ -554,7 +597,7 @@ def write_html() -> None:
       keyboard.append(btn);
     });
 
-    renderRows();
+    loadDiskAutosave().then(renderRows);
   </script>
 </body>
 </html>
