@@ -383,6 +383,9 @@ def copy_assets() -> None:
 
 
 def witness_asset(row_no: int, suffix: str) -> str | None:
+    versioned_webp_name = f"row{row_no:02d}_{suffix}_v2.webp"
+    if (TEXT_DIR / "assets" / versioned_webp_name).exists():
+        return f"assets/{versioned_webp_name}"
     webp_name = f"row{row_no:02d}_{suffix}.webp"
     jpg_name = f"row{row_no:02d}_{suffix}.jpg"
     if (TEXT_DIR / "assets" / webp_name).exists():
