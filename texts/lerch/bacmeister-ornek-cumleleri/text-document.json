@@ -40,7 +40,7 @@
     "lines": 44,
     "source_lines": 44,
     "reading_units": 44,
-    "tokens": 0
+    "tokens": 215
   },
   "witnesses": [
     {
@@ -654,11 +654,12 @@
           "display_gloss": "God",
           "morphemes": [
             {
-              "form": "Aláh",
+              "form": "Alah",
               "normalized": "Alah",
               "gloss": "God",
+              "display_gloss": "God",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -669,11 +670,12 @@
           "display_gloss": "NEG",
           "morphemes": [
             {
-              "form": "ńe",
+              "form": "nyê",
               "normalized": "nyê",
               "gloss": "NEG",
+              "display_gloss": "NEG",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -684,11 +686,28 @@
           "display_gloss": "die",
           "morphemes": [
             {
-              "form": "merén’u",
-              "normalized": "mêrênû",
+              "form": "mêr",
+              "normalized": "mêr",
               "gloss": "die",
+              "display_gloss": "die",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -759,11 +778,12 @@
           "display_gloss": "person",
           "morphemes": [
             {
-              "form": "Mē̱rdṳ́m",
+              "form": "Merdüm",
               "normalized": "Merdüm",
               "gloss": "person",
+              "display_gloss": "person",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -774,11 +794,12 @@
           "display_gloss": "life",
           "morphemes": [
             {
-              "form": "é̱meri",
+              "form": "emêri",
               "normalized": "emêri",
               "gloss": "life",
+              "display_gloss": "life",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -789,11 +810,12 @@
           "display_gloss": "3SG.OBL",
           "morphemes": [
             {
-              "form": "yai",
+              "form": "yay",
               "normalized": "yay",
               "gloss": "3SG.OBL",
+              "display_gloss": "3SG.OBL",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -804,11 +826,20 @@
           "display_gloss": "short",
           "morphemes": [
             {
-              "form": "qílmu",
-              "normalized": "qilmû",
+              "form": "qilm",
+              "normalized": "qilm",
               "gloss": "short",
+              "display_gloss": "short",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "ADJ.M/COP.3SG.M",
+              "display_gloss": "ADJ.M/COP.3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -879,11 +910,12 @@
           "display_gloss": "mother",
           "morphemes": [
             {
-              "form": "Daíke",
+              "form": "Daykê",
               "normalized": "Daykê",
               "gloss": "mother",
+              "display_gloss": "mother",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -894,11 +926,12 @@
           "display_gloss": "children",
           "morphemes": [
             {
-              "form": "eílāne",
+              "form": "êylanê",
               "normalized": "êylanê",
               "gloss": "children",
+              "display_gloss": "children",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -909,11 +942,12 @@
           "display_gloss": "children",
           "morphemes": [
             {
-              "form": "eílekāni",
+              "form": "êylêkani",
               "normalized": "êylêkani",
               "gloss": "children",
+              "display_gloss": "children",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "prefix_punct": "(",
@@ -926,11 +960,12 @@
           "display_gloss": "self/her",
           "morphemes": [
             {
-              "form": "χóe",
+              "form": "xoê",
               "normalized": "xoê",
               "gloss": "self/her",
+              "display_gloss": "self/her",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -941,11 +976,12 @@
           "display_gloss": "very",
           "morphemes": [
             {
-              "form": "zāf",
+              "form": "zaf",
               "normalized": "zaf",
               "gloss": "very",
+              "display_gloss": "very",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -956,11 +992,28 @@
           "display_gloss": "love",
           "morphemes": [
             {
-              "form": "sinén’a",
-              "normalized": "sinêna",
+              "form": "sin",
+              "normalized": "sin",
               "gloss": "love",
+              "display_gloss": "love",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "3SG.F",
+              "display_gloss": "3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -1031,11 +1084,12 @@
           "display_gloss": "breasts",
           "morphemes": [
             {
-              "form": "T̮íd̮e̱",
+              "form": "Çice",
               "normalized": "Çice",
               "gloss": "breasts",
+              "display_gloss": "breasts",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1046,11 +1100,12 @@
           "display_gloss": "3SG.OBL",
           "morphemes": [
             {
-              "form": "yai",
+              "form": "yay",
               "normalized": "yay",
               "gloss": "3SG.OBL",
+              "display_gloss": "3SG.OBL",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1061,11 +1116,12 @@
           "display_gloss": "very",
           "morphemes": [
             {
-              "form": "zāf",
+              "form": "zaf",
               "normalized": "zaf",
               "gloss": "very",
+              "display_gloss": "very",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1076,11 +1132,12 @@
           "display_gloss": "milk",
           "morphemes": [
             {
-              "form": "šid",
+              "form": "şid",
               "normalized": "şid",
               "gloss": "milk",
+              "display_gloss": "milk",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1091,11 +1148,20 @@
           "display_gloss": "exist",
           "morphemes": [
             {
-              "form": "é̱stu",
-              "normalized": "estû",
+              "form": "est",
+              "normalized": "est",
               "gloss": "exist",
+              "display_gloss": "exist",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -1162,11 +1228,12 @@
           "display_gloss": "husband",
           "morphemes": [
             {
-              "form": "Myẹ̄́rde",
+              "form": "Myêrdê",
               "normalized": "Myêrdê",
               "gloss": "husband",
+              "display_gloss": "husband",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1177,11 +1244,12 @@
           "display_gloss": "3SG.OBL",
           "morphemes": [
             {
-              "form": "yai",
+              "form": "yay",
               "normalized": "yay",
               "gloss": "3SG.OBL",
+              "display_gloss": "3SG.OBL",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1192,11 +1260,12 @@
           "display_gloss": "love",
           "morphemes": [
             {
-              "form": "h̔as",
+              "form": "'has",
               "normalized": "'has",
               "gloss": "love",
+              "display_gloss": "love",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1207,11 +1276,28 @@
           "display_gloss": "do",
           "morphemes": [
             {
-              "form": "kén’u",
-              "normalized": "kênû",
+              "form": "k",
+              "normalized": "k",
               "gloss": "do",
+              "display_gloss": "do",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -1282,11 +1368,12 @@
           "display_gloss": "that",
           "morphemes": [
             {
-              "form": "Ā́ya",
+              "form": "Aya",
               "normalized": "Aya",
               "gloss": "that",
+              "display_gloss": "that",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1297,11 +1384,28 @@
           "display_gloss": "woman",
           "morphemes": [
             {
-              "form": "d̮éni",
-              "normalized": "cêni",
+              "form": "c",
+              "normalized": "c",
               "gloss": "woman",
+              "display_gloss": "woman",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "1PL/3PL",
+              "display_gloss": "1PL/3PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1312,11 +1416,12 @@
           "display_gloss": "pregnant",
           "morphemes": [
             {
-              "form": "hé̱mle̱ya",
+              "form": "hemleya",
               "normalized": "hemleya",
               "gloss": "pregnant",
+              "display_gloss": "pregnant",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -1383,11 +1488,12 @@
           "display_gloss": "six",
           "morphemes": [
             {
-              "form": "Še̱š",
+              "form": "Şeş",
               "normalized": "Şeş",
               "gloss": "six",
+              "display_gloss": "six",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1398,11 +1504,12 @@
           "display_gloss": "day",
           "morphemes": [
             {
-              "form": "rṓd̮e",
+              "form": "rocê",
               "normalized": "rocê",
               "gloss": "day",
+              "display_gloss": "day",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1413,11 +1520,12 @@
           "display_gloss": "one",
           "morphemes": [
             {
-              "form": "yau",
+              "form": "yaw",
               "normalized": "yaw",
               "gloss": "one",
+              "display_gloss": "one",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1428,11 +1536,12 @@
           "display_gloss": "son",
           "morphemes": [
             {
-              "form": "lād̮",
+              "form": "lac",
               "normalized": "lac",
               "gloss": "son",
+              "display_gloss": "son",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1443,11 +1552,12 @@
           "display_gloss": "bore",
           "morphemes": [
             {
-              "form": "ārd",
+              "form": "ard",
               "normalized": "ard",
               "gloss": "bore",
+              "display_gloss": "bore",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -1514,11 +1624,12 @@
           "display_gloss": "still",
           "morphemes": [
             {
-              "form": "Dáh̔a",
+              "form": "Da'ha",
               "normalized": "Da'ha",
               "gloss": "still",
+              "display_gloss": "still",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1529,11 +1640,12 @@
           "display_gloss": "NEG",
           "morphemes": [
             {
-              "form": "ńe",
+              "form": "nyê",
               "normalized": "nyê",
               "gloss": "NEG",
+              "display_gloss": "NEG",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1544,11 +1656,20 @@
           "display_gloss": "healthy",
           "morphemes": [
             {
-              "form": "wé̱ša",
-              "normalized": "weşa",
+              "form": "weş",
+              "normalized": "weş",
               "gloss": "healthy",
+              "display_gloss": "healthy",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "ADJ.F",
+              "display_gloss": "ADJ.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -1619,11 +1740,12 @@
           "display_gloss": "daughter",
           "morphemes": [
             {
-              "form": "Keína",
+              "form": "Kêyna",
               "normalized": "Kêyna",
               "gloss": "daughter",
+              "display_gloss": "daughter",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1634,11 +1756,12 @@
           "display_gloss": "3SG.OBL",
           "morphemes": [
             {
-              "form": "yai",
+              "form": "yay",
               "normalized": "yay",
               "gloss": "3SG.OBL",
+              "display_gloss": "3SG.OBL",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1649,11 +1772,12 @@
           "display_gloss": "beside",
           "morphemes": [
             {
-              "form": "h̔e̱t",
+              "form": "'het",
               "normalized": "'het",
               "gloss": "beside",
+              "display_gloss": "beside",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1664,11 +1788,20 @@
           "display_gloss": "sitting",
           "morphemes": [
             {
-              "form": "rúeništa",
-              "normalized": "rwênişta",
-              "gloss": "sitting",
+              "form": "rwênişt",
+              "normalized": "rwênişt",
+              "gloss": "sit",
+              "display_gloss": "sit",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "PTCP.F",
+              "display_gloss": "PTCP.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1679,11 +1812,28 @@
           "display_gloss": "cry",
           "morphemes": [
             {
-              "form": "bermén’a",
-              "normalized": "bêrmêna",
+              "form": "bêrm",
+              "normalized": "bêrm",
               "gloss": "cry",
+              "display_gloss": "cry",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "3SG.F",
+              "display_gloss": "3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -1750,11 +1900,12 @@
           "display_gloss": "child",
           "morphemes": [
             {
-              "form": "Lā́d̮e",
+              "form": "Lacê",
               "normalized": "Lacê",
               "gloss": "child",
+              "display_gloss": "child",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1765,11 +1916,12 @@
           "display_gloss": "breast",
           "morphemes": [
             {
-              "form": "t̮íd̮e",
+              "form": "çicê",
               "normalized": "çicê",
               "gloss": "breast",
+              "display_gloss": "breast",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1780,11 +1932,12 @@
           "display_gloss": "NEG",
           "morphemes": [
             {
-              "form": "ńe",
+              "form": "nyê",
               "normalized": "nyê",
               "gloss": "NEG",
+              "display_gloss": "NEG",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1795,11 +1948,28 @@
           "display_gloss": "want",
           "morphemes": [
             {
-              "form": "wén’u",
-              "normalized": "wênû",
+              "form": "w",
+              "normalized": "w",
               "gloss": "want",
+              "display_gloss": "want",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -1866,11 +2036,12 @@
           "display_gloss": "girl",
           "morphemes": [
             {
-              "form": "Keína",
+              "form": "Kêyna",
               "normalized": "Kêyna",
               "gloss": "girl",
+              "display_gloss": "girl",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1881,11 +2052,12 @@
           "display_gloss": "still",
           "morphemes": [
             {
-              "form": "hé̱m’a",
+              "form": "hema",
               "normalized": "hema",
               "gloss": "still",
+              "display_gloss": "still",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1896,11 +2068,12 @@
           "display_gloss": "foot",
           "morphemes": [
             {
-              "form": "pai",
+              "form": "pay",
               "normalized": "pay",
               "gloss": "foot",
+              "display_gloss": "foot",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1911,11 +2084,12 @@
           "display_gloss": "NEG",
           "morphemes": [
             {
-              "form": "ńe",
+              "form": "nyê",
               "normalized": "nyê",
               "gloss": "NEG",
+              "display_gloss": "NEG",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -1926,11 +2100,28 @@
           "display_gloss": "walk",
           "morphemes": [
             {
-              "form": "šuén’a",
-              "normalized": "şwêna",
+              "form": "şw",
+              "normalized": "şw",
               "gloss": "walk",
+              "display_gloss": "walk",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "3SG.F",
+              "display_gloss": "3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -1997,11 +2188,12 @@
           "display_gloss": "one",
           "morphemes": [
             {
-              "form": "Yau",
+              "form": "Yaw",
               "normalized": "Yaw",
               "gloss": "one",
+              "display_gloss": "one",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2012,11 +2204,12 @@
           "display_gloss": "year",
           "morphemes": [
             {
-              "form": "sé̱re",
+              "form": "serê",
               "normalized": "serê",
               "gloss": "year",
+              "display_gloss": "year",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2027,11 +2220,12 @@
           "display_gloss": "two",
           "morphemes": [
             {
-              "form": "di̥",
+              "form": "dı",
               "normalized": "dı",
               "gloss": "two",
+              "display_gloss": "two",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2042,11 +2236,12 @@
           "display_gloss": "month",
           "morphemes": [
             {
-              "form": "ā́šme",
+              "form": "aşmê",
               "normalized": "aşmê",
               "gloss": "month",
+              "display_gloss": "month",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2057,11 +2252,20 @@
           "display_gloss": "was born",
           "morphemes": [
             {
-              "form": "bía",
-              "normalized": "bya",
-              "gloss": "was born",
+              "form": "by",
+              "normalized": "by",
+              "gloss": "be.born",
+              "display_gloss": "be.born",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "PST.3SG.F",
+              "display_gloss": "PST.3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -2128,11 +2332,12 @@
           "display_gloss": "these",
           "morphemes": [
             {
-              "form": "Ḗ̱n’ie",
+              "form": "Enyê",
               "normalized": "Enyê",
               "gloss": "these",
+              "display_gloss": "these",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2143,11 +2348,12 @@
           "display_gloss": "four",
           "morphemes": [
             {
-              "form": "t̮ehér",
+              "form": "çêhêr",
               "normalized": "çêhêr",
               "gloss": "four",
+              "display_gloss": "four",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2158,11 +2364,12 @@
           "display_gloss": "all",
           "morphemes": [
             {
-              "form": "hé̱m’e",
+              "form": "hemê",
               "normalized": "hemê",
               "gloss": "all",
+              "display_gloss": "all",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2173,11 +2380,12 @@
           "display_gloss": "boys",
           "morphemes": [
             {
-              "form": "lā́d̮i",
+              "form": "laci",
               "normalized": "laci",
               "gloss": "boys",
+              "display_gloss": "boys",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2188,11 +2396,20 @@
           "display_gloss": "healthy",
           "morphemes": [
             {
-              "form": "wé̱ši",
-              "normalized": "weşi",
+              "form": "weş",
+              "normalized": "weş",
               "gloss": "healthy",
+              "display_gloss": "healthy",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "PL",
+              "display_gloss": "PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -2263,11 +2480,12 @@
           "display_gloss": "one",
           "morphemes": [
             {
-              "form": "Yau",
+              "form": "Yaw",
               "normalized": "Yaw",
               "gloss": "one",
+              "display_gloss": "one",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2278,11 +2496,12 @@
           "display_gloss": "first",
           "morphemes": [
             {
-              "form": "ve̱rī́e",
+              "form": "veryê",
               "normalized": "veryê",
               "gloss": "first",
+              "display_gloss": "first",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2293,11 +2512,12 @@
           "display_gloss": "run",
           "morphemes": [
             {
-              "form": "vāz",
+              "form": "vaz",
               "normalized": "vaz",
               "gloss": "run",
+              "display_gloss": "run",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2308,11 +2528,28 @@
           "display_gloss": "do",
           "morphemes": [
             {
-              "form": "dāmu",
-              "normalized": "damû",
+              "form": "da",
+              "normalized": "da",
               "gloss": "do",
+              "display_gloss": "do",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "m",
+              "normalized": "m",
+              "gloss": "MID?",
+              "display_gloss": "MID?",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": ","
@@ -2324,11 +2561,12 @@
           "display_gloss": "that",
           "morphemes": [
             {
-              "form": "aúe",
+              "form": "awê",
               "normalized": "awê",
               "gloss": "that",
+              "display_gloss": "that",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2339,11 +2577,12 @@
           "display_gloss": "second",
           "morphemes": [
             {
-              "form": "díene",
+              "form": "dyênê",
               "normalized": "dyênê",
               "gloss": "second",
+              "display_gloss": "second",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2354,11 +2593,28 @@
           "display_gloss": "jump",
           "morphemes": [
             {
-              "form": "perén’u",
-              "normalized": "pêrênû",
+              "form": "pêr",
+              "normalized": "pêr",
               "gloss": "jump",
+              "display_gloss": "jump",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2369,11 +2625,12 @@
           "display_gloss": "dance",
           "morphemes": [
             {
-              "form": "kai",
+              "form": "kay",
               "normalized": "kay",
               "gloss": "dance",
+              "display_gloss": "dance",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "prefix_punct": "("
@@ -2385,11 +2642,28 @@
           "display_gloss": "do",
           "morphemes": [
             {
-              "form": "kén’u",
-              "normalized": "kênû",
+              "form": "k",
+              "normalized": "k",
               "gloss": "do",
+              "display_gloss": "do",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "),"
@@ -2401,11 +2675,12 @@
           "display_gloss": "that",
           "morphemes": [
             {
-              "form": "aúe",
+              "form": "awê",
               "normalized": "awê",
               "gloss": "that",
+              "display_gloss": "that",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2416,11 +2691,12 @@
           "display_gloss": "third",
           "morphemes": [
             {
-              "form": "h̔irī́ne",
+              "form": "'hirinê",
               "normalized": "'hirinê",
               "gloss": "third",
+              "display_gloss": "third",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2431,11 +2707,12 @@
           "display_gloss": "song",
           "morphemes": [
             {
-              "form": "lauk",
+              "form": "lawk",
               "normalized": "lawk",
               "gloss": "song",
+              "display_gloss": "song",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2446,11 +2723,20 @@
           "display_gloss": "say/sing",
           "morphemes": [
             {
-              "form": "vā́nu",
-              "normalized": "vanû",
+              "form": "van",
+              "normalized": "van",
               "gloss": "say/sing",
+              "display_gloss": "say/sing",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": ","
@@ -2462,11 +2748,12 @@
           "display_gloss": "that",
           "morphemes": [
             {
-              "form": "aúe",
+              "form": "awê",
               "normalized": "awê",
               "gloss": "that",
+              "display_gloss": "that",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2477,11 +2764,12 @@
           "display_gloss": "fourth",
           "morphemes": [
             {
-              "form": "t̮eherī́ne",
+              "form": "çêhêrinê",
               "normalized": "çêhêrinê",
               "gloss": "fourth",
+              "display_gloss": "fourth",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2492,11 +2780,28 @@
           "display_gloss": "laugh",
           "morphemes": [
             {
-              "form": "h̔o̤wén’u",
-              "normalized": "'howênû",
+              "form": "'how",
+              "normalized": "'how",
               "gloss": "laugh",
+              "display_gloss": "laugh",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -2563,11 +2868,12 @@
           "display_gloss": "this",
           "morphemes": [
             {
-              "form": "Ḗ̱n’oe",
+              "form": "Enoê",
               "normalized": "Enoê",
               "gloss": "this",
+              "display_gloss": "this",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2578,11 +2884,12 @@
           "display_gloss": "person",
           "morphemes": [
             {
-              "form": "me̱rdúm",
+              "form": "merdûm",
               "normalized": "merdûm",
               "gloss": "person",
+              "display_gloss": "person",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2593,11 +2900,12 @@
           "display_gloss": "eye",
           "morphemes": [
             {
-              "form": "t̮i̥mi",
+              "form": "çımi",
               "normalized": "çımi",
               "gloss": "eye",
+              "display_gloss": "eye",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2608,11 +2916,12 @@
           "display_gloss": "3SG.OBL",
           "morphemes": [
             {
-              "form": "yai",
+              "form": "yay",
               "normalized": "yay",
               "gloss": "3SG.OBL",
+              "display_gloss": "3SG.OBL",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2623,11 +2932,12 @@
           "display_gloss": "3SG.OBL",
           "morphemes": [
             {
-              "form": "d̮ai",
+              "form": "cay",
               "normalized": "cay",
               "gloss": "3SG.OBL",
+              "display_gloss": "3SG.OBL",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "prefix_punct": "(",
@@ -2640,11 +2950,20 @@
           "display_gloss": "blind",
           "morphemes": [
             {
-              "form": "kṓri",
-              "normalized": "kori",
+              "form": "kor",
+              "normalized": "kor",
               "gloss": "blind",
+              "display_gloss": "blind",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "ADJ.PL/COP.PL",
+              "display_gloss": "ADJ.PL/COP.PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -2711,11 +3030,12 @@
           "display_gloss": "wife",
           "morphemes": [
             {
-              "form": "D̮éniai",
+              "form": "Cênyay",
               "normalized": "Cênyay",
               "gloss": "wife",
+              "display_gloss": "wife",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2726,11 +3046,12 @@
           "display_gloss": "3SG.OBL",
           "morphemes": [
             {
-              "form": "yai",
+              "form": "yay",
               "normalized": "yay",
               "gloss": "3SG.OBL",
+              "display_gloss": "3SG.OBL",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2741,11 +3062,12 @@
           "display_gloss": "3SG.OBL",
           "morphemes": [
             {
-              "form": "d̮ai",
+              "form": "cay",
               "normalized": "cay",
               "gloss": "3SG.OBL",
+              "display_gloss": "3SG.OBL",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "prefix_punct": "(",
@@ -2758,11 +3080,20 @@
           "display_gloss": "deaf",
           "morphemes": [
             {
-              "form": "ké̱ra",
-              "normalized": "kera",
+              "form": "ker",
+              "normalized": "ker",
               "gloss": "deaf",
+              "display_gloss": "deaf",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "ADJ.F/COP.3SG.F",
+              "display_gloss": "ADJ.F/COP.3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -2833,11 +3164,12 @@
           "display_gloss": "voice",
           "morphemes": [
             {
-              "form": "Vé̱ngi",
+              "form": "Vengi",
               "normalized": "Vengi",
               "gloss": "voice",
+              "display_gloss": "voice",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2848,11 +3180,12 @@
           "display_gloss": "our",
           "morphemes": [
             {
-              "form": "me̱",
+              "form": "me",
               "normalized": "me",
               "gloss": "our",
+              "display_gloss": "our",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2863,11 +3196,12 @@
           "display_gloss": "that",
           "morphemes": [
             {
-              "form": "Sé̱ki",
+              "form": "Seki",
               "normalized": "Seki",
               "gloss": "that",
+              "display_gloss": "that",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "prefix_punct": "("
@@ -2882,8 +3216,9 @@
               "form": "ma",
               "normalized": "ma",
               "gloss": "we",
+              "display_gloss": "we",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2894,11 +3229,12 @@
           "display_gloss": "said",
           "morphemes": [
             {
-              "form": "vā́d̮i",
+              "form": "vaci",
               "normalized": "vaci",
               "gloss": "said",
+              "display_gloss": "said",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": ")"
@@ -2910,11 +3246,20 @@
           "display_gloss": "NEG",
           "morphemes": [
             {
-              "form": "ńéšna",
-              "normalized": "nyêşna",
+              "form": "nyê",
+              "normalized": "nyê",
               "gloss": "NEG",
+              "display_gloss": "NEG",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "şna",
+              "normalized": "şna",
+              "gloss": "can/know?",
+              "display_gloss": "can/know?",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -2925,11 +3270,28 @@
           "display_gloss": "hear",
           "morphemes": [
             {
-              "form": "wén’a",
-              "normalized": "wêna",
+              "form": "w",
+              "normalized": "w",
               "gloss": "hear",
+              "display_gloss": "hear",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "3SG.F",
+              "display_gloss": "3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -2996,11 +3358,12 @@
           "display_gloss": "brother",
           "morphemes": [
             {
-              "form": "Beraí",
+              "form": "Bêray",
               "normalized": "Bêray",
               "gloss": "brother",
+              "display_gloss": "brother",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3011,11 +3374,12 @@
           "display_gloss": "2SG.OBL",
           "morphemes": [
             {
-              "form": "tú’e",
+              "form": "tûê",
               "normalized": "tûê",
               "gloss": "2SG.OBL",
+              "display_gloss": "2SG.OBL",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3026,11 +3390,12 @@
           "display_gloss": "sneeze",
           "morphemes": [
             {
-              "form": "pṳ́reš",
+              "form": "pürêş",
               "normalized": "pürêş",
               "gloss": "sneeze",
+              "display_gloss": "sneeze",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3041,11 +3406,28 @@
           "display_gloss": "come",
           "morphemes": [
             {
-              "form": "neiyén’u",
-              "normalized": "nêyênû",
+              "form": "nêy",
+              "normalized": "nêy",
               "gloss": "come",
+              "display_gloss": "come",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -3112,11 +3494,12 @@
           "display_gloss": "sister",
           "morphemes": [
             {
-              "form": "Wai",
+              "form": "Way",
               "normalized": "Way",
               "gloss": "sister",
+              "display_gloss": "sister",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3127,11 +3510,12 @@
           "display_gloss": "2SG.OBL",
           "morphemes": [
             {
-              "form": "tú’e",
+              "form": "tûê",
               "normalized": "tûê",
               "gloss": "2SG.OBL",
+              "display_gloss": "2SG.OBL",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3142,11 +3526,12 @@
           "display_gloss": "sleep",
           "morphemes": [
             {
-              "form": "rā",
+              "form": "ra",
               "normalized": "ra",
               "gloss": "sleep",
+              "display_gloss": "sleep",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3157,11 +3542,20 @@
           "display_gloss": "fell",
           "morphemes": [
             {
-              "form": "kaúta",
-              "normalized": "kawta",
-              "gloss": "fell",
+              "form": "kawt",
+              "normalized": "kawt",
+              "gloss": "fall",
+              "display_gloss": "fall",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "PST.3SG.F",
+              "display_gloss": "PST.3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -3228,11 +3622,12 @@
           "display_gloss": "father",
           "morphemes": [
             {
-              "form": "Baúki",
+              "form": "Bawki",
               "normalized": "Bawki",
               "gloss": "father",
+              "display_gloss": "father",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3243,11 +3638,12 @@
           "display_gloss": "2PL.OBL",
           "morphemes": [
             {
-              "form": "ši̥má",
+              "form": "şıma",
               "normalized": "şıma",
               "gloss": "2PL.OBL",
+              "display_gloss": "2PL.OBL",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3258,11 +3654,12 @@
           "display_gloss": "awake",
           "morphemes": [
             {
-              "form": "h̔ayaú",
+              "form": "'hayaw",
               "normalized": "'hayaw",
               "gloss": "awake",
+              "display_gloss": "awake",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3273,11 +3670,20 @@
           "display_gloss": "sitting",
           "morphemes": [
             {
-              "form": "rú’eništu",
-              "normalized": "rûêniştû",
-              "gloss": "sitting",
+              "form": "rûênişt",
+              "normalized": "rûênişt",
+              "gloss": "sit",
+              "display_gloss": "sit",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "PTCP.M",
+              "display_gloss": "PTCP.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -3344,11 +3750,12 @@
           "display_gloss": "little",
           "morphemes": [
             {
-              "form": "Tā́neki",
+              "form": "Tanêki",
               "normalized": "Tanêki",
               "gloss": "little",
+              "display_gloss": "little",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3359,11 +3766,28 @@
           "display_gloss": "eat/drink",
           "morphemes": [
             {
-              "form": "wén’u",
-              "normalized": "wênû",
+              "form": "w",
+              "normalized": "w",
               "gloss": "eat/drink",
+              "display_gloss": "eat/drink",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -3430,11 +3854,12 @@
           "display_gloss": "nose",
           "morphemes": [
             {
-              "form": "Ziṅd̮",
+              "form": "Zingc",
               "normalized": "Zingc",
               "gloss": "nose",
+              "display_gloss": "nose",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3445,11 +3870,12 @@
           "display_gloss": "is",
           "morphemes": [
             {
-              "form": "h̔a",
+              "form": "'ha",
               "normalized": "'ha",
               "gloss": "is",
+              "display_gloss": "is",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3460,11 +3886,12 @@
           "display_gloss": "middle",
           "morphemes": [
             {
-              "form": "myā́ne",
+              "form": "myanê",
               "normalized": "myanê",
               "gloss": "middle",
+              "display_gloss": "middle",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3475,11 +3902,20 @@
           "display_gloss": "face-in",
           "morphemes": [
             {
-              "form": "súrotide",
-              "normalized": "sûrotidê",
-              "gloss": "face-in",
+              "form": "sûroti",
+              "normalized": "sûroti",
+              "gloss": "face",
+              "display_gloss": "face",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "dê",
+              "normalized": "dê",
+              "gloss": "LOC",
+              "display_gloss": "LOC",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -3546,11 +3982,12 @@
           "display_gloss": "two",
           "morphemes": [
             {
-              "form": "Di̥",
+              "form": "Dı",
               "normalized": "Dı",
               "gloss": "two",
+              "display_gloss": "two",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3561,11 +3998,12 @@
           "display_gloss": "feet",
           "morphemes": [
             {
-              "form": "língi",
+              "form": "lingi",
               "normalized": "lingi",
               "gloss": "feet",
+              "display_gloss": "feet",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3576,11 +4014,12 @@
           "display_gloss": "we",
           "morphemes": [
             {
-              "form": "mā",
+              "form": "ma",
               "normalized": "ma",
               "gloss": "we",
+              "display_gloss": "we",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3591,11 +4030,20 @@
           "display_gloss": "exist",
           "morphemes": [
             {
-              "form": "é̱sti",
-              "normalized": "esti",
+              "form": "est",
+              "normalized": "est",
               "gloss": "exist",
+              "display_gloss": "exist",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "PL",
+              "display_gloss": "PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": ","
@@ -3607,11 +4055,12 @@
           "display_gloss": "each",
           "morphemes": [
             {
-              "form": "hérgu",
+              "form": "hêrgû",
               "normalized": "hêrgû",
               "gloss": "each",
+              "display_gloss": "each",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3622,11 +4071,12 @@
           "display_gloss": "hand",
           "morphemes": [
             {
-              "form": "dé̱sti",
+              "form": "desti",
               "normalized": "desti",
               "gloss": "hand",
+              "display_gloss": "hand",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3637,11 +4087,20 @@
           "display_gloss": "our-in",
           "morphemes": [
             {
-              "form": "mā́de",
-              "normalized": "madê",
-              "gloss": "our-in",
+              "form": "ma",
+              "normalized": "ma",
+              "gloss": "our",
+              "display_gloss": "our",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "dê",
+              "normalized": "dê",
+              "gloss": "LOC",
+              "display_gloss": "LOC",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3652,11 +4111,12 @@
           "display_gloss": "five",
           "morphemes": [
             {
-              "form": "pāṅd̮",
+              "form": "pangc",
               "normalized": "pangc",
               "gloss": "five",
+              "display_gloss": "five",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3667,11 +4127,12 @@
           "display_gloss": "fingers",
           "morphemes": [
             {
-              "form": "ingíšti",
+              "form": "ingişti",
               "normalized": "ingişti",
               "gloss": "fingers",
+              "display_gloss": "fingers",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3682,11 +4143,20 @@
           "display_gloss": "exist",
           "morphemes": [
             {
-              "form": "é̱sti",
-              "normalized": "esti",
+              "form": "est",
+              "normalized": "est",
               "gloss": "exist",
+              "display_gloss": "exist",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "PL",
+              "display_gloss": "PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -3753,11 +4223,12 @@
           "display_gloss": "hair",
           "morphemes": [
             {
-              "form": "Γí̥ži̥k",
+              "form": "Ğıjık",
               "normalized": "Ğıjık",
               "gloss": "hair",
+              "display_gloss": "hair",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3768,11 +4239,20 @@
           "display_gloss": "head-on",
           "morphemes": [
             {
-              "form": "sé̱rede",
-              "normalized": "serêdê",
-              "gloss": "head-on",
+              "form": "serê",
+              "normalized": "serê",
+              "gloss": "head",
+              "display_gloss": "head",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "dê",
+              "normalized": "dê",
+              "gloss": "LOC",
+              "display_gloss": "LOC",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3783,11 +4263,28 @@
           "display_gloss": "come/grow",
           "morphemes": [
             {
-              "form": "yén’u",
-              "normalized": "yênû",
+              "form": "y",
+              "normalized": "y",
               "gloss": "come/grow",
+              "display_gloss": "come/grow",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -3854,11 +4351,12 @@
           "display_gloss": "teeth",
           "morphemes": [
             {
-              "form": "Dendā́ni",
+              "form": "Dêndani",
               "normalized": "Dêndani",
               "gloss": "teeth",
+              "display_gloss": "teeth",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3869,11 +4367,12 @@
           "display_gloss": "tongue",
           "morphemes": [
             {
-              "form": "zuā́ṅ",
+              "form": "zwang",
               "normalized": "zwang",
               "gloss": "tongue",
+              "display_gloss": "tongue",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3884,11 +4383,12 @@
           "display_gloss": "is",
           "morphemes": [
             {
-              "form": "h̔a",
+              "form": "'ha",
               "normalized": "'ha",
               "gloss": "is",
+              "display_gloss": "is",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3899,11 +4399,20 @@
           "display_gloss": "mouth-in",
           "morphemes": [
             {
-              "form": "fé̱kde",
-              "normalized": "fekdê",
-              "gloss": "mouth-in",
+              "form": "fek",
+              "normalized": "fek",
+              "gloss": "mouth",
+              "display_gloss": "mouth",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "dê",
+              "normalized": "dê",
+              "gloss": "LOC",
+              "display_gloss": "LOC",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -3974,11 +4483,20 @@
           "display_gloss": "hand/arm",
           "morphemes": [
             {
-              "form": "Dé̱stu",
-              "normalized": "Destû",
+              "form": "dest",
+              "normalized": "dest",
               "gloss": "hand/arm",
+              "display_gloss": "hand/arm",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "DEF/OBL?",
+              "display_gloss": "DEF/OBL?",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -3989,11 +4507,12 @@
           "display_gloss": "right",
           "morphemes": [
             {
-              "form": "rā́št",
+              "form": "raşt",
               "normalized": "raşt",
               "gloss": "right",
+              "display_gloss": "right",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4004,11 +4523,20 @@
           "display_gloss": "strong",
           "morphemes": [
             {
-              "form": "qóatu",
-              "normalized": "qoatû",
+              "form": "qoat",
+              "normalized": "qoat",
               "gloss": "strong",
+              "display_gloss": "strong",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "ADJ.M/COP.3SG.M",
+              "display_gloss": "ADJ.M/COP.3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4019,11 +4547,12 @@
           "display_gloss": "than",
           "morphemes": [
             {
-              "form": "sei",
+              "form": "sêy",
               "normalized": "sêy",
               "gloss": "than",
+              "display_gloss": "than",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4034,11 +4563,12 @@
           "display_gloss": "hand",
           "morphemes": [
             {
-              "form": "dé̱sti",
+              "form": "desti",
               "normalized": "desti",
               "gloss": "hand",
+              "display_gloss": "hand",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4049,11 +4579,12 @@
           "display_gloss": "left",
           "morphemes": [
             {
-              "form": "t̮é̱pi",
+              "form": "çepi",
               "normalized": "çepi",
               "gloss": "left",
+              "display_gloss": "left",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -4120,11 +4651,12 @@
           "display_gloss": "one",
           "morphemes": [
             {
-              "form": "Yau",
+              "form": "Yaw",
               "normalized": "Yaw",
               "gloss": "one",
+              "display_gloss": "one",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4135,11 +4667,12 @@
           "display_gloss": "hair",
           "morphemes": [
             {
-              "form": "múye",
+              "form": "mûyê",
               "normalized": "mûyê",
               "gloss": "hair",
+              "display_gloss": "hair",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4150,11 +4683,20 @@
           "display_gloss": "long",
           "morphemes": [
             {
-              "form": "dé̱rga",
-              "normalized": "derga",
+              "form": "derg",
+              "normalized": "derg",
               "gloss": "long",
+              "display_gloss": "long",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "ADJ.F/COP.3SG.F",
+              "display_gloss": "ADJ.F/COP.3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4165,11 +4707,20 @@
           "display_gloss": "thin",
           "morphemes": [
             {
-              "form": "bāryéka",
-              "normalized": "baryêka",
+              "form": "baryêk",
+              "normalized": "baryêk",
               "gloss": "thin",
+              "display_gloss": "thin",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "ADJ.F/COP.3SG.F",
+              "display_gloss": "ADJ.F/COP.3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -4236,11 +4787,28 @@
           "display_gloss": "blood",
           "morphemes": [
             {
-              "form": "Gṓ’eni",
-              "normalized": "Goêni",
+              "form": "Go",
+              "normalized": "Go",
               "gloss": "blood",
+              "display_gloss": "blood",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "1PL/3PL",
+              "display_gloss": "1PL/3PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4251,11 +4819,20 @@
           "display_gloss": "red",
           "morphemes": [
             {
-              "form": "sū́ra",
-              "normalized": "sûra",
+              "form": "sûr",
+              "normalized": "sûr",
               "gloss": "red",
+              "display_gloss": "red",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "ADJ.F/COP.3SG.F",
+              "display_gloss": "ADJ.F/COP.3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -4322,11 +4899,12 @@
           "display_gloss": "bones",
           "morphemes": [
             {
-              "form": "Éstei",
+              "form": "Êstêy",
               "normalized": "Êstêy",
               "gloss": "bones",
+              "display_gloss": "bones",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4337,11 +4915,12 @@
           "display_gloss": "like",
           "morphemes": [
             {
-              "form": "sei",
+              "form": "sêy",
               "normalized": "sêy",
               "gloss": "like",
+              "display_gloss": "like",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4352,11 +4931,12 @@
           "display_gloss": "stone",
           "morphemes": [
             {
-              "form": "ké̱ri",
+              "form": "keri",
               "normalized": "keri",
               "gloss": "stone",
+              "display_gloss": "stone",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4367,11 +4947,20 @@
           "display_gloss": "hard",
           "morphemes": [
             {
-              "form": "sā́γí",
-              "normalized": "saği",
+              "form": "sağ",
+              "normalized": "sağ",
               "gloss": "hard",
+              "display_gloss": "hard",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "ADJ.PL/COP.PL",
+              "display_gloss": "ADJ.PL/COP.PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -4438,11 +5027,20 @@
           "display_gloss": "fish-in",
           "morphemes": [
             {
-              "form": "Māsé̱de",
-              "normalized": "Masedê",
-              "gloss": "fish-in",
+              "form": "Mase",
+              "normalized": "Mase",
+              "gloss": "fish",
+              "display_gloss": "fish",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "dê",
+              "normalized": "dê",
+              "gloss": "LOC",
+              "display_gloss": "LOC",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4453,11 +5051,12 @@
           "display_gloss": "eyes",
           "morphemes": [
             {
-              "form": "t̮ími",
+              "form": "çimi",
               "normalized": "çimi",
               "gloss": "eyes",
+              "display_gloss": "eyes",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4468,11 +5067,20 @@
           "display_gloss": "exist",
           "morphemes": [
             {
-              "form": "é̱sti",
-              "normalized": "esti",
+              "form": "est",
+              "normalized": "est",
               "gloss": "exist",
+              "display_gloss": "exist",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "PL",
+              "display_gloss": "PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": ","
@@ -4484,11 +5092,12 @@
           "display_gloss": "ears",
           "morphemes": [
             {
-              "form": "gṓšye",
+              "form": "goşyê",
               "normalized": "goşyê",
               "gloss": "ears",
+              "display_gloss": "ears",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4499,11 +5108,20 @@
           "display_gloss": "not-exist",
           "morphemes": [
             {
-              "form": "t̮íni",
-              "normalized": "çini",
-              "gloss": "not-exist",
+              "form": "çin",
+              "normalized": "çin",
+              "gloss": "not.exist",
+              "display_gloss": "not.exist",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "PL",
+              "display_gloss": "PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -4570,11 +5188,12 @@
           "display_gloss": "this",
           "morphemes": [
             {
-              "form": "Ḗ̱n’oe",
+              "form": "Enoê",
               "normalized": "Enoê",
               "gloss": "this",
+              "display_gloss": "this",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4585,11 +5204,12 @@
           "display_gloss": "bird",
           "morphemes": [
             {
-              "form": "teir",
+              "form": "têyr",
               "normalized": "têyr",
               "gloss": "bird",
+              "display_gloss": "bird",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4600,11 +5220,12 @@
           "display_gloss": "slowly",
           "morphemes": [
             {
-              "form": "hyedíki",
+              "form": "hyêdiki",
               "normalized": "hyêdiki",
               "gloss": "slowly",
+              "display_gloss": "slowly",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4615,11 +5236,28 @@
           "display_gloss": "fly",
           "morphemes": [
             {
-              "form": "ferén’u",
-              "normalized": "fêrênû",
+              "form": "fêr",
+              "normalized": "fêr",
               "gloss": "fly",
+              "display_gloss": "fly",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -4686,11 +5324,28 @@
           "display_gloss": "descend",
           "morphemes": [
             {
-              "form": "Nišén’u",
-              "normalized": "Nişênû",
+              "form": "Niş",
+              "normalized": "Niş",
               "gloss": "descend",
+              "display_gloss": "descend",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4701,11 +5356,20 @@
           "display_gloss": "ground-to",
           "morphemes": [
             {
-              "form": "ā́rdda",
-              "normalized": "ardda",
-              "gloss": "ground-to",
+              "form": "ard",
+              "normalized": "ard",
+              "gloss": "ground",
+              "display_gloss": "ground",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "da",
+              "normalized": "da",
+              "gloss": "ALL",
+              "display_gloss": "ALL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -4772,11 +5436,12 @@
           "display_gloss": "wings",
           "morphemes": [
             {
-              "form": "Pé̱li",
+              "form": "Peli",
               "normalized": "Peli",
               "gloss": "wings",
+              "display_gloss": "wings",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4787,11 +5452,20 @@
           "display_gloss": "bird-in",
           "morphemes": [
             {
-              "form": "teíride",
-              "normalized": "têyridê",
-              "gloss": "bird-in",
+              "form": "têyri",
+              "normalized": "têyri",
+              "gloss": "bird",
+              "display_gloss": "bird",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "dê",
+              "normalized": "dê",
+              "gloss": "LOC",
+              "display_gloss": "LOC",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4802,11 +5476,12 @@
           "display_gloss": "hairs/feathers",
           "morphemes": [
             {
-              "form": "mú’i",
+              "form": "mûi",
               "normalized": "mûi",
               "gloss": "hairs/feathers",
+              "display_gloss": "hairs/feathers",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4817,11 +5492,12 @@
           "display_gloss": "black",
           "morphemes": [
             {
-              "form": "siaí",
+              "form": "syay",
               "normalized": "syay",
               "gloss": "black",
+              "display_gloss": "black",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4832,11 +5508,20 @@
           "display_gloss": "exist",
           "morphemes": [
             {
-              "form": "é̱sti",
-              "normalized": "esti",
+              "form": "est",
+              "normalized": "est",
               "gloss": "exist",
+              "display_gloss": "exist",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "PL",
+              "display_gloss": "PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -4903,11 +5588,20 @@
           "display_gloss": "tree-in",
           "morphemes": [
             {
-              "form": "Dā́rede",
-              "normalized": "Darêdê",
-              "gloss": "tree-in",
+              "form": "Darê",
+              "normalized": "Darê",
+              "gloss": "tree",
+              "display_gloss": "tree",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "dê",
+              "normalized": "dê",
+              "gloss": "LOC",
+              "display_gloss": "LOC",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4918,11 +5612,12 @@
           "display_gloss": "leaves",
           "morphemes": [
             {
-              "form": "vé̱lgō",
+              "form": "velgo",
               "normalized": "velgo",
               "gloss": "leaves",
+              "display_gloss": "leaves",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4933,11 +5628,12 @@
           "display_gloss": "green",
           "morphemes": [
             {
-              "form": "té̱ze",
+              "form": "tezê",
               "normalized": "tezê",
               "gloss": "green",
+              "display_gloss": "green",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": ","
@@ -4949,11 +5645,12 @@
           "display_gloss": "branches",
           "morphemes": [
             {
-              "form": "gíli",
+              "form": "gili",
               "normalized": "gili",
               "gloss": "branches",
+              "display_gloss": "branches",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4964,11 +5661,20 @@
           "display_gloss": "thick",
           "morphemes": [
             {
-              "form": "hi̥šni",
-              "normalized": "hışni",
+              "form": "hışn",
+              "normalized": "hışn",
               "gloss": "thick",
+              "display_gloss": "thick",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "ADJ.PL/COP.PL",
+              "display_gloss": "ADJ.PL/COP.PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -4979,11 +5685,20 @@
           "display_gloss": "exist",
           "morphemes": [
             {
-              "form": "é̱sti",
-              "normalized": "esti",
+              "form": "est",
+              "normalized": "est",
               "gloss": "exist",
+              "display_gloss": "exist",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "PL",
+              "display_gloss": "PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -5054,11 +5769,12 @@
           "display_gloss": "this",
           "morphemes": [
             {
-              "form": "Ē̱no’e",
+              "form": "Enoê",
               "normalized": "Enoê",
               "gloss": "this",
+              "display_gloss": "this",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5069,11 +5785,12 @@
           "display_gloss": "bird",
           "morphemes": [
             {
-              "form": "teir",
+              "form": "têyr",
               "normalized": "têyr",
               "gloss": "bird",
+              "display_gloss": "bird",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5084,11 +5801,12 @@
           "display_gloss": "beak",
           "morphemes": [
             {
-              "form": "nā́kure",
+              "form": "nakûrê",
               "normalized": "nakûrê",
               "gloss": "beak",
+              "display_gloss": "beak",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5099,11 +5817,12 @@
           "display_gloss": "pointed",
           "morphemes": [
             {
-              "form": "bāryék",
+              "form": "baryêk",
               "normalized": "baryêk",
               "gloss": "pointed",
+              "display_gloss": "pointed",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5114,11 +5833,20 @@
           "display_gloss": "exist",
           "morphemes": [
             {
-              "form": "é̱sta",
-              "normalized": "esta",
+              "form": "est",
+              "normalized": "est",
               "gloss": "exist",
+              "display_gloss": "exist",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "3SG.F",
+              "display_gloss": "3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": ","
@@ -5130,11 +5858,12 @@
           "display_gloss": "tail",
           "morphemes": [
             {
-              "form": "bṓ’et̮e",
+              "form": "boêçê",
               "normalized": "boêçê",
               "gloss": "tail",
+              "display_gloss": "tail",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5145,11 +5874,20 @@
           "display_gloss": "short",
           "morphemes": [
             {
-              "form": "qí̥lma",
-              "normalized": "qılma",
+              "form": "qılm",
+              "normalized": "qılm",
               "gloss": "short",
+              "display_gloss": "short",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "ADJ.F/COP.3SG.F",
+              "display_gloss": "ADJ.F/COP.3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5160,11 +5898,20 @@
           "display_gloss": "exist",
           "morphemes": [
             {
-              "form": "é̱sta",
-              "normalized": "esta",
+              "form": "est",
+              "normalized": "est",
               "gloss": "exist",
+              "display_gloss": "exist",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "3SG.F",
+              "display_gloss": "3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -5231,11 +5978,20 @@
           "display_gloss": "nest-in",
           "morphemes": [
             {
-              "form": "Halyẹ̄́ne",
-              "normalized": "Halyênê",
-              "gloss": "nest-in",
+              "form": "Halyên",
+              "normalized": "Halyên",
+              "gloss": "nest",
+              "display_gloss": "nest",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ê",
+              "normalized": "ê",
+              "gloss": "LOC",
+              "display_gloss": "LOC",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5246,11 +6002,12 @@
           "display_gloss": "inside",
           "morphemes": [
             {
-              "form": "wẹ̄́da",
+              "form": "wêda",
               "normalized": "wêda",
               "gloss": "inside",
+              "display_gloss": "inside",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5261,11 +6018,12 @@
           "display_gloss": "eggs",
           "morphemes": [
             {
-              "form": "h̔áki",
+              "form": "'haki",
               "normalized": "'haki",
               "gloss": "eggs",
+              "display_gloss": "eggs",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5276,11 +6034,20 @@
           "display_gloss": "white",
           "morphemes": [
             {
-              "form": "sepī́",
-              "normalized": "sêpi",
+              "form": "sêp",
+              "normalized": "sêp",
               "gloss": "white",
+              "display_gloss": "white",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "ADJ.PL/COP.PL",
+              "display_gloss": "ADJ.PL/COP.PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5291,11 +6058,20 @@
           "display_gloss": "exist",
           "morphemes": [
             {
-              "form": "é̱sti",
-              "normalized": "esti",
+              "form": "est",
+              "normalized": "est",
               "gloss": "exist",
+              "display_gloss": "exist",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "PL",
+              "display_gloss": "PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -5362,11 +6138,12 @@
           "display_gloss": "fire",
           "morphemes": [
             {
-              "form": "Adí̥r",
+              "form": "Adır",
               "normalized": "Adır",
               "gloss": "fire",
+              "display_gloss": "fire",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5377,11 +6154,28 @@
           "display_gloss": "burn",
           "morphemes": [
             {
-              "form": "ve̱šén’u",
-              "normalized": "veşênû",
+              "form": "veş",
+              "normalized": "veş",
               "gloss": "burn",
+              "display_gloss": "burn",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "3SG.M",
+              "display_gloss": "3SG.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": ","
@@ -5393,11 +6187,12 @@
           "display_gloss": "smoke",
           "morphemes": [
             {
-              "form": "du",
+              "form": "dû",
               "normalized": "dû",
               "gloss": "smoke",
+              "display_gloss": "smoke",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": ","
@@ -5409,11 +6204,12 @@
           "display_gloss": "flame",
           "morphemes": [
             {
-              "form": "qí̥le",
+              "form": "qılê",
               "normalized": "qılê",
               "gloss": "flame",
+              "display_gloss": "flame",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": ","
@@ -5425,11 +6221,12 @@
           "display_gloss": "coal",
           "morphemes": [
             {
-              "form": "ko̤mṳ́r",
+              "form": "komür",
               "normalized": "komür",
               "gloss": "coal",
+              "display_gloss": "coal",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5440,11 +6237,12 @@
           "display_gloss": "we",
           "morphemes": [
             {
-              "form": "me̱",
+              "form": "me",
               "normalized": "me",
               "gloss": "we",
+              "display_gloss": "we",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5455,11 +6253,28 @@
           "display_gloss": "see",
           "morphemes": [
             {
-              "form": "vién’i",
-              "normalized": "vyêni",
+              "form": "vy",
+              "normalized": "vy",
               "gloss": "see",
+              "display_gloss": "see",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "1PL",
+              "display_gloss": "1PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -5526,11 +6341,12 @@
           "display_gloss": "this",
           "morphemes": [
             {
-              "form": "É̱n’a",
+              "form": "Ena",
               "normalized": "Ena",
               "gloss": "this",
+              "display_gloss": "this",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5541,11 +6357,12 @@
           "display_gloss": "river",
           "morphemes": [
             {
-              "form": "lā́de",
+              "form": "ladê",
               "normalized": "ladê",
               "gloss": "river",
+              "display_gloss": "river",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5556,11 +6373,12 @@
           "display_gloss": "water",
           "morphemes": [
             {
-              "form": "aúke",
+              "form": "awkê",
               "normalized": "awkê",
               "gloss": "water",
+              "display_gloss": "water",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5571,11 +6389,12 @@
           "display_gloss": "quickly",
           "morphemes": [
             {
-              "form": "lé̱ze",
+              "form": "lezê",
               "normalized": "lezê",
               "gloss": "quickly",
+              "display_gloss": "quickly",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5586,11 +6405,28 @@
           "display_gloss": "go/flow",
           "morphemes": [
             {
-              "form": "šuén’a",
-              "normalized": "şwêna",
+              "form": "şw",
+              "normalized": "şw",
               "gloss": "go/flow",
+              "display_gloss": "go/flow",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ên",
+              "normalized": "ên",
+              "gloss": "IPFV",
+              "display_gloss": "IPFV",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "3SG.F",
+              "display_gloss": "3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -5661,11 +6497,12 @@
           "display_gloss": "moon",
           "morphemes": [
             {
-              "form": "Āšme",
+              "form": "Aşmê",
               "normalized": "Aşmê",
               "gloss": "moon",
+              "display_gloss": "moon",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5676,11 +6513,28 @@
           "display_gloss": "stars-than",
           "morphemes": [
             {
-              "form": "e̱stárera",
-              "normalized": "estarêra",
-              "gloss": "stars-than",
+              "form": "estar",
+              "normalized": "estar",
+              "gloss": "star",
+              "display_gloss": "star",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ê",
+              "normalized": "ê",
+              "gloss": "OBL",
+              "display_gloss": "OBL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ra",
+              "normalized": "ra",
+              "gloss": "COMP",
+              "display_gloss": "COMP",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5691,11 +6545,20 @@
           "display_gloss": "big",
           "morphemes": [
             {
-              "form": "pī́la",
-              "normalized": "pila",
+              "form": "pil",
+              "normalized": "pil",
               "gloss": "big",
+              "display_gloss": "big",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "ADJ.F/COP.3SG.F",
+              "display_gloss": "ADJ.F/COP.3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": ","
@@ -5707,11 +6570,28 @@
           "display_gloss": "sun-than",
           "morphemes": [
             {
-              "form": "rṓd̮era",
-              "normalized": "rocêra",
-              "gloss": "sun-than",
+              "form": "roc",
+              "normalized": "roc",
+              "gloss": "sun",
+              "display_gloss": "sun",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ê",
+              "normalized": "ê",
+              "gloss": "OBL",
+              "display_gloss": "OBL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ra",
+              "normalized": "ra",
+              "gloss": "COMP",
+              "display_gloss": "COMP",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5722,11 +6602,20 @@
           "display_gloss": "small",
           "morphemes": [
             {
-              "form": "qí̮d̮a",
-              "normalized": "qica",
+              "form": "qic",
+              "normalized": "qic",
               "gloss": "small",
+              "display_gloss": "small",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "ADJ.F/COP.3SG.F",
+              "display_gloss": "ADJ.F/COP.3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -5793,11 +6682,12 @@
           "display_gloss": "yesterday",
           "morphemes": [
             {
-              "form": "Vizyẹ̄́ri",
+              "form": "Vizyêri",
               "normalized": "Vizyêri",
               "gloss": "yesterday",
+              "display_gloss": "yesterday",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5808,11 +6698,12 @@
           "display_gloss": "evening",
           "morphemes": [
             {
-              "form": "šā́nde",
+              "form": "şandê",
               "normalized": "şandê",
               "gloss": "evening",
+              "display_gloss": "evening",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5823,11 +6714,12 @@
           "display_gloss": "rain",
           "morphemes": [
             {
-              "form": "varán",
+              "form": "varan",
               "normalized": "varan",
               "gloss": "rain",
+              "display_gloss": "rain",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5838,11 +6730,20 @@
           "display_gloss": "rained",
           "morphemes": [
             {
-              "form": "varā́",
-              "normalized": "vara",
-              "gloss": "rained",
+              "form": "var",
+              "normalized": "var",
+              "gloss": "rain",
+              "display_gloss": "rain",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "PST.3SG.F",
+              "display_gloss": "PST.3SG.F",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -5906,14 +6807,15 @@
           "form": "Eíru",
           "ipa": "ˈejru",
           "zazaki": "Êyrû",
-          "display_gloss": "",
+          "display_gloss": "today",
           "morphemes": [
             {
-              "form": "Eíru",
+              "form": "Êyrû",
               "normalized": "Êyrû",
-              "gloss": "",
+              "gloss": "today",
+              "display_gloss": "today",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5921,14 +6823,15 @@
           "form": "sebá",
           "ipa": "seˈba",
           "zazaki": "sêba",
-          "display_gloss": "",
+          "display_gloss": "morning",
           "morphemes": [
             {
-              "form": "sebá",
+              "form": "sêba",
               "normalized": "sêba",
-              "gloss": "",
+              "gloss": "morning",
+              "display_gloss": "morning",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5936,14 +6839,15 @@
           "form": "me",
           "ipa": "me",
           "zazaki": "mê",
-          "display_gloss": "",
+          "display_gloss": "I",
           "morphemes": [
             {
-              "form": "me",
+              "form": "mê",
               "normalized": "mê",
-              "gloss": "",
+              "gloss": "I",
+              "display_gloss": "I",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5951,14 +6855,15 @@
           "form": "múndiai",
           "ipa": "ˈmundjaj",
           "zazaki": "mûndyay",
-          "display_gloss": "",
+          "display_gloss": "rainbow",
           "morphemes": [
             {
-              "form": "múndiai",
+              "form": "mûndyay",
               "normalized": "mûndyay",
-              "gloss": "",
+              "gloss": "rainbow",
+              "display_gloss": "rainbow",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5966,14 +6871,15 @@
           "form": "aíšma",
           "ipa": "ˈajʃma",
           "zazaki": "ayşma",
-          "display_gloss": "",
+          "display_gloss": "bow/arc",
           "morphemes": [
             {
-              "form": "aíšma",
+              "form": "ayşma",
               "normalized": "ayşma",
-              "gloss": "",
+              "gloss": "bow/arc",
+              "display_gloss": "bow/arc",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5981,14 +6887,15 @@
           "form": "fátma",
           "ipa": "ˈfatma",
           "zazaki": "fatma",
-          "display_gloss": "",
+          "display_gloss": "Fatma",
           "morphemes": [
             {
-              "form": "fátma",
+              "form": "fatma",
               "normalized": "fatma",
-              "gloss": "",
+              "gloss": "Fatma",
+              "display_gloss": "Fatma",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -5996,14 +6903,23 @@
           "form": "día",
           "ipa": "ˈdja",
           "zazaki": "dya",
-          "display_gloss": "",
+          "display_gloss": "saw",
           "morphemes": [
             {
-              "form": "día",
-              "normalized": "dya",
-              "gloss": "",
+              "form": "dy",
+              "normalized": "dy",
+              "gloss": "see",
+              "display_gloss": "see",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "a",
+              "normalized": "a",
+              "gloss": "PST.1SG",
+              "display_gloss": "PST.1SG",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -6070,11 +6986,12 @@
           "display_gloss": "night",
           "morphemes": [
             {
-              "form": "Šau",
+              "form": "Şaw",
               "normalized": "Şaw",
               "gloss": "night",
+              "display_gloss": "night",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -6085,11 +7002,12 @@
           "display_gloss": "dark",
           "morphemes": [
             {
-              "form": "tārī́u",
+              "form": "taryw",
               "normalized": "taryw",
               "gloss": "dark",
+              "display_gloss": "dark",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": ","
@@ -6101,11 +7019,12 @@
           "display_gloss": "day",
           "morphemes": [
             {
-              "form": "rōd̮",
+              "form": "roc",
               "normalized": "roc",
               "gloss": "day",
+              "display_gloss": "day",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -6116,11 +7035,20 @@
           "display_gloss": "bright",
           "morphemes": [
             {
-              "form": "rṓštu",
-              "normalized": "roştû",
+              "form": "roşt",
+              "normalized": "roşt",
               "gloss": "bright",
+              "display_gloss": "bright",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "û",
+              "normalized": "û",
+              "gloss": "ADJ.M",
+              "display_gloss": "ADJ.M",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -6191,11 +7119,12 @@
           "display_gloss": "we",
           "morphemes": [
             {
-              "form": "Mā",
+              "form": "Ma",
               "normalized": "Ma",
               "gloss": "we",
+              "display_gloss": "we",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -6206,11 +7135,12 @@
           "display_gloss": "speech",
           "morphemes": [
             {
-              "form": "kā́li",
+              "form": "kali",
               "normalized": "kali",
               "gloss": "speech",
+              "display_gloss": "speech",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -6221,11 +7151,20 @@
           "display_gloss": "do/speak",
           "morphemes": [
             {
-              "form": "bekí",
-              "normalized": "bêki",
+              "form": "k",
+              "normalized": "k",
               "gloss": "do/speak",
+              "display_gloss": "do/speak",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "i",
+              "normalized": "i",
+              "gloss": "1PL",
+              "display_gloss": "1PL",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -6236,11 +7175,20 @@
           "display_gloss": "Zaza-in",
           "morphemes": [
             {
-              "form": "zazád̮e",
-              "normalized": "zazacê",
-              "gloss": "Zaza-in",
+              "form": "zaza",
+              "normalized": "zaza",
+              "gloss": "Zaza",
+              "display_gloss": "Zaza",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "cê",
+              "normalized": "cê",
+              "gloss": "LANG/LOC",
+              "display_gloss": "LANG/LOC",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "."
@@ -6311,11 +7259,12 @@
           "display_gloss": "you.PL",
           "morphemes": [
             {
-              "form": "Ši̥mā",
+              "form": "Şıma",
               "normalized": "Şıma",
               "gloss": "you.PL",
+              "display_gloss": "you.PL",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -6326,11 +7275,20 @@
           "display_gloss": "Zaza-in",
           "morphemes": [
             {
-              "form": "zazád̮a",
-              "normalized": "zazaca",
-              "gloss": "Zaza-in",
+              "form": "zaza",
+              "normalized": "zaza",
+              "gloss": "Zaza",
+              "display_gloss": "Zaza",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
+            },
+            {
+              "form": "ca",
+              "normalized": "ca",
+              "gloss": "LANG",
+              "display_gloss": "LANG",
+              "confidence": "working",
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ]
         },
@@ -6341,11 +7299,12 @@
           "display_gloss": "know",
           "morphemes": [
             {
-              "form": "záni",
+              "form": "zani",
               "normalized": "zani",
               "gloss": "know",
+              "display_gloss": "know",
               "confidence": "working",
-              "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final."
+              "evidence": "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion and Lerch-project interlinear conventions; review before treating as a final critical parse."
             }
           ],
           "suffix_punct": "?"

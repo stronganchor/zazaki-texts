@@ -69,7 +69,7 @@ BACMEISTER_TOKEN_GLOSSES: dict[int, list[str]] = {
     38: ["this", "river", "water", "quickly", "go/flow"],
     39: ["moon", "stars-than", "big", "sun-than", "small"],
     40: ["yesterday", "evening", "rain", "rained"],
-    41: ["today", "morning", "I", "rainbow", "arc", "saw"],
+    41: ["today", "morning", "I", "rainbow", "bow/arc", "Fatma", "saw"],
     42: ["night", "dark", "day", "bright"],
     43: ["we", "speech", "do/speak", "Zaza-in"],
     44: ["you.PL", "Zaza-in", "know"],
@@ -196,7 +196,151 @@ def split_token_punctuation(value: str) -> tuple[str, str, str]:
     return prefix, core, suffix
 
 
-def build_token(raw: str, gloss: str = "") -> dict[str, object]:
+MORPHEME_EVIDENCE = (
+    "Working Bacmeister morpheme pass projected from the Zazaki orthography conversion "
+    "and Lerch-project interlinear conventions; review before treating as a final critical parse."
+)
+
+
+BACMEISTER_MORPHEME_OVERRIDES: dict[tuple[int, int], list[tuple[str, str]]] = {
+    (1, 2): [("nyê", "NEG")],
+    (1, 3): [("mêr", "die"), ("ên", "IPFV"), ("û", "3SG.M")],
+    (3, 6): [("sin", "love"), ("ên", "IPFV"), ("a", "3SG.F")],
+    (4, 5): [("est", "exist"), ("û", "3SG.M")],
+    (5, 4): [("k", "do"), ("ên", "IPFV"), ("û", "3SG.M")],
+    (8, 2): [("nyê", "NEG")],
+    (8, 3): [("weş", "healthy"), ("a", "ADJ.F")],
+    (9, 4): [("rwênişt", "sit"), ("a", "PTCP.F")],
+    (9, 5): [("bêrm", "cry"), ("ên", "IPFV"), ("a", "3SG.F")],
+    (10, 3): [("nyê", "NEG")],
+    (10, 4): [("w", "want"), ("ên", "IPFV"), ("û", "3SG.M")],
+    (11, 4): [("nyê", "NEG")],
+    (11, 5): [("şw", "walk"), ("ên", "IPFV"), ("a", "3SG.F")],
+    (12, 5): [("by", "be.born"), ("a", "PST.3SG.F")],
+    (13, 5): [("weş", "healthy"), ("i", "PL")],
+    (14, 4): [("da", "do"), ("m", "MID?"), ("û", "3SG.M")],
+    (14, 7): [("pêr", "jump"), ("ên", "IPFV"), ("û", "3SG.M")],
+    (14, 9): [("k", "do"), ("ên", "IPFV"), ("û", "3SG.M")],
+    (14, 13): [("van", "say/sing"), ("û", "3SG.M")],
+    (14, 16): [("'how", "laugh"), ("ên", "IPFV"), ("û", "3SG.M")],
+    (17, 6): [("nyê", "NEG"), ("şna", "can/know?")],
+    (17, 7): [("w", "hear"), ("ên", "IPFV"), ("a", "3SG.F")],
+    (18, 4): [("nêy", "come"), ("ên", "IPFV"), ("û", "3SG.M")],
+    (19, 4): [("kawt", "fall"), ("a", "PST.3SG.F")],
+    (20, 4): [("rûênişt", "sit"), ("û", "PTCP.M")],
+    (21, 2): [("w", "eat/drink"), ("ên", "IPFV"), ("û", "3SG.M")],
+    (23, 4): [("est", "exist"), ("i", "PL")],
+    (23, 10): [("est", "exist"), ("i", "PL")],
+    (24, 2): [("serê", "head"), ("dê", "LOC")],
+    (24, 3): [("y", "come/grow"), ("ên", "IPFV"), ("û", "3SG.M")],
+    (25, 4): [("fek", "mouth"), ("dê", "LOC")],
+    (26, 1): [("dest", "hand/arm"), ("û", "DEF/OBL?")],
+    (30, 1): [("Mase", "fish"), ("dê", "LOC")],
+    (30, 3): [("est", "exist"), ("i", "PL")],
+    (30, 5): [("çin", "not.exist"), ("i", "PL")],
+    (31, 4): [("fêr", "fly"), ("ên", "IPFV"), ("û", "3SG.M")],
+    (32, 1): [("Niş", "descend"), ("ên", "IPFV"), ("û", "3SG.M")],
+    (32, 2): [("ard", "ground"), ("da", "ALL")],
+    (33, 2): [("têyri", "bird"), ("dê", "LOC")],
+    (33, 5): [("est", "exist"), ("i", "PL")],
+    (34, 1): [("Darê", "tree"), ("dê", "LOC")],
+    (34, 6): [("est", "exist"), ("i", "PL")],
+    (35, 5): [("est", "exist"), ("a", "3SG.F")],
+    (35, 8): [("est", "exist"), ("a", "3SG.F")],
+    (36, 1): [("Halyên", "nest"), ("ê", "LOC")],
+    (36, 5): [("est", "exist"), ("i", "PL")],
+    (37, 2): [("veş", "burn"), ("ên", "IPFV"), ("û", "3SG.M")],
+    (37, 7): [("vy", "see"), ("ên", "IPFV"), ("i", "1PL")],
+    (38, 5): [("şw", "go/flow"), ("ên", "IPFV"), ("a", "3SG.F")],
+    (39, 2): [("estar", "star"), ("ê", "OBL"), ("ra", "COMP")],
+    (39, 4): [("roc", "sun"), ("ê", "OBL"), ("ra", "COMP")],
+    (40, 4): [("var", "rain"), ("a", "PST.3SG.F")],
+    (41, 7): [("dy", "see"), ("a", "PST.1SG")],
+    (42, 4): [("roşt", "bright"), ("û", "ADJ.M")],
+    (43, 3): [("k", "do/speak"), ("i", "1PL")],
+    (43, 4): [("zaza", "Zaza"), ("cê", "LANG/LOC")],
+    (44, 2): [("zaza", "Zaza"), ("ca", "LANG")],
+}
+
+
+def make_morpheme(form: str, gloss: str = "", confidence: str = "working") -> dict[str, str]:
+    return {
+        "form": form,
+        "normalized": form,
+        "gloss": gloss,
+        "display_gloss": gloss,
+        "confidence": confidence,
+        "evidence": MORPHEME_EVIDENCE,
+    }
+
+
+def make_morphemes(parts: list[tuple[str, str]], confidence: str = "working") -> list[dict[str, str]]:
+    return [make_morpheme(form, gloss, confidence) for form, gloss in parts if form]
+
+
+def segment_zazaki_morphemes(zazaki: str, gloss: str, row_no: int, token_index: int) -> list[dict[str, str]]:
+    override = BACMEISTER_MORPHEME_OVERRIDES.get((row_no, token_index))
+    if override is not None:
+        return make_morphemes(override)
+
+    lower = zazaki.lower()
+    if not zazaki:
+        return [make_morpheme("", gloss)]
+
+    if ("-in" in gloss or "-on" in gloss) and lower.endswith("dê") and len(zazaki) > 2:
+        return make_morphemes([(zazaki[:-2], gloss.removesuffix("-in").removesuffix("-on") or gloss), ("dê", "LOC")])
+    if ("-in" in gloss or "-on" in gloss) and lower.endswith("de") and len(zazaki) > 2:
+        return make_morphemes([(zazaki[:-2], gloss.removesuffix("-in").removesuffix("-on") or gloss), ("de", "LOC")])
+    if "than" in gloss and lower.endswith("êra") and len(zazaki) > 3:
+        return make_morphemes([(zazaki[:-3], gloss.replace("-than", "")), ("ê", "OBL"), ("ra", "COMP")])
+    if "than" in gloss and lower.endswith("ra") and len(zazaki) > 2:
+        return make_morphemes([(zazaki[:-2], gloss.replace("-than", "")), ("ra", "COMP")])
+
+    present_endings = {
+        "ênû": [("ên", "IPFV"), ("û", "3SG.M")],
+        "êna": [("ên", "IPFV"), ("a", "3SG.F")],
+        "êni": [("ên", "IPFV"), ("i", "1PL/3PL")],
+    }
+    for ending, suffix_parts in present_endings.items():
+        if lower.endswith(ending) and len(zazaki) > len(ending):
+            return make_morphemes([(zazaki[: -len(ending)], gloss)] + suffix_parts)
+
+    if lower in {"estû", "esti", "esta"}:
+        suffix = zazaki[-1]
+        suffix_gloss = {"û": "3SG.M", "i": "PL", "a": "3SG.F"}.get(suffix, "COP")
+        return make_morphemes([("est", "exist"), (suffix, suffix_gloss)])
+
+    predicate_suffix_glosses = {
+        "short",
+        "healthy",
+        "blind",
+        "deaf",
+        "black",
+        "white",
+        "red",
+        "hard",
+        "green",
+        "thick",
+        "pointed",
+        "small",
+        "big",
+        "bright",
+        "dark",
+        "long",
+        "thin",
+        "strong",
+    }
+    if gloss in predicate_suffix_glosses and lower.endswith("û") and len(zazaki) > 1:
+        return make_morphemes([(zazaki[:-1], gloss), ("û", "ADJ.M/COP.3SG.M")])
+    if gloss in predicate_suffix_glosses and lower.endswith("a") and len(zazaki) > 1:
+        return make_morphemes([(zazaki[:-1], gloss), ("a", "ADJ.F/COP.3SG.F")])
+    if gloss in predicate_suffix_glosses and lower.endswith("i") and len(zazaki) > 1:
+        return make_morphemes([(zazaki[:-1], gloss), ("i", "ADJ.PL/COP.PL")])
+
+    return [make_morpheme(zazaki, gloss)]
+
+
+def build_token(raw: str, gloss: str = "", row_no: int = 0, token_index: int = 0) -> dict[str, object]:
     prefix, core, suffix = split_token_punctuation(raw)
     if core == "":
         core = token_core(raw)
@@ -204,20 +348,13 @@ def build_token(raw: str, gloss: str = "") -> dict[str, object]:
         suffix = raw[len(core):] if core and raw.endswith(core) is False else ""
     ipa = LERCH_CONVERTER.lerch_to_ipa(core) if core else ""
     zazaki = LERCH_CONVERTER.lerch_to_zazaki(core) if core else ""
+    morphemes = segment_zazaki_morphemes(zazaki, gloss, row_no, token_index) if core else [make_morpheme(raw, gloss)]
     token: dict[str, object] = {
         "form": core or raw,
         "ipa": ipa,
         "zazaki": zazaki,
         "display_gloss": gloss,
-        "morphemes": [
-            {
-                "form": core or raw,
-                "normalized": zazaki,
-                "gloss": gloss,
-                "confidence": "working",
-                "evidence": "Automatic Bacmeister sentence-sample interlinear pass; review against the scan before treating as final.",
-            }
-        ],
+        "morphemes": morphemes,
     }
     if prefix:
         token["prefix_punct"] = prefix
@@ -232,7 +369,10 @@ def build_tokens(row: dict[str, str]) -> list[dict[str, object]]:
     glosses = BACMEISTER_TOKEN_GLOSSES.get(row_no, [])
     if len(glosses) != len(raw_tokens):
         glosses = [""] * len(raw_tokens)
-    return [build_token(raw, gloss) for raw, gloss in zip(raw_tokens, glosses)]
+    return [
+        build_token(raw, gloss, row_no=row_no, token_index=index)
+        for index, (raw, gloss) in enumerate(zip(raw_tokens, glosses), start=1)
+    ]
 
 
 def copy_assets() -> None:
@@ -240,6 +380,16 @@ def copy_assets() -> None:
     target.mkdir(parents=True, exist_ok=True)
     for image in sorted(ASSET_SOURCE.glob("row??_*.jpg")):
         shutil.copy2(image, target / image.name)
+
+
+def witness_asset(row_no: int, suffix: str) -> str | None:
+    webp_name = f"row{row_no:02d}_{suffix}.webp"
+    jpg_name = f"row{row_no:02d}_{suffix}.jpg"
+    if (TEXT_DIR / "assets" / webp_name).exists():
+        return f"assets/{webp_name}"
+    if (TEXT_DIR / "assets" / jpg_name).exists() or (ASSET_SOURCE / jpg_name).exists():
+        return f"assets/{jpg_name}"
+    return None
 
 
 def source_line(row: dict[str, str]) -> dict:
@@ -257,8 +407,8 @@ def source_line(row: dict[str, str]) -> dict:
     ).strip()
     witnesses = []
     for label, suffix in (("Russian scan", "russian"), ("German reprint scan", "german")):
-        asset = f"assets/row{row_no:02d}_{suffix}.jpg"
-        if (ASSET_SOURCE / f"row{row_no:02d}_{suffix}.jpg").exists():
+        asset = witness_asset(row_no, suffix)
+        if asset:
             witnesses.append(
                 {
                     "label": label,
@@ -291,6 +441,7 @@ def source_line(row: dict[str, str]) -> dict:
 
 
 def build_payload(rows: list[dict[str, str]]) -> dict:
+    token_count = sum(len(re.findall(r"\S+", row["zaza"])) for row in rows)
     reading_units = []
     for row in rows:
         row_no = int(row["row_no"])
@@ -343,7 +494,7 @@ def build_payload(rows: list[dict[str, str]]) -> dict:
             "lines": len(rows),
             "source_lines": len(rows),
             "reading_units": len(reading_units),
-            "tokens": 0,
+            "tokens": token_count,
         },
         "witnesses": [
             {
@@ -378,6 +529,7 @@ def build_payload(rows: list[dict[str, str]]) -> dict:
 
 def main() -> None:
     rows = parse_rows()
+    token_count = sum(len(re.findall(r"\S+", row["zaza"])) for row in rows)
     TEXT_DIR.mkdir(parents=True, exist_ok=True)
     copy_assets()
     payload = build_payload(rows)
@@ -393,7 +545,7 @@ def main() -> None:
             "dialect_region_note": "Short elicited Zaza sentence samples from Lerch's Roslavl materials.",
             "status": "reviewed working edition",
             "line_count": len(rows),
-            "token_count": 0,
+            "token_count": token_count,
             "lltools_payload": "text-document.json",
             "reviewed_transcription_synced_at": date.today().isoformat(),
             "publication": payload["metadata"]["publication"],
