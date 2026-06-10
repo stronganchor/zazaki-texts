@@ -12,11 +12,11 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "proposed_group_headword": "ainü",
       "group_source": "self",
       "german_gloss_raw": "(türk. aJLjJ ), Spiegel,",
-      "german_gloss_clean": "(türk. aJLjJ ), Spiegel,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "german_gloss_clean": "(Osmanisch-Türkisch: آینه/ayna) Spiegel",
+      "english_gloss": "(Ottoman Turkish: آینه/ayna) mirror",
+      "english_gloss_source": "auto_ottoman_note",
+      "turkish_gloss": "(Osmanlıca: آینه) ayna",
+      "turkish_gloss_source": "auto_ottoman_note",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -195,17 +195,17 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "entry_id": "lerch_glossary_p197_r0010:entry",
       "source_page": "197",
       "raw_lerch_headword": "ayä",
-      "corrected_lerch_headword": "áya",
+      "corrected_lerch_headword": "áγa",
       "corrected_headword_source": "text_form_match",
-      "modern_zazaki_guess": "aya",
-      "proposed_group_headword": "ağa, axa",
+      "modern_zazaki_guess": "ağa",
+      "proposed_group_headword": "ağa",
       "group_source": "existing_parent",
       "german_gloss_raw": "Agha",
-      "german_gloss_clean": "Agha",
-      "english_gloss": "agha; notable; lord",
-      "english_gloss_source": "manual_override",
-      "turkish_gloss": "ağa",
-      "turkish_gloss_source": "manual_override",
+      "german_gloss_clean": "(Osmanisch-Türkisch: اغا/ağa) Agha",
+      "english_gloss": "(Ottoman Turkish: اغا/ağa) Agha",
+      "english_gloss_source": "auto_ottoman_note",
+      "turkish_gloss": "(Osmanlıca: اغا) Ağa",
+      "turkish_gloss_source": "auto_ottoman_note",
       "existing_parent": "ağa, axa",
       "entry_review_status": "headword_parented",
       "correction_confidence": "medium",
@@ -223,10 +223,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) ziehe heraus. and, zog heraus,",
       "german_gloss_clean": "(ich) ziehe heraus. and, zog heraus,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I pull out; pulled out",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "çekip çıkarıyorum; çekip çıkardı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -244,10 +244,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "jener, e, es, 64.13.",
       "german_gloss_clean": "jener, e, es, 64. 13.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "that",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "şu/o",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -412,10 +412,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "ruhe aus, erhole dich, .1-2 . Vgl. npers: jL), jjL l_1.",
       "german_gloss_clean": "ruhe aus, erhole dich, . 1-2. Vgl. npers: jL), jjL l_1.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "rest; recover/rest; rest/peace",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "dinlen; rahat/huzur",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -454,10 +454,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Himmel. Vgl. Krm. azmdn; cf. Pott Et. F. I, 194.",
       "german_gloss_clean": "Himmel. Vgl. Krm. azmdn; cf. Pott Et. F. I, 194.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "sky/heaven",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "gök",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -475,10 +475,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) befreie. Vgl. Krm. az&d kir.",
       "german_gloss_clean": "(ich) befreie. Vgl. Krm. az&d kir.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I free/release",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kurtarıyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -517,10 +517,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Müller, 83.3 sq.",
       "german_gloss_clean": "Müller, 83. 3 sq.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "miller",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "değirmenci",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -622,10 +622,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Blutigel.",
       "german_gloss_clean": "Blutigel.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "leech; blood",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "sülük; kan",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -664,10 +664,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Gott,",
       "german_gloss_clean": "Gott,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "God",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "Allah",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -685,10 +685,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Wange,",
       "german_gloss_clean": "Wange,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "cheek",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yanak",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -705,11 +705,11 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "proposed_group_headword": "altun, altın",
       "group_source": "existing_parent",
       "german_gloss_raw": "(türk. ,jyJl), Gold,",
-      "german_gloss_clean": "(türk. , jyJl), Gold,",
-      "english_gloss": "gold",
-      "english_gloss_source": "rule_guess_from_german",
-      "turkish_gloss": "altın",
-      "turkish_gloss_source": "matched_harun_headword",
+      "german_gloss_clean": "(Osmanisch-Türkisch: التون/altun) Gold",
+      "english_gloss": "(Ottoman Turkish: التون/altun) gold",
+      "english_gloss_source": "auto_ottoman_note",
+      "turkish_gloss": "(Osmanlıca: التون) altın",
+      "turkish_gloss_source": "auto_ottoman_note",
       "existing_parent": "altun, altın",
       "entry_review_status": "headword_parented",
       "correction_confidence": "medium",
@@ -748,10 +748,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Greis,",
       "german_gloss_clean": "Greis,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "old man",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ihtiyar",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -769,10 +769,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "einige, 68.9.",
       "german_gloss_clean": "einige, 68. 9.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "some",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "bazı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -790,8 +790,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "wenn. Vgl. Krm. ek.",
       "german_gloss_clean": "wenn. Vgl. Krm. ek.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "if",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "diğinde",
       "turkish_gloss_source": "matched_dezd_headword",
       "existing_parent": "eke",
@@ -811,10 +811,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "sobald, 67.2.",
       "german_gloss_clean": "sobald, 67. 2.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "as soon as",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "olur olmaz",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -874,10 +874,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Schützling; s. emdneta.",
       "german_gloss_clean": "Schützling; s. emdneta.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "protégé/ward",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "himaye edilen kişi",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -895,10 +895,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "im Sommer. Vgl. Krm. havin.",
       "german_gloss_clean": "im Sommer. Vgl. Krm. havin.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "in summer",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yazın",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -937,10 +937,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "dieser, e, es; 50.4. auch aü’e.",
       "german_gloss_clean": "dieser, e, es; 50. 4. auch aü’e.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "this",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "bu",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -958,10 +958,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Oberarm,",
       "german_gloss_clean": "Oberarm,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "upper arm",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "üst kol",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -979,10 +979,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Honig. Vgl. Krm. hinglv.",
       "german_gloss_clean": "Honig. Vgl. Krm. hinglv.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "honey",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "bal",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1000,10 +1000,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Finger. Vgl. allb: angusta; hzv: e-rp. . pärs^ npers: *. „;.r.l S. Polt Zählmethode, 283. engisti lingän, Fusszehe. engistere, Hing am Finger, eiigi'ir, Weintraube. Vgl. Ir. bei Kich: engheer, npers: jfi>\\",
       "german_gloss_clean": "Finger. Vgl. allb: angusta; hzv: e-rp. . pärs^ npers: *. „; . r. l S. Polt Zählmethode, 283. engisti lingän, Fusszehe. engistere, Hing am Finger, eiigi'ir, Weintraube. Vgl. Ir. bei Kich: engheer, npers: jfi>\\",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is; foot",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir; ayak",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1021,10 +1021,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "hier. etira, hierher, von hier, en’a = äna. Sn’oe = fn’a. Sn’ie, plur.",
       "german_gloss_clean": "hier. etira, hierher, von hier, en’a = äna. Sn’oe = fn’a. Sn’ie, plur.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "here/to here; from here; here",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "buraya; buradan; burada",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1042,10 +1042,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Stern. Vgl. Krm. istörik, histSr, hu- stSr, sterik.",
       "german_gloss_clean": "Stern. Vgl. Krm. istörik, histSr, hu- stSr, sterik.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "star; is",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yıldız; -dır/-dir",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1063,10 +1063,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "warf, 58.3; 82. ii.",
       "german_gloss_clean": "warf, 58. 3; 82. ii.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "threw",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "attı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1084,10 +1084,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Holz. Vgl. Krm. hezjng.",
       "german_gloss_clean": "Holz. Vgl. Krm. hezjng.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "wood",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "odun",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1126,10 +1126,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "eilek, Kind,",
       "german_gloss_clean": "eilek, Kind,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "child",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "çocuk",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1146,11 +1146,11 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "proposed_group_headword": "eğit",
       "group_source": "existing_parent",
       "german_gloss_raw": "(türk. vlX), Held, 56, «4. ingist = engiät.",
-      "german_gloss_clean": "(türk. vlX), Held, 56, «4. ingist = engiät.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "yiğit",
-      "turkish_gloss_source": "matched_harun_headword",
+      "german_gloss_clean": "(Osmanisch-Türkisch: يگيت/yiğit) Held",
+      "english_gloss": "(Ottoman Turkish: يگيت/yiğit) hero/brave man",
+      "english_gloss_source": "auto_ottoman_note",
+      "turkish_gloss": "(Osmanlıca: يگيت) yiğit, kahraman",
+      "turkish_gloss_source": "auto_ottoman_note",
       "existing_parent": "eğit",
       "entry_review_status": "headword_parented",
       "correction_confidence": "medium",
@@ -1161,17 +1161,17 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "entry_id": "lerch_glossary_p199_r0056:entry",
       "source_page": "199",
       "raw_lerch_headword": "oyjr",
-      "corrected_lerch_headword": "oyjr",
+      "corrected_lerch_headword": "oγúr",
       "corrected_headword_source": "raw_extraction",
-      "modern_zazaki_guess": "oyjr",
-      "proposed_group_headword": "oyjr",
+      "modern_zazaki_guess": "oğûr",
+      "proposed_group_headword": "uğur",
       "group_source": "self",
       "german_gloss_raw": "(türk.",
-      "german_gloss_clean": "(türk.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "german_gloss_clean": "(Osmanisch-Türkisch: اوغر/uğur) Glück",
+      "english_gloss": "(Ottoman Turkish: اوغر/uğur) luck/fortune",
+      "english_gloss_source": "auto_ottoman_note",
+      "turkish_gloss": "(Osmanlıca: اوغر) uğur, talih",
+      "turkish_gloss_source": "auto_ottoman_note",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1189,10 +1189,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "1), Glück, 54.14. . 109 V",
       "german_gloss_clean": "1), Glück, 54. 14. . 109 V",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "luck/fortune",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "şans/baht",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1231,10 +1231,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "ist.",
       "german_gloss_clean": "ist.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1252,10 +1252,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "bade mich,",
       "german_gloss_clean": "bade mich,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "bathe me; bath",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "beni yıka; hamam/banyo",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1294,10 +1294,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Bart.",
       "german_gloss_clean": "Bart.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "beard",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "sakal",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1315,10 +1315,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "spät.",
       "german_gloss_clean": "spät.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "late",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "geç",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1336,10 +1336,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "komniandirte: marsch!",
       "german_gloss_clean": "komniandirte: marsch!",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "commanded; march",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "komut verdi; marş/yürü",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1357,10 +1357,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "schickte. ersauwen’a, (ich) schicke. Vgl. oss: apB&ryu.",
       "german_gloss_clean": "schickte. ersauwen’a, (ich) schicke. Vgl. oss: apB&ryu.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "sent; I send",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "gönderdi; gönderiyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1378,10 +1378,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Schulter,",
       "german_gloss_clean": "Schulter,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "shoulder",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "omuz",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1399,8 +1399,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "Vaterschwester.",
       "german_gloss_clean": "Vaterschwester.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "father",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "hala, bibi",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "am, aem",
@@ -1420,10 +1420,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "(arab.^^c), Leben.",
       "german_gloss_clean": "(arab. ^^c), Leben.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "life",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "hayat/ömür",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1462,10 +1462,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Horn: s. Krm. stüru. espär. weristbeespdr, stieg zu Pferde, 67.il.",
       "german_gloss_clean": "Horn: s. Krm. stüru. espär. weristbeespdr, stieg zu Pferde, 67. il.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is; who; horse",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir; kim; at",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1482,11 +1482,11 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "proposed_group_headword": "eféndim",
       "group_source": "self",
       "german_gloss_raw": "(tiirk.^jJil), mein Herr,",
-      "german_gloss_clean": "(türk. . ^jJil), mein Herr,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "german_gloss_clean": "(Osmanisch-Türkisch: افندم/efendim) mein Herr",
+      "english_gloss": "(Ottoman Turkish: افندم/efendim) my lord/sir",
+      "english_gloss_source": "auto_ottoman_note",
+      "turkish_gloss": "(Osmanlıca: افندم) efendim",
+      "turkish_gloss_source": "auto_ottoman_note",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -1504,10 +1504,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Abend.",
       "german_gloss_clean": "Abend.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "evening",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "akşam",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1525,10 +1525,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Hoffnung. Vgl. Krm. f vi.",
       "german_gloss_clean": "Hoffnung. Vgl. Krm. f vi.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "hope",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "umut",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1546,10 +1546,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "hier; 64.8; 66.».",
       "german_gloss_clean": "hier; 64. 8; 66. ».",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "here",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "burada",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1609,10 +1609,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Schlaf. Vgl. Krm. liäv.",
       "german_gloss_clean": "Schlaf. Vgl. Krm. liäv.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "sleep",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "uyku",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -1693,10 +1693,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "hier.",
       "german_gloss_clean": "hier.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "here",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "burada",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1714,10 +1714,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "hadre, bereit, fertig, hadraü, ist fertig, hadre kerdu, bereite, 52.7.",
       "german_gloss_clean": "hadre, bereit, fertig, hadraü, ist fertig, hadre kerdu, bereite, 52. 7.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is; ready; ready/done",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir; hazır; hazır/bitmiş",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1735,8 +1735,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "(arab. jU), Zustand. ön’a Mle, dieses Mal, 77.12. Ml, Onkel von mütterlicher Seite. Vocat. hälö, 63.7. Mia, Tante von mütterlicher Seite, habür, (arab._^i), Nachricht, Bot- schaft. habür ersau’üte, benachrich- tigte, 62.12-13. ;",
       "german_gloss_clean": "(arab. jU), Zustand. ön’a Mle, dieses Mal, 77. 12. Ml, Onkel von mütterlicher Seite. Vocat. hälö, 63. 7. Mia, Tante von mütterlicher Seite, habür, (arab. _^i), Nachricht, Bot- schaft. habür ersau’üte, benachrich- tigte, 62. 12-13. ;",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "time/occasion; sheep",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "hâl 1) durum 2) tutum, tavır 3) şimdiki zaman, içinde yaşanılan zaman 4) takat 5) kötü durum, sıkıntı, dert",
       "turkish_gloss_source": "matched_dezd_headword",
       "existing_parent": "hâl",
@@ -1756,10 +1756,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "nieder. üda ru£n’a, fallt nieder, 55.2.",
       "german_gloss_clean": "nieder. üda ru£n’a, fallt nieder, 55. 2.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "down",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "aşağı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -1777,10 +1777,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Postposition: zu, bei, 50.4: 62.is. Vgl. JC: hadä (Opp.",
       "german_gloss_clean": "Postposition: zu, bei, 50. 4: 62. is. Vgl. JC: hadä (Opp.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "postposition; to/at/by",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "edat; -e/-de/yanında",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1819,10 +1819,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "bis.",
       "german_gloss_clean": "bis.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "until",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-e kadar",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1840,10 +1840,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Kinn, hetia = h&tia.",
       "german_gloss_clean": "Kinn, hetia = h&tia.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "chin",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "çene",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1861,10 +1861,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "s. Deistei H'enzi.",
       "german_gloss_clean": "s. Deistei H'enzi.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -1882,10 +1882,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Bär. Vgl. Krm. hirt.",
       "german_gloss_clean": "Bär. Vgl. Krm. hirt.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "bear",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ayı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1924,10 +1924,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Harem,",
       "german_gloss_clean": "Harem,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "harem",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "harem",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1945,10 +1945,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Bad.",
       "german_gloss_clean": "Bad.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "bath",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "hamam/banyo",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -1966,10 +1966,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Dolch. Vgl. Krm. yantür.",
       "german_gloss_clean": "Dolch. Vgl. Krm. yantür.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "dagger",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "hançer",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2029,10 +2029,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "sieben.",
       "german_gloss_clean": "sieben.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "seven",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yedi",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2050,10 +2050,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "siebzig,",
       "german_gloss_clean": "siebzig,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "seventy",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yetmiş",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2071,10 +2071,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "siebzigste,",
       "german_gloss_clean": "siebzigste,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "seventy; seventieth",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yetmiş; yetmişinci",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2092,10 +2092,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "siebzebu.",
       "german_gloss_clean": "siebzebu.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "seventeen",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "on yedi",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2113,10 +2113,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "siebzehnte.",
       "german_gloss_clean": "siebzehnte.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "seventeenth; tenth",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "on yedinci; onuncu",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2134,10 +2134,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "siebente, hak = hak.",
       "german_gloss_clean": "siebente, hak = hak.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "seven; seventh",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yedi; yedinci",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2155,10 +2155,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Nest. Vgl. Krm. helin.",
       "german_gloss_clean": "Nest. Vgl. Krm. helin.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "nest",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yuva",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2176,8 +2176,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "Biene. Vgl. Krm. hingtV, Honig,",
       "german_gloss_clean": "Biene. Vgl. Krm. hingtV, Honig,",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "honey; bee",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "arı, bal arısı",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "hıng, heng",
@@ -2260,8 +2260,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "hennue, alle,",
       "german_gloss_clean": "hennue, alle,",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "all",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "1) hep(si), genel, herkes 2) mama, yemek, yiyecek (çocuk dilinde)",
       "turkish_gloss_source": "matched_dezd_headword",
       "existing_parent": "heme",
@@ -2281,10 +2281,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Luft, Wind. hewd yen’u, der Wind gehl, bläst. Vgl. Krm. hdva.",
       "german_gloss_clean": "Luft, Wind. hewd yen’u, der Wind gehl, bläst. Vgl. Krm. hdva.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "air; wind",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "hava; rüzgar",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2302,10 +2302,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "qaüwi, warum, 50.2, 55.9; 8!.u.",
       "german_gloss_clean": "qaüwi, warum, 50. 2, 55. 9; 8!. u.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "why",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "neden",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -2323,10 +2323,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Gans. Vgl. Krm. qaz.",
       "german_gloss_clean": "Gans. Vgl. Krm. qaz.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "goose",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kaz",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2344,10 +2344,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "woher, 65.12.",
       "german_gloss_clean": "woher, 65. 12.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "from where",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "nereden",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2365,10 +2365,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "wohiu, an welchen Ort, 87. 1; s. qam. H. heist, acht, heistai, achtzig, heistayin, achtzigste, liciätes, achtzehn. heiStesfn, achtzehule. heistin, achte, henzär, tausend, herd, breit, hergu = hergu. hiris, dreissig. hirfne, dritte, hirue, allen. Vgl. Krm. hlrö. hirye, drei, hlryes, dreizehn, hlryesiü, dreizehnte, hlryin, dritte; s. hirfne. hyegä, Feld. hyedf, hyedike, langsam, hyedi hyedl, bei Wenigem.",
       "german_gloss_clean": "wohiu, an welchen Ort, 87. 1; s. qam. H. heist, acht, heistai, achtzig, heistayin, achtzigste, liciätes, achtzehn. heiStesfn, achtzehule. heistin, achte, henzär, tausend, herd, breit, hergu = hergu. hiris, dreissig. hirfne, dritte, hirue, allen. Vgl. Krm. hlrö. hirye, drei, hlryes, dreizehn, hlryesiü, dreizehnte, hlryin, dritte; s. hirfne. hyegä, Feld. hyedf, hyedike, langsam, hyedi hyedl, bei Wenigem.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is; all; to where; field; tenth",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir; hepsi; nereye; tarla/alan; onuncu",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2428,10 +2428,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "welcher, wer, 59.8. pl. qänii. qäinek, derjenige welcher, wer nur, 73.13. qämek — qämek, qämuk — qäniuk, wer — wer, 75.4; 85 . 12-13 .",
       "german_gloss_clean": "welcher, wer, 59. 8. pl. qänii. qäinek, derjenige welcher, wer nur, 73. 13. qämek — qämek, qämuk — qäniuk, wer — wer, 75. 4; 85. 12-13.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "which; who",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "hangi; kim",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -2449,10 +2449,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "schloss sich, 82.9.",
       "german_gloss_clean": "schloss sich, 82. 9.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "closed/joined itself",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kapandı/katıldı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2470,10 +2470,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) springe,",
       "german_gloss_clean": "(ich) springe,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I jump",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "atlıyorum/sıçrıyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2491,10 +2491,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "kauye, Kampf, Streit, Schlacht. Vgl. Krin. qauyd, kauyä.",
       "german_gloss_clean": "kauye, Kampf, Streit, Schlacht. Vgl. Krin. qauyd, kauyä.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "fight; conflict/quarrel; battle",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kavga/savaş; kavga/anlaşmazlık; savaş",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2554,10 +2554,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Brief; cf. Krm. s. v. kayid.",
       "german_gloss_clean": "Brief; cf. Krm. s. v. kayid.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "letter",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "mektup",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -2574,11 +2574,11 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "proposed_group_headword": "katjr",
       "group_source": "self",
       "german_gloss_raw": "(türk.",
-      "german_gloss_clean": "(türk.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "german_gloss_clean": "(Osmanisch-Türkisch: قاطر/katır) Maultier",
+      "english_gloss": "(Ottoman Turkish: قاطر/katır) mule",
+      "english_gloss_source": "auto_ottoman_note",
+      "turkish_gloss": "(Osmanlıca: قاطر) katır",
+      "turkish_gloss_source": "auto_ottoman_note",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2596,10 +2596,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Maul- thier.",
       "german_gloss_clean": "Maul- thier.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "here; mule",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "burada; katır",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2637,11 +2637,11 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "proposed_group_headword": "karaküs",
       "group_source": "self",
       "german_gloss_raw": "(türk, Habicht,",
-      "german_gloss_clean": "(türk, Habicht,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "german_gloss_clean": "(Osmanisch-Türkisch: قرا قوش/kara kuş) Habicht",
+      "english_gloss": "(Ottoman Turkish: قرا قوش/kara kuş) hawk",
+      "english_gloss_source": "auto_ottoman_note",
+      "turkish_gloss": "(Osmanlıca: قرا قوش) atmaca/karakuş",
+      "turkish_gloss_source": "auto_ottoman_note",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2659,10 +2659,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Messer. Vgl. Krm. ker.",
       "german_gloss_clean": "Messer. Vgl. Krm. ker.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "knife",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "bıçak",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2680,10 +2680,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "geschlossen habend, 83.4.",
       "german_gloss_clean": "geschlossen habend, 83. 4.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "evening; having closed",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "akşam; kapatmış olarak",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2700,11 +2700,11 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "proposed_group_headword": "qi̥rqi̥šún",
       "group_source": "self",
       "german_gloss_raw": "Blei, Kugel; vgl. türk. ClAj}*- I",
-      "german_gloss_clean": "Blei, Kugel; vgl. türk. ClAj}*- I",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "german_gloss_clean": "(Osmanisch-Türkisch: قورشن/kurşun) Blei, Kugel",
+      "english_gloss": "(Ottoman Turkish: قورشن/kurşun) lead; bullet",
+      "english_gloss_source": "auto_ottoman_note",
+      "turkish_gloss": "(Osmanlıca: قورشن) kurşun",
+      "turkish_gloss_source": "auto_ottoman_note",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -2722,10 +2722,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Flamme, 4.37.",
       "german_gloss_clean": "Flamme, 4. 37.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "flame; lamb",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "alev; kuzu",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2743,10 +2743,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "kurz, qodt. kurz.",
       "german_gloss_clean": "kurz, qodt. kurz.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "short",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kısa",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2785,10 +2785,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "n. pr. 61.7.",
       "german_gloss_clean": "n. pr. 61. 7.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "proper name",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "özel ad",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2806,10 +2806,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Schwerlscheide.",
       "german_gloss_clean": "Schwerlscheide.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "who; sword sheath",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kim; kılıç kını",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2827,10 +2827,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) spreche,",
       "german_gloss_clean": "(ich) spreche,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I speak",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "konuşuyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2869,10 +2869,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Kuckuk. Vgl. Krm. kekö.",
       "german_gloss_clean": "Kuckuk. Vgl. Krm. kekö.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "cuckoo",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "guguk",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2890,10 +2890,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Kranich. Vgl. Krm. kolüig.",
       "german_gloss_clean": "Kranich. Vgl. Krm. kolüig.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "crane",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "turna",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -2932,8 +2932,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "Braten,",
       "german_gloss_clean": "Braten,",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "roast meat",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "kebap",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "kebab",
@@ -3016,10 +3016,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "sobald als, 57.«.",
       "german_gloss_clean": "sobald als, 57. «.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "as soon as",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "olur olmaz",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -3058,10 +3058,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "keineke, Diminutiv von keina, 80.4, s.",
       "german_gloss_clean": "keineke, Diminutiv von keina, 80. 4, s.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "diminutive",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "küçültme biçimi",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3205,10 +3205,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) tödte, 63.o-io. kisün'i, (du) lödtest. 63.12. kist, tödtele, getödtet. kisti , siud getödtet worden, 6 1 .y; 64.13, 14. kiSya. wurde getödtet, 64.13.",
       "german_gloss_clean": "(ich) tödte, 63. o-io. kisün'i, (du) lödtest. 63. 12. kist, tödtele, getödtet. kisti, siud getödtet worden, 6 1. y; 64. 13, 14. kiSya. wurde getödtet, 64. 13.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is; I kill; killed",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir; öldürüyorum; öldürülmüş",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -3226,10 +3226,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Seite des menschlichen Kör- pers, 57.8 li.",
       "german_gloss_clean": "Seite des menschlichen Kör- pers, 57. 8 li.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "person/human",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "insan",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3247,8 +3247,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "Kurde,",
       "german_gloss_clean": "Kurde,",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "Kurd",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "bazışafi zazaların (Bingöl, Palu, Lice) kırdki dil tanımının yanında kullandıklarıkimlik tanımı",
       "turkish_gloss_source": "matched_dezd_headword",
       "existing_parent": "Kırd",
@@ -3268,10 +3268,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Frosch,",
       "german_gloss_clean": "Frosch,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "frog",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kurbağa",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3289,10 +3289,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Sonntag,",
       "german_gloss_clean": "Sonntag,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "day",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "gün",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3310,10 +3310,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "(türk._^T), Eidechse,",
       "german_gloss_clean": "(türk. _^T), Eidechse,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "lizard",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kertenkele",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3331,8 +3331,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "Schulter.",
       "german_gloss_clean": "Schulter.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "shoulder",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "omuz",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "kıft",
@@ -3352,10 +3352,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "ruhe, schlafe; s. kaut,",
       "german_gloss_clean": "ruhe, schlafe; s. kaut,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "sleep; rest, sleep; rest/peace",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "uyku; dinlen, uyu; rahat/huzur",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3415,10 +3415,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Taube. Vgl. npers: J»yS, krm. kevük.",
       "german_gloss_clean": "Taube. Vgl. npers: J»yS, krm. kevük.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "dove/pigeon",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "güvercin",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3478,10 +3478,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Nasenlöcher,",
       "german_gloss_clean": "Nasenlöcher,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "nostrils",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "burun delikleri",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3499,10 +3499,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "abschenlich, 82.8.",
       "german_gloss_clean": "abschenlich, 82. 8.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "repulsive",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "iğrenç",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -3519,11 +3519,11 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "proposed_group_headword": "komur",
       "group_source": "self",
       "german_gloss_raw": "(türk.^y ), Kohle,",
-      "german_gloss_clean": "(türk. ^y ), Kohle,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "german_gloss_clean": "(Osmanisch-Türkisch: كومور/kömür) Kohle",
+      "english_gloss": "(Ottoman Turkish: كومور/kömür) coal",
+      "english_gloss_source": "auto_ottoman_note",
+      "turkish_gloss": "(Osmanlıca: كومور) kömür",
+      "turkish_gloss_source": "auto_ottoman_note",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3541,10 +3541,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "mache, 52. i.",
       "german_gloss_clean": "mache, 52. i.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "make/do",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yap",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3562,10 +3562,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) klopfe,",
       "german_gloss_clean": "(ich) klopfe,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I knock",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "vuruyorum/çarpıyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -3583,10 +3583,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "wohin,",
       "german_gloss_clean": "wohin,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "to where",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "nereye",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3604,10 +3604,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Feld, Acker,",
       "german_gloss_clean": "Feld, Acker,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "field; field/acre",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "tarla/alan; tarla",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -3646,10 +3646,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Fell, Pelz. Vgl. Krm. kurq. r ^^oogk",
       "german_gloss_clean": "Fell, Pelz. Vgl. Krm. kurq. r ^^oogk",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "hide/pelt; fur",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "post/kürk; kürk",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3709,10 +3709,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "beisse.",
       "german_gloss_clean": "beisse.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "bite",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ısır",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3793,10 +3793,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) gehe. di girlai, gingen davon, 62. io.",
       "german_gloss_clean": "(ich) gehe. di girlai, gingen davon, 62. io.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I go; went",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "gidiyorum; gittiler",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3814,10 +3814,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Mal. Ön’a gelähke, dieses Mal.",
       "german_gloss_clean": "Mal. Ön’a gelähke, dieses Mal.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "time/occasion",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kez/defa",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3835,10 +3835,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Haar,",
       "german_gloss_clean": "Haar,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "hair",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "saç/kıl",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3856,8 +3856,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "Ast. gile = g|2ik.",
       "german_gloss_clean": "Ast. gile = g|2ik.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "branch",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "1) dal 2) uç, zirve",
       "turkish_gloss_source": "matched_dezd_headword",
       "existing_parent": "gıl",
@@ -3898,10 +3898,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "gölek, Kalb; s. ga.",
       "german_gloss_clean": "gölek, Kalb; s. ga.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "calf",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "buzağı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3919,10 +3919,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Knöchel.",
       "german_gloss_clean": "Knöchel.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "ankle",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ayak bileği",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -3940,10 +3940,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) nehme, 66.13. bigü (imp.), nimm, bigä, (ich) werde nehmen, bjgi, (du) wirst nehmen, 66.14. geraut, nahm. , k. | kutelän = kuteräh.",
       "german_gloss_clean": "(ich) nehme, 66. 13. bigü (imp. ), nimm, bigä, (ich) werde nehmen, bjgi, (du) wirst nehmen, 66. 14. geraut, nahm. , k. | kutelän = kuteräh.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "who; near; we",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kim; yakın; biz",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -4003,10 +4003,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Kälberweide,",
       "german_gloss_clean": "Kälberweide,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "calf pasture",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "buzağı merası",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4024,10 +4024,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Tanz. Vgl. Krm. gövend.",
       "german_gloss_clean": "Tanz. Vgl. Krm. gövend.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "dance",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "dans/oyun",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4087,10 +4087,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "wann. Vgl. Krm. germ, germ. Xa’in, (arab. ^.li), Verräthcr. Xa'ine ken’a, (ich) verrathe. Vgl. Krm. ka’in. Xazirän, Monatsn.; s. Aktk. I.S.xv. •yarib, (ar. fremd. yal6, YVaizen. Vgl. Krm. genim.",
       "german_gloss_clean": "wann. Vgl. Krm. germ, germ. Xa’in, (arab. ^. li), Verräthcr. Xa'ine ken’a, (ich) verrathe. Vgl. Krm. ka’in. Xazirän, Monatsn. ; s. Aktk. I. S. xv. •yarib, (ar. fremd. yal6, YVaizen. Vgl. Krm. genim.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "when; foreign/strange",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ne zaman; yabancı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4129,10 +4129,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "vierzig,",
       "german_gloss_clean": "vierzig,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "forty",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kırk",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4150,10 +4150,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "vierzigste.",
       "german_gloss_clean": "vierzigste.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "fortieth; forty",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kırkıncı; kırk",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4171,10 +4171,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Schienbein,",
       "german_gloss_clean": "Schienbein,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "shin; leg",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kaval kemiği; bacak",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4192,10 +4192,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Fledermaus,",
       "german_gloss_clean": "Fledermaus,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "bat; mouse",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yarasa; fare",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4213,10 +4213,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Stirn,",
       "german_gloss_clean": "Stirn,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "forehead",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "alın",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4234,10 +4234,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "vierzehn,",
       "german_gloss_clean": "vierzehn,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "fourteen",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "on dört",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4255,10 +4255,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "vierzehnte,",
       "german_gloss_clean": "vierzehnte,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "fourteenth; fourteen; tenth",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "on dördüncü; on dört; onuncu",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4276,10 +4276,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Mittwoch. Vgl. Krm. tarsembe.",
       "german_gloss_clean": "Mittwoch. Vgl. Krm. tarsembe.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "Wednesday; with",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "çarşamba; ile",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4297,10 +4297,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Markt; s. Krm. tarsü. tek = tek.",
       "german_gloss_clean": "Markt; s. Krm. tarsü. tek = tek.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "market",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "pazar",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4318,10 +4318,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "wie viel.",
       "german_gloss_clean": "wie viel.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "how much/how many; much/many",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ne kadar/kaç; çok",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4360,10 +4360,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "20-21. Teite, Ortsname, 63. l. yizmkär = krm.",
       "german_gloss_clean": "20-21. Teite, Ortsname, 63. l. yizmkär = krm.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "name",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ad",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4423,10 +4423,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "vierte,",
       "german_gloss_clean": "vierte,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "fourth",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "dördüncü",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4444,10 +4444,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Pistole.",
       "german_gloss_clean": "Pistole.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is; pistol",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir; tabanca",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4486,10 +4486,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "sobald, 70.i2-t3.",
       "german_gloss_clean": "sobald, 70. i2-t3.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "as soon as",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "olur olmaz",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4507,10 +4507,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Speise, 54.10.",
       "german_gloss_clean": "Speise, 54. 10.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "food",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yemek/yiyecek",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4549,10 +4549,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "(türk. ^L»), Eidechse,",
       "german_gloss_clean": "(türk. ^L»), Eidechse,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "lizard",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kertenkele",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4591,10 +4591,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Brust (weibliche). Vgl. P. Boetticher Arica, p. 72 (172).",
       "german_gloss_clean": "Brust (weibliche). Vgl. P. Boetticher Arica, p. 72 (172).",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "breast/chest",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "göğüs",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4633,10 +4633,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) schneide, mähe, tina, schnitt, 49.9; 50.8. bitiua, (ich) werde schneiden, bitini, werden schneiden, 49.7.",
       "german_gloss_clean": "(ich) schneide, mähe, tina, schnitt, 49. 9; 50. 8. bitiua, (ich) werde schneiden, bitini, werden schneiden, 49. 7.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "who",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kim",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4654,10 +4654,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "ist nicht, 55.12-13. Vgl. Krm. tune,",
       "german_gloss_clean": "ist nicht, 55. 12-13. Vgl. Krm. tune,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is; not",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir; değil/-me",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4675,10 +4675,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "(ar. ^Ij»), Chirurg. [ez tirdhei d'ewya, ich bin der Chirurg des Dev, nicht: ich",
       "german_gloss_clean": "(ar. ^Ij»), Chirurg. [ez tirdhei d'ewya, ich bin der Chirurg des Dev, nicht: ich",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "surgeon; not",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "cerrah; değil/-me",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4696,10 +4696,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Ort. Vgl. Krm. dl, di. däde ver da, warf hiD, warf bei Seite, 72.3-4. daiki, an einem Orte, irgendwo.",
       "german_gloss_clean": "Ort. Vgl. Krm. dl, di. däde ver da, warf hiD, warf bei Seite, 72. 3-4. daiki, an einem Orte, irgendwo.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "threw",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "attı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -4717,10 +4717,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Gerste. Vgl. Krm. de.",
       "german_gloss_clean": "Gerste. Vgl. Krm. de.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "barley; first",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "arpa; birinci",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4759,10 +4759,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Heldenseele,",
       "german_gloss_clean": "Heldenseele,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "hero",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kahraman/yiğit",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4780,10 +4780,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "bitter. Vgl. Krm. tal.",
       "german_gloss_clean": "bitter. Vgl. Krm. tal.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "bitter",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "acı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4801,10 +4801,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "(ar. ^Jy»), Au ,wort. debäbe ken’a , debiibc dann, (ich) antworte, 50.8.",
       "german_gloss_clean": "(ar. ^Jy»), Au, wort. debäbe ken’a, debiibc dann, (ich) antworte, 50. 8.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "answer; I answer",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "cevap; cevap veriyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4822,10 +4822,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "so lange bis, nicht frü- her als, 66.14; 67. l.",
       "german_gloss_clean": "so lange bis, nicht frü- her als, 66. 14; 67. l.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "until; not",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-e kadar; değil/-me",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -4843,10 +4843,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "hebe, nicht, 49.2; 61.9.",
       "german_gloss_clean": "hebe, nicht, 49. 2; 61. 9.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "not",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "değil/-me",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4864,10 +4864,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "nicht,",
       "german_gloss_clean": "nicht,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "not",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "değil/-me",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -4885,10 +4885,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "waren nicht,",
       "german_gloss_clean": "waren nicht,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "not; were not",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "değil/-me; değildi/değillerdi",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4927,10 +4927,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "warum, 73.7.",
       "german_gloss_clean": "warum, 73. 7.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "why",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "neden",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -4948,10 +4948,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Heimchen,",
       "german_gloss_clean": "Heimchen,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "cricket",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "cırcır böceği",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -4990,10 +4990,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "tü, Stab.",
       "german_gloss_clean": "tü, Stab.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "staff/stick",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "sopa/değnek",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5011,10 +5011,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Säugling; s. tjde.",
       "german_gloss_clean": "Säugling; s. tjde.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "infant",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "bebek",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5053,10 +5053,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Leiche, 65. i.",
       "german_gloss_clean": "Leiche, 65. i.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "corpse",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ceset",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5074,10 +5074,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "ez vizdi denen’a, ich pfeife,",
       "german_gloss_clean": "ez vizdi denen’a, ich pfeife,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I whistle",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ıslık çalıyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5116,10 +5116,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Pflug, Pfluggespaun. Vgl. Krm. döt. dit kdn’e, (ich) pflüge,",
       "german_gloss_clean": "Pflug, Pfluggespaun. Vgl. Krm. döt. dit kdn’e, (ich) pflüge,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "plough; plough team; I plough",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "saban; saban takımı; sürüyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -5137,10 +5137,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Leiche: s. denazd.",
       "german_gloss_clean": "Leiche: s. denazd.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "corpse",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ceset",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5158,10 +5158,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "veri doan, einst, 71.3.",
       "german_gloss_clean": "veri doan, einst, 71. 3.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "once/formerly",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "bir zamanlar",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -5179,10 +5179,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Grube.",
       "german_gloss_clean": "Grube.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "pit",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "çukur",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5200,10 +5200,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "schrieb nicht,",
       "german_gloss_clean": "schrieb nicht,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "not; did not write",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "değil/-me; yazmadı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5221,10 +5221,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "werde nicht spre chen, 61.8.",
       "german_gloss_clean": "werde nicht spre chen, 61. 8.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "who; not",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kim; değil/-me",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5242,10 +5242,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) höre nicht,",
       "german_gloss_clean": "(ich) höre nicht,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "not; I do not hear",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "değil/-me; duymuyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5263,10 +5263,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "hörte nicht, 50.7.",
       "german_gloss_clean": "hörte nicht, 50. 7.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "not; did not hear",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "değil/-me; duymadı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5305,10 +5305,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Appellativ von Nerib.",
       "german_gloss_clean": "Appellativ von Nerib.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "appellative/demonym",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "adlandırma/nisbe",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5326,10 +5326,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "sind nicht, werden nicht",
       "german_gloss_clean": "sind nicht, werden nicht",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "who; not",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kim; değil/-me",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5389,10 +5389,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "eilf.",
       "german_gloss_clean": "eilf.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "eleven",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "on bir",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5410,10 +5410,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "eilfte.",
       "german_gloss_clean": "eilfte.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "eleven; eleventh",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "on bir; on birinci",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5431,10 +5431,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "der, die, das andere, yaundes = yaudes.",
       "german_gloss_clean": "der, die, das andere, yaundes = yaudes.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "the other",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "öteki/diğer",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5452,10 +5452,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "erste,",
       "german_gloss_clean": "erste,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "first",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "birinci",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5473,10 +5473,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "längst,",
       "german_gloss_clean": "längst,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "long ago/already",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "çoktan",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5494,10 +5494,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Ring am Finger.",
       "german_gloss_clean": "Ring am Finger.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "finger ring",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yüzük",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5557,10 +5557,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Fehde,",
       "german_gloss_clean": "Fehde,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "feud",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kan davası/kavga",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -5599,10 +5599,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "auch du; s. tu.",
       "german_gloss_clean": "auch du; s. tu.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "you too",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "sen de",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5620,10 +5620,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Türke.",
       "german_gloss_clean": "Türke.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "Turk",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "Türk",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5641,10 +5641,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Schild (nicht Gürtel wie 72. übersetzt ist),",
       "german_gloss_clean": "Schild (nicht Gürtel wie 72. übersetzt ist),",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is; not",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir; değil/-me",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5662,10 +5662,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "hier; s. ctia. sein, 62 9.",
       "german_gloss_clean": "hier; s. ctia. sein, 62 9.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "here",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "burada",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -5683,10 +5683,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "ist nicht, 62. i»",
       "german_gloss_clean": "ist nicht, 62. i»",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is; not",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir; değil/-me",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -5767,10 +5767,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "sein, seine, sein; ihr, ihre, ihr, 49.3. y£ne, 64.3. ydnera, 64.4.",
       "german_gloss_clean": "sein, seine, sein; ihr, ihre, ihr, 49. 3. y£ne, 64. 3. ydnera, 64. 4.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "his/its; her/their",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "onun; onun/onların",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5809,8 +5809,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "Frucht.",
       "german_gloss_clean": "Frucht.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "fruit",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "yemiş",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "yemiş",
@@ -5830,10 +5830,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Schein, Glanz.",
       "german_gloss_clean": "Schein, Glanz.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "shine/appearance; shine/splendor",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "parıltı/görünüş; parıltı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5851,10 +5851,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "(ar. fJL), Talisman.",
       "german_gloss_clean": "(ar. fJL), Talisman.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "talisman",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "tılsım",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5872,10 +5872,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "sammelte, versammelte. tople kerd, versammelte,",
       "german_gloss_clean": "sammelte, versammelte. tople kerd, versammelte,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "gathered; assembled/gathered",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "topladı; topladı/bir araya getirdi",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5893,10 +5893,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "’ Hagel,",
       "german_gloss_clean": "’ Hagel,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "hail",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "dolu",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5956,10 +5956,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Flinte; s. Krm. tufeng.",
       "german_gloss_clean": "Flinte; s. Krm. tufeng.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "rifle/gun",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "tüfek",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -5977,10 +5977,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "däre tuyera, Maulbeerbaum,",
       "german_gloss_clean": "däre tuyera, Maulbeerbaum,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "mulberry tree",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "dut ağacı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -5998,10 +5998,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "reisse aus, schlage ab. tra ke (imp.), schlage ab. tra kerd, riss ab, schlug ab.",
       "german_gloss_clean": "reisse aus, schlage ab. tra ke (imp. ), schlage ab. tra kerd, riss ab, schlug ab.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "tear out; cut/strike off; tore off; cut/struck off",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kopar; kes/kopar; kopardı; kesti/kopardı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6082,10 +6082,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Dorfbewohner,",
       "german_gloss_clean": "Dorfbewohner,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "without; village",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "olmadan/-sız; köy",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6103,10 +6103,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Trommel.",
       "german_gloss_clean": "Trommel.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "drum",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "davul",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6117,17 +6117,17 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "entry_id": "lerch_glossary_p208_r0292:entry",
       "source_page": "208",
       "raw_lerch_headword": "daM",
-      "corrected_lerch_headword": "daM",
+      "corrected_lerch_headword": "dahā́",
       "corrected_headword_source": "raw_extraction",
-      "modern_zazaki_guess": "daM",
-      "proposed_group_headword": "daM",
+      "modern_zazaki_guess": "daha",
+      "proposed_group_headword": "daha",
       "group_source": "self",
       "german_gloss_raw": "(türk, ^ia), noch, dat.",
-      "german_gloss_clean": "(türk, ^ia), noch, dat.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "german_gloss_clean": "(Osmanisch-Türkisch: دخى/dahi) noch",
+      "english_gloss": "(Ottoman Turkish: دخى/dahi) still/yet/more",
+      "english_gloss_source": "auto_ottoman_note",
+      "turkish_gloss": "(Osmanlıca: دخى) dahi/daha",
+      "turkish_gloss_source": "auto_ottoman_note",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6145,10 +6145,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Vatersbruder,",
       "german_gloss_clean": "Vatersbruder,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "father; brother",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "baba; erkek kardeş",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6166,10 +6166,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "(ich) gebe. Vgl. Krm. da. dar. Baum. Vgl. Knn. dar.",
       "german_gloss_clean": "(ich) gebe. Vgl. Krm. da. dar. Baum. Vgl. Knn. dar.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I give",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "veriyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -6229,10 +6229,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "zehnte,",
       "german_gloss_clean": "zehnte,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "tenth",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "onuncu",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6355,10 +6355,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "geschieht,",
       "german_gloss_clean": "geschieht,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "happens",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "olur",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -6397,10 +6397,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Waschung.",
       "german_gloss_clean": "Waschung.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "washing/ablution; what",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yıkanma/abdest; ne",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6523,10 +6523,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "verborgen, heimlich,",
       "german_gloss_clean": "verborgen, heimlich,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "hidden; secretly/hidden",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "gizli; gizlice/gizli",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6586,10 +6586,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "diin, zweite,",
       "german_gloss_clean": "diin, zweite,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "second",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ikinci",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6628,10 +6628,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Buttermilch,",
       "german_gloss_clean": "Buttermilch,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "milk",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "süt",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6670,10 +6670,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Flöte,",
       "german_gloss_clean": "Flöte,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "flute",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "flüt/kaval",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6733,10 +6733,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "zwölf,",
       "german_gloss_clean": "zwölf,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "twelve",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "on iki",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6754,8 +6754,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "zwölfte,",
       "german_gloss_clean": "zwölfte,",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "twelfth; twelve",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "on ikinci, on ikili",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "dûyesın",
@@ -6796,10 +6796,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Höhle. S. Kuhns Zeitschrift, V, 225. dumilbäz, Trommel. dumilbäzi dai püroe, schlug die Trommel.",
       "german_gloss_clean": "Höhle. S. Kuhns Zeitschrift, V, 225. dumilbäz, Trommel. dumilbäzi dai püroe, schlug die Trommel.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "drum; cave; time",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "davul; mağara; zaman",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -6817,10 +6817,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Dev. Vgl. JC: daöva; altb: da6va (s. Brnf. Coinni. s. I. Y. 8, 78; Brckh. Gl. s. v.); npers: krm. dlv. Cf. Spiegel Ave- sta, Uebers, I, 6, i 0, Schlei- cher Lit. Gr. S. 87; Las- »a = nah.",
       "german_gloss_clean": "Dev. Vgl. JC: daöva; altb: da6va (s. Brnf. Coinni. s. I. Y. 8, 78; Brckh. Gl. s. v. ); npers: krm. dlv. Cf. Spiegel Ave- sta, Uebers, I, 6, i 0, Schlei- cher Lit. Gr. S. 87; Las- »a = nah.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "mirror; near",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ayna; yakın",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6838,10 +6838,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "naista yaista , hier und dort,",
       "german_gloss_clean": "naista yaista, hier und dort,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "here; is; there",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "burada; -dır/-dir; orada",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6859,10 +6859,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "neun,",
       "german_gloss_clean": "neun,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "nine",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "dokuz",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6880,10 +6880,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "neunzig,",
       "german_gloss_clean": "neunzig,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "ninety; nine",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "doksan; dokuz",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6901,10 +6901,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "neunzigste,",
       "german_gloss_clean": "neunzigste,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "ninetieth; ninety; nine",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "doksanıncı; doksan; dokuz",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6922,10 +6922,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "neunte. naM, (ar. iu»U), Landschaft, 61 .7.",
       "german_gloss_clean": "neunte. naM, (ar. iu»U), Landschaft, 61. 7.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "nine; sheep",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "dokuz; koyun",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6943,10 +6943,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Schnabel. Vgl. Krm. nekül’e.",
       "german_gloss_clean": "Schnabel. Vgl. Krm. nekül’e.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "beak",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "gaga",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6964,10 +6964,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Brod; s. Krm. nah.",
       "german_gloss_clean": "Brod; s. Krm. nah.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "near",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yakın",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -6985,10 +6985,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Name. Vgl. Krm. nav.",
       "german_gloss_clean": "Name. Vgl. Krm. nav.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "name",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ad",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7006,10 +7006,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Mittag. Vgl. Krm. nlvro. neuy6s, neunzehn,",
       "german_gloss_clean": "Mittag. Vgl. Krm. nlvro. neuy6s, neunzehn,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "with; nine; day",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ile; dokuz; gün",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7027,10 +7027,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Nagel. sen Ind. Alterthumskunde I, 755. dewi = d'au.",
       "german_gloss_clean": "Nagel. sen Ind. Alterthumskunde I, 755. dewi = d'au.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "nail",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "tırnak/çivi",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7048,10 +7048,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Grossmutier,",
       "german_gloss_clean": "Grossmutier,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "grandmother",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "büyükanne",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7069,8 +7069,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "Waud.",
       "german_gloss_clean": "Waud.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "wall",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "duvar",
       "turkish_gloss_source": "matched_dezd_headword",
       "existing_parent": "dês",
@@ -7111,10 +7111,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "jetzt; s. enkai.",
       "german_gloss_clean": "jetzt; s. enkai.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "now",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "şimdi",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -7132,10 +7132,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "bückten sich, 83.6.",
       "german_gloss_clean": "bückten sich, 83. 6.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "bent down",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "eğildiler",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -7153,10 +7153,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "nah; s. Krm. nizik.",
       "german_gloss_clean": "nah; s. Krm. nizik.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "near",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yakın",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7174,10 +7174,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Gebet. Vgl. Krm. nemeü.",
       "german_gloss_clean": "Gebet. Vgl. Krm. nemeü.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I give; prayer",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "veriyorum; namaz/dua",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7195,10 +7195,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "zart. Vgl. Krm. nenn, njzdf = nczdi.",
       "german_gloss_clean": "zart. Vgl. Krm. nenn, njzdf = nczdi.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "tender/delicate",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "nazik/körpe",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7237,10 +7237,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Faust,",
       "german_gloss_clean": "Faust,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "fist",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yumruk",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7258,10 +7258,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) schreibe, ngst, schrieb. binusd, (ich) werde schreiben.",
       "german_gloss_clean": "(ich) schreibe, ngst, schrieb. binusd, (ich) werde schreiben.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "who",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kim",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -7321,10 +7321,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Stadt; vgl. npers",
       "german_gloss_clean": "Stadt; vgl. npers",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "city",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "şehir",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7342,10 +7342,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Abends.",
       "german_gloss_clean": "Abends.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "evening",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "akşam",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7363,10 +7363,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Regenwurm.",
       "german_gloss_clean": "Regenwurm.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "earthworm; rain",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "solucan; yağmur",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7384,10 +7384,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "fremd.",
       "german_gloss_clean": "fremd.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "foreign/strange",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yabancı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -7426,8 +7426,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "sechs.",
       "german_gloss_clean": "sechs.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "six",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "altı",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "şeş",
@@ -7447,10 +7447,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "sechste.",
       "german_gloss_clean": "sechste.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "sixth; six",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "altıncı; altı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7510,10 +7510,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "sechszig.",
       "german_gloss_clean": "sechszig.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "sixty; six",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "altmış; altı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7531,10 +7531,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "scchszigste.",
       "german_gloss_clean": "scchszigste.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "sixtieth",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "altmışıncı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7552,10 +7552,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Gitterfenster (arab. ±JLi «feuestrae reticulatac»), Git- terthür.",
       "german_gloss_clean": "Gitterfenster (arab. ±JLi «feuestrae reticulatac»), Git- terthür.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "lattice window",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kafesli pencere",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7594,10 +7594,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Si, gingen, 59.5; s. suen’a.",
       "german_gloss_clean": "Si, gingen, 59. 5; s. suen’a.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "went",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "gittiler",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7636,10 +7636,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "sechszehute.",
       "german_gloss_clean": "sechszehute.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "sixteenth; six",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "on altıncı; altı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7678,10 +7678,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Milch.",
       "german_gloss_clean": "Milch.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "milk",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "süt",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -7720,10 +7720,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Weinmoost. S. Krm. sIV.",
       "german_gloss_clean": "Weinmoost. S. Krm. sIV.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "grape must",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "şıra",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7741,10 +7741,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) gehe. Süe (imp.), geh, 52. io. te sueu’i, du gehst; hesußn’i, du gehst uicht 52.10. Syera, (ich) werde gehen; ma Syßri , wir werden gehen , 49.4; 55.»; 62.7. Se, ging; Sl, Si, gingen. Syeri, geht (imp. 2. pl.), 55.8. Vgl. JC: siyu (imparf. asiyava) = aller (Opp.",
       "german_gloss_clean": "(ich) gehe. Süe (imp. ), geh, 52. io. te sueu’i, du gehst; hesußn’i, du gehst uicht 52. 10. Syera, (ich) werde gehen; ma Syßri, wir werden gehen, 49. 4; 55. »; 62. 7. Se, ging; Sl, Si, gingen. Syeri, geht (imp. 2. pl. ), 55. 8. Vgl. JC: siyu (imparf. asiyava) = aller (Opp.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "all; who; I go; went; we",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "hepsi; kim; gidiyorum; gittiler; biz",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7783,10 +7783,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Löwe. Vgl. Krm. slr, syer.",
       "german_gloss_clean": "Löwe. Vgl. Krm. slr, syer.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "lion",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "aslan",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7846,10 +7846,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "hart, fest (pers. «!-*-).",
       "german_gloss_clean": "hart, fest (pers. «!-*-).",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "hard; firm/solid",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "sert; sağlam",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -7867,8 +7867,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "däre sayer, Apfelbaum, 60. t.",
       "german_gloss_clean": "däre sayer, Apfelbaum, 60. t.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "apple tree",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "elma ağacı",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "sayyer, sayer",
@@ -7909,8 +7909,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "1) was.",
       "german_gloss_clean": "1) was.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "what",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "ne, hangi şey",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "se",
@@ -7972,10 +7972,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "warum, 52.7.",
       "german_gloss_clean": "warum, 52. 7.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "why",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "neden",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -7993,10 +7993,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "welcher, e, es, 59.16.",
       "german_gloss_clean": "welcher, e, es, 59. 16.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "which",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "hangi",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8035,10 +8035,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "gegeu, zu.",
       "german_gloss_clean": "gegeu, zu.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "against/toward; to",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "karşı/-e doğru; -e/-a",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8077,10 +8077,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "322. seraksie, in vergangenem Jahre, sera paryin’e, in vergangenem Jahre.",
       "german_gloss_clean": "322. seraksie, in vergangenem Jahre, sera paryin’e, in vergangenem Jahre.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "year",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yıl",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8098,8 +8098,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "wohin, 57. l,",
       "german_gloss_clean": "wohin, 57. l,",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "to where",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "nere, nereye, hangi yere",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "sera",
@@ -8140,10 +8140,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Pfeifenrohr.",
       "german_gloss_clean": "Pfeifenrohr.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I whistle; ear",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ıslık çalıyorum; kulak",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8161,10 +8161,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Zazd. .",
       "german_gloss_clean": "Zazd. .",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "Zaza",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "Zaza",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8182,10 +8182,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Appellativ von Zazd.",
       "german_gloss_clean": "Appellativ von Zazd.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "appellative/demonym; Zaza",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "adlandırma/nisbe; Zaza",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8308,10 +8308,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Schneehuhn: - —ff' , zerd, gelb. Vgl. Krm. zer.",
       "german_gloss_clean": "Schneehuhn: - —ff', zerd, gelb. Vgl. Krm. zer.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "snow",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kar",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8329,10 +8329,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Gefängniss, Grube, 57 .8; 80.9. Vgl. npers: (j\\jjj-",
       "german_gloss_clean": "Gefängniss, Grube, 57. 8; 80. 9. Vgl. npers: (j\\jjj-",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "pit; prison",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "çukur; hapishane",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -8371,8 +8371,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "Zeit.",
       "german_gloss_clean": "Zeit.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "time",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "zaman",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "zemun, zeman",
@@ -8392,10 +8392,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) mache Weg, d. i. geleite. ra kdrdi, geleitete, 85. io.",
       "german_gloss_clean": "(ich) mache Weg, d. i. geleite. ra kdrdi, geleitete, 85. io.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "make/do; road/way",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yap; yol",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8413,10 +8413,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "lege mich nieder, ruhe, schlafe. ra kaüta, schlief, ra ki, (imp.) lege dich nieder, schlafe, 86.3. weraku, er möge ruhen, 86.4. raät, recht. Vgl. Krm. rast, ravdr, Weg. Vgl. Krm. re. rab, (ar. Herr. Vgl. Krui. zeinän 2). zemäne verie, in früherer Zeit, einst, vor Zeiten, 80.«.",
       "german_gloss_clean": "lege mich nieder, ruhe, schlafe. ra kaüta, schlief, ra ki, (imp. ) lege dich nieder, schlafe, 86. 3. weraku, er möge ruhen, 86. 4. raät, recht. Vgl. Krm. rast, ravdr, Weg. Vgl. Krm. re. rab, (ar. Herr. Vgl. Krui. zeinän 2). zemäne verie, in früherer Zeit, einst, vor Zeiten, 80. «.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "sleep; down; who; rest, sleep; branch; once/formerly; ran; rest/peace; time; road/way",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "uyku; aşağı; kim; dinlen, uyu; dal; bir zamanlar; koştu; rahat/huzur; zaman; yol",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8476,10 +8476,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Sattel. Vgl. Krm. zin.",
       "german_gloss_clean": "Sattel. Vgl. Krm. zin.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "saddle",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "eyer",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8497,10 +8497,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Knabe. 70. n.",
       "german_gloss_clean": "Knabe. 70. n.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "boy",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "oğlan/erkek çocuk",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8518,10 +8518,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "* Schnurrbart. Vgl. Krm. simböl.",
       "german_gloss_clean": "* Schnurrbart. Vgl. Krm. simböl.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "beard",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "sakal",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8539,8 +8539,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "Sommerlager. S. Krm. zozän.",
       "german_gloss_clean": "Sommerlager. S. Krm. zozän.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "summer pasture",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "yayla",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "zuezun, zozan",
@@ -8560,10 +8560,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Zunge, 57.8. Vgl. Krm. zemäh 1).",
       "german_gloss_clean": "Zunge, 57. 8. Vgl. Krm. zemäh 1).",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "tongue",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "dil",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -8581,10 +8581,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "ramia, lief, floh. Vgl. Krm. revid.",
       "german_gloss_clean": "ramia, lief, floh. Vgl. Krm. revid.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "ran; fled",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "koştu; kaçtı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8602,10 +8602,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Schenkel, resane. Strick. Vgl. Krm. weris. rez, Weingarten, Weinberg. Vgl. Krm. rezi tri. rind, schön, gut; s. Krm. rind. rim, Speer, Lanze; s. Krm. rim. ri, Barl. S. Krm. ri 2). rö, Bach. rönist, setzte sich, 63.2; s. ruen’a. Vgl. Krni. rüniät. ru6n’a, (ich) setze dich nieder. berü§, (imp.) sitz nieder, ruen^n’a, ich stelle hin. la = rö. lau, Lippe. Vgl. Krm. lev. lau wfin’u, bellt. kütlk lau wen’u bellt. lauk, Gesang, Lied. S. Krm. lauk 2). laukbänu, laukvänu, er singt,",
       "german_gloss_clean": "Schenkel, resane. Strick. Vgl. Krm. weris. rez, Weingarten, Weinberg. Vgl. Krm. rezi tri. rind, schön, gut; s. Krm. rind. rim, Speer, Lanze; s. Krm. rim. ri, Barl. S. Krm. ri 2). rö, Bach. rönist, setzte sich, 63. 2; s. ruen’a. Vgl. Krni. rüniät. ru6n’a, (ich) setze dich nieder. berü§, (imp. ) sitz nieder, ruen^n’a, ich stelle hin. la = rö. lau, Lippe. Vgl. Krm. lev. lau wfin’u, bellt. kütlk lau wen’u bellt. lauk, Gesang, Lied. S. Krm. lauk 2). laukbänu, laukvänu, er singt,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "stream; is; down; who; mountain",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "dere; -dır/-dir; aşağı; kim; dağ",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8623,10 +8623,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Rede; v. Krm. s. cad. v.",
       "german_gloss_clean": "Rede; v. Krm. s. cad. v.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "speech/word",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "söz/konuşma",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8644,8 +8644,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "zu.",
       "german_gloss_clean": "zu.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "to",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "-e, -a; | ona, onlara",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "pa",
@@ -8686,10 +8686,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) warte. Vgl. npers: ma pa’üt, ich wartete, pa’üt, wartete, 87.1. newete pa’üte, hielt Wache, stand auf der Wache, 83.6.",
       "german_gloss_clean": "(ich) warte. Vgl. npers: ma pa’üt, ich wartete, pa’üt, wartete, 87. 1. newete pa’üte, hielt Wache, stand auf der Wache, 83. 6.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I wait",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "bekliyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8707,10 +8707,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich koche). paü2e, koche (imp.), 51,to. Vgl. Krm. peüänd. pan^, fünf,",
       "german_gloss_clean": "(ich koche). paü2e, koche (imp. ), 51, to. Vgl. Krm. peüänd. pan^, fünf,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I cook; five",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "pişiriyorum; beş",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8749,10 +8749,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Bein. Vgl. Krm. ling.",
       "german_gloss_clean": "Bein. Vgl. Krm. ling.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "leg",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "bacak",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8791,10 +8791,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Flöte.",
       "german_gloss_clean": "Flöte.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "flute",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "flüt/kaval",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8812,10 +8812,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "fünfzigste,",
       "german_gloss_clean": "fünfzigste,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "fiftieth; five",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ellinci; beş",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8833,10 +8833,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "fünfzehn,",
       "german_gloss_clean": "fünfzehn,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "fifteen; five",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "on beş; beş",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8854,10 +8854,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "fünfzehnte,",
       "german_gloss_clean": "fünfzehnte,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "tenth; fifteenth; fifteen; five",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "onuncu; on beşinci; on beş; beş",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8875,10 +8875,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "fünfte,",
       "german_gloss_clean": "fünfte,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "fifth; five",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "beşinci; beş",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -8896,10 +8896,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Jacke,",
       "german_gloss_clean": "Jacke,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "jacket",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ceket",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9001,8 +9001,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "Käse. Vgl. Krm. pantr, penir.",
       "german_gloss_clean": "Käse. Vgl. Krm. pantr, penir.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "cheese",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "peynir",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "pendir, penir",
@@ -9022,10 +9022,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Donnerstag. Vgl. Krm. peSembe.",
       "german_gloss_clean": "Donnerstag. Vgl. Krm. peSembe.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "day",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "gün",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9043,8 +9043,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "Vieh,",
       "german_gloss_clean": "Vieh,",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "livestock",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "(koyun, keçi) küçük baş hayvan; | keçi veya koyun sürüsü",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "pes",
@@ -9064,10 +9064,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Kuckuk. Vgl. Krm. paptik, pepfing,",
       "german_gloss_clean": "Kuckuk. Vgl. Krm. paptik, pepfing,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "cuckoo",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "guguk",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9085,10 +9085,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "mit, 64.12.",
       "german_gloss_clean": "mit, 64. 12.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "with",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ile",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9106,10 +9106,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Fussvolk, 74.7; 75.4.",
       "german_gloss_clean": "Fussvolk, 74. 7; 75. 4.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "foot",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ayak",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -9127,10 +9127,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "darauf, nachher, 03.9.",
       "german_gloss_clean": "darauf, nachher, 03. 9.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "after that/thereupon; afterward",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "sonra/bunun üzerine; sonra",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -9148,10 +9148,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "s. pya. peira kaut, folgte ihnen, ver- folgte sie, 69.13.",
       "german_gloss_clean": "s. pya. peira kaut, folgte ihnen, ver- folgte sie, 69. 13.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "followed",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "takip etti",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -9169,10 +9169,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Feder,",
       "german_gloss_clean": "Feder,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "feather",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "tüy",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9190,10 +9190,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Katze. Vgl. Krm. pcsik.",
       "german_gloss_clean": "Katze. Vgl. Krm. pcsik.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "cat",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kedi",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9211,10 +9211,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) fliego, springe,",
       "german_gloss_clean": "(ich) fliego, springe,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I jump",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "atlıyorum/sıçrıyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9232,10 +9232,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Hemd,",
       "german_gloss_clean": "Hemd,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "shirt",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "gömlek",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9274,10 +9274,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) frage,",
       "german_gloss_clean": "(ich) frage,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I ask",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "soruyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9295,8 +9295,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "Flügel,",
       "german_gloss_clean": "Flügel,",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "wing",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "yaprak; | kanat",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "pel",
@@ -9316,10 +9316,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "blase. Vgl. Krm. pif dekim.",
       "german_gloss_clean": "blase. Vgl. Krm. pif dekim.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "blow",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "üfle",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9400,10 +9400,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Bauch. pize senik, Unterleib.",
       "german_gloss_clean": "Bauch. pize senik, Unterleib.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "belly; lower abdomen",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "karın; alt karın",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9442,10 +9442,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Grossvater von mütter- licher Seite. S. Krm. pir. plrik, Grossvaler.",
       "german_gloss_clean": "Grossvater von mütter- licher Seite. S. Krm. pir. plrik, Grossvaler.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "father",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "baba",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9463,10 +9463,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Spinne,",
       "german_gloss_clean": "Spinne,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "spider",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "örümcek",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9484,10 +9484,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "viel. Vgl. Krm. pur.",
       "german_gloss_clean": "viel. Vgl. Krm. pur.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "much/many",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "çok",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9505,10 +9505,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Pilav. Vgl. npers; _,*)!j>.",
       "german_gloss_clean": "Pilav. Vgl. npers; _, *)!j>.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "pilaf",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "pilav",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -9568,10 +9568,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "niest, 2,4«. puroe = pero. dümilbazi dai puroe, schlugen die Trommel, 68.3.",
       "german_gloss_clean": "niest, 2, 4«. puroe = pero. dümilbazi dai puroe, schlugen die Trommel, 68. 3.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "drum",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "davul",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9589,8 +9589,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "der eine und der andere, pya be wesi, jfalai dai pyera, versöhnten sich , tauschten mit einander Ehrenkleider aus, 71.1. pydru mdndi wddede, blieben mit einander ira Hause, 65.2.",
       "german_gloss_clean": "der eine und der andere, pya be wesi, jfalai dai pyera, versöhnten sich, tauschten mit einander Ehrenkleider aus, 71. 1. pydru mdndi wddede, blieben mit einander ira Hause, 65. 2.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "with; house",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "birbirine",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "pia, pıya, pya",
@@ -9610,10 +9610,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "zusammen. amei pyeser, kamen zusam- men, 62.3.",
       "german_gloss_clean": "zusammen. amei pyeser, kamen zusammen, 62. 3.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "together",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "birlikte",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -9631,10 +9631,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "1) viel, = ptru.",
       "german_gloss_clean": "1) viel, = ptru.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "much/many",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "çok",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -9694,10 +9694,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "sieh, 5 1 63.«; s. auhen’a.",
       "german_gloss_clean": "sieh, 5 1 63. «; s. auhen’a.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "look",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "bak",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -9736,10 +9736,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Markt, Markttag,",
       "german_gloss_clean": "Markt, Markttag,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "market; day",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "pazar; gün",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9757,10 +9757,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Armband. S. Krm. bazjn.",
       "german_gloss_clean": "Armband. S. Krm. bazjn.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "bracelet",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "bilezik",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9778,10 +9778,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "lasse los, lasse, 62. i. Vgl Krm. ber dim.",
       "german_gloss_clean": "lasse los, lasse, 62. i. Vgl Krm. ber dim.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "let go/release",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "bırak",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9820,10 +9820,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "dünn, 3.27.",
       "german_gloss_clean": "dünn, 3. 27.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "thin",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ince",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9841,10 +9841,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Kissen,",
       "german_gloss_clean": "Kissen,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "pillow",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yastık",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9904,10 +9904,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "getragen; s. ard.",
       "german_gloss_clean": "getragen; s. ard.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "carried/worn",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "taşınmış/giyilmiş",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -9925,10 +9925,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "schicke, 5l.ii; s. ersdu- wdn'a.",
       "german_gloss_clean": "schicke, 5l. ii; s. ersdu- wdn'a.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I send",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "gönderiyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -9946,10 +9946,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "berz, hoch. Vgl. npers: ez kdna berz. ich erhöhe,",
       "german_gloss_clean": "berz, hoch. Vgl. npers: ez kdna berz. ich erhöhe,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "high; I raise",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yüksek; yükseltiyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9967,10 +9967,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "weinte, 55. io. bermdn’a, (ich) weine, bermdye, 81. 12.",
       "german_gloss_clean": "weinte, 55. io. bermdn’a, (ich) weine, bermdye, 81. 12.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "wept; I weep",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ağladı; ağlıyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -9988,10 +9988,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Standartenträger,",
       "german_gloss_clean": "Standartenträger,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "standard-bearer",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "sancaktar",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -10030,10 +10030,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "drang vor, 64 4. ber bidikni, dringet vor, 64.2.",
       "german_gloss_clean": "drang vor, 64 4. ber bidikni, dringet vor, 64. 2.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "advanced/pressed forward; advance",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ileri atıldı; ileri atılın",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10072,10 +10072,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Augenbrauen,",
       "german_gloss_clean": "Augenbrauen,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "eye",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "göz",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10093,10 +10093,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "(ich) werde machen; s. kdn’a.",
       "german_gloss_clean": "(ich) werde machen; s. kdn’a.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "who; make/do",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kim; yap",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10114,10 +10114,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "werden tödten; s. kiädn’a. .",
       "german_gloss_clean": "werden tödten; s. kiädn’a. .",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "who; I kill",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kim; öldürüyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -10135,10 +10135,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "bigd, (imp.) nimm, 52 is; 54.t; 57.4. bitine, (imp.) schneide, 50.13; s. tinena. bjdd, (imp.) gieb, 51.8-7. bidü = bidd, 52. t. bjne, bjni, auf, über, 54. 10; 64.10. biSikni, s. ber sikit. bjst, band, fesselte. Vgl. npers: qätni te bjsti, wer hat dich ge- fesselt, 56. h. ez bjsta, ich bin gefesselt wor- den, 56.10. bizeia, bjzyd, Ziege. Vgl. Krm. bjziu. bizyßk, Zickel, bjrna, schnitt, 52.2; 54-3. bjrndn’a, (ich) schneide, sere birue, schlachte, 52.8-9; 54.3. bi, mit, 63.1. bl, wareu, 49. 1. bid, ist geworden, wurde geboren, 2.12, bin gewesen, G f .1 bidru, bringe, 5 1 .14; 54.1; s.ard. bidri, bringet, 87.4. bie, war, 64.12. bigdri, nehmet, 73.1. bilbil, Nachligal; s. Krm. bilbil. büeri, brauu. bum, eine Kulenart; s. Krm. biim.",
       "german_gloss_clean": "bigd, (imp. ) nimm, 52 is; 54. t; 57. 4. bitine, (imp. ) schneide, 50. 13; s. tinena. bjdd, (imp. ) gieb, 51. 8-7. bidü = bidd, 52. t. bjne, bjni, auf, über, 54. 10; 64. 10. biSikni, s. ber sikit. bjst, band, fesselte. Vgl. npers: qätni te bjsti, wer hat dich ge- fesselt, 56. h. ez bjsta, ich bin gefesselt wor- den, 56. 10. bizeia, bjzyd, Ziege. Vgl. Krm. bjziu. bizyßk, Zickel, bjrna, schnitt, 52. 2; 54-3. bjrndn’a, (ich) schneide, sere birue, schlachte, 52. 8-9; 54. 3. bi, mit, 63. 1. bl, wareu, 49. 1. bid, ist geworden, wurde geboren, 2. 12, bin gewesen, G f. 1 bidru, bringe, 5 1. 14; 54. 1; s. ard. bidri, bringet, 87. 4. bie, war, 64. 12. bigdri, nehmet, 73. 1. bilbil, Nachligal; s. Krm. bilbil. büeri, brauu. bum, eine Kulenart; s. Krm. biim.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is; until; who; battle; with; bring",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir; -e kadar; kim; savaş; ile; getir",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10156,10 +10156,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "bringe, 86.11.",
       "german_gloss_clean": "bringe, 86. 11.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "bring",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "getir",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10198,8 +10198,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "1 ) ohne, 73. 12.",
       "german_gloss_clean": "1 ) ohne, 73. 12.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "without",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "olmadan, olmaksızın, -sız, -siz, -suz, -süz",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "bie, bye, bê",
@@ -10219,10 +10219,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "wir.",
       "german_gloss_clean": "wir.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "we",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "biz",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10240,10 +10240,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Stute; s. Krm. mehln.",
       "german_gloss_clean": "Stute; s. Krm. mehln.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "flour",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "un",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10261,10 +10261,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Ruh; s. Krm. mangd.",
       "german_gloss_clean": "Ruh; s. Krm. mangd.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "rest/peace",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "rahat/huzur",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10282,10 +10282,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "es ist gleich,",
       "german_gloss_clean": "es ist gleich,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is; same/equal/immediately",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir; aynı/hemen",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10303,10 +10303,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Fisch,",
       "german_gloss_clean": "Fisch,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "fish",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "balık",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10366,10 +10366,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "heirathete, 58.4. Vgl. Krm. mer.",
       "german_gloss_clean": "heirathete, 58. 4. Vgl. Krm. mer.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "married",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "evlendi",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10408,10 +10408,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "zürne nicht, 63.3. Vgl. Krm. fiapäiid.",
       "german_gloss_clean": "zürne nicht, 63. 3. Vgl. Krm. fiapäiid.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "not",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "değil/-me",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10429,10 +10429,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "(arab. J*- ). Machal.",
       "german_gloss_clean": "(arab. J*- ). Machal.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "quarter/district",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "mahalle",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10450,10 +10450,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "machet nicht; s. kün’a. suma tau vehgi xo mekiri, kei- ner von Euch gebe einen Laut von sich, 50.8.",
       "german_gloss_clean": "machet nicht; s. kün’a. suma tau vehgi xo mekiri, kei- ner von Euch gebe einen Laut von sich, 50. 8.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "make/do; not; I give",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yap; değil/-me; veriyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10471,10 +10471,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "tödte nicht, 83. lt; s. ki- Sün’a.",
       "german_gloss_clean": "tödte nicht, 83. lt; s. ki- Sün’a.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I kill; not",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "öldürüyorum; değil/-me",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -10492,10 +10492,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "gehet nicht (imp.), 73.12; s. gerün'a.",
       "german_gloss_clean": "gehet nicht (imp. ), 73. 12; s. gerün'a.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I go; not",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "gidiyorum; değil/-me",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10513,10 +10513,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "fürchte nicht, 63.4. mütersi, furchtet nicht, 50.4.",
       "german_gloss_clean": "fürchte nicht, 63. 4. mütersi, furchtet nicht, 50. 4.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "not",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "değil/-me",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10534,10 +10534,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Kupferschale, 86.9-10. Vgl. npers:",
       "german_gloss_clean": "Kupferschale, 86. 9-10. Vgl. npers:",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "copper bowl",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "bakır tas",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10576,10 +10576,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "ich bin gestorben, 74.ii. 2) geh (irap. von yüu’a), 57.#; 67.il.",
       "german_gloss_clean": "ich bin gestorben, 74. ii. 2) geh (irap. von yüu’a), 57. #; 67. il.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "died",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "öldü/ölmüş",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -10660,10 +10660,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "um Mitternacht,",
       "german_gloss_clean": "um Mitternacht,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "with; night",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ile; gece",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10681,10 +10681,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Fliege. Vgl. Krm. meS.",
       "german_gloss_clean": "Fliege. Vgl. Krm. meS.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "fly; I fly",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "sinek; uçuyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10702,10 +10702,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Leichnam. S. Krm. meit.",
       "german_gloss_clean": "Leichnam. S. Krm. meit.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "corpse",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ceset",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10744,10 +10744,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Affe. S. Krm. meimün.",
       "german_gloss_clean": "Affe. S. Krm. meimün.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "monkey",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "maymun",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10765,10 +10765,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Augenwimper,",
       "german_gloss_clean": "Augenwimper,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "eye",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "göz",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10807,10 +10807,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "hielt Rath. Digitized by G01",
       "german_gloss_clean": "hielt Rath. Digitized by G01",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "held council",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "meşveret etti",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10828,10 +10828,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Kasten, 83. s.",
       "german_gloss_clean": "Kasten, 83. s.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "branch",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "dal",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10849,10 +10849,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) sterbe,",
       "german_gloss_clean": "(ich) sterbe,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "I die",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ölüyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10870,10 +10870,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Birne. Vgl. Krm. ftermd.",
       "german_gloss_clean": "Birne. Vgl. Krm. ftermd.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "pear",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "armut",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10891,10 +10891,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "Mullah,",
       "german_gloss_clean": "Mullah,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "mullah",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "molla",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10933,10 +10933,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "mir. rnjrd = merd.",
       "german_gloss_clean": "mir. rnjrd = merd.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "to me/me",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "bana/beni",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10954,10 +10954,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "meine,",
       "german_gloss_clean": "meine,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "my/mine",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "benim",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10975,10 +10975,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Fürst. S. Krm. mir.",
       "german_gloss_clean": "Fürst. S. Krm. mir.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "to me/me; prince/ruler",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "bana/beni; bey/hükümdar",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -10996,10 +10996,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Sperling,",
       "german_gloss_clean": "Sperling,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "sparrow",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "serçe",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11017,10 +11017,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Haar, Gefieder; s. Krm. mü. muqaite ( ar. ) jföe bi, (sie) seien auf ihrer Hut, 72.10. müye = mü.",
       "german_gloss_clean": "Haar, Gefieder; s. Krm. mü. muqaite ( ar. ) jföe bi, (sie) seien auf ihrer Hut, 72. 10. müye = mü.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "hair",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "saç/kıl",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11059,10 +11059,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "gleich, s. Krm. feni.",
       "german_gloss_clean": "gleich, s. Krm. feni.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "same/equal/immediately",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "aynı/hemen",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11080,10 +11080,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "ist geflogen, s. ferdn’a.",
       "german_gloss_clean": "ist geflogen, s. ferdn’a.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11101,10 +11101,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Euphrat,",
       "german_gloss_clean": "Euphrat,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "Euphrates",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "Fırat",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11122,10 +11122,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) fliege.",
       "german_gloss_clean": "(ich) fliege.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "fly; I fly",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "sinek; uçuyorum",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11143,10 +11143,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Ausrufung.",
       "german_gloss_clean": "Ausrufung.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "exclamation",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ünlem",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11185,10 +11185,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Regenbo- gen, 4.H.",
       "german_gloss_clean": "Regenbo- gen, 4. H.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "rainbow; rain",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "gökkuşağı; yağmur",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11206,10 +11206,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Maus. Vgl. Krm. m|S.",
       "german_gloss_clean": "Maus. Vgl. Krm. m|S.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "mouse",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "fare",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11227,10 +11227,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Maulwurf ( tcürilich : Grdmaus).",
       "german_gloss_clean": "Maulwurf ( tcürilich: Grdmaus).",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "mouse; mole",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "fare; köstebek",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11248,10 +11248,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Blindmaus, = Krm. mjSki tfu’lr.",
       "german_gloss_clean": "Blindmaus, = Krm. mjSki tfu’lr.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "mouse; blind mole-rat",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "fare; kör fare",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11269,10 +11269,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "mittlere, 49.2; 58.8; s. myaui.",
       "german_gloss_clean": "mittlere, 49. 2; 58. 8; s. myaui.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "with",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ile",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11290,10 +11290,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Mitte. myäne saue, um Mitternacht; s. meäni äaüe. myände, in der Mitte.",
       "german_gloss_clean": "Mitte. myäne saue, um Mitternacht; s. meäni äaüe. myände, in der Mitte.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "with; night",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ile; gece",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11311,10 +11311,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "Schaf; s. Krm. me§.",
       "german_gloss_clean": "Schaf; s. Krm. me§.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "sheep",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "koyun",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11332,10 +11332,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Ehemann. Vgl. Krm. mer.",
       "german_gloss_clean": "Ehemann. Vgl. Krm. mer.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "man",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "adam/erkek",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11353,10 +11353,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Ofen,",
       "german_gloss_clean": "Ofen,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "oven",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "fırın",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11374,10 +11374,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Bäcker,",
       "german_gloss_clean": "Bäcker,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "baker",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "fırıncı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11395,10 +11395,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Elephant: s. Krm. fll.",
       "german_gloss_clean": "Elephant: s. Krm. fll.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "elephant",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "fil",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11416,10 +11416,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Schmetterling, filfilika §au, Nachtfalter.",
       "german_gloss_clean": "Schmetterling, filfilika §au, Nachtfalter.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "night",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "gece",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11437,10 +11437,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Schnee. Vgl. Krm. berf.",
       "german_gloss_clean": "Schnee. Vgl. Krm. berf.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "snow",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kar",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11500,10 +11500,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "abscheulich, 82.4.",
       "german_gloss_clean": "abscheulich, 82. 4.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "repulsive",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "iğrenç",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11542,10 +11542,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "(ich) laufe. Vgl. Krm. baz, bezfa. vaz da, lief, 72.7.",
       "german_gloss_clean": "(ich) laufe. Vgl. Krm. baz, bezfa. vaz da, lief, 72. 7.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "ran",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "koştu",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11563,10 +11563,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "I) Lamm. Vgl. Krm. berli. vard. 2) s. vardn.",
       "german_gloss_clean": "I) Lamm. Vgl. Krm. berli. vard. 2) s. vardn.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "lamb",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kuzu",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11584,10 +11584,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Kegen. vardn vard, es regnete. Vgl. Krm. bardn. varük = vard.",
       "german_gloss_clean": "Kegen. vardn vard, es regnete. Vgl. Krm. bardn. varük = vard.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "rain; rained",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yağmur; yağdı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11668,10 +11668,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "brenne(inlr.); s. vesnün’a. veSa, brannte.",
       "german_gloss_clean": "brenne(inlr. ); s. vesnün’a. veSa, brannte.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "burn; burned",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yanıyorum; yandı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11689,10 +11689,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) brenne nieder, vcsud, brannte nieder, veäni , brennet nieder (imp.), 68.8.",
       "german_gloss_clean": "(ich) brenne nieder, vcsud, brannte nieder, veäni, brennet nieder (imp. ), 68. 8.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "down; burn; burned",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "aşağı; yanıyorum; yandı",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11710,10 +11710,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "weg, aus , zeinddna vet ard, führte aus dem Gefängnisse, 56. n.",
       "german_gloss_clean": "weg, aus, zeinddna vet ard, führte aus dem Gefängnisse, 56. n.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "prison; road/way",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "hapishane; yol",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11731,8 +11731,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "Potipos. gegen, zu, nach, aus; s. vera. kaut ver, folgte, 70.8.",
       "german_gloss_clean": "Potipos. gegen, zu, nach, aus; s. vera. kaut ver, folgte, 70. 8.",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "against/toward; followed",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "1) ön 2) dolayı, yüzünden 3) karşı",
       "turkish_gloss_source": "matched_dezd_headword",
       "existing_parent": "ver",
@@ -11752,10 +11752,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) bereite. ver ke, bereite, 5l.to; 52.«.",
       "german_gloss_clean": "(ich) bereite. ver ke, bereite, 5l. to; 52. «.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "ready",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "hazır",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11815,8 +11815,8 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "existing_parent",
       "german_gloss_raw": "erst, zuerst. ez tüe veri eixöe kiäün’a, ich tödte dich selbst zuerst, 64.7. veri doan, einst, 65.».",
       "german_gloss_clean": "erst, zuerst. ez tüe veri eixöe kiäün’a, ich tödte dich selbst zuerst, 64. 7. veri doan, einst, 65. ».",
-      "english_gloss": "",
-      "english_gloss_source": "",
+      "english_gloss": "I kill; once/formerly",
+      "english_gloss_source": "auto_from_german_gloss",
       "turkish_gloss": "ön, önü (bükümlü hali)",
       "turkish_gloss_source": "matched_harun_headword",
       "existing_parent": "vêr, veri",
@@ -11857,10 +11857,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "24; Pott Zählmethode , 127. Anm.; Hofers Zeitscbr. I, 137-39; Förstemau n, in Kuhns Zeitschr. I, 494; Bopp. Vgl. Gr. NA. S. 3. S. Krm. gur.",
       "german_gloss_clean": "24; Pott Zählmethode, 127. Anm. ; Hofers Zeitscbr. I, 137-39; Förstemau n, in Kuhns Zeitschr. I, 494; Bopp. Vgl. Gr. NA. S. 3. S. Krm. gur.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "time",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "zaman",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11878,10 +11878,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "erste",
       "german_gloss_clean": "erste",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "first",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "birinci",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -11962,10 +11962,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Blätter, Laub. G: belk foglia ; B. III: 63: varak feuille. Vgl. npers: kälL; cf. 1*Z. III, 45. veih = verig.",
       "german_gloss_clean": "Blätter, Laub. G: belk foglia; B. III: 63: varak feuille. Vgl. npers: kälL; cf. 1*Z. III, 45. veih = verig.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "leaves; foliage",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yapraklar; yaprak",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -12004,10 +12004,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "(ich) werfe weg, lasse los, verschone, vera däna, (ich) verschone, ver dä, warf weg, 72.«. verddnl, du bissest, 55.». v6ra medi , verschonet eicht, 75.9.",
       "german_gloss_clean": "(ich) werfe weg, lasse los, verschone, vera däna, (ich) verschone, ver dä, warf weg, 72. «. verddnl, du bissest, 55. ». v6ra medi, verschonet eicht, 75. 9.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "threw; until; who; let go/release; road/way",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "attı; -e kadar; kim; bırak; yol",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -12025,10 +12025,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "er, sie.",
       "german_gloss_clean": "er, sie.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "he/she/it",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "o",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -12067,10 +12067,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "see_reference",
       "german_gloss_raw": "wünschte; s. wazdn’a.",
       "german_gloss_clean": "wünschte; s. wazdn’a.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "wished",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "istedi/diledi",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -12088,10 +12088,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "(ar. tUj), Zeit.",
       "german_gloss_clean": "(ar. tUj), Zeit.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "time",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "zaman",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -12108,11 +12108,11 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "proposed_group_headword": "wadé̱",
       "group_source": "self",
       "german_gloss_raw": "(türk.o^jl), Zimmer, 62.2. waät = waiät.",
-      "german_gloss_clean": "(türk. o^jl), Zimmer, 62. 2. waät = waiät.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "german_gloss_clean": "(Osmanisch-Türkisch: اوطه/oda) Zimmer",
+      "english_gloss": "(Ottoman Turkish: اوطه/oda) room",
+      "english_gloss_source": "auto_ottoman_note",
+      "turkish_gloss": "(Osmanlıca: اوطه) oda",
+      "turkish_gloss_source": "auto_ottoman_note",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -12130,10 +12130,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "(ich) wünsche, will, freie. waiSt, wa$t, wünschte, freite. Vgl. Krm. xöast. verd dai, liess los, 84.2. vera nedäna , ich verschone nicht, 70.11-12. me verdi , verschonet nicht, 69.4.",
       "german_gloss_clean": "(ich) wünsche, will, freie. waiSt, wa$t, wünschte, freite. Vgl. Krm. xöast. verd dai, liess los, 84. 2. vera nedäna, ich verschone nicht, 70. 11-12. me verdi, verschonet nicht, 69. 4.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "is; branch; not; wished",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "-dır/-dir; dal; değil/-me; istedi/diledi",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -12214,10 +12214,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "zwanzigste,",
       "german_gloss_clean": "zwanzigste,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "twentieth; twenty",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yirminci; yirmi",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -12256,10 +12256,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "equals_reference",
       "german_gloss_raw": "Blümchen,",
       "german_gloss_clean": "Blümchen,",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "little flower",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "çiçekçik",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -12277,10 +12277,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "equals_reference",
       "german_gloss_raw": "s. y6n'a. vydne = vidn’e, komm, 74. io. way6r, Herr. mäle yöe bye way6r ndkeri, (dass) sie ihre Habe nicht ohne Herr (Schutz) lassen, 72.11-12. tau tüeri wdyerei iiekdn’u, Keiner übt über dich Herr- schaft, 53.11.",
       "german_gloss_clean": "s. y6n'a. vydne = vidn’e, komm, 74. io. way6r, Herr. mäle yöe bye way6r ndkeri, (dass) sie ihre Habe nicht ohne Herr (Schutz) lassen, 72. 11-12. tau tüeri wdyerei iiekdn’u, Keiner übt über dich Herr- schaft, 53. 11.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "not; without; sheep",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "değil/-me; olmadan/-sız; koyun",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -12319,10 +12319,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Winterlager, 60.12-13.",
       "german_gloss_clean": "Winterlager, 60. 12-13.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "winter quarters",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "kışlak",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -12340,10 +12340,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "Neffe, Schwestersohn. Vgl. Krm. xoärz. ward6n’a = warzdn’a.",
       "german_gloss_clean": "Neffe, Schwestersohn. Vgl. Krm. xoärz. ward6n’a = warzdn’a.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "son",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "oğul",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "medium",
@@ -12403,10 +12403,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "verb_present_stem_guess",
       "german_gloss_raw": "jage weg. weta = vet.",
       "german_gloss_clean": "jage weg. weta = vet.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "road/way",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "yol",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -12424,10 +12424,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "bestattet. meitani me wadere taüde me — w tinu, ich habe Niemanden, v 1 um meine Leichen zu be- statten, 79.3-6. weddrti, bestatteten, 65.7.",
       "german_gloss_clean": "bestattet. meitani me wadere taüde me — w tinu, ich habe Niemanden, v 1 um meine Leichen zu be- statten, 79. 3-6. weddrti, bestatteten, 65. 7.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "corpse; my/mine",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "ceset; benim",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -12550,10 +12550,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "dort.",
       "german_gloss_clean": "dort.",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "there",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "orada",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -12571,10 +12571,10 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
       "group_source": "self",
       "german_gloss_raw": "geht entgegen, 84.1».",
       "german_gloss_clean": "geht entgegen, 84. 1».",
-      "english_gloss": "",
-      "english_gloss_source": "",
-      "turkish_gloss": "",
-      "turkish_gloss_source": "",
+      "english_gloss": "against/toward",
+      "english_gloss_source": "auto_from_german_gloss",
+      "turkish_gloss": "karşı/-e doğru",
+      "turkish_gloss_source": "auto_from_german_gloss",
       "existing_parent": "",
       "entry_review_status": "ocr_extracted",
       "correction_confidence": "low",
@@ -12603,29 +12603,4831 @@ window.LERCH_GLOSSARY_REVIEW_DATA = {
     }
   ],
   "page_assets": {
-    "197": "assets/german_glossary_p197.webp",
-    "198": "assets/german_glossary_p198.webp",
-    "199": "assets/german_glossary_p199.webp",
-    "200": "assets/german_glossary_p200.webp",
-    "201": "assets/german_glossary_p201.webp",
-    "202": "assets/german_glossary_p202.webp",
-    "203": "assets/german_glossary_p203.webp",
-    "204": "assets/german_glossary_p204.webp",
-    "205": "assets/german_glossary_p205.webp",
-    "206": "assets/german_glossary_p206.webp",
-    "207": "assets/german_glossary_p207.webp",
-    "208": "assets/german_glossary_p208.webp",
-    "209": "assets/german_glossary_p209.webp",
-    "210": "assets/german_glossary_p210.webp",
-    "211": "assets/german_glossary_p211.webp",
-    "212": "assets/german_glossary_p212.webp",
-    "213": "assets/german_glossary_p213.webp",
-    "214": "assets/german_glossary_p214.webp",
-    "215": "assets/german_glossary_p215.webp",
-    "216": "assets/german_glossary_p216.webp",
-    "217": "assets/german_glossary_p217.webp",
-    "218": "assets/german_glossary_p218.webp",
-    "219": "assets/german_glossary_p219.webp",
-    "220": "assets/german_glossary_p220.webp"
+    "197": "assets/german_glossary_p197_x4.webp",
+    "198": "assets/german_glossary_p198_x4.webp",
+    "199": "assets/german_glossary_p199_x4.webp",
+    "200": "assets/german_glossary_p200_x4.webp",
+    "201": "assets/german_glossary_p201_x4.webp",
+    "202": "assets/german_glossary_p202_x4.webp",
+    "203": "assets/german_glossary_p203_x4.webp",
+    "204": "assets/german_glossary_p204_x4.webp",
+    "205": "assets/german_glossary_p205_x4.webp",
+    "206": "assets/german_glossary_p206_x4.webp",
+    "207": "assets/german_glossary_p207_x4.webp",
+    "208": "assets/german_glossary_p208_x4.webp",
+    "209": "assets/german_glossary_p209_x4.webp",
+    "210": "assets/german_glossary_p210_x4.webp",
+    "211": "assets/german_glossary_p211_x4.webp",
+    "212": "assets/german_glossary_p212_x4.webp",
+    "213": "assets/german_glossary_p213_x4.webp",
+    "214": "assets/german_glossary_p214_x4.webp",
+    "215": "assets/german_glossary_p215_x4.webp",
+    "216": "assets/german_glossary_p216_x4.webp",
+    "217": "assets/german_glossary_p217_x4.webp",
+    "218": "assets/german_glossary_p218_x4.webp",
+    "219": "assets/german_glossary_p219_x4.webp",
+    "220": "assets/german_glossary_p220_x4.webp"
+  },
+  "entry_assets": {
+    "1": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r1_p197.webp"
+        }
+      ]
+    },
+    "2": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r2_p197.webp"
+        }
+      ]
+    },
+    "3": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r3_p197.webp"
+        }
+      ]
+    },
+    "4": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r4_p197.webp"
+        }
+      ]
+    },
+    "5": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r5_p197.webp"
+        }
+      ]
+    },
+    "6": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r6_p197.webp"
+        }
+      ]
+    },
+    "7": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r7_p197.webp"
+        }
+      ]
+    },
+    "8": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r8_p197.webp"
+        }
+      ]
+    },
+    "9": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r9_p197.webp"
+        }
+      ]
+    },
+    "10": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r10_p197.webp"
+        }
+      ]
+    },
+    "11": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r11_p197.webp"
+        }
+      ]
+    },
+    "12": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r12_p197.webp"
+        }
+      ]
+    },
+    "13": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r13_p197.webp"
+        }
+      ]
+    },
+    "14": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r14_p197.webp"
+        }
+      ]
+    },
+    "15": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r15_p197.webp"
+        }
+      ]
+    },
+    "16": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r16_p197.webp"
+        }
+      ]
+    },
+    "17": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r17_p197.webp"
+        }
+      ]
+    },
+    "18": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r18_p197.webp"
+        }
+      ]
+    },
+    "19": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r19_p197.webp"
+        }
+      ]
+    },
+    "20": {
+      "german": [
+        {
+          "label": "German glossary p. 197, entry crop",
+          "src": "assets/entries/german_entry_r20_p197.webp"
+        }
+      ]
+    },
+    "21": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r21_p198.webp"
+        }
+      ]
+    },
+    "22": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r22_p198.webp"
+        }
+      ]
+    },
+    "23": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r23_p198.webp"
+        }
+      ]
+    },
+    "24": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r24_p198.webp"
+        }
+      ]
+    },
+    "25": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r25_p198.webp"
+        }
+      ]
+    },
+    "26": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r26_p198.webp"
+        }
+      ]
+    },
+    "27": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r27_p198.webp"
+        }
+      ]
+    },
+    "28": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r28_p198.webp"
+        }
+      ]
+    },
+    "29": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r29_p198.webp"
+        }
+      ]
+    },
+    "30": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r30_p198.webp"
+        }
+      ]
+    },
+    "31": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r31_p198.webp"
+        }
+      ]
+    },
+    "32": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r32_p198.webp"
+        }
+      ]
+    },
+    "33": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r33_p198.webp"
+        }
+      ]
+    },
+    "34": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r34_p198.webp"
+        }
+      ]
+    },
+    "35": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r35_p198.webp"
+        }
+      ]
+    },
+    "36": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r36_p198.webp"
+        }
+      ]
+    },
+    "37": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r37_p198.webp"
+        }
+      ]
+    },
+    "38": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r38_p198.webp"
+        }
+      ]
+    },
+    "39": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r39_p198.webp"
+        }
+      ]
+    },
+    "40": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r40_p198.webp"
+        }
+      ]
+    },
+    "41": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r41_p198.webp"
+        }
+      ]
+    },
+    "42": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r42_p198.webp"
+        }
+      ]
+    },
+    "43": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r43_p198.webp"
+        }
+      ]
+    },
+    "44": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r44_p198.webp"
+        }
+      ]
+    },
+    "45": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r45_p198.webp"
+        }
+      ]
+    },
+    "46": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r46_p198.webp"
+        }
+      ]
+    },
+    "47": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r47_p198.webp"
+        }
+      ]
+    },
+    "48": {
+      "german": [
+        {
+          "label": "German glossary p. 198, entry crop",
+          "src": "assets/entries/german_entry_r48_p198.webp"
+        }
+      ]
+    },
+    "49": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r49_p199.webp"
+        }
+      ]
+    },
+    "50": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r50_p199.webp"
+        }
+      ]
+    },
+    "51": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r51_p199.webp"
+        }
+      ]
+    },
+    "52": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r52_p199.webp"
+        }
+      ]
+    },
+    "53": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r53_p199.webp"
+        }
+      ]
+    },
+    "54": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r54_p199.webp"
+        }
+      ]
+    },
+    "55": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r55_p199.webp"
+        }
+      ]
+    },
+    "56": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r56_p199.webp"
+        }
+      ]
+    },
+    "57": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r57_p199.webp"
+        }
+      ]
+    },
+    "58": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r58_p199.webp"
+        }
+      ]
+    },
+    "59": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r59_p199.webp"
+        }
+      ]
+    },
+    "60": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r60_p199.webp"
+        }
+      ]
+    },
+    "61": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r61_p199.webp"
+        }
+      ]
+    },
+    "62": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r62_p199.webp"
+        }
+      ]
+    },
+    "63": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r63_p199.webp"
+        }
+      ]
+    },
+    "64": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r64_p199.webp"
+        }
+      ]
+    },
+    "65": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r65_p199.webp"
+        }
+      ]
+    },
+    "66": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r66_p199.webp"
+        }
+      ]
+    },
+    "67": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r67_p199.webp"
+        }
+      ]
+    },
+    "68": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r68_p199.webp"
+        }
+      ]
+    },
+    "69": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r69_p199.webp"
+        }
+      ]
+    },
+    "70": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r70_p199.webp"
+        }
+      ]
+    },
+    "71": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r71_p199.webp"
+        }
+      ]
+    },
+    "72": {
+      "german": [
+        {
+          "label": "German glossary p. 199, entry crop",
+          "src": "assets/entries/german_entry_r72_p199.webp"
+        }
+      ]
+    },
+    "73": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r73_p200.webp"
+        }
+      ]
+    },
+    "74": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r74_p200.webp"
+        }
+      ]
+    },
+    "75": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r75_p200.webp"
+        }
+      ]
+    },
+    "76": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r76_p200.webp"
+        }
+      ]
+    },
+    "77": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r77_p200.webp"
+        }
+      ]
+    },
+    "78": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r78_p200.webp"
+        }
+      ]
+    },
+    "79": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r79_p200.webp"
+        }
+      ]
+    },
+    "80": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r80_p200.webp"
+        }
+      ]
+    },
+    "81": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r81_p200.webp"
+        }
+      ]
+    },
+    "82": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r82_p200.webp"
+        }
+      ]
+    },
+    "83": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r83_p200.webp"
+        }
+      ]
+    },
+    "84": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r84_p200.webp"
+        }
+      ]
+    },
+    "85": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r85_p200.webp"
+        }
+      ]
+    },
+    "86": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r86_p200.webp"
+        }
+      ]
+    },
+    "87": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r87_p200.webp"
+        }
+      ]
+    },
+    "88": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r88_p200.webp"
+        }
+      ]
+    },
+    "89": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r89_p200.webp"
+        }
+      ]
+    },
+    "90": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r90_p200.webp"
+        }
+      ]
+    },
+    "91": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r91_p200.webp"
+        }
+      ]
+    },
+    "92": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r92_p200.webp"
+        }
+      ]
+    },
+    "93": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r93_p200.webp"
+        }
+      ]
+    },
+    "94": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r94_p200.webp"
+        }
+      ]
+    },
+    "95": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r95_p200.webp"
+        }
+      ]
+    },
+    "96": {
+      "german": [
+        {
+          "label": "German glossary p. 200, entry crop",
+          "src": "assets/entries/german_entry_r96_p200.webp"
+        }
+      ]
+    },
+    "97": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r97_p201.webp"
+        }
+      ]
+    },
+    "98": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r98_p201.webp"
+        }
+      ]
+    },
+    "99": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r99_p201.webp"
+        }
+      ]
+    },
+    "100": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r100_p201.webp"
+        }
+      ]
+    },
+    "101": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r101_p201.webp"
+        }
+      ]
+    },
+    "102": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r102_p201.webp"
+        }
+      ]
+    },
+    "103": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r103_p201.webp"
+        }
+      ]
+    },
+    "104": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r104_p201.webp"
+        }
+      ]
+    },
+    "105": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r105_p201.webp"
+        }
+      ]
+    },
+    "106": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r106_p201.webp"
+        }
+      ]
+    },
+    "107": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r107_p201.webp"
+        }
+      ]
+    },
+    "108": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r108_p201.webp"
+        }
+      ]
+    },
+    "109": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r109_p201.webp"
+        }
+      ]
+    },
+    "110": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r110_p201.webp"
+        }
+      ]
+    },
+    "111": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r111_p201.webp"
+        }
+      ]
+    },
+    "112": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r112_p201.webp"
+        }
+      ]
+    },
+    "113": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r113_p201.webp"
+        }
+      ]
+    },
+    "114": {
+      "german": [
+        {
+          "label": "German glossary p. 201, entry crop",
+          "src": "assets/entries/german_entry_r114_p201.webp"
+        }
+      ]
+    },
+    "115": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r115_p202.webp"
+        }
+      ]
+    },
+    "116": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r116_p202.webp"
+        }
+      ]
+    },
+    "117": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r117_p202.webp"
+        }
+      ]
+    },
+    "118": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r118_p202.webp"
+        }
+      ]
+    },
+    "119": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r119_p202.webp"
+        }
+      ]
+    },
+    "120": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r120_p202.webp"
+        }
+      ]
+    },
+    "121": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r121_p202.webp"
+        }
+      ]
+    },
+    "122": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r122_p202.webp"
+        }
+      ]
+    },
+    "123": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r123_p202.webp"
+        }
+      ]
+    },
+    "124": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r124_p202.webp"
+        }
+      ]
+    },
+    "125": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r125_p202.webp"
+        }
+      ]
+    },
+    "126": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r126_p202.webp"
+        }
+      ]
+    },
+    "127": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r127_p202.webp"
+        }
+      ]
+    },
+    "128": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r128_p202.webp"
+        }
+      ]
+    },
+    "129": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r129_p202.webp"
+        }
+      ]
+    },
+    "130": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r130_p202.webp"
+        }
+      ]
+    },
+    "131": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r131_p202.webp"
+        }
+      ]
+    },
+    "132": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r132_p202.webp"
+        }
+      ]
+    },
+    "133": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r133_p202.webp"
+        }
+      ]
+    },
+    "134": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r134_p202.webp"
+        }
+      ]
+    },
+    "135": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r135_p202.webp"
+        }
+      ]
+    },
+    "136": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r136_p202.webp"
+        }
+      ]
+    },
+    "137": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r137_p202.webp"
+        }
+      ]
+    },
+    "138": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r138_p202.webp"
+        }
+      ]
+    },
+    "139": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r139_p202.webp"
+        }
+      ]
+    },
+    "140": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r140_p202.webp"
+        }
+      ]
+    },
+    "141": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r141_p202.webp"
+        }
+      ]
+    },
+    "142": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r142_p202.webp"
+        }
+      ]
+    },
+    "143": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r143_p202.webp"
+        }
+      ]
+    },
+    "144": {
+      "german": [
+        {
+          "label": "German glossary p. 202, entry crop",
+          "src": "assets/entries/german_entry_r144_p202.webp"
+        }
+      ]
+    },
+    "145": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r145_p203.webp"
+        }
+      ]
+    },
+    "146": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r146_p203.webp"
+        }
+      ]
+    },
+    "147": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r147_p203.webp"
+        }
+      ]
+    },
+    "148": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r148_p203.webp"
+        }
+      ]
+    },
+    "149": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r149_p203.webp"
+        }
+      ]
+    },
+    "150": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r150_p203.webp"
+        }
+      ]
+    },
+    "151": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r151_p203.webp"
+        }
+      ]
+    },
+    "152": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r152_p203.webp"
+        }
+      ]
+    },
+    "153": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r153_p203.webp"
+        }
+      ]
+    },
+    "154": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r154_p203.webp"
+        }
+      ]
+    },
+    "155": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r155_p203.webp"
+        }
+      ]
+    },
+    "156": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r156_p203.webp"
+        }
+      ]
+    },
+    "157": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r157_p203.webp"
+        }
+      ]
+    },
+    "158": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r158_p203.webp"
+        }
+      ]
+    },
+    "159": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r159_p203.webp"
+        }
+      ]
+    },
+    "160": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r160_p203.webp"
+        }
+      ]
+    },
+    "161": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r161_p203.webp"
+        }
+      ]
+    },
+    "162": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r162_p203.webp"
+        }
+      ]
+    },
+    "163": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r163_p203.webp"
+        }
+      ]
+    },
+    "164": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r164_p203.webp"
+        }
+      ]
+    },
+    "165": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r165_p203.webp"
+        }
+      ]
+    },
+    "166": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r166_p203.webp"
+        }
+      ]
+    },
+    "167": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r167_p203.webp"
+        }
+      ]
+    },
+    "168": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r168_p203.webp"
+        }
+      ]
+    },
+    "169": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r169_p203.webp"
+        }
+      ]
+    },
+    "170": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r170_p203.webp"
+        }
+      ]
+    },
+    "171": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r171_p203.webp"
+        }
+      ]
+    },
+    "172": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r172_p203.webp"
+        }
+      ]
+    },
+    "173": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r173_p203.webp"
+        }
+      ]
+    },
+    "174": {
+      "german": [
+        {
+          "label": "German glossary p. 203, entry crop",
+          "src": "assets/entries/german_entry_r174_p203.webp"
+        }
+      ]
+    },
+    "175": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r175_p204.webp"
+        }
+      ]
+    },
+    "176": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r176_p204.webp"
+        }
+      ]
+    },
+    "177": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r177_p204.webp"
+        }
+      ]
+    },
+    "178": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r178_p204.webp"
+        }
+      ]
+    },
+    "179": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r179_p204.webp"
+        }
+      ]
+    },
+    "180": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r180_p204.webp"
+        }
+      ]
+    },
+    "181": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r181_p204.webp"
+        }
+      ]
+    },
+    "182": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r182_p204.webp"
+        }
+      ]
+    },
+    "183": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r183_p204.webp"
+        }
+      ]
+    },
+    "184": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r184_p204.webp"
+        }
+      ]
+    },
+    "185": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r185_p204.webp"
+        }
+      ]
+    },
+    "186": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r186_p204.webp"
+        }
+      ]
+    },
+    "187": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r187_p204.webp"
+        }
+      ]
+    },
+    "188": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r188_p204.webp"
+        }
+      ]
+    },
+    "189": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r189_p204.webp"
+        }
+      ]
+    },
+    "190": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r190_p204.webp"
+        }
+      ]
+    },
+    "191": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r191_p204.webp"
+        }
+      ]
+    },
+    "192": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r192_p204.webp"
+        }
+      ]
+    },
+    "193": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r193_p204.webp"
+        }
+      ]
+    },
+    "194": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r194_p204.webp"
+        }
+      ]
+    },
+    "195": {
+      "german": [
+        {
+          "label": "German glossary p. 204, entry crop",
+          "src": "assets/entries/german_entry_r195_p204.webp"
+        }
+      ]
+    },
+    "196": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r196_p205.webp"
+        }
+      ]
+    },
+    "197": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r197_p205.webp"
+        }
+      ]
+    },
+    "198": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r198_p205.webp"
+        }
+      ]
+    },
+    "199": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r199_p205.webp"
+        }
+      ]
+    },
+    "200": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r200_p205.webp"
+        }
+      ]
+    },
+    "201": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r201_p205.webp"
+        }
+      ]
+    },
+    "202": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r202_p205.webp"
+        }
+      ]
+    },
+    "203": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r203_p205.webp"
+        }
+      ]
+    },
+    "204": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r204_p205.webp"
+        }
+      ]
+    },
+    "205": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r205_p205.webp"
+        }
+      ]
+    },
+    "206": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r206_p205.webp"
+        }
+      ]
+    },
+    "207": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r207_p205.webp"
+        }
+      ]
+    },
+    "208": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r208_p205.webp"
+        }
+      ]
+    },
+    "209": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r209_p205.webp"
+        }
+      ]
+    },
+    "210": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r210_p205.webp"
+        }
+      ]
+    },
+    "211": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r211_p205.webp"
+        }
+      ]
+    },
+    "212": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r212_p205.webp"
+        }
+      ]
+    },
+    "213": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r213_p205.webp"
+        }
+      ]
+    },
+    "214": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r214_p205.webp"
+        }
+      ]
+    },
+    "215": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r215_p205.webp"
+        }
+      ]
+    },
+    "216": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r216_p205.webp"
+        }
+      ]
+    },
+    "217": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r217_p205.webp"
+        }
+      ]
+    },
+    "218": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r218_p205.webp"
+        }
+      ]
+    },
+    "219": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r219_p205.webp"
+        }
+      ]
+    },
+    "220": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r220_p205.webp"
+        }
+      ]
+    },
+    "221": {
+      "german": [
+        {
+          "label": "German glossary p. 205, entry crop",
+          "src": "assets/entries/german_entry_r221_p205.webp"
+        }
+      ]
+    },
+    "222": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r222_p206.webp"
+        }
+      ]
+    },
+    "223": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r223_p206.webp"
+        }
+      ]
+    },
+    "224": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r224_p206.webp"
+        }
+      ]
+    },
+    "225": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r225_p206.webp"
+        }
+      ]
+    },
+    "226": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r226_p206.webp"
+        }
+      ]
+    },
+    "227": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r227_p206.webp"
+        }
+      ]
+    },
+    "228": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r228_p206.webp"
+        }
+      ]
+    },
+    "229": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r229_p206.webp"
+        }
+      ]
+    },
+    "230": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r230_p206.webp"
+        }
+      ]
+    },
+    "231": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r231_p206.webp"
+        }
+      ]
+    },
+    "232": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r232_p206.webp"
+        }
+      ]
+    },
+    "233": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r233_p206.webp"
+        }
+      ]
+    },
+    "234": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r234_p206.webp"
+        }
+      ]
+    },
+    "235": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r235_p206.webp"
+        }
+      ]
+    },
+    "236": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r236_p206.webp"
+        }
+      ]
+    },
+    "237": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r237_p206.webp"
+        }
+      ]
+    },
+    "238": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r238_p206.webp"
+        }
+      ]
+    },
+    "239": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r239_p206.webp"
+        }
+      ]
+    },
+    "240": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r240_p206.webp"
+        }
+      ]
+    },
+    "241": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r241_p206.webp"
+        }
+      ]
+    },
+    "242": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r242_p206.webp"
+        }
+      ]
+    },
+    "243": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r243_p206.webp"
+        }
+      ]
+    },
+    "244": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r244_p206.webp"
+        }
+      ]
+    },
+    "245": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r245_p206.webp"
+        }
+      ]
+    },
+    "246": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r246_p206.webp"
+        }
+      ]
+    },
+    "247": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r247_p206.webp"
+        }
+      ]
+    },
+    "248": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r248_p206.webp"
+        }
+      ]
+    },
+    "249": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r249_p206.webp"
+        }
+      ]
+    },
+    "250": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r250_p206.webp"
+        }
+      ]
+    },
+    "251": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r251_p206.webp"
+        }
+      ]
+    },
+    "252": {
+      "german": [
+        {
+          "label": "German glossary p. 206, entry crop",
+          "src": "assets/entries/german_entry_r252_p206.webp"
+        }
+      ]
+    },
+    "253": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r253_p207.webp"
+        }
+      ]
+    },
+    "254": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r254_p207.webp"
+        }
+      ]
+    },
+    "255": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r255_p207.webp"
+        }
+      ]
+    },
+    "256": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r256_p207.webp"
+        }
+      ]
+    },
+    "257": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r257_p207.webp"
+        }
+      ]
+    },
+    "258": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r258_p207.webp"
+        }
+      ]
+    },
+    "259": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r259_p207.webp"
+        }
+      ]
+    },
+    "260": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r260_p207.webp"
+        }
+      ]
+    },
+    "261": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r261_p207.webp"
+        }
+      ]
+    },
+    "262": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r262_p207.webp"
+        }
+      ]
+    },
+    "263": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r263_p207.webp"
+        }
+      ]
+    },
+    "264": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r264_p207.webp"
+        }
+      ]
+    },
+    "265": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r265_p207.webp"
+        }
+      ]
+    },
+    "266": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r266_p207.webp"
+        }
+      ]
+    },
+    "267": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r267_p207.webp"
+        }
+      ]
+    },
+    "268": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r268_p207.webp"
+        }
+      ]
+    },
+    "269": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r269_p207.webp"
+        }
+      ]
+    },
+    "270": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r270_p207.webp"
+        }
+      ]
+    },
+    "271": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r271_p207.webp"
+        }
+      ]
+    },
+    "272": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r272_p207.webp"
+        }
+      ]
+    },
+    "273": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r273_p207.webp"
+        }
+      ]
+    },
+    "274": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r274_p207.webp"
+        }
+      ]
+    },
+    "275": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r275_p207.webp"
+        }
+      ]
+    },
+    "276": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r276_p207.webp"
+        }
+      ]
+    },
+    "277": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r277_p207.webp"
+        }
+      ]
+    },
+    "278": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r278_p207.webp"
+        }
+      ]
+    },
+    "279": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r279_p207.webp"
+        }
+      ]
+    },
+    "280": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r280_p207.webp"
+        }
+      ]
+    },
+    "281": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r281_p207.webp"
+        }
+      ]
+    },
+    "282": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r282_p207.webp"
+        }
+      ]
+    },
+    "283": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r283_p207.webp"
+        }
+      ]
+    },
+    "284": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r284_p207.webp"
+        }
+      ]
+    },
+    "285": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r285_p207.webp"
+        }
+      ]
+    },
+    "286": {
+      "german": [
+        {
+          "label": "German glossary p. 207, entry crop",
+          "src": "assets/entries/german_entry_r286_p207.webp"
+        }
+      ]
+    },
+    "287": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r287_p208.webp"
+        }
+      ]
+    },
+    "288": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r288_p208.webp"
+        }
+      ]
+    },
+    "289": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r289_p208.webp"
+        }
+      ]
+    },
+    "290": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r290_p208.webp"
+        }
+      ]
+    },
+    "291": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r291_p208.webp"
+        }
+      ]
+    },
+    "292": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r292_p208.webp"
+        }
+      ]
+    },
+    "293": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r293_p208.webp"
+        }
+      ]
+    },
+    "294": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r294_p208.webp"
+        }
+      ]
+    },
+    "295": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r295_p208.webp"
+        }
+      ]
+    },
+    "296": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r296_p208.webp"
+        }
+      ]
+    },
+    "297": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r297_p208.webp"
+        }
+      ]
+    },
+    "298": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r298_p208.webp"
+        }
+      ]
+    },
+    "299": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r299_p208.webp"
+        }
+      ]
+    },
+    "300": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r300_p208.webp"
+        }
+      ]
+    },
+    "301": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r301_p208.webp"
+        }
+      ]
+    },
+    "302": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r302_p208.webp"
+        }
+      ]
+    },
+    "303": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r303_p208.webp"
+        }
+      ]
+    },
+    "304": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r304_p208.webp"
+        }
+      ]
+    },
+    "305": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r305_p208.webp"
+        }
+      ]
+    },
+    "306": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r306_p208.webp"
+        }
+      ]
+    },
+    "307": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r307_p208.webp"
+        }
+      ]
+    },
+    "308": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r308_p208.webp"
+        }
+      ]
+    },
+    "309": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r309_p208.webp"
+        }
+      ]
+    },
+    "310": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r310_p208.webp"
+        }
+      ]
+    },
+    "311": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r311_p208.webp"
+        }
+      ]
+    },
+    "312": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r312_p208.webp"
+        }
+      ]
+    },
+    "313": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r313_p208.webp"
+        }
+      ]
+    },
+    "314": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r314_p208.webp"
+        }
+      ]
+    },
+    "315": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r315_p208.webp"
+        }
+      ]
+    },
+    "316": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r316_p208.webp"
+        }
+      ]
+    },
+    "317": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r317_p208.webp"
+        }
+      ]
+    },
+    "318": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r318_p208.webp"
+        }
+      ]
+    },
+    "319": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r319_p208.webp"
+        }
+      ]
+    },
+    "320": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r320_p208.webp"
+        }
+      ]
+    },
+    "321": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r321_p208.webp"
+        }
+      ]
+    },
+    "322": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r322_p208.webp"
+        }
+      ]
+    },
+    "323": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r323_p208.webp"
+        }
+      ]
+    },
+    "324": {
+      "german": [
+        {
+          "label": "German glossary p. 208, entry crop",
+          "src": "assets/entries/german_entry_r324_p208.webp"
+        }
+      ]
+    },
+    "325": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r325_p209.webp"
+        }
+      ]
+    },
+    "326": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r326_p209.webp"
+        }
+      ]
+    },
+    "327": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r327_p209.webp"
+        }
+      ]
+    },
+    "328": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r328_p209.webp"
+        }
+      ]
+    },
+    "329": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r329_p209.webp"
+        }
+      ]
+    },
+    "330": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r330_p209.webp"
+        }
+      ]
+    },
+    "331": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r331_p209.webp"
+        }
+      ]
+    },
+    "332": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r332_p209.webp"
+        }
+      ]
+    },
+    "333": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r333_p209.webp"
+        }
+      ]
+    },
+    "334": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r334_p209.webp"
+        }
+      ]
+    },
+    "335": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r335_p209.webp"
+        }
+      ]
+    },
+    "336": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r336_p209.webp"
+        }
+      ]
+    },
+    "337": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r337_p209.webp"
+        }
+      ]
+    },
+    "338": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r338_p209.webp"
+        }
+      ]
+    },
+    "339": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r339_p209.webp"
+        }
+      ]
+    },
+    "340": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r340_p209.webp"
+        }
+      ]
+    },
+    "341": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r341_p209.webp"
+        }
+      ]
+    },
+    "342": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r342_p209.webp"
+        }
+      ]
+    },
+    "343": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r343_p209.webp"
+        }
+      ]
+    },
+    "344": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r344_p209.webp"
+        }
+      ]
+    },
+    "345": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r345_p209.webp"
+        }
+      ]
+    },
+    "346": {
+      "german": [
+        {
+          "label": "German glossary p. 209, entry crop",
+          "src": "assets/entries/german_entry_r346_p209.webp"
+        }
+      ]
+    },
+    "347": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r347_p210.webp"
+        }
+      ]
+    },
+    "348": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r348_p210.webp"
+        }
+      ]
+    },
+    "349": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r349_p210.webp"
+        }
+      ]
+    },
+    "350": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r350_p210.webp"
+        }
+      ]
+    },
+    "351": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r351_p210.webp"
+        }
+      ]
+    },
+    "352": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r352_p210.webp"
+        }
+      ]
+    },
+    "353": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r353_p210.webp"
+        }
+      ]
+    },
+    "354": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r354_p210.webp"
+        }
+      ]
+    },
+    "355": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r355_p210.webp"
+        }
+      ]
+    },
+    "356": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r356_p210.webp"
+        }
+      ]
+    },
+    "357": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r357_p210.webp"
+        }
+      ]
+    },
+    "358": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r358_p210.webp"
+        }
+      ]
+    },
+    "359": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r359_p210.webp"
+        }
+      ]
+    },
+    "360": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r360_p210.webp"
+        }
+      ]
+    },
+    "361": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r361_p210.webp"
+        }
+      ]
+    },
+    "362": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r362_p210.webp"
+        }
+      ]
+    },
+    "363": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r363_p210.webp"
+        }
+      ]
+    },
+    "364": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r364_p210.webp"
+        }
+      ]
+    },
+    "365": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r365_p210.webp"
+        }
+      ]
+    },
+    "366": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r366_p210.webp"
+        }
+      ]
+    },
+    "367": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r367_p210.webp"
+        }
+      ]
+    },
+    "368": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r368_p210.webp"
+        }
+      ]
+    },
+    "369": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r369_p210.webp"
+        }
+      ]
+    },
+    "370": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r370_p210.webp"
+        }
+      ]
+    },
+    "371": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r371_p210.webp"
+        }
+      ]
+    },
+    "372": {
+      "german": [
+        {
+          "label": "German glossary p. 210, entry crop",
+          "src": "assets/entries/german_entry_r372_p210.webp"
+        }
+      ]
+    },
+    "373": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r373_p211.webp"
+        }
+      ]
+    },
+    "374": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r374_p211.webp"
+        }
+      ]
+    },
+    "375": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r375_p211.webp"
+        }
+      ]
+    },
+    "376": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r376_p211.webp"
+        }
+      ]
+    },
+    "377": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r377_p211.webp"
+        }
+      ]
+    },
+    "378": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r378_p211.webp"
+        }
+      ]
+    },
+    "379": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r379_p211.webp"
+        }
+      ]
+    },
+    "380": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r380_p211.webp"
+        }
+      ]
+    },
+    "381": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r381_p211.webp"
+        }
+      ]
+    },
+    "382": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r382_p211.webp"
+        }
+      ]
+    },
+    "383": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r383_p211.webp"
+        }
+      ]
+    },
+    "384": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r384_p211.webp"
+        }
+      ]
+    },
+    "385": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r385_p211.webp"
+        }
+      ]
+    },
+    "386": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r386_p211.webp"
+        }
+      ]
+    },
+    "387": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r387_p211.webp"
+        }
+      ]
+    },
+    "388": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r388_p211.webp"
+        }
+      ]
+    },
+    "389": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r389_p211.webp"
+        }
+      ]
+    },
+    "390": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r390_p211.webp"
+        }
+      ]
+    },
+    "391": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r391_p211.webp"
+        }
+      ]
+    },
+    "392": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r392_p211.webp"
+        }
+      ]
+    },
+    "393": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r393_p211.webp"
+        }
+      ]
+    },
+    "394": {
+      "german": [
+        {
+          "label": "German glossary p. 211, entry crop",
+          "src": "assets/entries/german_entry_r394_p211.webp"
+        }
+      ]
+    },
+    "395": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r395_p212.webp"
+        }
+      ]
+    },
+    "396": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r396_p212.webp"
+        }
+      ]
+    },
+    "397": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r397_p212.webp"
+        }
+      ]
+    },
+    "398": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r398_p212.webp"
+        }
+      ]
+    },
+    "399": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r399_p212.webp"
+        }
+      ]
+    },
+    "400": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r400_p212.webp"
+        }
+      ]
+    },
+    "401": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r401_p212.webp"
+        }
+      ]
+    },
+    "402": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r402_p212.webp"
+        }
+      ]
+    },
+    "403": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r403_p212.webp"
+        }
+      ]
+    },
+    "404": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r404_p212.webp"
+        }
+      ]
+    },
+    "405": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r405_p212.webp"
+        }
+      ]
+    },
+    "406": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r406_p212.webp"
+        }
+      ]
+    },
+    "407": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r407_p212.webp"
+        }
+      ]
+    },
+    "408": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r408_p212.webp"
+        }
+      ]
+    },
+    "409": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r409_p212.webp"
+        }
+      ]
+    },
+    "410": {
+      "german": [
+        {
+          "label": "German glossary p. 212, entry crop",
+          "src": "assets/entries/german_entry_r410_p212.webp"
+        }
+      ]
+    },
+    "411": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r411_p213.webp"
+        }
+      ]
+    },
+    "412": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r412_p213.webp"
+        }
+      ]
+    },
+    "413": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r413_p213.webp"
+        }
+      ]
+    },
+    "414": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r414_p213.webp"
+        }
+      ]
+    },
+    "415": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r415_p213.webp"
+        }
+      ]
+    },
+    "416": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r416_p213.webp"
+        }
+      ]
+    },
+    "417": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r417_p213.webp"
+        }
+      ]
+    },
+    "418": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r418_p213.webp"
+        }
+      ]
+    },
+    "419": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r419_p213.webp"
+        }
+      ]
+    },
+    "420": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r420_p213.webp"
+        }
+      ]
+    },
+    "421": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r421_p213.webp"
+        }
+      ]
+    },
+    "422": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r422_p213.webp"
+        }
+      ]
+    },
+    "423": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r423_p213.webp"
+        }
+      ]
+    },
+    "424": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r424_p213.webp"
+        }
+      ]
+    },
+    "425": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r425_p213.webp"
+        }
+      ]
+    },
+    "426": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r426_p213.webp"
+        }
+      ]
+    },
+    "427": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r427_p213.webp"
+        }
+      ]
+    },
+    "428": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r428_p213.webp"
+        }
+      ]
+    },
+    "429": {
+      "german": [
+        {
+          "label": "German glossary p. 213, entry crop",
+          "src": "assets/entries/german_entry_r429_p213.webp"
+        }
+      ]
+    },
+    "430": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r430_p214.webp"
+        }
+      ]
+    },
+    "431": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r431_p214.webp"
+        }
+      ]
+    },
+    "432": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r432_p214.webp"
+        }
+      ]
+    },
+    "433": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r433_p214.webp"
+        }
+      ]
+    },
+    "434": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r434_p214.webp"
+        }
+      ]
+    },
+    "435": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r435_p214.webp"
+        }
+      ]
+    },
+    "436": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r436_p214.webp"
+        }
+      ]
+    },
+    "437": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r437_p214.webp"
+        }
+      ]
+    },
+    "438": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r438_p214.webp"
+        }
+      ]
+    },
+    "439": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r439_p214.webp"
+        }
+      ]
+    },
+    "440": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r440_p214.webp"
+        }
+      ]
+    },
+    "441": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r441_p214.webp"
+        }
+      ]
+    },
+    "442": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r442_p214.webp"
+        }
+      ]
+    },
+    "443": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r443_p214.webp"
+        }
+      ]
+    },
+    "444": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r444_p214.webp"
+        }
+      ]
+    },
+    "445": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r445_p214.webp"
+        }
+      ]
+    },
+    "446": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r446_p214.webp"
+        }
+      ]
+    },
+    "447": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r447_p214.webp"
+        }
+      ]
+    },
+    "448": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r448_p214.webp"
+        }
+      ]
+    },
+    "449": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r449_p214.webp"
+        }
+      ]
+    },
+    "450": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r450_p214.webp"
+        }
+      ]
+    },
+    "451": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r451_p214.webp"
+        }
+      ]
+    },
+    "452": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r452_p214.webp"
+        }
+      ]
+    },
+    "453": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r453_p214.webp"
+        }
+      ]
+    },
+    "454": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r454_p214.webp"
+        }
+      ]
+    },
+    "455": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r455_p214.webp"
+        }
+      ]
+    },
+    "456": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r456_p214.webp"
+        }
+      ]
+    },
+    "457": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r457_p214.webp"
+        }
+      ]
+    },
+    "458": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r458_p214.webp"
+        }
+      ]
+    },
+    "459": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r459_p214.webp"
+        }
+      ]
+    },
+    "460": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r460_p214.webp"
+        }
+      ]
+    },
+    "461": {
+      "german": [
+        {
+          "label": "German glossary p. 214, entry crop",
+          "src": "assets/entries/german_entry_r461_p214.webp"
+        }
+      ]
+    },
+    "462": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r462_p215.webp"
+        }
+      ]
+    },
+    "463": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r463_p215.webp"
+        }
+      ]
+    },
+    "464": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r464_p215.webp"
+        }
+      ]
+    },
+    "465": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r465_p215.webp"
+        }
+      ]
+    },
+    "466": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r466_p215.webp"
+        }
+      ]
+    },
+    "467": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r467_p215.webp"
+        }
+      ]
+    },
+    "468": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r468_p215.webp"
+        }
+      ]
+    },
+    "469": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r469_p215.webp"
+        }
+      ]
+    },
+    "470": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r470_p215.webp"
+        }
+      ]
+    },
+    "471": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r471_p215.webp"
+        }
+      ]
+    },
+    "472": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r472_p215.webp"
+        }
+      ]
+    },
+    "473": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r473_p215.webp"
+        }
+      ]
+    },
+    "474": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r474_p215.webp"
+        }
+      ]
+    },
+    "475": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r475_p215.webp"
+        }
+      ]
+    },
+    "476": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r476_p215.webp"
+        }
+      ]
+    },
+    "477": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r477_p215.webp"
+        }
+      ]
+    },
+    "478": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r478_p215.webp"
+        }
+      ]
+    },
+    "479": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r479_p215.webp"
+        }
+      ]
+    },
+    "480": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r480_p215.webp"
+        }
+      ]
+    },
+    "481": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r481_p215.webp"
+        }
+      ]
+    },
+    "482": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r482_p215.webp"
+        }
+      ]
+    },
+    "483": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r483_p215.webp"
+        }
+      ]
+    },
+    "484": {
+      "german": [
+        {
+          "label": "German glossary p. 215, entry crop",
+          "src": "assets/entries/german_entry_r484_p215.webp"
+        }
+      ]
+    },
+    "485": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r485_p216.webp"
+        }
+      ]
+    },
+    "486": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r486_p216.webp"
+        }
+      ]
+    },
+    "487": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r487_p216.webp"
+        }
+      ]
+    },
+    "488": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r488_p216.webp"
+        }
+      ]
+    },
+    "489": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r489_p216.webp"
+        }
+      ]
+    },
+    "490": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r490_p216.webp"
+        }
+      ]
+    },
+    "491": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r491_p216.webp"
+        }
+      ]
+    },
+    "492": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r492_p216.webp"
+        }
+      ]
+    },
+    "493": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r493_p216.webp"
+        }
+      ]
+    },
+    "494": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r494_p216.webp"
+        }
+      ]
+    },
+    "495": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r495_p216.webp"
+        }
+      ]
+    },
+    "496": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r496_p216.webp"
+        }
+      ]
+    },
+    "497": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r497_p216.webp"
+        }
+      ]
+    },
+    "498": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r498_p216.webp"
+        }
+      ]
+    },
+    "499": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r499_p216.webp"
+        }
+      ]
+    },
+    "500": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r500_p216.webp"
+        }
+      ]
+    },
+    "501": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r501_p216.webp"
+        }
+      ]
+    },
+    "502": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r502_p216.webp"
+        }
+      ]
+    },
+    "503": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r503_p216.webp"
+        }
+      ]
+    },
+    "504": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r504_p216.webp"
+        }
+      ]
+    },
+    "505": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r505_p216.webp"
+        }
+      ]
+    },
+    "506": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r506_p216.webp"
+        }
+      ]
+    },
+    "507": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r507_p216.webp"
+        }
+      ]
+    },
+    "508": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r508_p216.webp"
+        }
+      ]
+    },
+    "509": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r509_p216.webp"
+        }
+      ]
+    },
+    "510": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r510_p216.webp"
+        }
+      ]
+    },
+    "511": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r511_p216.webp"
+        }
+      ]
+    },
+    "512": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r512_p216.webp"
+        }
+      ]
+    },
+    "513": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r513_p216.webp"
+        }
+      ]
+    },
+    "514": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r514_p216.webp"
+        }
+      ]
+    },
+    "515": {
+      "german": [
+        {
+          "label": "German glossary p. 216, entry crop",
+          "src": "assets/entries/german_entry_r515_p216.webp"
+        }
+      ]
+    },
+    "516": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r516_p217.webp"
+        }
+      ]
+    },
+    "517": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r517_p217.webp"
+        }
+      ]
+    },
+    "518": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r518_p217.webp"
+        }
+      ]
+    },
+    "519": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r519_p217.webp"
+        }
+      ]
+    },
+    "520": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r520_p217.webp"
+        }
+      ]
+    },
+    "521": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r521_p217.webp"
+        }
+      ]
+    },
+    "522": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r522_p217.webp"
+        }
+      ]
+    },
+    "523": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r523_p217.webp"
+        }
+      ]
+    },
+    "524": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r524_p217.webp"
+        }
+      ]
+    },
+    "525": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r525_p217.webp"
+        }
+      ]
+    },
+    "526": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r526_p217.webp"
+        }
+      ]
+    },
+    "527": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r527_p217.webp"
+        }
+      ]
+    },
+    "528": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r528_p217.webp"
+        }
+      ]
+    },
+    "529": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r529_p217.webp"
+        }
+      ]
+    },
+    "530": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r530_p217.webp"
+        }
+      ]
+    },
+    "531": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r531_p217.webp"
+        }
+      ]
+    },
+    "532": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r532_p217.webp"
+        }
+      ]
+    },
+    "533": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r533_p217.webp"
+        }
+      ]
+    },
+    "534": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r534_p217.webp"
+        }
+      ]
+    },
+    "535": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r535_p217.webp"
+        }
+      ]
+    },
+    "536": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r536_p217.webp"
+        }
+      ]
+    },
+    "537": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r537_p217.webp"
+        }
+      ]
+    },
+    "538": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r538_p217.webp"
+        }
+      ]
+    },
+    "539": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r539_p217.webp"
+        }
+      ]
+    },
+    "540": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r540_p217.webp"
+        }
+      ]
+    },
+    "541": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r541_p217.webp"
+        }
+      ]
+    },
+    "542": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r542_p217.webp"
+        }
+      ]
+    },
+    "543": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r543_p217.webp"
+        }
+      ]
+    },
+    "544": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r544_p217.webp"
+        }
+      ]
+    },
+    "545": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r545_p217.webp"
+        }
+      ]
+    },
+    "546": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r546_p217.webp"
+        }
+      ]
+    },
+    "547": {
+      "german": [
+        {
+          "label": "German glossary p. 217, entry crop",
+          "src": "assets/entries/german_entry_r547_p217.webp"
+        }
+      ]
+    },
+    "548": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r548_p218.webp"
+        }
+      ]
+    },
+    "549": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r549_p218.webp"
+        }
+      ]
+    },
+    "550": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r550_p218.webp"
+        }
+      ]
+    },
+    "551": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r551_p218.webp"
+        }
+      ]
+    },
+    "552": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r552_p218.webp"
+        }
+      ]
+    },
+    "553": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r553_p218.webp"
+        }
+      ]
+    },
+    "554": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r554_p218.webp"
+        }
+      ]
+    },
+    "555": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r555_p218.webp"
+        }
+      ]
+    },
+    "556": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r556_p218.webp"
+        }
+      ]
+    },
+    "557": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r557_p218.webp"
+        }
+      ]
+    },
+    "558": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r558_p218.webp"
+        }
+      ]
+    },
+    "559": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r559_p218.webp"
+        }
+      ]
+    },
+    "560": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r560_p218.webp"
+        }
+      ]
+    },
+    "561": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r561_p218.webp"
+        }
+      ]
+    },
+    "562": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r562_p218.webp"
+        }
+      ]
+    },
+    "563": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r563_p218.webp"
+        }
+      ]
+    },
+    "564": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r564_p218.webp"
+        }
+      ]
+    },
+    "565": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r565_p218.webp"
+        }
+      ]
+    },
+    "566": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r566_p218.webp"
+        }
+      ]
+    },
+    "567": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r567_p218.webp"
+        }
+      ]
+    },
+    "568": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r568_p218.webp"
+        }
+      ]
+    },
+    "569": {
+      "german": [
+        {
+          "label": "German glossary p. 218, entry crop",
+          "src": "assets/entries/german_entry_r569_p218.webp"
+        }
+      ]
+    },
+    "570": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r570_p219.webp"
+        }
+      ]
+    },
+    "571": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r571_p219.webp"
+        }
+      ]
+    },
+    "572": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r572_p219.webp"
+        }
+      ]
+    },
+    "573": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r573_p219.webp"
+        }
+      ]
+    },
+    "574": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r574_p219.webp"
+        }
+      ]
+    },
+    "575": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r575_p219.webp"
+        }
+      ]
+    },
+    "576": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r576_p219.webp"
+        }
+      ]
+    },
+    "577": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r577_p219.webp"
+        }
+      ]
+    },
+    "578": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r578_p219.webp"
+        }
+      ]
+    },
+    "579": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r579_p219.webp"
+        }
+      ]
+    },
+    "580": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r580_p219.webp"
+        }
+      ]
+    },
+    "581": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r581_p219.webp"
+        }
+      ]
+    },
+    "582": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r582_p219.webp"
+        }
+      ]
+    },
+    "583": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r583_p219.webp"
+        }
+      ]
+    },
+    "584": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r584_p219.webp"
+        }
+      ]
+    },
+    "585": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r585_p219.webp"
+        }
+      ]
+    },
+    "586": {
+      "german": [
+        {
+          "label": "German glossary p. 219, entry crop",
+          "src": "assets/entries/german_entry_r586_p219.webp"
+        }
+      ]
+    },
+    "587": {
+      "german": [
+        {
+          "label": "German glossary p. 220, entry crop",
+          "src": "assets/entries/german_entry_r587_p220.webp"
+        }
+      ]
+    },
+    "588": {
+      "german": [
+        {
+          "label": "German glossary p. 220, entry crop",
+          "src": "assets/entries/german_entry_r588_p220.webp"
+        }
+      ]
+    },
+    "589": {
+      "german": [
+        {
+          "label": "German glossary p. 220, entry crop",
+          "src": "assets/entries/german_entry_r589_p220.webp"
+        }
+      ]
+    },
+    "590": {
+      "german": [
+        {
+          "label": "German glossary p. 220, entry crop",
+          "src": "assets/entries/german_entry_r590_p220.webp"
+        }
+      ]
+    },
+    "591": {
+      "german": [
+        {
+          "label": "German glossary p. 220, entry crop",
+          "src": "assets/entries/german_entry_r591_p220.webp"
+        }
+      ]
+    },
+    "592": {
+      "german": [
+        {
+          "label": "German glossary p. 220, entry crop",
+          "src": "assets/entries/german_entry_r592_p220.webp"
+        }
+      ]
+    },
+    "593": {
+      "german": [
+        {
+          "label": "German glossary p. 220, entry crop",
+          "src": "assets/entries/german_entry_r593_p220.webp"
+        }
+      ]
+    },
+    "594": {
+      "german": [
+        {
+          "label": "German glossary p. 220, entry crop",
+          "src": "assets/entries/german_entry_r594_p220.webp"
+        }
+      ]
+    },
+    "595": {
+      "german": [
+        {
+          "label": "German glossary p. 220, entry crop",
+          "src": "assets/entries/german_entry_r595_p220.webp"
+        }
+      ]
+    },
+    "596": {
+      "german": [
+        {
+          "label": "German glossary p. 220, entry crop",
+          "src": "assets/entries/german_entry_r596_p220.webp"
+        }
+      ]
+    },
+    "597": {
+      "german": [
+        {
+          "label": "German glossary p. 220, entry crop",
+          "src": "assets/entries/german_entry_r597_p220.webp"
+        }
+      ]
+    },
+    "598": {
+      "german": [
+        {
+          "label": "German glossary p. 220, entry crop",
+          "src": "assets/entries/german_entry_r598_p220.webp"
+        }
+      ]
+    },
+    "599": {
+      "german": [
+        {
+          "label": "German glossary p. 220, entry crop",
+          "src": "assets/entries/german_entry_r599_p220.webp"
+        }
+      ]
+    },
+    "600": {
+      "german": [
+        {
+          "label": "German glossary p. 220, entry crop",
+          "src": "assets/entries/german_entry_r600_p220.webp"
+        }
+      ]
+    }
   }
 };

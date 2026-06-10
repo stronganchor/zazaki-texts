@@ -83,21 +83,11 @@
       color: white;
     }
     .layout {
-      display: grid;
-      grid-template-columns: minmax(360px, 43vw) 1fr;
-      gap: 16px;
+      display: block;
       padding: 16px;
     }
     .page-pane {
-      position: sticky;
-      top: 104px;
-      align-self: start;
-      max-height: calc(100vh - 198px);
-      overflow: auto;
-      border: 1px solid var(--line);
-      background: #efe5d4;
-      border-radius: 8px;
-      padding: 10px;
+      display: none;
     }
     .page-meta {
       display: flex;
@@ -172,6 +162,38 @@
       line-height: 1.35;
       white-space: pre-wrap;
     }
+    .auto-preview {
+      border-style: solid;
+      background: #eef8f6;
+      color: #073f3a;
+      font-weight: 700;
+    }
+    .source-crops {
+      display: grid;
+      gap: 10px;
+    }
+    .crop-card {
+      margin: 0;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #efe5d4;
+      overflow: hidden;
+    }
+    .crop-card figcaption {
+      padding: 7px 9px;
+      font-size: 12px;
+      color: var(--muted);
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: .03em;
+      border-bottom: 1px solid var(--line);
+      background: #f7edde;
+    }
+    .entry-crop {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
     .source-text {
       font-family: "Times New Roman", serif;
       font-size: 18px;
@@ -187,12 +209,25 @@
       right: 0;
       bottom: 0;
       z-index: 30;
-      display: flex;
-      flex-wrap: wrap;
+      display: grid;
       gap: 6px;
       padding: 10px 14px;
       background: rgba(33, 28, 24, .96);
       border-top: 1px solid #5f5147;
+    }
+    .key-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+    }
+    .key-label {
+      width: 78px;
+      color: #e9ddcf;
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: .05em;
     }
     .keyboard button {
       min-height: 34px;
@@ -212,9 +247,9 @@
     }
     @media (max-width: 1000px) {
       .controls { grid-template-columns: 1fr 1fr; }
-      .layout { grid-template-columns: 1fr; }
       .page-pane { position: relative; top: auto; max-height: 55vh; }
       .body-grid { grid-template-columns: 1fr; }
+      .key-label { width: 100%; }
     }
   </style>
 </head>
@@ -264,6 +299,7 @@
     let saved = {};
     let saveTimer = null;
     let diskSaveAvailable = false;
+    const autoPreviewEls = new Map();
 
     try {
       saved = JSON.parse(localStorage.getItem(storageKey) || "{}");
@@ -291,6 +327,60 @@
       return saved[row.row_id]?.[field] ?? row[field] ?? "";
     }
 
+    function lerchToZazaki(value) {
+      let text = String(value || "").normalize("NFD");
+      text = text
+        .replace(/H\u0314/g, "'H").replace(/h\u0314/g, "'h")
+        .replace(/H\u02bf/g, "'H").replace(/h\u02bf/g, "'h")
+        .replace(/H\u2018/g, "'H").replace(/h\u2018/g, "'h")
+        .replace(/\u0393/g, "Ğ").replace(/\u03b3/g, "ğ")
+        .replace(/\u03a7/g, "X").replace(/\u03c7/g, "x")
+        .replace(/N\u0307(?=[gkqxX\u03c7\u03a7])/g, "N")
+        .replace(/n\u0307(?=[gkqxX\u03c7\u03a7])/g, "n")
+        .replace(/N\u0307/g, "Ng").replace(/n\u0307/g, "ng")
+        .replace(/N\u0301/g, "Ny").replace(/n\u0301/g, "ny")
+        .replace(/D\u0301/g, "Dy").replace(/d\u0301/g, "dy")
+        .replace(/T\u032e/g, "Ç").replace(/t\u032e/g, "ç")
+        .replace(/D\u032e/g, "C").replace(/d\u032e/g, "c")
+        .replace(/S\u030c/g, "Ş").replace(/s\u030c/g, "ş")
+        .replace(/Z\u030c/g, "J").replace(/z\u030c/g, "j")
+        .replace(/C\u030c/g, "Ç").replace(/c\u030c/g, "ç")
+        .replace(/J\u030c/g, "C").replace(/j\u030c/g, "c")
+        .replace(/I\u0325/g, "\uE001")
+        .replace(/i\u0325/g, "ı")
+        .replace(/U[\u0324\u0308]/g, "Ü")
+        .replace(/u[\u0324\u0308]/g, "ü")
+        .replace(/O[\u0324\u0308]/g, "Ö")
+        .replace(/o[\u0324\u0308]/g, "ö")
+        .replace(/E\u0331/g, "\uE000")
+        .replace(/e\u0331/g, "\uE002")
+        .replace(/E\u0323/g, "Ê")
+        .replace(/e\u0323/g, "ê");
+      text = text.replace(/[AEIOUaeiou]/g, char => {
+        if (char === "E") return "Ê";
+        if (char === "e") return "ê";
+        if (char === "U") return "Û";
+        if (char === "u") return "û";
+        if (char === "I") return "İ";
+        return char;
+      });
+      return text
+        .replace(/\uE000/g, "E")
+        .replace(/\uE001/g, "I")
+        .replace(/\uE002/g, "e")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[ʿʼ’']/g, "")
+        .replace(/\s+/g, " ")
+        .trim();
+    }
+
+    function updateGeneratedFields(rowId) {
+      const row = data.rows.find(item => item.row_id === rowId);
+      const target = autoPreviewEls.get(rowId);
+      if (!row || !target) return;
+      target.textContent = lerchToZazaki(rowValue(row, "corrected_lerch_headword"));
+    }
+
     function setRowValue(rowId, field, value) {
       if (!saved[rowId]) saved[rowId] = {};
       saved[rowId][field] = value;
@@ -298,6 +388,7 @@
       statusLine.textContent = diskSaveAvailable
         ? `Saving to disk ${new Date().toLocaleTimeString()}`
         : `Saved in browser ${new Date().toLocaleTimeString()}`;
+      updateGeneratedFields(rowId);
       scheduleDiskSave();
     }
 
@@ -397,6 +488,45 @@
       return field(labelText, div);
     }
 
+    function autoZazakiField(row) {
+      const div = document.createElement("div");
+      div.className = "readonly auto-preview";
+      div.textContent = lerchToZazaki(rowValue(row, "corrected_lerch_headword"));
+      autoPreviewEls.set(row.row_id, div);
+      return field("Modern Zazaki orthography (auto)", div);
+    }
+
+    function sourceCropBlock(row) {
+      const wrap = document.createElement("div");
+      wrap.className = "source-crops";
+      const assets = data.entry_assets?.[row.row_id] || {};
+      const sourceGroups = [
+        ["russian", "Russian source crop"],
+        ["german", "German source crop"]
+      ];
+      sourceGroups.forEach(([key, fallbackLabel]) => {
+        (assets[key] || []).forEach(asset => {
+          const figure = document.createElement("figure");
+          figure.className = "crop-card";
+          const caption = document.createElement("figcaption");
+          caption.textContent = asset.label || fallbackLabel;
+          const img = document.createElement("img");
+          img.className = "entry-crop";
+          img.src = asset.src;
+          img.alt = asset.label || fallbackLabel;
+          figure.append(caption, img);
+          wrap.append(figure);
+        });
+      });
+      if (!wrap.childElementCount) {
+        const missing = document.createElement("div");
+        missing.className = "readonly muted";
+        missing.textContent = "No source crop was generated for this row; use the source page fallback if needed.";
+        wrap.append(missing);
+      }
+      return field("Source witness crop", wrap, "full");
+    }
+
     function selectField(row) {
       const select = document.createElement("select");
       ["needs_review", "headword_checked", "gloss_checked", "ready", "skip_name_place", "uncertain"].forEach(value => {
@@ -431,9 +561,10 @@
       const body = document.createElement("div");
       body.className = "body-grid";
       body.append(
+        sourceCropBlock(row),
         readonly("Raw OCR headword", row.raw_lerch_headword, "source-text"),
         inputField(row, "corrected_lerch_headword", "Corrected Lerch headword"),
-        inputField(row, "modern_zazaki_guess", "Modern Zazaki guess"),
+        autoZazakiField(row),
         inputField(row, "proposed_group_headword", "Group under headword"),
         textareaField(row, "german_gloss_clean", "German gloss", true),
         textareaField(row, "english_gloss", "English gloss"),
@@ -494,7 +625,11 @@
     Object.values(filters).forEach(filter => filter.addEventListener("change", renderRows));
 
     document.getElementById("exportBtn").addEventListener("click", () => {
-      const merged = data.rows.map(row => ({...row, ...(saved[row.row_id] || {})}));
+      const merged = data.rows.map(row => {
+        const item = {...row, ...(saved[row.row_id] || {})};
+        item.modern_zazaki_guess = lerchToZazaki(item.corrected_lerch_headword || "");
+        return item;
+      });
       const blob = new Blob([JSON.stringify({exported_at: new Date().toISOString(), rows: merged}, null, 2)], {type: "application/json"});
       const link = document.createElement("a");
       link.href = URL.createObjectURL(blob);
@@ -503,35 +638,66 @@
       URL.revokeObjectURL(link.href);
     });
 
-    const keys = [
-      "ā","ē","ī","ō","ū","ă","ĕ","ĭ","ŏ","ŭ","e̱","ẹ","i̥","ṳ","o̤","ọ","ḱ","ǵ","ń","ṅ","š","ž","t̮","d̮","h̔","ʿ","ʼ","γ","Γ","χ","Χ",
-      {label:"acute", value:"\u0301", mark:true},
-      {label:"macron", value:"\u0304", mark:true},
-      {label:"line below", value:"\u0331", mark:true},
-      {label:"dot below", value:"\u0323", mark:true},
-      {label:"ring below", value:"\u0325", mark:true},
-      {label:"diaeresis below", value:"\u0324", mark:true},
-      {label:"crescent below", value:"\u032E", mark:true},
-      {label:"h mark", value:"\u0314", mark:true}
-    ];
     const keyboard = document.getElementById("keyboard");
-    keys.forEach(item => {
-      const spec = typeof item === "string" ? {label: item, value: item} : item;
-      const btn = document.createElement("button");
-      btn.type = "button";
-      btn.textContent = spec.label;
-      if (spec.mark) btn.className = "mark";
-      btn.addEventListener("click", () => {
-        if (!activeInput) return;
-        const start = activeInput.selectionStart ?? activeInput.value.length;
-        const end = activeInput.selectionEnd ?? activeInput.value.length;
-        activeInput.value = activeInput.value.slice(0, start) + spec.value + activeInput.value.slice(end);
-        const pos = start + spec.value.length;
-        activeInput.setSelectionRange(pos, pos);
-        activeInput.dispatchEvent(new Event("input", {bubbles: true}));
-        activeInput.focus();
+    const keyRows = [
+      {
+        label: "letters",
+        keys: [
+          "\u03b3", "\u0393", "\u03c7", "\u03a7", "\u0161", "\u0160", "\u017e", "\u017d",
+          "t\u032e", "d\u032e", "d\u0301", "n\u0301", "n\u0307", "h\u0314", "H\u0314", "\u02bf", "\u02bc"
+        ]
+      },
+      {
+        label: "vowels",
+        keys: [
+          "\u0101", "\u0113", "\u012b", "\u014d", "\u016b", "\u0103", "\u0115", "\u012d", "\u014f", "\u016d",
+          "e\u0331", "e\u0323", "i\u0325", "u\u0324", "o\u0324", "o\u0323", "\u1e01"
+        ]
+      },
+      {
+        label: "marks",
+        keys: [
+          {label: "acute", value: "\u0301", mark: true, title: "Add acute accent to the preceding character"},
+          {label: "macron", value: "\u0304", mark: true, title: "Add macron to the preceding character"},
+          {label: "line below", value: "\u0331", mark: true, title: "Add line below to the preceding character"},
+          {label: "dot below", value: "\u0323", mark: true, title: "Add dot below to the preceding character"},
+          {label: "ring below", value: "\u0325", mark: true, title: "Add small circle below to the preceding character"},
+          {label: "diaeresis below", value: "\u0324", mark: true, title: "Add diaeresis below to the preceding character"},
+          {label: "crescent below", value: "\u032e", mark: true, title: "Add half-moon/crescent below to the preceding character"},
+          {label: "h mark", value: "\u0314", mark: true, title: "Add rough-breathing h mark to the preceding character"}
+        ]
+      }
+    ];
+
+    function insertKeyboardValue(spec) {
+      if (!activeInput) return;
+      const start = activeInput.selectionStart ?? activeInput.value.length;
+      const end = activeInput.selectionEnd ?? activeInput.value.length;
+      activeInput.value = activeInput.value.slice(0, start) + spec.value + activeInput.value.slice(end);
+      const pos = start + spec.value.length;
+      activeInput.setSelectionRange(pos, pos);
+      activeInput.dispatchEvent(new Event("input", {bubbles: true}));
+      activeInput.focus();
+    }
+
+    keyRows.forEach(row => {
+      const group = document.createElement("div");
+      group.className = "key-group";
+      const label = document.createElement("span");
+      label.className = "key-label";
+      label.textContent = row.label;
+      group.append(label);
+      row.keys.forEach(item => {
+        const spec = typeof item === "string" ? {label: item, value: item} : item;
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.textContent = spec.label;
+        btn.title = spec.title || spec.label;
+        if (spec.mark) btn.className = "mark";
+        btn.addEventListener("click", () => insertKeyboardValue(spec));
+        group.append(btn);
       });
-      keyboard.append(btn);
+      keyboard.append(group);
     });
 
     loadDiskAutosave().then(renderRows);

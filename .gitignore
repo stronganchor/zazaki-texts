@@ -6,6 +6,7 @@ desktop.ini
 dist/
 __pycache__/
 *.pyc
+reviews/lerch-glossary-headword-review/glossary-review-autosave.json
 
 # Keep live/import corpus crop assets lightweight. Older tracked JPG crops stay
 # tracked, but new display assets should be committed as WebP.
