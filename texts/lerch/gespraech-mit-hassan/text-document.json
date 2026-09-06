@@ -10,6 +10,9 @@
     },
     "en": {
       "label": "English"
+    },
+    "de": {
+      "label": "German"
     }
   },
   "metadata": {
@@ -216,7 +219,7 @@
         }
       ],
       "historical_context_tr": "Bu söyleşi, Lerch'in ana Zaza kaynağı Hassan hakkında en doğrudan bilgiyi veren metindir. Hassan'ın Sivan dediği çerçeve, 1841 Palu nüfus defterinde 42 köylü Sivan nahiyesi olarak görünen ve daha sonra Genç'e bağlanıp Servi adıyla anılan bölgeyle örtüşür. Kasan/Kassau/Kaschan için çalışma karşılığı, Sivan köy listelerinde Kasan/Kasun diye geçen bugünkü Günkondu'dur.",
-      "editorial_note_tr": "Hassan/Hasan yazımı Lerch'in biçimine göre korunur. Kasan/Günkondu, Horsik/Saklıca, Aldun/Alaaddin ve Hêmek/Hamek/Yeniler gibi Sivan köyleri kaynakla desteklenir; Weşin, Talek, Kavare ve Gowman gibi adlar anlatının yerel coğrafyasını belgeleyen diğer adlardır. Kiepert haritasındaki Melken adı, Melêkang/Melekan = Sarıbudak eşleştirmesini güçlendirir.",
+      "editorial_note_tr": "Hassan/Hasan yazımı Lerch'in biçimine göre korunur. Kasan/Günkondu, Horsik/Saklıca, Aldun/Alaaddin ve Hêmek/Hamek/Yeniler gibi Sivan köyleri kaynakla desteklenir; Weşin, Talek, Kavare ve Gowman gibi adlar anlatının yerel coğrafyasını belgeleyen diğer adlardır. Kiepert haritasındaki Melken adı, Melêkang/Melekan = Sarıbudak eşleştirmesini güçlendirir.\n\nAlmanca okuma metni, Lerch’in Almanca çevirisini (1857, basılı s. 58–61; yerel PDF s. 102–105) güncel bir dille aktarır. Orada kısaltılan köy listesi, mevcut okuma metinlerindeki sadeleştirilmiş ad biçimleri kullanılarak basılı Zazaki metninden tamamlanmıştır: önceki yanıtta 34 denmesine rağmen listede 33 köy vardır. Konutlarla ilgili bölümde Almanca baskı “kulübe” ve “dört, beş ev” der; Türkçe ve İngilizce okuma metinleri miktar ifadesini oda olarak yorumlar, kulübeyi ev olarak aktarır. Yaylada kulübede kalma, Almanca baskıda kulübelerin bulunması koşuluna bağlıdır. Dönüş zamanı ilk sonbahar ayıdır. Kavgalara katılma anlatımı ve son yanıttaki “mag (also) nicht sprechen” ifadesi de diğer okuma metinleriyle sessizce aynılaştırılmadan bu Almanca baskıya göre korunur.",
       "title_tr": "Hassan ile Söyleşi",
       "title_en": "Conversation with Hassan",
       "title_de": "Gespräch mit Hassan",
@@ -230,8 +233,8 @@
       "places_de": "Sivan/Servi; Kasan/Kassau/Kaschan/Günkondu; Gewel/Gevil; Aldun/Alaaddin; Talek; Weşin; Karbegan/Karabegan; Hyêni/Hêni/Hani; Nyêrib/Nerib/Kuyular; Kavare; Gowman.",
       "historical_context_en": "This conversation gives the most direct information about Hassan, Lerch's main Zaza source. Hassan's Sivan framework matches the region that appears in the 1841 Palu population register as a 42-village Sivan nahiye and was later attached to Genç and known as Servi. The working identification for Kasan/Kassau/Kaschan is today's Günkondu, listed as Kasan/Kasun in Sivan village lists.",
       "historical_context_de": "Dieses Gespräch liefert die direktesten Informationen über Hassan, Lerchs wichtigsten Zaza-Gewährsmann. Hassans Sivan-Rahmen passt zu der Region, die im Palu-Bevölkerungsregister von 1841 als Sivan-Nahiye mit 42 Dörfern erscheint und später Genç zugeordnet wurde und als Servi bekannt war. Die Arbeitsidentifikation für Kasan/Kassau/Kaschan ist das heutige Günkondu, das in Sivan-Dorflisten als Kasan/Kasun erscheint.",
-      "editorial_note_en": "The spelling Hassan/Hasan follows Lerch's form. Kasan/Günkondu, Horsik/Saklıca, Aldun/Alaaddin, and Hêmek/Hamek/Yeniler are supported by sources; Weşin, Talek, Kavare, and Gowman document additional local geography. The name Melken on Kiepert's map strengthens the Melêkang/Melekan = Sarıbudak identification.",
-      "editorial_note_de": "Die Schreibung Hassan/Hasan folgt Lerchs Form. Kasan/Günkondu, Horsik/Saklıca, Aldun/Alaaddin und Hêmek/Hamek/Yeniler sind quellenmäßig gestützt; Weşin, Talek, Kavare und Gowman dokumentieren weitere lokale Geographie. Der Name Melken auf Kieperts Karte stärkt die Identifikation Melêkang/Melekan = Sarıbudak."
+      "editorial_note_en": "The spelling Hassan/Hasan follows Lerch's form. Kasan/Günkondu, Horsik/Saklıca, Aldun/Alaaddin, and Hêmek/Hamek/Yeniler are supported by sources; Weşin, Talek, Kavare, and Gowman document additional local geography. The name Melken on Kiepert's map strengthens the Melêkang/Melekan = Sarıbudak identification.\n\nThe German reading text follows Lerch’s German translation (1857, printed pp. 58–61; local PDF pp. 102–105), with modern wording. Its abbreviated village list is expanded from the printed Zazaki, using the simplified name forms of the existing readings. The list names 33 villages despite the preceding answer of 34. For housing, the German print says “hut” and “four or five houses”; the English and Turkish readings interpret the quantity as rooms and render hut as house. At the summer camp, the German print makes staying in huts conditional on their presence. It places the return in the first autumn month. The German account of participation in the feuds and its final wording “mag (also) nicht sprechen” are also preserved rather than silently aligned with the other readings.",
+      "editorial_note_de": "Die Schreibung Hassan/Hasan folgt Lerchs Form. Kasan/Günkondu, Horsik/Saklıca, Aldun/Alaaddin und Hêmek/Hamek/Yeniler sind quellenmäßig gestützt; Weşin, Talek, Kavare und Gowman dokumentieren weitere lokale Geographie. Der Name Melken auf Kieperts Karte stärkt die Identifikation Melêkang/Melekan = Sarıbudak.\n\nDie deutsche Lesefassung folgt Lerchs deutscher Übersetzung (1857, gedruckte S. 58–61; lokale PDF-Seiten 102–105) in heutiger Sprache. Die dort abgekürzte Dorfliste ist nach dem abgedruckten Zazaki-Text ausgeschrieben; die vereinfachten Namensformen folgen den vorhandenen Lesefassungen. Die Liste nennt 33 Dörfer, obwohl Hassan zuvor 34 angibt; die Abweichung bleibt bestehen. Bei der Wohnweise stehen im deutschen Druck „Hütte“ sowie „vier, fünf Häuser“; die englische und türkische Lesefassung deuten die Mengenangabe als Zimmer und geben Hütte als Haus wieder. Für das Sommerlager nennt der deutsche Druck Hütten nur bedingt: Gibt es Hütten, halten sie sich darin auf. Die Rückkehr erfolgt im deutschen Text im ersten Herbstmonat. Die Aussagen zur Teilnahme an den Fehden und die Schlussformulierung „mag (also) nicht sprechen“ bleiben ebenfalls an dieser deutschen Fassung orientiert."
     },
     "collection_labels": {
       "tr": "Peter Lerch Metinleri",
@@ -307,7 +310,8 @@
       "source": "Kêyfê twê sênyênû?",
       "translations": {
         "tr": "Nasılsın?",
-        "en": "How are you?"
+        "en": "How are you?",
+        "de": "Wie geht es dir?"
       }
     },
     {
@@ -320,7 +324,8 @@
       "source": "Kêyfê mê 'hawlû.",
       "translations": {
         "tr": "İyiyim.",
-        "en": "I am well."
+        "en": "I am well.",
+        "de": "Mir geht es gut."
       }
     },
     {
@@ -333,7 +338,8 @@
       "source": "Namêy aşirêta tê çinaw?",
       "translations": {
         "tr": "Aşiretinin adı nedir?",
-        "en": "What is the name of your tribe?"
+        "en": "What is the name of your tribe?",
+        "de": "Wie heißt dein Stamm?"
       }
     },
     {
@@ -346,7 +352,8 @@
       "source": "Namêy aşirêta ma Sivang.",
       "translations": {
         "tr": "Aşiretimizin adı Sivan'dır.",
-        "en": "The name of our tribe is Sivan."
+        "en": "The name of our tribe is Sivan.",
+        "de": "Unser Stamm heißt Sivan."
       }
     },
     {
@@ -359,7 +366,8 @@
       "source": "Çendê dêwi aşirêta şüma esti?",
       "translations": {
         "tr": "Aşiretinizin kaç köyü var?",
-        "en": "How many villages does your tribe have?"
+        "en": "How many villages does your tribe have?",
+        "de": "Wie viele Dörfer gehören zu eurem Stamm?"
       }
     },
     {
@@ -372,7 +380,8 @@
       "source": "Hyêris û çêhêr dewi aşirêta mai.",
       "translations": {
         "tr": "Aşiretimizin otuz dört köyü var.",
-        "en": "Our tribe has thirty-four villages."
+        "en": "Our tribe has thirty-four villages.",
+        "de": "Unser Stamm hat vierunddreißig Dörfer."
       }
     },
     {
@@ -389,7 +398,8 @@
       "source": "Namêy dewani aşirêta şüma çinaw?",
       "translations": {
         "tr": "Aşiretinizin köylerinin adları nelerdir?",
-        "en": "What are the names of your tribe's villages?"
+        "en": "What are the names of your tribe's villages?",
+        "de": "Wie heißen die Dörfer eures Stammes?"
       }
     },
     {
@@ -405,8 +415,9 @@
       ],
       "source": "Fatrakom, 'Hopsor, Tênik, Rêjwan, Zımag, 'Hoêrsig, 'Hêmêk, Bılıkê, Melêkang, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sama, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahiman, Avdêlang, Mıstang, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi, Letang, Ğahar, Ğoêmang, Kavarê, Talek.",
       "translations": {
-        "tr": "Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.",
-        "en": "Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek."
+        "tr": "Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Bazyang, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.",
+        "en": "Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Bazyang, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.",
+        "de": "Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Bazyang, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek."
       }
     },
     {
@@ -419,7 +430,8 @@
       "source": "Sıpyerdışi dewe Aldûni qamû?",
       "translations": {
         "tr": "Aldun köyünün ileri geleni kimdir?",
-        "en": "Who is the elder of the village of Aldun?"
+        "en": "Who is the elder of the village of Aldun?",
+        "de": "Wer ist der Dorfälteste in Aldun?"
       }
     },
     {
@@ -432,7 +444,8 @@
       "source": "Ali Beg sıpyerdışû dawê Aldûni estû.",
       "translations": {
         "tr": "Ali Beg Aldun köyünün ileri gelenidir.",
-        "en": "Ali Beg is the elder of the village of Aldun."
+        "en": "Ali Beg is the elder of the village of Aldun.",
+        "de": "Ali Beg ist der Dorfälteste in Aldun."
       }
     },
     {
@@ -445,7 +458,8 @@
       "source": "Sıpyerdışû dawê Gewêl qamû?",
       "translations": {
         "tr": "Gewel köyünün ileri geleni kimdir?",
-        "en": "Who is the elder of the village of Gewel?"
+        "en": "Who is the elder of the village of Gewel?",
+        "de": "Wer ist der Dorfälteste in Gewel?"
       }
     },
     {
@@ -458,7 +472,8 @@
       "source": "Mistêfa Alya sıpyerdışû.",
       "translations": {
         "tr": "Mistefa Ali ileri gelendir.",
-        "en": "Mistefa Ali is the elder."
+        "en": "Mistefa Ali is the elder.",
+        "de": "Mistefa Ali ist der Dorfälteste."
       }
     },
     {
@@ -471,7 +486,8 @@
       "source": "Namêy dewa twê çinaw?",
       "translations": {
         "tr": "Köyünün adı nedir?",
-        "en": "What is the name of your village?"
+        "en": "What is the name of your village?",
+        "de": "Wie heißt dein Dorf?"
       }
     },
     {
@@ -484,7 +500,8 @@
       "source": "Kasan dewa mê estû.",
       "translations": {
         "tr": "Benim köyüm Kasan'dır.",
-        "en": "Kasan is my village."
+        "en": "Kasan is my village.",
+        "de": "Mein Dorf heißt Kasan."
       }
     },
     {
@@ -497,7 +514,8 @@
       "source": "Çendê bani dawe Kasan esti?",
       "translations": {
         "tr": "Kasan köyünde kaç ev var?",
-        "en": "How many houses are there in the village of Kasan?"
+        "en": "How many houses are there in the village of Kasan?",
+        "de": "Wie viele Häuser gibt es in Kasan?"
       }
     },
     {
@@ -510,7 +528,8 @@
       "source": "Şeşti bani Kasan esti.",
       "translations": {
         "tr": "Kasan'da altmış ev var.",
-        "en": "There are sixty houses in Kasan."
+        "en": "There are sixty houses in Kasan.",
+        "de": "In Kasan gibt es sechzig Häuser."
       }
     },
     {
@@ -523,7 +542,8 @@
       "source": "Bağçê tû estû?",
       "translations": {
         "tr": "Bahçen var mı?",
-        "en": "Do you have a garden?"
+        "en": "Do you have a garden?",
+        "de": "Hast du einen Garten?"
       }
     },
     {
@@ -536,7 +556,8 @@
       "source": "Estû bağçê mê.",
       "translations": {
         "tr": "Bahçem var.",
-        "en": "I have a garden."
+        "en": "I have a garden.",
+        "de": "Ich habe einen Garten."
       }
     },
     {
@@ -550,7 +571,8 @@
       "source": "Bağçê tû senyê dari?",
       "translations": {
         "tr": "Bahçende nasıl ağaçlar var?",
-        "en": "What kind of trees does your garden have?"
+        "en": "What kind of trees does your garden have?",
+        "de": "Welche Bäume gibt es in deinem Garten?"
       }
     },
     {
@@ -563,8 +585,9 @@
       ],
       "source": "Darê tüyêra estû, sayêr estû, mişmişyêr estû, xawxir, henariyêr, rez êsti.",
       "translations": {
-        "tr": "Ağaçlar var: elma ağaçları, kayısı ağaçları, şeftali ağaçları, nar ağaçları ve üzüm asmaları var.",
-        "en": "It has trees: apple trees, apricot trees, peach trees, pomegranate trees and grapevines."
+        "tr": "Dut ağaçları, elma ağaçları, kayısı ağaçları, şeftali ağaçları, nar ağaçları ve üzüm asmaları var.",
+        "en": "It has mulberry trees, apple trees, apricot trees, peach trees, pomegranate trees and grapevines.",
+        "de": "Dort wachsen Maulbeerbäume, Apfelbäume, Aprikosenbäume, Pfirsichbäume, Granatapfelbäume und Weinreben."
       }
     },
     {
@@ -578,7 +601,8 @@
       "source": "Çendê wadêy yaw bani esti?",
       "translations": {
         "tr": "Bir evde kaç oda var?",
-        "en": "How many rooms are there in one house?"
+        "en": "How many rooms are there in one house?",
+        "de": "Wie viele Zimmer gibt es in einer Hütte?"
       }
     },
     {
@@ -592,7 +616,8 @@
       "source": "Merdûm estû weri kêy çêhêr êsti, pangc esti, merdûm estû yaw bang estû, wade çinyû.",
       "translations": {
         "tr": "Bazı kişilerin evinde dört, beş oda var; bazı kişilerin bir evi var, odası yok.",
-        "en": "Some people's houses have four or five rooms; some people have one house and no room."
+        "en": "Some people's houses have four or five rooms; some people have one house and no room.",
+        "de": "Manche haben vier oder fünf Häuser; andere haben nur eine Hütte und kein Zimmer."
       }
     },
     {
@@ -605,7 +630,8 @@
       "source": "Şüma şwêni zozang?",
       "translations": {
         "tr": "Yaylaya gider misiniz?",
-        "en": "Do you go to the summer pasture?"
+        "en": "Do you go to the summer pasture?",
+        "de": "Zieht ihr ins Sommerlager?"
       }
     },
     {
@@ -618,7 +644,8 @@
       "source": "Ma şwêni zozang.",
       "translations": {
         "tr": "Yaylaya gideriz.",
-        "en": "We go to the summer pasture."
+        "en": "We go to the summer pasture.",
+        "de": "Wir ziehen ins Sommerlager."
       }
     },
     {
@@ -631,7 +658,8 @@
       "source": "Şüma qam waxtê şwêni zozang?",
       "translations": {
         "tr": "Yaylaya ne zaman gidersiniz?",
-        "en": "When do you go to the summer pasture?"
+        "en": "When do you go to the summer pasture?",
+        "de": "Wann zieht ihr ins Sommerlager?"
       }
     },
     {
@@ -644,7 +672,8 @@
       "source": "Aşmê Temûzidê ma şwêni zozang.",
       "translations": {
         "tr": "Temmuz ayında yaylaya gideriz.",
-        "en": "In the month of Temmuz we go to the summer pasture."
+        "en": "In the month of Temmuz we go to the summer pasture.",
+        "de": "Im Monat Temmuz ziehen wir ins Sommerlager."
       }
     },
     {
@@ -657,7 +686,8 @@
       "source": "Şüma zozangdê karaçaciridê roşêni?",
       "translations": {
         "tr": "Yaylada kara çadırlarda mı kalırsınız?",
-        "en": "Do you live in black tents at the summer pasture?"
+        "en": "Do you live in black tents at the summer pasture?",
+        "de": "Wohnt ihr im Sommerlager in schwarzen Zelten?"
       }
     },
     {
@@ -670,7 +700,8 @@
       "source": "Ma karaçaciricê roşêni, bani êsti ma banidê roşêni.",
       "translations": {
         "tr": "Kara çadırlarda kalırız; evler de var, evlerde de kalırız.",
-        "en": "We live in black tents; there are houses, and we live in houses."
+        "en": "We live in black tents; there are houses, and we live in houses.",
+        "de": "Wir wohnen in schwarzen Zelten. Gibt es Hütten, wohnen wir darin."
       }
     },
     {
@@ -683,7 +714,8 @@
       "source": "Şüma qam waxtê yêni war?",
       "translations": {
         "tr": "Ne zaman aşağı gelirsiniz?",
-        "en": "When do you come back down?"
+        "en": "When do you come back down?",
+        "de": "Wann kommt ihr zurück?"
       }
     },
     {
@@ -696,7 +728,8 @@
       "source": "Ma aşmay paizi veryêni yêni war.",
       "translations": {
         "tr": "Sonbaharın başında aşağı geliriz.",
-        "en": "We come back at the beginning of autumn."
+        "en": "We come back at the beginning of autumn.",
+        "de": "Wir kommen im ersten Herbstmonat zurück."
       }
     },
     {
@@ -710,7 +743,8 @@
       "source": "Tû zaf kawğe di?",
       "translations": {
         "tr": "Çok kavga gördün mü?",
-        "en": "Have you seen many feuds?"
+        "en": "Have you seen many feuds?",
+        "de": "Hast du viele Kämpfe gesehen?"
       }
     },
     {
@@ -724,7 +758,8 @@
       "source": "Mê zaf kawğe di.",
       "translations": {
         "tr": "Çok kavga gördüm.",
-        "en": "I saw many feuds."
+        "en": "I saw many feuds.",
+        "de": "Ich habe viele Kämpfe gesehen."
       }
     },
     {
@@ -738,7 +773,8 @@
       "source": "Bawki mêra, kawğei Nyêribi û 'Hyêni mê di, ez şya kawğei Nyêribi û 'Hyêni, kawğei E'hmêd begi û Sivani ez tedê bya; kawğei Sivani û Avdûla begi mê di, ez tedê bya; kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini û Sivani mê di, ez tedê bya.",
       "translations": {
         "tr": "Babamın hakkı için, Nyêrib ile Hyêni'nin kavgasını gördüm; Nyêrib ile Hyêni'nin kavgasına, Ahmed Beg ile Sivan'ın kavgasına gittim; oradaydım. Sivan ile Avdula Beg'in kavgasını gördüm; oradaydım; Karbegan ile Sivan'ın kavgasını gördüm; oradaydım, Weşin ile Sivan'ın kavgasını gördüm; oradaydım.",
-        "en": "By my father, I saw the feud between Nyêrib and Hyêni; I went to the feud between Nyêrib and Hyêni and to the feud between Ahmed Beg and Sivan; I was there. I saw the feud between Sivan and Avdula Beg; I was there; I saw the feud between Karbegan and Sivan; I was there, and the feud between Weshin and Sivan, I saw; I was there."
+        "en": "By my father, I saw the feud between Nyêrib and Hyêni; I went to the feud between Nyêrib and Hyêni and to the feud between Ahmed Beg and Sivan; I was there. I saw the feud between Sivan and Avdula Beg; I was there; I saw the feud between Karbegan and Sivan; I was there, and the feud between Weshin and Sivan, I saw; I was there.",
+        "de": "Bei meinem Vater! Ich habe die Fehde zwischen Nyêrib und Hyêni gesehen; ich zog in den Kampf zwischen Nyêrib und Hyêni. Ich war beim Kampf zwischen Ahmed Beg und dem Stamm Sivan dabei. Ich habe die Fehde zwischen dem Stamm Sivan und Avdula Beg gesehen; ich nahm daran teil. Ich habe die Fehde zwischen dem Stamm Karbegan und Sivan gesehen; ich nahm daran teil. Ich habe die Fehde zwischen Weşin und Sivan gesehen; ich nahm daran teil."
       }
     },
     {
@@ -753,7 +789,8 @@
       "source": "Awê kawğei aşiranû.",
       "translations": {
         "tr": "Onlar aşiret kavgalarıydı.",
-        "en": "Those were tribal feuds."
+        "en": "Those were tribal feuds.",
+        "de": "Das sind Stammesfehden."
       }
     },
     {
@@ -768,7 +805,8 @@
       "source": "Ez kawğe nyêtêrsêna.",
       "translations": {
         "tr": "Kavgadan korkmam.",
-        "en": "I do not fear feuds."
+        "en": "I do not fear feuds.",
+        "de": "Ich fürchte den Kampf nicht."
       }
     },
     {
@@ -781,7 +819,8 @@
       "source": "Tı nyêşêni vaci kawğei Sivani û Avdûla begi.",
       "translations": {
         "tr": "Sivan ile Avdula Beg'in kavgasını anlatamaz mısın?",
-        "en": "Can you not tell the feud between Sivan and Avdula Beg?"
+        "en": "Can you not tell the feud between Sivan and Avdula Beg?",
+        "de": "Willst du mir nicht die Fehde zwischen dem Stamm Sivan und Avdula Beg erzählen?"
       }
     },
     {
@@ -794,7 +833,8 @@
       "source": "Ez rocêya, nyêşêna vaca, zerêy mê kalüna wazêna.",
       "translations": {
         "tr": "Oruçluyum; anlatamam; canım pipo istiyor.",
-        "en": "I am fasting; I cannot tell it; my heart wants a pipe."
+        "en": "I am fasting; I cannot tell it; my heart wants a pipe.",
+        "de": "Ich faste und mag deshalb nicht sprechen. Ich möchte rauchen (wörtlich: „Mein Herz wünscht“)."
       }
     }
   ],

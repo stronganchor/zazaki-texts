@@ -4,78 +4,78 @@ Es gab irgendwo einen Müller.
 
 Die Mühle arbeitete.
 
-Eines Tages hielt er den Mühlstein an, ging in's Haus, schlief die Nacht im Hause, stand des Morgens auf, kam in die Mühle und sah, dass im Kasten kein Mehl ist; in dieser (d.
+Eines Tages hielt er den Mühlstein an, ging nach Hause und schlief dort die Nacht. Am Morgen stand er auf, kam in die Mühle und sah, dass im Kasten kein Mehl war. In der nächsten Nacht hielt er Wache und sah, wie um Mitternacht ein Fuchs hereinkam, zum Kasten ging und das Mehl herausnahm.
 
-Eines Tages hielt er den Mühlstein an, ging in's Haus, schlief die Nacht im Hause, stand des Morgens auf, kam in die Mühle und sah, dass im Kasten kein Mehl ist; in dieser (d. i.
+Der Müller stand auf, ergriff einen Stock und schlug damit den Fuchs. Als er den Fuchs gepackt hatte, winselte dieser.
 
-der nächsten) Nacht stellte er sich auf die Wache, (und) sah, wie um Mitternacht ein Fuchs herein kam, zum Kasten ging (und) das Mehl herausnahm.
+Der Fuchs sagte zum Müller: „Lass mich los; ich werde für dich um die Tochter des Paschas von Ägypten werben.“
 
-Der Müller erhob sich, ergriff einen Stock und gab (damit) dem Fuchs; als er den Fuchs gepackt hatte, winselte dieser.
+Der Müller sagte: „Ich bin ein Müller. Wie willst du für mich um die Tochter des Paschas von Ägypten werben?“
 
-Der Fuchs sagte zum Müller: lass mich los, ich werde für dich die Tochter des Pascha von Aegypten freien.
+Der Fuchs sagte: „Töte mich nicht; ich werde für dich um sie werben. Wenn ich nicht für dich um die Tochter des Paschas von Ägypten werbe, dann töte mich. Lass mich jetzt los.“
 
-Der Müller sagte: ich bin ein Müllersmann, wie wirst du für mich die Tochter des Pascha von Aegypten freien?
+Der Müller sagte: „Schwöre es mir.“
 
-Der Fuchs sagte: tödte mich nicht, ich werde für dich freien, (tödte mich) wenn ich die Tochter des Pascha von Aegypten dir nicht freie; lass mich los.
+Der Fuchs schwor es dem Müller, und dieser ließ den Fuchs los.
 
-Der Müller sagte: schwöre mir.
+Der Fuchs machte sich auf, ging nach Ägypten, trat vor den Pascha von Ägypten und grüßte ihn.
 
-Der Fuchs schwor dem Müller (und) dieser liess den Fuchs los.
+Der Pascha von Ägypten sagte zum Fuchs: „Sage mir, was dein Anliegen ist.“
 
-Der Fuchs machte sich auf, ging nach Aegypten, ging zum Pascha von Aegypten (und) stattete seinen Gruss ab.
+Der Fuchs sagte: „Mein Herr, erlaube mir, zu dir zu sprechen.“
 
-Der Pascha von Aegypten sagte zum Fuchse: sage mir, was dein Begehren ist.
+Der Pascha von Ägypten erteilte dem Fuchs die Erlaubnis.
 
-Der Pascha von Aegypten sagte zum Fuchse: sage mir, was dein Begehren ist. Der Fuchs sprach: mein Herr, erlaube mir zu dir zu sprechen.
+Der Fuchs sagte: „Mein Herr, Temteqü-Pascha ist gekommen und wirbt um deine Tochter.“ [Sinngemäße Ergänzung der im Druck unübersetzten Passage; die Deutung bleibt unsicher: Ein Hagelsturm und eine Flut kamen. Temteqü-Pascha hatte fünfhundert Reiter; die Flut riss sie alle mit, auch die Frauen. Der Fuchs hielt sich an einem Felsen fest. Eine Hand berührte sein Bein; er ergriff sie und zog Temteqü-Pascha aus dem Wasser. Er ließ ihn dort zurück und kam zum Pascha.] Der Pascha von Ägypten sagte: „Geh ihm mit Reitern entgegen; er soll mit dir kommen. Bring mir Temteqü-Pascha. Dort ist ein Wesir, aber ich kenne keinen Temteqü-Pascha.“
 
-Der Pascha von Aegypten gewährte (es) ihm.
+Der Fuchs sagte: „Mein Herr, gib mir einen Anzug. Ich werde ihn Temteqü-Pascha bringen, damit er ihn anzieht. Lass dein Heer in den nächsten zwei Tagen nicht ausrücken, um ihn zu begrüßen. Bis Temteqü-Pascha hier ankommt, werde ich dich benachrichtigen.“
 
-Der Fuchs sprach: mein Herr,.....
+Der Pascha von Ägypten gab dem Fuchs einen Anzug.
 
-Temteqü-Pasä kam, er freit um deine Tochter....*) Der Pascha von Aegypten sagte, geh ihm mit Reitern entgegen, möge er mit dir kommen, führe mir den Temteqü-Pasä zu, dort, an einem Orte ist ein Vizir, ich kenne nicht den Namen eines Temteqü-Pasä.
+Der Fuchs nahm die Kleider, kehrte um und ging zum Müller.
 
-Der Fuchs sagte: mein Herr, gieb mir einen Anzug, ich werde ihn dem Temtequ-Pasä bringen, er wird ihn anlegen; vor zwei Tagen lasse dein Heer nicht ausrücken um ihn zu bewillkommen; bis Temteqü-Pasä hier ankommt, werde ich dich benachrichtigen.
+Er sagte zum Müller: „Ich habe für dich um die Tochter des Paschas von Ägypten geworben. Steh auf, geh ins Bad, wasche und reinige dich. Komm dann, zieh diesen Anzug an; wir gehen zum Pascha von Ägypten.“
 
-*) Der Sinn und die Bedeutung der in Klammern eingeschlossenen Worte ist mir nicht klar, daher lasse ich solche unübersetzt.
+Der Müller stand auf, ging ins Bad, reinigte sich und rasierte sich Kopf und Bart. Dann kam er und zog die Kleider an. Der Fuchs führte ihn fort, und sie kamen an die Grenze von Ägypten.
 
-Der Pascha von Aegypten gab einen Anzug dem Fuchs.
+Dort machten sie Halt. Der Fuchs ging und benachrichtigte den Pascha von Ägypten.
 
-Dieser nahm die Kleider, zog davon und ging zum Müller.
+Der Fuchs sagte zum Pascha: „Temteqü-Pascha ist gekommen. Gib mir einen schönen Wagen; ich will Temteqü-Pascha entgegengehen. Das Heer soll ihn begrüßen.“
 
-Er sprach zu ihm: ich habe für dich die Tochter des Pascha von Aegypten gefreit, mache dich auf, geh in's Bad, wasche dich, reinige dich, komme, lege diesen Anzug an, wir gehen zum Pascha von Aegypten.
+Der Pascha von Ägypten gab dem Fuchs einen Wagen; drei Kawassen gingen vor dem Fuchs her.
 
-Der Müller erhob sich, ging in's Bad, reinigte sich, rasirte sich Kopf (und) Bart, kam, legte die Kleider an, der Fuchs führte ihn davon, (und) sie kamen an die Gränze von Aegypten.
+Temteqü-Pascha kam nach Ägypten, und das Heer des Paschas rief: „Selam aleikum!“
 
-Hier machten sie Halt; der Fuchs ging und benachrichtigte den Pascha von Aegypten.
+Der Müller wusste nicht, wie er den Gruß erwidern sollte.
 
-Es sagte diesem: Temteqü-Pasä ist gekommen, gieb einen schönen Wagen, ich will dem Temteqü-Pasä entgegen gehen, das Heer möge ihn bewillkommnen.
+Einige Soldaten sagten: „Das ist ein Betrunkener, ein Betrunkener!“ Andere sagten: „Das ist kein Pascha“, und wieder andere: „Das ist ein Müller.“
 
-Der Pascha von Aegypten gab einen Wagen dem Fuchse, drei Kawassen gingen vor dem Fuchse her.
+Der Fuchs ging hin und her und sagte zu den Soldaten: „Es ist heiß; Temteqü-Pascha ist ohnmächtig, er ist nicht bei Bewusstsein.“
 
-Temteqü-Pasä kam nach Aegypten, das Heer des Pascha schrie: seläm aleïqum.
+Temteqü-Pascha wurde zum Palast des Paschas von Ägypten gebracht und stieg aus dem Wagen. Der Fuchs nahm ihn bei der Hand, führte ihn in den Palast und das Serail (?) und sagte zum Pascha: „Seit einem Monat ist er nicht bei Verstand.“
 
-Der Müller wusste nicht den Gruss zu erwiedern.
+Der Pascha von Ägypten sagte: „Führe ihn ins Schlafzimmer und lege ihn aufs Bett, damit er sich ausruht.“
 
-Mancher aus dem Heere sagte: das ist ein Trunkener, das ist ein Trunkener; Mancher sagte: das ist kein Pascha; Mancher sagte: das ist ein Müller.
+Der Fuchs führte Temteqü-Pascha ins Zimmer und legte ihn aufs Bett.
 
-Der Fuchs ging auf und ab und sagte zu den Soldaten: es ist warm, Temteqü-Pasä ist ohnmächtig (in seinem Kopfe ist kein Verstand, kein Bewusstsein). Temtequ-Pasa wurde in den Palast des Pascha von Aegypten gebracht, stieg aus dem Wagen, der Fuchs griff nach seiner Hand, führte ihn in den Palast und das Serail (?) und sagte zum Pascha von Aegypten: einen Monat (lang) ist in diesem Kopfe kein Verstand (Bewusstsein).
+Temteqü-Pascha zitterte. Der Fuchs sagte: „Du Verdammter, fürchte dich nicht; geh und leg dich hin.“
 
-Der Pascha von Aegypten sagte: führe ihn in's Schlafzimmer, lege ihn aufs Lager, dass er ruhe.
+Der Müller sagte zum Fuchs: „Der Pascha von Ägypten wird hierherkommen und mir den Kopf abschlagen.“
 
-Der Fuchs führte Temtequ-Pasä in's Zimmer, legte ihn auf's Lager. Temteqü-Pasä zitterte, der Fuchs sagte: Verdammter, fürchte dich nicht, geh dich niederlegen.
+Der Fuchs sagte: „Fürchte dich nicht; ich verlasse dich nicht. Sei vernünftig. Wenn der Pascha von Ägypten jetzt ins Zimmer kommt, steh auf und küsse ihm die Füße.“
 
-Der Müller sagte zum Fuchs: der Pascha von Aegypten wird hierher kommen, mir den Kopf abschlagen.
+Temteqü-Pascha sagte zum Fuchs: „Wenn der Pascha von Ägypten jetzt hereinkommt, tötet er mich.“
 
-Der Fuchs sagte: fürchte dich nicht, ich verlasse dich nicht, sei vernünftig, wenn der Pascha von Aegypten in's Zimmer jetzt kommt, so stehe auf und küsse ihm die Füsse. Temtaqü-Pasä sagte zum Fuchse: wenn der Pascha von Aegypten jetzt herein kommt, tödtet er mich.
+Der Fuchs sagte: „Steh auf; ich werde dir Wasser in einer Schale bringen. Geh, vollziehe die Waschung, komm wieder herein und bete.“
 
-Der Fuchs sagte: stehe auf, ich werde dir Wasser in der Schale bringen, geh, nimm eine Waschung vor, komm herein (und) bete.
+Der Müller sagte zum Fuchs: „Bring mir Wasser; ich werde die Waschung vollziehen.“
 
-Der Müller sagte: bringe mir Wasser, ich werde zur Waschung gehen. Der Fuchs erhob sich, ging, brachte Wasser, gab (es) dem Müller; dieser erhob sich, ging zur Waschung, ging durch den Palast, kannte (aber) den Weg nicht (wusste nicht welcher der Weg ist).
+Der Fuchs stand auf, ging, brachte Wasser und gab es dem Müller. Dieser stand auf und ging zur Waschung. Er ging durch den Palast, kannte aber den Weg nicht.
 
 Der Fuchs wartete, der Müller kam nicht, der Fuchs ging (ihn) suchen, fand den Müller auf die Erde gefallen (und) todt.
 
-Der Fuchs ging und sagte zum Pascha von Aegypten: Temtaqü-Pasä ging zur Waschung, ich weiss nicht, wo er war, er ist zur Erde gefallen, gestorben. Der Pascha von Aegypten sagte: geh, bringe (ihn).
+Der Fuchs kam zum Pascha von Ägypten und sagte: „Temteqü-Pascha ging zur Waschung. Ich weiß nicht, wo er war; er ist zu Boden gefallen und gestorben.“
 
-Er (d.
+Der Pascha von Ägypten sagte: „Geh und bring ihn her.“
 
-i. der Fuchs) ging, brachte, wusch und bestattete (ihn).
+Der Fuchs ging, brachte den Toten, wusch und bestattete ihn.

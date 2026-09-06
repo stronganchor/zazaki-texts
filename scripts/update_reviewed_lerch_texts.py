@@ -6,6 +6,8 @@ import shutil
 from datetime import date
 from pathlib import Path
 
+from reviewed_lerch_reader_guard import apply_reviewed_reader_units, load_reviewed_reader_units
+
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 TEXTS_ROOT = REPO_ROOT / "texts" / "lerch"
@@ -30,6 +32,7 @@ TRANSLATION_TITLES = {
     "gespraech-mit-hassan": {
         "en": "Conversation with Hassan",
         "tr": "Hassan ile Söyleşi",
+        "de": "Gespräch mit Hassan",
     },
     "goin-puhu-kusunun-hikayesi": {
         "en": "Sage of the Go'in / Eagle-Owl",
@@ -317,6 +320,7 @@ def read_json(path: Path) -> dict:
 
 def write_json(path: Path, payload: dict) -> None:
     path = assert_inside_repo(path)
+    apply_reviewed_reader_units(payload)
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="\n") as handle:
         handle.write(json.dumps(payload, ensure_ascii=False, indent=2) + "\n")
@@ -1174,14 +1178,22 @@ def create_bundle_text(
     lines = data.get("lines", [])
     source_lines = [source_line(line, "Müller 1865") for line in lines]
     translation_texts = {lang: text for lang, text in translation_texts.items() if text.strip()}
-    reading_units = build_reader_units_from_translation_texts(
-        source_lines,
-        translation_texts,
-        max_source_sentences=max_source_sentences,
-    )
+    reviewed_units = load_reviewed_reader_units(f"lerch-{slug}", source_lines)
+    if reviewed_units is not None:
+        reading_units = reviewed_units
+        translation_texts = {
+            lang: clean_join([unit.get("translations", {}).get(lang, "") for unit in reading_units])
+            for lang in sorted({lang for unit in reading_units for lang in unit.get("translations", {})})
+        }
+    else:
+        reading_units = build_reader_units_from_translation_texts(
+            source_lines,
+            translation_texts,
+            max_source_sentences=max_source_sentences,
+        )
     aligned_translation_paths = aligned_translation_paths or {}
     title_skips = set(TRANSLATION_TITLES.get(slug, {}).values()) | {title, lerch_title}
-    for lang, path in aligned_translation_paths.items():
+    for lang, path in ({} if reviewed_units is not None else aligned_translation_paths).items():
         if not path.exists():
             continue
         paragraphs = translation_markdown_paragraphs(path, skip_titles=title_skips)

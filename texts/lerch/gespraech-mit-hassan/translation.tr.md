@@ -14,7 +14,7 @@ Aşiretimizin otuz dört köyü var.
 
 Aşiretinizin köylerinin adları nelerdir?
 
-Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.
+Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Bazyang, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.
 
 Aldun köyünün ileri geleni kimdir?
 
@@ -38,7 +38,7 @@ Bahçem var.
 
 Bahçende nasıl ağaçlar var?
 
-Ağaçlar var: elma ağaçları, kayısı ağaçları, şeftali ağaçları, nar ağaçları ve üzüm asmaları var.
+Dut ağaçları, elma ağaçları, kayısı ağaçları, şeftali ağaçları, nar ağaçları ve üzüm asmaları var.
 
 Bir evde kaç oda var?
 

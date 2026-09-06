@@ -12,6 +12,8 @@ import re
 from copy import deepcopy
 from pathlib import Path
 
+from reviewed_lerch_reader_guard import guard_existing_reader_layout
+
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 TEXTS_ROOT = REPO_ROOT / "texts" / "lerch"
@@ -223,6 +225,8 @@ def normalize_document(text_dir: Path) -> tuple[str, int, int]:
     units = payload.get("reading_units")
     if not isinstance(units, list) or not units:
         return text_dir.name, 0, 0
+    if guard_existing_reader_layout(payload):
+        return text_dir.name, len(units), len(units)
 
     title_unit = units[0] if is_title_unit(units[0]) else None
     body_units = units[1:] if title_unit is not None else units

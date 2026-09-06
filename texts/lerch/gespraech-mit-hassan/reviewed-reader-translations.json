@@ -1,0 +1,737 @@
+{
+  "schema": "zazaki_texts.reviewed_reader_translations.v1",
+  "lesson_id": "lerch-gespraech-mit-hassan",
+  "review": {
+    "date": "2026-09-06",
+    "scope": "Source-checked German reader lane and English/Turkish omissions; independently reviewed by the Hassan lane.",
+    "evidence": "Language/Z/artifacts/research-curation-20260906/lerch/hassan-reader/",
+    "source_pdf_pages": "102–105",
+    "note": "Preserve house/hut differences, conditional huts, tribal-feud identification and fasting/wish-to-smoke reading."
+  },
+  "source_lines": [
+    {
+      "id": "h01_l01",
+      "zazaki": "Kêyfê twê sênyênû?"
+    },
+    {
+      "id": "h01_l02",
+      "zazaki": "Kêyfê mê 'hawlû."
+    },
+    {
+      "id": "h01_l03",
+      "zazaki": "Namêy aşirêta tê çinaw?"
+    },
+    {
+      "id": "h01_l04",
+      "zazaki": "Namêy aşirêta ma Sivang."
+    },
+    {
+      "id": "h01_l05",
+      "zazaki": "Çendê dewi aşirêta şüma esti?"
+    },
+    {
+      "id": "h01_l06",
+      "zazaki": "Hyêris û çêhêr dewi aşirêta mai."
+    },
+    {
+      "id": "h01_l07",
+      "zazaki": "Namêy dewani aşirêta şüma çinaw?"
+    },
+    {
+      "id": "h01_l08",
+      "zazaki": "Fatrakom, 'Hopsor, Tênik, Rêjwan, Zımag, 'Hoêrsig, 'Hê-"
+    },
+    {
+      "id": "h01_l09",
+      "zazaki": "mêk, Bılıkê, Melêkang, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sa-"
+    },
+    {
+      "id": "h01_l10",
+      "zazaki": "ma, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahimang, Avdêlang,"
+    },
+    {
+      "id": "h01_l11",
+      "zazaki": "Mıstang, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi,"
+    },
+    {
+      "id": "h01_l12",
+      "zazaki": "Letang, Ğahar, Ğoêmang, Kavarê, Talek."
+    },
+    {
+      "id": "h01_l13",
+      "zazaki": "Sıpyerdışi dewe Aldûni qamû?"
+    },
+    {
+      "id": "h02_l01",
+      "zazaki": "Ali Beg sıpyerdışû dawê Aldûni estû."
+    },
+    {
+      "id": "h02_l02",
+      "zazaki": "Sıpyerdışû dawê Gewêl qamû?"
+    },
+    {
+      "id": "h02_l03",
+      "zazaki": "Mistêfa Alya sıpyerdışû."
+    },
+    {
+      "id": "h02_l04",
+      "zazaki": "Namêy dewa twê çinaw?"
+    },
+    {
+      "id": "h02_l05",
+      "zazaki": "Kasan dewa mê estû."
+    },
+    {
+      "id": "h02_l06",
+      "zazaki": "Çendê bani dawe Kasan esti?"
+    },
+    {
+      "id": "h02_l07",
+      "zazaki": "Şeşti bani Kasan esti."
+    },
+    {
+      "id": "h02_l08",
+      "zazaki": "Bağçê tû estû?"
+    },
+    {
+      "id": "h02_l09",
+      "zazaki": "Estû bağçê mê."
+    },
+    {
+      "id": "h02_l10",
+      "zazaki": "Bağçê tû senyê dari?"
+    },
+    {
+      "id": "h02_l11",
+      "zazaki": "Darê tüyêra estû, sayêr estû, mişmişyêr estû, xawxir, he-"
+    },
+    {
+      "id": "h02_l12",
+      "zazaki": "nariyêr, rez êsti."
+    },
+    {
+      "id": "h02_l13",
+      "zazaki": "Çendê wadêy yaw bani esti?"
+    },
+    {
+      "id": "h02_l14",
+      "zazaki": "Merdûm estû weri kêy çêhêr êsti, pangc esti, merdûm estû"
+    },
+    {
+      "id": "h02_l15",
+      "zazaki": "yaw bang estû, wade çinyû."
+    },
+    {
+      "id": "h02_l16",
+      "zazaki": "Şüma şwêni zozang?"
+    },
+    {
+      "id": "h03_l01",
+      "zazaki": "Ma şwêni zozang."
+    },
+    {
+      "id": "h03_l02",
+      "zazaki": "Şüma qam waxtê şwêni zozang?"
+    },
+    {
+      "id": "h03_l03",
+      "zazaki": "Aşmê Temûzidê ma şwêni zozang."
+    },
+    {
+      "id": "h03_l04",
+      "zazaki": "Şüma zozangdê karaçaciridê roşêni?"
+    },
+    {
+      "id": "h03_l05",
+      "zazaki": "Ma karaçaciricê roşêni, bani esti ma banidê roşêni."
+    },
+    {
+      "id": "h03_l06",
+      "zazaki": "Şüma qam waxtê yêni war?"
+    },
+    {
+      "id": "h03_l07",
+      "zazaki": "Ma aşmay paizi veryêni yêni war."
+    },
+    {
+      "id": "h03_l08",
+      "zazaki": "Tû zaf kawğe di?"
+    },
+    {
+      "id": "h03_l09",
+      "zazaki": "Mê zaf kawğe di. Bawki mêra, kawğei Nyêribi û 'Hyêni mê"
+    },
+    {
+      "id": "h03_l10",
+      "zazaki": "di, ez şya kawğei Nyêribi û 'Hyêni, kawğei E'hmêd begi û Sivani"
+    },
+    {
+      "id": "h03_l11",
+      "zazaki": "ez tedê bya; kawğei Sivani û Avdûla begi mê di, ez tedê bya;"
+    },
+    {
+      "id": "h03_l12",
+      "zazaki": "kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini"
+    },
+    {
+      "id": "h03_l13",
+      "zazaki": "û Sivani mê di, ez tedê bya. Awê kawğei aşiranû. Ez kawğe"
+    },
+    {
+      "id": "h03_l14",
+      "zazaki": "nyêtêrsêna."
+    },
+    {
+      "id": "h03_l15",
+      "zazaki": "Tı nyêşêni vaci kawğei Sivani û Avdûla begi."
+    },
+    {
+      "id": "h04_l01",
+      "zazaki": "Ez rocêya, nyêşêna vaca, zerêy mê kalüna wazêna."
+    }
+  ],
+  "reading_units": [
+    {
+      "id": "u01_01",
+      "source_unit_id": "u01",
+      "source_line_ids": [
+        "h01_l01",
+        "h01_l02"
+      ],
+      "source": "Kêyfê twê sênyênû?",
+      "translations": {
+        "tr": "Nasılsın?",
+        "en": "How are you?",
+        "de": "Wie geht es dir?"
+      }
+    },
+    {
+      "id": "u01_02",
+      "source_unit_id": "u01",
+      "source_line_ids": [
+        "h01_l01",
+        "h01_l02"
+      ],
+      "source": "Kêyfê mê 'hawlû.",
+      "translations": {
+        "tr": "İyiyim.",
+        "en": "I am well.",
+        "de": "Mir geht es gut."
+      }
+    },
+    {
+      "id": "u02_01",
+      "source_unit_id": "u02",
+      "source_line_ids": [
+        "h01_l03",
+        "h01_l04"
+      ],
+      "source": "Namêy aşirêta tê çinaw?",
+      "translations": {
+        "tr": "Aşiretinin adı nedir?",
+        "en": "What is the name of your tribe?",
+        "de": "Wie heißt dein Stamm?"
+      }
+    },
+    {
+      "id": "u02_02",
+      "source_unit_id": "u02",
+      "source_line_ids": [
+        "h01_l03",
+        "h01_l04"
+      ],
+      "source": "Namêy aşirêta ma Sivang.",
+      "translations": {
+        "tr": "Aşiretimizin adı Sivan'dır.",
+        "en": "The name of our tribe is Sivan.",
+        "de": "Unser Stamm heißt Sivan."
+      }
+    },
+    {
+      "id": "u03_01",
+      "source_unit_id": "u03",
+      "source_line_ids": [
+        "h01_l05",
+        "h01_l06"
+      ],
+      "source": "Çendê dêwi aşirêta şüma esti?",
+      "translations": {
+        "tr": "Aşiretinizin kaç köyü var?",
+        "en": "How many villages does your tribe have?",
+        "de": "Wie viele Dörfer gehören zu eurem Stamm?"
+      }
+    },
+    {
+      "id": "u03_02",
+      "source_unit_id": "u03",
+      "source_line_ids": [
+        "h01_l05",
+        "h01_l06"
+      ],
+      "source": "Hyêris û çêhêr dewi aşirêta mai.",
+      "translations": {
+        "tr": "Aşiretimizin otuz dört köyü var.",
+        "en": "Our tribe has thirty-four villages.",
+        "de": "Unser Stamm hat vierunddreißig Dörfer."
+      }
+    },
+    {
+      "id": "u04_01",
+      "source_unit_id": "u04",
+      "source_line_ids": [
+        "h01_l07",
+        "h01_l08",
+        "h01_l09",
+        "h01_l10",
+        "h01_l11",
+        "h01_l12"
+      ],
+      "source": "Namêy dewani aşirêta şüma çinaw?",
+      "translations": {
+        "tr": "Aşiretinizin köylerinin adları nelerdir?",
+        "en": "What are the names of your tribe's villages?",
+        "de": "Wie heißen die Dörfer eures Stammes?"
+      }
+    },
+    {
+      "id": "u04_02",
+      "source_unit_id": "u04",
+      "source_line_ids": [
+        "h01_l07",
+        "h01_l08",
+        "h01_l09",
+        "h01_l10",
+        "h01_l11",
+        "h01_l12"
+      ],
+      "source": "Fatrakom, 'Hopsor, Tênik, Rêjwan, Zımag, 'Hoêrsig, 'Hêmêk, Bılıkê, Melêkang, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sama, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahiman, Avdêlang, Mıstang, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi, Letang, Ğahar, Ğoêmang, Kavarê, Talek.",
+      "translations": {
+        "tr": "Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Bazyang, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.",
+        "en": "Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Bazyang, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.",
+        "de": "Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Bazyang, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek."
+      }
+    },
+    {
+      "id": "u05_01",
+      "source_unit_id": "u05",
+      "source_line_ids": [
+        "h01_l13",
+        "h02_l01"
+      ],
+      "source": "Sıpyerdışi dewe Aldûni qamû?",
+      "translations": {
+        "tr": "Aldun köyünün ileri geleni kimdir?",
+        "en": "Who is the elder of the village of Aldun?",
+        "de": "Wer ist der Dorfälteste in Aldun?"
+      }
+    },
+    {
+      "id": "u05_02",
+      "source_unit_id": "u05",
+      "source_line_ids": [
+        "h01_l13",
+        "h02_l01"
+      ],
+      "source": "Ali Beg sıpyerdışû dawê Aldûni estû.",
+      "translations": {
+        "tr": "Ali Beg Aldun köyünün ileri gelenidir.",
+        "en": "Ali Beg is the elder of the village of Aldun.",
+        "de": "Ali Beg ist der Dorfälteste in Aldun."
+      }
+    },
+    {
+      "id": "u06_01",
+      "source_unit_id": "u06",
+      "source_line_ids": [
+        "h02_l02",
+        "h02_l03"
+      ],
+      "source": "Sıpyerdışû dawê Gewêl qamû?",
+      "translations": {
+        "tr": "Gewel köyünün ileri geleni kimdir?",
+        "en": "Who is the elder of the village of Gewel?",
+        "de": "Wer ist der Dorfälteste in Gewel?"
+      }
+    },
+    {
+      "id": "u06_02",
+      "source_unit_id": "u06",
+      "source_line_ids": [
+        "h02_l02",
+        "h02_l03"
+      ],
+      "source": "Mistêfa Alya sıpyerdışû.",
+      "translations": {
+        "tr": "Mistefa Ali ileri gelendir.",
+        "en": "Mistefa Ali is the elder.",
+        "de": "Mistefa Ali ist der Dorfälteste."
+      }
+    },
+    {
+      "id": "u07_01",
+      "source_unit_id": "u07",
+      "source_line_ids": [
+        "h02_l04",
+        "h02_l05"
+      ],
+      "source": "Namêy dewa twê çinaw?",
+      "translations": {
+        "tr": "Köyünün adı nedir?",
+        "en": "What is the name of your village?",
+        "de": "Wie heißt dein Dorf?"
+      }
+    },
+    {
+      "id": "u07_02",
+      "source_unit_id": "u07",
+      "source_line_ids": [
+        "h02_l04",
+        "h02_l05"
+      ],
+      "source": "Kasan dewa mê estû.",
+      "translations": {
+        "tr": "Benim köyüm Kasan'dır.",
+        "en": "Kasan is my village.",
+        "de": "Mein Dorf heißt Kasan."
+      }
+    },
+    {
+      "id": "u08_01",
+      "source_unit_id": "u08",
+      "source_line_ids": [
+        "h02_l06",
+        "h02_l07"
+      ],
+      "source": "Çendê bani dawe Kasan esti?",
+      "translations": {
+        "tr": "Kasan köyünde kaç ev var?",
+        "en": "How many houses are there in the village of Kasan?",
+        "de": "Wie viele Häuser gibt es in Kasan?"
+      }
+    },
+    {
+      "id": "u08_02",
+      "source_unit_id": "u08",
+      "source_line_ids": [
+        "h02_l06",
+        "h02_l07"
+      ],
+      "source": "Şeşti bani Kasan esti.",
+      "translations": {
+        "tr": "Kasan'da altmış ev var.",
+        "en": "There are sixty houses in Kasan.",
+        "de": "In Kasan gibt es sechzig Häuser."
+      }
+    },
+    {
+      "id": "u09_01",
+      "source_unit_id": "u09",
+      "source_line_ids": [
+        "h02_l08",
+        "h02_l09"
+      ],
+      "source": "Bağçê tû estû?",
+      "translations": {
+        "tr": "Bahçen var mı?",
+        "en": "Do you have a garden?",
+        "de": "Hast du einen Garten?"
+      }
+    },
+    {
+      "id": "u09_02",
+      "source_unit_id": "u09",
+      "source_line_ids": [
+        "h02_l08",
+        "h02_l09"
+      ],
+      "source": "Estû bağçê mê.",
+      "translations": {
+        "tr": "Bahçem var.",
+        "en": "I have a garden.",
+        "de": "Ich habe einen Garten."
+      }
+    },
+    {
+      "id": "u10_01",
+      "source_unit_id": "u10",
+      "source_line_ids": [
+        "h02_l10",
+        "h02_l11",
+        "h02_l12"
+      ],
+      "source": "Bağçê tû senyê dari?",
+      "translations": {
+        "tr": "Bahçende nasıl ağaçlar var?",
+        "en": "What kind of trees does your garden have?",
+        "de": "Welche Bäume gibt es in deinem Garten?"
+      }
+    },
+    {
+      "id": "u10_02",
+      "source_unit_id": "u10",
+      "source_line_ids": [
+        "h02_l10",
+        "h02_l11",
+        "h02_l12"
+      ],
+      "source": "Darê tüyêra estû, sayêr estû, mişmişyêr estû, xawxir, henariyêr, rez êsti.",
+      "translations": {
+        "tr": "Dut ağaçları, elma ağaçları, kayısı ağaçları, şeftali ağaçları, nar ağaçları ve üzüm asmaları var.",
+        "en": "It has mulberry trees, apple trees, apricot trees, peach trees, pomegranate trees and grapevines.",
+        "de": "Dort wachsen Maulbeerbäume, Apfelbäume, Aprikosenbäume, Pfirsichbäume, Granatapfelbäume und Weinreben."
+      }
+    },
+    {
+      "id": "u11_01",
+      "source_unit_id": "u11",
+      "source_line_ids": [
+        "h02_l13",
+        "h02_l14",
+        "h02_l15"
+      ],
+      "source": "Çendê wadêy yaw bani esti?",
+      "translations": {
+        "tr": "Bir evde kaç oda var?",
+        "en": "How many rooms are there in one house?",
+        "de": "Wie viele Zimmer gibt es in einer Hütte?"
+      }
+    },
+    {
+      "id": "u11_02",
+      "source_unit_id": "u11",
+      "source_line_ids": [
+        "h02_l13",
+        "h02_l14",
+        "h02_l15"
+      ],
+      "source": "Merdûm estû weri kêy çêhêr êsti, pangc esti, merdûm estû yaw bang estû, wade çinyû.",
+      "translations": {
+        "tr": "Bazı kişilerin evinde dört, beş oda var; bazı kişilerin bir evi var, odası yok.",
+        "en": "Some people's houses have four or five rooms; some people have one house and no room.",
+        "de": "Manche haben vier oder fünf Häuser; andere haben nur eine Hütte und kein Zimmer."
+      }
+    },
+    {
+      "id": "u12_01",
+      "source_unit_id": "u12",
+      "source_line_ids": [
+        "h02_l16",
+        "h03_l01"
+      ],
+      "source": "Şüma şwêni zozang?",
+      "translations": {
+        "tr": "Yaylaya gider misiniz?",
+        "en": "Do you go to the summer pasture?",
+        "de": "Zieht ihr ins Sommerlager?"
+      }
+    },
+    {
+      "id": "u12_02",
+      "source_unit_id": "u12",
+      "source_line_ids": [
+        "h02_l16",
+        "h03_l01"
+      ],
+      "source": "Ma şwêni zozang.",
+      "translations": {
+        "tr": "Yaylaya gideriz.",
+        "en": "We go to the summer pasture.",
+        "de": "Wir ziehen ins Sommerlager."
+      }
+    },
+    {
+      "id": "u13_01",
+      "source_unit_id": "u13",
+      "source_line_ids": [
+        "h03_l02",
+        "h03_l03"
+      ],
+      "source": "Şüma qam waxtê şwêni zozang?",
+      "translations": {
+        "tr": "Yaylaya ne zaman gidersiniz?",
+        "en": "When do you go to the summer pasture?",
+        "de": "Wann zieht ihr ins Sommerlager?"
+      }
+    },
+    {
+      "id": "u13_02",
+      "source_unit_id": "u13",
+      "source_line_ids": [
+        "h03_l02",
+        "h03_l03"
+      ],
+      "source": "Aşmê Temûzidê ma şwêni zozang.",
+      "translations": {
+        "tr": "Temmuz ayında yaylaya gideriz.",
+        "en": "In the month of Temmuz we go to the summer pasture.",
+        "de": "Im Monat Temmuz ziehen wir ins Sommerlager."
+      }
+    },
+    {
+      "id": "u14_01",
+      "source_unit_id": "u14",
+      "source_line_ids": [
+        "h03_l04",
+        "h03_l05"
+      ],
+      "source": "Şüma zozangdê karaçaciridê roşêni?",
+      "translations": {
+        "tr": "Yaylada kara çadırlarda mı kalırsınız?",
+        "en": "Do you live in black tents at the summer pasture?",
+        "de": "Wohnt ihr im Sommerlager in schwarzen Zelten?"
+      }
+    },
+    {
+      "id": "u14_02",
+      "source_unit_id": "u14",
+      "source_line_ids": [
+        "h03_l04",
+        "h03_l05"
+      ],
+      "source": "Ma karaçaciricê roşêni, bani êsti ma banidê roşêni.",
+      "translations": {
+        "tr": "Kara çadırlarda kalırız; evler de var, evlerde de kalırız.",
+        "en": "We live in black tents; there are houses, and we live in houses.",
+        "de": "Wir wohnen in schwarzen Zelten. Gibt es Hütten, wohnen wir darin."
+      }
+    },
+    {
+      "id": "u15_01",
+      "source_unit_id": "u15",
+      "source_line_ids": [
+        "h03_l06",
+        "h03_l07"
+      ],
+      "source": "Şüma qam waxtê yêni war?",
+      "translations": {
+        "tr": "Ne zaman aşağı gelirsiniz?",
+        "en": "When do you come back down?",
+        "de": "Wann kommt ihr zurück?"
+      }
+    },
+    {
+      "id": "u15_02",
+      "source_unit_id": "u15",
+      "source_line_ids": [
+        "h03_l06",
+        "h03_l07"
+      ],
+      "source": "Ma aşmay paizi veryêni yêni war.",
+      "translations": {
+        "tr": "Sonbaharın başında aşağı geliriz.",
+        "en": "We come back at the beginning of autumn.",
+        "de": "Wir kommen im ersten Herbstmonat zurück."
+      }
+    },
+    {
+      "id": "u16_01",
+      "source_unit_id": "u16",
+      "source_line_ids": [
+        "h03_l08",
+        "h03_l09",
+        "h03_l10"
+      ],
+      "source": "Tû zaf kawğe di?",
+      "translations": {
+        "tr": "Çok kavga gördün mü?",
+        "en": "Have you seen many feuds?",
+        "de": "Hast du viele Kämpfe gesehen?"
+      }
+    },
+    {
+      "id": "u16_02",
+      "source_unit_id": "u16",
+      "source_line_ids": [
+        "h03_l08",
+        "h03_l09",
+        "h03_l10"
+      ],
+      "source": "Mê zaf kawğe di.",
+      "translations": {
+        "tr": "Çok kavga gördüm.",
+        "en": "I saw many feuds.",
+        "de": "Ich habe viele Kämpfe gesehen."
+      }
+    },
+    {
+      "id": "u16_03",
+      "source_unit_id": "u16",
+      "source_line_ids": [
+        "h03_l08",
+        "h03_l09",
+        "h03_l10"
+      ],
+      "source": "Bawki mêra, kawğei Nyêribi û 'Hyêni mê di, ez şya kawğei Nyêribi û 'Hyêni, kawğei E'hmêd begi û Sivani ez tedê bya; kawğei Sivani û Avdûla begi mê di, ez tedê bya; kawğei Karbegani û Sivani mê di, ez tedê bya, kawğei Weşini û Sivani mê di, ez tedê bya.",
+      "translations": {
+        "tr": "Babamın hakkı için, Nyêrib ile Hyêni'nin kavgasını gördüm; Nyêrib ile Hyêni'nin kavgasına, Ahmed Beg ile Sivan'ın kavgasına gittim; oradaydım. Sivan ile Avdula Beg'in kavgasını gördüm; oradaydım; Karbegan ile Sivan'ın kavgasını gördüm; oradaydım, Weşin ile Sivan'ın kavgasını gördüm; oradaydım.",
+        "en": "By my father, I saw the feud between Nyêrib and Hyêni; I went to the feud between Nyêrib and Hyêni and to the feud between Ahmed Beg and Sivan; I was there. I saw the feud between Sivan and Avdula Beg; I was there; I saw the feud between Karbegan and Sivan; I was there, and the feud between Weshin and Sivan, I saw; I was there.",
+        "de": "Bei meinem Vater! Ich habe die Fehde zwischen Nyêrib und Hyêni gesehen; ich zog in den Kampf zwischen Nyêrib und Hyêni. Ich war beim Kampf zwischen Ahmed Beg und dem Stamm Sivan dabei. Ich habe die Fehde zwischen dem Stamm Sivan und Avdula Beg gesehen; ich nahm daran teil. Ich habe die Fehde zwischen dem Stamm Karbegan und Sivan gesehen; ich nahm daran teil. Ich habe die Fehde zwischen Weşin und Sivan gesehen; ich nahm daran teil."
+      }
+    },
+    {
+      "id": "u17_02",
+      "source_unit_id": "u17",
+      "source_line_ids": [
+        "h03_l11",
+        "h03_l12",
+        "h03_l13",
+        "h03_l14"
+      ],
+      "source": "Awê kawğei aşiranû.",
+      "translations": {
+        "tr": "Onlar aşiret kavgalarıydı.",
+        "en": "Those were tribal feuds.",
+        "de": "Das sind Stammesfehden."
+      }
+    },
+    {
+      "id": "u17_03",
+      "source_unit_id": "u17",
+      "source_line_ids": [
+        "h03_l11",
+        "h03_l12",
+        "h03_l13",
+        "h03_l14"
+      ],
+      "source": "Ez kawğe nyêtêrsêna.",
+      "translations": {
+        "tr": "Kavgadan korkmam.",
+        "en": "I do not fear feuds.",
+        "de": "Ich fürchte den Kampf nicht."
+      }
+    },
+    {
+      "id": "u18_01",
+      "source_unit_id": "u18",
+      "source_line_ids": [
+        "h03_l15",
+        "h04_l01"
+      ],
+      "source": "Tı nyêşêni vaci kawğei Sivani û Avdûla begi.",
+      "translations": {
+        "tr": "Sivan ile Avdula Beg'in kavgasını anlatamaz mısın?",
+        "en": "Can you not tell the feud between Sivan and Avdula Beg?",
+        "de": "Willst du mir nicht die Fehde zwischen dem Stamm Sivan und Avdula Beg erzählen?"
+      }
+    },
+    {
+      "id": "u18_02",
+      "source_unit_id": "u18",
+      "source_line_ids": [
+        "h03_l15",
+        "h04_l01"
+      ],
+      "source": "Ez rocêya, nyêşêna vaca, zerêy mê kalüna wazêna.",
+      "translations": {
+        "tr": "Oruçluyum; anlatamam; canım pipo istiyor.",
+        "en": "I am fasting; I cannot tell it; my heart wants a pipe.",
+        "de": "Ich faste und mag deshalb nicht sprechen. Ich möchte rauchen (wörtlich: „Mein Herz wünscht“)."
+      }
+    }
+  ],
+  "editorial_notes": {
+    "editorial_note_tr": "Hassan/Hasan yazımı Lerch'in biçimine göre korunur. Kasan/Günkondu, Horsik/Saklıca, Aldun/Alaaddin ve Hêmek/Hamek/Yeniler gibi Sivan köyleri kaynakla desteklenir; Weşin, Talek, Kavare ve Gowman gibi adlar anlatının yerel coğrafyasını belgeleyen diğer adlardır. Kiepert haritasındaki Melken adı, Melêkang/Melekan = Sarıbudak eşleştirmesini güçlendirir.\n\nAlmanca okuma metni, Lerch’in Almanca çevirisini (1857, basılı s. 58–61; yerel PDF s. 102–105) güncel bir dille aktarır. Orada kısaltılan köy listesi, mevcut okuma metinlerindeki sadeleştirilmiş ad biçimleri kullanılarak basılı Zazaki metninden tamamlanmıştır: önceki yanıtta 34 denmesine rağmen listede 33 köy vardır. Konutlarla ilgili bölümde Almanca baskı “kulübe” ve “dört, beş ev” der; Türkçe ve İngilizce okuma metinleri miktar ifadesini oda olarak yorumlar, kulübeyi ev olarak aktarır. Yaylada kulübede kalma, Almanca baskıda kulübelerin bulunması koşuluna bağlıdır. Dönüş zamanı ilk sonbahar ayıdır. Kavgalara katılma anlatımı ve son yanıttaki “mag (also) nicht sprechen” ifadesi de diğer okuma metinleriyle sessizce aynılaştırılmadan bu Almanca baskıya göre korunur.",
+    "editorial_note_en": "The spelling Hassan/Hasan follows Lerch's form. Kasan/Günkondu, Horsik/Saklıca, Aldun/Alaaddin, and Hêmek/Hamek/Yeniler are supported by sources; Weşin, Talek, Kavare, and Gowman document additional local geography. The name Melken on Kiepert's map strengthens the Melêkang/Melekan = Sarıbudak identification.\n\nThe German reading text follows Lerch’s German translation (1857, printed pp. 58–61; local PDF pp. 102–105), with modern wording. Its abbreviated village list is expanded from the printed Zazaki, using the simplified name forms of the existing readings. The list names 33 villages despite the preceding answer of 34. For housing, the German print says “hut” and “four or five houses”; the English and Turkish readings interpret the quantity as rooms and render hut as house. At the summer camp, the German print makes staying in huts conditional on their presence. It places the return in the first autumn month. The German account of participation in the feuds and its final wording “mag (also) nicht sprechen” are also preserved rather than silently aligned with the other readings.",
+    "editorial_note_de": "Die Schreibung Hassan/Hasan folgt Lerchs Form. Kasan/Günkondu, Horsik/Saklıca, Aldun/Alaaddin und Hêmek/Hamek/Yeniler sind quellenmäßig gestützt; Weşin, Talek, Kavare und Gowman dokumentieren weitere lokale Geographie. Der Name Melken auf Kieperts Karte stärkt die Identifikation Melêkang/Melekan = Sarıbudak.\n\nDie deutsche Lesefassung folgt Lerchs deutscher Übersetzung (1857, gedruckte S. 58–61; lokale PDF-Seiten 102–105) in heutiger Sprache. Die dort abgekürzte Dorfliste ist nach dem abgedruckten Zazaki-Text ausgeschrieben; die vereinfachten Namensformen folgen den vorhandenen Lesefassungen. Die Liste nennt 33 Dörfer, obwohl Hassan zuvor 34 angibt; die Abweichung bleibt bestehen. Bei der Wohnweise stehen im deutschen Druck „Hütte“ sowie „vier, fünf Häuser“; die englische und türkische Lesefassung deuten die Mengenangabe als Zimmer und geben Hütte als Haus wieder. Für das Sommerlager nennt der deutsche Druck Hütten nur bedingt: Gibt es Hütten, halten sie sich darin auf. Die Rückkehr erfolgt im deutschen Text im ersten Herbstmonat. Die Aussagen zur Teilnahme an den Fehden und die Schlussformulierung „mag (also) nicht sprechen“ bleiben ebenfalls an dieser deutschen Fassung orientiert."
+  }
+}

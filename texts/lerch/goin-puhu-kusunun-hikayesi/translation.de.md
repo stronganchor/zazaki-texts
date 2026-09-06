@@ -22,7 +22,7 @@ Der Vater sagte seiner Tochter: sei sorglos, warum sollte sie deinen Bruder töd
 
 Das Mädchen sagte: Vater, im Traume sah ich, dass mein Bruder getödtet, in eine Grube geworfen sei; ich will mich jetzt aufmachen, nach den Kühen (sehen) gehen, am Abend komme ich nach Hause; wenn mein Bruder kommt, werde ich wissen, dass er gesund; so lange (aber) mein Bruder nicht kommt, gehe ich nicht mehr nach den Kühen sehen, ich bleibe (dann) nicht (mehr) hier.
 
-Der Vater sagte zu seiner Tochter: du gehe heute nach den Kühen (sehen), ich werde mich aufmachen, um deinen Bruder zu suchen, (und) wisse: da meine Frau euch nicht gut ist, so bleibe weder ich, noch bleibst du hier, bis dass ich deinen Bruder gefunden habe.
+Der Vater sagte zu seiner Tochter: „Geh heute nach den Kühen sehen. Ich werde mich aufmachen, um deinen Bruder zu suchen. Und wisse: Da meine Frau euch nicht gut ist, werden weder ich noch du hierbleiben, wenn ich deinen Bruder nicht finde.“
 
 Die Tochter erhob sich, ging, trieb ihre Kühe aus, ging die Kühe weiden.
 
@@ -48,6 +48,6 @@ Als sie ihren Bruder nicht sah, die Frau des Vaters nicht sah, ging sie und sagt
 
 Der Vater sagte zur Tochter: ich weiss nicht, wo sie hingegangen ist, dein Bruder ist gestorben.
 
-Die Tochter weinte, ging, ging zu einem Bache, nahm eine Waschung vor, betete zwei Mal und sagte: o Herr, mache mich zu einem Uhu.
+Die Tochter weinte, ging zu einem Bach, vollzog die Waschung, verrichtete ein Gebet mit zwei Rakʿa (Gebetseinheiten) und sagte: „O Herr, mache mich zu einem Uhu.“
 
 Sie wurde sogleich ein Uhu, flog und zog davon.

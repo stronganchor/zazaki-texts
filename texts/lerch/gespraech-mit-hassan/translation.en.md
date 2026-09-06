@@ -14,7 +14,7 @@ Our tribe has thirty-four villages.
 
 What are the names of your tribe's villages?
 
-Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.
+Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Bazyang, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.
 
 Who is the elder of the village of Aldun?
 
@@ -38,7 +38,7 @@ I have a garden.
 
 What kind of trees does your garden have?
 
-It has trees: apple trees, apricot trees, peach trees, pomegranate trees and grapevines.
+It has mulberry trees, apple trees, apricot trees, peach trees, pomegranate trees and grapevines.
 
 How many rooms are there in one house?
 

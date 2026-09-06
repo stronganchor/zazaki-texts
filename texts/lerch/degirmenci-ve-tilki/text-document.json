@@ -260,7 +260,7 @@
       "translations": {
         "tr": "Bir gün değirmen taşını durdurup evine gitmiş. O gece evde uyumuş; sabah kalkıp değirmene gelince ambarda hiç un kalmadığını görmüş. Ertesi gece nöbet tutmuş. Gece yarısı bir tilkinin içeri girip ambara yöneldiğini ve unu alıp götürdüğünü görmüş.",
         "en": "One day he stopped the millstone and went home. That night he slept at home; in the morning he got up, came to the mill, and saw that there was no flour left in the bin. The next night he kept watch. At midnight he saw a fox come in, go to the bin, and take the flour away.",
-        "de": "Eines Tages hielt er den Mühlstein an, ging in's Haus, schlief die Nacht im Hause, stand des Morgens auf, kam in die Mühle und sah, dass im Kasten kein Mehl ist; in dieser (d."
+        "de": "Eines Tages hielt er den Mühlstein an, ging nach Hause und schlief dort die Nacht. Am Morgen stand er auf, kam in die Mühle und sah, dass im Kasten kein Mehl war. In der nächsten Nacht hielt er Wache und sah, wie um Mitternacht ein Fuchs hereinkam, zum Kasten ging und das Mehl herausnahm."
       },
       "source_line_ids": [
         "mf01_l01",
@@ -327,7 +327,7 @@
       "translations": {
         "tr": "Değirmenci kalkmış, eline bir sopa almış ve tilkiye vurmuş. Tilki yakalanınca ağlamaya başlamış.",
         "en": "The miller got up, took a stick, and struck the fox. When the fox was caught, it began to cry.",
-        "de": "Eines Tages hielt er den Mühlstein an, ging in's Haus, schlief die Nacht im Hause, stand des Morgens auf, kam in die Mühle und sah, dass im Kasten kein Mehl ist; in dieser (d. i."
+        "de": "Der Müller stand auf, ergriff einen Stock und schlug damit den Fuchs. Als er den Fuchs gepackt hatte, winselte dieser."
       },
       "source_line_ids": [
         "mf01_l01",
@@ -394,7 +394,7 @@
       "translations": {
         "tr": "Tilki değirmenciye, \"Beni bırak. Sana Mısır Paşası'nın kızını isteyeceğim,\" demiş.",
         "en": "The fox said to the miller, \"Let me go.",
-        "de": "der nächsten) Nacht stellte er sich auf die Wache, (und) sah, wie um Mitternacht ein Fuchs herein kam, zum Kasten ging (und) das Mehl herausnahm."
+        "de": "Der Fuchs sagte zum Müller: „Lass mich los; ich werde für dich um die Tochter des Paschas von Ägypten werben.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -461,7 +461,7 @@
       "translations": {
         "tr": "Değirmenci, \"Ben değirmenci bir adamım; sen bana Mısır Paşası'nın kızını nasıl isteyeceksin?\" diye cevap vermiş.",
         "en": "I will ask for the daughter of the Pasha of Egypt for you.\" The miller answered, \"I am a miller; how will you ask for the daughter of the Pasha of Egypt for me?\"",
-        "de": "Der Müller erhob sich, ergriff einen Stock und gab (damit) dem Fuchs; als er den Fuchs gepackt hatte, winselte dieser."
+        "de": "Der Müller sagte: „Ich bin ein Müller. Wie willst du für mich um die Tochter des Paschas von Ägypten werben?“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -528,7 +528,7 @@
       "translations": {
         "tr": "Tilki, \"Beni öldürme. Onu senin için isteyeceğim. Eğer Mısır Paşası'nın kızını sana istemezsem, o zaman beni öldürürsün. Şimdi bırak beni,\" demiş.",
         "en": "The fox said, \"Do not kill me. I will ask for her for you. If I do not ask for the daughter of the Pasha of Egypt for you, then you may kill me. Now let me go.\"",
-        "de": "Der Fuchs sagte zum Müller: lass mich los, ich werde für dich die Tochter des Pascha von Aegypten freien."
+        "de": "Der Fuchs sagte: „Töte mich nicht; ich werde für dich um sie werben. Wenn ich nicht für dich um die Tochter des Paschas von Ägypten werbe, dann töte mich. Lass mich jetzt los.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -595,7 +595,7 @@
       "translations": {
         "tr": "Değirmenci, \"Bana yemin et,\" demiş.",
         "en": "The miller said, \"Swear it to me.\"",
-        "de": "Der Müller sagte: ich bin ein Müllersmann, wie wirst du für mich die Tochter des Pascha von Aegypten freien?"
+        "de": "Der Müller sagte: „Schwöre es mir.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -662,7 +662,7 @@
       "translations": {
         "tr": "Tilki değirmenciye yemin etmiş, değirmenci de onu bırakmış.",
         "en": "The fox swore to the miller, and the miller let it go.",
-        "de": "Der Fuchs sagte: tödte mich nicht, ich werde für dich freien, (tödte mich) wenn ich die Tochter des Pascha von Aegypten dir nicht freie; lass mich los."
+        "de": "Der Fuchs schwor es dem Müller, und dieser ließ den Fuchs los."
       },
       "source_line_ids": [
         "mf01_l01",
@@ -729,7 +729,7 @@
       "translations": {
         "tr": "Tilki kalkıp Mısır'a gitmiş, Mısır Paşası'nın huzuruna çıkmış ve selam vermiş.",
         "en": "The fox got up, went to Egypt, went before the Pasha of Egypt, and greeted him.",
-        "de": "Der Müller sagte: schwöre mir."
+        "de": "Der Fuchs machte sich auf, ging nach Ägypten, trat vor den Pascha von Ägypten und grüßte ihn."
       },
       "source_line_ids": [
         "mf01_l01",
@@ -796,7 +796,7 @@
       "translations": {
         "tr": "Mısır Paşası tilkiye, \"Derdin nedir, söyle,\" demiş.",
         "en": "The Pasha of Egypt said to the fox, \"What is your business?",
-        "de": "Der Fuchs schwor dem Müller (und) dieser liess den Fuchs los."
+        "de": "Der Pascha von Ägypten sagte zum Fuchs: „Sage mir, was dein Anliegen ist.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -863,7 +863,7 @@
       "translations": {
         "tr": "Tilki, \"Efendim, izin ver de sana anlatayım,\" diye karşılık vermiş.",
         "en": "Tell me.\" The fox replied, \"My lord, allow me to speak to you.\"",
-        "de": "Der Fuchs machte sich auf, ging nach Aegypten, ging zum Pascha von Aegypten (und) stattete seinen Gruss ab."
+        "de": "Der Fuchs sagte: „Mein Herr, erlaube mir, zu dir zu sprechen.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -930,7 +930,7 @@
       "translations": {
         "tr": "Paşa tilkiye izin vermiş.",
         "en": "The Pasha gave the fox permission.",
-        "de": "Der Pascha von Aegypten sagte zum Fuchse: sage mir, was dein Begehren ist."
+        "de": "Der Pascha von Ägypten erteilte dem Fuchs die Erlaubnis."
       },
       "source_line_ids": [
         "mf01_l01",
@@ -997,7 +997,7 @@
       "translations": {
         "tr": "Tilki, \"Efendim, Çemçequ Paşa geldi; kızınızı kendisi için istiyor. Bir dolu yağdı, sel geldi. Çemçequ Paşa'nın beş yüz atlısı vardı; sel hepsini alıp götürdü. Sana (söylüyorum), sel bütün kadınları da alıp götürdü. Bir kayaya tutunup ayağa kalktım. Baktım, bir el geldi bacağıma düştü. O eli tuttum ve onu sudan dışarı çıkardım. Çemçequ Paşa kendini benim üstüme attı; onu orada bıraktım ve geldim,\" demiş. Mısır Paşası, \"Atlılar onu karşılasın, seninle birlikte gelsinler ve Çemçequ Paşa'yı bana getirsinler. Orada bir vezir var; ama ben Çemçequ Paşa diye birinin adını bilmiyorum,\" demiş.",
         "en": "The fox said, \"My lord, Çemçequ Pasha has come; he is asking for your daughter for himself. A hailstorm came down, and a flood came. Çemçequ Pasha had five hundred horsemen; the flood carried them all away. I (say) to you, the flood carried all the women away too. I grabbed onto a rock and stood up. I looked, and a hand came and fell on my leg. I grabbed that hand and pulled him out of the water. Çemçequ Pasha threw himself onto me; I left him there and came.\" The Pasha of Egypt said, \"Let the horsemen meet him; let them come with you and bring Çemçequ Pasha to me. There is a vizier there, but I do not know the name of any Çemçequ Pasha.\"",
-        "de": "Der Pascha von Aegypten sagte zum Fuchse: sage mir, was dein Begehren ist. Der Fuchs sprach: mein Herr, erlaube mir zu dir zu sprechen."
+        "de": "Der Fuchs sagte: „Mein Herr, Temteqü-Pascha ist gekommen und wirbt um deine Tochter.“ [Sinngemäße Ergänzung der im Druck unübersetzten Passage; die Deutung bleibt unsicher: Ein Hagelsturm und eine Flut kamen. Temteqü-Pascha hatte fünfhundert Reiter; die Flut riss sie alle mit, auch die Frauen. Der Fuchs hielt sich an einem Felsen fest. Eine Hand berührte sein Bein; er ergriff sie und zog Temteqü-Pascha aus dem Wasser. Er ließ ihn dort zurück und kam zum Pascha.] Der Pascha von Ägypten sagte: „Geh ihm mit Reitern entgegen; er soll mit dir kommen. Bring mir Temteqü-Pascha. Dort ist ein Wesir, aber ich kenne keinen Temteqü-Pascha.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -1064,7 +1064,7 @@
       "translations": {
         "tr": "Tilki, \"Efendim, bana bir kat elbise ver. Ben onu Çemçequ Paşa'ya götüreyim, o da giysin. İki gün boyunca askerlerini onu karşılamaya çıkarma; Çemçequ Paşa buraya varıncaya kadar sana haber getiririm,\" demiş.",
         "en": "The fox said, \"My lord, give me a set of clothes. I will take them to Çemçequ Pasha, and he will put them on. For two days do not send your soldiers out to meet him; until Çemçequ Pasha arrives here, I will bring you word.\"",
-        "de": "Der Pascha von Aegypten gewährte (es) ihm."
+        "de": "Der Fuchs sagte: „Mein Herr, gib mir einen Anzug. Ich werde ihn Temteqü-Pascha bringen, damit er ihn anzieht. Lass dein Heer in den nächsten zwei Tagen nicht ausrücken, um ihn zu begrüßen. Bis Temteqü-Pascha hier ankommt, werde ich dich benachrichtigen.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -1131,7 +1131,7 @@
       "translations": {
         "tr": "Mısır Paşası tilkiye bir kat elbise vermiş.",
         "en": "The Pasha of Egypt gave the fox a set of clothes.",
-        "de": "Der Fuchs sprach: mein Herr,....."
+        "de": "Der Pascha von Ägypten gab dem Fuchs einen Anzug."
       },
       "source_line_ids": [
         "mf01_l01",
@@ -1198,7 +1198,7 @@
       "translations": {
         "tr": "Tilki elbiseleri alıp geri dönmüş ve değirmencinin yanına gitmiş.",
         "en": "The fox took the clothes, turned back, and went to the miller.",
-        "de": "Temteqü-Pasä kam, er freit um deine Tochter....*) Der Pascha von Aegypten sagte, geh ihm mit Reitern entgegen, möge er mit dir kommen, führe mir den Temteqü-Pasä zu, dort, an einem Orte ist ein Vizir, ich kenne nicht den Namen eines Temteqü-Pasä."
+        "de": "Der Fuchs nahm die Kleider, kehrte um und ging zum Müller."
       },
       "source_line_ids": [
         "mf01_l01",
@@ -1265,7 +1265,7 @@
       "translations": {
         "tr": "Değirmenciye, \"Mısır Paşası'nın kızını senin için istedim. Kalk, hamama git; yıkanıp temizlen. Sonra gel, bu elbiseleri giy; Mısır Paşası'nın yanına gideceğiz,\" demiş.",
         "en": "It said to the miller, \"I have asked for the daughter of the Pasha of Egypt for you. Get up, go to the bath; wash and clean yourself. Then come, put on these clothes, and we will go to the Pasha of Egypt.\"",
-        "de": "Der Fuchs sagte: mein Herr, gieb mir einen Anzug, ich werde ihn dem Temtequ-Pasä bringen, er wird ihn anlegen; vor zwei Tagen lasse dein Heer nicht ausrücken um ihn zu bewillkommen; bis Temteqü-Pasä hier ankommt, werde ich dich benachrichtigen."
+        "de": "Er sagte zum Müller: „Ich habe für dich um die Tochter des Paschas von Ägypten geworben. Steh auf, geh ins Bad, wasche und reinige dich. Komm dann, zieh diesen Anzug an; wir gehen zum Pascha von Ägypten.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -1332,7 +1332,7 @@
       "translations": {
         "tr": "Değirmenci kalkıp hamama gitmiş, yıkanmış, başını ve sakalını tıraş etmiş. Sonra gelip elbiseleri giymiş. Tilki öne düşmüş, onu alıp Mısır sınırına götürmüş; orada durmuşlar.",
         "en": "The miller got up and went to the bath. He washed, shaved his head and beard, then came and put on the clothes. The fox went ahead and brought him to the border of Egypt; there they stopped.",
-        "de": "*) Der Sinn und die Bedeutung der in Klammern eingeschlossenen Worte ist mir nicht klar, daher lasse ich solche unübersetzt."
+        "de": "Der Müller stand auf, ging ins Bad, reinigte sich und rasierte sich Kopf und Bart. Dann kam er und zog die Kleider an. Der Fuchs führte ihn fort, und sie kamen an die Grenze von Ägypten."
       },
       "source_line_ids": [
         "mf01_l01",
@@ -1399,7 +1399,7 @@
       "translations": {
         "tr": "Tilki gidip Mısır Paşası'na haber vermiş.",
         "en": "The fox went and gave word to the Pasha of Egypt.",
-        "de": "Der Pascha von Aegypten gab einen Anzug dem Fuchs."
+        "de": "Dort machten sie Halt. Der Fuchs ging und benachrichtigte den Pascha von Ägypten."
       },
       "source_line_ids": [
         "mf01_l01",
@@ -1466,7 +1466,7 @@
       "translations": {
         "tr": "Tilki Paşa'ya, \"Çemçequ Paşa geldi. Güzel bir araba ver; Çemçequ Paşa'yı getireyim. Askerlerin de onu karşılamaya çıksın,\" demiş.",
         "en": "The fox said to the Pasha, \"Çemçequ Pasha has come. Give me a fine carriage so I can bring Çemçequ Pasha. Let your soldiers also go out to meet him.\"",
-        "de": "Dieser nahm die Kleider, zog davon und ging zum Müller."
+        "de": "Der Fuchs sagte zum Pascha: „Temteqü-Pascha ist gekommen. Gib mir einen schönen Wagen; ich will Temteqü-Pascha entgegengehen. Das Heer soll ihn begrüßen.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -1533,7 +1533,7 @@
       "translations": {
         "tr": "Mısır Paşası tilkiye bir araba vermiş; üç kavas da tilkinin önünden yürümüş.",
         "en": "The Pasha of Egypt gave the fox a carriage, and three kawasses walked ahead of the fox.",
-        "de": "Er sprach zu ihm: ich habe für dich die Tochter des Pascha von Aegypten gefreit, mache dich auf, geh in's Bad, wasche dich, reinige dich, komme, lege diesen Anzug an, wir gehen zum Pascha von Aegypten."
+        "de": "Der Pascha von Ägypten gab dem Fuchs einen Wagen; drei Kawassen gingen vor dem Fuchs her."
       },
       "source_line_ids": [
         "mf01_l01",
@@ -1600,7 +1600,7 @@
       "translations": {
         "tr": "Çemçequ Paşa Mısır'a gelmiş.",
         "en": "Çemçequ Pasha came to Egypt.",
-        "de": "Der Müller erhob sich, ging in's Bad, reinigte sich, rasirte sich Kopf (und) Bart, kam, legte die Kleider an, der Fuchs führte ihn davon, (und) sie kamen an die Gränze von Aegypten."
+        "de": "Temteqü-Pascha kam nach Ägypten, und das Heer des Paschas rief: „Selam aleikum!“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -1667,7 +1667,7 @@
       "translations": {
         "tr": "Mısır Paşası'nın askerleri onu selamlamış; ama değirmenci selamı nasıl alacağını bilmiyormuş.",
         "en": "The soldiers of the Pasha of Egypt greeted him, but the miller did not know how to return the greeting.",
-        "de": "Hier machten sie Halt; der Fuchs ging und benachrichtigte den Pascha von Aegypten."
+        "de": "Der Müller wusste nicht, wie er den Gruß erwidern sollte."
       },
       "source_line_ids": [
         "mf01_l01",
@@ -1734,7 +1734,7 @@
       "translations": {
         "tr": "Askerlerden bazıları, \"Bu sarhoş, sarhoş,\" demiş. Bazıları, \"Bu paşa değil,\" demiş; bazıları da, \"Bu değirmenci,\" demiş.",
         "en": "Some of the soldiers said, \"He is drunk, drunk.\" Some said, \"He is not a pasha,\" and others said, \"He is a miller.\"",
-        "de": "Es sagte diesem: Temteqü-Pasä ist gekommen, gieb einen schönen Wagen, ich will dem Temteqü-Pasä entgegen gehen, das Heer möge ihn bewillkommnen."
+        "de": "Einige Soldaten sagten: „Das ist ein Betrunkener, ein Betrunkener!“ Andere sagten: „Das ist kein Pascha“, und wieder andere: „Das ist ein Müller.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -1801,7 +1801,7 @@
       "translations": {
         "tr": "Tilki bir oraya bir buraya koşup askerlere, \"Hava çok sıcak; Çemçequ Paşa baygın düştü, aklı başında değil,\" demiş.",
         "en": "The fox ran back and forth among the soldiers and said, \"It is very hot; Çemçequ Pasha has fainted. He is not in his right mind.\"",
-        "de": "Der Pascha von Aegypten gab einen Wagen dem Fuchse, drei Kawassen gingen vor dem Fuchse her."
+        "de": "Der Fuchs ging hin und her und sagte zu den Soldaten: „Es ist heiß; Temteqü-Pascha ist ohnmächtig, er ist nicht bei Bewusstsein.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -1868,7 +1868,7 @@
       "translations": {
         "tr": "Çemçequ Paşa'yı Mısır Paşası'nın sarayına götürmüşler. Arabadan inince tilki elinden tutup onu saraya ve hareme götürmüş. Mısır Paşası'na, \"Bir aydır bu adamın aklı başında değil,\" demiş.",
         "en": "They brought Çemçequ Pasha to the palace of the Pasha of Egypt. When he got down from the carriage, the fox took him by the hand and led him into the palace and the harem. It said to the Pasha of Egypt, \"For a month this man has not been in his right mind.\"",
-        "de": "Temteqü-Pasä kam nach Aegypten, das Heer des Pascha schrie: seläm aleïqum."
+        "de": "Temteqü-Pascha wurde zum Palast des Paschas von Ägypten gebracht und stieg aus dem Wagen. Der Fuchs nahm ihn bei der Hand, führte ihn in den Palast und das Serail (?) und sagte zum Pascha: „Seit einem Monat ist er nicht bei Verstand.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -1935,7 +1935,7 @@
       "translations": {
         "tr": "Mısır Paşası, \"Onu yatak odasına götürün, yatağa yatırın da dinlensin,\" demiş.",
         "en": "The Pasha of Egypt said, \"Take him to the bedroom and lay him on the bed so he can rest.\"",
-        "de": "Der Müller wusste nicht den Gruss zu erwiedern."
+        "de": "Der Pascha von Ägypten sagte: „Führe ihn ins Schlafzimmer und lege ihn aufs Bett, damit er sich ausruht.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -2002,7 +2002,7 @@
       "translations": {
         "tr": "Tilki Çemçequ Paşa'yı odaya götürüp yatağa yatırmış.",
         "en": "The fox took Çemçequ Pasha to the room and laid him on the bed.",
-        "de": "Mancher aus dem Heere sagte: das ist ein Trunkener, das ist ein Trunkener; Mancher sagte: das ist kein Pascha; Mancher sagte: das ist ein Müller."
+        "de": "Der Fuchs führte Temteqü-Pascha ins Zimmer und legte ihn aufs Bett."
       },
       "source_line_ids": [
         "mf01_l01",
@@ -2069,7 +2069,7 @@
       "translations": {
         "tr": "Çemçequ Paşa titremeye başlamış; tilki de, \"Korkuyorsun, korkma; git yat,\" demiş.",
         "en": "Çemçequ Pasha began to tremble; the fox said, \"You are afraid. Do not be afraid; go lie down.\"",
-        "de": "Der Fuchs ging auf und ab und sagte zu den Soldaten: es ist warm, Temteqü-Pasä ist ohnmächtig (in seinem Kopfe ist kein Verstand, kein Bewusstsein). Temtequ-Pasa wurde in den Palast des Pascha von Aegypten gebracht, stieg aus dem Wagen, der Fuchs griff nach seiner Hand, führte ihn in den Palast und das Serail (?) und sagte zum Pascha von Aegypten: einen Monat (lang) ist in diesem Kopfe kein Verstand (Bewusstsein)."
+        "de": "Temteqü-Pascha zitterte. Der Fuchs sagte: „Du Verdammter, fürchte dich nicht; geh und leg dich hin.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -2136,7 +2136,7 @@
       "translations": {
         "tr": "Değirmenci tilkiye, \"Mısır Paşası şimdi buraya gelecek ve başımı kesecek,\" demiş.",
         "en": "The miller said to the fox, \"The Pasha of Egypt will come here now and cut off my head.\"",
-        "de": "Der Pascha von Aegypten sagte: führe ihn in's Schlafzimmer, lege ihn aufs Lager, dass er ruhe."
+        "de": "Der Müller sagte zum Fuchs: „Der Pascha von Ägypten wird hierherkommen und mir den Kopf abschlagen.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -2203,7 +2203,7 @@
       "translations": {
         "tr": "Tilki, \"Korkma, seni bırakmam. Aklını başına topla. Mısır Paşası şimdi odaya girerse kalkıp ayaklarını öp,\" demiş.",
         "en": "The fox said, \"Do not be afraid. I will not leave you. Keep your senses. If the Pasha of Egypt now enters the room, get up and kiss his feet.\"",
-        "de": "Der Fuchs führte Temtequ-Pasä in's Zimmer, legte ihn auf's Lager. Temteqü-Pasä zitterte, der Fuchs sagte: Verdammter, fürchte dich nicht, geh dich niederlegen."
+        "de": "Der Fuchs sagte: „Fürchte dich nicht; ich verlasse dich nicht. Sei vernünftig. Wenn der Pascha von Ägypten jetzt ins Zimmer kommt, steh auf und küsse ihm die Füße.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -2270,7 +2270,7 @@
       "translations": {
         "tr": "Çemçequ Paşa tilkiye, \"Mısır Paşası şimdi gelirse beni öldürür,\" demiş.",
         "en": "Çemçequ Pasha said to the fox, \"If the Pasha of Egypt comes now, he will kill me.\"",
-        "de": "Der Müller sagte zum Fuchs: der Pascha von Aegypten wird hierher kommen, mir den Kopf abschlagen."
+        "de": "Temteqü-Pascha sagte zum Fuchs: „Wenn der Pascha von Ägypten jetzt hereinkommt, tötet er mich.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -2337,7 +2337,7 @@
       "translations": {
         "tr": "Tilki, \"Kalk. Sana leğende su hazırlayayım; git abdest al, içeri gel ve namaz kıl,\" demiş.",
         "en": "The fox said, \"Get up. I will prepare water for you in a basin; go perform ablution, come back in, and pray.\"",
-        "de": "Der Fuchs sagte: fürchte dich nicht, ich verlasse dich nicht, sei vernünftig, wenn der Pascha von Aegypten in's Zimmer jetzt kommt, so stehe auf und küsse ihm die Füsse. Temtaqü-Pasä sagte zum Fuchse: wenn der Pascha von Aegypten jetzt herein kommt, tödtet er mich."
+        "de": "Der Fuchs sagte: „Steh auf; ich werde dir Wasser in einer Schale bringen. Geh, vollziehe die Waschung, komm wieder herein und bete.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -2404,7 +2404,7 @@
       "translations": {
         "tr": "Değirmenci tilkiye, \"Bana su getir; gidip abdest alacağım,\" demiş.",
         "en": "The miller said to the fox, \"Bring me water; I will go perform ablution.\"",
-        "de": "Der Fuchs sagte: stehe auf, ich werde dir Wasser in der Schale bringen, geh, nimm eine Waschung vor, komm herein (und) bete."
+        "de": "Der Müller sagte zum Fuchs: „Bring mir Wasser; ich werde die Waschung vollziehen.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -2471,7 +2471,7 @@
       "translations": {
         "tr": "Tilki kalkıp gitmiş, su getirmiş ve değirmenciye vermiş. Değirmenci kalkmış, abdest almaya gitmiş. Sarayın içinde ilerlemiş, ama yolu bilmiyormuş.",
         "en": "The fox got up, went, brought water, and gave it to the miller. The miller got up and went to perform ablution. He went through the palace, but he did not know the way.",
-        "de": "Der Müller sagte: bringe mir Wasser, ich werde zur Waschung gehen. Der Fuchs erhob sich, ging, brachte Wasser, gab (es) dem Müller; dieser erhob sich, ging zur Waschung, ging durch den Palast, kannte (aber) den Weg nicht (wusste nicht welcher der Weg ist)."
+        "de": "Der Fuchs stand auf, ging, brachte Wasser und gab es dem Müller. Dieser stand auf und ging zur Waschung. Er ging durch den Palast, kannte aber den Weg nicht."
       },
       "source_line_ids": [
         "mf01_l01",
@@ -2605,7 +2605,7 @@
       "translations": {
         "tr": "Tilki Mısır Paşası'na gidip, \"Çemçequ Paşa abdest almaya gitti. Ne oldu bilmiyorum; yere düşmüş, ölmüş,\" demiş.",
         "en": "The fox went to the Pasha of Egypt and said, \"Çemçequ Pasha went to perform ablution. I do not know what happened; he fell to the ground and died.\"",
-        "de": "Der Fuchs ging und sagte zum Pascha von Aegypten: Temtaqü-Pasä ging zur Waschung, ich weiss nicht, wo er war, er ist zur Erde gefallen, gestorben. Der Pascha von Aegypten sagte: geh, bringe (ihn)."
+        "de": "Der Fuchs kam zum Pascha von Ägypten und sagte: „Temteqü-Pascha ging zur Waschung. Ich weiß nicht, wo er war; er ist zu Boden gefallen und gestorben.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -2672,7 +2672,7 @@
       "translations": {
         "tr": "Mısır Paşası, \"Gidin, onu getirin,\" demiş.",
         "en": "The Pasha of Egypt said, \"Go, bring him.\"",
-        "de": "Er (d."
+        "de": "Der Pascha von Ägypten sagte: „Geh und bring ihn her.“"
       },
       "source_line_ids": [
         "mf01_l01",
@@ -2739,7 +2739,7 @@
       "translations": {
         "tr": "Gidip getirmişler, yıkamışlar ve gömmüşler.",
         "en": "They went, brought him, washed him, and buried him.",
-        "de": "i. der Fuchs) ging, brachte, wusch und bestattete (ihn)."
+        "de": "Der Fuchs ging, brachte den Toten, wusch und bestattete ihn."
       },
       "source_line_ids": [
         "mf01_l01",
