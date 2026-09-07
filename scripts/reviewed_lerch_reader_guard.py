@@ -17,11 +17,17 @@ PROTECTED_LESSONS = {
     'lerch-goin-puhu-kusunun-hikayesi',
     'lerch-uc-kardes-masali',
     'lerch-gespraech-mit-hassan',
+    'lerch-ali-agha-ladi-kelhani',
+    'lerch-kauge-nyerib-u-hyeni',
+    'lerch-kauge-nyerib-u-sivani',
+    'lerch-bacmeister-ornek-cumleleri',
 }
 
 
 def source_anchors(source_lines: list[dict]) -> list[dict]:
-    anchors = [{'id': line.get('id'), 'zazaki': line.get('zazaki')} for line in source_lines]
+    # Bacmeister preserves historical Zaza in `text`, without a `zazaki` key.
+    # Prefer an explicitly present `zazaki` key so invalid/null values still fail.
+    anchors = [{'id': line.get('id'), 'zazaki': line.get('zazaki', line.get('text'))} for line in source_lines]
     ids = [line['id'] for line in anchors]
     if any(not isinstance(item, str) or not item for item in ids) or len(ids) != len(set(ids)):
         raise ValueError('Reviewed reader source lines require unique nonempty ids')

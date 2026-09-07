@@ -4,7 +4,7 @@ God does not die.
 
 A human being's life is short.
 
-The mother loves her children.
+The mother loves her children very much.
 
 She has much milk in her breasts.
 

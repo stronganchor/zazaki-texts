@@ -841,7 +841,7 @@ def write_public_text_files(target_dir: Path, doc: dict) -> None:
     write_text(target_dir / "text.zazaki.md", f"{doc['title']}\n\n" + "\n\n".join(unit.get("source", "") for unit in units))
     translation_titles = TRANSLATION_TITLES.get(target_dir.name, {})
     for lang in doc.get("translations", {}):
-        paragraphs = [unit.get("translations", {}).get(lang, "") for unit in units]
+        paragraphs = [unit.get("translations", {}).get(lang, "") for unit in units if unit.get("id") != "title"]
         paragraphs = [paragraph for paragraph in paragraphs if paragraph]
         if paragraphs:
             write_text(target_dir / f"translation.{lang}.md", f"{translation_titles.get(lang, doc['title'])}\n\n" + "\n\n".join(paragraphs))

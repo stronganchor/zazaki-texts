@@ -48,7 +48,7 @@ Ali Agha sammelte seine eigenen Waffen und die Waffen aller seiner vier Söhne u
 
 Qasim Agha nahm sie.
 
-Ahmed, Ali Aghas Sohn, sagte: 'Onkel, nimm unsere Waffen nicht. Du bist ein Verräter; vielleicht ist im Kopf meines Vaters kein Verstand, heute ist Ramadan. Pass auf, Onkel, wenn du unsere Waffen nimmst und dann als Verräter hinausgehst, werde ich dich töten.'
+Ahmed, Ali Aghas Sohn, sagte: 'Onkel, nimm unsere Waffen nicht. Du bist ein Verräter; im Kopf meines Vaters ist kein Verstand, heute ist Ramadan. Pass auf, Onkel, wenn du unsere Waffen nimmst und dann als Verräter hinausgehst, werde ich dich töten.'
 
 Qasim Agha sagte zu Ahmed: 'Neffe, fürchte dich nicht.'
 
@@ -60,11 +60,11 @@ Sein Onkel ging hinaus und sagte zu seinen Soldaten: 'Wartet nicht; ich habe die
 
 Qasim Aghas Soldaten brachen die Tür auf, Qasim Agha ging voran und rief Ahmed zu: 'Neffe, ich bin gekommen; wohin du auch gehst, diesmal schlage ich dir den Kopf ab.'
 
-Ahmed rief und sagte: 'Möge Gott mir die Erlaubnis geben; zuerst werde ich dich mit meiner eigenen Hand töten.'
+Ahmed rief: 'So Gott will, werde ich selbst dich zuerst töten.'
 
 Sein Onkel ging, um Ahmed zu töten.
 
-Ahmed sah eine Öffnung in der Wand; in der Wand war ein Gitter. Er steckte seine Hand in das Gitter, fand im Gitter einen Dolch und zog ihn heraus, und er stieß seinem Onkel unter die rechte Seite der Brust.
+Ahmed bemerkte ein Gitter in der Zimmerwand. Er griff dahinter, fand einen Dolch, zog ihn heraus und stieß seinem Onkel damit unter die rechte Seite der Brust.
 
 Sein Onkel fiel.
 
@@ -84,6 +84,6 @@ Die Soldaten gingen vom Agha weg, und jeder ging nach Hause.
 
 Die Leichen Ali Aghas, seiner vier Söhne und der achtzehn fremden Männer blieben alle im Zimmer.
 
-Am Morgen rief Mela Resa dem Mela Qasim von Desmun zu und sagte: 'Bringt Ali Agha, seine Söhne und die achtzehn fremden Männer hierher; bringt sie hinaus.'
+Am Morgen rief Mela Resa dem Mela Qasim von Desmun zu: 'Tragt die Leichen Ali Aghas, seiner Kinder und der achtzehn Fremden fort und bestattet sie alle.'
 
 Mela Qasim machte sich von Desmun auf, Memed Agha machte sich von Gheyte auf, Ramedan Agha machte sich von Merzyele auf; sie gingen, nahmen die Leichen Ali Aghas, seiner Söhne und der achtzehn fremden Männer, brachten sie heraus, trugen sie weg und begruben sie.

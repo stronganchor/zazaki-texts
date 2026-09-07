@@ -11,6 +11,8 @@ import sys
 from datetime import date
 from pathlib import Path
 
+from reviewed_lerch_reader_guard import apply_reviewed_reader_units
+
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 TEXT_DIR = REPO_ROOT / "texts" / "lerch" / "bacmeister-ornek-cumleleri"
@@ -534,8 +536,10 @@ def main() -> None:
     rows = parse_rows()
     token_count = sum(len(re.findall(r"\S+", row["zaza"])) for row in rows)
     TEXT_DIR.mkdir(parents=True, exist_ok=True)
-    copy_assets()
     payload = build_payload(rows)
+    # Validate the historical source before copying or writing any output.
+    apply_reviewed_reader_units(payload)
+    copy_assets()
     write_json(TEXT_DIR / "text-document.json", payload)
     write_json(
         TEXT_DIR / "metadata.json",
@@ -555,9 +559,8 @@ def main() -> None:
         },
     )
     write_text(TEXT_DIR / "text.zazaki.md", "Bacmeister Örnek Cümleleri\n\n" + "\n\n".join(row["zaza"] for row in rows))
-    write_text(TEXT_DIR / "translation.tr.md", "Bacmeister Örnek Cümleleri\n\n" + "\n\n".join(plain(row["turkish"]) for row in rows))
-    write_text(TEXT_DIR / "translation.en.md", "Bacmeister Sentence Samples\n\n" + "\n\n".join(plain(row["english"]) for row in rows))
-    write_text(TEXT_DIR / "translation.de.md", "Bacmeister Sprachproben\n\n" + "\n\n".join(plain(row["german"]) for row in rows))
+    for lang, title in (("tr", "Bacmeister Örnek Cümleleri"), ("en", "Bacmeister Sentence Samples"), ("de", "Bacmeister Sprachproben")):
+        write_text(TEXT_DIR / f"translation.{lang}.md", title + "\n\n" + "\n\n".join(unit["translations"][lang] for unit in payload["reading_units"]))
     print(f"Wrote {TEXT_DIR.relative_to(REPO_ROOT)} with {len(rows)} rows.")
 
 

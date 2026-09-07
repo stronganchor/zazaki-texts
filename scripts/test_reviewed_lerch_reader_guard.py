@@ -82,6 +82,20 @@ class ReviewedReaderTests(unittest.TestCase):
         self.assertFalse(guard.apply_reviewed_reader_units(self.doc, self.root))
         self.assertEqual(self.doc, before)
 
+    def test_historical_text_anchor_refuses_changed_bacmeister_source(self):
+        historical = {'id': 'b1', 'text': 'Exact historical Zaza.'}
+        self.assertEqual(guard.source_anchors([historical]), [{'id': 'b1', 'zazaki': 'Exact historical Zaza.'}])
+        # A malformed modern field must not silently fall back to another field.
+        with self.assertRaises(ValueError):
+            guard.source_anchors([{**historical, 'zazaki': None}])
+        self.doc['source_lines'] = [historical]
+        self.doc['reading_units'][0]['source_line_ids'] = ['b1']
+        self.manifest = guard.make_review_manifest(self.doc, {'date': '2026-09-07'})
+        self.save_manifest()
+        self.doc['source_lines'][0]['text'] += ' Changed.'
+        with self.assertRaisesRegex(ValueError, 'source line id/Zazaki changed'):
+            guard.apply_reviewed_reader_units(self.doc, self.root)
+
     def test_changed_reader_id_or_source_refused(self):
         for field in ('id', 'source'):
             changed = deepcopy(self.doc)

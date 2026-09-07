@@ -48,7 +48,7 @@ Ali Ağa kendi silahlarını ve dört oğlunun silahlarını topladı, Qasım A�
 
 Qasım Ağa onları aldı.
 
-Ali Ağa'nın oğlu Ahmed dedi ki: 'Dayı, silahlarımızı alma. Sen hainsin; belki babamın başında akıl yok, bugün Ramazan günüdür. Bak dayı, silahlarımızı alır da sonra hain olarak çıkarsan seni öldürürüm.'
+Ali Ağa'nın oğlu Ahmed dedi ki: 'Dayı, silahlarımızı alma. Sen hainsin; babamın başında akıl yok, bugün Ramazan günüdür. Bak dayı, silahlarımızı alır da sonra hain olarak çıkarsan seni öldürürüm.'
 
 Qasım Ağa Ahmed'e dedi ki: 'Yeğenim, korkma.'
 
@@ -60,11 +60,11 @@ Dayısı dışarı çıktı ve askerlerine dedi ki: 'Beklemeyin; Ali Ağa'nın v
 
 Qasım Ağa'nın askerleri kapıyı kırdı, Qasım Ağa öne geçti ve Ahmed'e seslenip dedi ki: 'Yeğenim, geldim; nereye gidersen bu defa başını keseceğim.'
 
-Ahmed seslenip dedi ki: 'Allah bana izin versin, önce ben seni kendi elimle öldüreceğim.'
+Ahmed seslenip dedi ki: 'Allah izin versin; önce ben seni kendim öldüreceğim.'
 
 Dayısı Ahmed'i öldürmeye gitti.
 
-Ahmed duvarda bir açıklık gördü; duvarda bir kafes vardı. Elini kafesin içine soktu, kafesin içinde bir hançer bulup çıkardı ve dayısını göğsünün sağ altından vurdu.
+Ahmed odanın duvarında bir kafes gördü. Elini kafesin arkasına uzattı, orada bir hançer bulup çıkardı ve dayısını göğsünün sağ altından vurdu.
 
 Dayısı düştü.
 
@@ -84,6 +84,6 @@ Askerler ağanın yanından ayrıldı, herkes evine gitti.
 
 Ali Ağa'nın, dört oğlunun ve on sekiz yabancı adamın cenazeleri hep odada kaldı.
 
-Sabah Mela Resa, Desmunlu Mela Qasım'a seslenip dedi ki: 'Ali Ağa'nın, oğullarının ve on sekiz yabancı adamın cenazelerini buraya getirin, dışarı çıkarın.'
+Sabah Mela Resa, Desmunlu Mela Qasım'a seslenip dedi ki: 'Ali Ağa'nın, çocuklarının ve on sekiz yabancı adamın cenazelerini hep birlikte götürüp gömün.'
 
 Mela Qasım Desmun'dan kalktı, Memed Ağa Ğêytê'den kalktı, Ramedan Ağa Merzyelê'den kalktı; gittiler, Ali Ağa'nın, oğullarının ve on sekiz yabancı adamın cesetlerini aldılar, getirdiler, götürdüler ve gömdüler.

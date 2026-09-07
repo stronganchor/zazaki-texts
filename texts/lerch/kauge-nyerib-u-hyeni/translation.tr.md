@@ -28,13 +28,13 @@ O adam Xalef Ağa'ya dedi ki: 'Ağa, Küçük Nyêrib'e ve Deştê Henzi'ye habe
 
 Xalef Ağa Küçük Nyêrib'e, Wesman Ağa'ya haber gönderdi: 'Haberi Deştê Henzi'de Mêhmêt Ağa'ya gönder.'
 
-Wesman Ağa Deştê Henzi'de Mêhmêt Ağa'ya haber gönderdi: 'Hazırlan; Hyêni'liler bizimle savaşacak.
+Wesman Ağa Deştê Henzi'de Mêhmêt Ağa'ya haber gönderdi: 'Hazırlan; Hyêni'liler bizimle savaşacak. Barut al, hazır ol; Hyêni'den haber geldiği gün savaşacağız.'
 
-Barut al, hazır ol; Hyêni'den haber geldiği gün savaşacağız.' Mêhmêt Ağa Wesman Ağa'ya haber gönderdi: 'Xalef Ağa'ya söyle: hazırız; Hyêni'den haber geldiği gün savaşacağız.'
+Mêhmêt Ağa Wesman Ağa'ya haber gönderdi: 'Xalef Ağa'ya söyle: hazırız; Hyêni'den haber geldiği gün savaşacağız.'
 
-Bir ay geçince Hyêni'li Daqma Bey Büyük Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Benim bu adamımı neden öldürdün?
+Bir ay geçince Hyêni'li Daqma Bey Büyük Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Benim bu adamımı neden öldürdün? Kendi vaktinde hazır ol; beş gün içinde savaşacağız.'
 
-Kendi vaktinde hazır ol; beş gün içinde savaşacağız.' Xalef Ağa Hyêni'de Daqma Bey'e haber gönderdi: 'Beş gün içinde, olmazsa yarın gel; savaşalım.'
+Xalef Ağa Hyêni'de Daqma Bey'e haber gönderdi: 'Beş gün içinde, olmazsa yarın gel; savaşalım.'
 
 Daqma Bey Hyêni içinde tellala bağırttı: 'Hiçbir yabancı şehre girmesin, kimse izinsiz toplanmasın. Ben Daqma Bey diyorum: izinsiz gördüğüm kişinin başını kestiririm.'
 

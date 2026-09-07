@@ -1,0 +1,725 @@
+{
+  "schema": "zazaki_texts.reviewed_reader_translations.v1",
+  "lesson_id": "lerch-bacmeister-ornek-cumleleri",
+  "review": {
+    "date": "2026-09-07",
+    "scope": "All remaining reader units in German, English and Turkish; original source, tokens and assets preserved.",
+    "source": "Lerch German Abth. I, all corresponding physical pages; Russian images for targeted divergences.",
+    "source_sha256": "f5b6a3fc3f6357ed6608c4aab7e35b8c27d7292868b0614a1aa8a176a04df2cc",
+    "evidence": "Language/Z/artifacts/autonomous-curation-20260907/lerch/REPORT.md",
+    "limitations": "Working reader; disclosed witness disagreements remain held. Frozen historical German prompts/OCR are not rewritten."
+  },
+  "source_lines": [
+    {
+      "id": "bacmeister_row_01",
+      "zazaki": "Aláh ńe merén’u."
+    },
+    {
+      "id": "bacmeister_row_02",
+      "zazaki": "Mē̱rdṳ́m é̱meri yai qílmu."
+    },
+    {
+      "id": "bacmeister_row_03",
+      "zazaki": "Daíke eílāne (eílekāni) χóe zāf sinén’a."
+    },
+    {
+      "id": "bacmeister_row_04",
+      "zazaki": "T̮íd̮e̱ yai zāf šid é̱stu."
+    },
+    {
+      "id": "bacmeister_row_05",
+      "zazaki": "Myẹ̄́rde yai h̔as kén’u."
+    },
+    {
+      "id": "bacmeister_row_06",
+      "zazaki": "Ā́ya d̮éni hé̱mle̱ya."
+    },
+    {
+      "id": "bacmeister_row_07",
+      "zazaki": "Še̱š rṓd̮e yau lād̮ ārd."
+    },
+    {
+      "id": "bacmeister_row_08",
+      "zazaki": "Dáh̔a ńe wé̱ša."
+    },
+    {
+      "id": "bacmeister_row_09",
+      "zazaki": "Keína yai h̔e̱t rúeništa bermén’a."
+    },
+    {
+      "id": "bacmeister_row_10",
+      "zazaki": "Lā́d̮e t̮íd̮e ńe wén’u."
+    },
+    {
+      "id": "bacmeister_row_11",
+      "zazaki": "Keína hé̱m’a pai ńe šuén’a."
+    },
+    {
+      "id": "bacmeister_row_12",
+      "zazaki": "Yau sé̱re di̥ ā́šme bía."
+    },
+    {
+      "id": "bacmeister_row_13",
+      "zazaki": "Ḗ̱n’ie t̮ehér hé̱m’e lā́d̮i wé̱ši."
+    },
+    {
+      "id": "bacmeister_row_14",
+      "zazaki": "Yau ve̱rī́e vāz dāmu, aúe díene perén’u (kai kén’u), aúe h̔irī́ne lauk vā́nu, aúe t̮eherī́ne h̔o̤wén’u."
+    },
+    {
+      "id": "bacmeister_row_15",
+      "zazaki": "Ḗ̱n’oe me̱rdúm t̮i̥mi yai (d̮ai) kṓri."
+    },
+    {
+      "id": "bacmeister_row_16",
+      "zazaki": "D̮éniai yai (d̮ai) ké̱ra."
+    },
+    {
+      "id": "bacmeister_row_17",
+      "zazaki": "Vé̱ngi me̱ (Sé̱ki ma vā́d̮i) ńéšna wén’a."
+    },
+    {
+      "id": "bacmeister_row_18",
+      "zazaki": "Beraí tú’e pṳ́reš neiyén’u."
+    },
+    {
+      "id": "bacmeister_row_19",
+      "zazaki": "Wai tú’e rā kaúta."
+    },
+    {
+      "id": "bacmeister_row_20",
+      "zazaki": "Baúki ši̥má h̔ayaú rú’eništu."
+    },
+    {
+      "id": "bacmeister_row_21",
+      "zazaki": "Tā́neki wén’u."
+    },
+    {
+      "id": "bacmeister_row_22",
+      "zazaki": "Ziṅd̮ h̔a myā́ne súrotide."
+    },
+    {
+      "id": "bacmeister_row_23",
+      "zazaki": "Di̥ língi mā é̱sti, hérgu dé̱sti mā́de pāṅd̮ ingíšti é̱sti."
+    },
+    {
+      "id": "bacmeister_row_24",
+      "zazaki": "Γí̥ži̥k sé̱rede yén’u."
+    },
+    {
+      "id": "bacmeister_row_25",
+      "zazaki": "Dendā́ni zuā́ṅ h̔a fé̱kde."
+    },
+    {
+      "id": "bacmeister_row_26",
+      "zazaki": "Dé̱stu rā́št qóatu sei dé̱sti t̮é̱pi."
+    },
+    {
+      "id": "bacmeister_row_27",
+      "zazaki": "Yau múye dé̱rga bāryéka."
+    },
+    {
+      "id": "bacmeister_row_28",
+      "zazaki": "Gṓ’eni sū́ra."
+    },
+    {
+      "id": "bacmeister_row_29",
+      "zazaki": "Éstei sei ké̱ri sā́γí."
+    },
+    {
+      "id": "bacmeister_row_30",
+      "zazaki": "Māsé̱de t̮ími é̱sti, gṓšye t̮íni."
+    },
+    {
+      "id": "bacmeister_row_31",
+      "zazaki": "Ḗ̱n’oe teir hyedíki ferén’u."
+    },
+    {
+      "id": "bacmeister_row_32",
+      "zazaki": "Nišén’u ā́rdda."
+    },
+    {
+      "id": "bacmeister_row_33",
+      "zazaki": "Pé̱li teíride mú’i siaí é̱sti."
+    },
+    {
+      "id": "bacmeister_row_34",
+      "zazaki": "Dā́rede vé̱lgō té̱ze, gíli hi̥šni é̱sti."
+    },
+    {
+      "id": "bacmeister_row_35",
+      "zazaki": "Ē̱no’e teir nā́kure bāryék é̱sta, bṓ’et̮e qí̥lma é̱sta."
+    },
+    {
+      "id": "bacmeister_row_36",
+      "zazaki": "Halyẹ̄́ne wẹ̄́da h̔áki sepī́ é̱sti."
+    },
+    {
+      "id": "bacmeister_row_37",
+      "zazaki": "Adí̥r ve̱šén’u, du, qí̥le, ko̤mṳ́r me̱ vién’i."
+    },
+    {
+      "id": "bacmeister_row_38",
+      "zazaki": "É̱n’a lā́de aúke lé̱ze šuén’a."
+    },
+    {
+      "id": "bacmeister_row_39",
+      "zazaki": "Āšme e̱stárera pī́la, rṓd̮era qí̮d̮a."
+    },
+    {
+      "id": "bacmeister_row_40",
+      "zazaki": "Vizyẹ̄́ri šā́nde varán varā́."
+    },
+    {
+      "id": "bacmeister_row_41",
+      "zazaki": "Eíru sebá me múndiai aíšma fátma día."
+    },
+    {
+      "id": "bacmeister_row_42",
+      "zazaki": "Šau tārī́u, rōd̮ rṓštu."
+    },
+    {
+      "id": "bacmeister_row_43",
+      "zazaki": "Mā kā́li bekí zazád̮e."
+    },
+    {
+      "id": "bacmeister_row_44",
+      "zazaki": "Ši̥mā zazád̮a záni?"
+    }
+  ],
+  "reading_units": [
+    {
+      "id": "u01",
+      "source": "Aláh ńe merén’u.",
+      "translations": {
+        "tr": "Allah ölmez.",
+        "en": "God does not die.",
+        "de": "Gott stirbt nicht."
+      },
+      "source_line_ids": [
+        "bacmeister_row_01"
+      ]
+    },
+    {
+      "id": "u02",
+      "source": "Mē̱rdṳ́m é̱meri yai qílmu.",
+      "translations": {
+        "tr": "İnsanın ömrü kısadır.",
+        "en": "A human being's life is short.",
+        "de": "Der Mensch lebt nicht lange."
+      },
+      "source_line_ids": [
+        "bacmeister_row_02"
+      ]
+    },
+    {
+      "id": "u03",
+      "source": "Daíke eílāne (eílekāni) χóe zāf sinén’a.",
+      "translations": {
+        "tr": "Anne çocuklarını çok sever.",
+        "en": "The mother loves her children very much.",
+        "de": "Die Mutter liebt ihre Kinder sehr."
+      },
+      "source_line_ids": [
+        "bacmeister_row_03"
+      ]
+    },
+    {
+      "id": "u04",
+      "source": "T̮íd̮e̱ yai zāf šid é̱stu.",
+      "translations": {
+        "tr": "Göğüslerinde çok süt vardır.",
+        "en": "She has much milk in her breasts.",
+        "de": "Sie hat viel Milch in den Brüsten."
+      },
+      "source_line_ids": [
+        "bacmeister_row_04"
+      ]
+    },
+    {
+      "id": "u05",
+      "source": "Myẹ̄́rde yai h̔as kén’u.",
+      "translations": {
+        "tr": "Kocası onu sever.",
+        "en": "Her husband loves her.",
+        "de": "Ihr Mann liebt sie."
+      },
+      "source_line_ids": [
+        "bacmeister_row_05"
+      ]
+    },
+    {
+      "id": "u06",
+      "source": "Ā́ya d̮éni hé̱mle̱ya.",
+      "translations": {
+        "tr": "Bu kadın hamiledir.",
+        "en": "This woman is pregnant.",
+        "de": "Diese Frau ist schwanger. [Die deutsche Vorlage sagt „war schwanger“; Lerch vermerkt für die Übersetzung „ist“.]"
+      },
+      "source_line_ids": [
+        "bacmeister_row_06"
+      ]
+    },
+    {
+      "id": "u07",
+      "source": "Še̱š rṓd̮e yau lād̮ ārd.",
+      "translations": {
+        "tr": "Altı gün önce bir oğul doğurdu.",
+        "en": "Six days ago she gave birth to a son.",
+        "de": "Vor sechs Tagen hat sie einen Sohn geboren."
+      },
+      "source_line_ids": [
+        "bacmeister_row_07"
+      ]
+    },
+    {
+      "id": "u08",
+      "source": "Dáh̔a ńe wé̱ša.",
+      "translations": {
+        "tr": "Hâlâ hastadır.",
+        "en": "She is still sick.",
+        "de": "Sie ist noch krank."
+      },
+      "source_line_ids": [
+        "bacmeister_row_08"
+      ]
+    },
+    {
+      "id": "u09",
+      "source": "Keína yai h̔e̱t rúeništa bermén’a.",
+      "translations": {
+        "tr": "Kızı yanında oturur ve ağlar.",
+        "en": "Her daughter sits beside her and cries.",
+        "de": "Ihre Tochter sitzt bei ihr und weint."
+      },
+      "source_line_ids": [
+        "bacmeister_row_09"
+      ]
+    },
+    {
+      "id": "u10",
+      "source": "Lā́d̮e t̮íd̮e ńe wén’u.",
+      "translations": {
+        "tr": "Çocuk emmek istemez.",
+        "en": "The child does not want to suckle.",
+        "de": "Das Kind will nicht saugen."
+      },
+      "source_line_ids": [
+        "bacmeister_row_10"
+      ]
+    },
+    {
+      "id": "u11",
+      "source": "Keína hé̱m’a pai ńe šuén’a.",
+      "translations": {
+        "tr": "Kız henüz yürüyemez.",
+        "en": "The girl cannot yet walk.",
+        "de": "Das Mädchen kann noch nicht gehen."
+      },
+      "source_line_ids": [
+        "bacmeister_row_11"
+      ]
+    },
+    {
+      "id": "u12",
+      "source": "Yau sé̱re di̥ ā́šme bía.",
+      "translations": {
+        "tr": "Bir yıl iki ay önce doğdu.",
+        "en": "She was born one year and two months ago.",
+        "de": "Sie ist vor einem Jahre und zwei Monaten geboren."
+      },
+      "source_line_ids": [
+        "bacmeister_row_12"
+      ]
+    },
+    {
+      "id": "u13",
+      "source": "Ḗ̱n’ie t̮ehér hé̱m’e lā́d̮i wé̱ši.",
+      "translations": {
+        "tr": "Bu dört oğlanın hepsi sağlıklıdır.",
+        "en": "These four boys are all healthy.",
+        "de": "Diese vier Knaben sind alle gesund."
+      },
+      "source_line_ids": [
+        "bacmeister_row_13"
+      ]
+    },
+    {
+      "id": "u14",
+      "source": "Yau ve̱rī́e vāz dāmu, aúe díene perén’u (kai kén’u), aúe h̔irī́ne lauk vā́nu, aúe t̮eherī́ne h̔o̤wén’u.",
+      "translations": {
+        "tr": "Birincisi koşar, ikincisi zıplar, üçüncüsü şarkı söyler, dördüncüsü güler.",
+        "en": "The first runs, the second jumps, the third sings, the fourth laughs.",
+        "de": "Der erste läuft, der zweite springt, der dritte singt, der vierte lacht."
+      },
+      "source_line_ids": [
+        "bacmeister_row_14"
+      ]
+    },
+    {
+      "id": "u15",
+      "source": "Ḗ̱n’oe me̱rdúm t̮i̥mi yai (d̮ai) kṓri.",
+      "translations": {
+        "tr": "Bu adam kördür.",
+        "en": "This man is blind.",
+        "de": "Dieser Mann ist blind."
+      },
+      "source_line_ids": [
+        "bacmeister_row_15"
+      ]
+    },
+    {
+      "id": "u16",
+      "source": "D̮éniai yai (d̮ai) ké̱ra.",
+      "translations": {
+        "tr": "Karısı sağırdır.",
+        "en": "His wife is deaf.",
+        "de": "Seine Frau ist taub."
+      },
+      "source_line_ids": [
+        "bacmeister_row_16"
+      ]
+    },
+    {
+      "id": "u17",
+      "source": "Vé̱ngi me̱ (Sé̱ki ma vā́d̮i) ńéšna wén’a.",
+      "translations": {
+        "tr": "Konuştuğumuzu duymaz.",
+        "en": "She does not hear that we are speaking.",
+        "de": "Sie hört nicht, dass wir reden."
+      },
+      "source_line_ids": [
+        "bacmeister_row_17"
+      ]
+    },
+    {
+      "id": "u18",
+      "source": "Beraí tú’e pṳ́reš neiyén’u.",
+      "translations": {
+        "tr": "Erkek kardeşin hapşırıyor.",
+        "en": "Your brother sneezes.",
+        "de": "Dein Bruder niest."
+      },
+      "source_line_ids": [
+        "bacmeister_row_18"
+      ]
+    },
+    {
+      "id": "u19",
+      "source": "Wai tú’e rā kaúta.",
+      "translations": {
+        "tr": "Kız kardeşin uyuyor (çeviride: \"uyuyordu\").",
+        "en": "Your sister is sleeping (in the translation: \"slept\").",
+        "de": "Deine Schwester schläft (in d. Uebers. \"schlief.\")."
+      },
+      "source_line_ids": [
+        "bacmeister_row_19"
+      ]
+    },
+    {
+      "id": "u20",
+      "source": "Baúki ši̥má h̔ayaú rú’eništu.",
+      "translations": {
+        "tr": "Babanız uyanıktır.",
+        "en": "Your father is awake.",
+        "de": "Euer Vater ist wach."
+      },
+      "source_line_ids": [
+        "bacmeister_row_20"
+      ]
+    },
+    {
+      "id": "u21",
+      "source": "Tā́neki wén’u.",
+      "translations": {
+        "tr": "Çok az yer ve içer.",
+        "en": "He eats and drinks very little.",
+        "de": "Er isst und trinkt (sehr) wenig."
+      },
+      "source_line_ids": [
+        "bacmeister_row_21"
+      ]
+    },
+    {
+      "id": "u22",
+      "source": "Ziṅd̮ h̔a myā́ne súrotide.",
+      "translations": {
+        "tr": "Burun yüzün ortasındadır.",
+        "en": "The nose is in the middle of the face.",
+        "de": "Die Nase ist in der Mitte des Gesichts."
+      },
+      "source_line_ids": [
+        "bacmeister_row_22"
+      ]
+    },
+    {
+      "id": "u23",
+      "source": "Di̥ língi mā é̱sti, hérgu dé̱sti mā́de pāṅd̮ ingíšti é̱sti.",
+      "translations": {
+        "tr": "İki ayağımız ve her elde beş parmağımız vardır.",
+        "en": "We have two feet and five fingers on each hand.",
+        "de": "Wir haben zwei Füsse und an jeder Hand fünf Finger."
+      },
+      "source_line_ids": [
+        "bacmeister_row_23"
+      ]
+    },
+    {
+      "id": "u24",
+      "source": "Γí̥ži̥k sé̱rede yén’u.",
+      "translations": {
+        "tr": "Saç başta çıkar.",
+        "en": "Hair grows on the head.",
+        "de": "Die Haare wachsen auf dem Kopfe."
+      },
+      "source_line_ids": [
+        "bacmeister_row_24"
+      ]
+    },
+    {
+      "id": "u25",
+      "source": "Dendā́ni zuā́ṅ h̔a fé̱kde.",
+      "translations": {
+        "tr": "Dil ve dişler ağızdadır.",
+        "en": "The tongue and the teeth are in the mouth.",
+        "de": "Die Zunge und die Zähne sind in dem Munde."
+      },
+      "source_line_ids": [
+        "bacmeister_row_25"
+      ]
+    },
+    {
+      "id": "u26",
+      "source": "Dé̱stu rā́št qóatu sei dé̱sti t̮é̱pi.",
+      "translations": {
+        "tr": "Sağ kol soldan daha güçlüdür.",
+        "en": "The right arm is stronger than the left.",
+        "de": "Der rechte Arm ist stärker als der linke."
+      },
+      "source_line_ids": [
+        "bacmeister_row_26"
+      ]
+    },
+    {
+      "id": "u27",
+      "source": "Yau múye dé̱rga bāryéka.",
+      "translations": {
+        "tr": "Bir kıl uzun ve incedir.",
+        "en": "A hair is long and thin.",
+        "de": "Ein Haar ist lang und dünn."
+      },
+      "source_line_ids": [
+        "bacmeister_row_27"
+      ]
+    },
+    {
+      "id": "u28",
+      "source": "Gṓ’eni sū́ra.",
+      "translations": {
+        "tr": "Kan kırmızıdır.",
+        "en": "Blood is red.",
+        "de": "Das Blut ist roth."
+      },
+      "source_line_ids": [
+        "bacmeister_row_28"
+      ]
+    },
+    {
+      "id": "u29",
+      "source": "Éstei sei ké̱ri sā́γí.",
+      "translations": {
+        "tr": "Kemikler taş gibi serttir.",
+        "en": "Bones are hard like stone.",
+        "de": "Die Knochen sind hart wie Stein."
+      },
+      "source_line_ids": [
+        "bacmeister_row_29"
+      ]
+    },
+    {
+      "id": "u30",
+      "source": "Māsé̱de t̮ími é̱sti, gṓšye t̮íni.",
+      "translations": {
+        "tr": "Balığın gözleri vardır ama kulakları yoktur.",
+        "en": "The fish has eyes, but no ears.",
+        "de": "Der Fisch hat Augen, aber keine Ohren."
+      },
+      "source_line_ids": [
+        "bacmeister_row_30"
+      ]
+    },
+    {
+      "id": "u31",
+      "source": "Ḗ̱n’oe teir hyedíki ferén’u.",
+      "translations": {
+        "tr": "Bu kuş yavaş uçar.",
+        "en": "This bird flies slowly.",
+        "de": "Dieser Vogel fliegt langsam."
+      },
+      "source_line_ids": [
+        "bacmeister_row_31"
+      ]
+    },
+    {
+      "id": "u32",
+      "source": "Nišén’u ā́rdda.",
+      "translations": {
+        "tr": "Yere iner.",
+        "en": "It comes down to the ground.",
+        "de": "Er lässt sich zur Erde nieder."
+      },
+      "source_line_ids": [
+        "bacmeister_row_32"
+      ]
+    },
+    {
+      "id": "u33",
+      "source": "Pé̱li teíride mú’i siaí é̱sti.",
+      "translations": {
+        "tr": "Kanatlarında siyah tüyler vardır.",
+        "en": "It has black feathers in its wings.",
+        "de": "Er hat schwarze Federn in den Flügeln."
+      },
+      "source_line_ids": [
+        "bacmeister_row_33"
+      ]
+    },
+    {
+      "id": "u34",
+      "source": "Dā́rede vé̱lgō té̱ze, gíli hi̥šni é̱sti.",
+      "translations": {
+        "tr": "Ağacın yeşil yaprakları ve kalın dalları vardır.",
+        "en": "The tree has green leaves and thick branches.",
+        "de": "Der Baum hat grüne Blätter und dicke Aeste."
+      },
+      "source_line_ids": [
+        "bacmeister_row_34"
+      ]
+    },
+    {
+      "id": "u35",
+      "source": "Ē̱no’e teir nā́kure bāryék é̱sta, bṓ’et̮e qí̥lma é̱sta.",
+      "translations": {
+        "tr": "Bu kuşun sivri gagası ve kısa kuyruğu vardır.",
+        "en": "This bird has a pointed beak and a short tail.",
+        "de": "Dieser Vogel hat einen spitzen Schnabel und kurzen Schwanz."
+      },
+      "source_line_ids": [
+        "bacmeister_row_35"
+      ]
+    },
+    {
+      "id": "u36",
+      "source": "Halyẹ̄́ne wẹ̄́da h̔áki sepī́ é̱sti.",
+      "translations": {
+        "tr": "Yuvasında beyaz yumurtaları vardır.",
+        "en": "In its nest it has white eggs.",
+        "de": "In seinem Neste hat er weisse Eier."
+      },
+      "source_line_ids": [
+        "bacmeister_row_36"
+      ]
+    },
+    {
+      "id": "u37",
+      "source": "Adí̥r ve̱šén’u, du, qí̥le, ko̤mṳ́r me̱ vién’i.",
+      "translations": {
+        "tr": "Ateş yanar: dumanı, alevi ve kömürleri görürüz.",
+        "en": "The fire burns: we see the smoke, the flame, and the coals.",
+        "de": "Das Feuer brennt: wir sehen den Rauch, die Flamme und die Kohlen."
+      },
+      "source_line_ids": [
+        "bacmeister_row_37"
+      ]
+    },
+    {
+      "id": "u38",
+      "source": "É̱n’a lā́de aúke lé̱ze šuén’a.",
+      "translations": {
+        "tr": "Nehirdeki su hızlı akar.",
+        "en": "The water in the river flows quickly.",
+        "de": "Das Wasser in dem Flusse fliesst geschwinde."
+      },
+      "source_line_ids": [
+        "bacmeister_row_38"
+      ]
+    },
+    {
+      "id": "u39",
+      "source": "Āšme e̱stárera pī́la, rṓd̮era qí̮d̮a.",
+      "translations": {
+        "tr": "Ay yıldızlardan büyüktür ve güneşten küçüktür.",
+        "en": "The moon is larger than the stars and smaller than the sun.",
+        "de": "Der Mond ist grösser als die Sterne und kleiner als die Sonne."
+      },
+      "source_line_ids": [
+        "bacmeister_row_39"
+      ]
+    },
+    {
+      "id": "u40",
+      "source": "Vizyẹ̄́ri šā́nde varán varā́.",
+      "translations": {
+        "tr": "Dün akşam yağmur yağdı.",
+        "en": "Yesterday evening rain fell.",
+        "de": "Gestern Abend fiel Regen."
+      },
+      "source_line_ids": [
+        "bacmeister_row_40"
+      ]
+    },
+    {
+      "id": "u41",
+      "source": "Eíru sebá me múndiai aíšma fátma día.",
+      "translations": {
+        "tr": "Bu sabah gökkuşağını gördüm.",
+        "en": "This morning I saw the rainbow.",
+        "de": "Heute Morgen sah ich den Regenbogen."
+      },
+      "source_line_ids": [
+        "bacmeister_row_41"
+      ]
+    },
+    {
+      "id": "u42",
+      "source": "Šau tārī́u, rōd̮ rṓštu.",
+      "translations": {
+        "tr": "Gece karanlıktır, gündüz aydınlıktır.",
+        "en": "At night it is dark and by day bright.",
+        "de": "Des Nachts ist es finster und am Tage hell."
+      },
+      "source_line_ids": [
+        "bacmeister_row_42"
+      ]
+    },
+    {
+      "id": "u43",
+      "source": "Mā kā́li bekí zazád̮e.",
+      "translations": {
+        "tr": "Zazaca konuşuyoruz.",
+        "en": "We speak Zaza.",
+        "de": "Wir sprechen Zaza. [Lerchs gemeinsame deutsche Vorlage: „Wir reden kurdisch (Kurmändi-Zazä)“.]"
+      },
+      "source_line_ids": [
+        "bacmeister_row_43"
+      ]
+    },
+    {
+      "id": "u44",
+      "source": "Ši̥mā zazád̮a záni?",
+      "translations": {
+        "tr": "Zazaca konuşmayı biliyor musunuz?",
+        "en": "Do you know how to speak Zaza?",
+        "de": "Könnt ihr Zaza sprechen? [Lerchs gemeinsame deutsche Vorlage: „Versteht ihr kurdisch (Kurmändi-Zazä) zu sprechen?“]"
+      },
+      "source_line_ids": [
+        "bacmeister_row_44"
+      ]
+    }
+  ],
+  "editorial_notes": {
+    "editorial_note_tr": "Zaza cümleleri modern yazıma çevrilmeden, Lerch'in tarihî fonetik yazımıyla verilir. Not satırları, tanık farklarını veya kaynakta görünen muhtemel yazım/transkripsiyon hatalarını belirtir. Okuma çevirisi Zaza sütununu verir; tarihî Almanca soru/örnek metni satır arası görünümde korunur. 3. cümlede zaf ('çok') tamamlanmıştır. 6. cümlede Zazacadaki 'hamiledir', Almanca örnekteki 'hamileydi'den ayrılır; 19. cümlede Lerch'in uyuyor/uyuyordu ayrımı korunur. 21. cümlede 'yer ve içer' Almanca örneği izler; Zazacada yalnız wén’u vardır. 43-44. Almanca okuma cümlelerinde iki dil sütununun ortak adı yerine Zaza denir. Bu farklar birebir sözcük karşılıkları olarak değerlendirilmemelidir.",
+    "editorial_note_en": "The Zaza sentences are given in Lerch's historical phonetic writing, not normalized to modern Zazaki orthography. Notes mark witness differences or probable spelling/transcription errors visible in the source. The reader represents the Zaza column; the historical German elicitation prompt remains in the interlinear view. Sentence 3 restores zaf ('very much'). Sentence 6 distinguishes 'is pregnant' from the German prompt 'was pregnant'; sentence 19 retains Lerch's sleeps/slept distinction. In sentence 21, 'eats and drinks' follows the German prompt, while the Zaza has only wén’u. German reader sentences 43-44 now specify Zaza instead of the shared label for both language columns. These differences are not exact word-for-word equivalents.",
+    "editorial_note_de": "Die Zaza-Sätze werden in Lerchs historischer phonetischer Schreibung wiedergegeben, nicht in moderne Zazaki-Orthographie normalisiert. Notizen markieren Zeugenunterschiede oder wahrscheinliche Schreib- bzw. Transkriptionsfehler in der Quelle. Die Lesefassung gibt die Zaza-Spalte wieder; die historische deutsche Aufgabenformulierung bleibt in der Interlinearansicht erhalten. Bei Satz 3 ist zaf ('sehr') ergänzt. Satz 6 unterscheidet 'ist schwanger' von der deutschen Vorlage 'war schwanger'; Satz 19 bewahrt Lerchs Hinweis auf schläft/schlief. In Satz 21 folgt 'isst und trinkt' der deutschen Vorlage, während im Zaza nur wén’u steht. Satz 43-44 nennen deshalb im Reader Zaza statt der gemeinsamen Bezeichnung für beide Sprachspalten. Diese Unterschiede dürfen nicht als genaue Wort-für-Wort-Entsprechungen ausgewertet werden."
+  }
+}

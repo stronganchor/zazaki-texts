@@ -4,7 +4,7 @@ Allah ölmez.
 
 İnsanın ömrü kısadır.
 
-Anne çocuklarını sever.
+Anne çocuklarını çok sever.
 
 Göğüslerinde çok süt vardır.
 

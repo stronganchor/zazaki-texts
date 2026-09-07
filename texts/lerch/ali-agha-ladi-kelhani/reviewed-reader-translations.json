@@ -1,0 +1,621 @@
+{
+  "schema": "zazaki_texts.reviewed_reader_translations.v1",
+  "lesson_id": "lerch-ali-agha-ladi-kelhani",
+  "review": {
+    "date": "2026-09-07",
+    "scope": "All remaining reader units in German, English and Turkish; original source, tokens and assets preserved.",
+    "source": "Lerch German Abth. I, all corresponding physical pages; Russian images for targeted divergences.",
+    "source_sha256": "f5b6a3fc3f6357ed6608c4aab7e35b8c27d7292868b0614a1aa8a176a04df2cc",
+    "evidence": "Language/Z/artifacts/autonomous-curation-20260907/lerch/REPORT.md",
+    "limitations": "Working reader; disclosed witness disagreements remain held. Frozen historical German prompts/OCR are not rewritten."
+  },
+  "source_lines": [
+    {
+      "id": "a01_l01",
+      "zazaki": "Ali ağa laci Kêlhani mirêy na'hêy Karbegani. Namêy daway"
+    },
+    {
+      "id": "a01_l02",
+      "zazaki": "Ali ağay Narbyêş. Ali ağa çêhêr dawang da pyêrû, hiris û çêhêr"
+    },
+    {
+      "id": "a01_l03",
+      "zazaki": "kişti. Çawdi Ali ağay çi nyêbê, çewi desti Ali ağay nyêgêrawt. Ali"
+    },
+    {
+      "id": "a01_l04",
+      "zazaki": "ağay kêyê xoê bar kêrd, şê Syêraçûrê. Hiris û şêş roci vênert"
+    },
+    {
+      "id": "a01_l05",
+      "zazaki": "Syêraçûrêdê. Hiris û çêhêr dewi Karbegani, hiris û çêhêr dewi"
+    },
+    {
+      "id": "a01_l06",
+      "zazaki": "Sivani amêy pyêser, mêşore kerd, ağalêrani Sivani, Qasim ağa"
+    },
+    {
+      "id": "a01_l07",
+      "zazaki": "Karbêgani, 'Hasan ağa Weşini amêy pyêser va kê: ma şyêri kêy"
+    },
+    {
+      "id": "a01_l08",
+      "zazaki": "Ali ağay byari daw. Qasim ağa va kê: ma Ali ağay bê'hapêyni, ma"
+    },
+    {
+      "id": "a01_l09",
+      "zazaki": "şawê venga êskêrê xoê di, eskêri dawang wa pyêrû bêrû pyêser,"
+    },
+    {
+      "id": "a01_l10",
+      "zazaki": "ma şawê şyêri Ali ağay çêhêr hemê lacana ma bıkşi. 'Hasan ağay"
+    },
+    {
+      "id": "a02_l01",
+      "zazaki": "Weşini va kê: rınd bênû, ma şyêri Ali ağay byari bıkşi. Ağalê-"
+    },
+    {
+      "id": "a02_l02",
+      "zazaki": "rani Sivani va kê: ma qarış nyêbêni. Qasim ağay va kê: şümari"
+    },
+    {
+      "id": "a02_l03",
+      "zazaki": "lazim nyû. Ağalêri Sivani ci giryay şi kêy xoê. Qasim ağa, 'Hasan"
+    },
+    {
+      "id": "a02_l04",
+      "zazaki": "ağa enyê wirdi şi, kêy Ali ağay ard dawê, çêhêr hemê lacana"
+    },
+    {
+      "id": "a02_l05",
+      "zazaki": "berdi, kêrdi wadey Mê'hmêdi 'Hêndani. Qasim ağay şawê 'habêrê"
+    },
+    {
+      "id": "a02_l06",
+      "zazaki": "erşawûtê dawana va kê: şıma çê vênerti? ma şyêri Ali ağay bıkşi."
+    },
+    {
+      "id": "a02_l07",
+      "zazaki": "Dewi pyêrû amêy pyêsêr, şawê werişti, çêhêr sêy eskêr vıcyay, amêy"
+    },
+    {
+      "id": "a02_l08",
+      "zazaki": "Qasim ağa 'hêt. Qasim ağa werişt bê aspar, kawta eskêri vêr,"
+    },
+    {
+      "id": "a02_l09",
+      "zazaki": "amêy Ğêytê, Ğêytêra sêytê gêrawt, bi pangd sêytê şi Ali ağay 'het."
+    },
+    {
+      "id": "a02_l10",
+      "zazaki": "Qasim ağa şi Ali ağay hetê ronişt va kê: ağa, ez ama twêra ric"
+    },
+    {
+      "id": "a02_l11",
+      "zazaki": "amênêt kêna. Ali ağa va kê: ağa, mê me'hêpinê, ez çêkanê xoê"
+    },
+    {
+      "id": "a02_l12",
+      "zazaki": "nyêdana. Qasim ağay va kê: metêrsê, ez twêra xainê nyêkêna. Ali"
+    },
+    {
+      "id": "a02_l13",
+      "zazaki": "ağa va kê: tê xaini, ez çêkani xoê nyêdana twê. Qasim ağay swend"
+    },
+    {
+      "id": "a02_l14",
+      "zazaki": "wênd. Ali ağay çêki xoê çêhêr hemê lacana xoê aryê kerdi, day Qasim"
+    },
+    {
+      "id": "a03_l01",
+      "zazaki": "ağayra. Qasim ağay gêrawt. A'hmêd laci Ali ağay va kê: 'halo, çêkani"
+    },
+    {
+      "id": "a03_l02",
+      "zazaki": "ma mebêrê, tê xaini, bawki mê serêdê aqıl çinyû, rocêy ramazanyû,"
+    },
+    {
+      "id": "a03_l03",
+      "zazaki": "bawni, xalo, tê çêkani ma bêni, pêynıdê tê xain vêci, ez twê kı-"
+    },
+    {
+      "id": "a03_l04",
+      "zazaki": "sêna. Qasim ağa va kê A'hmêdira: warêza, metêrsê. A'hmêdi va"
+    },
+    {
+      "id": "a03_l05",
+      "zazaki": "kê: 'halo xancêray mê bıdê, ez zana, tê xaini, byê ba'htêdê tı ma"
+    },
+    {
+      "id": "a03_l06",
+      "zazaki": "kişêni. 'Hali xancêray A'hmêdi nyêday cê. 'Hal şê tebêr, eskêri"
+    },
+    {
+      "id": "a03_l07",
+      "zazaki": "xora va: mevindi, çêki Ali ağay çêhêr hemê lacan mê gêrawt, ez"
+    },
+    {
+      "id": "a03_l08",
+      "zazaki": "ama tebêr, mevindi, bêr bışikni, şyêri zerê, Ali ağay çêhêr hemê"
+    },
+    {
+      "id": "a03_l09",
+      "zazaki": "lacan bıkşi; hêma dês û hêyşti merdwomi ğaribi yênê 'hetê esti,"
+    },
+    {
+      "id": "a03_l10",
+      "zazaki": "yênêra ve meki. Eskêri Qasim ağay bêr şêkit, Qasim ağay kawta"
+    },
+    {
+      "id": "a03_l11",
+      "zazaki": "ver, veng da va kê A'hmêdira: warêza, ez amêya, tı kû sera"
+    },
+    {
+      "id": "a03_l12",
+      "zazaki": "şyêri, ez serêy twê ena gêlankê wêna. A'hmêdi veng da va kê:"
+    },
+    {
+      "id": "a03_l13",
+      "zazaki": "Alah izmê mê bıdû, ez twê veri êyxoê kışêna. 'Hal şi kê A'hmêdi"
+    },
+    {
+      "id": "a03_l14",
+      "zazaki": "bıkşû. A'hmêd awnya dyêsi wedi, yaw şıbakê 'ha dyêsê wedidê, desti"
+    },
+    {
+      "id": "a04_l01",
+      "zazaki": "xoê berd zerêy şibakê, yaw xancêri zerêy şıbakêdê di gêrawtê vera,"
+    },
+    {
+      "id": "a04_l02",
+      "zazaki": "day 'hali bınê çici raştirû. 'Hal kawt. A'hmêdi xancêri 'halira vetê,"
+    },
+    {
+      "id": "a04_l03",
+      "zazaki": "A'hmêdi Êysan kişt, 'Hasani Kalan kişt. Kalme gna A'hmêdi pêy"
+    },
+    {
+      "id": "a04_l04",
+      "zazaki": "çimyirû, goêni byê A'hmêdi çimi. A'hmêd hyêrs bê, 'hawt teni pêy"
+    },
+    {
+      "id": "a04_l05",
+      "zazaki": "aya xancêri kişti. A'hmêd kişya. 'Hiryê heme bêrai A'hmêdi bawkê"
+    },
+    {
+      "id": "a04_l06",
+      "zazaki": "yê kişti. Dês û 'hêyşt teni merdümi ğaribi kişti. Eskêr ağayra şê,"
+    },
+    {
+      "id": "a04_l07",
+      "zazaki": "hêrgû kês şi kêy xoê. Cênazay Ali ağay, çêhêr heme lacana, dês û"
+    },
+    {
+      "id": "a04_l08",
+      "zazaki": "hêyşt merdümi ğaribana pyêrû mêndi wadedê. Soba Mêlay Rêsa"
+    },
+    {
+      "id": "a04_l09",
+      "zazaki": "veng da va kê mêla Qasimi Dêsmûncira: byêri cênazay Ali ağay"
+    },
+    {
+      "id": "a04_l10",
+      "zazaki": "aylana dês û hêyşt teni merdümi ğaribana 'hetya byêri beri we-"
+    },
+    {
+      "id": "a04_l11",
+      "zazaki": "dari. Mêla Qasim werişt Dêsmûnira, Mêmêd ağa werişt Ğêytêra,"
+    },
+    {
+      "id": "a04_l12",
+      "zazaki": "Ramêdan ağay werişt Mêrzyêlêra, şi, leşi Ali ağay lacana dês û"
+    },
+    {
+      "id": "a04_l13",
+      "zazaki": "hêyşt merdûmi ğaribana gêrawti ardi berdi wederti."
+    }
+  ],
+  "reading_units": [
+    {
+      "id": "u001_01",
+      "source": "Ali ağa laci Kêlhani mirêy na'hêy Karbegani.",
+      "translations": {
+        "tr": "Kelhan'ın oğlu Ali Ağa Karbegan nahiyesinin miriydi.",
+        "en": "Ali Agha, son of Kelhan, was the mir of the Karbegan district.",
+        "de": "Ali Agha, Kelhans Sohn, war Mir des Bezirks Karbegan."
+      }
+    },
+    {
+      "id": "u001_02",
+      "source": "Namêy daway Ali ağay Narbyêş.",
+      "translations": {
+        "tr": "Ali Ağa'nın köyünün adı Narbêş'ti.",
+        "en": "The name of Ali Agha's village was Narbyesh.",
+        "de": "Der Name von Ali Aghas Dorf war Narbyesh."
+      }
+    },
+    {
+      "id": "u002_01",
+      "source": "Ali ağa çêhêr dawang da pyêrû, hiris û çêhêr kişti.",
+      "translations": {
+        "tr": "Ali Ağa dört köye saldırdı ve otuz dört kişiyi öldürdü.",
+        "en": "Ali Agha attacked four villages and killed thirty-four people.",
+        "de": "Ali Agha überfiel vier Dörfer und tötete vierunddreißig Menschen."
+      }
+    },
+    {
+      "id": "u002_02",
+      "source": "Çawdi Ali ağay çi nyêbê, çewi desti Ali ağay nyêgêrawt.",
+      "translations": {
+        "tr": "Ali Ağa'ya hiçbir şey olmadı; kimsenin eli Ali Ağa'ya değmedi.",
+        "en": "Nothing happened to Ali Agha; no one's hand touched Ali Agha.",
+        "de": "Ali Agha geschah nichts; niemand legte Hand an Ali Agha."
+      }
+    },
+    {
+      "id": "u003_01",
+      "source": "Ali ağay kêyê xoê bar kêrd, şê Syêraçûrê.",
+      "translations": {
+        "tr": "Ali Ağa evini toplayıp Syeraçur'a gitti.",
+        "en": "Ali Agha packed up his household and went to Syerachur.",
+        "de": "Ali Agha packte sein Haus zusammen und ging nach Syerachur."
+      }
+    },
+    {
+      "id": "u003_02",
+      "source": "Hiris û şêş roci vênert Syêraçûrêdê.",
+      "translations": {
+        "tr": "Syeraçur'da otuz altı gün kaldı.",
+        "en": "He stayed in Syerachur for thirty-six days.",
+        "de": "In Syerachur blieb er sechsunddreißig Tage."
+      }
+    },
+    {
+      "id": "u004_01",
+      "source": "Hiris û çêhêr dewi Karbegani, hiris û çêhêr dewi Sivani amêy pyêser, mêşore kerd, ağalêrani Sivani, Qasim ağa Karbêgani, 'Hasan ağa Weşini amêy pyêser va kê: ma şyêri kêy Ali ağay byari daw.",
+      "translations": {
+        "tr": "Karbegan'ın otuz dört köyü ve Sivan'ın otuz dört köyü bir araya gelip meşveret etti; Sivan ihtiyarları, Karbeganlı Qasım Ağa ve Weşinli Hasan Ağa bir araya gelip dedi ki: 'Ali Ağa'nın evine saldıralım.'",
+        "en": "Thirty-four villages of Karbegan and thirty-four villages of Sivan came together and held counsel; the elders of Sivan, Qasim Agha of Karbegan, and Hasan Agha of Weshin came together and said: 'Let us attack Ali Agha's house.'",
+        "de": "Vierunddreißig Dörfer von Karbegan und vierunddreißig Dörfer von Sivan kamen zusammen und hielten Rat; die Ältesten von Sivan, Qasim Agha von Karbegan und Hasan Agha von Weshin kamen zusammen und sagten: 'Lasst uns Ali Aghas Haus überfallen.'"
+      }
+    },
+    {
+      "id": "u004_02",
+      "source": "Qasim ağa va kê: ma Ali ağay bê'hapêyni, ma şawê venga êskêrê xoê di, eskêri dawang wa pyêrû bêrû pyêser, ma şawê şyêri Ali ağay çêhêr hemê lacana ma bıkşi.",
+      "translations": {
+        "tr": "Qasım Ağa dedi ki: 'Ali Ağa'yı kandıracağız; gece ordumuzu çağıracağız, köylerin askerleri hep toplansın, gece gidip Ali Ağa'yı ve dört oğlunun hepsini öldürelim.'",
+        "en": "Qasim Agha said: 'We will deceive Ali Agha; at night we will call our army, let the village soldiers all gather, and at night we will go kill Ali Agha and all four of his sons.'",
+        "de": "Qasim Agha sagte: 'Wir werden Ali Agha täuschen; in der Nacht rufen wir unser Heer, die Soldaten der Dörfer sollen alle zusammenkommen, und in der Nacht gehen wir und töten Ali Agha und alle seine vier Söhne.'"
+      }
+    },
+    {
+      "id": "u005_01",
+      "source": "'Hasan ağay Weşini va kê: rınd bênû, ma şyêri Ali ağay byari bıkşi.",
+      "translations": {
+        "tr": "Weşinli Hasan Ağa dedi ki: 'İyi olur, gidip Ali Ağa'yı öldürelim.'",
+        "en": "Hasan Agha of Weshin said: 'That will be good; let us go kill Ali Agha.'",
+        "de": "Hasan Agha von Weshin sagte: 'Das ist gut; gehen wir und töten Ali Agha.'"
+      }
+    },
+    {
+      "id": "u005_02",
+      "source": "Ağalêrani Sivani va kê: ma qarış nyêbêni.",
+      "translations": {
+        "tr": "Sivan ihtiyarları dedi ki: 'Biz karışmayız.'",
+        "en": "The elders of Sivan said: 'We will not get involved.'",
+        "de": "Die Ältesten von Sivan sagten: 'Wir mischen uns nicht ein.'"
+      }
+    },
+    {
+      "id": "u006_01",
+      "source": "Qasim ağay va kê: şümari lazim nyû.",
+      "translations": {
+        "tr": "Qasım Ağa dedi ki: 'Size ihtiyaç yok.'",
+        "en": "Qasim Agha said: 'We have no need of you.'",
+        "de": "Qasim Agha sagte: 'Wir brauchen euch nicht.'"
+      }
+    },
+    {
+      "id": "u006_02",
+      "source": "Ağalêri Sivani ci giryay şi kêy xoê.",
+      "translations": {
+        "tr": "Sivan ihtiyarları çekilip evlerine gittiler.",
+        "en": "The elders of Sivan withdrew and went home.",
+        "de": "Die Ältesten von Sivan zogen sich zurück und gingen nach Hause."
+      }
+    },
+    {
+      "id": "u007_01",
+      "source": "Qasim ağa, 'Hasan ağa enyê wirdi şi, kêy Ali ağay ard dawê, çêhêr hemê lacana berdi, kêrdi wadey Mê'hmêdi 'Hêndani.",
+      "translations": {
+        "tr": "Qasım Ağa ile Hasan Ağa, ikisi, Ali Ağa'nın evine baskına gittiler; dört oğlunun hepsini götürüp Mehmed Hendani'nin odasına koydular.",
+        "en": "Qasim Agha and Hasan Agha, the two of them, went to raid Ali Agha's house; they took all four sons and put them in Mehmed Hendani's room.",
+        "de": "Qasim Agha und Hasan Agha, die beiden, gingen, um Ali Aghas Haus zu überfallen; sie nahmen alle vier Söhne mit und brachten sie in Mehmed Hendanis Zimmer."
+      }
+    },
+    {
+      "id": "u007_02",
+      "source": "Qasim ağay şawê 'habêrê erşawûtê dawana va kê: şıma çê vênerti?",
+      "translations": {
+        "tr": "Qasım Ağa gece köylere haber gönderip dedi ki: 'Niye bekliyorsunuz?'",
+        "en": "At night Qasim Agha sent word to the villages and said: 'Why are you waiting?'",
+        "de": "In der Nacht schickte Qasim Agha Nachricht in die Dörfer und sagte: 'Warum wartet ihr?'"
+      }
+    },
+    {
+      "id": "u008_01",
+      "source": "ma şyêri Ali ağay bıkşi.",
+      "translations": {
+        "tr": "'Ali Ağa'yı öldürmeye gidiyoruz.'",
+        "en": "'We are going to kill Ali Agha.'",
+        "de": "'Wir gehen, um Ali Agha zu töten.'"
+      }
+    },
+    {
+      "id": "u008_02",
+      "source": "Dewi pyêrû amêy pyêsêr, şawê werişti, çêhêr sêy eskêr vıcyay, amêy Qasim ağa 'hêt.",
+      "translations": {
+        "tr": "Köylerin hepsi toplandı; gece kalktılar, dört yüz asker çıktı ve Qasım Ağa'nın yanına geldi.",
+        "en": "All the villages gathered; they rose at night, four hundred soldiers came out and came to Qasim Agha's side.",
+        "de": "Alle Dörfer versammelten sich; in der Nacht standen sie auf, vierhundert Soldaten zogen aus und kamen zu Qasim Agha."
+      }
+    },
+    {
+      "id": "u009_01",
+      "source": "Qasim ağa werişt bê aspar, kawta eskêri vêr, amêy Ğêytê, Ğêytêra sêytê gêrawt, bi pangd sêytê şi Ali ağay 'het.",
+      "translations": {
+        "tr": "Qasım Ağa ata bindi, ordunun önüne geçti, Ğêytê'ye geldi, Ğêytê'den yüz kişi daha aldı ve beş yüz kişiyle Ali Ağa'nın yanına gitti.",
+        "en": "Qasim Agha mounted his horse, went before the army, came to Gheyte, took another hundred men from Gheyte, and with five hundred men went to Ali Agha.",
+        "de": "Qasim Agha stieg zu Pferd, zog vor dem Heer her, kam nach Gheyte, nahm von Gheyte noch hundert Mann und ging mit fünfhundert Mann zu Ali Agha."
+      }
+    },
+    {
+      "id": "u009_02",
+      "source": "Qasim ağa şi Ali ağay hetê ronişt va kê: ağa, ez ama twêra ric amênêt kêna.",
+      "translations": {
+        "tr": "Qasım Ağa Ali Ağa'nın yanına gitti, oturdu ve dedi ki: 'Ağa, senden bir ricada bulunmaya geldim.'",
+        "en": "Qasim Agha went to Ali Agha, sat down, and said: 'Agha, I have come to ask a favor of you.'",
+        "de": "Qasim Agha ging zu Ali Agha, setzte sich und sagte: 'Agha, ich bin gekommen, um dich um eine Gefälligkeit zu bitten.'"
+      }
+    },
+    {
+      "id": "u010_01",
+      "source": "Ali ağa va kê: ağa, mê me'hêpinê, ez çêkanê xoê nyêdana.",
+      "translations": {
+        "tr": "Ali Ağa dedi ki: 'Ağa, beni kandırma; silahlarımı sana vermem.'",
+        "en": "Ali Agha said: 'Agha, do not deceive me; I will not give you my weapons.'",
+        "de": "Ali Agha sagte: 'Agha, täusche mich nicht; ich gebe dir meine Waffen nicht.'"
+      }
+    },
+    {
+      "id": "u010_02",
+      "source": "Qasim ağay va kê: metêrsê, ez twêra xainê nyêkêna.",
+      "translations": {
+        "tr": "Qasım Ağa dedi ki: 'Korkma, sana hainlik etmem.'",
+        "en": "Qasim Agha said: 'Do not fear; I will not betray you.'",
+        "de": "Qasim Agha sagte: 'Fürchte dich nicht; ich werde dich nicht verraten.'"
+      }
+    },
+    {
+      "id": "u011_01",
+      "source": "Ali ağa va kê: tê xaini, ez çêkani xoê nyêdana twê.",
+      "translations": {
+        "tr": "Ali Ağa dedi ki: 'Sen hainsin; silahlarımı sana vermem.'",
+        "en": "Ali Agha said: 'You are a traitor; I will not give you my weapons.'",
+        "de": "Ali Agha sagte: 'Du bist ein Verräter; ich gebe dir meine Waffen nicht.'"
+      }
+    },
+    {
+      "id": "u011_02",
+      "source": "Qasim ağay swend wênd.",
+      "translations": {
+        "tr": "Qasım Ağa yemin etti.",
+        "en": "Qasim Agha swore an oath.",
+        "de": "Qasim Agha schwor einen Eid."
+      }
+    },
+    {
+      "id": "u012_01",
+      "source": "Ali ağay çêki xoê çêhêr hemê lacana xoê aryê kerdi, day Qasim ağayra.",
+      "translations": {
+        "tr": "Ali Ağa kendi silahlarını ve dört oğlunun silahlarını topladı, Qasım Ağa'ya verdi.",
+        "en": "Ali Agha gathered his own weapons and the weapons of all four of his sons and gave them to Qasim Agha.",
+        "de": "Ali Agha sammelte seine eigenen Waffen und die Waffen aller seiner vier Söhne und gab sie Qasim Agha."
+      }
+    },
+    {
+      "id": "u012_02",
+      "source": "Qasim ağay gêrawt.",
+      "translations": {
+        "tr": "Qasım Ağa onları aldı.",
+        "en": "Qasim Agha took them.",
+        "de": "Qasim Agha nahm sie."
+      }
+    },
+    {
+      "id": "u013_01",
+      "source": "A'hmêd laci Ali ağay va kê: 'halo, çêkani ma mebêrê, tê xaini, bawki mê serêdê aqıl çinyû, rocêy ramazanyû, bawni, xalo, tê çêkani ma bêni, pêynıdê tê xain vêci, ez twê kısêna.",
+      "translations": {
+        "tr": "Ali Ağa'nın oğlu Ahmed dedi ki: 'Dayı, silahlarımızı alma. Sen hainsin; babamın başında akıl yok, bugün Ramazan günüdür. Bak dayı, silahlarımızı alır da sonra hain olarak çıkarsan seni öldürürüm.'",
+        "en": "Ahmed, Ali Agha's son, said: 'Uncle, do not take our weapons. You are a traitor; there is no sense in my father's head, today is Ramadan. Look, uncle, if you take our weapons and then come out as a traitor, I will kill you.'",
+        "de": "Ahmed, Ali Aghas Sohn, sagte: 'Onkel, nimm unsere Waffen nicht. Du bist ein Verräter; im Kopf meines Vaters ist kein Verstand, heute ist Ramadan. Pass auf, Onkel, wenn du unsere Waffen nimmst und dann als Verräter hinausgehst, werde ich dich töten.'"
+      }
+    },
+    {
+      "id": "u013_02",
+      "source": "Qasim ağa va kê A'hmêdira: warêza, metêrsê.",
+      "translations": {
+        "tr": "Qasım Ağa Ahmed'e dedi ki: 'Yeğenim, korkma.'",
+        "en": "Qasim Agha said to Ahmed: 'Nephew, do not fear.'",
+        "de": "Qasim Agha sagte zu Ahmed: 'Neffe, fürchte dich nicht.'"
+      }
+    },
+    {
+      "id": "u014_01",
+      "source": "A'hmêdi va kê: 'halo xancêray mê bıdê, ez zana, tê xaini, byê ba'htêdê tı ma kişêni.",
+      "translations": {
+        "tr": "Ahmed dedi ki: 'Dayı, hançerimi ver; biliyorum, sen hainsin, dışarı çıkınca bizi öldüreceksin.'",
+        "en": "Ahmed said: 'Uncle, give me my dagger; I know you are a traitor, and when you go outside you will kill us.'",
+        "de": "Ahmed sagte: 'Onkel, gib mir meinen Dolch; ich weiß, du bist ein Verräter, und wenn du hinausgehst, wirst du uns töten.'"
+      }
+    },
+    {
+      "id": "u014_02",
+      "source": "'Hali xancêray A'hmêdi nyêday cê.",
+      "translations": {
+        "tr": "Dayısı Ahmed'e hançerini vermedi.",
+        "en": "His uncle did not give Ahmed his dagger.",
+        "de": "Sein Onkel gab Ahmed seinen Dolch nicht."
+      }
+    },
+    {
+      "id": "u015_01",
+      "source": "'Hal şê tebêr, eskêri xora va: mevindi, çêki Ali ağay çêhêr hemê lacan mê gêrawt, ez ama tebêr, mevindi, bêr bışikni, şyêri zerê, Ali ağay çêhêr hemê lacan bıkşi; hêma dês û hêyşti merdwomi ğaribi yênê 'hetê esti, yênêra ve meki.",
+      "translations": {
+        "tr": "Dayısı dışarı çıktı ve askerlerine dedi ki: 'Beklemeyin; Ali Ağa'nın ve dört oğlunun silahlarını aldım, dışarı çıktım. Beklemeyin, kapıyı kırın, içeri girin, Ali Ağa'yı ve dört oğlunun hepsini öldürün; burada yanlarında on sekiz yabancı adam daha var, onlara dokunmayın.'",
+        "en": "His uncle went outside and said to his soldiers: 'Do not wait; I have taken the weapons of Ali Agha and his four sons, and I have come outside. Do not wait, break down the door, go inside, and kill Ali Agha and all four of his sons; there are also eighteen foreign men there with them, do not touch them.'",
+        "de": "Sein Onkel ging hinaus und sagte zu seinen Soldaten: 'Wartet nicht; ich habe die Waffen Ali Aghas und seiner vier Söhne genommen und bin hinausgegangen. Wartet nicht, brecht die Tür auf, geht hinein und tötet Ali Agha und alle seine vier Söhne; dort sind auch achtzehn fremde Männer bei ihnen, die rührt nicht an.'"
+      }
+    },
+    {
+      "id": "u015_03",
+      "source": "Eskêri Qasim ağay bêr şêkit, Qasim ağay kawta ver, veng da va kê A'hmêdira: warêza, ez amêya, tı kû sera şyêri, ez serêy twê ena gêlankê wêna.",
+      "translations": {
+        "tr": "Qasım Ağa'nın askerleri kapıyı kırdı, Qasım Ağa öne geçti ve Ahmed'e seslenip dedi ki: 'Yeğenim, geldim; nereye gidersen bu defa başını keseceğim.'",
+        "en": "Qasim Agha's soldiers broke down the door, Qasim Agha went ahead and called out to Ahmed, saying: 'Nephew, I have come; wherever you go, this time I will cut off your head.'",
+        "de": "Qasim Aghas Soldaten brachen die Tür auf, Qasim Agha ging voran und rief Ahmed zu: 'Neffe, ich bin gekommen; wohin du auch gehst, diesmal schlage ich dir den Kopf ab.'"
+      }
+    },
+    {
+      "id": "u016_01",
+      "source": "A'hmêdi veng da va kê: Alah izmê mê bıdû, ez twê veri êyxoê kışêna.",
+      "translations": {
+        "tr": "Ahmed seslenip dedi ki: 'Allah izin versin; önce ben seni kendim öldüreceğim.'",
+        "en": "Ahmed called out and said: 'God willing, I myself will kill you first.'",
+        "de": "Ahmed rief: 'So Gott will, werde ich selbst dich zuerst töten.'"
+      }
+    },
+    {
+      "id": "u016_02",
+      "source": "'Hal şi kê A'hmêdi bıkşû.",
+      "translations": {
+        "tr": "Dayısı Ahmed'i öldürmeye gitti.",
+        "en": "His uncle went to kill Ahmed.",
+        "de": "Sein Onkel ging, um Ahmed zu töten."
+      }
+    },
+    {
+      "id": "u017_01",
+      "source": "A'hmêd awnya dyêsi wedi, yaw şıbakê 'ha dyêsê wedidê, desti xoê berd zerêy şibakê, yaw xancêri zerêy şıbakêdê di gêrawtê vera, day 'hali bınê çici raştirû.",
+      "translations": {
+        "tr": "Ahmed odanın duvarında bir kafes gördü. Elini kafesin arkasına uzattı, orada bir hançer bulup çıkardı ve dayısını göğsünün sağ altından vurdu.",
+        "en": "Ahmed noticed a lattice in the wall of the room. He reached behind it, found a dagger and pulled it out, and struck his uncle below the right side of the chest.",
+        "de": "Ahmed bemerkte ein Gitter in der Zimmerwand. Er griff dahinter, fand einen Dolch, zog ihn heraus und stieß seinem Onkel damit unter die rechte Seite der Brust."
+      }
+    },
+    {
+      "id": "u017_02",
+      "source": "'Hal kawt.",
+      "translations": {
+        "tr": "Dayısı düştü.",
+        "en": "His uncle fell.",
+        "de": "Sein Onkel fiel."
+      }
+    },
+    {
+      "id": "u018_01",
+      "source": "A'hmêdi xancêri 'halira vetê, A'hmêdi Êysan kişt, 'Hasani Kalan kişt.",
+      "translations": {
+        "tr": "Ahmed hançeri dayısından çıkardı; Ahmed Êysan'ı öldürdü, Hasan Kalan'ı öldürdü.",
+        "en": "Ahmed pulled the dagger out of his uncle; Ahmed killed Eysan and killed Hasan Kalan.",
+        "de": "Ahmed zog den Dolch aus seinem Onkel heraus; Ahmed tötete Eysan und tötete Hasan Kalan."
+      }
+    },
+    {
+      "id": "u018_02",
+      "source": "Kalme gna A'hmêdi pêy çimyirû, goêni byê A'hmêdi çimi.",
+      "translations": {
+        "tr": "Bir kılıç Ahmed'in iki gözünün arasına indi, kan Ahmed'in gözlerine geldi.",
+        "en": "A sword came down between Ahmed's two eyes, and blood came into Ahmed's eyes.",
+        "de": "Ein Schwert fuhr Ahmed zwischen die beiden Augen, und Blut kam in Ahmeds Augen."
+      }
+    },
+    {
+      "id": "u019_01",
+      "source": "A'hmêd hyêrs bê, 'hawt teni pêy aya xancêri kişti.",
+      "translations": {
+        "tr": "Ahmed öfkelendi ve o hançerle yedi kişiyi öldürdü.",
+        "en": "Ahmed became enraged and killed seven people with that dagger.",
+        "de": "Ahmed wurde zornig und tötete mit jenem Dolch sieben Menschen."
+      }
+    },
+    {
+      "id": "u019_02",
+      "source": "A'hmêd kişya.",
+      "translations": {
+        "tr": "Ahmed öldürüldü.",
+        "en": "Ahmed was killed.",
+        "de": "Ahmed wurde getötet."
+      }
+    },
+    {
+      "id": "u020_01",
+      "source": "'Hiryê heme bêrai A'hmêdi bawkê yê kişti.",
+      "translations": {
+        "tr": "Ahmed'in üç kardeşinin hepsi ve babası öldürüldü.",
+        "en": "All three of Ahmed's brothers and his father were killed.",
+        "de": "Alle drei Brüder Ahmeds und sein Vater wurden getötet."
+      }
+    },
+    {
+      "id": "u020_02",
+      "source": "Dês û 'hêyşt teni merdümi ğaribi kişti.",
+      "translations": {
+        "tr": "On sekiz yabancı adam da öldürüldü.",
+        "en": "Eighteen foreign men were killed as well.",
+        "de": "Auch achtzehn fremde Männer wurden getötet."
+      }
+    },
+    {
+      "id": "u021_01",
+      "source": "Eskêr ağayra şê, hêrgû kês şi kêy xoê.",
+      "translations": {
+        "tr": "Askerler ağanın yanından ayrıldı, herkes evine gitti.",
+        "en": "The soldiers left the agha's side, and everyone went home.",
+        "de": "Die Soldaten gingen vom Agha weg, und jeder ging nach Hause."
+      }
+    },
+    {
+      "id": "u021_02",
+      "source": "Cênazay Ali ağay, çêhêr heme lacana, dês û hêyşt merdümi ğaribana pyêrû mêndi wadedê.",
+      "translations": {
+        "tr": "Ali Ağa'nın, dört oğlunun ve on sekiz yabancı adamın cenazeleri hep odada kaldı.",
+        "en": "The bodies of Ali Agha, his four sons, and the eighteen foreign men all remained in the room.",
+        "de": "Die Leichen Ali Aghas, seiner vier Söhne und der achtzehn fremden Männer blieben alle im Zimmer."
+      }
+    },
+    {
+      "id": "u022_01",
+      "source": "Soba Mêlay Rêsa veng da va kê mêla Qasimi Dêsmûncira: byêri cênazay Ali ağay aylana dês û hêyşt teni merdümi ğaribana 'hetya byêri beri wedari.",
+      "translations": {
+        "tr": "Sabah Mela Resa, Desmunlu Mela Qasım'a seslenip dedi ki: 'Ali Ağa'nın, çocuklarının ve on sekiz yabancı adamın cenazelerini hep birlikte götürüp gömün.'",
+        "en": "In the morning Mela Resa called to Mela Qasim of Desmun and said: 'Carry away the bodies of Ali Agha, his children, and the eighteen strangers, and bury them all.'",
+        "de": "Am Morgen rief Mela Resa dem Mela Qasim von Desmun zu: 'Tragt die Leichen Ali Aghas, seiner Kinder und der achtzehn Fremden fort und bestattet sie alle.'"
+      }
+    },
+    {
+      "id": "u022_02",
+      "source": "Mêla Qasim werişt Dêsmûnira, Mêmêd ağa werişt Ğêytêra, Ramêdan ağay werişt Mêrzyêlêra, şi, leşi Ali ağay lacana dês û hêyşt merdûmi ğaribana gêrawti ardi berdi wederti.",
+      "translations": {
+        "tr": "Mela Qasım Desmun'dan kalktı, Memed Ağa Ğêytê'den kalktı, Ramedan Ağa Merzyelê'den kalktı; gittiler, Ali Ağa'nın, oğullarının ve on sekiz yabancı adamın cesetlerini aldılar, getirdiler, götürdüler ve gömdüler.",
+        "en": "Mela Qasim rose from Desmun, Memed Agha rose from Gheyte, Ramedan Agha rose from Merzyele; they went, took the bodies of Ali Agha, his sons, and the eighteen foreign men, brought them out, carried them away, and buried them.",
+        "de": "Mela Qasim machte sich von Desmun auf, Memed Agha machte sich von Gheyte auf, Ramedan Agha machte sich von Merzyele auf; sie gingen, nahmen die Leichen Ali Aghas, seiner Söhne und der achtzehn fremden Männer, brachten sie heraus, trugen sie weg und begruben sie."
+      }
+    }
+  ],
+  "editorial_notes": {
+    "editorial_note_tr": "Narbêş, Syeraçur, Desmun, Merzyelê ve Ğêytê adları anlatının yerel coğrafyasını gösterir; Karbegan/Karabegan ile Sivan/Servi bağlantısı dış kaynaklarla da desteklenir. Okuma çevirisi, Lerch'in çevirilerinin ayrıldığı yerlerde Zazaca metni izler. Ahmed hançerle Zazaca ve Rusçada yedi, Almanca çeviride sekiz kişiyi öldürür. İki gözünün arasına inen nesne belirsizdir: Almancada 'kılıç (?)', Rusçada 'kilit (?)' yazılıdır. Ahmed/Eysan ad dizisi ve hançer diyaloğundaki ihanet ifadesi de kesinleşmemiştir.",
+    "editorial_note_en": "The names Narbêş, Syeraçur, Desmun, Merzyelê, and Ğêytê show the local geography of the narrative; the Karbegan/Karabegan and Sivan/Servi connection is also supported by outside sources. This reader follows the Zazaki text where Lerch's translations differ. Ahmed kills seven with the dagger in Zazaki and Russian, but eight in the German translation. The object striking him between the eyes is uncertain: German gives 'sword (?)', Russian 'lock (?)'. The Ahmed/Eysan name sequence and the betrayal wording in the dagger dialogue also remain uncertain.",
+    "editorial_note_de": "Die Namen Narbêş, Syeraçur, Desmun, Merzyelê und Ğêytê zeigen die lokale Geographie der Erzählung; die Verbindung Karbegan/Karabegan und Sivan/Servi wird auch durch externe Quellen gestützt. Diese Lesefassung folgt dem Zazaki-Text; Lerchs deutsche Übersetzung weicht stellenweise ab. Bei Ahmeds Dolchangriff steht hier wie im Zazaki und im Russischen sieben, im deutschen Druck dagegen acht. Der Gegenstand, der Ahmed zwischen den Augen trifft, ist im Deutschen als Schwert mit Fragezeichen, im Russischen als Schloss mit Fragezeichen wiedergegeben. Auch die Namensfolge Ahmed/Eysan und die Verratsformulierung im Dolchdialog bleiben deutungsbedürftig."
+  }
+}

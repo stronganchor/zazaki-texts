@@ -4,13 +4,13 @@ Gott stirbt nicht.
 
 Der Mensch lebt nicht lange.
 
-Die Mutter liebt ihre Kinder.
+Die Mutter liebt ihre Kinder sehr.
 
 Sie hat viel Milch in den Brüsten.
 
 Ihr Mann liebt sie.
 
-Diese Frau war schwanger (in der Uebers.: "ist schw.").
+Diese Frau ist schwanger. [Die deutsche Vorlage sagt „war schwanger“; Lerch vermerkt für die Übersetzung „ist“.]
 
 Vor sechs Tagen hat sie einen Sohn geboren.
 
@@ -84,6 +84,6 @@ Heute Morgen sah ich den Regenbogen.
 
 Des Nachts ist es finster und am Tage hell.
 
-Wir reden kurdisch (Kurmändi-Zazä).
+Wir sprechen Zaza. [Lerchs gemeinsame deutsche Vorlage: „Wir reden kurdisch (Kurmändi-Zazä)“.]
 
-Versteht ihr kurdisch (Kurmändi-Zazä) zu sprechen?
+Könnt ihr Zaza sprechen? [Lerchs gemeinsame deutsche Vorlage: „Versteht ihr kurdisch (Kurmändi-Zazä) zu sprechen?“]

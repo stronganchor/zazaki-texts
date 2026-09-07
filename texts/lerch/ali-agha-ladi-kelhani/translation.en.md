@@ -48,7 +48,7 @@ Ali Agha gathered his own weapons and the weapons of all four of his sons and ga
 
 Qasim Agha took them.
 
-Ahmed, Ali Agha's son, said: 'Uncle, do not take our weapons. You are a traitor; perhaps there is no sense in my father's head, today is Ramadan. Look, uncle, if you take our weapons and then come out as a traitor, I will kill you.'
+Ahmed, Ali Agha's son, said: 'Uncle, do not take our weapons. You are a traitor; there is no sense in my father's head, today is Ramadan. Look, uncle, if you take our weapons and then come out as a traitor, I will kill you.'
 
 Qasim Agha said to Ahmed: 'Nephew, do not fear.'
 
@@ -60,11 +60,11 @@ His uncle went outside and said to his soldiers: 'Do not wait; I have taken the 
 
 Qasim Agha's soldiers broke down the door, Qasim Agha went ahead and called out to Ahmed, saying: 'Nephew, I have come; wherever you go, this time I will cut off your head.'
 
-Ahmed called out and said: 'May God give me permission; first I will kill you with my own hand.'
+Ahmed called out and said: 'God willing, I myself will kill you first.'
 
 His uncle went to kill Ahmed.
 
-Ahmed saw an opening in the wall; there was a lattice in the wall. He put his hand inside the lattice, found a dagger inside the lattice and pulled it out, and struck his uncle under the right side of the chest.
+Ahmed noticed a lattice in the wall of the room. He reached behind it, found a dagger and pulled it out, and struck his uncle below the right side of the chest.
 
 His uncle fell.
 
@@ -84,6 +84,6 @@ The soldiers left the agha's side, and everyone went home.
 
 The bodies of Ali Agha, his four sons, and the eighteen foreign men all remained in the room.
 
-In the morning Mela Resa called to Mela Qasim of Desmun and said: 'Bring Ali Agha, his sons, and the eighteen foreign men here; take them outside.'
+In the morning Mela Resa called to Mela Qasim of Desmun and said: 'Carry away the bodies of Ali Agha, his children, and the eighteen strangers, and bury them all.'
 
 Mela Qasim rose from Desmun, Memed Agha rose from Gheyte, Ramedan Agha rose from Merzyele; they went, took the bodies of Ali Agha, his sons, and the eighteen foreign men, brought them out, carried them away, and buried them.

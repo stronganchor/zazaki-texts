@@ -14,11 +14,11 @@ Der Sohn Mel'a Ahmed’s fragte: aus welchem Mahal?
 
 Der Dieb sagte: aus dem Mahal Seinän.
 
-Mel'a Ahmed’s Sohn fragte: warum kamst du?
+Mel'a Ahmeds Sohn fragte: 'Warum bist du gekommen? Warum bist du in meinem Haus?'
 
-warum bist du in meinem Hause? Der Dieb antwortete ich (Einwohner) von Nerib kam in dein Haus, um Diebstahl zu verüben. Und wurde von dir hier getroffen, darum bin ich hier, (wisse aber,) dass ich stark bin.
+Der Dieb antwortete: 'Ich bin aus Nerib in dein Haus gekommen, um zu stehlen. Hier hast du mich angetroffen; darum bin ich hier. Wisse aber, dass ich stark bin.'
 
-Mel’a Ahmed's Sohn erschlug sogleich den Dieb, sandte einen Boten zu Xalef Agha und liess sagen: komme nicht nach Hyeni (?).
+Mel'a Ahmeds Sohn erschlug den Dieb sogleich, schickte einen Boten nach Nerib zu Xalef Agha und ließ sagen: 'Komm nicht nach Hyeni ...' [Lerch bezeichnet diese Nachricht als unklar. Die Zazaki-Arbeitsübersetzung versteht den Rest etwa als: 'Du hast dort gekämpft und die Leute von Hyeni getötet und zur Unterwerfung gebracht.']
 
 Xalef Agha sandte einen Boten zu Avdül’ah Agha nach Kelan und liess sagen: ich habe mit (denen von) Nerib gekämpft (?), darum sei zu deiner Zeit bereit, du hast einen der Meinigen erschlagen, (so) wisse (denn), dass ich für einen der Meinigen zwanzig der Deinigen tödten werde.
 
@@ -40,33 +40,33 @@ Am Morgen sass Avdül'ah Agha auf, versammelte seine Schaar und sagte zu ihr: S�
 
 Man schlug die Trommel (und) Avdül ah Agha führte sein Heer zum Bache Sel'e; Xalef Agha ’s Heer war (aber) nicht gekommen; (da) befahl er sich in Bewegung zu setzen und sagte zu seiner Schar: die Köpfe (gehören) mir, die Beute (gehört) euch, sengt die Dörfer.
 
-Avdül’ah Agha’s Heer ging auf die Dörfer Xalef Agha’s, nahm sechs Dörfer, brannte sie nieder, zog sich zurück und kehrte heim.
-
-Avdül'ah Agha überliess die Beute seinem Heere.
+Avdül’ah Agha’s Heer ging auf die Dörfer Xalef Agha’s, nahm sechs Dörfer, brannte sie nieder, zog sich zurück und kehrte heim. Avdül'ah Agha überliess die Beute seinem Heere.
 
 Es verging ein Monat.
 
-Xalef Agha sandte einen Boten zu Avdül’ah Agha und liess sagen: du hast Einige aus meinem Heere getödtet, du hast sechs meiner Dörfer niedergebrannt (und) geplündert, sei deiner Zeit bereit, dieses Mal komme ich, auf welche deiner Dörfer ich auch nur stosse, ich brenne sie nieder und plündere sie bis in die Nacht hinein, verschone kein Kind, reisse Allen die Köpfe Avdül ah Agha sandte einen Boten zu Xalef Agha nnd liess sagen: bleibe nur wo du bist, wenn ich dieses Mal komme, verschone ich bei dir kein blindes Huhn.
+Xalef Agha sandte einen Boten zu Avdulah Agha und ließ sagen: 'Du hast einige aus meinem Heer getötet, sechs meiner Dörfer niedergebrannt und geplündert. Halte dich bereit: Dieses Mal komme ich. Auf welche deiner Dörfer ich auch stoße, ich brenne sie nieder und plündere bis in die Nacht. Ich verschone kein Kind und schlage allen die Köpfe ab.'
 
-Xalef Agha sandte einen Boten zu Avdu lall Agha und liess sagen: sieh zu, dass du kommst.
+Avdulah Agha sandte einen Boten zu Xalef Agha und ließ sagen: 'Bleib ruhig, wo du bist. Wenn ich dieses Mal komme, verschone ich bei dir nicht einmal ein blindes Huhn.'
+
+Xalef Agha sandte einen Boten zu Avdulah Agha und ließ sagen: 'Sieh zu, dass du kommst.'
 
 Avdül'ah Agha sass auf, liess die Trommel schlagen, zog sein Heer zusammen.
 
 Er sagte zu demselben: wir gehen uns mit Kindern schlagen, fürchtet euch nicht, dieses Mal schonet Niemand, tödtet Alle, die Köpfe (gehören) mir, die Beute (gehört) euch.
 
-Das Heer sagte dem Avdül’ah Agha: wohl Gebieter, möge Gott deine Seele bewahren! lange wir nicht sterben, hast du nichts zu fürchten (ist dir nichts).
+Das Heer sagte zu Avdulah Agha: 'Wohl, Herr, möge Gott dein Leben bewahren! Solange wir nicht alle tot sind, hast du nichts zu fürchten.'
 
-Avdül’ah Agha sagte: danke, Kinder! Avdül’ah Agha liess die Trommel rühren, befahl seinem Heere vorzuschreiten, zog in’s Gebiet von Melekan und sah, dass Xalef Agha’s Heer die Patronen zusammentrug.
+Avdulah Agha sagte: 'Danke, Kinder!'
 
-Avdül’ah Agha liess sein Heer vorschreiten und sagte: die Köpfe (gehören) mir, die Beute (gehört) euch, geht und tödtet Alle.
+Avdulah Agha ließ die Trommel rühren, befahl seinem Heer vorzurücken, zog ins Gebiet von Melekan und sah, dass Xalef Aghas Heer die Patronen zusammentrug.
+
+Avdulah Agha ließ sein Heer vorrücken und sagte: 'Die Köpfe gehören mir, die Beute gehört euch. Fürchtet euch nicht; geht und tötet alle.'
 
 Das Heer Avdül’ah Agha’s ging gegen Xalef Agha's Heer, kam bis Tauridye und schlug sich; Xalef Agha’s Heer floh, das von Avdül’ah Agha verfolgte es, plünderte sämmtliche Häuser in den Dörfern, tödtete alle Hirten von Nerib (und) führte alle Heerden weg.
 
 Es verstrichen zwanzig Tage, da zog Xalef Agha gen Qotwesan zu H'aider Agha und sagte ihm: ich begebe mich unter deinen Schutz, Avdül ah Agha Kelan hat mein ganzes Heer getödtet, hat alle meine Dörfer niedergebrannt (und) geplündert.
 
-Haider Agha sagte zu Xalef Agha: was sagst du mir?
-
-ich gehe nicht mit denen von Sivän mich schlagen, sie tödten uns Alle.
+Haider Agha sagte zu Xalef Agha: was sagst du mir? Ich kann nicht mit den Leuten von Sivan kämpfen; sie töten uns alle.
 
 Xalef Agha sagte: ich begab mich unter deinen Schutz, komme mit mir in’s Haus Avdül ah Agha's, versöhne uns, was du nur begehren magst an Gütern, will ich dir geben.
 

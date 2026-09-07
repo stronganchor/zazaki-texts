@@ -1,14 +1,16 @@
 # Reviewed Lerch reader inputs
 
-Four texts have source-reviewed reading units in each text folder's
+Eight texts have source-reviewed reading units in each text folder's
 `reviewed-reader-translations.json`: Miller and Fox, Go'in, Three Brothers,
-and Conversation with Hassan. These files are explicit build inputs. Their
+Conversation with Hassan, Ali Agha, Nerib-Hyeni, Nerib-Sivan, and Bacmeister's
+sentence samples. These files are explicit build inputs. Their
 review metadata distinguishes newly checked German from preserved English
 and Turkish. Keeping a translation here does not independently certify it.
 
 The manifests preserve reviewed reader IDs, source grouping, translations,
 and explanatory editorial notes. The updater restores them only when the
-ordered physical source-line IDs and Zazaki strings match exactly. A missing
+ordered physical source-line IDs and Zazaki strings match exactly (Bacmeister
+uses the historical Zaza `text` field, because it has no `zazaki` field). A missing
 required manifest or changed source fails before writing that document.
 The generic normalizer leaves these reviewed layouts alone and rejects a
 changed reader ID/source. This prevents sentence-count heuristics and old
@@ -20,6 +22,14 @@ the text document, matching translation Markdown, and manifest together;
 record what was reviewed and the evidence in the manifest's `review` field.
 Do not regenerate a manifest merely to suppress a source-mismatch error.
 The historical source/OCR is not rewritten by this mechanism.
+
+The 2026-09-07 review covers all 202 units in the latter four readers, in all
+three languages, with explicit holds for disagreements between the witnesses.
+Their manifests preserve the reviewed translations and notes across the normal
+story updater and the separate Bacmeister builder. The original German prompts
+in Bacmeister's interlinear source rows remain verbatim; the German reader can
+distinguish those prompts from the actual Zaza answers. A title reading unit is
+kept in the payload but is not repeated below a prose Markdown title.
 
 Run the portable regression tests from the repository root:
 

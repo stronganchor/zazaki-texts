@@ -4,7 +4,7 @@ Einst brach ein Mann von Nerib auf (und) ging nach Dauz; er kam aufs Gebiet von 
 
 Ein Mann von Hyeni pflügte sein Land.
 
-Jener von Nerib ging auf den von Hyeni zu (und) sagte: was (warum) pflügest du hier?
+Der Mann aus Nerib trat an den Mann aus Hyeni heran und fragte: 'Wer bist du, dass du hier pflügst?'
 
 Der von Hyeni sagte: ich bin ein Knecht des Mül'a Hasein Muyara (und) pflüge hier.
 
@@ -24,19 +24,21 @@ Jener sagte dem Xalef Agha: es ist ein Knecht des Mül'a Hasein Muyara.
 
 Xalef Agha sagte: sei auf deiner Hut, du hast einen fremden Menschen getödtet, ein Fremder wird in dein Haus kommen, wird dich tödten.
 
-Jener sagte dem Xalef Agha: sende einen Boten nach Klein-Nerib (und) Deistei H'enzi, dass sie auf ihrer Hut sein mögen, dass sie ihre Habe nicht ohne Schutz lassen; (denn) welchen Tag die Nachricht nach H'yeni kommt, werden wir uns schlagen.
+Der Mann sagte zu Xalef Agha: 'Schicke Nachricht nach Klein-Nerib und Deştê Henzi. Sie sollen auf der Hut sein und ihren Besitz nicht unbewacht lassen. Wenn Nachricht aus Hyeni kommt, soll niemand fehlen; dann werden wir kämpfen.'
 
-Xalef Agha sandte einen Boten nach Klein-Nerib und liess dem Wesman Agha sagen: sende die Nachricht nach Deiste H'enzi dem Mehmud Agha.
+Xalef Agha sandte einen Boten nach Klein-Nerib und liess dem Wesman Agha sagen: sende die Nachricht nach Deiste H'enzi dem Mehmet Agha.
 
-Wesman Agha sandte nach Deiste H'enzi und liess dem Mehmud Agha sagen: mache dich auf, die von H'yeni werden uns bekämpfen, nimm Pulver, halte dich bereit, sobald die Nachricht nach Hyeni kommt werden wir uns schlagen.
+Wesman Agha sandte nach Deiste H'enzi und liess dem Mehmet Agha sagen: mache dich auf, die von H'yeni werden uns bekämpfen, nimm Pulver, halte dich bereit, sobald Nachricht aus Hyeni kommt werden wir uns schlagen.
 
-Mehmet Agha schickte einen Boten zu Wesman Agha und liess ihm sagen: sage dem Xalef Agha: wir sind bereit, sobald die Nachricht nach Hyeni kommt, werden wir uns schlagen.
+Mehmet Agha schickte einen Boten zu Wesman Agha und liess ihm sagen: sage dem Xalef Agha: wir sind bereit, sobald Nachricht aus Hyeni kommt, werden wir uns schlagen.
 
-Nachdem ein Monat verstrichen war, sandte Daqma Baeg von H'yeni einen Boten zu Xalef Agha nach Gross-Nerib (und liess sagen): warum hast du jenen meinen Menschen getödtet, sei deiner Zeit bereit, in fünf Tagen, wenn nicht morgen, schlagen wir uns.
+Nachdem ein Monat vergangen war, schickte Daqma Bey aus Hyeni Nachricht an Xalef Agha in Groß-Nerib: 'Warum hast du diesen Mann von mir getötet? Halte dich bereit; in fünf Tagen werden wir kämpfen.'
+
+Xalef Agha schickte Daqma Bey in Hyeni seine Antwort: 'In fünf Tagen, oder komm schon morgen; dann wollen wir kämpfen.'
 
 Daqma Baeg liess in H'yeni durch einen Herold ausrufen: dass kein Fremder in die Stadt gelassen werde, dass ohne Erlaubnis keine Zusammenkunft stattfinde; ich, Daqma Baeg, habe gesagt: wen ich ohne Erlaubniss sehe, dem lasse ich den Kopf abschlagen.
 
-Daqma Baeg sagte: nach Hyeni ist zu Xalef Agha die Botschaft gelangt, dass morgen der Kampf ist, es möge also in keinem Hause, wer nur einen Knüppel in die Hand nehmen kann, zurück bleiben, denn morgen findet der Kampf Statt.
+Daqma Bey sagte: 'Aus Nerib ist Nachricht von Xalef Agha gekommen: Morgen wird gekämpft. Niemand, der einen Stock in die Hand nehmen kann, soll zu Hause bleiben; morgen wird gekämpft.'
 
 Daqma Baeg sandte einen Boten nach Nerib zu Xalef Agha und liess sagen: meine Schaar ist bereit, morgen ziehen wir durch die Weingärten.
 
@@ -44,9 +46,7 @@ Xalef Agha sandte einen Boten zu Daqma Baeg nach H'yeni und liess sagen: sei auf
 
 Daqma Baeg rief sein ganzes Heer zusammen, versammelte es vor dem Hause des Temir Baeg, vertheilte unter dasselbe Pulver und Blei, sass auf und sandte das Fussvolk über die Wiesen, die Reiterei durch die Weingärten.
 
-Mit dem Anbruch der Morgenröthe, als es zu tagen anfing, sandte er einen Boten nach Nerib zu Xalef Agha und liess ihm sagen: Verdammter, diese Nacht habe ich bis zum Morgen nicht geschlafen, was ist deine Rede gewesen?
-
-du sagtest, du würdest zum Kampfe kommen mein Heer ist bereit.
+Mit dem Anbruch der Morgenröthe, als es zu tagen anfing, sandte er einen Boten nach Nerib zu Xalef Agha und liess ihm sagen: Verdammter, diese Nacht habe ich bis zum Morgen nicht geschlafen, was ist deine Rede gewesen? Du sagtest, du würdest zum Kampf kommen; mein Heer ist bereit.
 
 Xalef Agha sass auf, liess die Trommel rühren, führte sein Heer weg und sagte zu demselben: fürchtet euch nicht, Jene sind Türken, verstehen nicht sich zu schlagen, wir sind tapfere Stammessöhne, fürchtet euch nicht, ich bin mit euch, wenn ich auch sterbe, so gehet dennoch in den Kampf.
 
@@ -56,11 +56,11 @@ Xalef Agha sagte: gut, meine Aeltesten!
 
 Xalef Agha führte sein Heer davon; sie gingen, zogen in's Gebiet von Hyeni, und sahen, dass das Heer Daqma Baeg's sämmtlich sich gelagert hatte: ein Theil galoppirte herum, ein Theil war abgestiegen, ein Theil war mit Essen beschäftigt, ein Theil mit Tanzen.
 
-Xalef Agha rief dem Daqma Baeg zu: sei deiner Zeit bereit, ich bin gekommen.
+Xalef Agha rief.
 
-Daqma Baeg sass auf und schrie seinem Heere zu: begebt euch auf eure Plätze.
+Er sagte zu Daqma Bey: 'Halte dich bereit; ich bin gekommen.'
 
-Xalef Agha's Heer ist gekommen, brechet auf, begebt euch in die Festung.
+Daqma Bey stieg zu Pferd und rief seinem Heer zu: 'Auf eure Plätze! Xalef Aghas Heer ist gekommen. Steht auf, zieht los, fürchtet euch nicht.'
 
 Xalef Agha sagte seinem Heere: lasset Keinen von Daqma Baeg's Heer entkommen, tödtet Alle.
 
@@ -82,7 +82,7 @@ Daqma Bey sandte Xalef Agha sofort einen Pelz und sagte: 'Gnade, mein Herr. Ich 
 
 'Ich komme nicht gegen dich.'
 
-Xalef Agha sagte: 'Komm; ich gebe dir Soldaten, geh und kämpfe mit mir. Bis zu drei Tage werden wir kämpfen; ich werde niemanden aus deinem Heer und deiner Stadt verschonen, alle werde ich töten, und dich werde ich töten.'
+Xalef Agha sagte: 'Komm; ich gebe dir Soldaten, geh und kämpfe mit mir. In drei Tagen werden wir kämpfen; ich werde niemanden aus deinem Heer und deiner Stadt verschonen, alle werde ich töten, und dich werde ich töten.'
 
 'Auch deine Frau werde ich nehmen.'
 
@@ -98,7 +98,7 @@ Daqma Baeg ging Truppen zu sammeln, in zwanzig Tagen hatte er vier Tausend zusam
 
 Am ein und zwanzigsten Tage war er fertig (und) sandte zu Xalef Agha einen Boten und liess sagen: mein Heer ist fertig, morgen komme ich zum Kampf, wir werden uns schlagen.
 
-Xalef Agha sandte einen Boten zu Daqma Baeg und liess sagen: sei deiner Zeit bereit, morgen mit der Morgenröthe komme ich aufs haemyerische Feld, führe du dein Heer hin, komme durch die Weingärten zur Festung, wir werden uns schlagen, bis du mir den Kopf abschlägst oder ich dir den Kopf abschlage.
+Xalef Agha sandte einen Boten zu Daqma Baeg und liess sagen: sei deiner Zeit bereit, morgen mit der Morgenröthe komme ich aufs haemyerische Feld, führe du dein Heer hin, komm durch die Weingärten, fürchte dich nicht, wir werden uns schlagen, bis du mir den Kopf abschlägst oder ich dir den Kopf abschlage.
 
 Daqma Baeg sandte einen Boten zu Xalef Agha und liess sagen: zögere nicht, mit dem Anbruch des Morgens komme.
 
@@ -122,7 +122,7 @@ Xalef Agha's Heer sagte zu ihm: Verzeihung, mein Herr, erlaube uns in den Kampf 
 
 Xalef Agha commandirte: Marsch!
 
-trug das Banner gegen das Heer Daqma Baeg's, stiess mit demselben zusammen, kämpfte zwei Stunden, worauf Daqma Baeg um Gnade bat und dem Xalef Agha sagte: ich kann mit dir nicht kämpfen.
+Der Bannerträger rückte gegen Daqma Beys Heer vor. Die Heere stießen zusammen und kämpften zwei Stunden. Schließlich bat Daqma Bey um Gnade und sagte zu Xalef Agha: 'Ich kann nicht mit dir kämpfen.'
 
 Xalef Agha zog sein Heer zurück, kam nach Nerib (und) sah, dass aus seinem Heere sechzig Mann geschieden waren; er schickte einen Boten zu Daqma Baeg und liess sagen: sechzig Mann fehlen in meinem Heere.
 
