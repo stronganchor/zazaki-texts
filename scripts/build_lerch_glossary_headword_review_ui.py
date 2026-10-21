@@ -1226,7 +1226,7 @@ def write_html() -> None:
     async function saveDiskAutosave() {
       if (!diskSaveAvailable) return;
       try {
-        const response = await fetch(autosaveEndpoint, {
+        const response = await window.reviewFetch(autosaveEndpoint, {
           method: "POST",
           headers: {"Content-Type": "application/json"},
           body: JSON.stringify({saved_at: new Date().toISOString(), rows: saved})

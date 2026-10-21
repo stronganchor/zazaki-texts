@@ -33,3 +33,16 @@ Example from the repo root:
 The importer creates or updates the content lesson post, source-image attachments, and `_ll_tools_interlinear_payload` meta. Text-document payloads automatically mark the content lesson as `corpus_text` in LL Tools.
 
 Corpus texts are standalone by default and do not need to belong to a normal LL Tools wordset. If a particular site really needs a wordset assignment, pass `--wordset-slug="..."` and `--wordset-name="..."`.
+
+## Lerch glossary review autosave
+
+Run `python scripts/serve_lerch_glossary_review.py` and open the printed loopback
+URL. The server injects its session helper before the review scripts. Autosave
+requires the same browser origin, an allowed loopback Host, a fresh session
+token, and JSON content type. Reload the page after restarting the server.
+Keep `scripts/review_security.py` and `scripts/review_security.js` alongside the
+server when copying it. The saved rows and browser backup formats are unchanged.
+
+`python -B scripts/test_lerch_review_security.py` tests the actual handler against
+a temporary autosave file, including blocked cross-origin writes and successful
+save/readback. It does not change the working glossary or existing autosave.
