@@ -1,7 +1,7 @@
 story_id	segment_id	token_index	token_lerch	token_zazaki	morpheme_index	morpheme_surface_lerch	morpheme_normalized	lemma	gloss	pos	features	confidence	evidence	notes
 Das Märchen von den drei Brüdern	tb01_l01	0	D̮aíkí	Cayki	0	D̮aíkí	Cayki	daiki	once upon a time			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb01_l01	1	bī	bi	0	bī	bi	bi	was			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb01_l01	2	t̮í	çi	0	t̮í	çi	ti	you			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb01_l01	2	t̮í	çi	0	t̮í	çi	ti	thing			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb01_l01	3	ńébī,	nyêbi	0	ńébī	nyêbi	nebi	was not			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb01_l01	4	hī́rye	hiryê	0	hī́rye	hiryê	hirye	three			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb01_l01	5	berá’i	bêrai	0	berá’i	bêrai	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -98,14 +98,14 @@ Das Märchen von den drei Brüdern	tb01_l09	2	neyaí	nêyay	0	neyaí	nêyay	ne
 Das Märchen von den drei Brüdern	tb01_l09	3	yaléa,	yalêa	0	yaléa	yalêa	yalea	wheat			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb01_l09	4	yalé	yalê	0	yalé	yalê	yale	wheat			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb01_l09	5	t̮í̥na	çına	0	t̮í̥na	çına	tina	cuts			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb01_l09	6	di	di	0	di	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb01_l09	6	di	di	0	di	di	di	two			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb01_l09	7	rṓd̮i.	roci	0	rṓd̮i	roci	rodi	days			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb02_l01	0	Hʿasanék	'Hasanêk	0	Hʿasanék	'Hasanêk	hasanek	Hasanek			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb02_l01	1	auná	awna	0	auná	awna	auna	saw			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb02_l01	2	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb02_l01	3	dumá.	dûma	0	dumá	dûma	duma	behind			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb02_l01	3	dumá.	dûma	0	dumá	dûma	duma	cave			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb02_l01	4	Au	Aw	0	Au	Aw	au	that			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb02_l01	5	dumá	dûma	0	dumá	dûma	duma	behind			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb02_l01	5	dumá	dûma	0	dumá	dûma	duma	cave			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb02_l01	6	dau	daw	0	dau	daw	dau	dev			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb02_l01	7	bū.	bû	0	bū	bû	bu	be			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb02_l01	8	Ved̮aú	Vêcaw	0	Ved̮aú	Vêcaw	vedau	came out			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -129,7 +129,7 @@ Das Märchen von den drei Brüdern	tb02_l03	2	sé̱rei	serêy	0	sé̱rei	serê
 Das Märchen von den drei Brüdern	tb02_l03	3	šṳ́ma	şüma	0	šṳ́ma	şüma	suma	you.PL			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb02_l03	4	hī́rye	hiryê	0	hī́rye	hiryê	hirye	three			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb02_l03	5	hé̱mine	heminê	0	hé̱mine	heminê	hemine	all			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb02_l03	6	wén’a.	wêna	0	w	w	wena	cut			low	Muller 1865, ZGP-0356 present -ena/-ana material.	Stem is short in this segmentation; keep under review.
+Das Märchen von den drei Brüdern	tb02_l03	6	wén’a.	wêna	0	w	w	wena	eat			low	Muller 1865, ZGP-0356 present -ena/-ana material.	Stem is short in this segmentation; keep under review.
 Das Märchen von den drei Brüdern	tb02_l03	6	wén’a.	wêna	1	én’a	ena	-ena	PRS.1SG	suffix	tense_aspect=present;person=1;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.
 Das Märchen von den drei Brüdern	tb02_l03	7	Hʿasanéki	'Hasanêki	0	Hʿasanéki	'Hasanêki	hasaneki	Hasanek			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb02_l03	8	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -190,7 +190,7 @@ Das Märchen von den drei Brüdern	tb02_l08	1	sērei	sêrêy	0	sērei	sêrêy	
 Das Märchen von den drei Brüdern	tb02_l08	2	šṳ́ma	şüma	0	šṳ́ma	şüma	suma	you.PL			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb02_l08	3	hírye	hiryê	0	hírye	hiryê	hirye	three			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb02_l08	4	hé̱mine	heminê	0	hé̱mine	heminê	hemine	all			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb02_l08	5	wén’a.	wêna	0	w	w	wena	cut			low	Muller 1865, ZGP-0356 present -ena/-ana material.	Stem is short in this segmentation; keep under review.
+Das Märchen von den drei Brüdern	tb02_l08	5	wén’a.	wêna	0	w	w	wena	eat			low	Muller 1865, ZGP-0356 present -ena/-ana material.	Stem is short in this segmentation; keep under review.
 Das Märchen von den drei Brüdern	tb02_l08	5	wén’a.	wêna	1	én’a	ena	-ena	PRS.1SG	suffix	tense_aspect=present;person=1;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.
 Das Märchen von den drei Brüdern	tb02_l08	6	Hʿasanéki	'Hasanêki	0	Hʿasanéki	'Hasanêki	hasaneki	Hasanek			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb02_l08	7	vā:	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -332,10 +332,10 @@ Das Märchen von den drei Brüdern	tb03_l04	6	kaγít	kağit	0	kaγít	kağit	
 Das Märchen von den drei Brüdern	tb03_l04	7	geraút,	gêrawt	0	geraút	gêrawt	geraut	took			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb03_l04	8	kautá	kawta	0	kautá	kawta	kauta	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb03_l04	9	rayér,	rayêr	0	rayér	rayêr	rayer	road			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb03_l04	10	šẹ̄,	şê	0	šẹ̄	şê	se	what			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb03_l05	0	di̥	dı	0	di̥	dı	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb03_l04	10	šẹ̄,	şê	0	šẹ̄	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb03_l05	0	di̥	dı	0	di̥	dı	di	two			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb03_l05	1	sá’ati	saati	0	sá’ati	saati	saati	hours			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb03_l05	2	šẹ̄,	şê	0	šẹ̄	şê	se	what			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb03_l05	2	šẹ̄,	şê	0	šẹ̄	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb03_l05	3	kaγít	kağit	0	kaγít	kağit	kagit				unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb03_l05	4	āké̱rd,	akerd	0	āké̱rd	akerd	akerd	opened			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb03_l05	5	we̱ṅd,	weŋd	0	we̱ṅd	weŋd	wend	read			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -358,7 +358,7 @@ Das Märchen von den drei Brüdern	tb03_l06	9	me̱rduómi	merdwomi	0	me̱rduó
 Das Märchen von den drei Brüdern	tb03_l07	0	trā́ke,	trakê	0	trā́ke	trakê	trake	cut off			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb03_l07	1	mí̥ri	mıri	0	mí̥ri	mıri	miri	to me			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb03_l07	2	pilaú	pilaw	0	pilaú	pilaw	pilau	pilaf			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb03_l07	3	paúže,	pawjê	0	paúže	pawjê	pauze	place name			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb03_l07	3	paúže,	pawjê	0	paúže	pawjê	pauze	cook			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb03_l07	4	sé̱rei	serêy	0	sé̱rei	serêy	serei	head			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb03_l07	5	ḗ̱n’ie	enyê	0	ḗ̱n’ie	enyê	enie	these			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb03_l07	6	me̱rdṳ́mi	merdümi	0	me̱rdṳ́m	merdûm	merdum	man/person			high	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.
@@ -370,7 +370,7 @@ Das Märchen von den drei Brüdern	tb03_l07	10	ke,	kê	0	ke	kê	ke	that			unspli
 Das Märchen von den drei Brüdern	tb03_l08	0	bḗ̱ršau	berşaw	0	bḗ̱ršau	berşaw	bersau	send			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb03_l08	1	mí̥ri,	mıri	0	mí̥ri	mıri	miri	to me			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb03_l08	2	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb03_l08	3	wén’a.	wêna	0	w	w	wena	cut			low	Muller 1865, ZGP-0356 present -ena/-ana material.	Stem is short in this segmentation; keep under review.
+Das Märchen von den drei Brüdern	tb03_l08	3	wén’a.	wêna	0	w	w	wena	eat			low	Muller 1865, ZGP-0356 present -ena/-ana material.	Stem is short in this segmentation; keep under review.
 Das Märchen von den drei Brüdern	tb03_l08	3	wén’a.	wêna	1	én’a	ena	-ena	PRS.1SG	suffix	tense_aspect=present;person=1;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.
 Das Märchen von den drei Brüdern	tb03_l08	4	H̔asanéki	'Hasanêki	0	H̔asanéki	'Hasanêki	hasaneki	Hasanek			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb03_l08	5	kaγít	kağit	0	kaγít	kağit	kagit				unsplit	Current word-level token gloss; no confident internal split applied.
@@ -463,7 +463,7 @@ Das Märchen von den drei Brüdern	tb04_l01	8	ḗ̱n’a	ena	0	ḗ̱n’a	en
 Das Märchen von den drei Brüdern	tb04_l01	9	pilaú	pilaw	0	pilaú	pilaw	pilau	pilaf			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l01	10	ge-	gê	0	ge	gê	ge	took			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l02	0	raút,	rawt	0	raút	rawt	raut	took			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb04_l02	1	šẹ̄,	şê	0	šẹ̄	şê	se	what			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb04_l02	1	šẹ̄,	şê	0	šẹ̄	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l02	2	be̱rd	berd	0	be̱rd	berd	berd	took			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l02	3	d́é̱wiri.	dyewiri	0	d́é̱wiri	dyewiri	dewiri	to the dev			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l03	0	D́au	Dyaw	0	D́au	Dyaw	dau	dev			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -495,7 +495,7 @@ Das Märchen von den drei Brüdern	tb04_l05	3	ḗ̱n’oe	enoê	0	ḗ̱n’o
 Das Märchen von den drei Brüdern	tb04_l05	4	nāṅ	naŋ	0	nāṅ	naŋ	nan	food			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l05	5	h̔adré̱	'hadre	0	h̔adré̱	'hadre	hadre	ready			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l05	6	ké̱rdu,	kerdû	0	ké̱rdu	kerdû	kerdu	made			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb04_l05	7	dau	daw	0	dau	daw	dau	dev			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb04_l05	7	dau	daw	0	dau	daw	dau	gave			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l05	8	túe,	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l05	9	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l05	10	ḗ̱n’oe	enoê	0	ḗ̱n’oe	enoê	enoe	this			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -549,7 +549,7 @@ Das Märchen von den drei Brüdern	tb04_l09	8	ken’a	kêna	1	én’a	ena	-ena	P
 Das Märchen von den drei Brüdern	tb04_l09	9	pilaú	pilaw	0	pilaú	pilaw	pilau	pilaf			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l09	10	ve̱r,	ver	0	ve̱r	ver	ver	front			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l10	0	paud̮én’a,	pawcêna	0	paud̮én’a	pawcêna	paudena	cook			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb04_l10	1	ā́na.	ana	0	ā́na	ana	ana	this			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb04_l10	1	ā́na.	ana	0	ā́na	ana	ana	brings			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l10	2	D́é̱wi	Dyewi	0	D́é̱wi	Dyewi	dewi	of the dev			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l10	3	H̔asanékira	'Hasanêkira	0	H̔asanéki	'Hasanêki	hasaneki	Hasanek			medium	Contextual ra split; function checked against project ra conventions.
 Das Märchen von den drei Brüdern	tb04_l10	3	H̔asanékira	'Hasanêkira	1	ra	ra	ra	RECIP	postposition	case_or_relation=contextual	medium	Muller 1865, ZGP-0336; project glossing_conventions.tsv keeps ra contextual.
@@ -562,7 +562,7 @@ Das Märchen von den drei Brüdern	tb04_l10	9	χóe	xoê	0	χóe	xoê	xoe	own	
 Das Märchen von den drei Brüdern	tb04_l10	10	mé̱ke,	mekê	0	mé̱ke	mekê	meke	do not make			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l11	0	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l11	1	nekaí	nêkay	0	nekaí	nêkay	nekai	now			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb04_l11	2	nusén’a,	nûsêna	0	nusén’a	nûsêna	nusena	I schreibe, ngst, schrieb			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb04_l11	2	nusén’a,	nûsêna	0	nusén’a	nûsêna	nusena	I write			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l11	3	dā́na	dana	0	dā́na	dana	dana	I give			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l11	4	túe,	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l11	5	biǵú,	bigû	0	biǵú	bigû	bigu	take			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -602,7 +602,7 @@ Das Märchen von den drei Brüdern	tb04_l14	2	trā	tra	0	trā	tra	tra	from			u
 Das Märchen von den drei Brüdern	tb04_l14	3	ke,	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l14	4	ke̱bā́b	kebab	0	ke̱bā́b	kebab	kebab	kebab			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l14	5	ke,	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb04_l14	6	paúže,	pawjê	0	paúže	pawjê	pauze	place name			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb04_l14	6	paúže,	pawjê	0	paúže	pawjê	pauze	roast			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l14	7	míri	miri	0	míri	miri	miri	to me			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l14	8	bḗ̱ršau,	berşaw	0	bḗ̱ršau	berşaw	bersau	send			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb04_l14	9	e̱k	ek	0	e̱k	ek	ek	if			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -615,7 +615,7 @@ Das Märchen von den drei Brüdern	tb05_l01	4	amé	amê	0	amé	amê	ame	came		
 Das Märchen von den drei Brüdern	tb05_l01	5	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l01	6	h̔ēt,	'hêt	0	h̔ēt	'hêt	het	side			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l01	7	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb05_l01	8	h̔aúńa	'hawnya	0	h̔aúńa	'hawnya	hauna	match			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb05_l01	8	h̔aúńa	'hawnya	0	h̔aúńa	'hawnya	hauna	immediately			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l01	9	yén’a	yêna	0	yén’a	yêna	yena	I come			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l01	10	sé̱re	serê	0	sé̱re	serê	sere	head			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l02	0	de̱stā́ni	destani	0	de̱stā́ni	destani	destani	hands			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -644,10 +644,10 @@ Das Märchen von den drei Brüdern	tb05_l03	8	H̔asanékira.	'Hasanêkira	1	ra	
 Das Märchen von den drei Brüdern	tb05_l03	9	H̔a-	'Ha	0	H̔a	'Ha	ha	there			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l04	0	sanéki	sanêki	0	sanéki	sanêki	saneki				unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l04	1	geraút,	gêrawt	0	geraút	gêrawt	geraut	took			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb05_l04	2	di̥	dı	0	di̥	dı	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb05_l04	2	di̥	dı	0	di̥	dı	di	two			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l04	3	sá’ati	saati	0	sá’ati	saati	saati	hours			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l04	4	d̮ā	ca	0	d̮ā	ca	da	gave			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb05_l04	5	šẹ̄,	şê	0	šẹ̄	şê	se	what			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb05_l04	5	šẹ̄,	şê	0	šẹ̄	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l04	6	kaγít	kağit	0	kaγít	kağit	kagit				unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l04	7	akērd,	akêrd	0	akērd	akêrd	akerd	opened			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l04	8	kaγít	kağit	0	kaγít	kağit	kagit				unsplit	Current word-level token gloss; no confident internal split applied.
@@ -738,7 +738,7 @@ Das Märchen von den drei Brüdern	tb05_l11	9	bí̥rné,	bırnê	0	bí̥rné
 Das Märchen von den drei Brüdern	tb05_l11	10	míri	miri	0	míri	miri	miri	to me			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l11	11	ke̱bā́b	kebab	0	ke̱bā́b	kebab	kebab	kebab			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l12	0	ke,	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb05_l12	1	paúže,	pawjê	0	paúže	pawjê	pauze	place name			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb05_l12	1	paúže,	pawjê	0	paúže	pawjê	pauze	roast			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l12	2	nā	na	0	nā	na	na	ended			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l12	3	pilaú	pilaw	0	pilaú	pilaw	pilau	pilaf			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb05_l12	4	míri	miri	0	míri	miri	miri	to me			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -838,7 +838,7 @@ Das Märchen von den drei Brüdern	tb06_l05	4	šúri	şûri	0	šúri	şûri	
 Das Märchen von den drei Brüdern	tb06_l05	5	kerd	kêrd	0	kerd	kêrd	kerd	did			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l05	6	kebā́b.	kêbab	0	kebā́b	kêbab	kebab	kebab			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l05	7	H̔asanék	'Hasanêk	0	H̔asanék	'Hasanêk	hasanek	Hasanek			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb06_l05	8	áya	aya	0	áya	aya	aya	Agha			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb06_l05	8	áya	aya	0	áya	aya	aya	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l05	9	šaúe	şawê	0	šaúe	şawê	saue	night			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l05	10	keína	kêyna	0	keína	kêyna	keina	daughter			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l05	11	ki̥d̮i	kıci	0	ki̥d̮i	kıci	kidi	small			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -853,7 +853,7 @@ Das Märchen von den drei Brüdern	tb06_l06	0	ta	ta	0	ta	ta	ta	until			unsplit	C
 Das Märchen von den drei Brüdern	tb06_l06	1	sobā́.	soba	0	sobā́	soba	soba	morning			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l06	2	So̤bā́	Soba	0	So̤bā́	Soba	soba	morning			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l06	3	we̱ríšt,	werişt	0	we̱ríšt	werişt	werist	got up			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb06_l06	4	šẹ̄	şê	0	šẹ̄	şê	se	what			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb06_l06	4	šẹ̄	şê	0	šẹ̄	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l06	5	h̔e̱ré̱mi	'heremi	0	h̔e̱ré̱mi	'heremi	heremi	chambers			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l06	6	d́éwi,	dyêwi	0	d́éwi	dyêwi	dewi	of the dev			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l06	7	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -941,7 +941,7 @@ Das Märchen von den drei Brüdern	tb06_l12	7	nāṅ	naŋ	0	nāṅ	naŋ	nan	fo
 Das Märchen von den drei Brüdern	tb06_l12	8	ud̮á	ûca	0	ud̮á	ûca	uda	down			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l12	9	ruén’a,	rwêna	0	ruén’a	rwêna	ruena	sits			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l12	10	we̱ríšt	werişt	0	we̱ríšt	werişt	werist	got up			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb06_l12	11	šẹ̄	şê	0	šẹ̄	şê	se	what			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb06_l12	11	šẹ̄	şê	0	šẹ̄	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l13	0	keíye.	kêyê	0	keíye	kêyê	keiye	house			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l13	1	H̔asanéki	'Hasanêki	0	H̔asanéki	'Hasanêki	hasaneki	Hasanek			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb06_l13	2	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -975,7 +975,7 @@ Das Märchen von den drei Brüdern	tb07_l02	3	geíra,	gêyra	0	geíra	gêyra	g
 Das Märchen von den drei Brüdern	tb07_l02	4	H̔asanék	'Hasanêk	0	H̔asanék	'Hasanêk	hasanek	Hasanek			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l02	5	ńédi.	nyêdi	0	ńédi	nyêdi	nedi	did not see			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l02	6	H̔asanék	'Hasanêk	0	H̔asanék	'Hasanêk	hasanek	Hasanek			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb07_l02	7	šẹ̄	şê	0	šẹ̄	şê	se	what			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb07_l02	7	šẹ̄	şê	0	šẹ̄	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l02	8	χóeri	xoêri	0	χóe	xoê	xoe	self/own			high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
 Das Märchen von den drei Brüdern	tb07_l02	8	χóeri	xoêri	1	ri	ri	ri	REFL/OBL	case/postposition	relation=reflexive_or_oblique	high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
 Das Märchen von den drei Brüdern	tb07_l02	9	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -983,7 +983,7 @@ Das Märchen von den drei Brüdern	tb07_l02	10	šahre	şahrê	0	šahre	şahrê
 Das Märchen von den drei Brüdern	tb07_l03	0	stā́ṅ,	staŋ	0	stā́ṅ	staŋ	stan				unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l03	1	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l03	2	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb07_l03	3	bé̱rdi	berdi	0	bé̱rdi	berdi	berdi	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb07_l03	3	bé̱rdi	berdi	0	bé̱rdi	berdi	berdi	took			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l03	4	t̮āršū́,	çarşû	0	t̮āršū́	çarşû	tarsu	market			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l03	5	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l03	6	ke	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1046,9 +1046,9 @@ Das Märchen von den drei Brüdern	tb07_l08	5	χóeri	xoêri	0	χóe	xoê	xoe	
 Das Märchen von den drei Brüdern	tb07_l08	5	χóeri	xoêri	1	ri	ri	ri	REFL/OBL	case/postposition	relation=reflexive_or_oblique	high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
 Das Märchen von den drei Brüdern	tb07_l08	6	se̱	se	0	se̱	se	se	what			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l08	7	ki,	ki	0	ki	ki	ki	that			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb07_l08	8	d̮au	caw	0	d̮au	caw	dau	dev			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb07_l08	8	d̮au	caw	0	d̮au	caw	dau	place			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l08	9	γarī́bu,	ğaribû	0	γarī́bu	ğaribû	garibu				unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb07_l08	10	d̮ai	cay	0	d̮ai	cay	dai	gave			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb07_l08	10	d̮ai	cay	0	d̮ai	cay	dai	place			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l08	11	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l08	12	t̮íńu,	çinyû	0	t̮íńu	çinyû	tinu	there is not			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l08	13	t̮au	çaw	0	t̮au	çaw	tau	no one			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1057,7 +1057,7 @@ Das Märchen von den drei Brüdern	tb07_l09	0	ńeve̱rdā́nu,	nyêverdanû	1	
 Das Märchen von den drei Brüdern	tb07_l09	1	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l09	2	šyẹ̄́ri	şyêri	0	šyẹ̄́ri	şyêri	syeri	go			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l09	3	keíye̱	kêye	0	keíye̱	kêye	keiye	house			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb07_l09	4	d̮ai	cay	0	d̮ai	cay	dai	gave			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb07_l09	4	d̮ai	cay	0	d̮ai	cay	dai	place			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l09	5	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l09	6	t̮íńu.	çinyû	0	t̮íńu	çinyû	tinu	there is not			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l09	7	H̔asanéki	'Hasanêki	0	H̔asanéki	'Hasanêki	hasaneki	Hasanek			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1092,7 +1092,7 @@ Das Märchen von den drei Brüdern	tb07_l12	0	ḗ̱n’oe	enoê	0	ḗ̱n’o
 Das Märchen von den drei Brüdern	tb07_l12	1	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l12	2	mínu,	minû	0	mínu	minû	minu	mine			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l12	3	nāmeí	namêy	0	nāmeí	namêy	namei	name			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb07_l12	4	d̮ai	cay	0	d̮ai	cay	dai	gave			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb07_l12	4	d̮ai	cay	0	d̮ai	cay	dai	his			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l12	5	Qasímu,	Qasimû	0	Qasímu	Qasimû	qasimu	Qasim			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l12	6	wā	wa	0	wā	wa	wa	let			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb07_l12	7	túeri	twêri	0	túe	twê	tue	2SG.OBL			high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
@@ -1131,7 +1131,7 @@ Das Märchen von den drei Brüdern	tb08_l01	3	vā:	va	0	vā	va	va	said			unspl
 Das Märchen von den drei Brüdern	tb08_l01	4	pé̱ke	pekê	0	pé̱ke	pekê	peke	good			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l01	5	lā́d̮im.	lacim	0	lā́d̮im	lacim	ladim	my son			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l01	6	H̔asanéki	'Hasanêki	0	H̔asanéki	'Hasanêki	hasaneki	Hasanek			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb08_l01	7	wid̮ā́	wica	0	wid̮ā́	wica	wida	immediately			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb08_l01	7	wid̮ā́	wica	0	wid̮ā́	wica	wida	there			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l01	8	beraí	bêray	0	beraí	bêray	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l01	9	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l01	10	ve̱r	ver	0	ve̱r	ver	ver	front			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1184,7 +1184,7 @@ Das Märchen von den drei Brüdern	tb08_l06	0	e̱z	ez	0	e̱z	ez	ez	I			unsplit	C
 Das Märchen von den drei Brüdern	tb08_l06	1	dían,	dyan	0	dían	dyan	dian	saw			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l06	2	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l06	3	geraúta	gêrawta	0	geraúta	gêrawta	gerauta	took			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb08_l06	4	ā́rda	arda	0	ā́rda	arda	arda	flour			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb08_l06	4	ā́rda	arda	0	ā́rda	arda	arda	brought			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l06	5	bi̥stā	bısta	0	bi̥stā	bısta	bista	thrown			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l06	6	ḗ̱n’oe	enoê	0	ḗ̱n’oe	enoê	enoe	this			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l06	7	zeindā́n.	zêyndan	0	zeindā́n	zêyndan	zeindan	prison			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1239,7 +1239,7 @@ Das Märchen von den drei Brüdern	tb08_l10	8	vā	va	0	vā	va	va	said			unspli
 Das Märchen von den drei Brüdern	tb08_l10	9	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l10	10	egít	êgit	0	egít	êgit	egit	hero			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l10	11	te	tê	0	te	tê	te	you			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb08_l11	0	sé̱ra	sera	0	sé̱ra	sera	sera	year			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb08_l11	0	sé̱ra	sera	0	sé̱ra	sera	sera	where			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l11	1	šuén’i.	şwêni	0	šuén’i	şwêni	sueni	we go			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l11	2	H̔asanéki	'Hasanêki	0	H̔asanéki	'Hasanêki	hasaneki	Hasanek			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l11	3	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1251,7 +1251,7 @@ Das Märchen von den drei Brüdern	tb08_l11	7	h̔eífe	'hêyfê	0	h̔eífe	'h�
 Das Märchen von den drei Brüdern	tb08_l11	8	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l11	9	d́é̱wira	dyewira	0	d́é̱wi	dyewi	dewi	dev			medium	Contextual ra split; function checked against project ra conventions.
 Das Märchen von den drei Brüdern	tb08_l11	9	d́é̱wira	dyewira	1	ra	ra	ra	RECIP	postposition	case_or_relation=contextual	medium	Muller 1865, ZGP-0336; project glossing_conventions.tsv keeps ra contextual.
-Das Märchen von den drei Brüdern	tb08_l11	10	ǵén’a.	gêna	0	ǵén’a	gêna	gena	I lead			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb08_l11	10	ǵén’a.	gêna	0	ǵén’a	gêna	gena	I take			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l12	0	Qabás	Qabas	0	Qabás	Qabas	qabas	captain			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l12	1	baší	başi	0	baší	başi	basi	captain			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l12	2	H̔asanékira	'Hasanêkira	0	H̔asanéki	'Hasanêki	hasaneki	Hasanek			medium	Contextual ra split; function checked against project ra conventions.
@@ -1276,7 +1276,7 @@ Das Märchen von den drei Brüdern	tb08_l13	7	h̔a	'ha	0	h̔a	'ha	ha	there			uns
 Das Märchen von den drei Brüdern	tb08_l13	8	qulā́vi	qûlavi	0	qulā́vi	qûlavi	qulavi	covering			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l13	9	myā́nde,	myandê	0	myā́n	myan	myan	inside			medium	ZGP-0340; contextual locative -de.
 Das Märchen von den drei Brüdern	tb08_l13	9	myā́nde,	myandê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
-Das Märchen von den drei Brüdern	tb08_l14	0	d̮aú	caw	0	d̮aú	caw	dau	dev			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb08_l14	0	d̮aú	caw	0	d̮aú	caw	dau	where			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l14	1	ke	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l14	2	d́au	dyaw	0	d́au	dyaw	dau	dev			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb08_l14	3	rā	ra	0	rā	ra	ra	to			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1290,16 +1290,16 @@ Das Märchen von den drei Brüdern	tb08_l14	10	d́é̱wi	dyewi	0	d́é̱wi	dye
 Das Märchen von den drei Brüdern	tb08_l14	11	bi̥gé,	bıgê	0	bi̥	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.
 Das Märchen von den drei Brüdern	tb08_l14	11	bi̥gé,	bıgê	1	gé	gê	ge	bring			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.
 Das Märchen von den drei Brüdern	tb09_l01	0	bye	byê	0	bye	byê	bye	come			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l01	1	béri	bêri	0	béri	bêri	beri	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l01	1	béri	bêri	0	béri	bêri	beri	door			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l01	2	ve̱r	ver	0	ve̱r	ver	ver	front			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l01	3	dé,	dê	0	dé	dê	de	in			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l01	4	kíšta	kişta	0	kíšta	kişta	kista	right			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l01	4	kíšta	kişta	0	kíšta	kişta	kista	side			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l01	5	rā́štede	raştêdê	0	rā́štede	raştêdê	rastede	on the right			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l01	6	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l01	7	šebā́ke	şêbakê	0	šebā́ke	şêbakê	sebake	lattice			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l01	8	é̱sta,	esta	0	é̱sta	esta	esta	there is			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l01	9	šúe	şwê	0	šúe	şwê	sue	go			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l01	10	áya	aya	0	áya	aya	aya	Agha			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l01	10	áya	aya	0	áya	aya	aya	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l01	11	šebā́kede	şêbakêdê	0	šebā́ke	şêbakê	sebake	at the grating			medium	ZGP-0340; contextual locative -de.
 Das Märchen von den drei Brüdern	tb09_l01	11	šebā́kede	şêbakêdê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
 Das Märchen von den drei Brüdern	tb09_l02	0	vi̥ndé,	vındê	0	vi̥ndé	vındê	vinde	stay			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1317,7 +1317,7 @@ Das Märchen von den drei Brüdern	tb09_l02	10	ke	kê	0	ke	kê	ke	that			unsplit
 Das Märchen von den drei Brüdern	tb09_l02	11	sé̱rei	serêy	0	sé̱rei	serêy	serei	head			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l03	0	d́é̱wi	dyewi	0	d́é̱wi	dyewi	dewi	of the dev			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l03	1	āmé	amê	0	āmé	amê	ame	came			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l03	2	berá	bêra	0	berá	bêra	bera	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l03	2	berá	bêra	0	berá	bêra	bera	door			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l03	3	zé̱re	zerê	0	zé̱re	zerê	zere	inside			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l03	4	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l03	5	šimšyẹ̄́r	şimşyêr	0	šimšyẹ̄́r	şimşyêr	simsyer	sword			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1355,14 +1355,14 @@ Das Märchen von den drei Brüdern	tb09_l05	11	mẹ̄́rdāṅ	mêrdaŋ	0	mẹ�
 Das Märchen von den drei Brüdern	tb09_l05	12	yau.	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l06	0	H̔asanék	'Hasanêk	0	H̔asanék	'Hasanêk	hasanek	Hasanek			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l06	1	we̱ríšt	werişt	0	we̱ríšt	werişt	werist	got up			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l06	2	šẹ̄	şê	0	šẹ̄	şê	se	what			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l06	2	šẹ̄	şê	0	šẹ̄	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l06	3	qunāγi	qûnaği	0	qunāγi	qûnaği	qunagi				unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l06	4	d́é̱wi	dyewi	0	d́é̱wi	dyewi	dewi	of the dev			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l06	5	geírá,	gêyra	0	geírá	gêyra	geira	searched			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l06	6	d̮ai	cay	0	d̮ai	cay	dai	gave			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l06	6	d̮ai	cay	0	d̮ai	cay	dai	place			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l06	7	d́é̱wi	dyewi	0	d́é̱wi	dyewi	dewi	of the dev			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l06	8	dī,	di	0	dī	di	di	saw			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l06	9	bí̥ni	bıni	0	bí̥ni	bıni	bini	above			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l06	9	bí̥ni	bıni	0	bí̥ni	bıni	bini	under			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l06	10	bā-	ba	0	bā	ba	ba	with			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l07	0	li̥šnaí	lışnay	0	li̥šnaí	lışnay	lisnai	pillow			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l07	1	d́é̱wira	dyewira	0	d́é̱wi	dyewi	dewi	dev			medium	Contextual ra split; function checked against project ra conventions.
@@ -1372,15 +1372,15 @@ Das Märchen von den drei Brüdern	tb09_l07	3	d́é̱wi	dyewi	0	d́é̱wi	dyew
 Das Märchen von den drei Brüdern	tb09_l07	4	vet	vêt	0	vet	vêt	vet	took out			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l07	5	geraút,	gêrawt	0	geraút	gêrawt	geraut	took			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l07	6	āmé	amê	0	āmé	amê	ame	came			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l07	7	vé̱ri	veri	0	vé̱ri	veri	veri	first			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l07	8	bēri,	bêri	0	bēri	bêri	beri	brother			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l07	7	vé̱ri	veri	0	vé̱ri	veri	veri	front			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l07	8	bēri,	bêri	0	bēri	bêri	beri	door			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l07	9	auńā́	awnya	0	auńā́	awnya	auna	saw			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l07	10	kíšta	kişta	0	kíšta	kişta	kista	right			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l07	10	kíšta	kişta	0	kíšta	kişta	kista	side			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l08	0	rā́štede	raştêdê	0	rā́štede	raştêdê	rastede	on the right			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l08	1	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l08	2	šebā́ke	şêbakê	0	šebā́ke	şêbakê	sebake	lattice			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l08	3	é̱sta,	esta	0	é̱sta	esta	esta	there is			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l08	4	šẹ̄	şê	0	šẹ̄	şê	se	what			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l08	4	šẹ̄	şê	0	šẹ̄	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l08	5	ḗ̱n’a	ena	0	ḗ̱n’a	ena	ena	this			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l08	6	šebā́kede	şêbakêdê	0	šebā́ke	şêbakê	sebake	at the grating			medium	ZGP-0340; contextual locative -de.
 Das Märchen von den drei Brüdern	tb09_l08	6	šebā́kede	şêbakêdê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
@@ -1395,7 +1395,7 @@ Das Märchen von den drei Brüdern	tb09_l09	3	χóe	xoê	0	χóe	xoê	xoe	own	
 Das Märchen von den drei Brüdern	tb09_l09	4	de̱st,	dest	0	de̱st	dest	dest	hand			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l09	5	d́au	dyaw	0	d́au	dyaw	dau	dev			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l09	6	amé	amê	0	amé	amê	ame	came			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l09	7	sé̱ri	seri	0	sé̱ri	seri	seri	on			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l09	7	sé̱ri	seri	0	sé̱ri	seri	seri	head			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l09	8	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l09	9	be̱rd	berd	0	be̱rd	berd	berd	took			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l09	10	ārd	ard	0	ārd	ard	ard	brought			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1410,7 +1410,7 @@ Das Märchen von den drei Brüdern	tb09_l10	6	d́é̱wi	dyewi	0	d́é̱wi	dyew
 Das Märchen von den drei Brüdern	tb09_l10	7	terá	têra	0	terá	têra	tera	from			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l10	8	ke̱rd.	kerd	0	ke̱rd	kerd	kerd	did			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l10	9	D́au	Dyaw	0	D́au	Dyaw	dau	dev			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l10	10	gnā	gna	0	gnā	gna	gna	this time			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l10	10	gnā	gna	0	gnā	gna	gna	fell			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l11	0	é̱ru.	erû	0	é̱ru	erû	eru	earth			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l11	1	d́é̱wi	dyewi	0	d́é̱wi	dyewi	dewi	of the dev			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l11	2	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1430,7 +1430,7 @@ Das Märchen von den drei Brüdern	tb09_l12	2	d̮āṅ	caŋ	0	d̮āṅ	caŋ	da
 Das Märchen von den drei Brüdern	tb09_l12	3	mẹ̄́rdāṅ	mêrdaŋ	0	mẹ̄́rdāṅ	mêrdaŋ	merdan	heroes			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l12	4	yau,	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l12	5	d́au	dyaw	0	d́au	dyaw	dau	dev			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l12	6	me̱rd,	merd	0	me̱rd	merd	merd	man			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l12	6	me̱rd,	merd	0	me̱rd	merd	merd	died			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l12	7	H̔asanék	'Hasanêk	0	H̔asanék	'Hasanêk	hasanek	Hasanek			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l12	8	we̱ríšt,	werişt	0	we̱ríšt	werişt	werist	got up			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l12	9	lé̱šaí	leşay	0	lé̱šaí	leşay	lesai	corpse			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1440,7 +1440,7 @@ Das Märchen von den drei Brüdern	tb09_l13	2	de	dê	0	de	dê	de	in			unsplit	Cu
 Das Märchen von den drei Brüdern	tb09_l13	3	eíšte	êyştê	0	eíšte	êyştê	eiste	threw			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l13	4	zeindā́ṅ,	zêyndaŋ	0	zeindā́ṅ	zêyndaŋ	zeindan	prison			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l13	5	geíra	gêyra	0	geíra	gêyra	geira	searched			unsplit	Current word-level token gloss; no confident internal split applied.
-Das Märchen von den drei Brüdern	tb09_l13	6	šẹ̄	şê	0	šẹ̄	şê	se	what			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l13	6	šẹ̄	şê	0	šẹ̄	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l13	7	kei	kêy	0	kei	kêy	kei	house			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l13	8	d́é̱wi.	dyewi	0	d́é̱wi	dyewi	dewi	of the dev			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l13	9	Keínai	Kêynay	0	Keínai	Kêynay	keinai	daughter			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1452,7 +1452,7 @@ Das Märchen von den drei Brüdern	tb09_l14	1	mā́ra	mara	1	ra	ra	ra	RECIP	pos
 Das Märchen von den drei Brüdern	tb09_l14	2	ké̱rde	kerdê	0	ké̱rde	kerdê	kerde	did			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l14	3	χóeri,	xoêri	0	χóe	xoê	xoe	self/own			high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
 Das Märchen von den drei Brüdern	tb09_l14	3	χóeri,	xoêri	1	ri	ri	ri	REFL/OBL	case/postposition	relation=reflexive_or_oblique	high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
-Das Märchen von den drei Brüdern	tb09_l14	4	šẹ̄	şê	0	šẹ̄	şê	se	what			unsplit	Current word-level token gloss; no confident internal split applied.
+Das Märchen von den drei Brüdern	tb09_l14	4	šẹ̄	şê	0	šẹ̄	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l14	5	geíra	gêyra	0	geíra	gêyra	geira	searched			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l14	6	berá’i	bêrai	0	berá’i	bêrai	berai	brother			unsplit	Current word-level token gloss; no confident internal split applied.
 Das Märchen von den drei Brüdern	tb09_l14	7	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.

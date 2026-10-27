@@ -9261,11 +9261,11 @@
         },
         {
           "label": "ENGLISH",
-          "value": "our weapons; you are a traitor. Perhaps my father has no sense in his head; it is Ramadan,"
+          "value": "our weapons; you are a traitor. My father has no sense in his head; it is Ramadan,"
         },
         {
           "label": "TURKISH",
-          "value": "silahlarımızı; sen hainsin. Belki babamın başında akıl yoktur; Ramazan günüdür,"
+          "value": "silahlarımızı; sen hainsin. Babamın başında akıl yoktur; Ramazan günüdür,"
         }
       ],
       "witnesses": [
@@ -9389,16 +9389,16 @@
           "ipa": "ˈbawki",
           "zazaki": "bawki",
           "lemma": "bauki",
-          "display_gloss": "perhaps",
-          "gloss_tr": "belki",
-          "gloss_de": "vielleicht",
+          "display_gloss": "father",
+          "gloss_tr": "baba",
+          "gloss_de": "Vater",
           "pos": "",
           "morphemes": [
             {
               "form": "baúki",
               "normalized": "bawki",
               "lemma": "bauki",
-              "gloss": "perhaps",
+              "gloss": "father",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
@@ -13422,11 +13422,11 @@
         },
         {
           "label": "ENGLISH",
-          "value": "kill Ahmed. Ahmed saw a wall opening; a grating was in the wall, and he put his hand"
+          "value": "kill Ahmed. Ahmed saw a lattice in the wall of the room, and he put his hand"
         },
         {
           "label": "TURKISH",
-          "value": "Ahmed'i öldürmeye gitti. Ahmed duvarda bir açıklık gördü; duvarda bir kafes vardı ve elini"
+          "value": "Ahmed'i öldürmeye gitti. Ahmed odanın duvarında bir kafes gördü ve elini"
         }
       ],
       "witnesses": [
@@ -13550,16 +13550,16 @@
           "ipa": "wɛˈdi",
           "zazaki": "wedi,",
           "lemma": "wedi",
-          "display_gloss": "opening",
-          "gloss_tr": "açıklık",
-          "gloss_de": "Öffnung",
+          "display_gloss": "room",
+          "gloss_tr": "oda",
+          "gloss_de": "Zimmer",
           "pos": "",
           "morphemes": [
             {
               "form": "we̱dí",
               "normalized": "wedi",
               "lemma": "wedi",
-              "gloss": "opening",
+              "gloss": "room",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
@@ -13665,16 +13665,16 @@
           "ipa": "ˈwɛdide",
           "zazaki": "wedidê,",
           "lemma": "wedi",
-          "display_gloss": "in the opening",
-          "gloss_tr": "açıklıkta",
-          "gloss_de": "in der Öffnung",
+          "display_gloss": "in the room",
+          "gloss_tr": "odada",
+          "gloss_de": "im Zimmer",
           "pos": "",
           "morphemes": [
             {
               "form": "wé̱di",
               "normalized": "wedi",
               "lemma": "wedi",
-              "gloss": "opening",
+              "gloss": "room",
               "pos": "",
               "features": "",
               "confidence": "medium",

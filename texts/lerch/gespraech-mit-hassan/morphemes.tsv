@@ -48,8 +48,8 @@ Hassan ile Söyleşi	h01_l09	4	Aldū́n,	Aldûn	0	Aldū́n	Aldûn	aldun	Aldun	
 Hassan ile Söyleşi	h01_l09	5	Ge̱wél,	Gewêl	0	Ge̱wél	Gewêl	gewel	Gewel			unsplit	Current word-level token gloss; no confident internal split applied.
 Hassan ile Söyleşi	h01_l09	6	Kasán,	Kasan	0	Kasán	Kasan	kasan	Kasan			unsplit	Current word-level token gloss; no confident internal split applied.
 Hassan ile Söyleşi	h01_l09	7	Hʿóena,	'Hoêna	0	Hʿóena	'Hoêna	hoena	Hoeni			unsplit	Current word-level token gloss; no confident internal split applied.
-Hassan ile Söyleşi	h01_l09	8	Sā́-	Sa	0	Sā́	Sa	sa	what			unsplit	Current word-level token gloss; no confident internal split applied.
-Hassan ile Söyleşi	h01_l10	0	ma,	ma	0	ma	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l09	8	Sā́-	Sa	0	Sā́	Sa	sa	Sama (first part)			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h01_l10	0	ma,	ma	0	ma	ma	ma	Sama (continuation)			unsplit	Current word-level token gloss; no confident internal split applied.
 Hassan ile Söyleşi	h01_l10	1	É̱merā,	Emêra	0	É̱merā	Emêra	emera	Emera			unsplit	Current word-level token gloss; no confident internal split applied.
 Hassan ile Söyleşi	h01_l10	2	Šékera,	Şêkêra	0	Šékera	Şêkêra	sekera	Şekera			unsplit	Current word-level token gloss; no confident internal split applied.
 Hassan ile Söyleşi	h01_l10	3	Hʿeílāṅ,	'Hêylaŋ	0	Hʿeílāṅ	'Hêylaŋ	heilan	Heylan			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -115,8 +115,7 @@ Hassan ile Söyleşi	h02_l10	1	tu	tû	0	tu	tû	tu	you			unsplit	Current word-lev
 Hassan ile Söyleşi	h02_l10	2	sé̱ńe	senyê	0	sé̱ńe	senyê	sene	what kind			unsplit	Current word-level token gloss; no confident internal split applied.
 Hassan ile Söyleşi	h02_l10	3	dā́ri?	dari	0	dā́ri	dari	dari	trees			unsplit	Current word-level token gloss; no confident internal split applied.
 Hassan ile Söyleşi	h02_l11	0	Dā́re	Darê	0	Dā́re	Darê	dare	trees			unsplit	Current word-level token gloss; no confident internal split applied.
-Hassan ile Söyleşi	h02_l11	1	tṳ́yera	tüyêra	0	tṳ́ye	tûyê	tue	2SG.POSS/your	pronoun	person=2;number=singular;possessive=yes	medium	Context is possession/location in the addressee's garden, not source/ablative.
-Hassan ile Söyleşi	h02_l11	1	tṳ́yera	tüyêra	1	ra	ra	ra	LOC/REL	postposition	relation=contextual	low	Project ra convention keeps the function contextual where source/ablative is unsupported.
+Hassan ile Söyleşi	h02_l11	1	tṳ́yera	tüyêra	0	tṳ́yera	tüyêra		mulberry	noun		unsplit	Whole-form contextual identification from the tree list; Lerch German printed p.60: Maulbeerbäume. Conservative unsplit analysis removes unsupported second-person possessive/location parse; no internal segmentation asserted.
 Hassan ile Söyleşi	h02_l11	2	é̱stu,	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
 Hassan ile Söyleşi	h02_l11	3	sayér	sayêr	0	sayér	sayêr	sayer	apple trees			unsplit	Current word-level token gloss; no confident internal split applied.
 Hassan ile Söyleşi	h02_l11	4	é̱stu,	estû	0	é̱stu	estû	estu	there is			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -186,7 +185,7 @@ Hassan ile Söyleşi	h03_l06	2	wáχte	waxtê	0	wáχte	waxtê	waxte	time			un
 Hassan ile Söyleşi	h03_l06	3	yén’i	yêni	0	yén’i	yêni	yeni	we come			unsplit	Current word-level token gloss; no confident internal split applied.
 Hassan ile Söyleşi	h03_l06	4	wār?	war	0	wār	war	war	down			unsplit	Current word-level token gloss; no confident internal split applied.
 Hassan ile Söyleşi	h03_l07	0	Mā	Ma	0	Mā	Ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
-Hassan ile Söyleşi	h03_l07	1	ā́šmai	aşmay	0	ā́šmai	aşmay	asmai	moon			unsplit	Current word-level token gloss; no confident internal split applied.
+Hassan ile Söyleşi	h03_l07	1	ā́šmai	aşmay	0	ā́šmai	aşmay	asmai	month			unsplit	Current word-level token gloss; no confident internal split applied.
 Hassan ile Söyleşi	h03_l07	2	pa’ízi	paizi	0	pa’ízi	paizi	paizi	autumn			unsplit	Current word-level token gloss; no confident internal split applied.
 Hassan ile Söyleşi	h03_l07	3	vē̱ryén’i	veryêni	0	vē̱ryén’i	veryêni	veryeni	first			unsplit	Current word-level token gloss; no confident internal split applied.
 Hassan ile Söyleşi	h03_l07	4	yén’i	yêni	0	yén’i	yêni	yeni	we come			unsplit	Current word-level token gloss; no confident internal split applied.

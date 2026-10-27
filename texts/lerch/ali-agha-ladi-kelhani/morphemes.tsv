@@ -350,7 +350,7 @@ story_id	segment_id	token_index	token_lerch	token_zazaki	morpheme_index	morpheme
 Áli aγá lā́d̮i Kelháni	a03_l02	1	mé̱bere,	mebêrê	1	bere	bêrê	bere	take			high	Muller 1865, ZGP-0362 negative imperative me- prefix.
 Áli aγá lā́d̮i Kelháni	a03_l02	2	te	tê	0	te	tê	te	you			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a03_l02	3	χa’íni,	xaini	0	χa’íni	xaini	xaini	traitor			unsplit	Current word-level token gloss; no confident internal split applied.
-Áli aγá lā́d̮i Kelháni	a03_l02	4	baúki	bawki	0	baúki	bawki	bauki	perhaps			unsplit	Current word-level token gloss; no confident internal split applied.
+Áli aγá lā́d̮i Kelháni	a03_l02	4	baúki	bawki	0	baúki	bawki	bauki	father			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a03_l02	5	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a03_l02	6	sé̱rede	serêdê	0	sé̱re	serê	sere	head			medium	ZGP-0340; contextual locative -de.
 Áli aγá lā́d̮i Kelháni	a03_l02	6	sé̱rede	serêdê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
@@ -517,12 +517,12 @@ story_id	segment_id	token_index	token_lerch	token_zazaki	morpheme_index	morpheme
 Áli aγá lā́d̮i Kelháni	a03_l14	1	Ah̔méd	A'hmêd	0	Ah̔méd	A'hmêd	ahmed	Ahmed, personal name			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a03_l14	2	auńā́	awnya	0	auńā́	awnya	auna	saw			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a03_l14	3	d́ési	dyêsi	0	d́ési	dyêsi	dyes	wall			high	Reviewer note: acute on d marks palatalized d; use IPA dʲ and Zazaki dy.
-Áli aγá lā́d̮i Kelháni	a03_l14	4	we̱dí,	wedi	0	we̱dí	wedi	wedi	opening			unsplit	Current word-level token gloss; no confident internal split applied.
+Áli aγá lā́d̮i Kelháni	a03_l14	4	we̱dí,	wedi	0	we̱dí	wedi	wedi	room			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a03_l14	5	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a03_l14	6	ši̥bā́ke	şıbakê	0	ši̥bā́ke	şıbakê	sibake	grating			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a03_l14	7	h̔ā	'ha	0	h̔ā	'ha	ha	was			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a03_l14	8	d́ése	dyêsê	0	d́ése	dyêsê	dyes	in the wall			high	Reviewer note: acute on d marks palatalized d; use IPA dʲ and Zazaki dy.
-Áli aγá lā́d̮i Kelháni	a03_l14	9	wé̱dide,	wedidê	0	wé̱di	wedi	wedi	opening			medium	ZGP-0340; contextual locative -de.
+Áli aγá lā́d̮i Kelháni	a03_l14	9	wé̱dide,	wedidê	0	wé̱di	wedi	wedi	room			medium	ZGP-0340; contextual locative -de.
 Áli aγá lā́d̮i Kelháni	a03_l14	9	wé̱dide,	wedidê	1	de	de	-de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de.
 Áli aγá lā́d̮i Kelháni	a03_l14	10	dé̱sti	desti	0	dé̱sti	desti	desti	hand			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a04_l01	0	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.

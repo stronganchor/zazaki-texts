@@ -15655,9 +15655,9 @@
           "ipa": "ˈmɛvɛrdi",
           "zazaki": "meverdi,",
           "lemma": "me-",
-          "display_gloss": "spare",
-          "gloss_tr": "bağışlayın",
-          "gloss_de": "schonet",
+          "display_gloss": "do not spare",
+          "gloss_tr": "bağışlamayın",
+          "gloss_de": "verschont nicht",
           "pos": "prefix",
           "morphemes": [
             {
@@ -16098,11 +16098,11 @@
         },
         {
           "label": "ENGLISH",
-          "value": "may God preserve your life; as long as none of us dies, there is nothing for you to fear.'"
+          "value": "may God preserve your life; as long as we are not all dead, you have nothing to fear.'"
         },
         {
           "label": "TURKISH",
-          "value": "Allah canını korusun; biz ölmedikçe sana bir şey olmaz.'"
+          "value": "Allah canını korusun; hepimiz ölmedikçe sana bir şey olmaz.'"
         }
       ],
       "witnesses": [
@@ -16146,16 +16146,16 @@
           "ipa": "ˈd͡ʒaːni",
           "zazaki": "cani",
           "lemma": "dani",
-          "display_gloss": "preserve",
-          "gloss_tr": "korusun",
-          "gloss_de": "bewahre",
+          "display_gloss": "life",
+          "gloss_tr": "can",
+          "gloss_de": "Leben",
           "pos": "",
           "morphemes": [
             {
               "form": "d̮ā́ni",
               "normalized": "cani",
               "lemma": "dani",
-              "gloss": "preserve",
+              "gloss": "life",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
@@ -16192,16 +16192,16 @@
           "ipa": "saʁ",
           "zazaki": "sağ",
           "lemma": "sag",
-          "display_gloss": "life",
-          "gloss_tr": "can",
-          "gloss_de": "Seele",
+          "display_gloss": "healthy",
+          "gloss_tr": "sağ",
+          "gloss_de": "gesund",
           "pos": "",
           "morphemes": [
             {
               "form": "saγ",
               "normalized": "sağ",
               "lemma": "sag",
-              "gloss": "life",
+              "gloss": "healthy",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
@@ -16564,16 +16564,16 @@
           "ipa": "ˈaːferem",
           "zazaki": "afêrêm",
           "lemma": "aferem",
-          "display_gloss": "thanks",
+          "display_gloss": "well done",
           "gloss_tr": "aferin",
-          "gloss_de": "danke",
+          "gloss_de": "bravo",
           "pos": "",
           "morphemes": [
             {
               "form": "ā́ferem",
               "normalized": "afêrêm",
               "lemma": "aferem",
-              "gloss": "thanks",
+              "gloss": "well done",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
@@ -20602,16 +20602,16 @@
           "ipa": "ke",
           "zazaki": "kê,",
           "lemma": "ke",
-          "display_gloss": "that",
-          "gloss_tr": "ki",
-          "gloss_de": "dass",
+          "display_gloss": "make",
+          "gloss_tr": "yap",
+          "gloss_de": "mache",
           "pos": "",
           "morphemes": [
             {
               "form": "ke",
               "normalized": "kê",
               "lemma": "ke",
-              "gloss": "that",
+              "gloss": "make",
               "pos": "",
               "features": "",
               "confidence": "unsplit",

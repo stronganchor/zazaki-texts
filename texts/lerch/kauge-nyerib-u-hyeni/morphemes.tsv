@@ -15,7 +15,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h01_l02	7	Daúzra	Dawzra	0	Daúz	Dawz	dauz	D
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h01_l02	7	Daúzra	Dawzra	1	ra	ra	ra	ABL	postposition	case_or_relation=contextual	medium	Muller 1865, ZGP-0336; project glossing_conventions.tsv keeps ra contextual.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h01_l02	8	ageíra,	agêyra	0	ageíra	agêyra	ageira	set out			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h01_l03	0	āmé	amê	0	āmé	amê	ame	came			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h01_l03	1	zi̥meí	zımêy	0	zi̥meí	zımêy	zimei	north			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h01_l03	1	zi̥meí	zımêy	0	zi̥meí	zımêy	zimei	land			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h01_l03	2	Hʿyẹ̄́ni.	'Hyêni	0	Hʿyẹ̄́ni	'Hyêni	hyeni	Hyeni, place name			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h01_l03	3	Yau	Yaw	0	Yau	Yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h01_l03	4	me̱rdṳ́m	merdüm	0	me̱rdṳ́m	merdüm	merdum	man			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -216,7 +216,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l08	6	šār	şar	0	šār	şar	sar	stra
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l08	7	yén’u,	yênû	0	yén’u	yênû	yenu	comes			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l08	8	mā́li	mali	0	mā́li	mali	mali	property			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l08	9	ši̥mā́	şıma	0	ši̥mā́	şıma	sima	you			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l08	10	bén’u,	bênû	0	b	b	be	be/take			low	Muller 1865, ZGP-0356 present -ena/-ana material.	Use the phrase row for contexts where the idiom means carry off/take property.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l08	10	bén’u,	bênû	0	b	b	be	take			low	Muller 1865, ZGP-0356 present -ena/-ana material.	Use the phrase row for contexts where the idiom means carry off/take property.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l08	10	bén’u,	bênû	1	én’u	enu	-ena	PRS/FUT.3SG	suffix	tense_aspect=present_or_future;person=3;number=singular	medium	Muller 1865, ZGP-0356 present -ena/-ana material.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l08	11	ši̥mā́	şıma	0	ši̥mā́	şıma	sima	you			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l09	0	kišén’u.	kişênû	0	kiš	kiş	kist	kill			high	Muller 1865, ZGP-0356 present -ena/-ana material.
@@ -241,9 +241,9 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l10	5	muqaíte	mûqaytê	0	muqaíte	m�
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l10	6	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l10	7	bi,	bi	0	bi	bi	bi	to			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l10	8	wa	wa	0	wa	wa	wa	let			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l10	9	mā́le	malê	0	mā́le	malê	male	house			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l10	9	mā́le	malê	0	mā́le	malê	male	property			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l10	10	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l10	11	bye,	byê	0	bye	byê	bye	come			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l10	11	bye,	byê	0	bye	byê	bye	without			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l11	0	wayér	wayêr	0	wayér	wayêr	wayer	owner			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l11	1	ńékeri,	nyêkêri	0	ńé	ne	ne-	NEG	prefix	polarity=negative	high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l11	1	ńékeri,	nyêkêri	1	keri	kêri	keri	leave/do			high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.
@@ -296,7 +296,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l15	0	téra	têra	0	téra	têra	tera	f
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l15	1	réki	rêki	0	réki	rêki	reki	ready			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l15	2	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l15	3	bi̥kéri,	bıkêri	0	bi̥	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l15	3	bi̥kéri,	bıkêri	1	kéri	kêri	keri	fight/do			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l15	3	bi̥kéri,	bıkêri	1	kéri	kêri	keri	do			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l15	4	Hʿyẹ̄́neyíd̮í	'Hyênêyici	0	Hʿyẹ̄́neyíd̮í	'Hyênêyici	hyeneyidi	Hyeni person			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l15	5	mā́de	madê	0	mā́de	madê	made	with us			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l15	6	kauγé̱	kawğe	0	kauγé̱	kawğe	kauge	fight			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -306,7 +306,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l15	8	bā́rut	barût	0	bā́rut	barû
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l15	9	bigéri,	bigêri	0	bi	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h02_l15	9	bigéri,	bigêri	1	géri	gêri	geri	take			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l01	0	h̔adré̱	'hadre	0	h̔adré̱	'hadre	hadre	ready			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l01	1	kéri,	kêri	0	kéri	kêri	keri	-army			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l01	1	kéri,	kêri	0	kéri	kêri	keri	make			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l01	2	qām	qam	0	qām	qam	qam	who			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l01	3	rṓd̮uke	rocûkê	0	rṓd̮uke	rocûkê	roduke	the day when			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l01	4	Hʿyẹ̄́nera	'Hyênêra	0	Hʿyẹ̄́ne	'Hyênê	hyene	Hyeni			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
@@ -351,12 +351,12 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l05	5	Hʿyẹ̄́ni	'Hyêni	0	Hʿyḗ�
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l05	6	h̔abére	'habêrê	0	h̔abére	'habêrê	habere	message			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l05	7	e̱ršau’úte	erşawûtê	0	e̱ršau’úte	erşawûtê	ersauute	sent			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l05	8	Ńeríbu	Nyêribû	0	Ńeríbu	Nyêribû	neribu	to Nerib			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l06	0	pil	pil	0	pil	pil	pil	oldest			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l06	0	pil	pil	0	pil	pil	pil	great			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l06	1	Χalé̱f	Xalef	0	Χalé̱f	Xalef	xalef	Xalef, personal name			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l06	2	aγáiri:	ağayri	0	aγái	ağay	agai	Agha			high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l06	2	aγáiri:	ağayri	1	ri	ri	ri	GOAL/RECIP	case/postposition	relation=goal_or_recipient	high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l06	3	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l06	4	t̮íri	çiri	0	t̮íri	çiri	tiri	from me			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l06	4	t̮íri	çiri	0	t̮íri	çiri	tiri	why			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l06	5	ḗ̱n’oe	enoê	0	ḗ̱n’oe	enoê	enoe	this			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l06	6	me̱rdṳ́mi	merdümi	0	me̱rdṳ́m	merdûm	merdum	man/person			high	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l06	6	me̱rdṳ́mi	merdümi	1	i	i	-i	OBL/EZ	case/linker	relation=oblique_or_ezafe	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.
@@ -408,7 +408,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l11	0	bi̥ṅge’i,	bıngêi	0	bi̥	bi	
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l11	0	bi̥ṅge’i,	bıngêi	1	ṅge’i	ngêi	ngei	enter			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l11	1	pyéru	pyêrû	0	pyéru	pyêrû	pyeru	all			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l11	2	t̮au	çaw	0	t̮au	çaw	tau	no one			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l11	3	bye	byê	0	bye	byê	bye	come			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l11	3	bye	byê	0	bye	byê	bye	without			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l11	4	silá	sila	0	silá	sila	sila	permission			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l11	5	mé̱giri,	megiri	0	mé̱	me	me-	NEG.IMP	prefix	polarity=negative;mood=imperative	high	Muller 1865, ZGP-0362 negative imperative me- prefix.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l11	5	mé̱giri,	megiri	1	giri	giri	giri	take			high	Muller 1865, ZGP-0362 negative imperative me- prefix.
@@ -419,7 +419,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l11	9	vā	va	0	vā	va	va	said			unspli
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l11	10	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l12	0	qā́meḱ	qamêk	0	qā́meḱ	qamêk	qamek	whoever			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l12	1	vyén’a	vyêna	0	vyén’a	vyêna	vyena	I see			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l12	2	bye	byê	0	bye	byê	bye	come			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l12	2	bye	byê	0	bye	byê	bye	without			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l12	3	silá	sila	0	silá	sila	sila	permission			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l12	4	sé̱rei	serêy	0	sé̱rei	serêy	serei	head			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l12	5	d̮ei	cêy	0	d̮ei	cêy	dei	him			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -442,7 +442,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l13	7	t̮au	çaw	0	t̮au	çaw	tau	no one
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l13	8	keíyede	kêyêdê	0	keíye	kêyê	keiye	house			high	Muller 1865, ZGP-0340 locative -de/-di.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l13	8	keíyede	kêyêdê	1	de	dê	de	LOC	case	case=locative	high	Muller 1865, ZGP-0340 locative -de/-di.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l14	0	dé̱sti	desti	0	dé̱sti	desti	desti	hand			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l14	1	t̮ua	çwa	0	t̮ua	çwa	tua	your			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l14	1	t̮ua	çwa	0	t̮ua	çwa	tua	stick			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l14	2	ǵén’a	gêna	0	ǵén’a	gêna	gena	I take			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l14	3	t̮au	çaw	0	t̮au	çaw	tau	no one			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h03_l14	4	mé̱vindi,	mevindi	0	mé̱	me	me-	NEG.IMP	prefix	polarity=negative;mood=imperative	high	Muller 1865, ZGP-0362 negative imperative me- prefix.
@@ -497,11 +497,11 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l05	7	e̱skér	eskêr	0	e̱skér	eskê
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l05	8	pyéru	pyêrû	0	pyéru	pyêrû	pyeru	all			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l05	9	keránd	kêrand	0	keránd	kêrand	kerand	withdrew			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l06	0	pei	pêy	0	pei	pêy	pei	after			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l06	1	kunáγi	kûnaği	0	kunáγi	kûnaği	kunagi	before			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l06	1	kunáγi	kûnaği	0	kunáγi	kûnaği	kunagi	house			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l06	2	Te̱mír	Temir	0	Te̱mír	Temir	temir	Temir, personal name			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l06	3	bé̱gi,	begi	0	bé̱gi	begi	begi	Beg, title			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l06	4	bārút,	barût	0	bārút	barût	barut	gunpowder			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l06	5	qi̥rqi̥šún	qırqışûn	0	qi̥rqi̥šún	qırqışûn	qirqisun	match			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l06	5	qi̥rqi̥šún	qırqışûn	0	qi̥rqi̥šún	qırqışûn	qirqisun	lead			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l06	6	dā	da	0	dā	da	da	gave			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l06	7	e̱skéri	eskêri	0	e̱skéri	eskêri	eskeri	army			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l06	8	χóe,	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -616,7 +616,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l15	9	Χalé̱f	Xalef	0	Χalé̱f	Xale
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h04_l15	10	aγá	ağa	0	aγá	ağa	aga	Agha, title			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l01	0	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l01	1	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l01	2	ā́ferem,	afêrêm	0	ā́ferem	afêrêm	aferem	thanks			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l01	2	ā́ferem,	afêrêm	0	ā́ferem	afêrêm	aferem	well done			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l01	3	aγālerem.	ağalêrêm	0	aγālerem	ağalêrêm	agalerem	my aghas			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l01	4	Χalé̱f	Xalef	0	Χalé̱f	Xalef	xalef	Xalef, personal name			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l01	5	aγá	ağa	0	aγá	ağa	aga	Agha, title			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -643,7 +643,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l03	3	qā́muk	qamûk	0	qā́muk	qamû
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l03	4	byu	byû	0	byu	byû	byu	were			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l03	5	peíye̱,	pêye	0	peíye̱	pêye	peiye	infantry			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l03	6	qā́muk	qamûk	0	qā́muk	qamûk	qamuk	some			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l03	7	nā	na	0	nā	na	na	not			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l03	7	nā	na	0	nā	na	na	bread			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l03	8	wén’u,	wênû	0	wén’u	wênû	wenu	eats			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l03	9	qā́muk	qamûk	0	qā́muk	qamûk	qamuk	some			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l03	10	gōvéndi	govêndi	0	gōvéndi	govêndi	govendi	dance			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -721,7 +721,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l09	11	Χalé̱f	Xalef	0	Χalé̱f	Xal
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l09	12	aγái	ağay	0	aγái	ağay	agai	Agha, title			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l10	0	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l10	1	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l10	2	e̱rš!	erş	0	e̱rš	erş	ers	sent			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l10	2	e̱rš!	erş	0	e̱rš	erş	ers	march!			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l10	3	Ē̱skéri	Eskêri	0	Ē̱skéri	Eskêri	eskeri	army			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l10	4	Χalé̱f	Xalef	0	Χalé̱f	Xalef	xalef	Xalef, personal name			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h05_l10	5	aγái	ağay	0	aγái	ağay	agai	Agha, title			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -806,7 +806,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l02	6	vā	va	0	vā	va	va	said			unspli
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l02	7	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l02	8	e̱mán	eman	0	e̱mán	eman	eman	mercy			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l02	9	eféndim,	êfêndim	0	eféndim	êfêndim	efendim	my lord			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l02	10	t̮aúdi	çawdi	0	t̮aúdi	çawdi	taudi	at once			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l02	10	t̮aúdi	çawdi	0	t̮aúdi	çawdi	taudi	anyone			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l03	0	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l03	1	t̮ínu,	çinû	0	t̮ínu	çinû	tinu	there is none			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l03	2	ńešyén’a	nyêşyêna	0	ńe	ne	ne-	NEG	prefix	polarity=negative	high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.
@@ -863,7 +863,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l06	8	ki̥šén’a.	kışêna	1	én’
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l07	0	d̮éniai	cênyay	0	d̮éniai	cênyay	deniai	wife			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l07	1	túe	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l07	2	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l07	3	ā́na.	ana	0	ā́na	ana	ana	this			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l07	3	ā́na.	ana	0	ā́na	ana	ana	I will carry off			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l08	0	Dáqma	Daqma	0	Dáqma	Daqma	daqma	Daqma, personal name			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l08	1	bé̱gi	begi	0	bé̱gi	begi	begi	Beg, title			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h06_l08	2	h̔abé̱re	'haberê	0	h̔abé̱re	'haberê	habere	message			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1096,7 +1096,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h07_l13	6	ke	kê	0	ke	kê	ke	that			unsplit	
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h07_l13	7	e̱skéri	eskêri	0	e̱skéri	eskêri	eskeri	army			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h07_l13	8	χóera:	xoêra	0	χóe	xoê	xoe	self/own			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h07_l13	8	χóera:	xoêra	1	ra	ra	ra	REFL/RECIP	postposition	relation=reflexive_or_recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h07_l13	9	baúni,	bawni	0	baúni	bawni	bauni	match			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h07_l13	9	baúni,	bawni	0	baúni	bawni	bauni	look			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h07_l13	10	aγalér,	ağalêr	0	aγalér	ağalêr	agaler	aghas			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h07_l14	0	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h07_l14	1	šuén’i	şwêni	0	šuén’i	şwêni	sueni	we go			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1156,7 +1156,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l03	5	Χalé̱f	Xalef	0	Χalé̱f	Xale
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l03	6	aγá	ağa	0	aγá	ağa	aga	Agha, title			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l03	7	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l03	8	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l03	9	āferém	afêrêm	0	āferém	afêrêm	aferem	thanks			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l03	9	āferém	afêrêm	0	āferém	afêrêm	aferem	well done			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l03	10	ā́γálerim.	ağalêrim	0	ā́γálerim	ağalêrim	agalerim	my aghas			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l04	0	Χalé̱f	Xalef	0	Χalé̱f	Xalef	xalef	Xalef, personal name			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l04	1	aγá	ağa	0	aγá	ağa	aga	Agha, title			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1211,7 +1211,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l08	4	Χalé̱f	Xalef	0	Χalé̱f	Xale
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l08	5	aγá	ağa	0	aγá	ağa	aga	Agha, title			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l08	6	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l08	7	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l08	8	e̱rš!	erş	0	e̱rš	erş	ers	sent			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l08	8	e̱rš!	erş	0	e̱rš	erş	ers	march!			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l08	9	beirakdā́r	bêyrakdar	0	beirakdā́r	bêyrakdar	beirakdar	standard-bearer			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l08	10	kaut	kawt	0	kaut	kawt	kaut	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h08_l08	11	e̱skéri	eskêri	0	e̱skéri	eskêri	eskeri	army			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -1298,7 +1298,7 @@ Kauγé Ńeríb u Hʿyẹ̄́ni.	h09_l02	5	bé̱re,	berê	0	bé̱re	berê	b
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h09_l02	6	meitāni	mêytani	0	meitāni	mêytani	meitani	dead bodies			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h09_l02	7	me	mê	0	me	mê	me	1SG			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h09_l02	8	wáde̱re	waderê	0	wáde̱re	waderê	wadere	bury			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Hʿyẹ̄́ni.	h09_l02	9	t̮aúde	çawdê	0	t̮aúde	çawdê	taude	for			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Hʿyẹ̄́ni.	h09_l02	9	t̮aúde	çawdê	0	t̮aúde	çawdê	taude	anyone			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h09_l03	0	me	mê	0	me	mê	me	1SG			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h09_l03	1	t̮íńu.	çinyû	0	t̮íńu	çinyû	tinu	there is none			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Hʿyẹ̄́ni.	h09_l03	2	Χalé̱f	Xalef	0	Χalé̱f	Xalef	xalef	Xalef, personal name			unsplit	Current word-level token gloss; no confident internal split applied.
