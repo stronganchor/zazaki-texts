@@ -1,8 +1,8 @@
 Kawğê Nyêrib û Sivani
 
-Veri coan yaw lacêkû Nyêrbic şê Sivang, 'Horsigê dızdêyê, bani Mêla A'hmêdi Qafan akêrd, pûrti Mêla A'hmêdi Qafan gêrawt bêrû.
+Veri coan yaw lacêkû Nyêrbic şê Sivaŋ, 'Horsigê dızdêyê, bani Mêla A'hmêdi Qafan akêrd, pûrti Mêla A'hmêdi Qafan gêrawt bêrû.
 
-Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd, tepişt va kê dızdê ra: tê qangcaray.
+Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd, tepişt va kê dızdê ra: tê qaŋcaray.
 
 Dızdi va kê: ez Nyêribraya.
 
@@ -12,15 +12,15 @@ Dızdi va kê: ez Deştêy 'Henzira.
 
 Laci Mêla A'hmêdi va kê: tê qam me'hladi.
 
-Dızdi va kê: ez me'hlay Şêynangda.
+Dızdi va kê: ez me'hlay Şêynaŋda.
 
 Laci Mêla A'hmêdi va kê: tê qawi amêy malê mê bêni.
 
-Dızdi va kê: ez Nyêrbida amêya malê twê, dızdêy bıkêra, bêra twê ez dyang, lakimkê ez ha bêna, zor bêna.
+Dızdi va kê: ez Nyêrbida amêya malê twê, dızdêy bıkêra, bêra twê ez dyaŋ, lakimkê ez ha bêna, zor bêna.
 
 Laci Mêla A'hmêdi wica serêy dızdi têra kêrd, 'habêrê êrşawûtê Nyêrib Xalef ağayri va kê: we Xyeni nêbê, twê têdê kawğê kêrdini, tû 'Hyênici pyêrû kişti ardi emani ser.
 
-Xalef ağay 'habêrê erşawûtê Avdûlah ağay Kêlang va kê: mê Nyêribdê kawğê kêrd, lakimkê wexti xoêdê 'hadre bê, twê merdümi mê kişt, bızani kê: ez vist merdümi twê yaw merdümi xoê vera kişênya.
+Xalef ağay 'habêrê erşawûtê Avdûlah ağay Kêlaŋ va kê: mê Nyêribdê kawğê kêrd, lakimkê wexti xoêdê 'hadre bê, twê merdümi mê kişt, bızani kê: ez vist merdümi twê yaw merdümi xoê vera kişênya.
 
 Avdûlah ağay 'habêrê êrşawûtê Xalef ağayri va kê: waxtê xoêdê 'hadre bê, ez mêyştê eskêri xoê gêna, yêna awkay Şêlê ver, tızi wicara eskêri xoê bıgi, byê Cayt ver, ma kawğê bıki, nyavawkê tê serêy mê wêni, nyavawkê ez serêy twê wêna.
 
@@ -28,17 +28,17 @@ Xalef ağay 'habêr erşawûtê Avdûlah ağayri va kê: eskêri mê 'hadraw, en
 
 Enoê kawğe Tırkan nyû, enoê kawğê aşiranû, tı byê xoêri vyênê.
 
-Avdûlah ağay 'habêr erşawûtê dawang va kê: çaw mevindi, mêyştê awkay Şêlê verdê kawğê maw, Nyêrbicanû.
+Avdûlah ağay 'habêr erşawûtê dawaŋ va kê: çaw mevindi, mêyştê awkay Şêlê verdê kawğê maw, Nyêrbicanû.
 
-Dawang 'habêr erşawûtê Avdûlah ağayri va kê: mevindê, çikas mali Nyêribi estû bıdê ma, ma pêynyay dawani Nyêribi veşnêni.
+Dawaŋ 'habêr erşawûtê Avdûlah ağayri va kê: mevindê, çikas mali Nyêribi estû bıdê ma, ma pêynyay dawani Nyêribi veşnêni.
 
 Avdûlah ağay 'habêr erşawûtê dawani va ke: metêrsi, seri mıri, mal şımari.
 
-Dawang va kê: ma emşoê nyêvindêni, ma vardêni, ma swêni awkay Şêlê vêr, kawğe kêni, mevindê, tızi byê.
+Dawaŋ va kê: ma emşoê nyêvindêni, ma vardêni, ma swêni awkay Şêlê vêr, kawğe kêni, mevindê, tızi byê.
 
 Sêbah Avdûlah ağa werişt bê êspar, eskêri xoê top kêrd, va kê eskêri xoêra: oğil, mevindi, ma şyêri kawğe, metêrsi, Nyêrbici çani, kawğe aşiranû, serê mıri, mal şı-mari.
 
-Dûmilbazi day püroê, Avdûlah ağa kawt eskêri ver, şê awkay Şêlê ver, eskêri Xalef ağay nyamaw, erş kêrd, va kê eskêri xoêra: serê mıri, mal şımari, dawang veşni.
+Dûmilbazi day püroê, Avdûlah ağa kawt eskêri ver, şê awkay Şêlê ver, eskêri Xalef ağay nyamaw, erş kêrd, va kê eskêri xoêra: serê mıri, mal şımari, dawaŋ veşni.
 
 Eskêrê Avdûlah ağay şê dewi Xalef ağay, gêrawti şêş dewi, veşnay, ağêray, amêy kêyê, Avdûlah ağa da mal eskêri xoê.
 
@@ -64,9 +64,9 @@ Avdûlah ağay eskêri xoê erş kêrd va kê: seri mıri mal şımari, metêrsi
 
 Eskêri Avdûlah ağay şê eskêri Xalef ağay weta amê bı Tawricyê, kawğe kerd, eskêri Xalef ağay rema, eskêri Adûlah ağay pêyra kawt, bana dewi pyêrû taalan kerdi, sûanêy Nyêrbican pyêrû kişti, pesi cinê pyêrû ard.
 
-Mênd vist roc, Xalef ağay şê kawt kêy Qotwesan, 'Haydêr ağara va: ez kawta bê'hti twê, Avdûlah ağay Kelang eskêri mê pyêrû kişt, dewi mê pyêrû veşnay, taalan kerdi.
+Mênd vist roc, Xalef ağay şê kawt kêy Qotwesan, 'Haydêr ağara va: ez kawta bê'hti twê, Avdûlah ağay Kelaŋ eskêri mê pyêrû kişt, dewi mê pyêrû veşnay, taalan kerdi.
 
-'Haydêr ağa va kê Xalef ağayra: tê mêra vani sê, ez nyêşyêna Sivangcandê kawğe bikêra, Sivangci pêynyay ma heminê kişêni.
+'Haydêr ağa va kê Xalef ağayra: tê mêra vani sê, ez nyêşyêna Sivaŋcandê kawğe bikêra, Sivaŋci pêynyay ma heminê kişêni.
 
 Xalef ağay va kê: ez kawta be'hti twê, byê mê berê kêy Avdûlah ağay, ma pya weşi kê, çıkaskê kêyfi twê wazênû ez mal dana twê.
 

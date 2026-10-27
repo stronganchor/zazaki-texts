@@ -4,7 +4,7 @@ Kêyfê mê 'hawlû.
 
 Namêy aşirêta tê çinaw?
 
-Namêy aşirêta ma Sivang.
+Namêy aşirêta ma Sivaŋ.
 
 Çendê dêwi aşirêta şüma esti?
 
@@ -12,7 +12,7 @@ Hyêris û çêhêr dewi aşirêta mai.
 
 Namêy dewani aşirêta şüma çinaw?
 
-Fatrakom, 'Hopsor, Tênik, Rêjwan, Zımag, 'Hoêrsig, 'Hêmêk, Bılıkê, Melêkang, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sama, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahiman, Avdêlang, Mıstang, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi, Letang, Ğahar, Ğoêmang, Kavarê, Talek.
+Fatrakom, 'Hopsor, Tênik, Rêjwan, Zımag, 'Hoêrsig, 'Hêmêk, Bılıkê, Melêkaŋ, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sama, Emêra, Şêkêra, 'Hêylaŋ, Bazyaŋ, Mala-İbrahiman, Avdêlaŋ, Mıstaŋ, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi, Letaŋ, Ğahar, Ğoêmaŋ, Kavarê, Talek.
 
 Sıpyerdışi dewe Aldûni qamû?
 
@@ -40,17 +40,17 @@ Darê tüyêra estû, sayêr estû, mişmişyêr estû, xawxir, henariyêr, rez 
 
 Çendê wadêy yaw bani esti?
 
-Merdûm estû weri kêy çêhêr êsti, pangc esti, merdûm estû yaw bang estû, wade çinyû.
+Merdûm estû weri kêy çêhêr êsti, paŋc esti, merdûm estû yaw baŋ estû, wade çinyû.
 
-Şüma şwêni zozang?
+Şüma şwêni zozaŋ?
 
-Ma şwêni zozang.
+Ma şwêni zozaŋ.
 
-Şüma qam waxtê şwêni zozang?
+Şüma qam waxtê şwêni zozaŋ?
 
-Aşmê Temûzidê ma şwêni zozang.
+Aşmê Temûzidê ma şwêni zozaŋ.
 
-Şüma zozangdê karaçaciridê roşêni?
+Şüma zozaŋdê karaçaciridê roşêni?
 
 Ma karaçaciricê roşêni, bani êsti ma banidê roşêni.
 

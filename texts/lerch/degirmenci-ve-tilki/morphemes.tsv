@@ -1,13 +1,13 @@
 story_id	segment_id	token_index	token_lerch	token_zazaki	morpheme_index	morpheme_surface_lerch	morpheme_normalized	lemma	gloss	pos	features	confidence	evidence	notes
 Mährchen von dem Müller und Fuchs	mf01_l01	0	D̮aíki	Cayki	0	D̮aíki	Cayki	daiki	once			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf01_l01	1	bī	bi	0	bī	bi	bi	to			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf01_l01	2	t̮i	çi	0	t̮i	çi	ti	you			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf01_l01	1	bī	bi	0	bī	bi	bi	there was			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf01_l01	2	t̮i	çi	0	t̮i	çi	ti	anything			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf01_l01	3	ńébī,	nyêbi	0	ńébī	nyêbi	nebi	there was not			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf01_l01	4	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf01_l01	5	Aláh	Alah	0	Aláh	Alah	alah	God			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf01_l01	6	bẹ̄,	bê	0	bẹ̄	bê	be	be			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf01_l01	7	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf01_l01	8	ārewāṅt̮í	arêwangçi	0	ārewāṅt̮í	arêwangçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf01_l01	8	ārewāṅt̮í	arêwaŋçi	0	ārewāṅt̮í	arêwaŋçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf01_l01	9	bẹ̄.	bê	0	bẹ̄	bê	be	be			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf01_l01	10	Āríš	Ariş	0	Āríš	Ariş	aris	mill			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf01_l01	11	tēh̔-	tê'h	0	tēh̔	tê'h	teh	grinding			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -48,7 +48,7 @@ Mährchen von dem Müller und Fuchs	mf02_l01	11	me-	mê	0	me	mê	me	me			unsplit
 Mährchen von dem Müller und Fuchs	mf02_l02	0	sáhe,	sahê	0	sáhe	sahê	sahe	flour-bin			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l02	1	ā́rdi	ardi	0	ā́rdi	ardi	ardi	brought			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l02	2	wé̱rdi.	werdi	0	wé̱rdi	werdi	werdi	took out			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf02_l02	3	Ārewāṅt̮í	Arêwangçi	0	Ārewāṅt̮í	Arêwangçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf02_l02	3	Ārewāṅt̮í	Arêwaŋçi	0	Ārewāṅt̮í	Arêwaŋçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l02	4	we̱ríšt,	werişt	0	we̱ríšt	werişt	werist	got up			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l02	5	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l02	6	t̮úa	çwa	0	t̮úa	çwa	tua				unsplit	Current word-level token gloss; no confident internal split applied.
@@ -63,8 +63,8 @@ Mährchen von dem Müller und Fuchs	mf02_l03	4	be̱rmaí.	bermay	0	be̱rmaí	b
 Mährchen von dem Müller und Fuchs	mf02_l03	5	Lú’e	Lûê	0	Lú’e	Lûê	lue	fox			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l03	6	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l03	7	ke	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf02_l03	8	ārewāṅt̮íra:	arêwangçira	0	ārewāṅt̮í	arêwangçi	arewanti	miller			medium	Contextual ra split; function checked against project ra conventions.
-Mährchen von dem Müller und Fuchs	mf02_l03	8	ārewāṅt̮íra:	arêwangçira	1	ra	ra	ra	RECIP	postposition	case_or_relation=contextual	medium	Muller 1865, ZGP-0336; project glossing_conventions.tsv keeps ra contextual.
+Mährchen von dem Müller und Fuchs	mf02_l03	8	ārewāṅt̮íra:	arêwaŋçira	0	ārewāṅt̮í	arêwaŋçi	arewanti	miller			medium	Contextual ra split; function checked against project ra conventions.
+Mährchen von dem Müller und Fuchs	mf02_l03	8	ārewāṅt̮íra:	arêwaŋçira	1	ra	ra	ra	RECIP	postposition	case_or_relation=contextual	medium	Muller 1865, ZGP-0336; project glossing_conventions.tsv keeps ra contextual.
 Mährchen von dem Müller und Fuchs	mf02_l03	9	te	tê	0	te	tê	te	you			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l03	10	me	mê	0	me	mê	me	me			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l04	0	ve̱rā́	vera	0	ve̱rā́	vera	vera	for			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -76,14 +76,14 @@ Mährchen von dem Müller und Fuchs	mf02_l04	4	keínai	kêynay	0	keínai	kêyn
 Mährchen von dem Müller und Fuchs	mf02_l04	5	pašáde	paşadê	0	pašáde	paşadê	pasade	of the pasha			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l04	6	Mí̥sri	Mısri	0	Mí̥sri	Mısri	misri	Egypt			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l04	7	wazén’a.	wazêna	0	wazén’a	wazêna	wazena	I will ask for			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf02_l04	8	Ārewāṅt̮í	Arêwangçi	0	Ārewāṅt̮í	Arêwangçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf02_l04	8	Ārewāṅt̮í	Arêwaŋçi	0	Ārewāṅt̮í	Arêwaŋçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l04	9	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l05	0	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l05	1	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l05	2	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l05	3	me̱rdṳ́mu	merdümû	0	me̱rdṳ́m	merdûm	merdum	man/person			high	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.
 Mährchen von dem Müller und Fuchs	mf02_l05	3	me̱rdṳ́mu	merdümû	1	u	û	-u	OBL/EZ	case/linker	relation=oblique_or_ezafe	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.
-Mährchen von dem Müller und Fuchs	mf02_l05	4	ārewāṅt̮ía,	arêwangçya	0	ārewāṅt̮ía	arêwangçya	arewantia	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf02_l05	4	ārewāṅt̮ía,	arêwaŋçya	0	ārewāṅt̮ía	arêwaŋçya	arewantia	miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l05	5	ti̥	tı	0	ti̥	tı	ti	you			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l05	6	méri	mêri	0	méri	mêri	meri	to me			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l05	7	t̮itaí	çitay	0	t̮itaí	çitay	titai	how			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -111,19 +111,19 @@ Mährchen von dem Müller und Fuchs	mf02_l07	6	ti̥	tı	0	ti̥	tı	ti	you			unsp
 Mährchen von dem Müller und Fuchs	mf02_l07	7	me	mê	0	me	mê	me	me			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l07	8	ve̱rá	vera	0	ve̱rá	vera	vera	for			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l07	9	de.	dê	0	de	dê	de	in			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf02_l07	10	Ārewāṅt̮í	Arêwangçi	0	Ārewāṅt̮í	Arêwangçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf02_l07	10	Ārewāṅt̮í	Arêwaŋçi	0	Ārewāṅt̮í	Arêwaŋçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l08	0	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l08	1	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l08	2	ti̥	tı	0	ti̥	tı	ti	you			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l08	3	méri	mêri	0	méri	mêri	meri	to me			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf02_l08	4	suáṅd	swangd	0	suáṅd	swangd	suand	oath			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf02_l08	4	suáṅd	swaŋd	0	suáṅd	swaŋd	suand	oath			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l08	5	buáne.	bwanê	0	buáne	bwanê	buane	give			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l08	6	Lú’e	Lûê	0	Lú’e	Lûê	lue	fox			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf02_l08	7	ārewāṅt̮íri	arêwangçiri	0	ārewāṅt̮íri	arêwangçiri	arewantiri	to the miller			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf02_l08	8	suáṅd	swangd	0	suáṅd	swangd	suand	oath			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf02_l08	7	ārewāṅt̮íri	arêwaŋçiri	0	ārewāṅt̮íri	arêwaŋçiri	arewantiri	to the miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf02_l08	8	suáṅd	swaŋd	0	suáṅd	swaŋd	suand	oath			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l08	9	we̱nd,	wend	0	we̱nd	wend	wend	swore			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l08	10	āre-	arê	0	āre	arê	are	miller			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf02_l09	0	wāṅt̮í	wangçi	0	wāṅt̮í	wangçi	wanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf02_l09	0	wāṅt̮í	waŋçi	0	wāṅt̮í	waŋçi	wanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l09	1	lú’e	lûê	0	lú’e	lûê	lue	fox			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l09	2	ve̱rā́	vera	0	ve̱rā́	vera	vera	for			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l09	3	dai.	day	0	dai	day	dai	struck			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -185,7 +185,7 @@ Mährchen von dem Müller und Fuchs	mf02_l14	3	tu’érge	tûêrgê	0	tu’ér
 Mährchen von dem Müller und Fuchs	mf02_l14	4	varai,	varay	0	varai	varay	varai	rained			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l14	5	lasé̱r	laser	0	lasé̱r	laser	laser	flood			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l14	6	āmé̱	ame	0	āmé̱	ame	ame	came			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf02_l14	7	paṅd̮	pangc	0	paṅd̮	pangc	pand	five			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf02_l14	7	paṅd̮	paŋc	0	paṅd̮	paŋc	pand	five			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l14	8	sei	sêy	0	sei	sêy	sei	hundred			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l14	9	espā́ri	êspari	0	espā́ri	êspari	espari	horsemen			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf02_l14	10	t̮emt̮e̱qú	çêmçeqû	0	t̮emt̮e̱qú	çêmçeqû	temtequ	Çemçequ			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -263,7 +263,7 @@ Mährchen von dem Müller und Fuchs	mf03_l06	8	ke:	kê	0	ke	kê	ke	that			unspli
 Mährchen von dem Müller und Fuchs	mf03_l06	9	eféndim,	êfêndim	0	eféndim	êfêndim	efendim	my lord			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l07	0	yau	yaw	0	yau	yaw	yau	one			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l07	1	qáti	qati	0	qáti	qati	qati	set			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf03_l07	2	kind̮áṅ	kincang	0	kind̮áṅ	kincang	kindan	clothes			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf03_l07	2	kind̮áṅ	kincaŋ	0	kind̮áṅ	kincaŋ	kindan	clothes			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l07	3	bi̥dé	bıdê	0	bi̥	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.
 Mährchen von dem Müller und Fuchs	mf03_l07	3	bi̥dé	bıdê	1	dé	dê	de	give			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.
 Mährchen von dem Müller und Fuchs	mf03_l07	4	me,	mê	0	me	mê	me	me			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -306,11 +306,11 @@ Mährchen von dem Müller und Fuchs	mf03_l10	9	geraúti,	gêrawti	0	geraúti	g
 Mährchen von dem Müller und Fuchs	mf03_l10	10	āge-	agê	0	āge	agê	age	returned			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l11	0	raí,	ray	0	raí	ray	rai	way			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l11	1	šī	şi	0	šī	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf03_l11	2	ārewāṅt̮í	arêwangçi	0	ārewāṅt̮í	arêwangçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf03_l11	2	ārewāṅt̮í	arêwaŋçi	0	ārewāṅt̮í	arêwaŋçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l11	3	h̔et.	'hêt	0	h̔et	'hêt	het	to			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l11	4	Lúe	Lwê	0	Lúe	Lwê	lue	fox			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf03_l11	5	ārewāṅt̮íra	arêwangçira	0	ārewāṅt̮í	arêwangçi	arewanti	miller			medium	Contextual ra split; function checked against project ra conventions.
-Mährchen von dem Müller und Fuchs	mf03_l11	5	ārewāṅt̮íra	arêwangçira	1	ra	ra	ra	RECIP	postposition	case_or_relation=contextual	medium	Muller 1865, ZGP-0336; project glossing_conventions.tsv keeps ra contextual.
+Mährchen von dem Müller und Fuchs	mf03_l11	5	ārewāṅt̮íra	arêwaŋçira	0	ārewāṅt̮í	arêwaŋçi	arewanti	miller			medium	Contextual ra split; function checked against project ra conventions.
+Mährchen von dem Müller und Fuchs	mf03_l11	5	ārewāṅt̮íra	arêwaŋçira	1	ra	ra	ra	RECIP	postposition	case_or_relation=contextual	medium	Muller 1865, ZGP-0336; project glossing_conventions.tsv keeps ra contextual.
 Mährchen von dem Müller und Fuchs	mf03_l11	6	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l11	7	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l11	8	me	mê	0	me	mê	me	me			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -331,7 +331,7 @@ Mährchen von dem Müller und Fuchs	mf03_l12	9	ke,	kê	0	ke	kê	ke	that			unspli
 Mährchen von dem Müller und Fuchs	mf03_l12	10	bye,	byê	0	bye	byê	bye	come			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l13	0	ḗ̱n’oe	enoê	0	ḗ̱n’oe	enoê	enoe	this			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l13	1	qáti	qati	0	qáti	qati	qati	set			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf03_l13	2	kind̮áṅ	kincang	0	kind̮áṅ	kincang	kindan	clothes			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf03_l13	2	kind̮áṅ	kincaŋ	0	kind̮áṅ	kincaŋ	kindan	clothes			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l13	3	perá	pêra	0	perá	pêra	pera	on			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l13	4	ǵe,	gê	0	ǵe	gê	ge	put on			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l13	5	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -339,7 +339,7 @@ Mährchen von dem Müller und Fuchs	mf03_l13	6	šyẹ̄́ri	şyêri	0	šyẹ̄
 Mährchen von dem Müller und Fuchs	mf03_l13	7	pašáde	paşadê	0	pašáde	paşadê	pasade	of the pasha			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l13	8	Mí̥sri	Mısri	0	Mí̥sri	Mısri	misri	Egypt			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l13	9	h̔et.	'hêt	0	h̔et	'hêt	het	to			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf03_l14	0	Ārewāṅt̮í	Arêwangçi	0	Ārewāṅt̮í	Arêwangçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf03_l14	0	Ārewāṅt̮í	Arêwaŋçi	0	Ārewāṅt̮í	Arêwaŋçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l14	1	we̱ríšt,	werişt	0	we̱ríšt	werişt	werist	got up			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l14	2	šẹ̄	şê	0	šẹ̄	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf03_l14	3	h̔e̱m’ām,	'hemam	0	h̔e̱m’ām	'hemam	hemam	bath			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -413,7 +413,7 @@ Mährchen von dem Müller und Fuchs	mf04_l04	3	Mi̥sri	Mısri	0	Mi̥sri	Mısri	m
 Mährchen von dem Müller und Fuchs	mf04_l04	4	ved̮aú:	vêcaw	0	ved̮aú	vêcaw	vedau	gave honor			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l04	5	selám	sêlam	0	selám	sêlam	selam	greeting			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l04	6	leγeí.	lêğêy	0	leγeí	lêğêy	legei				unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf04_l04	7	Ārewāṅt̮í	Arêwangçi	0	Ārewāṅt̮í	Arêwangçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf04_l04	7	Ārewāṅt̮í	Arêwaŋçi	0	Ārewāṅt̮í	Arêwaŋçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l04	8	ńe̱zā́nu	nyezanû	0	ńe̱zā́nu	nyezanû	nezanu				unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l05	0	selám	sêlam	0	selám	sêlam	selam	greeting			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l05	1	bedú.	bêdû	0	bedú	bêdû	bedu				unsplit	Current word-level token gloss; no confident internal split applied.
@@ -432,7 +432,7 @@ Mährchen von dem Müller und Fuchs	mf04_l06	2	ńu,	nyû	0	ńu	nyû	nu	not			u
 Mährchen von dem Müller und Fuchs	mf04_l06	3	qāmek	qamêk	0	qāmek	qamêk	qamek	some			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l06	4	vā:	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l06	5	ḗ̱n’oe	enoê	0	ḗ̱n’oe	enoê	enoe	this			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf04_l06	6	ārewāṅt̮íyu.	arêwangçiyû	0	ārewāṅt̮íyu	arêwangçiyû	arewantiyu	is a miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf04_l06	6	ārewāṅt̮íyu.	arêwaŋçiyû	0	ārewāṅt̮íyu	arêwaŋçiyû	arewantiyu	is a miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l06	7	Lúe	Lwê	0	Lúe	Lwê	lue	fox			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l06	8	āgeraí	agêray	0	āgeraí	agêray	agerai	returned			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l06	9	d̮igeraí,	cigêray	0	d̮igeraí	cigêray	digerai	went back and forth			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -509,7 +509,7 @@ Mährchen von dem Müller und Fuchs	mf04_l12	6	šúe	şwê	0	šúe	şwê	sue
 Mährchen von dem Müller und Fuchs	mf04_l12	7	te	tê	0	te	tê	te	you			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l12	8	rā	ra	0	rā	ra	ra	from			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l12	9	ku.	kû	0	ku	kû	ku	lie down			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf04_l12	10	Ārewāṅtí	Arêwangti	0	Ārewāṅtí	Arêwangti	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf04_l12	10	Ārewāṅtí	Arêwaŋti	0	Ārewāṅtí	Arêwaŋti	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l12	11	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l12	12	ke	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf04_l13	0	lúera:	lwêra	0	lúe	lwê	lue	fox			medium	Contextual ra split; function checked against project ra conventions.
@@ -573,7 +573,7 @@ Mährchen von dem Müller und Fuchs	mf05_l03	5	zé̱re,	zerê	0	zé̱re	zerê	
 Mährchen von dem Müller und Fuchs	mf05_l03	6	nemā́d̮	nêmac	0	nemā́d̮	nêmac	nemad	prayer			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l03	7	bi̥ké.	bıkê	0	bi̥	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.
 Mährchen von dem Müller und Fuchs	mf05_l03	7	bi̥ké.	bıkê	1	ké	kê	ke	do			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.
-Mährchen von dem Müller und Fuchs	mf05_l03	8	Ārewāṅt̮í	Arêwangçi	0	Ārewāṅt̮í	Arêwangçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf05_l03	8	Ārewāṅt̮í	Arêwaŋçi	0	Ārewāṅt̮í	Arêwaŋçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l03	9	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l03	10	ke	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l04	0	lúera:	lwêra	0	lúe	lwê	lue	fox			medium	Contextual ra split; function checked against project ra conventions.
@@ -590,8 +590,8 @@ Mährchen von dem Müller und Fuchs	mf05_l04	9	šíe,	şyê	0	šíe	şyê	si
 Mährchen von dem Müller und Fuchs	mf05_l04	10	aúke	awkê	0	aúke	awkê	auke	water			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l05	0	ā́rde,	ardê	0	ā́rde	ardê	arde	brought			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l05	1	dai	day	0	dai	day	dai	struck			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf05_l05	2	ārewāṅt̮í;	arêwangçi	0	ārewāṅt̮í	arêwangçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf05_l05	3	ārewāṅt̮í	arêwangçi	0	ārewāṅt̮í	arêwangçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf05_l05	2	ārewāṅt̮í;	arêwaŋçi	0	ārewāṅt̮í	arêwaŋçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf05_l05	3	ārewāṅt̮í	arêwaŋçi	0	ārewāṅt̮í	arêwaŋçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l05	4	we̱ríšt,	werişt	0	we̱ríšt	werişt	werist	got up			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l05	5	ši	şi	0	ši	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l05	6	desmāt̮,	dêsmaç	0	desmāt̮	dêsmaç	desmat	ablution			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -606,12 +606,12 @@ Mährchen von dem Müller und Fuchs	mf05_l06	3	rayér	rayêr	0	rayér	rayêr	r
 Mährchen von dem Müller und Fuchs	mf05_l06	4	qānd̮aú.	qancaw	0	qānd̮aú	qancaw	qandau				unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l06	5	Lúe	Lwê	0	Lúe	Lwê	lue	fox			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l06	6	pa’út,	paût	0	pa’út	paût	paut	waited			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf05_l06	7	ārewāṅt̮í	arêwangçi	0	ārewāṅt̮í	arêwangçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf05_l06	7	ārewāṅt̮í	arêwaŋçi	0	ārewāṅt̮í	arêwaŋçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l06	8	ńaúme̱,	nyawme	0	ńaúme̱	nyawme	naume	did not come			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l07	0	lúe	lwê	0	lúe	lwê	lue	fox			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l07	1	ši	şi	0	ši	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l07	2	geraí,	gêray	0	geraí	gêray	gerai	searched			unsplit	Current word-level token gloss; no confident internal split applied.
-Mährchen von dem Müller und Fuchs	mf05_l07	3	ārewāṅt̮í	arêwangçi	0	ārewāṅt̮í	arêwangçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
+Mährchen von dem Müller und Fuchs	mf05_l07	3	ārewāṅt̮í	arêwaŋçi	0	ārewāṅt̮í	arêwaŋçi	arewanti	miller			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l07	4	dī,	di	0	dī	di	di	two, 2			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l07	5	gnau	gnaw	0	gnau	gnaw	gnau	fell			unsplit	Current word-level token gloss; no confident internal split applied.
 Mährchen von dem Müller und Fuchs	mf05_l07	6	é̱ru,	erû	0	é̱ru	erû	eru	earth			unsplit	Current word-level token gloss; no confident internal split applied.

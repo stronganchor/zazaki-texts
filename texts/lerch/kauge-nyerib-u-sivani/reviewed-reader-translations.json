@@ -7,7 +7,8 @@
     "source": "Lerch German Abth. I, all corresponding physical pages; Russian images for targeted divergences.",
     "source_sha256": "f5b6a3fc3f6357ed6608c4aab7e35b8c27d7292868b0614a1aa8a176a04df2cc",
     "evidence": "Language/Z/artifacts/autonomous-curation-20260907/lerch/REPORT.md",
-    "limitations": "Working reader; disclosed witness disagreements remain held. Frozen historical German prompts/OCR are not rewritten."
+    "limitations": "Working reader; disclosed witness disagreements remain held. Frozen historical German prompts/OCR are not rewritten.",
+    "orthography_2026_10_27": "Owner-requested practical orthography: IPA ŋ without following k/g is written ŋ, replacing ng. Exact source anchors and reader source projections synchronized; Lerch transcription, IPA, translations, grouping, and prior source-review status unchanged."
   },
   "source_lines": [
     {
@@ -16,7 +17,7 @@
     },
     {
       "id": "s01_l02",
-      "zazaki": "Veri coan yaw lacêkû Nyêrbic şê Sivang, 'Horsigê dızdêyê, bani"
+      "zazaki": "Veri coan yaw lacêkû Nyêrbic şê Sivaŋ, 'Horsigê dızdêyê, bani"
     },
     {
       "id": "s01_l03",
@@ -28,7 +29,7 @@
     },
     {
       "id": "s01_l05",
-      "zazaki": "dızdê ra: tê qangcaray. Dızdi va kê: ez Nyêribraya. Laci Mêla A'h-"
+      "zazaki": "dızdê ra: tê qaŋcaray. Dızdi va kê: ez Nyêribraya. Laci Mêla A'h-"
     },
     {
       "id": "s01_l06",
@@ -40,7 +41,7 @@
     },
     {
       "id": "s01_l08",
-      "zazaki": "kê: ez me'hlay Şêynangda. Laci Mêla A'hmêdi va kê: tê qawi amêy"
+      "zazaki": "kê: ez me'hlay Şêynaŋda. Laci Mêla A'hmêdi va kê: tê qawi amêy"
     },
     {
       "id": "s01_l09",
@@ -48,7 +49,7 @@
     },
     {
       "id": "s01_l10",
-      "zazaki": "bıkêra, bêra twê ez dyang, lakimkê ez ha bêna, zor bêna. Laci"
+      "zazaki": "bıkêra, bêra twê ez dyaŋ, lakimkê ez ha bêna, zor bêna. Laci"
     },
     {
       "id": "s01_l11",
@@ -64,7 +65,7 @@
     },
     {
       "id": "s02_l01",
-      "zazaki": "ûtê Avdûlah ağay Kêlang va kê: mê Nyêribdê kawğê kêrd, la-"
+      "zazaki": "ûtê Avdûlah ağay Kêlaŋ va kê: mê Nyêribdê kawğê kêrd, la-"
     },
     {
       "id": "s02_l02",
@@ -104,11 +105,11 @@
     },
     {
       "id": "s02_l11",
-      "zazaki": "Avdûlah ağay 'habêr erşawûtê dawang va kê: çaw mevindi, mêyştê"
+      "zazaki": "Avdûlah ağay 'habêr erşawûtê dawaŋ va kê: çaw mevindi, mêyştê"
     },
     {
       "id": "s02_l12",
-      "zazaki": "awkay Şêlê verdê kawğê maw, Nyêrbicanû. Dawang 'habêr erşawûtê"
+      "zazaki": "awkay Şêlê verdê kawğê maw, Nyêrbicanû. Dawaŋ 'habêr erşawûtê"
     },
     {
       "id": "s02_l13",
@@ -120,7 +121,7 @@
     },
     {
       "id": "s02_l15",
-      "zazaki": "dawani va ke: metêrsi, seri mıri, mal şımari. Dawang va kê: ma"
+      "zazaki": "dawani va ke: metêrsi, seri mıri, mal şımari. Dawaŋ va kê: ma"
     },
     {
       "id": "s03_l01",
@@ -148,7 +149,7 @@
     },
     {
       "id": "s03_l07",
-      "zazaki": "serê mıri, mal şımari, dawang veşni. Eskêrê Avdûlah ağay şê"
+      "zazaki": "serê mıri, mal şımari, dawaŋ veşni. Eskêrê Avdûlah ağay şê"
     },
     {
       "id": "s03_l08",
@@ -248,7 +249,7 @@
     },
     {
       "id": "s05_l04",
-      "zazaki": "ağara va: ez kawta bê'hti twê, Avdûlah ağay Kelang eskêri mê pyêrû"
+      "zazaki": "ağara va: ez kawta bê'hti twê, Avdûlah ağay Kelaŋ eskêri mê pyêrû"
     },
     {
       "id": "s05_l05",
@@ -256,11 +257,11 @@
     },
     {
       "id": "s05_l06",
-      "zazaki": "lef ağayra: tê mêra vani sê, ez nyêşyêna Sivangcandê kawğe bikêra,"
+      "zazaki": "lef ağayra: tê mêra vani sê, ez nyêşyêna Sivaŋcandê kawğe bikêra,"
     },
     {
       "id": "s05_l07",
-      "zazaki": "Sivangci pêynyay ma heminê kişêni. Xalef ağay va kê: ez kawta"
+      "zazaki": "Sivaŋci pêynyay ma heminê kişêni. Xalef ağay va kê: ez kawta"
     },
     {
       "id": "s05_l08",
@@ -323,7 +324,7 @@
     },
     {
       "id": "u01",
-      "source": "Veri coan yaw lacêkû Nyêrbic şê Sivang, 'Horsigê dızdêyê, bani Mêla A'hmêdi Qafan akêrd, pûrti Mêla A'hmêdi Qafan gêrawt bêrû.",
+      "source": "Veri coan yaw lacêkû Nyêrbic şê Sivaŋ, 'Horsigê dızdêyê, bani Mêla A'hmêdi Qafan akêrd, pûrti Mêla A'hmêdi Qafan gêrawt bêrû.",
       "translations": {
         "tr": "Eskiden Nyêrib'den bir genç Sivan aşiretine, Horsig'e hırsızlığa gitti; Mela Ahmedi Qafon'un evini açtı ve Mela Ahmedi Qafon'un kürkünü aldı ve götürdü.",
         "en": "Once a young man from Nerib went to the Sivan tribe, to Horsig, to steal; he opened Mel'a Ahmed Qafan's house and took Mel'a Ahmed Qafan's fur coat and carried it off.",
@@ -332,7 +333,7 @@
     },
     {
       "id": "u02_01",
-      "source": "Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd, tepişt va kê dızdê ra: tê qangcaray.",
+      "source": "Laci Mêla A'hmêdi 'Hûsêyni di enoê dızd, tepişt va kê dızdê ra: tê qaŋcaray.",
       "translations": {
         "tr": "Mela Ahmed'in oğlu Huseyin o hırsızı gördü, yakaladı ve hırsıza dedi ki: 'Sen nerelisin?'",
         "en": "Mel'a Ahmed's son Husein saw that thief, seized him, and said to the thief: 'Where are you from?'",
@@ -377,7 +378,7 @@
     },
     {
       "id": "u04_02",
-      "source": "Dızdi va kê: ez me'hlay Şêynangda.",
+      "source": "Dızdi va kê: ez me'hlay Şêynaŋda.",
       "translations": {
         "tr": "Hırsız dedi ki: 'Şeynan mahallesindeyim.'",
         "en": "The thief said that: 'I am from the Seinān mahalle.'",
@@ -395,7 +396,7 @@
     },
     {
       "id": "u05_02",
-      "source": "Dızdi va kê: ez Nyêrbida amêya malê twê, dızdêy bıkêra, bêra twê ez dyang, lakimkê ez ha bêna, zor bêna.",
+      "source": "Dızdi va kê: ez Nyêrbida amêya malê twê, dızdêy bıkêra, bêra twê ez dyaŋ, lakimkê ez ha bêna, zor bêna.",
       "translations": {
         "tr": "Hırsız dedi ki: 'Ben Nyêribliyim; senin evine geldim, hırsızlık etmek için. Sen beni burada yakaladın; fakat bil ki ben güçlüyüm.'",
         "en": "The thief said: 'I am Neribian; I came into your house to steal. Since you caught me here, know that I am strong.'",
@@ -413,7 +414,7 @@
     },
     {
       "id": "u07_01",
-      "source": "Xalef ağay 'habêrê erşawûtê Avdûlah ağay Kêlang va kê: mê Nyêribdê kawğê kêrd, lakimkê wexti xoêdê 'hadre bê, twê merdümi mê kişt, bızani kê: ez vist merdümi twê yaw merdümi xoê vera kişênya.",
+      "source": "Xalef ağay 'habêrê erşawûtê Avdûlah ağay Kêlaŋ va kê: mê Nyêribdê kawğê kêrd, lakimkê wexti xoêdê 'hadre bê, twê merdümi mê kişt, bızani kê: ez vist merdümi twê yaw merdümi xoê vera kişênya.",
       "translations": {
         "tr": "Xalef Ağa, Kelanlı Avdulah Ağa'ya haber gönderip dedi ki: 'Nyêrib'le kavga ettim, fakat kendi vaktinde hazır ol; adamlarımdan birini öldürdün; bil ki ben, benim bir adamıma karşı senin yirmi adamını öldüreceğim.'",
         "en": "Xalef Agha sent a message to Avdulah Agha of Kelan, saying: 'I fought with Nerib, but be ready at your own time; you killed one of my men; know that I will kill twenty of yours for one of mine.'",
@@ -449,7 +450,7 @@
     },
     {
       "id": "u11",
-      "source": "Avdûlah ağay 'habêr erşawûtê dawang va kê: çaw mevindi, mêyştê awkay Şêlê verdê kawğê maw, Nyêrbicanû.",
+      "source": "Avdûlah ağay 'habêr erşawûtê dawaŋ va kê: çaw mevindi, mêyştê awkay Şêlê verdê kawğê maw, Nyêrbicanû.",
       "translations": {
         "tr": "Avdulah Ağa köylülere haber gönderdi: 'Kimse gecikmesin; yarın Sele deresinde Nyêriblilerle kavgamız var.'",
         "en": "Avdulah Agha sent a message to the villagers: 'Let no one delay; tomorrow we have a fight at the stream Sele with the Nerib people.'",
@@ -458,7 +459,7 @@
     },
     {
       "id": "u12",
-      "source": "Dawang 'habêr erşawûtê Avdûlah ağayri va kê: mevindê, çikas mali Nyêribi estû bıdê ma, ma pêynyay dawani Nyêribi veşnêni.",
+      "source": "Dawaŋ 'habêr erşawûtê Avdûlah ağayri va kê: mevindê, çikas mali Nyêribi estû bıdê ma, ma pêynyay dawani Nyêribi veşnêni.",
       "translations": {
         "tr": "Köylüler haber gönderdi Avdulah Ağa'ya: 'Gecikme; Nyêrib'deki bütün malı bize ver, biz de Nyêrib köylerinin hepsini yakacağız.'",
         "en": "The villagers sent a message to Avdulah Agha: 'Do not delay; give us all the property in Nerib, and we will burn all the Nerib villages.'",
@@ -476,7 +477,7 @@
     },
     {
       "id": "u14",
-      "source": "Dawang va kê: ma emşoê nyêvindêni, ma vardêni, ma swêni awkay Şêlê vêr, kawğe kêni, mevindê, tızi byê.",
+      "source": "Dawaŋ va kê: ma emşoê nyêvindêni, ma vardêni, ma swêni awkay Şêlê vêr, kawğe kêni, mevindê, tızi byê.",
       "translations": {
         "tr": "Köylüler dedi ki: 'Biz bu gece gecikmeyeceğiz; yola çıkıp Sele deresine kavga etmeye gideceğiz, sen de gecikme, gel.'",
         "en": "The villagers said: 'We will not delay tonight; we will set out and go to the stream Sele to fight, so do not delay, and you come too.'",
@@ -494,7 +495,7 @@
     },
     {
       "id": "u16",
-      "source": "Dûmilbazi day püroê, Avdûlah ağa kawt eskêri ver, şê awkay Şêlê ver, eskêri Xalef ağay nyamaw, erş kêrd, va kê eskêri xoêra: serê mıri, mal şımari, dawang veşni.",
+      "source": "Dûmilbazi day püroê, Avdûlah ağa kawt eskêri ver, şê awkay Şêlê ver, eskêri Xalef ağay nyamaw, erş kêrd, va kê eskêri xoêra: serê mıri, mal şımari, dawaŋ veşni.",
       "translations": {
         "tr": "Davul vuruldu; Avdulah Ağa orduyu götürüp Sele deresine gitti, ama Xalef Ağa'nın ordusu gelmemişti; yürümeyi emretti ve ordusuna dedi ki: 'Başlar benim, mal sizin; köyleri yakın.'",
         "en": "The drum was struck; Avdulah Agha led the army and went to the stream Sele, but Xalef Agha's army had not come; he ordered movement and said to his army: 'The heads are mine, the property yours; burn the villages.'",
@@ -611,7 +612,7 @@
     },
     {
       "id": "u29",
-      "source": "Mênd vist roc, Xalef ağay şê kawt kêy Qotwesan, 'Haydêr ağara va: ez kawta bê'hti twê, Avdûlah ağay Kelang eskêri mê pyêrû kişt, dewi mê pyêrû veşnay, taalan kerdi.",
+      "source": "Mênd vist roc, Xalef ağay şê kawt kêy Qotwesan, 'Haydêr ağara va: ez kawta bê'hti twê, Avdûlah ağay Kelaŋ eskêri mê pyêrû kişt, dewi mê pyêrû veşnay, taalan kerdi.",
       "translations": {
         "tr": "Yirmi gün sonra Xalef Ağa Qotwesan'a, Hayder Ağa'ya gidip dedi ki: 'Senin himayene geldim; Kelanlı Avdulah Ağa bütün ordumu öldürdü, bütün köylerimi yaktı ve talan etti.'",
         "en": "After twenty days Xalef Agha went to Qotwesan, to Haider Agha, and said: 'I came under your protection; Avdulah Agha of Kelan killed my whole army, burned all my villages and plundered them.'",
@@ -620,7 +621,7 @@
     },
     {
       "id": "u30",
-      "source": "'Haydêr ağa va kê Xalef ağayra: tê mêra vani sê, ez nyêşyêna Sivangcandê kawğe bikêra, Sivangci pêynyay ma heminê kişêni.",
+      "source": "'Haydêr ağa va kê Xalef ağayra: tê mêra vani sê, ez nyêşyêna Sivaŋcandê kawğe bikêra, Sivaŋci pêynyay ma heminê kişêni.",
       "translations": {
         "tr": "Hayder Ağa Xalef Ağa'ya dedi ki: 'Bana ne diyorsun? Sivanlılarla kavga edemem; Sivanlılar hepimizi öldürür.'",
         "en": "Haider Agha said to Xalef Agha: 'What are you saying to me? I cannot fight with the Sivan people; the Sivan people would kill all of us.'",

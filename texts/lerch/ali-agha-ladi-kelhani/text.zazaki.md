@@ -2,7 +2,7 @@ Ali ağa laci Kêlhani mirêy na'hêy Karbegani.
 
 Namêy daway Ali ağay Narbyêş.
 
-Ali ağa çêhêr dawang da pyêrû, hiris û çêhêr kişti.
+Ali ağa çêhêr dawaŋ da pyêrû, hiris û çêhêr kişti.
 
 Çawdi Ali ağay çi nyêbê, çewi desti Ali ağay nyêgêrawt.
 
@@ -12,7 +12,7 @@ Hiris û şêş roci vênert Syêraçûrêdê.
 
 Hiris û çêhêr dewi Karbegani, hiris û çêhêr dewi Sivani amêy pyêser, mêşore kerd, ağalêrani Sivani, Qasim ağa Karbêgani, 'Hasan ağa Weşini amêy pyêser va kê: ma şyêri kêy Ali ağay byari daw.
 
-Qasim ağa va kê: ma Ali ağay bê'hapêyni, ma şawê venga êskêrê xoê di, eskêri dawang wa pyêrû bêrû pyêser, ma şawê şyêri Ali ağay çêhêr hemê lacana ma bıkşi.
+Qasim ağa va kê: ma Ali ağay bê'hapêyni, ma şawê venga êskêrê xoê di, eskêri dawaŋ wa pyêrû bêrû pyêser, ma şawê şyêri Ali ağay çêhêr hemê lacana ma bıkşi.
 
 'Hasan ağay Weşini va kê: rınd bênû, ma şyêri Ali ağay byari bıkşi.
 
@@ -30,7 +30,7 @@ ma şyêri Ali ağay bıkşi.
 
 Dewi pyêrû amêy pyêsêr, şawê werişti, çêhêr sêy eskêr vıcyay, amêy Qasim ağa 'hêt.
 
-Qasim ağa werişt bê aspar, kawta eskêri vêr, amêy Ğêytê, Ğêytêra sêytê gêrawt, bi pangd sêytê şi Ali ağay 'het.
+Qasim ağa werişt bê aspar, kawta eskêri vêr, amêy Ğêytê, Ğêytêra sêytê gêrawt, bi paŋd sêytê şi Ali ağay 'het.
 
 Qasim ağa şi Ali ağay hetê ronişt va kê: ağa, ez ama twêra ric amênêt kêna.
 

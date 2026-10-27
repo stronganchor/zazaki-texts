@@ -7,7 +7,8 @@
     "source": "Lerch German Abth. I, all corresponding physical pages; Russian images for targeted divergences.",
     "source_sha256": "f5b6a3fc3f6357ed6608c4aab7e35b8c27d7292868b0614a1aa8a176a04df2cc",
     "evidence": "Language/Z/artifacts/autonomous-curation-20260907/lerch/REPORT.md",
-    "limitations": "Working reader; disclosed witness disagreements remain held. Frozen historical German prompts/OCR are not rewritten."
+    "limitations": "Working reader; disclosed witness disagreements remain held. Frozen historical German prompts/OCR are not rewritten.",
+    "orthography_2026_10_27": "Owner-requested practical orthography: IPA ŋ without following k/g is written ŋ, replacing ng. Exact source anchors and reader source projections synchronized; Lerch transcription, IPA, translations, grouping, and prior source-review status unchanged."
   },
   "source_lines": [
     {
@@ -16,7 +17,7 @@
     },
     {
       "id": "a01_l02",
-      "zazaki": "Ali ağay Narbyêş. Ali ağa çêhêr dawang da pyêrû, hiris û çêhêr"
+      "zazaki": "Ali ağay Narbyêş. Ali ağa çêhêr dawaŋ da pyêrû, hiris û çêhêr"
     },
     {
       "id": "a01_l03",
@@ -44,7 +45,7 @@
     },
     {
       "id": "a01_l09",
-      "zazaki": "şawê venga êskêrê xoê di, eskêri dawang wa pyêrû bêrû pyêser,"
+      "zazaki": "şawê venga êskêrê xoê di, eskêri dawaŋ wa pyêrû bêrû pyêser,"
     },
     {
       "id": "a01_l10",
@@ -84,7 +85,7 @@
     },
     {
       "id": "a02_l09",
-      "zazaki": "amêy Ğêytê, Ğêytêra sêytê gêrawt, bi pangd sêytê şi Ali ağay 'het."
+      "zazaki": "amêy Ğêytê, Ğêytêra sêytê gêrawt, bi paŋd sêytê şi Ali ağay 'het."
     },
     {
       "id": "a02_l10",
@@ -236,7 +237,7 @@
     },
     {
       "id": "u002_01",
-      "source": "Ali ağa çêhêr dawang da pyêrû, hiris û çêhêr kişti.",
+      "source": "Ali ağa çêhêr dawaŋ da pyêrû, hiris û çêhêr kişti.",
       "translations": {
         "tr": "Ali Ağa dört köye saldırdı ve otuz dört kişiyi öldürdü.",
         "en": "Ali Agha attacked four villages and killed thirty-four people.",
@@ -281,7 +282,7 @@
     },
     {
       "id": "u004_02",
-      "source": "Qasim ağa va kê: ma Ali ağay bê'hapêyni, ma şawê venga êskêrê xoê di, eskêri dawang wa pyêrû bêrû pyêser, ma şawê şyêri Ali ağay çêhêr hemê lacana ma bıkşi.",
+      "source": "Qasim ağa va kê: ma Ali ağay bê'hapêyni, ma şawê venga êskêrê xoê di, eskêri dawaŋ wa pyêrû bêrû pyêser, ma şawê şyêri Ali ağay çêhêr hemê lacana ma bıkşi.",
       "translations": {
         "tr": "Qasım Ağa dedi ki: 'Ali Ağa'yı kandıracağız; gece ordumuzu çağıracağız, köylerin askerleri hep toplansın, gece gidip Ali Ağa'yı ve dört oğlunun hepsini öldürelim.'",
         "en": "Qasim Agha said: 'We will deceive Ali Agha; at night we will call our army, let the village soldiers all gather, and at night we will go kill Ali Agha and all four of his sons.'",
@@ -362,7 +363,7 @@
     },
     {
       "id": "u009_01",
-      "source": "Qasim ağa werişt bê aspar, kawta eskêri vêr, amêy Ğêytê, Ğêytêra sêytê gêrawt, bi pangd sêytê şi Ali ağay 'het.",
+      "source": "Qasim ağa werişt bê aspar, kawta eskêri vêr, amêy Ğêytê, Ğêytêra sêytê gêrawt, bi paŋd sêytê şi Ali ağay 'het.",
       "translations": {
         "tr": "Qasım Ağa ata bindi, ordunun önüne geçti, Ğêytê'ye geldi, Ğêytê'den yüz kişi daha aldı ve beş yüz kişiyle Ali Ağa'nın yanına gitti.",
         "en": "Qasim Agha mounted his horse, went before the army, came to Gheyte, took another hundred men from Gheyte, and with five hundred men went to Ali Agha.",

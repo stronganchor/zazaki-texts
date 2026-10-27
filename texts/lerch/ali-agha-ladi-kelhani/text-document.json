@@ -179,7 +179,7 @@
     },
     {
       "id": "u002_01",
-      "source": "Ali ağa çêhêr dawang da pyêrû, hiris û çêhêr kişti.",
+      "source": "Ali ağa çêhêr dawaŋ da pyêrû, hiris û çêhêr kişti.",
       "translations": {
         "tr": "Ali Ağa dört köye saldırdı ve otuz dört kişiyi öldürdü.",
         "en": "Ali Agha attacked four villages and killed thirty-four people.",
@@ -224,7 +224,7 @@
     },
     {
       "id": "u004_02",
-      "source": "Qasim ağa va kê: ma Ali ağay bê'hapêyni, ma şawê venga êskêrê xoê di, eskêri dawang wa pyêrû bêrû pyêser, ma şawê şyêri Ali ağay çêhêr hemê lacana ma bıkşi.",
+      "source": "Qasim ağa va kê: ma Ali ağay bê'hapêyni, ma şawê venga êskêrê xoê di, eskêri dawaŋ wa pyêrû bêrû pyêser, ma şawê şyêri Ali ağay çêhêr hemê lacana ma bıkşi.",
       "translations": {
         "tr": "Qasım Ağa dedi ki: 'Ali Ağa'yı kandıracağız; gece ordumuzu çağıracağız, köylerin askerleri hep toplansın, gece gidip Ali Ağa'yı ve dört oğlunun hepsini öldürelim.'",
         "en": "Qasim Agha said: 'We will deceive Ali Agha; at night we will call our army, let the village soldiers all gather, and at night we will go kill Ali Agha and all four of his sons.'",
@@ -305,7 +305,7 @@
     },
     {
       "id": "u009_01",
-      "source": "Qasim ağa werişt bê aspar, kawta eskêri vêr, amêy Ğêytê, Ğêytêra sêytê gêrawt, bi pangd sêytê şi Ali ağay 'het.",
+      "source": "Qasim ağa werişt bê aspar, kawta eskêri vêr, amêy Ğêytê, Ğêytêra sêytê gêrawt, bi paŋd sêytê şi Ali ağay 'het.",
       "translations": {
         "tr": "Qasım Ağa ata bindi, ordunun önüne geçti, Ğêytê'ye geldi, Ğêytê'den yüz kişi daha aldı ve beş yüz kişiyle Ali Ağa'nın yanına gitti.",
         "en": "Qasim Agha mounted his horse, went before the army, came to Gheyte, took another hundred men from Gheyte, and with five hundred men went to Ali Agha.",
@@ -832,7 +832,7 @@
       "text": "Áli aγaí Nārbyẹ̄́š. Áli aγá t̮ehér daú’āṅ dā pyérū, híris u t̮ehér",
       "lerch": "Áli aγaí Nārbyẹ̄́š. Áli aγá t̮ehér daú’āṅ dā pyérū, híris u t̮ehér",
       "ipa": "ˈali aˈʁaj naːrbˈje̝ːʃ ˈali aˈʁa t͡ʃeˈher ˈdaw.aːŋ daː ˈpjeruː ˈhiris u t͡ʃeˈher",
-      "zazaki": "Ali ağay Narbyêş. Ali ağa çêhêr dawang da pyêrû, hiris û çêhêr",
+      "zazaki": "Ali ağay Narbyêş. Ali ağa çêhêr dawaŋ da pyêrû, hiris û çêhêr",
       "source_note": "German prose confirms four villages and thirty-four people; this fixes t̮ehér as four in this story.",
       "russian_print_page": 99,
       "russian_scan_page": 113,
@@ -847,7 +847,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Ali ağay Narbyêş. Ali ağa çêhêr dawang da pyêrû, hiris û çêhêr"
+          "value": "Ali ağay Narbyêş. Ali ağa çêhêr dawaŋ da pyêrû, hiris û çêhêr"
         },
         {
           "label": "ENGLISH",
@@ -1023,7 +1023,7 @@
         {
           "form": "daú’āṅ",
           "ipa": "ˈdaw.aːŋ",
-          "zazaki": "dawang",
+          "zazaki": "dawaŋ",
           "lemma": "daw",
           "display_gloss": "villages",
           "gloss_tr": "köyler",
@@ -1175,7 +1175,7 @@
           "start": 5,
           "end": 9,
           "lerch": "t̮ehér daú’āṅ dā pyérū,",
-          "zazaki": "çêhêr dawang da pyêrû",
+          "zazaki": "çêhêr dawaŋ da pyêrû",
           "english": "overran four villages",
           "turkish": "dört köye saldırdı",
           "german": "überfiel vier Dörfer",
@@ -3192,7 +3192,7 @@
       "text": "šaú’e vé̱ṅga eskére χóe di, e̱skéri daú’āṅ wa pyéru béru pyesé̱r,",
       "lerch": "šaú’e vé̱ṅga eskére χóe di, e̱skéri daú’āṅ wa pyéru béru pyesé̱r,",
       "ipa": "ˈʃaw.e ˈvɛŋga esˈkere ˈχoe di ɛsˈkeri ˈdaw.aːŋ wa ˈpjeru ˈberu pjeˈsɛr",
-      "zazaki": "şawê venga êskêrê xoê di, eskêri dawang wa pyêrû bêrû pyêser,",
+      "zazaki": "şawê venga êskêrê xoê di, eskêri dawaŋ wa pyêrû bêrû pyêser,",
       "source_note": "",
       "russian_print_page": 99,
       "russian_scan_page": 113,
@@ -3207,7 +3207,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "şawê venga êskêrê xoê di, eskêri dawang wa pyêrû bêrû pyêser,"
+          "value": "şawê venga êskêrê xoê di, eskêri dawaŋ wa pyêrû bêrû pyêser,"
         },
         {
           "label": "ENGLISH",
@@ -3372,7 +3372,7 @@
         {
           "form": "daú’āṅ",
           "ipa": "ˈdaw.aːŋ",
-          "zazaki": "dawang",
+          "zazaki": "dawaŋ",
           "lemma": "daw",
           "display_gloss": "villages",
           "gloss_tr": "köyler",
@@ -6598,7 +6598,7 @@
       "text": "āmeí Γeíte, Γeítera seíte geraút, bi pāṅd seíte ši Áli aγaí h̔e̱t.",
       "lerch": "āmeí Γeíte, Γeítera seíte geraút, bi pāṅd seíte ši Áli aγaí h̔e̱t.",
       "ipa": "aːˈmej ˈʁejte ˈʁejtera ˈsejte geˈrawt bi paːŋd ˈsejte ʃi ˈali aˈʁaj ħɛt",
-      "zazaki": "amêy Ğêytê, Ğêytêra sêytê gêrawt, bi pangd sêytê şi Ali ağay 'het.",
+      "zazaki": "amêy Ğêytê, Ğêytêra sêytê gêrawt, bi paŋd sêytê şi Ali ağay 'het.",
       "source_note": "",
       "russian_print_page": 100,
       "russian_scan_page": 114,
@@ -6613,7 +6613,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "amêy Ğêytê, Ğêytêra sêytê gêrawt, bi pangd sêytê şi Ali ağay 'het."
+          "value": "amêy Ğêytê, Ğêytêra sêytê gêrawt, bi paŋd sêytê şi Ali ağay 'het."
         },
         {
           "label": "ENGLISH",
@@ -6789,7 +6789,7 @@
         {
           "form": "pāṅd",
           "ipa": "paːŋd",
-          "zazaki": "pangd",
+          "zazaki": "paŋd",
           "lemma": "pand",
           "display_gloss": "five",
           "gloss_tr": "beş",
@@ -6798,7 +6798,7 @@
           "morphemes": [
             {
               "form": "pāṅd",
-              "normalized": "pangd",
+              "normalized": "paŋd",
               "lemma": "pand",
               "gloss": "five",
               "pos": "",

@@ -18,7 +18,7 @@ O gece kız yatmış ve rüyasında kardeşinin öldürülüp çukura atıldığ
 
 Sabah kalkıp babasına, "Baba, dün gece bir rüya gördüm: karın kardeşimi öldürüp çukura attı," demiş.
 
-Babası kıza, "Hayır, o niye kardeşini öldürsün?" demiş.
+Babası kıza, "Sakin ol. O niye kardeşini öldürsün?" demiş.
 
 Kız, "Baba, rüyamda kardeşimin öldürülüp çukura atıldığını gördüm. Şimdi kalkıp sığırların yanına gidiyorum; akşam eve geleceğim. Kardeşim gelirse onun iyi olduğunu bileceğim, ama kardeşim gelmezse artık senin için sığırların yanına gitmeyeceğim ve burada kalmayacağım," demiş.
 
@@ -28,13 +28,13 @@ Kız kalkmış, gitmiş, sığırlarını dışarı çıkarmış ve sığırlar�
 
 Babası kızın ardından gelmiş, kızın kardeşini aramış ve onun öldürülüp çukura atıldığını, oğlanın üstüne de büyük bir taş konduğunu görmüş.
 
-Kızın babası eve gelmiş ve karısına şöyle demiş: "Kesinlikle oğlumu sen öldürdün. Kız kardeşi bunu gece rüyasında gördü; kardeşinin öldürüldüğünü gördü. Ağlayarak geldi ve bana, 'Baba, kardeşim öldürülmüş ve çukura atılmış,' dedi.
+Kızın babası eve gelmiş ve karısına şöyle demiş: "Oğlumu niye öldürdün? Kız kardeşi bunu gece rüyasında gördü; kardeşinin öldürüldüğünü gördü. Ağlayarak geldi ve bana, 'Baba, kardeşim öldürülmüş ve çukura atılmış,' dedi.
 
-Ben de, 'Kızım, hayır, korkma; kardeşin iyidir,' dedim.
+Ben de, 'Kızım, sakin ol, korkma; kardeşin iyidir,' dedim.
 
 Kız bana, 'Bugün yine sığırların yanına gidiyorum; akşam eve geleceğim. Kardeşim gelirse onun iyi olduğunu bileceğim; eğer gelmezse burada kalmayacağım,' dedi."
 
-Kadın kocasına, "Kalk buradan git, pis adam! Kızının sözünü dinliyorsun. Bana gelip, 'Kesinlikle oğlumu sen öldürdün,' diyorsun. Ben niye o oğlanı öldüreyim?" demiş.
+Kadın kocasına, "Kalk buradan git, pis adam! Kızının sözünü dinliyorsun. Bana gelip, 'Oğlumu niye öldürdün?' diyorsun. Ben niye o oğlanı öldüreyim?" demiş.
 
 Adam öfkelenmiş, gitmiş, oğlanın cesedini çukurdan çıkarmış ve kadının yanına getirmiş. Kadına, "Köpek kızı, bu oğlanı kim öldürdü?" demiş.
 

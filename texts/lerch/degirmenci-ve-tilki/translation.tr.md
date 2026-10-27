@@ -36,17 +36,17 @@ Tilki elbiseleri alıp geri dönmüş ve değirmencinin yanına gitmiş.
 
 Değirmenciye, "Mısır Paşası'nın kızını senin için istedim. Kalk, hamama git; yıkanıp temizlen. Sonra gel, bu elbiseleri giy; Mısır Paşası'nın yanına gideceğiz," demiş.
 
-Değirmenci kalkıp hamama gitmiş, yıkanmış, başını ve sakalını tıraş etmiş. Sonra gelip elbiseleri giymiş. Tilki öne düşmüş, onu alıp Mısır sınırına götürmüş; orada durmuşlar.
+Değirmenci kalkıp hamama gitmiş, yıkanmış, başını ve sakalını tıraş etmiş. Sonra gelip elbiseleri giymiş. Tilki öne düşmüş, onu alıp Mısır sınırına götürmüş.
 
-Tilki gidip Mısır Paşası'na haber vermiş.
+Orada durmuşlar. Tilki gidip Mısır Paşası'na haber vermiş.
 
 Tilki Paşa'ya, "Çemçequ Paşa geldi. Güzel bir araba ver; Çemçequ Paşa'yı getireyim. Askerlerin de onu karşılamaya çıksın," demiş.
 
 Mısır Paşası tilkiye bir araba vermiş; üç kavas da tilkinin önünden yürümüş.
 
-Çemçequ Paşa Mısır'a gelmiş.
+Çemçequ Paşa Mısır'a gelmiş. Mısır Paşası'nın askerleri onu selamlamış.
 
-Mısır Paşası'nın askerleri onu selamlamış; ama değirmenci selamı nasıl alacağını bilmiyormuş.
+Ama değirmenci selamı nasıl alacağını bilmiyormuş.
 
 Askerlerden bazıları, "Bu sarhoş, sarhoş," demiş. Bazıları, "Bu paşa değil," demiş; bazıları da, "Bu değirmenci," demiş.
 

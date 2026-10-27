@@ -7,7 +7,8 @@
     "source": "Lerch German Abth. I, all corresponding physical pages; Russian images for targeted divergences.",
     "source_sha256": "f5b6a3fc3f6357ed6608c4aab7e35b8c27d7292868b0614a1aa8a176a04df2cc",
     "evidence": "Language/Z/artifacts/autonomous-curation-20260907/lerch/REPORT.md",
-    "limitations": "Working reader; disclosed witness disagreements remain held. Frozen historical German prompts/OCR are not rewritten."
+    "limitations": "Working reader; disclosed witness disagreements remain held. Frozen historical German prompts/OCR are not rewritten.",
+    "orthography_2026_10_27": "Owner-requested practical orthography: IPA ŋ without following k/g is written ŋ, replacing ng. Exact source anchors and reader source projections synchronized; Lerch transcription, IPA, translations, grouping, and prior source-review status unchanged."
   },
   "source_lines": [
     {
@@ -44,7 +45,7 @@
     },
     {
       "id": "h01_l09",
-      "zazaki": "'Hyênêyici va kê: ez ğızmkara, derdi twê ebê mê dermang nyêbênû."
+      "zazaki": "'Hyênêyici va kê: ez ğızmkara, derdi twê ebê mê dermaŋ nyêbênû."
     },
     {
       "id": "h01_l10",
@@ -136,11 +137,11 @@
     },
     {
       "id": "h03_l07",
-      "zazaki": "'hadre bê, roci pangcinê kawğe mê kawğaw. Xalef ağay 'habêra xoê"
+      "zazaki": "'hadre bê, roci paŋcinê kawğe mê kawğaw. Xalef ağay 'habêra xoê"
     },
     {
       "id": "h03_l08",
-      "zazaki": "erşawûtê 'Hyênê Daqma begiri va kê: roci pangcinê, nyê mêyştê byê,"
+      "zazaki": "erşawûtê 'Hyênê Daqma begiri va kê: roci paŋcinê, nyê mêyştê byê,"
     },
     {
       "id": "h03_l09",
@@ -148,7 +149,7 @@
     },
     {
       "id": "h03_l10",
-      "zazaki": "Daqma begi zerêy 'Hyênidê dêlali vêyng da: nyêçaw ğarib şahrêstan"
+      "zazaki": "Daqma begi zerêy 'Hyênidê dêlali vêyŋ da: nyêçaw ğarib şahrêstan"
     },
     {
       "id": "h03_l11",
@@ -216,7 +217,7 @@
     },
     {
       "id": "h04_l13",
-      "zazaki": "bıki, ma cang mırdi aşirani, metêrsi, ez 'ha şıma ver, kêykê ez"
+      "zazaki": "bıki, ma caŋ mırdi aşirani, metêrsi, ez 'ha şıma ver, kêykê ez"
     },
     {
       "id": "h04_l14",
@@ -240,7 +241,7 @@
     },
     {
       "id": "h05_l04",
-      "zazaki": "kênû. Xalef ağa vêyng da. Daqma begi, va kê: mıgayê"
+      "zazaki": "kênû. Xalef ağa vêyŋ da. Daqma begi, va kê: mıgayê"
     },
     {
       "id": "h05_l05",
@@ -272,7 +273,7 @@
     },
     {
       "id": "h05_l12",
-      "zazaki": "Xalef ağay kawta dımê berdi, kerdi zerêy şahrêstang, yaw ma'halay"
+      "zazaki": "Xalef ağay kawta dımê berdi, kerdi zerêy şahrêstaŋ, yaw ma'halay"
     },
     {
       "id": "h05_l13",
@@ -400,7 +401,7 @@
     },
     {
       "id": "h07_l15",
-      "zazaki": "Tırki, nyêşêngi madê kawğe bıki, ma pyêrû cang mırdi kırdani,"
+      "zazaki": "Tırki, nyêşêŋi madê kawğe bıki, ma pyêrû caŋ mırdi kırdani,"
     },
     {
       "id": "h08_l01",
@@ -556,7 +557,7 @@
     },
     {
       "id": "u003_02",
-      "source": "Merdümi 'Hyênêyici va kê: ez ğızmkara, derdi twê ebê mê dermang nyêbênû.",
+      "source": "Merdümi 'Hyênêyici va kê: ez ğızmkara, derdi twê ebê mê dermaŋ nyêbênû.",
       "translations": {
         "tr": "Hyêni'li adam dedi ki: 'Ben bir hizmetçiyim; senin derdine benden derman olmaz.'",
         "en": "The Hyêni man said: 'I am a servant; your grievance has no remedy through me.'",
@@ -655,7 +656,7 @@
     },
     {
       "id": "u009_01",
-      "source": "Kê aşmi mênd, Daqma begi 'Hyêni 'habêrê erşawûtê Nyêribû pil Xalef ağayri: twê çiri enoê merdümi mê kiştû, waxtê xoêdê 'hadre bê, roci pangcinê kawğe mê kawğaw.",
+      "source": "Kê aşmi mênd, Daqma begi 'Hyêni 'habêrê erşawûtê Nyêribû pil Xalef ağayri: twê çiri enoê merdümi mê kiştû, waxtê xoêdê 'hadre bê, roci paŋcinê kawğe mê kawğaw.",
       "translations": {
         "tr": "Bir ay geçince Hyêni'li Daqma Bey Büyük Nyêrib'e, Xalef Ağa'ya haber gönderdi: 'Benim bu adamımı neden öldürdün? Kendi vaktinde hazır ol; beş gün içinde savaşacağız.'",
         "en": "After a month passed, Daqma Bey of Hyêni sent word to Great Nyêrib, to Xalef Agha: 'Why did you kill this man of mine? Be ready at your own time; within five days we will fight.'",
@@ -664,7 +665,7 @@
     },
     {
       "id": "u009_02",
-      "source": "Xalef ağay 'habêra xoê erşawûtê 'Hyênê Daqma begiri va kê: roci pangcinê, nyê mêyştê byê, ma kawğê bıkêri.",
+      "source": "Xalef ağay 'habêra xoê erşawûtê 'Hyênê Daqma begiri va kê: roci paŋcinê, nyê mêyştê byê, ma kawğê bıkêri.",
       "translations": {
         "tr": "Xalef Ağa Hyêni'de Daqma Bey'e haber gönderdi: 'Beş gün içinde, olmazsa yarın gel; savaşalım.'",
         "en": "Xalef Agha sent word to Daqma Bey in Hyêni: 'Within five days, or else come tomorrow; let us fight.'",
@@ -673,7 +674,7 @@
     },
     {
       "id": "u010_01",
-      "source": "Daqma begi zerêy 'Hyênidê dêlali vêyng da: nyêçaw ğarib şahrêstan bıngêi, pyêrû çaw byê sila megiri, ez Daqma begi va kê: qamêk vyêna byê sila serêy cêy dana püroê.",
+      "source": "Daqma begi zerêy 'Hyênidê dêlali vêyŋ da: nyêçaw ğarib şahrêstan bıngêi, pyêrû çaw byê sila megiri, ez Daqma begi va kê: qamêk vyêna byê sila serêy cêy dana püroê.",
       "translations": {
         "tr": "Daqma Bey Hyêni içinde tellala bağırttı: 'Hiçbir yabancı şehre girmesin, kimse izinsiz toplanmasın. Ben Daqma Bey diyorum: izinsiz gördüğüm kişinin başını kestiririm.'",
         "en": "Daqma Bey had the town crier call out inside Hyêni: 'Let no stranger enter the city, and let no one gather without permission. I, Daqma Bey, say: whoever I see without permission, I will have his head cut off.'",
@@ -727,7 +728,7 @@
     },
     {
       "id": "u013_01_01",
-      "source": "Xalef ağa werişt bê êspar, dûmilbazi da püroê, kawt eskêri xoê ver va kê eskêri xoêra: metêrsi, yê Tırki, yê nêşyêni kawğe bıki, ma cang mırdi aşirani, metêrsi, ez 'ha şıma ver, kêykê ez merda şıma 'hema şyêri kawğê.",
+      "source": "Xalef ağa werişt bê êspar, dûmilbazi da püroê, kawt eskêri xoê ver va kê eskêri xoêra: metêrsi, yê Tırki, yê nêşyêni kawğe bıki, ma caŋ mırdi aşirani, metêrsi, ez 'ha şıma ver, kêykê ez merda şıma 'hema şyêri kawğê.",
       "translations": {
         "tr": "Xalef Ağa ata bindi, davulu çaldırdı, ordusunun önüne geçti ve askerlerine dedi ki: 'Korkmayın; onlar Türk'tür, savaşmayı bilmezler. Biz yiğit aşiret adamlarıyız; korkmayın, ben sizin önünüzdeyim; ben ölsem bile siz yine savaşa gidin.'",
         "en": "Xalef Agha mounted his horse, had the drum beaten, went in front of his army, and said to his soldiers: 'Do not be afraid; they are Turks and do not know how to fight. We are brave tribesmen; do not be afraid. I am before you; even if I die, you still go to battle.'",
@@ -763,7 +764,7 @@
     },
     {
       "id": "u015_01",
-      "source": "Xalef ağa vêyng da.",
+      "source": "Xalef ağa vêyŋ da.",
       "translations": {
         "tr": "Xalef Ağa seslendi.",
         "en": "Xalef Agha called out.",
@@ -835,7 +836,7 @@
     },
     {
       "id": "u019_01",
-      "source": "Eskêri Xalef ağay kawta dımê berdi, kerdi zerêy şahrêstang, yaw ma'halay 'Hyêni veşnay, serêy Xalil êfêndi têra kêrd, ard, da Xalef ağayra.",
+      "source": "Eskêri Xalef ağay kawta dımê berdi, kerdi zerêy şahrêstaŋ, yaw ma'halay 'Hyêni veşnay, serêy Xalil êfêndi têra kêrd, ard, da Xalef ağayra.",
       "translations": {
         "tr": "Xalef Ağa'nın ordusu peşlerine düştü, şehre girdi, Hyêni'de bir mahalleyi yaktı, Xalil Efendi'nin başını kesti, getirip Xalef Ağa'ya verdi.",
         "en": "Xalef Agha's army pursued them, entered the city, burned one neighborhood in Hyêni, cut off Xalil Efendi's head, brought it, and gave it to Xalef Agha.",
@@ -997,7 +998,7 @@
     },
     {
       "id": "u028_01_01",
-      "source": "Êskêri Xalef ağa pyêrû ame pyêser, Xalef ağa va kê eskêri xoêra: bawni, ağalêr, ma şwêni kawğe, mêtêrsi, eskêri Daqma begi zavû, hema pyêrû Tırki, nyêşêngi madê kawğe bıki, ma pyêrû cang mırdi kırdani, myêrdêy aşirani, metêrsi, ma 'ha şwêni, 'hetakê serêy mê nyêwênû, şım çêywiri çı çinyû.",
+      "source": "Êskêri Xalef ağa pyêrû ame pyêser, Xalef ağa va kê eskêri xoêra: bawni, ağalêr, ma şwêni kawğe, mêtêrsi, eskêri Daqma begi zavû, hema pyêrû Tırki, nyêşêŋi madê kawğe bıki, ma pyêrû caŋ mırdi kırdani, myêrdêy aşirani, metêrsi, ma 'ha şwêni, 'hetakê serêy mê nyêwênû, şım çêywiri çı çinyû.",
       "translations": {
         "tr": "Xalef Ağa'nın bütün ordusu toplandı. Xalef Ağa ordusuna dedi ki: 'Dinleyin ağalar, savaşa gidiyoruz. Korkmayın; Daqma Bey'in ordusu çoktur ama hepsi Türk'tür, bizimle savaşmayı bilmezler. Biz hepimiz yiğit Kürtleriz, aşiret adamlarıyız; korkmayın, gidiyoruz; benim başım kesilmedikçe size hiçbir şey olmaz.'",
         "en": "Xalef Agha's whole army gathered. Xalef Agha said to his army: 'Listen, aghas, we are going to battle. Do not be afraid; Daqma Bey's army is large, but they are all Turks and do not know how to fight us. We are all brave Kurds, tribesmen; do not be afraid, we are going. As long as my head is not cut off, nothing will happen to you.'",

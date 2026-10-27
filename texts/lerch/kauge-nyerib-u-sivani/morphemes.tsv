@@ -12,7 +12,7 @@ Kauγé Ńeríb u Sivā́ni.	s01_l02	3	lā́d̮eku	lacêkû	2	u	û	-u	OBL	case/l
 Kauγé Ńeríb u Sivā́ni.	s01_l02	4	Ńerbíd̮	Nyêrbic	0	Ńeríb	Nyêrib	nerib	Nerib			high	User note on s01_l02; place-name base in affiliation form.
 Kauγé Ńeríb u Sivā́ni.	s01_l02	4	Ńerbíd̮	Nyêrbic	1	d̮	c	-ic	AFFIL	derivational_suffix	relation=person_from_place	medium	User note on s01_l02: nerb-ic, person from Nerib.
 Kauγé Ńeríb u Sivā́ni.	s01_l02	5	šẹ̄	şê	0	šẹ̄	şê	se	went			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Sivā́ni.	s01_l02	6	Sivā́ṅ,	Sivang	0	Sivā́ṅ	Sivang	sivan	Sivan tribe			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Sivā́ni.	s01_l02	6	Sivā́ṅ,	Sivaŋ	0	Sivā́ṅ	Sivaŋ	sivan	Sivan tribe			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s01_l02	7	Hʿōrsíge	'Horsigê	0	Hʿōrsíge	'Horsigê	horsige	Horsig place			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s01_l02	8	di̥zdeíe,	dızdêyê	0	di̥zdeíe	dızdêyê	dizdeie	to steal			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s01_l02	9	bā́ni	bani	0	bā́ni	bani	bani	house			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -40,7 +40,7 @@ Kauγé Ńeríb u Sivā́ni.	s01_l04	10	ke	kê	0	ke	kê	ke	that			unsplit	Curren
 Kauγé Ńeríb u Sivā́ni.	s01_l05	0	dí̥zdera:	dızdê ra	0	dí̥zde	dızdê	dizde	thief			high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
 Kauγé Ńeríb u Sivā́ni.	s01_l05	0	dí̥zdera:	dızdê ra	1	ra	ra	ra	RECIP	postposition	relation=recipient	high	Muller 1865, ZGP-0336; function chosen with project ra conventions.
 Kauγé Ńeríb u Sivā́ni.	s01_l05	1	te	tê	0	te	tê	te	you			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Sivā́ni.	s01_l05	2	qāṅd̮araí.	qangcaray	0	qāṅd̮araí	qangcaray	qandarai	where from?			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Sivā́ni.	s01_l05	2	qāṅd̮araí.	qaŋcaray	0	qāṅd̮araí	qaŋcaray	qandarai	where from?			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s01_l05	3	Dí̥zdi	Dızdi	0	Dí̥zdi	Dızdi	dizdi	thief			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s01_l05	4	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s01_l05	5	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -81,7 +81,7 @@ Kauγé Ńeríb u Sivā́ni.	s01_l07	10	vā	va	0	vā	va	va	said			unsplit	Curren
 Kauγé Ńeríb u Sivā́ni.	s01_l08	0	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s01_l08	1	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s01_l08	2	mé̱h̔lai	me'hlay	0	mé̱h̔lai	me'hlay	mehlai	mahalle			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Sivā́ni.	s01_l08	3	Šeinā́ṅda.	Şêynangda	0	Šeinā́ṅda	Şêynangda	seinanda	in the Seinan mahalle			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Sivā́ni.	s01_l08	3	Šeinā́ṅda.	Şêynaŋda	0	Šeinā́ṅda	Şêynaŋda	seinanda	in the Seinan mahalle			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s01_l08	4	Lā́d̮i	Laci	0	lā́d̮	lac	lad	son			high	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.
 Kauγé Ńeríb u Sivā́ni.	s01_l08	4	Lā́d̮i	Laci	1	i	i	-i	EZ/GEN	linker	relation=genitive/ezafe	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.
 Kauγé Ńeríb u Sivā́ni.	s01_l08	5	Mél’a	Mêla	0	Mél’a	Mêla	mela	mullah			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -109,7 +109,7 @@ Kauγé Ńeríb u Sivā́ni.	s01_l10	0	bi̥kéra,	bıkêra	1	kéra	kêra	kera	co
 Kauγé Ńeríb u Sivā́ni.	s01_l10	1	berá	bêra	0	berá	bêra	bera	here	adverb	deixis=proximal;location=here	medium	Phrase-level reading of berá túe e̱z diā́ṅ as 'you have seen me here'.
 Kauγé Ńeríb u Sivā́ni.	s01_l10	2	túe	twê	0	túe	twê	to	2SG.OBL	pronoun	person=2;number=singular;case=oblique;role=ergative_agent	high	Perfective transitive case alignment: oblique pronoun marks the agent.
 Kauγé Ńeríb u Sivā́ni.	s01_l10	3	e̱z	ez	0	e̱z	ez	ez	1SG.DIR	pronoun	person=1;number=singular;case=direct;role=patient	high	Perfective transitive case alignment: direct pronoun marks the patient/object.
-Kauγé Ńeríb u Sivā́ni.	s01_l10	4	diā́ṅ,	dyang	0	diā́ṅ	dyang	dian	see.PST.PRF	verb	tense_aspect=past_perfect;voice=active	medium	Lerch glossary gives dian as a past-perfect seeing form; person is supplied by the oblique agent plus direct object in this clause.
+Kauγé Ńeríb u Sivā́ni.	s01_l10	4	diā́ṅ,	dyaŋ	0	diā́ṅ	dyaŋ	dian	see.PST.PRF	verb	tense_aspect=past_perfect;voice=active	medium	Lerch glossary gives dian as a past-perfect seeing form; person is supplied by the oblique agent plus direct object in this clause.
 Kauγé Ńeríb u Sivā́ni.	s01_l10	5	lakímke	lakimkê	0	lakímke	lakimkê	lakimke	but			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s01_l10	6	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s01_l10	7	hā	ha	0	hā	ha	ha	PROG/NOW	particle	aspect=progressive_or_continuative	medium	Contextual reading of hā bén'a as an ongoing action, not locative 'here'.
@@ -156,7 +156,7 @@ Kauγé Ńeríb u Sivā́ni.	s01_l13	10	e̱ršau’-	erşaw	0	e̱ršau’	erşaw
 Kauγé Ńeríb u Sivā́ni.	s02_l01	0	úte	ûtê	0	úte	ûtê	ute	-sent			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s02_l01	1	Avdúl’ah	Avdûlah	0	Avdúl’ah	Avdûlah	avdulah	Avdulah, personal name			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s02_l01	2	aγaí	ağay	0	aγaí	ağay	agai	Agha			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Sivā́ni.	s02_l01	3	Kelā́ṅ	Kêlang	0	Kelā́ṅ	Kêlang	kelan	Kelan, place name			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Sivā́ni.	s02_l01	3	Kelā́ṅ	Kêlaŋ	0	Kelā́ṅ	Kêlaŋ	kelan	Kelan, place name			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s02_l01	4	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s02_l01	5	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s02_l01	6	me	mê	0	me	mê	me	I			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -286,8 +286,8 @@ Kauγé Ńeríb u Sivā́ni.	s02_l11	0	Avdúl’ah	Avdûlah	0	Avdúl’ah	Avdûl
 Kauγé Ńeríb u Sivā́ni.	s02_l11	1	aγái	ağay	0	aγái	ağay	agai	Agha			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s02_l11	2	h̔abér	'habêr	0	h̔abér	'habêr	haber	message			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s02_l11	3	e̱ršau’úte	erşawûtê	0	e̱ršau’úte	erşawûtê	ersauute	sent			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Sivā́ni.	s02_l11	4	dauā́ṅ	dawang	0	dau	daw	dau	village			high	Muller 1865, ZGP-0334 plural -an.
-Kauγé Ńeríb u Sivā́ni.	s02_l11	4	dauā́ṅ	dawang	1	ā́ṅ	ang	an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.
+Kauγé Ńeríb u Sivā́ni.	s02_l11	4	dauā́ṅ	dawaŋ	0	dau	daw	dau	village			high	Muller 1865, ZGP-0334 plural -an.
+Kauγé Ńeríb u Sivā́ni.	s02_l11	4	dauā́ṅ	dawaŋ	1	ā́ṅ	aŋ	an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.
 Kauγé Ńeríb u Sivā́ni.	s02_l11	5	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s02_l11	6	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s02_l11	7	t̮au	çaw	0	t̮au	çaw	tau	no one			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -303,8 +303,8 @@ Kauγé Ńeríb u Sivā́ni.	s02_l12	4	mau,	maw	0	mau	maw	mau	our			unsplit	Curr
 Kauγé Ńeríb u Sivā́ni.	s02_l12	5	Ńerbid̮ā́nu.	Nyêrbicanû	0	Ńerbid̮	Nyêrbic	nerbid	Neribian			high	Muller 1865, ZGP-0334 plural -an. Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.
 Kauγé Ńeríb u Sivā́ni.	s02_l12	5	Ńerbid̮ā́nu.	Nyêrbicanû	1	ān	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.
 Kauγé Ńeríb u Sivā́ni.	s02_l12	5	Ńerbid̮ā́nu.	Nyêrbicanû	2	u	û	-u	EZ/OBL	case/linker	relation=ezafe_or_oblique	medium	Muller 1865, ZGP-0335 genitive/izafet vowels; split kept contextual.
-Kauγé Ńeríb u Sivā́ni.	s02_l12	6	Dauā́ṅ	Dawang	0	Dau	Daw	dau	village			high	Muller 1865, ZGP-0334 plural -an.
-Kauγé Ńeríb u Sivā́ni.	s02_l12	6	Dauā́ṅ	Dawang	1	ā́ṅ	ang	an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.
+Kauγé Ńeríb u Sivā́ni.	s02_l12	6	Dauā́ṅ	Dawaŋ	0	Dau	Daw	dau	village			high	Muller 1865, ZGP-0334 plural -an.
+Kauγé Ńeríb u Sivā́ni.	s02_l12	6	Dauā́ṅ	Dawaŋ	1	ā́ṅ	aŋ	an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.
 Kauγé Ńeríb u Sivā́ni.	s02_l12	7	h̔abér	'habêr	0	h̔abér	'habêr	haber	message			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s02_l12	8	e̱ršau’úte	erşawûtê	0	e̱ršau’úte	erşawûtê	ersauute	sent			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s02_l13	0	Avdúl’ah	Avdûlah	0	Avdúl’ah	Avdûlah	avdulah	Avdulah, personal name			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -344,8 +344,8 @@ Kauγé Ńeríb u Sivā́ni.	s02_l15	5	mí̥ri,	mıri	0	mí̥ri	mıri	miri	min
 Kauγé Ńeríb u Sivā́ni.	s02_l15	6	māl	mal	0	māl	mal	mal	property			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s02_l15	7	ši̥mā́ri.	şımari	0	ši̥mā	şıma	sima	2PL	pronoun	person=2;number=plural	high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
 Kauγé Ńeríb u Sivā́ni.	s02_l15	7	ši̥mā́ri.	şımari	1	ri	ri	ri	GOAL/POSS	case/postposition	relation=goal_or_possessive	medium	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
-Kauγé Ńeríb u Sivā́ni.	s02_l15	8	Dauā́ṅ	Dawang	0	Dau	Daw	dau	village			high	Muller 1865, ZGP-0334 plural -an.
-Kauγé Ńeríb u Sivā́ni.	s02_l15	8	Dauā́ṅ	Dawang	1	ā́ṅ	ang	an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.
+Kauγé Ńeríb u Sivā́ni.	s02_l15	8	Dauā́ṅ	Dawaŋ	0	Dau	Daw	dau	village			high	Muller 1865, ZGP-0334 plural -an.
+Kauγé Ńeríb u Sivā́ni.	s02_l15	8	Dauā́ṅ	Dawaŋ	1	ā́ṅ	aŋ	an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.
 Kauγé Ńeríb u Sivā́ni.	s02_l15	9	vā	va	0	vā	va	va	said			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s02_l15	10	ke:	kê	0	ke	kê	ke	that			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s02_l15	11	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -428,8 +428,8 @@ Kauγé Ńeríb u Sivā́ni.	s03_l07	1	mi̥ri,	mıri	0	mi̥ri	mıri	miri	mine			
 Kauγé Ńeríb u Sivā́ni.	s03_l07	2	māl	mal	0	māl	mal	mal	property			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s03_l07	3	ši̥mā́ri,	şımari	0	ši̥mā	şıma	sima	2PL	pronoun	person=2;number=plural	high	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
 Kauγé Ńeríb u Sivā́ni.	s03_l07	3	ši̥mā́ri,	şımari	1	ri	ri	ri	GOAL/POSS	case/postposition	relation=goal_or_possessive	medium	Muller 1865, ZGP-0337-ZGP-0339 ri/ru/-i object or goal material.
-Kauγé Ńeríb u Sivā́ni.	s03_l07	4	dau’ā́ṅ	dawang	0	dau	daw	dau	village			high	Muller 1865, ZGP-0334 plural -an.
-Kauγé Ńeríb u Sivā́ni.	s03_l07	4	dau’ā́ṅ	dawang	1	’ā́ṅ	ang	an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.
+Kauγé Ńeríb u Sivā́ni.	s03_l07	4	dau’ā́ṅ	dawaŋ	0	dau	daw	dau	village			high	Muller 1865, ZGP-0334 plural -an.
+Kauγé Ńeríb u Sivā́ni.	s03_l07	4	dau’ā́ṅ	dawaŋ	1	’ā́ṅ	aŋ	an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.
 Kauγé Ńeríb u Sivā́ni.	s03_l07	5	vé̱šni.	veşni	0	vé̱šni	veşni	vesni	burn			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s03_l07	6	E̱skére	Eskêrê	0	E̱skére	Eskêrê	eskere	army			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s03_l07	7	Avdúl’ah	Avdûlah	0	Avdúl’ah	Avdûlah	avdulah	Avdulah, personal name			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -709,7 +709,7 @@ Kauγé Ńeríb u Sivā́ni.	s05_l04	4	beh̔ti	bê'hti	0	beh̔ti	bê'hti	behti	p
 Kauγé Ńeríb u Sivā́ni.	s05_l04	5	túe,	twê	0	túe	twê	tue	your			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s05_l04	6	Avdúl’ah	Avdûlah	0	Avdúl’ah	Avdûlah	avdulah	Avdulah, personal name			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s05_l04	7	aγái	ağay	0	aγái	ağay	agai	Agha			unsplit	Current word-level token gloss; no confident internal split applied.
-Kauγé Ńeríb u Sivā́ni.	s05_l04	8	Ké̱lāṅ	Kelang	0	Ké̱lāṅ	Kelang	kelan	Kelan, place name			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Sivā́ni.	s05_l04	8	Ké̱lāṅ	Kelaŋ	0	Ké̱lāṅ	Kelaŋ	kelan	Kelan, place name			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s05_l04	9	é̱skéri	eskêri	0	é̱skéri	eskêri	eskeri	army			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s05_l04	10	me	mê	0	me	mê	me	my			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s05_l04	11	pyéru	pyêrû	0	pyéru	pyêrû	pyeru	all			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -736,11 +736,11 @@ Kauγé Ńeríb u Sivā́ni.	s05_l06	5	se,	sê	0	se	sê	se	what			unsplit	Curren
 Kauγé Ńeríb u Sivā́ni.	s05_l06	6	e̱z	ez	0	e̱z	ez	ez	I			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s05_l06	7	ńešyén’a	nyêşyêna	0	ńe	ne	ne-	NEG	prefix	polarity=negative	high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.
 Kauγé Ńeríb u Sivā́ni.	s05_l06	7	ńešyén’a	nyêşyêna	1	šyén’a	şyêna	syena	be able			high	Lerch corpus pattern plus modern Zazaki comparison: ne-/ńe- negative prefix.
-Kauγé Ńeríb u Sivā́ni.	s05_l06	8	Sivā́ṅd̮ānde	Sivangcandê	0	Sivā́ṅd̮ānde	Sivangcandê	sivandande	with the Sivan people			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Sivā́ni.	s05_l06	8	Sivā́ṅd̮ānde	Sivaŋcandê	0	Sivā́ṅd̮ānde	Sivaŋcandê	sivandande	with the Sivan people			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s05_l06	9	kauγé̱	kawğe	0	kauγé̱	kawğe	kauge	fight			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s05_l06	10	bikéra,	bikêra	0	bi	bi	bi-	CONJ/FUT	prefix	mood=conjunctive;tense=future	high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.
 Kauγé Ńeríb u Sivā́ni.	s05_l06	10	bikéra,	bikêra	1	kéra	kêra	kera	commit/do			high	Muller 1865, ZGP-0361 conjunctive/future bi- prefix.
-Kauγé Ńeríb u Sivā́ni.	s05_l07	0	Sivā́ṅd̮i	Sivangci	0	Sivā́ṅd̮i	Sivangci	sivandi	Sivan people			unsplit	Current word-level token gloss; no confident internal split applied.
+Kauγé Ńeríb u Sivā́ni.	s05_l07	0	Sivā́ṅd̮i	Sivaŋci	0	Sivā́ṅd̮i	Sivaŋci	sivandi	Sivan people			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s05_l07	1	peíńai	pêynyay	0	peíńai	pêynyay	peinai	all			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s05_l07	2	mā	ma	0	mā	ma	ma	we			unsplit	Current word-level token gloss; no confident internal split applied.
 Kauγé Ńeríb u Sivā́ni.	s05_l07	3	hé̱mine	heminê	0	hé̱mine	heminê	hemine	all			unsplit	Current word-level token gloss; no confident internal split applied.

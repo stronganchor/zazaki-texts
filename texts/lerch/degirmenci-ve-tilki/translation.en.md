@@ -8,9 +8,9 @@ One day he stopped the millstone and went home. That night he slept at home; in 
 
 The miller got up, took a stick, and struck the fox. When the fox was caught, it began to cry.
 
-The fox said to the miller, "Let me go.
+The fox said to the miller, "Let me go. I will ask for the daughter of the Pasha of Egypt for you."
 
-I will ask for the daughter of the Pasha of Egypt for you." The miller answered, "I am a miller; how will you ask for the daughter of the Pasha of Egypt for me?"
+The miller answered, "I am a miller; how will you ask for the daughter of the Pasha of Egypt for me?"
 
 The fox said, "Do not kill me. I will ask for her for you. If I do not ask for the daughter of the Pasha of Egypt for you, then you may kill me. Now let me go."
 
@@ -20,9 +20,9 @@ The fox swore to the miller, and the miller let it go.
 
 The fox got up, went to Egypt, went before the Pasha of Egypt, and greeted him.
 
-The Pasha of Egypt said to the fox, "What is your business?
+The Pasha of Egypt said to the fox, "What is your business? Tell me."
 
-Tell me." The fox replied, "My lord, allow me to speak to you."
+The fox replied, "My lord, allow me to speak to you."
 
 The Pasha gave the fox permission.
 
@@ -36,17 +36,17 @@ The fox took the clothes, turned back, and went to the miller.
 
 It said to the miller, "I have asked for the daughter of the Pasha of Egypt for you. Get up, go to the bath; wash and clean yourself. Then come, put on these clothes, and we will go to the Pasha of Egypt."
 
-The miller got up and went to the bath. He washed, shaved his head and beard, then came and put on the clothes. The fox went ahead and brought him to the border of Egypt; there they stopped.
+The miller got up and went to the bath. He washed, shaved his head and beard, then came and put on the clothes. The fox went ahead and brought him to the border of Egypt.
 
-The fox went and gave word to the Pasha of Egypt.
+There they stopped. The fox went and gave word to the Pasha of Egypt.
 
 The fox said to the Pasha, "Çemçequ Pasha has come. Give me a fine carriage so I can bring Çemçequ Pasha. Let your soldiers also go out to meet him."
 
 The Pasha of Egypt gave the fox a carriage, and three kawasses walked ahead of the fox.
 
-Çemçequ Pasha came to Egypt.
+Çemçequ Pasha came to Egypt. The soldiers of the Pasha of Egypt greeted him.
 
-The soldiers of the Pasha of Egypt greeted him, but the miller did not know how to return the greeting.
+But the miller did not know how to return the greeting.
 
 Some of the soldiers said, "He is drunk, drunk." Some said, "He is not a pasha," and others said, "He is a miller."
 

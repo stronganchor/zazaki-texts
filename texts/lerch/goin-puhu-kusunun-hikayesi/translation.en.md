@@ -18,7 +18,7 @@ The girl lay down that night and dreamed that her brother had been killed and th
 
 In the morning she got up and said to her father, "Father, last night I had a dream: your wife killed my brother and threw him into the pit."
 
-Her father said to the girl, "No, why would she kill your brother?"
+Her father said to the girl, "Be calm. Why would she kill your brother?"
 
 The girl said, "Father, in my dream I saw that my brother had been killed and thrown into the pit. I am getting up now and going among the cattle; in the evening I will come home. If my brother comes, I will know he is well, but if my brother does not come, I will no longer go among the cattle for you, and I will not remain here."
 
@@ -28,13 +28,13 @@ The girl got up, went, drove out her cattle, and went among the cattle.
 
 Her father came after the girl, searched for the girl's brother, and found that he had been killed and thrown into the pit, with a large stone placed over the boy.
 
-The girl's father came home and said to his wife, "Surely you killed my son. His sister saw it in her dream last night, that her brother had been killed. She came crying and said to me, 'Father, my brother has been killed and thrown into the pit.'
+The girl's father came home and said to his wife, "Why did you kill my son? His sister saw it in her dream last night, that her brother had been killed. She came crying and said to me, 'Father, my brother has been killed and thrown into the pit.'
 
-I said, 'My daughter, no, do not be afraid; your brother is well.'
+I said, 'My daughter, be calm, do not be afraid; your brother is well.'
 
 The girl said to me, 'Today I am still going among the cattle; in the evening I will come home. If my brother comes, I will know he is well; if he does not come, I will not remain here.'"
 
-The woman said to her husband, "Get up and go away from here, you filthy man! You listen to the girl; you came to me, and you say to me, 'Surely you killed my son.' Why would I kill that boy?"
+The woman said to her husband, "Get up and go away from here, you filthy man! You listen to the girl; you came to me, and you say to me, 'Why did you kill my son?' Why would I kill that boy?"
 
 The man became angry, went, pulled the boy's body out of the pit, and brought it to the woman. He said to the woman, "Daughter of a dog, who killed this boy?"
 

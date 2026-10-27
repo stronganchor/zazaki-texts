@@ -16,8 +16,8 @@ story_id	segment_id	token_index	token_lerch	token_zazaki	morpheme_index	morpheme
 Áli aγá lā́d̮i Kelháni	a01_l02	3	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a01_l02	4	aγá	ağa	0	aγá	ağa	aga	Agha			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a01_l02	5	t̮ehér	çêhêr	0	t̮ehér	çêhêr	teher	four			unsplit	Current word-level token gloss; no confident internal split applied.
-Áli aγá lā́d̮i Kelháni	a01_l02	6	daú’āṅ	dawang	0	daú’	daw	daw	village			high	Muller 1865, ZGP-0334 plural -an.
-Áli aγá lā́d̮i Kelháni	a01_l02	6	daú’āṅ	dawang	1	āṅ	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.
+Áli aγá lā́d̮i Kelháni	a01_l02	6	daú’āṅ	dawaŋ	0	daú’	daw	daw	village			high	Muller 1865, ZGP-0334 plural -an.
+Áli aγá lā́d̮i Kelháni	a01_l02	6	daú’āṅ	dawaŋ	1	āṅ	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.
 Áli aγá lā́d̮i Kelháni	a01_l02	7	dā	da	0	dā	da	da	overran			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a01_l02	8	pyérū,	pyêru	0	pyérū	pyêru	pyeru	all			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a01_l02	9	híris	hiris	0	híris	hiris	hiris	thirty			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -105,8 +105,8 @@ story_id	segment_id	token_index	token_lerch	token_zazaki	morpheme_index	morpheme
 Áli aγá lā́d̮i Kelháni	a01_l09	3	χóe	xoê	0	χóe	xoê	xoe	own			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a01_l09	4	di,	di	0	di	di	di	in			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a01_l09	5	e̱skéri	eskêri	0	e̱skéri	eskêri	eskeri	army			unsplit	Current word-level token gloss; no confident internal split applied.
-Áli aγá lā́d̮i Kelháni	a01_l09	6	daú’āṅ	dawang	0	daú’	daw	daw	village			high	Muller 1865, ZGP-0334 plural -an.
-Áli aγá lā́d̮i Kelháni	a01_l09	6	daú’āṅ	dawang	1	āṅ	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.
+Áli aγá lā́d̮i Kelháni	a01_l09	6	daú’āṅ	dawaŋ	0	daú’	daw	daw	village			high	Muller 1865, ZGP-0334 plural -an.
+Áli aγá lā́d̮i Kelháni	a01_l09	6	daú’āṅ	dawaŋ	1	āṅ	an	-an	PL	suffix	number=plural	high	Muller 1865, ZGP-0334 plural -an.
 Áli aγá lā́d̮i Kelháni	a01_l09	7	wa	wa	0	wa	wa	wa	let			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a01_l09	8	pyéru	pyêru	0	pyéru	pyêru	pyeru	all			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a01_l09	9	béru	bêru	0	béru	bêru	beru	may come			unsplit	Current word-level token gloss; no confident internal split applied.
@@ -241,7 +241,7 @@ story_id	segment_id	token_index	token_lerch	token_zazaki	morpheme_index	morpheme
 Áli aγá lā́d̮i Kelháni	a02_l09	3	seíte	sêytê	0	seíte	sêytê	seite	hundred men			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a02_l09	4	geraút,	gêrawt	0	geraút	gêrawt	geraut	took			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a02_l09	5	bi	bi	0	bi	bi	bi	to			unsplit	Current word-level token gloss; no confident internal split applied.
-Áli aγá lā́d̮i Kelháni	a02_l09	6	pāṅd	pangd	0	pāṅd	pangd	pand	five			unsplit	Current word-level token gloss; no confident internal split applied.
+Áli aγá lā́d̮i Kelháni	a02_l09	6	pāṅd	paŋd	0	pāṅd	paŋd	pand	five			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a02_l09	7	seíte	sêytê	0	seíte	sêytê	seite	hundred men			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a02_l09	8	ši	şi	0	ši	şi	si	went			unsplit	Current word-level token gloss; no confident internal split applied.
 Áli aγá lā́d̮i Kelháni	a02_l09	9	Áli	Ali	0	Áli	Ali	ali	Ali, personal name			unsplit	Current word-level token gloss; no confident internal split applied.

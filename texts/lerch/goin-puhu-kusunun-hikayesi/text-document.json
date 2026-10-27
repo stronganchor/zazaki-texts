@@ -168,7 +168,7 @@
     },
     {
       "id": "u005",
-      "source": "Kêynêkê şwêna golikangdê.",
+      "source": "Kêynêkê şwêna golikaŋdê.",
       "translations": {
         "tr": "Kız sığırların yanına gidermiş.",
         "en": "The girl would go out among the cattle.",
@@ -206,7 +206,7 @@
     },
     {
       "id": "u008",
-      "source": "Kêynêk aya şû ra kwêna, 'haw vyênêna, ek bêray xoê kiştû, êyştû zêyndang.",
+      "source": "Kêynêk aya şû ra kwêna, 'haw vyênêna, ek bêray xoê kiştû, êyştû zêyndaŋ.",
       "translations": {
         "tr": "O gece kız yatmış ve rüyasında kardeşinin öldürülüp çukura atıldığını görmüş.",
         "en": "The girl lay down that night and dreamed that her brother had been killed and thrown into the pit.",
@@ -219,7 +219,7 @@
     },
     {
       "id": "u009",
-      "source": "Sêbah wardêna, bawki xoêra vana: baw, mê emşoê yaw 'haw di, ekê cênyay twê bêray mê kiştû, êyştû zêyndang.",
+      "source": "Sêbah wardêna, bawki xoêra vana: baw, mê emşoê yaw 'haw di, ekê cênyay twê bêray mê kiştû, êyştû zêyndaŋ.",
       "translations": {
         "tr": "Sabah kalkıp babasına, \"Baba, dün gece bir rüya gördüm: karın kardeşimi öldürüp çukura attı,\" demiş.",
         "en": "In the morning she got up and said to her father, \"Father, last night I had a dream: your wife killed my brother and threw him into the pit.\"",
@@ -234,8 +234,8 @@
       "id": "u010",
       "source": "Bawki kêynêkê xoêra va kê: 'hêyr bû, senyê bêray twê kişênû?",
       "translations": {
-        "tr": "Babası kıza, \"Hayır, o niye kardeşini öldürsün?\" demiş.",
-        "en": "Her father said to the girl, \"No, why would she kill your brother?\"",
+        "tr": "Babası kıza, \"Sakin ol. O niye kardeşini öldürsün?\" demiş.",
+        "en": "Her father said to the girl, \"Be calm. Why would she kill your brother?\"",
         "de": "Der Vater sagte seiner Tochter: sei sorglos, warum sollte sie deinen Bruder tödten?"
       },
       "source_line_ids": [
@@ -244,7 +244,7 @@
     },
     {
       "id": "u011_01",
-      "source": "Kêynêk va kê: baw, mê 'hawni xoêdê dyi, bêray mê kiştû, êyştû zêyndang, ez 'ha warzêna, şwêna golêkangdê, yêrêy yêna kêyê, ekê bêray mê amaw, ez zana weşû, 'hêyrkê bêray mê nyamaw ez 'hêni twêri golêkangdê nyêşwêna, ez etya nyêvêndêna.",
+      "source": "Kêynêk va kê: baw, mê 'hawni xoêdê dyi, bêray mê kiştû, êyştû zêyndaŋ, ez 'ha warzêna, şwêna golêkaŋdê, yêrêy yêna kêyê, ekê bêray mê amaw, ez zana weşû, 'hêyrkê bêray mê nyamaw ez 'hêni twêri golêkaŋdê nyêşwêna, ez etya nyêvêndêna.",
       "translations": {
         "tr": "Kız, \"Baba, rüyamda kardeşimin öldürülüp çukura atıldığını gördüm. Şimdi kalkıp sığırların yanına gidiyorum; akşam eve geleceğim. Kardeşim gelirse onun iyi olduğunu bileceğim, ama kardeşim gelmezse artık senin için sığırların yanına gitmeyeceğim ve burada kalmayacağım,\" demiş.",
         "en": "The girl said, \"Father, in my dream I saw that my brother had been killed and thrown into the pit. I am getting up now and going among the cattle; in the evening I will come home. If my brother comes, I will know he is well, but if my brother does not come, I will no longer go among the cattle for you, and I will not remain here.\"",
@@ -259,7 +259,7 @@
     },
     {
       "id": "u012_01",
-      "source": "Bawki kêynêkê xoêra va kê: êyrwê tı şwê golikangdê, ez gêrêna, ekê mê bêray twê di, bızanê kê: ek cênyay mê şımadê sağê nya, 'hêyrkê mê bêray twê nyêdi, nyê ez vêndêna, nyê tı vındê.",
+      "source": "Bawki kêynêkê xoêra va kê: êyrwê tı şwê golikaŋdê, ez gêrêna, ekê mê bêray twê di, bızanê kê: ek cênyay mê şımadê sağê nya, 'hêyrkê mê bêray twê nyêdi, nyê ez vêndêna, nyê tı vındê.",
       "translations": {
         "tr": "Babası kıza, \"Bugün sığırların yanına git; ben gidip kardeşini arayacağım. Şunu bil: eğer karım size iyi değilse ve kardeşini bulamazsam, ne ben ne de sen burada kalacağız,\" demiş.",
         "en": "Her father said to the girl, \"Today go among the cattle; I will go and look for your brother. Know this: if my wife is not good to you, and if I do not find your brother, neither I nor you will remain here.\"",
@@ -273,7 +273,7 @@
     },
     {
       "id": "u013",
-      "source": "Kêynêk werişt şi, golêki xoê vêr day, şi golêkangdê.",
+      "source": "Kêynêk werişt şi, golêki xoê vêr day, şi golêkaŋdê.",
       "translations": {
         "tr": "Kız kalkmış, gitmiş, sığırlarını dışarı çıkarmış ve sığırların yanına gitmiş.",
         "en": "The girl got up, went, drove out her cattle, and went among the cattle.",
@@ -285,7 +285,7 @@
     },
     {
       "id": "u014",
-      "source": "Bawki kêynêkê ame, gêyra bêray kêynêkê, eki kistû, êyştû zêyndang, cordê zıbil wêlê kêrda lacêki ser.",
+      "source": "Bawki kêynêkê ame, gêyra bêray kêynêkê, eki kistû, êyştû zêyndaŋ, cordê zıbil wêlê kêrda lacêki ser.",
       "translations": {
         "tr": "Babası kızın ardından gelmiş, kızın kardeşini aramış ve onun öldürülüp çukura atıldığını, oğlanın üstüne de büyük bir taş konduğunu görmüş.",
         "en": "Her father came after the girl, searched for the girl's brother, and found that he had been killed and thrown into the pit, with a large stone placed over the boy.",
@@ -299,10 +299,10 @@
     },
     {
       "id": "u015_01",
-      "source": "Bawki kêynêk amêy kêyê, cênyay xoêra va kê: twê qawi laci mê kiştû, way cêy bi şewi 'hawni xoêdê di bê, ek bêray xoê kiştû, amêy, bermayê, mêra va kê: baw, bêray mê kiştû, êyştû zêyndang.",
+      "source": "Bawki kêynêk amêy kêyê, cênyay xoêra va kê: twê qawi laci mê kiştû, way cêy bi şewi 'hawni xoêdê di bê, ek bêray xoê kiştû, amêy, bermayê, mêra va kê: baw, bêray mê kiştû, êyştû zêyndaŋ.",
       "translations": {
-        "tr": "Kızın babası eve gelmiş ve karısına şöyle demiş: \"Kesinlikle oğlumu sen öldürdün. Kız kardeşi bunu gece rüyasında gördü; kardeşinin öldürüldüğünü gördü. Ağlayarak geldi ve bana, 'Baba, kardeşim öldürülmüş ve çukura atılmış,' dedi.",
-        "en": "The girl's father came home and said to his wife, \"Surely you killed my son. His sister saw it in her dream last night, that her brother had been killed. She came crying and said to me, 'Father, my brother has been killed and thrown into the pit.'",
+        "tr": "Kızın babası eve gelmiş ve karısına şöyle demiş: \"Oğlumu niye öldürdün? Kız kardeşi bunu gece rüyasında gördü; kardeşinin öldürüldüğünü gördü. Ağlayarak geldi ve bana, 'Baba, kardeşim öldürülmüş ve çukura atılmış,' dedi.",
+        "en": "The girl's father came home and said to his wife, \"Why did you kill my son? His sister saw it in her dream last night, that her brother had been killed. She came crying and said to me, 'Father, my brother has been killed and thrown into the pit.'",
         "de": "Der Vater kam nach Hause (und) sagte zu seiner Frau: weshalb hast du meinen Sohn getödtet? seine Schwester hat während der Nacht im Traume gesehen, dass ihr Bruder getödtet sei, sie kam, weinte und sagte mir: mein Bruder ist getödtet, in eine Grube geworfen."
       },
       "source_line_ids": [
@@ -316,8 +316,8 @@
       "id": "u016",
       "source": "Mê va kê: kêynaym, 'hêyr bû, metêrsê, bêray twê weşû.",
       "translations": {
-        "tr": "Ben de, 'Kızım, hayır, korkma; kardeşin iyidir,' dedim.",
-        "en": "I said, 'My daughter, no, do not be afraid; your brother is well.'",
+        "tr": "Ben de, 'Kızım, sakin ol, korkma; kardeşin iyidir,' dedim.",
+        "en": "I said, 'My daughter, be calm, do not be afraid; your brother is well.'",
         "de": "Ich sagte: meine Tochter, sei ruhig, fürchte nichts, dein Bruder ist wohl."
       },
       "source_line_ids": [
@@ -327,7 +327,7 @@
     },
     {
       "id": "u017",
-      "source": "Kêynêk mêra va kê: ez 'ha êyrwê şwêna golikangdê, yêrêy yêna kêye, ek bêray mê amaw, ez zana weşû, ek nyamaw, ez nyêvêndana etya.",
+      "source": "Kêynêk mêra va kê: ez 'ha êyrwê şwêna golikaŋdê, yêrêy yêna kêye, ek bêray mê amaw, ez zana weşû, ek nyamaw, ez nyêvêndana etya.",
       "translations": {
         "tr": "Kız bana, 'Bugün yine sığırların yanına gidiyorum; akşam eve geleceğim. Kardeşim gelirse onun iyi olduğunu bileceğim; eğer gelmezse burada kalmayacağım,' dedi.\"",
         "en": "The girl said to me, 'Today I am still going among the cattle; in the evening I will come home. If my brother comes, I will know he is well; if he does not come, I will not remain here.'\"",
@@ -343,8 +343,8 @@
       "id": "u018",
       "source": "Cêni va myêrdê xoêra: werzê têra şwê, tê pisi, tê vatışi kêynêkê, tê amêy mı ser, tı mêra vani kê: qawi twê laci kiştû, ez çitaw lacêki kişêna.",
       "translations": {
-        "tr": "Kadın kocasına, \"Kalk buradan git, pis adam! Kızının sözünü dinliyorsun. Bana gelip, 'Kesinlikle oğlumu sen öldürdün,' diyorsun. Ben niye o oğlanı öldüreyim?\" demiş.",
-        "en": "The woman said to her husband, \"Get up and go away from here, you filthy man! You listen to the girl; you came to me, and you say to me, 'Surely you killed my son.' Why would I kill that boy?\"",
+        "tr": "Kadın kocasına, \"Kalk buradan git, pis adam! Kızının sözünü dinliyorsun. Bana gelip, 'Oğlumu niye öldürdün?' diyorsun. Ben niye o oğlanı öldüreyim?\" demiş.",
+        "en": "The woman said to her husband, \"Get up and go away from here, you filthy man! You listen to the girl; you came to me, and you say to me, 'Why did you kill my son?' Why would I kill that boy?\"",
         "de": "Die Frau sagte zu ihrem Manne: packe dich, geh, du Abscheulicher, hörst (auf die Reden) deiner Tochter, du kommst zu mir, du sagst mir: warum hast du meinen Sohn getödtet - weshalb werde ich (denn) deinen Sohn tödten?"
       },
       "source_line_ids": [
@@ -381,7 +381,7 @@
     },
     {
       "id": "u021",
-      "source": "Bawki lacêki şid, berd mezêl, wedert, ame kêye, serêy cênyay xoê têra kêrd, berdê, êyştê zêyndang.",
+      "source": "Bawki lacêki şid, berd mezêl, wedert, ame kêye, serêy cênyay xoê têra kêrd, berdê, êyştê zêyndaŋ.",
       "translations": {
         "tr": "Baba oğlanı yıkamış, mezara götürmüş ve gömmüş. Eve gelmiş, karısının başını kesmiş, onu götürüp çukura atmış.",
         "en": "The father washed the boy, took him to the grave, buried him, came home, cut off his wife's head, took her away, and threw her into the pit.",
@@ -1552,7 +1552,7 @@
       "text": "Keíneke šuén’a gōlikā́ṅde; keínek rṓd̮eki yé̱rei gōlikā́na yén’a,",
       "lerch": "Keíneke šuén’a gōlikā́ṅde; keínek rṓd̮eki yé̱rei gōlikā́na yén’a,",
       "ipa": "ˈkejneke ˈʃwen.a goːliˈkaːŋde ˈkejnek ˈroːd͡ʒeki ˈjɛrej goːliˈkaːna ˈjen.a",
-      "zazaki": "Kêynêkê şwêna golikangdê; kêynêk rocêki yerêy golikana yêna,",
+      "zazaki": "Kêynêkê şwêna golikaŋdê; kêynêk rocêki yerêy golikana yêna,",
       "source_note": "",
       "russian_print_page": 117,
       "russian_scan_page": 131,
@@ -1567,7 +1567,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Kêynêkê şwêna golikangdê; kêynêk rocêki yerêy golikana yêna,"
+          "value": "Kêynêkê şwêna golikaŋdê; kêynêk rocêki yerêy golikana yêna,"
         },
         {
           "label": "ENGLISH",
@@ -1640,7 +1640,7 @@
         {
           "form": "gōlikā́ṅde;",
           "ipa": "goːliˈkaːŋde",
-          "zazaki": "golikangdê;",
+          "zazaki": "golikaŋdê;",
           "lemma": "golikande",
           "display_gloss": "among the cattle",
           "gloss_tr": "sığırların arasında",
@@ -1649,7 +1649,7 @@
           "morphemes": [
             {
               "form": "gōlikā́ṅde",
-              "normalized": "golikangdê",
+              "normalized": "golikaŋdê",
               "lemma": "golikande",
               "gloss": "among the cattle",
               "pos": "",
@@ -2733,7 +2733,7 @@
       "text": "eíštu zeindā́ṅ. Sebáh wardén’a, bāúki χóera vā́na: bau, me é̱m-",
       "lerch": "eíštu zeindā́ṅ. Sebáh wardén’a, bāúki χóera vā́na: bau, me é̱m-",
       "ipa": "ˈejʃtu zejnˈdaːŋ seˈbah warˈden.a ˈbaːwki ˈχoera ˈvaːna baw me ˈɛm",
-      "zazaki": "êyştû zêyndang. Sêbah wardêna, bawki xoêra vana: baw, mê em-",
+      "zazaki": "êyştû zêyndaŋ. Sêbah wardêna, bawki xoêra vana: baw, mê em-",
       "source_note": "",
       "russian_print_page": 117,
       "russian_scan_page": 131,
@@ -2748,7 +2748,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "êyştû zêyndang. Sêbah wardêna, bawki xoêra vana: baw, mê em-"
+          "value": "êyştû zêyndaŋ. Sêbah wardêna, bawki xoêra vana: baw, mê em-"
         },
         {
           "label": "ENGLISH",
@@ -2798,7 +2798,7 @@
         {
           "form": "zeindā́ṅ.",
           "ipa": "zejnˈdaːŋ",
-          "zazaki": "zêyndang.",
+          "zazaki": "zêyndaŋ.",
           "lemma": "zeindan",
           "display_gloss": "pit",
           "gloss_tr": "çukur",
@@ -2807,7 +2807,7 @@
           "morphemes": [
             {
               "form": "zeindā́ṅ",
-              "normalized": "zêyndang",
+              "normalized": "zêyndaŋ",
               "lemma": "zeindan",
               "gloss": "pit",
               "pos": "",
@@ -3025,7 +3025,7 @@
       "text": "šoe yau h̔au dī, é̱k’e d̮éniai túe beraí me kíštu, eíštu zeindā́ṅ.",
       "lerch": "šoe yau h̔au dī, é̱k’e d̮éniai túe beraí me kíštu, eíštu zeindā́ṅ.",
       "ipa": "ʃoe jaw ħaw diː ˈɛk.e ˈd͡ʒenjaj ˈtwe beˈraj me ˈkiʃtu ˈejʃtu zejnˈdaːŋ",
-      "zazaki": "şoê yaw 'haw di, ekê cênyay twê bêray mê kiştû, êyştû zêyndang.",
+      "zazaki": "şoê yaw 'haw di, ekê cênyay twê bêray mê kiştû, êyştû zêyndaŋ.",
       "source_note": "",
       "russian_print_page": 117,
       "russian_scan_page": 131,
@@ -3040,7 +3040,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "şoê yaw 'haw di, ekê cênyay twê bêray mê kiştû, êyştû zêyndang."
+          "value": "şoê yaw 'haw di, ekê cênyay twê bêray mê kiştû, êyştû zêyndaŋ."
         },
         {
           "label": "ENGLISH",
@@ -3320,7 +3320,7 @@
         {
           "form": "zeindā́ṅ.",
           "ipa": "zejnˈdaːŋ",
-          "zazaki": "zêyndang.",
+          "zazaki": "zêyndaŋ.",
           "lemma": "zeindan",
           "display_gloss": "pit",
           "gloss_tr": "çukur",
@@ -3329,7 +3329,7 @@
           "morphemes": [
             {
               "form": "zeindā́ṅ",
-              "normalized": "zêyndang",
+              "normalized": "zêyndaŋ",
               "lemma": "zeindan",
               "gloss": "pit",
               "pos": "",
@@ -3371,11 +3371,11 @@
         },
         {
           "label": "ENGLISH",
-          "value": "Her father said to the girl, 'No, why would she kill your brother?'"
+          "value": "Her father said to the girl, 'Be calm. Why would she kill your brother?'"
         },
         {
           "label": "TURKISH",
-          "value": "Babası kıza, 'Hayır, o niye kardeşini öldürsün?' dedi."
+          "value": "Babası kıza, 'Sakin ol. O niye kardeşini öldürsün?' dedi."
         }
       ],
       "witnesses": [
@@ -4016,7 +4016,7 @@
       "text": "zeindā́ṅ, e̱z h̔ā warzén’a, šuén’a gōlekā́ṅde, yérei yén’a keíye,",
       "lerch": "zeindā́ṅ, e̱z h̔ā warzén’a, šuén’a gōlekā́ṅde, yérei yén’a keíye,",
       "ipa": "zejnˈdaːŋ ɛz ħaː warˈzen.a ˈʃwen.a goːleˈkaːŋde ˈjerej ˈjen.a ˈkeje",
-      "zazaki": "zêyndang, ez 'ha warzêna, şwêna golêkangdê, yêrêy yêna kêyê,",
+      "zazaki": "zêyndaŋ, ez 'ha warzêna, şwêna golêkaŋdê, yêrêy yêna kêyê,",
       "source_note": "",
       "russian_print_page": 117,
       "russian_scan_page": 131,
@@ -4031,7 +4031,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "zêyndang, ez 'ha warzêna, şwêna golêkangdê, yêrêy yêna kêyê,"
+          "value": "zêyndaŋ, ez 'ha warzêna, şwêna golêkaŋdê, yêrêy yêna kêyê,"
         },
         {
           "label": "ENGLISH",
@@ -4058,7 +4058,7 @@
         {
           "form": "zeindā́ṅ,",
           "ipa": "zejnˈdaːŋ",
-          "zazaki": "zêyndang,",
+          "zazaki": "zêyndaŋ,",
           "lemma": "zeindan",
           "display_gloss": "pit",
           "gloss_tr": "çukur",
@@ -4067,7 +4067,7 @@
           "morphemes": [
             {
               "form": "zeindā́ṅ",
-              "normalized": "zêyndang",
+              "normalized": "zêyndaŋ",
               "lemma": "zeindan",
               "gloss": "pit",
               "pos": "",
@@ -4173,7 +4173,7 @@
         {
           "form": "gōlekā́ṅde,",
           "ipa": "goːleˈkaːŋde",
-          "zazaki": "golêkangdê,",
+          "zazaki": "golêkaŋdê,",
           "lemma": "golekande",
           "display_gloss": "among the cattle",
           "gloss_tr": "sığırların arasında",
@@ -4182,7 +4182,7 @@
           "morphemes": [
             {
               "form": "gōlekā́ṅde",
-              "normalized": "golêkangdê",
+              "normalized": "golêkaŋdê",
               "lemma": "golekande",
               "gloss": "among the cattle",
               "pos": "",
@@ -4601,7 +4601,7 @@
       "text": "h̔én’i túeri gōlekā́ṅde ńešuén’a, e̱z e̱tía ńevendén’a.",
       "lerch": "h̔én’i túeri gōlekā́ṅde ńešuén’a, e̱z e̱tía ńevendén’a.",
       "ipa": "ˈħen.i ˈtweri goːleˈkaːŋde ɲeʃˈwen.a ɛz ɛtˈja ɲevenˈden.a",
-      "zazaki": "'hêni twêri golêkangdê nyêşwêna, ez etya nyêvêndêna.",
+      "zazaki": "'hêni twêri golêkaŋdê nyêşwêna, ez etya nyêvêndêna.",
       "source_note": "",
       "russian_print_page": 117,
       "russian_scan_page": 131,
@@ -4616,7 +4616,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "'hêni twêri golêkangdê nyêşwêna, ez etya nyêvêndêna."
+          "value": "'hêni twêri golêkaŋdê nyêşwêna, ez etya nyêvêndêna."
         },
         {
           "label": "ENGLISH",
@@ -4700,7 +4700,7 @@
         {
           "form": "gōlekā́ṅde",
           "ipa": "goːleˈkaːŋde",
-          "zazaki": "golêkangdê",
+          "zazaki": "golêkaŋdê",
           "lemma": "golekande",
           "display_gloss": "among the cattle",
           "gloss_tr": "sığırların arasında",
@@ -4709,7 +4709,7 @@
           "morphemes": [
             {
               "form": "gōlekā́ṅde",
-              "normalized": "golêkangdê",
+              "normalized": "golêkaŋdê",
               "lemma": "golekande",
               "gloss": "among the cattle",
               "pos": "",
@@ -4824,7 +4824,7 @@
       "text": "Baúki keíneke χóera vā ke: eírue ti̥ šúe gōlikā́ṅde, e̱z ge-",
       "lerch": "Baúki keíneke χóera vā ke: eírue ti̥ šúe gōlikā́ṅde, e̱z ge-",
       "ipa": "ˈbawki ˈkejneke ˈχoera vaː ke ˈejrwe tɨ ˈʃwe goːliˈkaːŋde ɛz ge",
-      "zazaki": "Bawki kêynêkê xoêra va kê: êyrwê tı şwê golikangdê, ez gê-",
+      "zazaki": "Bawki kêynêkê xoêra va kê: êyrwê tı şwê golikaŋdê, ez gê-",
       "source_note": "",
       "russian_print_page": 117,
       "russian_scan_page": 131,
@@ -4839,7 +4839,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Bawki kêynêkê xoêra va kê: êyrwê tı şwê golikangdê, ez gê-"
+          "value": "Bawki kêynêkê xoêra va kê: êyrwê tı şwê golikaŋdê, ez gê-"
         },
         {
           "label": "ENGLISH",
@@ -5061,7 +5061,7 @@
         {
           "form": "gōlikā́ṅde,",
           "ipa": "goːliˈkaːŋde",
-          "zazaki": "golikangdê,",
+          "zazaki": "golikaŋdê,",
           "lemma": "golikande",
           "display_gloss": "among the cattle",
           "gloss_tr": "sığırların arasında",
@@ -5070,7 +5070,7 @@
           "morphemes": [
             {
               "form": "gōlikā́ṅde",
-              "normalized": "golikangdê",
+              "normalized": "golikaŋdê",
               "lemma": "golikande",
               "gloss": "among the cattle",
               "pos": "",
@@ -5816,7 +5816,7 @@
       "text": "Keínek we̱ríšt ši, gṓleki χóe ver dai, ši golekā́ṅde. Baúki",
       "lerch": "Keínek we̱ríšt ši, gṓleki χóe ver dai, ši golekā́ṅde. Baúki",
       "ipa": "ˈkejnek wɛˈriʃt ʃi ˈgoːleki ˈχoe ver daj ʃi goleˈkaːŋde ˈbawki",
-      "zazaki": "Kêynêk werişt şi, golêki xoê vêr day, şi golêkangdê. Bawki",
+      "zazaki": "Kêynêk werişt şi, golêki xoê vêr day, şi golêkaŋdê. Bawki",
       "source_note": "",
       "russian_print_page": 118,
       "russian_scan_page": 132,
@@ -5831,7 +5831,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Kêynêk werişt şi, golêki xoê vêr day, şi golêkangdê. Bawki"
+          "value": "Kêynêk werişt şi, golêki xoê vêr day, şi golêkaŋdê. Bawki"
         },
         {
           "label": "ENGLISH",
@@ -6042,7 +6042,7 @@
         {
           "form": "golekā́ṅde.",
           "ipa": "goleˈkaːŋde",
-          "zazaki": "golêkangdê.",
+          "zazaki": "golêkaŋdê.",
           "lemma": "golekande",
           "display_gloss": "among the cattle",
           "gloss_tr": "sığırların arasında",
@@ -6051,7 +6051,7 @@
           "morphemes": [
             {
               "form": "golekā́ṅde",
-              "normalized": "golêkangdê",
+              "normalized": "golêkaŋdê",
               "lemma": "golekande",
               "gloss": "among the cattle",
               "pos": "",
@@ -6097,7 +6097,7 @@
       "text": "keíneke āmé̱, geíra beraí keíneke, é̱ki kístu, eíštu zeindā́ṅ, d̮ṓrde",
       "lerch": "keíneke āmé̱, geíra beraí keíneke, é̱ki kístu, eíštu zeindā́ṅ, d̮ṓrde",
       "ipa": "ˈkejneke aːˈmɛ ˈgejra beˈraj ˈkejneke ˈɛki ˈkistu ˈejʃtu zejnˈdaːŋ ˈd͡ʒoːrde",
-      "zazaki": "kêynêkê ame, gêyra bêray kêynêkê, eki kistû, êyştû zêyndang, cordê",
+      "zazaki": "kêynêkê ame, gêyra bêray kêynêkê, eki kistû, êyştû zêyndaŋ, cordê",
       "source_note": "",
       "russian_print_page": 118,
       "russian_scan_page": 132,
@@ -6112,7 +6112,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kêynêkê ame, gêyra bêray kêynêkê, eki kistû, êyştû zêyndang, cordê"
+          "value": "kêynêkê ame, gêyra bêray kêynêkê, eki kistû, êyştû zêyndaŋ, cordê"
         },
         {
           "label": "ENGLISH",
@@ -6323,7 +6323,7 @@
         {
           "form": "zeindā́ṅ,",
           "ipa": "zejnˈdaːŋ",
-          "zazaki": "zêyndang,",
+          "zazaki": "zêyndaŋ,",
           "lemma": "zeindan",
           "display_gloss": "pit",
           "gloss_tr": "çukur",
@@ -6332,7 +6332,7 @@
           "morphemes": [
             {
               "form": "zeindā́ṅ",
-              "normalized": "zêyndang",
+              "normalized": "zêyndaŋ",
               "lemma": "zeindan",
               "gloss": "pit",
               "pos": "",
@@ -6678,11 +6678,11 @@
         },
         {
           "label": "ENGLISH",
-          "value": "he said, 'Surely you killed my son. His sister saw it in her dream"
+          "value": "he said, 'Why did you kill my son? His sister saw it in her dream"
         },
         {
           "label": "TURKISH",
-          "value": "'Kesinlikle oğlumu sen öldürdün. Kız kardeşi bunu rüyasında gördü,"
+          "value": "'Oğlumu niye öldürdün? Kız kardeşi bunu rüyasında gördü,"
         }
       ],
       "witnesses": [
@@ -6806,16 +6806,16 @@
           "ipa": "ˈqawi",
           "zazaki": "qawi",
           "lemma": "qauwi",
-          "display_gloss": "surely",
-          "gloss_tr": "mutlaka",
-          "gloss_de": "gewiss",
+          "display_gloss": "why",
+          "gloss_tr": "niçin",
+          "gloss_de": "warum",
           "pos": "",
           "morphemes": [
             {
               "form": "qaúwi",
               "normalized": "qawi",
               "lemma": "qauwi",
-              "gloss": "surely",
+              "gloss": "why",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
@@ -7415,7 +7415,7 @@
       "text": "beraí me kíštu, eíštu zeindā́ṅ. Me vā ke: keínaim, h̔eir bu, mé̱-",
       "lerch": "beraí me kíštu, eíštu zeindā́ṅ. Me vā ke: keínaim, h̔eir bu, mé̱-",
       "ipa": "beˈraj me ˈkiʃtu ˈejʃtu zejnˈdaːŋ me vaː ke ˈkejnajm ħejr bu ˈmɛ",
-      "zazaki": "bêray mê kiştû, êyştû zêyndang. Mê va kê: kêynaym, 'hêyr bû, me-",
+      "zazaki": "bêray mê kiştû, êyştû zêyndaŋ. Mê va kê: kêynaym, 'hêyr bû, me-",
       "source_note": "",
       "russian_print_page": 118,
       "russian_scan_page": 132,
@@ -7430,15 +7430,15 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "bêray mê kiştû, êyştû zêyndang. Mê va kê: kêynaym, 'hêyr bû, me-"
+          "value": "bêray mê kiştû, êyştû zêyndaŋ. Mê va kê: kêynaym, 'hêyr bû, me-"
         },
         {
           "label": "ENGLISH",
-          "value": "my brother has been killed and thrown into the pit.\" I said, \"My daughter, no,"
+          "value": "my brother has been killed and thrown into the pit.\" I said, \"My daughter, be calm,"
         },
         {
           "label": "TURKISH",
-          "value": "kardeşim öldürülmüş ve çukura atılmış,' dedi. Ben de, 'Kızım, hayır,"
+          "value": "kardeşim öldürülmüş ve çukura atılmış,' dedi. Ben de, 'Kızım, sakin ol,"
         }
       ],
       "witnesses": [
@@ -7549,7 +7549,7 @@
         {
           "form": "zeindā́ṅ.",
           "ipa": "zejnˈdaːŋ",
-          "zazaki": "zêyndang.",
+          "zazaki": "zêyndaŋ.",
           "lemma": "zeindan",
           "display_gloss": "pit",
           "gloss_tr": "çukur",
@@ -7558,7 +7558,7 @@
           "morphemes": [
             {
               "form": "zeindā́ṅ",
-              "normalized": "zêyndang",
+              "normalized": "zêyndaŋ",
               "lemma": "zeindan",
               "gloss": "pit",
               "pos": "",
@@ -8080,7 +8080,7 @@
       "text": "gōlikā́ṅde, yérei yén’a keíye̱, e̱k beraí me āmaú, e̱z zā́na wé̱šu,",
       "lerch": "gōlikā́ṅde, yérei yén’a keíye̱, e̱k beraí me āmaú, e̱z zā́na wé̱šu,",
       "ipa": "goːliˈkaːŋde ˈjerej ˈjen.a ˈkejɛ ɛk beˈraj me aːˈmaw ɛz ˈzaːna ˈwɛʃu",
-      "zazaki": "golikangdê, yêrêy yêna kêye, ek bêray mê amaw, ez zana weşû,",
+      "zazaki": "golikaŋdê, yêrêy yêna kêye, ek bêray mê amaw, ez zana weşû,",
       "source_note": "",
       "russian_print_page": 118,
       "russian_scan_page": 132,
@@ -8095,7 +8095,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "golikangdê, yêrêy yêna kêye, ek bêray mê amaw, ez zana weşû,"
+          "value": "golikaŋdê, yêrêy yêna kêye, ek bêray mê amaw, ez zana weşû,"
         },
         {
           "label": "ENGLISH",
@@ -8122,7 +8122,7 @@
         {
           "form": "gōlikā́ṅde,",
           "ipa": "goːliˈkaːŋde",
-          "zazaki": "golikangdê,",
+          "zazaki": "golikaŋdê,",
           "lemma": "golikande",
           "display_gloss": "among the cattle",
           "gloss_tr": "sığırların arasında",
@@ -8131,7 +8131,7 @@
           "morphemes": [
             {
               "form": "gōlikā́ṅde",
-              "normalized": "golikangdê",
+              "normalized": "golikaŋdê",
               "lemma": "golikande",
               "gloss": "among the cattle",
               "pos": "",
@@ -8907,11 +8907,11 @@
         },
         {
           "label": "ENGLISH",
-          "value": "you came to me, and you say to me, \"Surely you killed my son.\" Why would I"
+          "value": "you came to me, and you say to me, \"Why did you kill my son?\" Why would I"
         },
         {
           "label": "TURKISH",
-          "value": "bana gelip, 'Kesinlikle oğlumu sen öldürdün,' diyorsun. Ben niye"
+          "value": "bana gelip, 'Oğlumu niye öldürdün?' diyorsun. Ben niye"
         }
       ],
       "witnesses": [
@@ -9150,16 +9150,16 @@
           "ipa": "ˈqawi",
           "zazaki": "qawi",
           "lemma": "qauwi",
-          "display_gloss": "surely",
-          "gloss_tr": "mutlaka",
-          "gloss_de": "gewiss",
+          "display_gloss": "why",
+          "gloss_tr": "niçin",
+          "gloss_de": "warum",
           "pos": "",
           "morphemes": [
             {
               "form": "qaúwi",
               "normalized": "qawi",
               "lemma": "qauwi",
-              "gloss": "surely",
+              "gloss": "why",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
@@ -10549,7 +10549,7 @@
       "text": "niai χóe terá kerd, bé̱rde, eíšte zeindā́ṅ. Wai lā́d̮eki gōlikā́na",
       "lerch": "niai χóe terá kerd, bé̱rde, eíšte zeindā́ṅ. Wai lā́d̮eki gōlikā́na",
       "ipa": "njaj ˈχoe teˈra kerd ˈbɛrde ˈejʃte zejnˈdaːŋ waj ˈlaːd͡ʒeki goːliˈkaːna",
-      "zazaki": "nyay xoê têra kêrd, berdê, êyştê zêyndang. Way lacêki golikana",
+      "zazaki": "nyay xoê têra kêrd, berdê, êyştê zêyndaŋ. Way lacêki golikana",
       "source_note": "",
       "russian_print_page": 119,
       "russian_scan_page": 133,
@@ -10564,7 +10564,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "nyay xoê têra kêrd, berdê, êyştê zêyndang. Way lacêki golikana"
+          "value": "nyay xoê têra kêrd, berdê, êyştê zêyndaŋ. Way lacêki golikana"
         },
         {
           "label": "ENGLISH",
@@ -10729,7 +10729,7 @@
         {
           "form": "zeindā́ṅ.",
           "ipa": "zejnˈdaːŋ",
-          "zazaki": "zêyndang.",
+          "zazaki": "zêyndaŋ.",
           "lemma": "zeindan",
           "display_gloss": "pit",
           "gloss_tr": "çukur",
@@ -10738,7 +10738,7 @@
           "morphemes": [
             {
               "form": "zeindā́ṅ",
-              "normalized": "zêyndang",
+              "normalized": "zêyndaŋ",
               "lemma": "zeindan",
               "gloss": "pit",
               "pos": "",

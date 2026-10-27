@@ -1,8 +1,8 @@
 The Tale of the Three Brothers
 
-There were once, somewhere, three brothers.
+There were once, somewhere, three brothers. The youngest brother's name was Hasanek, the middle brother's name was Qasim, and the eldest brother's name was Shaban.
 
-The youngest brother's name was Hasanek, the middle brother's name was Qasim, and the eldest brother's name was Shaban. Whatever else they had or did not have, they had three sickles.
+Whatever else they had or did not have, they had three sickles.
 
 Hasanek said to his brothers, "Get up. Let us leave this country, go to another tribe, find work for ourselves, and make a living."
 
@@ -24,13 +24,13 @@ They cut the wheat. When they saw that the dev had come, the dev said, "What are
 
 Hasanek said, "My lord, give me permission; let me say one word to you." The dev said, "Speak, my son."
 
-Hasanek said, "All three of us are brothers. We came and found this wheat here. We bent down to cut it, saying, 'Surely this wheat has an owner; surely he will give us some pay.'" The dev said to Hasanek, "Well done, my son.
+Hasanek said, "All three of us are brothers. We came and found this wheat here. We bent down to cut it, saying, 'Surely this wheat has an owner; surely he will give us some pay.'"
 
-Cut."
+The dev said to Hasanek, "Well done, my son. Cut."
 
 The dev came near Hasanek and said to him, "My son, give me your sickle. I will cut a little wheat. You sit down for a while and rest."
 
-The dev cut. Qasim, Shaban, and Hasanek, all three of them, cut wheat until evening prayer.
+The dev, Qasim, and Shaban, all three of them, cut wheat until evening prayer.
 
 The dev got up, wrote a letter, gave it to Hasanek, and said, "Take this road and go. Look at the top of that mountain; my house is on that mountain. My wife and my three daughters are sitting in the house. Take the letter and give it to my wife. She knows."
 
@@ -110,9 +110,9 @@ Hasanek said, "Go and serve in the household of some agha."
 
 Hasanek took his brother Qasim and delivered him to a coffeehouse keeper.
 
-Hasanek said to the coffeehouse keeper, "Agha, this is my brother. His name is Qasim. Let him serve you."
+Hasanek said to the coffeehouse keeper, "Agha, this is my brother. His name is Qasim. Let him serve you." The coffeehouse keeper said to Hasanek, "My son, what kind of work can your brother do?"
 
-The coffeehouse keeper said to Hasanek, "My son, what kind of work can your brother do?" Hasanek said to the coffeehouse keeper, "Agha, whatever work you order, my brother can do."
+Hasanek said to the coffeehouse keeper, "Agha, whatever work you order, my brother can do."
 
 The coffeehouse keeper said, "Very well, my son."
 

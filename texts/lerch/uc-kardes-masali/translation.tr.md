@@ -1,8 +1,8 @@
 Üç Kardeş Masalı
 
-Bir zamanlar, bir yerde üç kardeş varmış.
+Bir zamanlar, bir yerde üç kardeş varmış. En küçük kardeşin adı Hasanek, ortanca kardeşin adı Qasim, en büyük kardeşin adı da Şaban'mış.
 
-En küçük kardeşin adı Hasanek, ortanca kardeşin adı Qasim, en büyük kardeşin adı da Şaban'mış. Başka ne vardı ne yoktu bilinmez, ama üç tane orakları varmış.
+Başka ne vardı ne yoktu bilinmez, ama üç tane orakları varmış.
 
 Hasanek kardeşlerine, "Kalkın. Bu memleketten çıkalım, başka bir aşirete gidelim; kendimize iş bulalım, geçimimiz olsun," demiş.
 
@@ -28,9 +28,9 @@ Hasanek, "Üçümüz de kardeşiz. Geldik, bu buğdayı burada bulduk. Biçmek i
 
 Dev Hasanek'e, "Aferin oğlum, biç," demiş.
 
-Dev Hasanek'in yanına yaklaşmış ve ona, "Oğlum, orağını bana ver. Biraz buğday biçeyim; sen biraz otur, dinlen," demiş. Dev biçmiş.
+Dev Hasanek'in yanına yaklaşmış ve ona, "Oğlum, orağını bana ver. Biraz buğday biçeyim; sen biraz otur, dinlen," demiş.
 
-Qasim, Şaban ve Hasanek, üçü birlikte akşam namazına kadar buğday biçmişler.
+Dev, Qasim ve Şaban, üçü birlikte akşam namazına kadar buğday biçmişler.
 
 Dev kalkmış, bir mektup yazmış, Hasanek'e vermiş ve, "Bu yoldan git. Şu dağın tepesine bak; evim o dağdadır. Karım ve üç kızım evde oturuyorlar. Mektubu götür, karıma ver; o bilir," demiş.
 
@@ -110,9 +110,9 @@ Hasanek, "Gidin, bir ağanın yanında hizmet edin," demiş.
 
 Hasanek kardeşi Qasim'i alıp bir kahveciye teslim etmiş.
 
-Hasanek kahveciye, "Ağa, bu benim kardeşimdir. Adı Qasim'dir. Sana hizmet etsin," demiş.
+Hasanek kahveciye, "Ağa, bu benim kardeşimdir. Adı Qasim'dir. Sana hizmet etsin," demiş. Kahveci Hasanek'e, "Oğlum, kardeşinin elinden ne iş gelir?" demiş.
 
-Kahveci Hasanek'e, "Oğlum, kardeşinin elinden ne iş gelir?" demiş. Hasanek kahveciye, "Ağa, sen ne iş buyurursan kardeşim yapar," demiş.
+Hasanek kahveciye, "Ağa, sen ne iş buyurursan kardeşim yapar," demiş.
 
 Kahveci, "Peki oğlum," demiş.
 

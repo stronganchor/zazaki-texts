@@ -6,7 +6,8 @@
     "scope": "Source-checked German reader lane and English/Turkish omissions; independently reviewed by the Hassan lane.",
     "evidence": "Language/Z/artifacts/research-curation-20260906/lerch/hassan-reader/",
     "source_pdf_pages": "102–105",
-    "note": "Preserve house/hut differences, conditional huts, tribal-feud identification and fasting/wish-to-smoke reading."
+    "note": "Preserve house/hut differences, conditional huts, tribal-feud identification and fasting/wish-to-smoke reading.",
+    "orthography_2026_10_27": "Owner-requested practical orthography: IPA ŋ without following k/g is written ŋ, replacing ng. Exact source anchors and reader source projections synchronized; Lerch transcription, IPA, translations, grouping, and prior source-review status unchanged."
   },
   "source_lines": [
     {
@@ -23,7 +24,7 @@
     },
     {
       "id": "h01_l04",
-      "zazaki": "Namêy aşirêta ma Sivang."
+      "zazaki": "Namêy aşirêta ma Sivaŋ."
     },
     {
       "id": "h01_l05",
@@ -43,19 +44,19 @@
     },
     {
       "id": "h01_l09",
-      "zazaki": "mêk, Bılıkê, Melêkang, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sa-"
+      "zazaki": "mêk, Bılıkê, Melêkaŋ, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sa-"
     },
     {
       "id": "h01_l10",
-      "zazaki": "ma, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahimang, Avdêlang,"
+      "zazaki": "ma, Emêra, Şêkêra, 'Hêylaŋ, Bazyaŋ, Mala-İbrahimaŋ, Avdêlaŋ,"
     },
     {
       "id": "h01_l11",
-      "zazaki": "Mıstang, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi,"
+      "zazaki": "Mıstaŋ, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi,"
     },
     {
       "id": "h01_l12",
-      "zazaki": "Letang, Ğahar, Ğoêmang, Kavarê, Talek."
+      "zazaki": "Letaŋ, Ğahar, Ğoêmaŋ, Kavarê, Talek."
     },
     {
       "id": "h01_l13",
@@ -115,31 +116,31 @@
     },
     {
       "id": "h02_l14",
-      "zazaki": "Merdûm estû weri kêy çêhêr êsti, pangc esti, merdûm estû"
+      "zazaki": "Merdûm estû weri kêy çêhêr êsti, paŋc esti, merdûm estû"
     },
     {
       "id": "h02_l15",
-      "zazaki": "yaw bang estû, wade çinyû."
+      "zazaki": "yaw baŋ estû, wade çinyû."
     },
     {
       "id": "h02_l16",
-      "zazaki": "Şüma şwêni zozang?"
+      "zazaki": "Şüma şwêni zozaŋ?"
     },
     {
       "id": "h03_l01",
-      "zazaki": "Ma şwêni zozang."
+      "zazaki": "Ma şwêni zozaŋ."
     },
     {
       "id": "h03_l02",
-      "zazaki": "Şüma qam waxtê şwêni zozang?"
+      "zazaki": "Şüma qam waxtê şwêni zozaŋ?"
     },
     {
       "id": "h03_l03",
-      "zazaki": "Aşmê Temûzidê ma şwêni zozang."
+      "zazaki": "Aşmê Temûzidê ma şwêni zozaŋ."
     },
     {
       "id": "h03_l04",
-      "zazaki": "Şüma zozangdê karaçaciridê roşêni?"
+      "zazaki": "Şüma zozaŋdê karaçaciridê roşêni?"
     },
     {
       "id": "h03_l05",
@@ -240,7 +241,7 @@
         "h01_l03",
         "h01_l04"
       ],
-      "source": "Namêy aşirêta ma Sivang.",
+      "source": "Namêy aşirêta ma Sivaŋ.",
       "translations": {
         "tr": "Aşiretimizin adı Sivan'dır.",
         "en": "The name of our tribe is Sivan.",
@@ -304,7 +305,7 @@
         "h01_l11",
         "h01_l12"
       ],
-      "source": "Fatrakom, 'Hopsor, Tênik, Rêjwan, Zımag, 'Hoêrsig, 'Hêmêk, Bılıkê, Melêkang, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sama, Emêra, Şêkêra, 'Hêylang, Bazyang, Mala-İbrahiman, Avdêlang, Mıstang, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi, Letang, Ğahar, Ğoêmang, Kavarê, Talek.",
+      "source": "Fatrakom, 'Hopsor, Tênik, Rêjwan, Zımag, 'Hoêrsig, 'Hêmêk, Bılıkê, Melêkaŋ, Mark, Aldûn, Gewêl, Kasan, 'Hoêna, Sama, Emêra, Şêkêra, 'Hêylaŋ, Bazyaŋ, Mala-İbrahiman, Avdêlaŋ, Mıstaŋ, Sayêrê, Abasa, Wis'hêyn, 'Haspêg, Sêraçyori, Akêragi, Letaŋ, Ğahar, Ğoêmaŋ, Kavarê, Talek.",
       "translations": {
         "tr": "Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Bazyang, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.",
         "en": "Fatrakom, Hopsor, Tenik, Rezuan, Zimag, Horsig, Hemek, Bilike, Melekan, Mark, Aldun, Gewel, Kasan, Hoena, Sama, Emera, Shekera, Heylan, Bazyang, Mala-Ibrahiman, Avdelan, Mistan, Sayere, Abasa, Wisheyn, Haspeg, Seratyori, Akeragi, Letan, Gahar, Gowman, Kavare, Talek.",
@@ -504,7 +505,7 @@
         "h02_l14",
         "h02_l15"
       ],
-      "source": "Merdûm estû weri kêy çêhêr êsti, pangc esti, merdûm estû yaw bang estû, wade çinyû.",
+      "source": "Merdûm estû weri kêy çêhêr êsti, paŋc esti, merdûm estû yaw baŋ estû, wade çinyû.",
       "translations": {
         "tr": "Bazı kişilerin evinde dört, beş oda var; bazı kişilerin bir evi var, odası yok.",
         "en": "Some people's houses have four or five rooms; some people have one house and no room.",
@@ -518,7 +519,7 @@
         "h02_l16",
         "h03_l01"
       ],
-      "source": "Şüma şwêni zozang?",
+      "source": "Şüma şwêni zozaŋ?",
       "translations": {
         "tr": "Yaylaya gider misiniz?",
         "en": "Do you go to the summer pasture?",
@@ -532,7 +533,7 @@
         "h02_l16",
         "h03_l01"
       ],
-      "source": "Ma şwêni zozang.",
+      "source": "Ma şwêni zozaŋ.",
       "translations": {
         "tr": "Yaylaya gideriz.",
         "en": "We go to the summer pasture.",
@@ -546,7 +547,7 @@
         "h03_l02",
         "h03_l03"
       ],
-      "source": "Şüma qam waxtê şwêni zozang?",
+      "source": "Şüma qam waxtê şwêni zozaŋ?",
       "translations": {
         "tr": "Yaylaya ne zaman gidersiniz?",
         "en": "When do you go to the summer pasture?",
@@ -560,7 +561,7 @@
         "h03_l02",
         "h03_l03"
       ],
-      "source": "Aşmê Temûzidê ma şwêni zozang.",
+      "source": "Aşmê Temûzidê ma şwêni zozaŋ.",
       "translations": {
         "tr": "Temmuz ayında yaylaya gideriz.",
         "en": "In the month of Temmuz we go to the summer pasture.",
@@ -574,7 +575,7 @@
         "h03_l04",
         "h03_l05"
       ],
-      "source": "Şüma zozangdê karaçaciridê roşêni?",
+      "source": "Şüma zozaŋdê karaçaciridê roşêni?",
       "translations": {
         "tr": "Yaylada kara çadırlarda mı kalırsınız?",
         "en": "Do you live in black tents at the summer pasture?",

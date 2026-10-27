@@ -7,7 +7,8 @@
     "source": "Lerch German Abth. I, all corresponding physical pages; Russian images for targeted divergences.",
     "source_sha256": "f5b6a3fc3f6357ed6608c4aab7e35b8c27d7292868b0614a1aa8a176a04df2cc",
     "evidence": "Language/Z/artifacts/autonomous-curation-20260907/lerch/REPORT.md",
-    "limitations": "Working reader; disclosed witness disagreements remain held. Frozen historical German prompts/OCR are not rewritten."
+    "limitations": "Working reader; disclosed witness disagreements remain held. Frozen historical German prompts/OCR are not rewritten.",
+    "orthography_2026_10_27": "Owner-requested practical orthography: IPA ŋ without following k/g is written ŋ, replacing ng. Exact source anchors and reader source projections synchronized; Lerch transcription, IPA, translations, grouping, and prior source-review status unchanged."
   },
   "source_lines": [
     {

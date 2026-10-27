@@ -119,8 +119,8 @@
       "id": "u001_01",
       "source": "Cayki bi çi nyêbi, hiryê bêrai bi, namêy bêray kıci 'Hasanêk, namêy bêray myanyêni Qasim, namêy bêray pili Şaban.",
       "translations": {
-        "tr": "Bir zamanlar, bir yerde üç kardeş varmış.",
-        "en": "There were once, somewhere, three brothers.",
+        "tr": "Bir zamanlar, bir yerde üç kardeş varmış. En küçük kardeşin adı Hasanek, ortanca kardeşin adı Qasim, en büyük kardeşin adı da Şaban'mış.",
+        "en": "There were once, somewhere, three brothers. The youngest brother's name was Hasanek, the middle brother's name was Qasim, and the eldest brother's name was Shaban.",
         "de": "Es gab irgendwo drei Brüder; der Name des jüngsten Bruders (war) Hasanek, der Name des mittlern Bruders Qasim, der Name des ältesten Bruders Schaban."
       },
       "source_line_ids": [
@@ -256,8 +256,8 @@
       "id": "u001_02",
       "source": "Çi dêyinê çi nebê, hiryê vayştûri xoê bi.",
       "translations": {
-        "tr": "En küçük kardeşin adı Hasanek, ortanca kardeşin adı Qasim, en büyük kardeşin adı da Şaban'mış. Başka ne vardı ne yoktu bilinmez, ama üç tane orakları varmış.",
-        "en": "The youngest brother's name was Hasanek, the middle brother's name was Qasim, and the eldest brother's name was Shaban. Whatever else they had or did not have, they had three sickles.",
+        "tr": "Başka ne vardı ne yoktu bilinmez, ama üç tane orakları varmış.",
+        "en": "Whatever else they had or did not have, they had three sickles.",
         "de": "Wie dem auch sei, sie hatten drei Sicheln."
       },
       "source_line_ids": [
@@ -1764,7 +1764,7 @@
       "source": "'Hasanêki va: ma hiryê heminê bêrai cyêy, ma amêy, enoê ğalêy ma etya di, ma nêyay pa çina, va: hêlbêt wayêri enyê ğali estû, hêlbêt mari yaw 'hawlê kênû.",
       "translations": {
         "tr": "Hasanek, \"Üçümüz de kardeşiz. Geldik, bu buğdayı burada bulduk. Biçmek için eğildik ve, 'Elbette bu buğdayın sahibi vardır, elbette bize bir ücret verir,' dedik,\" demiş.",
-        "en": "Hasanek said, \"All three of us are brothers. We came and found this wheat here. We bent down to cut it, saying, 'Surely this wheat has an owner; surely he will give us some pay.'\" The dev said to Hasanek, \"Well done, my son.",
+        "en": "Hasanek said, \"All three of us are brothers. We came and found this wheat here. We bent down to cut it, saying, 'Surely this wheat has an owner; surely he will give us some pay.'\"",
         "de": "Hasanek sagte: „Wir alle drei sind Brüder. Wir kamen und fanden hier diesen Weizen. Wir bückten uns, um ihn zu schneiden, und sagten: Vielleicht gibt es einen Besitzer dieses Weizens, der uns einen Lohn gibt.“"
       },
       "source_line_ids": [
@@ -1901,7 +1901,7 @@
       "source": "Dewi va 'Hasanêkira: laci mê, afêrêm, bıçinê.",
       "translations": {
         "tr": "Dev Hasanek'e, \"Aferin oğlum, biç,\" demiş.",
-        "en": "Cut.\"",
+        "en": "The dev said to Hasanek, \"Well done, my son. Cut.\"",
         "de": "Der Dev sagte zu Hasanek: „Gut, mein Sohn, schneide.“"
       },
       "source_line_ids": [
@@ -2035,9 +2035,9 @@
     },
     {
       "id": "u008_01",
-      "source": "Dyaw vınert 'Hasanêki 'het, 'Hasanêkira va: laci mê, tê vaystûray xoê bıdê mê, ez hêlyê ğalê çınêna, tê gamyê roşê, asang bê.",
+      "source": "Dyaw vınert 'Hasanêki 'het, 'Hasanêkira va: laci mê, tê vaystûray xoê bıdê mê, ez hêlyê ğalê çınêna, tê gamyê roşê, asaŋ bê.",
       "translations": {
-        "tr": "Dev Hasanek'in yanına yaklaşmış ve ona, \"Oğlum, orağını bana ver. Biraz buğday biçeyim; sen biraz otur, dinlen,\" demiş. Dev biçmiş.",
+        "tr": "Dev Hasanek'in yanına yaklaşmış ve ona, \"Oğlum, orağını bana ver. Biraz buğday biçeyim; sen biraz otur, dinlen,\" demiş.",
         "en": "The dev came near Hasanek and said to him, \"My son, give me your sickle. I will cut a little wheat. You sit down for a while and rest.\"",
         "de": "Der Dev näherte sich Hasanek und sagte: „Mein Sohn, gib mir deine Sichel. Ich werde ein wenig Weizen schneiden; setz du dich eine Weile hin und ruh dich aus.“"
       },
@@ -2174,8 +2174,8 @@
       "id": "u008_02",
       "source": "Dêwi çına, Qasim û Şaban, hiryê heminê yalê çına 'hêtê nêmaci yêri.",
       "translations": {
-        "tr": "Qasim, Şaban ve Hasanek, üçü birlikte akşam namazına kadar buğday biçmişler.",
-        "en": "The dev cut. Qasim, Shaban, and Hasanek, all three of them, cut wheat until evening prayer.",
+        "tr": "Dev, Qasim ve Şaban, üçü birlikte akşam namazına kadar buğday biçmişler.",
+        "en": "The dev, Qasim, and Shaban, all three of them, cut wheat until evening prayer.",
         "de": "Der Dev schnitt. Zusammen mit Qasim und Schaban schnitt er den Weizen bis zum Abendgebet; sie waren zu dritt."
       },
       "source_line_ids": [
@@ -2446,7 +2446,7 @@
     },
     {
       "id": "u009_02",
-      "source": "'Hasanêki kağit gêrawt, kawta rayêr, şê, dı saati şê, kağit akerd, wengd, awnya kê, dyewi kağiti noştû ekê enoê merdüm enyê kağiti anû kêyê, mıri serêy enyê merdwomi trakê, mıri pilaw pawjê, serêy enyê merdümi mıri pilaw ver kê, berşaw mıri, ez wêna.",
+      "source": "'Hasanêki kağit gêrawt, kawta rayêr, şê, dı saati şê, kağit akerd, weŋd, awnya kê, dyewi kağiti noştû ekê enoê merdüm enyê kağiti anû kêyê, mıri serêy enyê merdwomi trakê, mıri pilaw pawjê, serêy enyê merdümi mıri pilaw ver kê, berşaw mıri, ez wêna.",
       "translations": {
         "tr": "Hasanek mektubu almış, yola düşmüş ve iki saat yürümüş. Sonra mektubu açıp okumuş ve devin şöyle yazdığını görmüş: \"Bu adam bu mektubu eve getirince bu adamın başını benim için kes, bana pilav pişir, bu adamın başından bana pilav yap, bana gönder; ben de yiyeyim.\"",
         "en": "Hasanek took the letter, set out, and walked for two hours. Then he opened the letter, read it, and saw that the dev had written: \"When this man brings this letter home, cut off this man's head for me, cook pilaf for me, make pilaf for me from this man's head, send it to me, and I will eat it.\"",
@@ -2857,7 +2857,7 @@
     },
     {
       "id": "u011_01",
-      "source": "Cênyay dyewi kağit gêrawt, akerd, wêngd ekê dyewi tedê noştû gay bwêri wa pilaw ver kû, bıdû 'Hasanêkira, 'Hasanêki emşoê wa kêynay pilê 'het ra kû, sêba ena pilaw byarû.",
+      "source": "Cênyay dyewi kağit gêrawt, akerd, wêŋd ekê dyewi tedê noştû gay bwêri wa pilaw ver kû, bıdû 'Hasanêkira, 'Hasanêki emşoê wa kêynay pilê 'het ra kû, sêba ena pilaw byarû.",
       "translations": {
         "tr": "Devin karısı mektubu almış, açmış ve devin, boz öküzden pilav yapıp Hasanek'e vermesini, Hasanek'in o gece büyük kızın yanında yatmasını ve sabahleyin o pilavı getirmesini yazdığını okumuş.",
         "en": "The dev's wife took the letter, opened it, and read that the dev had written that she should make pilaf from the brown bull and give it to Hasanek, and that Hasanek should sleep that night beside the eldest daughter and bring that pilaf in the morning.",
@@ -3542,7 +3542,7 @@
     },
     {
       "id": "u013_02",
-      "source": "Dyewi gêrawt, va 'Hasanêkira: mê kağit ana nyênoşt bê, ena kêynay kûtıki senyyê enoê nang 'hadre kerdû, daw twê, twê enoê nang miri ardû, mê ena kağit nyênoşt bê, ekê miri 'Hasanêki serê bırnê, goşti 'Hasanêki miri pilaw ver kê, berşaw miri.",
+      "source": "Dyewi gêrawt, va 'Hasanêkira: mê kağit ana nyênoşt bê, ena kêynay kûtıki senyyê enoê naŋ 'hadre kerdû, daw twê, twê enoê naŋ miri ardû, mê ena kağit nyênoşt bê, ekê miri 'Hasanêki serê bırnê, goşti 'Hasanêki miri pilaw ver kê, berşaw miri.",
       "translations": {
         "tr": "Dev pilavı almış ve Hasanek'e, \"Ben böyle bir mektup yazmadım. Bu kötü kadın niye bu yemeği hazırlayıp sana verdi? Sen bu yemeği niye bana getirdin? Ben mektupta bunu yazmadım. Hasanek'in başını kessin, Hasanek'in etinden bana pilav yapsın ve bana göndersin diye yazdım,\" demiş.",
         "en": "The dev took it and said to Hasanek, \"I did not write a letter like this. Why has this bad woman prepared this food and given it to you? Why have you brought this food to me? I did not write this in the letter. I wrote that she should cut off Hasanek's head, make pilaf for me from Hasanek's flesh, and send it to me.\"",
@@ -4090,7 +4090,7 @@
     },
     {
       "id": "u015_02",
-      "source": "Dyewi yaw kağit noşt: ena gêlankê çimani 'Hasanêki miri, lawwani 'Hasanêki tra kê, kebab kê, pawjê, miri berşaw, ek ena gêlankê enoê merdüm sağ amê mê 'hêt, ez 'hawnya yêna serê destani lingani twê, kêynay kûtıki, tra kêna, twê bêna seri hawt rayêrang ver dana.",
+      "source": "Dyewi yaw kağit noşt: ena gêlankê çimani 'Hasanêki miri, lawwani 'Hasanêki tra kê, kebab kê, pawjê, miri berşaw, ek ena gêlankê enoê merdüm sağ amê mê 'hêt, ez 'hawnya yêna serê destani lingani twê, kêynay kûtıki, tra kêna, twê bêna seri hawt rayêraŋ ver dana.",
       "translations": {
         "tr": "Dev bir mektup yazmış: \"Bu defa Hasanek'in gözlerini ve dudaklarını benim için çıkar, kebap yap, pişir ve bana gönder. Bu adam bu defa sağ salim yanıma gelirse hemen gelip senin başını, ellerini ve ayaklarını keseceğim, kötü kadın, seni de yedi yolun üstüne atacağım.\"",
         "en": "The dev wrote a letter: \"This time cut out Hasanek's eyes and lips for me, make kebab, roast it, and send it to me. If this man comes back to me alive this time, I will immediately come to cut off your head, hands, and feet, bad woman, and I will throw you onto seven roads.\"",
@@ -4364,7 +4364,7 @@
     },
     {
       "id": "u016_02",
-      "source": "'Hasanêki gêrawt, dı saati ca şê, kağit akêrd, kağit wengd, awnya, ekê dêwi kağiti noştû, ek ena gêlankê miri çimani, lawani 'Hasanêki tra kê, miri kebab kê, berşaw, ena gêlankê enoê merdüm ekê weş amê mê 'hêt, ez ena gêlankê yêna kêyê, serêy, lingani, destani twê, kêynay kûtıki, tra kêna, twê bêna seri hawt rayêran ver dana, çaw twêri wayêrêy nyêkênû.",
+      "source": "'Hasanêki gêrawt, dı saati ca şê, kağit akêrd, kağit weŋd, awnya, ekê dêwi kağiti noştû, ek ena gêlankê miri çimani, lawani 'Hasanêki tra kê, miri kebab kê, berşaw, ena gêlankê enoê merdüm ekê weş amê mê 'hêt, ez ena gêlankê yêna kêyê, serêy, lingani, destani twê, kêynay kûtıki, tra kêna, twê bêna seri hawt rayêran ver dana, çaw twêri wayêrêy nyêkênû.",
       "translations": {
         "tr": "Hasanek mektubu almış, iki saat kadar gitmiş, mektubu açıp okumuş ve devin şöyle yazdığını görmüş: \"Bu defa Hasanek'in gözlerini ve dudaklarını benim için çıkar, bana kebap yap ve gönder. Bu adam bu defa yanıma sağ gelirse eve geleceğim, senin başını, ayaklarını ve ellerini keseceğim, kötü kadın, seni yedi yolun üstüne atacağım. Kimse sana sahip çıkmayacak.\"",
         "en": "Hasanek took it, went on for two hours, opened the letter, read it, and saw that the dev had written: \"This time cut out Hasanek's eyes and lips for me, make kebab for me, and send it. If this man comes back to me safe this time, I will come home, cut off your head, feet, and hands, bad woman, and throw you onto seven roads. No one will protect you.\"",
@@ -4501,7 +4501,7 @@
     },
     {
       "id": "u017_01",
-      "source": "'Hasanêki kağit wengd, ekê dewi kağit sa katêy tedê noştû.",
+      "source": "'Hasanêki kağit weŋd, ekê dewi kağit sa katêy tedê noştû.",
       "translations": {
         "tr": "Hasanek mektupta devin ne kötülükler yazdığını okumuş.",
         "en": "Hasanek read what evil things the dev had written in the letter.",
@@ -4912,7 +4912,7 @@
     },
     {
       "id": "u018_02",
-      "source": "Cênyay dyêwi kağit wengd, ekê dyewi tedê noştû: miri gay şüri serê bırnê, goşti gay şüri kebab kê, pawcê, berşaw, emşoê 'Hasanêk wa kêynay mina kıci 'hêtê ra kû, soba miri na pilaw kebab byarû.",
+      "source": "Cênyay dyêwi kağit weŋd, ekê dyewi tedê noştû: miri gay şüri serê bırnê, goşti gay şüri kebab kê, pawcê, berşaw, emşoê 'Hasanêk wa kêynay mina kıci 'hêtê ra kû, soba miri na pilaw kebab byarû.",
       "translations": {
         "tr": "Devin karısı mektubu okumuş; dev orada, \"Benim için kızıl öküzü kes, kızıl öküzün etinden kebap yap, pişir ve gönder. Bu gece Hasanek benim küçük kızımın yanında yatsın; sabah bana bu pilavı ve kebabı getirsin,\" diye yazmış.",
         "en": "The dev's wife read the letter, where the dev had written: \"Slaughter the red bull for me, make kebab from the red bull's meat, roast it, and send it. Tonight let Hasanek sleep beside my youngest daughter, and tomorrow let him bring me this pilaf and kebab.\"",
@@ -6145,7 +6145,7 @@
     },
     {
       "id": "u023_02",
-      "source": "Dyaw nang gêrawt, xêrs bê, nang ûca rwêna, werişt şê kêyê.",
+      "source": "Dyaw naŋ gêrawt, xêrs bê, naŋ ûca rwêna, werişt şê kêyê.",
       "translations": {
         "tr": "Dev yemeği almış, öfkelenmiş, yemeği oraya atmış, kalkıp eve gitmiş.",
         "en": "The dev took the food, became angry, threw the food down there, got up, and went home.",
@@ -6556,7 +6556,7 @@
     },
     {
       "id": "u025_01",
-      "source": "'Hasanêk şê xoêri yaw şahrê stang, bêray xoê berdi çarşû, va kê bêrarani xoêra: xoêri kancawkê kêyfê şüma wazênû şyêri.",
+      "source": "'Hasanêk şê xoêri yaw şahrê staŋ, bêray xoê berdi çarşû, va kê bêrarani xoêra: xoêri kancawkê kêyfê şüma wazênû şyêri.",
       "translations": {
         "tr": "Hasanek uzak bir şehre gitmiş, kardeşlerini çarşıya götürmüş ve onlara, \"Nereye gitmek istiyorsanız gidin,\" demiş.",
         "en": "Hasanek went on to a distant city, brought his brothers to the market, and said to them, \"Go wherever you like.\"",
@@ -7398,8 +7398,8 @@
       "id": "u029_01",
       "source": "'Hasanêki va kê qayfêçira: ağa, enoê bêray minû, namêy cay Qasimû, wa twêri ğızmêt bıkêrû, Qayfeçi 'Hasanêkira va kê: lacim, bêray twê destra tê gûre yênû.",
       "translations": {
-        "tr": "Hasanek kahveciye, \"Ağa, bu benim kardeşimdir. Adı Qasim'dir. Sana hizmet etsin,\" demiş.",
-        "en": "Hasanek said to the coffeehouse keeper, \"Agha, this is my brother. His name is Qasim. Let him serve you.\"",
+        "tr": "Hasanek kahveciye, \"Ağa, bu benim kardeşimdir. Adı Qasim'dir. Sana hizmet etsin,\" demiş. Kahveci Hasanek'e, \"Oğlum, kardeşinin elinden ne iş gelir?\" demiş.",
+        "en": "Hasanek said to the coffeehouse keeper, \"Agha, this is my brother. His name is Qasim. Let him serve you.\" The coffeehouse keeper said to Hasanek, \"My son, what kind of work can your brother do?\"",
         "de": "Hasanek sagte zu dem Kaffeehauswirt: „Herr, das ist mein Bruder. Er heißt Qasim und soll dir dienen.“ Der Wirt fragte Hasanek: „Mein Sohn, welche Arbeit kann dein Bruder verrichten?“"
       },
       "source_line_ids": [
@@ -7535,8 +7535,8 @@
       "id": "u029_02",
       "source": "'Hasanêki qayfetira go kê: ağa, tê çê gûrawkê vaci bêrai mê destra yênû.",
       "translations": {
-        "tr": "Kahveci Hasanek'e, \"Oğlum, kardeşinin elinden ne iş gelir?\" demiş. Hasanek kahveciye, \"Ağa, sen ne iş buyurursan kardeşim yapar,\" demiş.",
-        "en": "The coffeehouse keeper said to Hasanek, \"My son, what kind of work can your brother do?\" Hasanek said to the coffeehouse keeper, \"Agha, whatever work you order, my brother can do.\"",
+        "tr": "Hasanek kahveciye, \"Ağa, sen ne iş buyurursan kardeşim yapar,\" demiş.",
+        "en": "Hasanek said to the coffeehouse keeper, \"Agha, whatever work you order, my brother can do.\"",
         "de": "Hasanek antwortete dem Kaffeehauswirt: „Welche Arbeit du auch befiehlst, mein Bruder wird sie verrichten.“"
       },
       "source_line_ids": [
@@ -8766,7 +8766,7 @@
     },
     {
       "id": "u034_01",
-      "source": "Qabas başi 'Hasanêkira va kê: êgit tê şwêni ez çira'hêy dyewya, yaw şimşyêri dyewi estû 'ha kalanya altûnyênêdê 'ha qûlavi myandê, caw kê dyaw ra kwênû, 'ha bini seri dyewidê şimşyêri dyewi bıgê, byê bêri ver dê, kişta raştêdê yaw şêbakê esta, şwê aya şêbakêdê vındê, dyaw kêykê amê zerê, şimşyêri dyewi bıgê xoê dest, kê serêy dyewi amê bêra zerê yaw şimşyêr pêro dê serêy dyewi tra kê gnênû erû, serêy dyewidê zwang estû, kali kênû, twêra vanû yawnay pêro dê, tê vaci kê ez hêni yawnay pêro nyêdana: kawli cang mêrdang yaw.",
+      "source": "Qabas başi 'Hasanêkira va kê: êgit tê şwêni ez çira'hêy dyewya, yaw şimşyêri dyewi estû 'ha kalanya altûnyênêdê 'ha qûlavi myandê, caw kê dyaw ra kwênû, 'ha bini seri dyewidê şimşyêri dyewi bıgê, byê bêri ver dê, kişta raştêdê yaw şêbakê esta, şwê aya şêbakêdê vındê, dyaw kêykê amê zerê, şimşyêri dyewi bıgê xoê dest, kê serêy dyewi amê bêra zerê yaw şimşyêr pêro dê serêy dyewi tra kê gnênû erû, serêy dyewidê zwaŋ estû, kali kênû, twêra vanû yawnay pêro dê, tê vaci kê ez hêni yawnay pêro nyêdana: kawli caŋ mêrdaŋ yaw.",
       "translations": {
         "tr": "Muhafızbaşı Hasanek'e, \"Git yiğit. Ben dev bağlayan biriyim. Devin altın kın içinde, bir kılıfın içinde bir kılıcı vardır. Dev nerede yatarsa kılıç başının altında durur. Devin kılıcını başının üstünden al, kapının önüne gel; sağ tarafta bir kafes vardır. Git, o kafesin önünde dur. Dev odaya girince kılıcı eline al. Dev başını içeri sokunca kılıçla başına bir darbe vur, başını kesip yere düşür. Devin başının içinde bir dil vardır; konuşur ve sana, 'Bir darbe daha vur,' der. Sen, 'Bir daha vurmam; yiğidin sözü birdir,' de,\" demiş.",
         "en": "The chief of the guards said to Hasanek, \"Go, hero. I am a dev-binder. The dev has a sword in a golden scabbard, inside a covering. Wherever the dev lies down, the sword is there under his head. Take the dev's sword from above his head, come to the front of the door, and on the right side there is a lattice. Go and stand at that lattice. When the dev comes into the room, take the dev's sword in your hand. When the dev brings his head inside, strike the dev's head once with the sword and cut it off so that it falls to the ground. There is a tongue in the dev's head; it speaks and says to you, 'Strike once more.' You must say, 'I will not strike again: a hero's word is one.'\"",
@@ -9058,7 +9058,7 @@
     },
     {
       "id": "u036_01",
-      "source": "dyewi va kê 'Hasanêkira: yawnay pêro dê, 'Hasanêki va kê dyewira: kawlê cang mêrdang yaw, dyaw merd, 'Hasanêk werişt, leşay dyewi ber dê êyştê zêyndang, gêyra şê kêy dyewi.",
+      "source": "dyewi va kê 'Hasanêkira: yawnay pêro dê, 'Hasanêki va kê dyewira: kawlê caŋ mêrdaŋ yaw, dyaw merd, 'Hasanêk werişt, leşay dyewi ber dê êyştê zêyndaŋ, gêyra şê kêy dyewi.",
       "translations": {
         "tr": "Dev Hasanek'e, \"Bir darbe daha vur,\" demiş. Hasanek deve, \"Yiğidin sözü birdir,\" demiş. Dev ölmüş. Hasanek kalkmış, devin leşini götürüp zindana atmış, dolaşıp devin evine gitmiş.",
         "en": "The dev said to Hasanek, \"Strike once more.\" Hasanek said to the dev, \"A hero's word is one.\" The dev died. Hasanek got up, carried away the dev's body, threw it into the prison, wandered around, and went to the dev's house.",
@@ -16435,7 +16435,7 @@
       "text": "asā́ṅ bẹ̄.",
       "lerch": "asā́ṅ bẹ̄.",
       "ipa": "aˈsaːŋ be̝ː",
-      "zazaki": "asang bê.",
+      "zazaki": "asaŋ bê.",
       "source_note": "",
       "russian_print_page": 88,
       "russian_scan_page": 102,
@@ -16450,7 +16450,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "asang bê."
+          "value": "asaŋ bê."
         }
       ],
       "witnesses": [
@@ -16469,7 +16469,7 @@
         {
           "form": "asā́ṅ",
           "ipa": "aˈsaːŋ",
-          "zazaki": "asang",
+          "zazaki": "asaŋ",
           "lemma": "asan",
           "display_gloss": "rest",
           "gloss_tr": "dinlen",
@@ -16478,7 +16478,7 @@
           "morphemes": [
             {
               "form": "asā́ṅ",
-              "normalized": "asang",
+              "normalized": "asaŋ",
               "lemma": "asan",
               "gloss": "rest",
               "pos": "",
@@ -18072,7 +18072,7 @@
       "text": "di̥ sá’ati šẹ̄, kaγít āké̱rd, we̱ṅd, auńā́ ke, d́é̱wi kaγíti nó̤štu é̱ke",
       "lerch": "di̥ sá’ati šẹ̄, kaγít āké̱rd, we̱ṅd, auńā́ ke, d́é̱wi kaγíti nó̤štu é̱ke",
       "ipa": "dɨ ˈsaʕati ʃe̝ː kaˈʁit aːˈkɛrd wɛŋd awˈɲaː ke ˈdʲɛwi kaˈʁiti ˈnøʃtu ˈɛke",
-      "zazaki": "dı saati şê, kağit akerd, wengd, awnya kê, dyewi kağiti noştû ekê",
+      "zazaki": "dı saati şê, kağit akerd, weŋd, awnya kê, dyewi kağiti noştû ekê",
       "source_note": "",
       "russian_print_page": 89,
       "russian_scan_page": 103,
@@ -18087,7 +18087,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dı saati şê, kağit akerd, wengd, awnya kê, dyewi kağiti noştû ekê"
+          "value": "dı saati şê, kağit akerd, weŋd, awnya kê, dyewi kağiti noştû ekê"
         }
       ],
       "witnesses": [
@@ -18221,7 +18221,7 @@
         {
           "form": "we̱ṅd,",
           "ipa": "wɛŋd",
-          "zazaki": "wengd,",
+          "zazaki": "weŋd,",
           "lemma": "wend",
           "display_gloss": "read",
           "gloss_tr": "okumak",
@@ -18230,7 +18230,7 @@
           "morphemes": [
             {
               "form": "we̱ṅd",
-              "normalized": "wengd",
+              "normalized": "weŋd",
               "lemma": "wend",
               "gloss": "read",
               "pos": "",
@@ -20189,7 +20189,7 @@
       "text": "γít geraút, aké̱rd, weṅd é̱ke d́é̱wi té̱de no̤štu gai búeri wa pilaú",
       "lerch": "γít geraút, aké̱rd, weṅd é̱ke d́é̱wi té̱de no̤štu gai búeri wa pilaú",
       "ipa": "ˈʁit geˈrawt aˈkɛrd weŋd ˈɛke ˈdʲɛwi ˈtɛde nøʃtu gaj ˈbweri wa piˈlaw",
-      "zazaki": "ğit gêrawt, akerd, wêngd ekê dyewi tedê noştû gay bwêri wa pilaw",
+      "zazaki": "ğit gêrawt, akerd, wêŋd ekê dyewi tedê noştû gay bwêri wa pilaw",
       "source_note": "",
       "russian_print_page": 89,
       "russian_scan_page": 103,
@@ -20204,7 +20204,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "ğit gêrawt, akerd, wêngd ekê dyewi tedê noştû gay bwêri wa pilaw"
+          "value": "ğit gêrawt, akerd, wêŋd ekê dyewi tedê noştû gay bwêri wa pilaw"
         }
       ],
       "witnesses": [
@@ -20292,7 +20292,7 @@
         {
           "form": "weṅd",
           "ipa": "weŋd",
-          "zazaki": "wêngd",
+          "zazaki": "wêŋd",
           "lemma": "wend",
           "display_gloss": "read",
           "gloss_tr": "okumak",
@@ -20301,7 +20301,7 @@
           "morphemes": [
             {
               "form": "weṅd",
-              "normalized": "wêngd",
+              "normalized": "wêŋd",
               "lemma": "wend",
               "gloss": "read",
               "pos": "",
@@ -22167,7 +22167,7 @@
       "text": "keínai kuti̥ki sé̱ń’ie ḗ̱n’oe nāṅ h̔adré̱ ké̱rdu, dau túe, túe ḗ̱n’oe",
       "lerch": "keínai kuti̥ki sé̱ń’ie ḗ̱n’oe nāṅ h̔adré̱ ké̱rdu, dau túe, túe ḗ̱n’oe",
       "ipa": "ˈkejnaj kutɨki ˈsɛɲje ˈɛːn.oe naːŋ ħadˈrɛ ˈkɛrdu daw ˈtwe ˈtwe ˈɛːn.oe",
-      "zazaki": "kêynay kûtıki senyyê enoê nang 'hadre kerdû, daw twê, twê enoê",
+      "zazaki": "kêynay kûtıki senyyê enoê naŋ 'hadre kerdû, daw twê, twê enoê",
       "source_note": "",
       "russian_print_page": 90,
       "russian_scan_page": 104,
@@ -22182,7 +22182,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "kêynay kûtıki senyyê enoê nang 'hadre kerdû, daw twê, twê enoê"
+          "value": "kêynay kûtıki senyyê enoê naŋ 'hadre kerdû, daw twê, twê enoê"
         }
       ],
       "witnesses": [
@@ -22293,7 +22293,7 @@
         {
           "form": "nāṅ",
           "ipa": "naːŋ",
-          "zazaki": "nang",
+          "zazaki": "naŋ",
           "lemma": "nan",
           "display_gloss": "food",
           "gloss_tr": "yemek",
@@ -22302,7 +22302,7 @@
           "morphemes": [
             {
               "form": "nāṅ",
-              "normalized": "nang",
+              "normalized": "naŋ",
               "lemma": "nan",
               "gloss": "food",
               "pos": "",
@@ -22463,7 +22463,7 @@
       "text": "nāṅ míri árdu, me ḗ̱n’a kaγít ńeno̤št bẹ̄, é̱ke míri H̔asanéki sé̱re",
       "lerch": "nāṅ míri árdu, me ḗ̱n’a kaγít ńeno̤št bẹ̄, é̱ke míri H̔asanéki sé̱re",
       "ipa": "naːŋ ˈmiri ˈardu me ˈɛːn.a kaˈʁit ɲenøʃt be̝ː ˈɛke ˈmiri ħasaˈneki ˈsɛre",
-      "zazaki": "nang miri ardû, mê ena kağit nyênoşt bê, ekê miri 'Hasanêki serê",
+      "zazaki": "naŋ miri ardû, mê ena kağit nyênoşt bê, ekê miri 'Hasanêki serê",
       "source_note": "",
       "russian_print_page": 90,
       "russian_scan_page": 104,
@@ -22478,7 +22478,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "nang miri ardû, mê ena kağit nyênoşt bê, ekê miri 'Hasanêki serê"
+          "value": "naŋ miri ardû, mê ena kağit nyênoşt bê, ekê miri 'Hasanêki serê"
         }
       ],
       "witnesses": [
@@ -22497,7 +22497,7 @@
         {
           "form": "nāṅ",
           "ipa": "naːŋ",
-          "zazaki": "nang",
+          "zazaki": "naŋ",
           "lemma": "nan",
           "display_gloss": "food",
           "gloss_tr": "yemek",
@@ -22506,7 +22506,7 @@
           "morphemes": [
             {
               "form": "nāṅ",
-              "normalized": "nang",
+              "normalized": "naŋ",
               "lemma": "nan",
               "gloss": "food",
               "pos": "",
@@ -25864,7 +25864,7 @@
       "text": "rayerā́ṅ ve̱r dāna. Dau we̱ríšt, kayít nošt, dā H̔asanékira. H̔a-",
       "lerch": "rayerā́ṅ ve̱r dāna. Dau we̱ríšt, kayít nošt, dā H̔asanékira. H̔a-",
       "ipa": "rajeˈraːŋ vɛr daːna daw wɛˈriʃt kaˈjit noʃt daː ħasaˈnekira ħa",
-      "zazaki": "rayêrang ver dana. Daw werişt, kayit noşt, da 'Hasanêkira. 'Ha-",
+      "zazaki": "rayêraŋ ver dana. Daw werişt, kayit noşt, da 'Hasanêkira. 'Ha-",
       "source_note": "",
       "russian_print_page": 91,
       "russian_scan_page": 105,
@@ -25879,7 +25879,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "rayêrang ver dana. Daw werişt, kayit noşt, da 'Hasanêkira. 'Ha-"
+          "value": "rayêraŋ ver dana. Daw werişt, kayit noşt, da 'Hasanêkira. 'Ha-"
         }
       ],
       "witnesses": [
@@ -25898,7 +25898,7 @@
         {
           "form": "rayerā́ṅ",
           "ipa": "rajeˈraːŋ",
-          "zazaki": "rayêrang",
+          "zazaki": "rayêraŋ",
           "lemma": "rayeran",
           "display_gloss": "roads",
           "gloss_tr": "yollar",
@@ -25907,7 +25907,7 @@
           "morphemes": [
             {
               "form": "rayerā́ṅ",
-              "normalized": "rayêrang",
+              "normalized": "rayêraŋ",
               "lemma": "rayeran",
               "gloss": "roads",
               "pos": "",
@@ -26148,7 +26148,7 @@
       "text": "sanéki geraút, di̥ sá’ati d̮ā šẹ̄, kaγít akērd, kaγít we̱ṅd, auńá, é̱ke",
       "lerch": "sanéki geraút, di̥ sá’ati d̮ā šẹ̄, kaγít akērd, kaγít we̱ṅd, auńá, é̱ke",
       "ipa": "saˈneki geˈrawt dɨ ˈsaʕati d͡ʒaː ʃe̝ː kaˈʁit akeːrd kaˈʁit wɛŋd awˈɲa ˈɛke",
-      "zazaki": "sanêki gêrawt, dı saati ca şê, kağit akêrd, kağit wengd, awnya, ekê",
+      "zazaki": "sanêki gêrawt, dı saati ca şê, kağit akêrd, kağit weŋd, awnya, ekê",
       "source_note": "",
       "russian_print_page": 91,
       "russian_scan_page": 105,
@@ -26163,7 +26163,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "sanêki gêrawt, dı saati ca şê, kağit akêrd, kağit wengd, awnya, ekê"
+          "value": "sanêki gêrawt, dı saati ca şê, kağit akêrd, kağit weŋd, awnya, ekê"
         }
       ],
       "witnesses": [
@@ -26389,7 +26389,7 @@
         {
           "form": "we̱ṅd,",
           "ipa": "wɛŋd",
-          "zazaki": "wengd,",
+          "zazaki": "weŋd,",
           "lemma": "wend",
           "display_gloss": "read",
           "gloss_tr": "okumak",
@@ -26398,7 +26398,7 @@
           "morphemes": [
             {
               "form": "we̱ṅd",
-              "normalized": "wengd",
+              "normalized": "weŋd",
               "lemma": "wend",
               "gloss": "read",
               "pos": "",
@@ -27719,7 +27719,7 @@
       "text": "na, t̮au túeri wáyerei ńekén’u. H̔asanéki kaγít we̱ṅd, é̱ke dé̱wi",
       "lerch": "na, t̮au túeri wáyerei ńekén’u. H̔asanéki kaγít we̱ṅd, é̱ke dé̱wi",
       "ipa": "na t͡ʃaw ˈtweri ˈwajerej ɲeˈken.u ħasaˈneki kaˈʁit wɛŋd ˈɛke ˈdɛwi",
-      "zazaki": "na, çaw twêri wayêrêy nyêkênû. 'Hasanêki kağit wengd, ekê dewi",
+      "zazaki": "na, çaw twêri wayêrêy nyêkênû. 'Hasanêki kağit weŋd, ekê dewi",
       "source_note": "",
       "russian_print_page": 91,
       "russian_scan_page": 105,
@@ -27734,7 +27734,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "na, çaw twêri wayêrêy nyêkênû. 'Hasanêki kağit wengd, ekê dewi"
+          "value": "na, çaw twêri wayêrêy nyêkênû. 'Hasanêki kağit weŋd, ekê dewi"
         }
       ],
       "witnesses": [
@@ -27925,7 +27925,7 @@
         {
           "form": "we̱ṅd,",
           "ipa": "wɛŋd",
-          "zazaki": "wengd,",
+          "zazaki": "weŋd,",
           "lemma": "wend",
           "display_gloss": "read",
           "gloss_tr": "okumak",
@@ -27934,7 +27934,7 @@
           "morphemes": [
             {
               "form": "we̱ṅd",
-              "normalized": "wengd",
+              "normalized": "weŋd",
               "lemma": "wend",
               "gloss": "read",
               "pos": "",
@@ -29221,7 +29221,7 @@
       "text": "dā d̮éniai d́é̱wi. D̮éniai d́éwi kaγít we̱ṅd, ḗ̱ke d́é̱wi té̱de nó̤štu:",
       "lerch": "dā d̮éniai d́é̱wi. D̮éniai d́éwi kaγít we̱ṅd, ḗ̱ke d́é̱wi té̱de nó̤štu:",
       "ipa": "daː ˈd͡ʒenjaj ˈdʲɛwi ˈd͡ʒenjaj ˈdʲewi kaˈʁit wɛŋd ˈɛːke ˈdʲɛwi ˈtɛde ˈnøʃtu",
-      "zazaki": "da cênyay dyewi. Cênyay dyêwi kağit wengd, ekê dyewi tedê noştû:",
+      "zazaki": "da cênyay dyewi. Cênyay dyêwi kağit weŋd, ekê dyewi tedê noştû:",
       "source_note": "",
       "russian_print_page": 91,
       "russian_scan_page": 105,
@@ -29236,7 +29236,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "da cênyay dyewi. Cênyay dyêwi kağit wengd, ekê dyewi tedê noştû:"
+          "value": "da cênyay dyewi. Cênyay dyêwi kağit weŋd, ekê dyewi tedê noştû:"
         }
       ],
       "witnesses": [
@@ -29393,7 +29393,7 @@
         {
           "form": "we̱ṅd,",
           "ipa": "wɛŋd",
-          "zazaki": "wengd,",
+          "zazaki": "weŋd,",
           "lemma": "wend",
           "display_gloss": "read",
           "gloss_tr": "okumak",
@@ -29402,7 +29402,7 @@
           "morphemes": [
             {
               "form": "we̱ṅd",
-              "normalized": "wengd",
+              "normalized": "weŋd",
               "lemma": "wend",
               "gloss": "read",
               "pos": "",
@@ -31857,16 +31857,16 @@
           "ipa": "t͡ʃi",
           "zazaki": "çi",
           "lemma": "ti",
-          "display_gloss": "you",
-          "gloss_tr": "sen",
-          "gloss_de": "du",
+          "display_gloss": "food",
+          "gloss_tr": "yemek",
+          "gloss_de": "Essen",
           "pos": "",
           "morphemes": [
             {
               "form": "t̮i",
               "normalized": "çi",
               "lemma": "ti",
-              "gloss": "you",
+              "gloss": "food",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
@@ -33629,7 +33629,7 @@
       "text": "dā d́é̱wi. D́au nāṅ geraút, χers be, nāṅ ud̮á ruén’a, we̱ríšt šẹ̄",
       "lerch": "dā d́é̱wi. D́au nāṅ geraút, χers be, nāṅ ud̮á ruén’a, we̱ríšt šẹ̄",
       "ipa": "daː ˈdʲɛwi dʲaw naːŋ geˈrawt χers be naːŋ uˈd͡ʒa ˈrwen.a wɛˈriʃt ʃe̝ː",
-      "zazaki": "da dyewi. Dyaw nang gêrawt, xêrs bê, nang ûca rwêna, werişt şê",
+      "zazaki": "da dyewi. Dyaw naŋ gêrawt, xêrs bê, naŋ ûca rwêna, werişt şê",
       "source_note": "",
       "russian_print_page": 92,
       "russian_scan_page": 106,
@@ -33644,7 +33644,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "da dyewi. Dyaw nang gêrawt, xêrs bê, nang ûca rwêna, werişt şê"
+          "value": "da dyewi. Dyaw naŋ gêrawt, xêrs bê, naŋ ûca rwêna, werişt şê"
         }
       ],
       "witnesses": [
@@ -33732,7 +33732,7 @@
         {
           "form": "nāṅ",
           "ipa": "naːŋ",
-          "zazaki": "nang",
+          "zazaki": "naŋ",
           "lemma": "nan",
           "display_gloss": "food",
           "gloss_tr": "yemek",
@@ -33741,7 +33741,7 @@
           "morphemes": [
             {
               "form": "nāṅ",
-              "normalized": "nang",
+              "normalized": "naŋ",
               "lemma": "nan",
               "gloss": "food",
               "pos": "",
@@ -33824,7 +33824,7 @@
         {
           "form": "nāṅ",
           "ipa": "naːŋ",
-          "zazaki": "nang",
+          "zazaki": "naŋ",
           "lemma": "nan",
           "display_gloss": "food",
           "gloss_tr": "yemek",
@@ -33833,7 +33833,7 @@
           "morphemes": [
             {
               "form": "nāṅ",
-              "normalized": "nang",
+              "normalized": "naŋ",
               "lemma": "nan",
               "gloss": "food",
               "pos": "",
@@ -34958,7 +34958,7 @@
       "text": "stā́ṅ, beraí χóe bé̱rdi t̮āršū́, vā ke berarā́ni χóera: χóeri kand̮aúke",
       "lerch": "stā́ṅ, beraí χóe bé̱rdi t̮āršū́, vā ke berarā́ni χóera: χóeri kand̮aúke",
       "ipa": "ˈstaːŋ beˈraj ˈχoe ˈbɛrdi t͡ʃaːrˈʃuː vaː ke beraˈraːni ˈχoera ˈχoeri kanˈd͡ʒawke",
-      "zazaki": "stang, bêray xoê berdi çarşû, va kê bêrarani xoêra: xoêri kancawkê",
+      "zazaki": "staŋ, bêray xoê berdi çarşû, va kê bêrarani xoêra: xoêri kancawkê",
       "source_note": "",
       "russian_print_page": 93,
       "russian_scan_page": 107,
@@ -34973,7 +34973,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "stang, bêray xoê berdi çarşû, va kê bêrarani xoêra: xoêri kancawkê"
+          "value": "staŋ, bêray xoê berdi çarşû, va kê bêrarani xoêra: xoêri kancawkê"
         }
       ],
       "witnesses": [
@@ -34992,7 +34992,7 @@
         {
           "form": "stā́ṅ,",
           "ipa": "ˈstaːŋ",
-          "zazaki": "stang,",
+          "zazaki": "staŋ,",
           "lemma": "stan",
           "display_gloss": "",
           "gloss_tr": "",
@@ -35001,7 +35001,7 @@
           "morphemes": [
             {
               "form": "stā́ṅ",
-              "normalized": "stang",
+              "normalized": "staŋ",
               "lemma": "stan",
               "gloss": "",
               "pos": "",
@@ -38485,16 +38485,16 @@
           "ipa": "t͡ʃe",
           "zazaki": "çê",
           "lemma": "te",
-          "display_gloss": "you",
-          "gloss_tr": "sen",
-          "gloss_de": "du",
+          "display_gloss": "what",
+          "gloss_tr": "ne",
+          "gloss_de": "welche",
           "pos": "",
           "morphemes": [
             {
               "form": "t̮e",
               "normalized": "çê",
               "lemma": "te",
-              "gloss": "you",
+              "gloss": "what",
               "pos": "",
               "features": "",
               "confidence": "unsplit",
@@ -43861,7 +43861,7 @@
       "text": "é̱ru, sé̱rei d́é̱wide zuā́ṅ é̱stu, kā́li kén’u, túera vā́nu yaunaí péro̤",
       "lerch": "é̱ru, sé̱rei d́é̱wide zuā́ṅ é̱stu, kā́li kén’u, túera vā́nu yaunaí péro̤",
       "ipa": "ˈɛru ˈsɛrej ˈdʲɛwide ˈzwaːŋ ˈɛstu ˈkaːli ˈken.u ˈtwera ˈvaːnu jawˈnaj ˈperø",
-      "zazaki": "erû, serêy dyewidê zwang estû, kali kênû, twêra vanû yawnay pêro",
+      "zazaki": "erû, serêy dyewidê zwaŋ estû, kali kênû, twêra vanû yawnay pêro",
       "source_note": "",
       "russian_print_page": 95,
       "russian_scan_page": 109,
@@ -43876,7 +43876,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "erû, serêy dyewidê zwang estû, kali kênû, twêra vanû yawnay pêro"
+          "value": "erû, serêy dyewidê zwaŋ estû, kali kênû, twêra vanû yawnay pêro"
         }
       ],
       "witnesses": [
@@ -43964,7 +43964,7 @@
         {
           "form": "zuā́ṅ",
           "ipa": "ˈzwaːŋ",
-          "zazaki": "zwang",
+          "zazaki": "zwaŋ",
           "lemma": "zuan",
           "display_gloss": "tongue",
           "gloss_tr": "dil",
@@ -43973,7 +43973,7 @@
           "morphemes": [
             {
               "form": "zuā́ṅ",
-              "normalized": "zwang",
+              "normalized": "zwaŋ",
               "lemma": "zuan",
               "gloss": "tongue",
               "pos": "",
@@ -44168,7 +44168,7 @@
       "text": "de, te vā́d̮i ke e̱z hén’ī yaúnai péro̤ ńedā́na: kaúli d̮āṅ mẹ̄́rdāṅ yau.",
       "lerch": "de, te vā́d̮i ke e̱z hén’ī yaúnai péro̤ ńedā́na: kaúli d̮āṅ mẹ̄́rdāṅ yau.",
       "ipa": "de te ˈvaːd͡ʒi ke ɛz ˈhen.iː ˈjawnaj ˈperø ɲeˈdaːna ˈkawli d͡ʒaːŋ ˈme̝ːrdaːŋ jaw",
-      "zazaki": "dê, tê vaci kê ez hêni yawnay pêro nyêdana: kawli cang mêrdang yaw.",
+      "zazaki": "dê, tê vaci kê ez hêni yawnay pêro nyêdana: kawli caŋ mêrdaŋ yaw.",
       "source_note": "",
       "russian_print_page": 95,
       "russian_scan_page": 109,
@@ -44183,7 +44183,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dê, tê vaci kê ez hêni yawnay pêro nyêdana: kawli cang mêrdang yaw."
+          "value": "dê, tê vaci kê ez hêni yawnay pêro nyêdana: kawli caŋ mêrdaŋ yaw."
         }
       ],
       "witnesses": [
@@ -44432,7 +44432,7 @@
         {
           "form": "d̮āṅ",
           "ipa": "d͡ʒaːŋ",
-          "zazaki": "cang",
+          "zazaki": "caŋ",
           "lemma": "dan",
           "display_gloss": "blow",
           "gloss_tr": "darbe",
@@ -44441,7 +44441,7 @@
           "morphemes": [
             {
               "form": "d̮āṅ",
-              "normalized": "cang",
+              "normalized": "caŋ",
               "lemma": "dan",
               "gloss": "blow",
               "pos": "",
@@ -44455,7 +44455,7 @@
         {
           "form": "mẹ̄́rdāṅ",
           "ipa": "ˈme̝ːrdaːŋ",
-          "zazaki": "mêrdang",
+          "zazaki": "mêrdaŋ",
           "lemma": "merdan",
           "display_gloss": "heroes",
           "gloss_tr": "yiğitler",
@@ -44464,7 +44464,7 @@
           "morphemes": [
             {
               "form": "mẹ̄́rdāṅ",
-              "normalized": "mêrdang",
+              "normalized": "mêrdaŋ",
               "lemma": "merdan",
               "gloss": "heroes",
               "pos": "",
@@ -46342,7 +46342,7 @@
       "text": "d́é̱wira: kaúle d̮āṅ mẹ̄́rdāṅ yau, d́au me̱rd, H̔asanék we̱ríšt, lé̱šaí",
       "lerch": "d́é̱wira: kaúle d̮āṅ mẹ̄́rdāṅ yau, d́au me̱rd, H̔asanék we̱ríšt, lé̱šaí",
       "ipa": "ˈdʲɛwira ˈkawle d͡ʒaːŋ ˈme̝ːrdaːŋ jaw dʲaw mɛrd ħasaˈnek wɛˈriʃt ˈlɛˈʃaj",
-      "zazaki": "dyewira: kawlê cang mêrdang yaw, dyaw merd, 'Hasanêk werişt, leşay",
+      "zazaki": "dyewira: kawlê caŋ mêrdaŋ yaw, dyaw merd, 'Hasanêk werişt, leşay",
       "source_note": "",
       "russian_print_page": 95,
       "russian_scan_page": 109,
@@ -46357,7 +46357,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dyewira: kawlê cang mêrdang yaw, dyaw merd, 'Hasanêk werişt, leşay"
+          "value": "dyewira: kawlê caŋ mêrdaŋ yaw, dyaw merd, 'Hasanêk werişt, leşay"
         }
       ],
       "witnesses": [
@@ -46433,7 +46433,7 @@
         {
           "form": "d̮āṅ",
           "ipa": "d͡ʒaːŋ",
-          "zazaki": "cang",
+          "zazaki": "caŋ",
           "lemma": "dan",
           "display_gloss": "blow",
           "gloss_tr": "darbe",
@@ -46442,7 +46442,7 @@
           "morphemes": [
             {
               "form": "d̮āṅ",
-              "normalized": "cang",
+              "normalized": "caŋ",
               "lemma": "dan",
               "gloss": "blow",
               "pos": "",
@@ -46456,7 +46456,7 @@
         {
           "form": "mẹ̄́rdāṅ",
           "ipa": "ˈme̝ːrdaːŋ",
-          "zazaki": "mêrdang",
+          "zazaki": "mêrdaŋ",
           "lemma": "merdan",
           "display_gloss": "heroes",
           "gloss_tr": "yiğitler",
@@ -46465,7 +46465,7 @@
           "morphemes": [
             {
               "form": "mẹ̄́rdāṅ",
-              "normalized": "mêrdang",
+              "normalized": "mêrdaŋ",
               "lemma": "merdan",
               "gloss": "heroes",
               "pos": "",
@@ -46626,7 +46626,7 @@
       "text": "d́é̱wi bé̱r de eíšte zeindā́ṅ, geíra šẹ̄ kei d́é̱wi. Keínai d́é̱wya kí̥d̮i",
       "lerch": "d́é̱wi bé̱r de eíšte zeindā́ṅ, geíra šẹ̄ kei d́é̱wi. Keínai d́é̱wya kí̥d̮i",
       "ipa": "ˈdʲɛwi ˈbɛr de ˈejʃte zejnˈdaːŋ ˈgejra ʃe̝ː kej ˈdʲɛwi ˈkejnaj ˈdʲɛwja ˈkɨd͡ʒi",
-      "zazaki": "dyewi ber dê êyştê zêyndang, gêyra şê kêy dyewi. Kêynay dyewya kıci",
+      "zazaki": "dyewi ber dê êyştê zêyndaŋ, gêyra şê kêy dyewi. Kêynay dyewya kıci",
       "source_note": "",
       "russian_print_page": 95,
       "russian_scan_page": 109,
@@ -46641,7 +46641,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "dyewi ber dê êyştê zêyndang, gêyra şê kêy dyewi. Kêynay dyewya kıci"
+          "value": "dyewi ber dê êyştê zêyndaŋ, gêyra şê kêy dyewi. Kêynay dyewya kıci"
         }
       ],
       "witnesses": [
@@ -46752,7 +46752,7 @@
         {
           "form": "zeindā́ṅ,",
           "ipa": "zejnˈdaːŋ",
-          "zazaki": "zêyndang,",
+          "zazaki": "zêyndaŋ,",
           "lemma": "zeindan",
           "display_gloss": "prison",
           "gloss_tr": "zindan",
@@ -46761,7 +46761,7 @@
           "morphemes": [
             {
               "form": "zeindā́ṅ",
-              "normalized": "zêyndang",
+              "normalized": "zêyndaŋ",
               "lemma": "zeindan",
               "gloss": "prison",
               "pos": "",

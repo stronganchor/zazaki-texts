@@ -3812,7 +3812,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Zingc 'ha myanê sûrotidê."
+          "value": "Ziŋc 'ha myanê sûrotidê."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -3847,12 +3847,12 @@
         {
           "form": "Ziṅd̮",
           "ipa": "ziŋd͡ʒ",
-          "zazaki": "Zingc",
+          "zazaki": "Ziŋc",
           "display_gloss": "nose",
           "morphemes": [
             {
-              "form": "Zingc",
-              "normalized": "Zingc",
+              "form": "Ziŋc",
+              "normalized": "Ziŋc",
               "gloss": "nose",
               "display_gloss": "nose",
               "confidence": "working",
@@ -3940,7 +3940,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Dı lingi ma esti, hêrgû desti madê pangc ingişti esti."
+          "value": "Dı lingi ma esti, hêrgû desti madê paŋc ingişti esti."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -4104,12 +4104,12 @@
         {
           "form": "pāṅd̮",
           "ipa": "paːŋd͡ʒ",
-          "zazaki": "pangc",
+          "zazaki": "paŋc",
           "display_gloss": "five",
           "morphemes": [
             {
-              "form": "pangc",
-              "normalized": "pangc",
+              "form": "paŋc",
+              "normalized": "paŋc",
               "gloss": "five",
               "display_gloss": "five",
               "confidence": "working",
@@ -4309,7 +4309,7 @@
         },
         {
           "label": "ZAZAKI",
-          "value": "Dêndani zwang 'ha fekdê."
+          "value": "Dêndani zwaŋ 'ha fekdê."
         },
         {
           "label": "KURMANJI IN LERCH",
@@ -4360,12 +4360,12 @@
         {
           "form": "zuā́ṅ",
           "ipa": "ˈzwaːŋ",
-          "zazaki": "zwang",
+          "zazaki": "zwaŋ",
           "display_gloss": "tongue",
           "morphemes": [
             {
-              "form": "zwang",
-              "normalized": "zwang",
+              "form": "zwaŋ",
+              "normalized": "zwaŋ",
               "gloss": "tongue",
               "display_gloss": "tongue",
               "confidence": "working",
