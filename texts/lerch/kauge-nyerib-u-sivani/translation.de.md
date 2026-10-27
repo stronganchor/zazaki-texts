@@ -70,13 +70,13 @@ Haider Agha sagte zu Xalef Agha: was sagst du mir? Ich kann nicht mit den Leuten
 
 Xalef Agha sagte: ich begab mich unter deinen Schutz, komme mit mir in’s Haus Avdül ah Agha's, versöhne uns, was du nur begehren magst an Gütern, will ich dir geben.
 
-Haider Agha sass auf, nahm Xalef Agha mit, kam nach Sivän und ging in s Haus des Avdül’ah Agha.
+Haider Agha sass auf, nahm Xalef Agha mit, kam nach Sivän und ging ins Haus des Avdül’ah Agha.
 
 Drei Mal küsste er dem Avdül ah Agha die Füsse (und) sagte: Agha, verschone um meinetwegen den Xalef Agha.
 
-Avdülah Agha antwortete dem H'aidür Agha: wärest du nicht gekommen, hätte ich dem Xalef Agha nicht einen Buben zurückgegeben, ich hätte seine Dörfer niedergebrannt, alle geplündert, (doch) da du gekommen bist, schenke ich dir den Xalef Agha.
+Avdülah Agha antwortete dem H'aider Agha: wärest du nicht gekommen, hätte ich dem Xalef Agha nicht einen Buben zurückgegeben, ich hätte seine Dörfer niedergebrannt, alle geplündert, (doch) da du gekommen bist, schenke ich dir den Xalef Agha.
 
-Haidör Agha küsste den Avdül’ah Agha auf den Kopf, ging (und) brachte den Xalef Agha herein; dieser küsste dem Avdülah Agha die Füsse. Avdülah Agha küsste ihm die Hand, darauf versöhnten sie sich (und) tauschten gegen einander Chalate aus.
+Haider Agha küsste den Avdül’ah Agha auf den Kopf, ging (und) brachte den Xalef Agha herein; dieser küsste dem Avdülah Agha die Füsse. Avdülah Agha küsste ihm die Hand, darauf versöhnten sie sich (und) tauschten gegen einander Chalate aus.
 
 Haider Agha sass auf, verabschiedete sich von Avdül’ah Agha, nahm den Xalef Agha mit (und) zog nach Hause.
 

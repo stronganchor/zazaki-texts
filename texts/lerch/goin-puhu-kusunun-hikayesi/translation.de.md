@@ -10,7 +10,7 @@ Diese Frau war dem Sohne und der Tochter von der ersten Frau feindlich gesinnt.
 
 Die Tochter ging nach den Kühen zu sehen.
 
-eines Tages kam sie des Abends von den Kühen (und) als sie ihren Bruder nicht sah fragte sie ihre Stiefmutter (die Frau ihres Vaters): wo ist mein Bruder?
+Eines Tages kam sie des Abends von den Kühen, und als sie ihren Bruder nicht sah, fragte sie ihre Stiefmutter (die Frau ihres Vaters): „Wo ist mein Bruder?“
 
 Die Frau sagte dem Mädchen: dein Bruder ist zu seinen Oheimen gegangen.
 

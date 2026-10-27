@@ -15,6 +15,12 @@
         "scope": "Source-backed English/Turkish semantic and reader-row alignment corrections.",
         "evidence": "Language/Z/artifacts/lerch-qa-20261027/agent-translation/translation-plan.json",
         "details": "Corrected shifted dialogue and narrative clauses; Three Brothers harvesters are the dev, Qasim and Shaban; Goin reassurance and why-questions follow the German and Russian witnesses."
+      },
+      {
+        "date": "2026-10-27",
+        "scope": "Independent German reader QA against complete primary German prose and reviewed Zazaki context.",
+        "evidence": "Language/Z/artifacts/lerch-german-qa-20261027/narratives/german-plan.json",
+        "details": "Complete narrative German review:137 units across Three Brothers, Miller/Fox and Goin, printed pp.49–58 and80–87. Applied only exact OCR/punctuation corrections; deliberate adaptations and witness holds preserved."
       }
     ]
   },
@@ -8358,7 +8364,7 @@
       "translations": {
         "tr": "Hasanek bir ay aramış ve kardeşi Şaban'ı bir zindanda bulmuş.",
         "en": "Hasanek searched for a month and found his brother Shaban in a prison.",
-        "de": "Hasanek wanderte einen Monat, (bis) er seinen Bruder Sehaban in einem Gefängnisse fand."
+        "de": "Hasanek wanderte einen Monat, (bis) er seinen Bruder Schaban in einem Gefängnisse fand."
       },
       "source_line_ids": [
         "tb01_l01",

@@ -7948,7 +7948,7 @@
       "translations": {
         "tr": "Hasanek bir ay aramış ve kardeşi Şaban'ı bir zindanda bulmuş.",
         "en": "Hasanek searched for a month and found his brother Shaban in a prison.",
-        "de": "Hasanek wanderte einen Monat, (bis) er seinen Bruder Sehaban in einem Gefängnisse fand."
+        "de": "Hasanek wanderte einen Monat, (bis) er seinen Bruder Schaban in einem Gefängnisse fand."
       },
       "source_line_ids": [
         "tb01_l01",
@@ -17883,7 +17883,7 @@
           "lemma": "ya",
           "display_gloss": "she",
           "gloss_tr": "o",
-          "gloss_de": "sie , tide yai , ihre Brust, ihre Brüste, «",
+          "gloss_de": "sie",
           "pos": "",
           "morphemes": [
             {

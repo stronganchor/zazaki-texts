@@ -6,7 +6,7 @@ Ein Mann von Hyeni pflügte sein Land.
 
 Der Mann aus Nerib trat an den Mann aus Hyeni heran und fragte: 'Wer bist du, dass du hier pflügst?'
 
-Der von Hyeni sagte: ich bin ein Knecht des Mül'a Hasein Muyara (und) pflüge hier.
+Der von Hyeni sagte: ich bin ein Knecht des Mel'a Hasein Muyara (und) pflüge hier.
 
 Der von Nerib sagte: Mel'a Hasein Muyara ist mein Feind: zur Zeit meines Grossvaters hat er einen Knecht desselben getödtet, ich will mich heute an dir rächen.
 
@@ -20,7 +20,7 @@ Dieser sprang sogleich auf, ging (und) riss dem Andern die Waffen aus, tödtete 
 
 Xalef Agha sagte zu jenem Manne: der von Hyeni, den du getödtet hast, was ist das für ein Mensch?
 
-Jener sagte dem Xalef Agha: es ist ein Knecht des Mül'a Hasein Muyara.
+Jener sagte dem Xalef Agha: es ist ein Knecht des Mel'a Hasein Muyara.
 
 Xalef Agha sagte: sei auf deiner Hut, du hast einen fremden Menschen getödtet, ein Fremder wird in dein Haus kommen, wird dich tödten.
 

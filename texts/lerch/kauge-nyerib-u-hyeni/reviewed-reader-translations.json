@@ -8,7 +8,20 @@
     "source_sha256": "f5b6a3fc3f6357ed6608c4aab7e35b8c27d7292868b0614a1aa8a176a04df2cc",
     "evidence": "Language/Z/artifacts/autonomous-curation-20260907/lerch/REPORT.md",
     "limitations": "Working reader; disclosed witness disagreements remain held. Frozen historical German prompts/OCR are not rewritten.",
-    "orthography_2026_10_27": "Owner-requested practical orthography: IPA ŋ without following k/g is written ŋ, replacing ng. Exact source anchors and reader source projections synchronized; Lerch transcription, IPA, translations, grouping, and prior source-review status unchanged."
+    "orthography_2026_10_27": "Owner-requested practical orthography: IPA ŋ without following k/g is written ŋ, replacing ng. Exact source anchors and reader source projections synchronized; Lerch transcription, IPA, translations, grouping, and prior source-review status unchanged.",
+    "followup_reviews": [
+      {
+        "date": "2026-10-27",
+        "scope": "Independent complete German-reader QA against printed German pages; only definite OCR name vowels and broken contraction corrected.",
+        "evidence": "Language/Z/artifacts/lerch-german-qa-20261027/feuds/coverage-report.json",
+        "plan_sha256": "8dfc6db75fe583bf545322eb8ff42637efff1f03afc4d8e0308845e511db8c9d",
+        "reader_ids": [
+          "u002_02",
+          "u006_01"
+        ],
+        "preservation": "Historical witness meanings, disclosed divergences, reader/source grouping, Zazaki, IPA, EN/TR and token/morpheme glosses unchanged. Cross-witness alignment proposals remain held."
+      }
+    ]
   },
   "source_lines": [
     {
@@ -543,7 +556,7 @@
       "translations": {
         "tr": "Hyêni'li adam dedi ki: 'Ben Mela Haseynê Mûğara'nın hizmetçisiyim; burada çift sürüyorum.'",
         "en": "The Hyêni man said: 'I am a servant of Mela Haseynê Mûğara; I am plowing here.'",
-        "de": "Der von Hyeni sagte: ich bin ein Knecht des Mül'a Hasein Muyara (und) pflüge hier."
+        "de": "Der von Hyeni sagte: ich bin ein Knecht des Mel'a Hasein Muyara (und) pflüge hier."
       }
     },
     {
@@ -606,7 +619,7 @@
       "translations": {
         "tr": "O adam Xalef Ağa'ya dedi ki: 'Mela Haseynê Mûğara'nın hizmetçisiydi.'",
         "en": "That man said to Xalef Agha: 'He was Mela Haseynê Mûğara's servant.'",
-        "de": "Jener sagte dem Xalef Agha: es ist ein Knecht des Mül'a Hasein Muyara."
+        "de": "Jener sagte dem Xalef Agha: es ist ein Knecht des Mel'a Hasein Muyara."
       }
     },
     {

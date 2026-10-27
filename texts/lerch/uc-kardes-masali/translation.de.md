@@ -118,7 +118,7 @@ Der Kaffeehauswirt sagte: „Gut, mein Sohn!“
 
 Hasanek ließ seinen Bruder dort, kam auf den Markt, suchte umher und fand seinen Bruder Schaban nicht.
 
-Hasanek wanderte einen Monat, (bis) er seinen Bruder Sehaban in einem Gefängnisse fand.
+Hasanek wanderte einen Monat, (bis) er seinen Bruder Schaban in einem Gefängnisse fand.
 
 Er sagte zu seinem Bruder Schaban: „Bruder, wer hat dich hierhergebracht und in dieses Gefängnis gesperrt?“
 
